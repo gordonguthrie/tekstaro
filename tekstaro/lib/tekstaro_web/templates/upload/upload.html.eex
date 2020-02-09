@@ -1,0 +1,27 @@
+<section class="phx-hero">
+  <h1><%= gettext "Tekstaro Corpus Management" %></h1>
+  <p><%= gettext "Upload and prepare text for the corpus" %></p>
+</section>
+
+<section class="row">
+  <article class="column">
+    <form>
+      <label for="upload"><%= gettext "Text" %></label>
+      <textarea id="tekstaro_text" rows="100" cols="80" name="upload" spellcheck="false">
+      </textarea><br>
+      <label for="title"><%= gettext "Title" %></label>
+      <input id="tekstaro_title" type="text" name="title">
+      <label for="url"><%= gettext "Source of text (URL)" %></label>
+      <input id="tekstaro_url" type="text" name="url">
+      <button id="tekstaro_upload" type="button">Upload</button>
+    </form>
+  </article>
+</section>
+<section class="row">
+  <article class="column">
+    Wibble
+  </article>
+  <article class="column">
+    Wobble
+  </article>
+</section>

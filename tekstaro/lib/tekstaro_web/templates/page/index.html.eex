@@ -1,0 +1,21 @@
+<section class="phx-hero">
+  <h1><%= gettext "Welcome to %{name}!", name: "Tekstaro" %></h1>
+  <p><%= gettext "A tool for writers of Esperanto that allows them to explore usage of words and grammer from a large corpus of written Esperanto." %></p>
+  <p><%= gettext "Tekstaro also has simple and intuitive tools to upload new texts and detect duplicate submissions." %></p>
+</section>
+
+<section class="row">
+  <article class="column">
+    <form>
+      <label for="stem_search"><%= gettext "Search" %></label>
+      <input type="text" name="stem_search">
+      <div class="dropdown">
+        <button class="dropbtn">Language</button>
+          <div class="dropdown-content">
+            <a href="/eo"><img src="/images/flags/EO.svg" /><span style="float:right">Esperanto</span></a>
+            <a href="/en"><img src="/images/flags/IE.svg" /><span style="float:right">English</span></a>
+          </div>
+        </div>
+    </form>
+  </article>
+</section>
