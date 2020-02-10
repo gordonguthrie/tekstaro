@@ -44,6 +44,8 @@ defmodule Tekstaro.MixProject do
       {:jason,               "~> 1.0"},
       {:plug_cowboy,         "~> 2.0"},
       {:set_locale,          "~> 0.2.1"},
+      {:comeonin,            "~> 4.0"},
+      {:bcrypt_elixir,       "~> 1.0"},
       {:radikigo,            path: "../../radikigo"}
     ]
   end

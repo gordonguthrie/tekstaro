@@ -39,6 +39,7 @@ defmodule TekstaroWeb do
       # Use all HTML functionality (forms, tags, etc)
       use Phoenix.HTML
 
+      import TekstaroWeb.Helpers.Auth, only: [signed_in?: 1]
       import TekstaroWeb.ErrorHelpers
       import TekstaroWeb.Gettext
       alias TekstaroWeb.Router.Helpers, as: Routes

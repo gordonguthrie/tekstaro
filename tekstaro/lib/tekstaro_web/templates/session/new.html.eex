@@ -1,0 +1,9 @@
+<h1><% gettext("Sign in") %></h1>
+<!-- <%= username = gettext("username") %> -->
+<!-- <%= password = gettext("password") %> -->
+<!-- <%= sign_in = gettext("Sign in") %> -->
+<%= form_for @conn, Routes.session_path(@conn, :new, @locale), [as: :session], fn f-> %>
+  <%= text_input(f, :username, placeholder: username) %>
+  <%= password_input(f, :password, placeholder: password) %>
+  <%= submit(sign_in) %>
+<% end %>

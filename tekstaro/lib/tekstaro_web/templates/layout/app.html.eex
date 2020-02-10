@@ -15,6 +15,15 @@
           <ul>
             <li><a href="https://github.com/gordonguthrie/radikigo"><%= gettext "On Github" %></a></li>
             <li><a href="/upload"><%= gettext "Upload Text" %></a></li>
+            <!-- <%= sign_in  = gettext("Sign in")  %> -->
+            <!-- <%= sign_out = gettext("Sign out") %> -->
+            <!-- <%= sign_up  = gettext("Sign up") %> -->
+            <%= if signed_in?(@conn) do %>
+              <li><%= link sign_in,  to: Routes.session_path(@conn, :new, @locale) %></li>
+            <% else %>
+              <li><%= link sign_out, to: Routes.session_path(@conn, :delete, @locale), method: :delete %></li>
+              <li><%= link sign_up,  to: Routes.user_path(@conn, :new, @locale) %></li>
+            <% end %>
           </ul>
         </nav>
         <a href="/" class="phx-logo">

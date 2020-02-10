@@ -17,8 +17,12 @@ defmodule TekstaroWeb.Router do
   scope "/:locale", TekstaroWeb do
     pipe_through :browser
 
-    get "/",       PageController,   :index
-    get "/upload", UploadController, :index
+    get       "/",              PageController,    :index
+    get       "/upload",        UploadController,  :index
+    resources "/registrations", UserController,    only: [:create, :new]
+    get       "/sign-in",       SessionController, :new
+    post      "/sign-in",       SessionController, :create
+    delete    "/sign-out",      SessionController, :delete
   end
 
   scope "/", TekstaroWeb do
