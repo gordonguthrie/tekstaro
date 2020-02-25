@@ -12,6 +12,7 @@ services:
       PGPASSWORD: postgres
       PGDATABASE: database_name
       PGPORT: 5432
+      DISPLAY: host.docker.internal:0
       # Hostname of our Postgres container
       PGHOST: db
     ports:
@@ -24,6 +25,10 @@ services:
       - type: bind
         source: ../radikigo
         target: /radikigo
+        # for xwindows
+      - type: bind
+        source: /tmp/.X11-unix
+        target: /tmp/.X11-unix 
     depends_on:
       # The db container needs to be started before we start this container
       - db

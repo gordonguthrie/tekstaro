@@ -11,9 +11,9 @@ defmodule Tekstaro.Application do
       # Start the Ecto repository
       Tekstaro.Repo,
       # Start the endpoint when the application starts
-      TekstaroWeb.Endpoint
-      # Starts a worker by calling: Tekstaro.Worker.start_link(arg)
-      # {Tekstaro.Worker, arg},
+      TekstaroWeb.Endpoint,
+      # starts the dynamic superisor for the text Gen Servers
+      Tekstaro.DynamicTextSupervisor
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
