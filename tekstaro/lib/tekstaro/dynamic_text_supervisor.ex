@@ -17,4 +17,6 @@ defmodule Tekstaro.DynamicTextSupervisor do
     opts = [strategy: :one_for_one, name: __MODULE__] 
     Supervisor.init(children, opts)
   end
+
+
 end

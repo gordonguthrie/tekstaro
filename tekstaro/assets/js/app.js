@@ -15,7 +15,7 @@ import "phoenix_html"
 // Import local files
 //
 // Local files can be imported directly using relative paths, for example:
-// import socket from "./socket"
+import {socket, join} from "./socket"
 
 $("#tekstaro_upload").click(function(e) {
   var text = $("#tekstaro_text").val();
@@ -27,9 +27,8 @@ $("#tekstaro_upload").click(function(e) {
       type: 'POST',  // http method
       data: payload,
       success: function (data, status, xhr) {
-        console.log("success");
-        console.log(data);
-        console.log(status);
+        var hash = data["channel"]
+        join(hash)
       },
       error: function (data, status, xhr) {console.log("error");}
 });

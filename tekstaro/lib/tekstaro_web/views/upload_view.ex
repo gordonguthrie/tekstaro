@@ -1,9 +1,9 @@
 defmodule TekstaroWeb.UploadView do
   use TekstaroWeb, :view
 
-  def render("upload.json", _params) do
+  def render("upload.json", %{channel: channel}) do
       %{
-        banjo: :bangette
+        channel: channel
       }
   end
 

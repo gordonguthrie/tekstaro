@@ -3,6 +3,8 @@ defmodule TekstaroWeb.UserSocket do
 
   ## Channels
   # channel "room:*", TekstaroWeb.RoomChannel
+  channel "text:*",  TekstaroWeb.TextChannel
+ 
 
   # Socket params are passed from the client and can
   # be used to verify and authenticate a user. After
