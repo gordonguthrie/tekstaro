@@ -1,20 +1,21 @@
 defmodule Tekstaro.Text.Text do
-	
+
  use GenServer
  alias Tekstaro.Text.Text, as: State
 
  @registry :text_registry
 
  defstruct [
-            name:         "",
-            hash:         "",
-            url:          "",
-            title:        "",
-            text:         "",
-            status:       "",
-            fingerprint:  "",
-            paragraphs:   "",
-            last_touched: ""
+            name:            "",
+            hash:            "",
+            url:             "",
+            title:           "",
+            text:            "",
+            status:          "",
+            fingerprint:     "",
+            raw_paragraphs:  "",
+						paragraphs:      "",
+            last_touched:    ""
            ]
 
   #
@@ -43,35 +44,40 @@ defmodule Tekstaro.Text.Text do
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: "loaded"})
     :ok = GenServer.cast(via(name), :split_text)
     {:noreply,  %{state | hash:         hash,
-                          url:          url, 
-                          title:        title, 
+                          url:          url,
+                          title:        title,
                           text:         text,
-                          status:       "loaded", 
+                          status:       "loaded",
                           last_touched: now()}}
   end
   def handle_cast(:split_text, %State{name: name, text: text} = state) do
-    paragraphs = Precipa.dividu_teksto(text)
+    paragraphs = Procezo.estigu_paragrafoj(text)
     length = length(paragraphs)
     msg = "split text up" <> Integer.to_string(length)
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
     :ok = GenServer.cast(via(name), :process_paragraph)
-    {:noreply,  %{state | paragraphs:   paragraphs,
-                          status:       "split", 
-                          last_touched: now()}}
+    {:noreply,  %{state | raw_paragraphs: paragraphs,
+                          status:         "split",
+                          last_touched:   now()}}
   end
-  def handle_cast(:process_paragraph, %State{paragraph: []} = state) do
+  def handle_cast(:process_paragraph, %State{name: name, paragraphs: ps, raw_paragraphs: []} = state) do
+		# we don't reverse the paragraph list because the raw paragraphs came to us already reversed
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: "processed all the paragraphs"})
     :ok = GenServer.cast(via(name), :ready_to_save)
-    {:noreply,  %{state | status:       "ready to save", 
+		IO.inspect(ps, label: "processed paragraphs")
+    {:noreply,  %{state | status:       "ready to save",
                           last_touched: now()}}
   end
-  def handle_cast(:process_paragraph, %State{paragraphs: [h | t]} = state) do
-    paragraphs = Precipa.dividu_teksto(text)
+  def handle_cast(:process_paragraph, %State{name:           name,
+																						 paragraphs:     ps,
+																					   raw_paragraphs: [h | t]} = state) do
+		p = GenServer.call(Tekstaro.Text.Vortoj, {:process, h})
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: "split text up"})
     :ok = GenServer.cast(via(name), :process_paragraph)
-    {:noreply,  %{state | paragraphs:   t,
-                          status:       "split", 
-                          last_touched: now()}}
+    {:noreply,  %{state | paragraphs:       [p | ps],
+													raw_paragraphs:   t,
+                          status:           "split",
+                          last_touched:     now()}}
   end
   def handle_cast(something, state) do
     IO.inspect(something, label: "not handling")
