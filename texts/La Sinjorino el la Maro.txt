@@ -1,0 +1,6384 @@
+﻿The Project Gutenberg EBook of La Sinjorino el la Maro, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: La Sinjorino el la Maro
+
+Author: Henrik Ibsen
+
+Translator: Odd Tangerud
+
+Release Date: September 5, 2006 [EBook #19182]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA SINJORINO EL LA MARO ***
+
+
+
+
+Produced by William Walter Patterson and Andrew Sly
+
+
+
+
+
+Henrik Ibsen
+
+LA SINJORINO EL LA MARO
+
+Teatraĵo en kvin aktoj
+
+(Fruen fra havet)
+
+1888
+
+Tradukis:
+Odd Tangerud
+
+Eldonejo: Jec Scandinavia a/s
+Postboks 28, N -- 3401 Lier
+Tlf. 32 85 50 03. Fax. 32 85 50 82
+ISBN 82-91707-50-2
+
+
+
+LA SINJORINO EL LA MARO
+
+ROLOJ:
+
+  DOKTORO WANGEL, distrikta kuracisto.
+  SINJORINO ELLIDA WANGEL, lia dua edzino.
+  Liaj filinoj el la unua geedzeco:
+    BOLETTE.
+    HILDE, nur duone plenkreska.
+  LEKTORO ARNHOLM.
+  LYNGSTRAND, antaŭa maristo, malsana. Li esperas fariĝi skulptisto.
+  BALLESTED, pedelo, ĉiofaranto, amatora pentristo
+  FREMDA VIRO.
+  JUNAJ HOMOJ EL LA URBO.
+  TURISTOJ.
+  SOMERGASTOJ.
+
+
+(La intrigo okazas somere en malgranda urbo ĉe fjordo en
+norda Norvegio.)
+
+
+
+
+UNUA AKTO
+
+
+(La domo de _doktoro Wangel_. Tegmentita verando maldekstre. Ĝardeno
+antaŭe kaj ĉirkaŭe. Malsupre de la verando estas flagstango.
+Dekstre en la ĝardeno estas laŭbo kun tablo kaj seĝoj. Heĝa
+barilo kun malgranda enireja pordo en la fono. Malantaŭ la barilo
+estas vojo al la marbordo. Aleo laŭ la vojo. Inter la arboj vidiĝas
+la fjordo kaj altaj montodorsoj kaj montopintoj en la malproksimejo.
+Estas varma kaj brile klara somermateno.)
+
+(_Ballested_, mezaĝa, vestita en malnova velurjako kaj kun
+larĝrandaĵa artistĉapelo, staras apud la flagstango ordigante la
+ŝnuron. La flago kuŝas sur la tero. Iom fore de li staras
+pentrostablo kun streĉita tolo. Flanke de ĝi kuŝas faldebla seĝo,
+penikoj, paletro kaj pentrista kesteto.)
+
+(_Bolette Wangel_ venas sur la verandon tra la malfermita
+ĝardenĉambra pordo. Ŝi portas grandan vazon kun floroj, kiun ŝi
+metas sur la tablon.)
+
+BOLETTE
+Nu, Ballested, -- ĉu vi sukcesas ĝin suprentiri?
+
+BALLESTED
+Jes ja, fraŭlino. Estas simpla afero. -- Pardonu, -- ĉu vi atendas
+fremdulojn vizite hodiaŭ?
+
+BOLETTE
+Jes, ni atendas ĉefinstruiston Arnholm ĉi tien antaŭtagmeze. Li
+venis al la urbo ĉi-nokte.
+
+BALLESTED
+Arnholm? Atendu iomete --. Ĉu li ne nomiĝis Arnholm, tiu guvernisto
+ĉi tie antaŭ kelkaj jaroj?
+
+BOLETTE
+Jes. Ĝuste li.
+
+BALLESTED
+Jen, jen. Li do revenos ĉi tien denove.
+
+BOLETTE
+Ĝuste tial ni deziras flagi.
+
+BALLESTED
+Jes, estas ja vere konvene.
+
+(_Bolette_ iras en la ĝardenan ĉambron.)
+
+(Iom poste _Lyngstrand_ venas laŭ la vojo dekstre, kaj haltas
+interesate vidante la stablon kaj la pentristajn aĵojn. Li estas
+maldika, juna viro, simple vestita sed bonorde; kaj li aspektas
+malforte.)
+
+LYNGSTRAND
+(de ekstere de la heĝo) Bonan matenon.
+
+BALLESTED
+(turnas sin) Ho --! Bonan matenon. (Suprenlevas la flagon.)
+Jen, jen, -- Nun leviĝas la balono. (Fiksas la ŝnuron, kaj iom
+ordigas ĉe la stablo.) Bonan matenon, estimato. Mi tamen ne havas
+la plezuron --
+
+LYNGSTRAND
+Aspekte vi estas pentristo, vi.
+
+BALLESTED
+Kompreneble. Ĉu mi ne ankaŭ estus pentristo?
+
+LYNGSTRAND
+Jes, mi vidas. -- Ĉu vi permesas, ke mi eniru?
+
+BALLESTED
+Vi eble volas rigardi?
+
+LYNGSTRAND
+Jes, mi ege volus.
+
+BALLESTED
+Ho, ankoraŭ ne estas io konsiderinda por rigardi. Sed bonvolu.
+Proksimiĝu.
+
+LYNGSTRAND
+Dankon, dankon. (Li proksimiĝas tra la kradpordo.)
+
+BALLESTED
+(pentras) Jen la fjordo inter la insuloj, pri kiuj mi nun laboras.
+
+LYNGSTRAND
+Mi ja vidas.
+
+BALLESTED
+Sed mankas ankoraŭ la figuro. En la ĉi-tiea urbo neeblas trovi
+modelon.
+
+LYNGSTRAND
+Ĉu estu ankaŭ figuro?
+
+BALLESTED
+Jes. Ĉe tiu rifo en la antaŭo kuŝu duone morta marvirino.
+
+LYNGSTRAND
+Kial ŝi estu duone morta?
+
+BALLESTED
+Ŝi erare naĝis el la maro, kaj ne povas retrovi la vojon elen. Kaj
+nun ŝi kuŝas tie, kaj pereas en la sensala akvo, vi komprenas.
+
+LYNGSTRAND
+Nu, tiel.
+
+BALLESTED
+Estas la sinjorino en ĉi tiu domo, kiu donis al mi la ideon tion
+pentri.
+
+LYNGSTRAND
+Kion vi fine nomu la bildon?
+
+BALLESTED
+Mi intencas nomi ĝin "La fino de la marvirino".
+
+LYNGSTRAND
+Konvenas bone. -- Vi certe faros ion bonan el tio.
+
+BALLESTED
+(rigardas lin) Fakulo eble?
+
+LYNGSTRAND
+Pentristo, vi sugestas?
+
+BALLESTED
+Jes.
+
+LYNGSTRAND
+Ne, mi ne estas. Sed mi fariĝos skulptisto. Mi nomiĝas Hans
+Lyngstrand.
+
+BALLESTED
+Nu, vi estas skulptisto? Jes ja, la arto skulpti ankaŭ estas bela
+arto. -- Mi opinias, ke mi foje vidis vin sur la strato. Ĉu vi
+estas longe loĝinta ĉi tie?
+
+LYNGSTRAND
+Ne, nur du semajnojn. Sed mi provos trovi eblecon restadi la tutan
+someron.
+
+BALLESTED
+Ĝui la agrablan naĝejan vivon? Ĉu?
+
+LYNGSTRAND
+Jes. Mi provos regajni miajn fortojn.
+
+BALLESTED
+Ĉu malsana?
+
+LYNGSTRAND
+Jes, mi iom malsanetas. Sed ne estas danĝere. Estas nur ioma
+anheleco en la brusto.
+
+BALLESTED
+Ba! -- bagatelaĵo! Tamen vi devus viziti iun spertan kuraciston.
+
+LYNGSTRAND
+Mi intencis foje demandi al doktoro Wangel.
+
+BALLESTED
+Jes, faru. (rigardas maldekstren) Jen denove venas vaporŝipo.
+Plenŝtopita de pasaĝeroj surborde. Estas ja mirinda kresko en la
+feriado la lastajn jarojn.
+
+LYNGSTRAND
+Jes, vere estas vigla trafiko, mi opinias.
+
+BALLESTED
+Venas ankaŭ amaso da somergastoj. Mi ofte timas, ke nia bela urbo
+perdu sian karakteron pro tiu fremdaĵo.
+
+LYNGSTRAND
+Ĉu vi naskiĝis en la urbo?
+
+BALLESTED
+Ne, tio ne. Sed mi akla -- aklimatigis min. Mi sentas min ligita al
+la loko per la ligoj de tempo kaj kutimo.
+
+LYNGSTRAND
+Vi do loĝas ĉi tie longe?
+
+BALLESTED
+Nu, dek sep . ..dek ok jarojn. Mi venis kun la teatra grupo de Skive.
+Sed jen ni akiris financajn malfacilaĵojn. La grupo dissolviĝis,
+kaj disiris ĉiuj laŭ la vento.
+
+LYNGSTRAND
+Sed vi mem do restis?
+
+BALLESTED
+Mi restis. Kaj pri tio mi profitis. Tiam mi ĉefe laboris en la
+dekoracia fako, vi sciu.
+
+(_Bolette_ elvenas kun balancseĝo, kiun ŝi metas sur la verandon.)
+
+BOLETTE
+(parolas en la direkto de la ĝardena ĉambro) Hilde, -- vidu ĉu vi
+povas trovi la broditan piedbenketon de patro.
+
+LYNGSTRAND
+(proksimiĝas al la verando kaj salutas) Bonan matenon, fraŭlino
+Wangel!
+
+BOLETTE
+(ĉe la relo) Ho ĉu, estas vi sinjoro Lyngstrand? Bonan matenon.
+Pardonu momenton, -- mi nur -- (eniras en la domon)
+
+BALLESTED
+Vi do konas la familion?
+
+LYNGSTRAND
+Ne sufiĉe. Mi nur renkontis la fraŭlinojn ie kaj ie ĉe aliuloj.
+Mi iomete parolis kun la sinjorino dum la lasta muzikado en la
+"La Videjo". Ŝi diris, ke bonvole mi povus viziti ilin.
+
+BALLESTED
+Ho ja, -- vi devus kultivi tiun konatecon.
+
+LYNGSTRAND
+Jes, mi ja intencas fari viziton. Viziteton. Se mi nun trovus
+okazon --
+
+BALLESTED
+Ho, ĉu -- okazon -- (rigardas maldekstren) Morto kaj plago!
+(kolektas siajn aĵojn) La vaporŝipo ja estas ĉe la kajo. Mi
+devas rapidi al la hotelo. Eble kelkaj el la novalvenantaj bezonas
+min. Mi ja ankaŭ praktikas kiel razisto kaj frizisto, vi sciu.
+
+LYNGSTRAND
+Aspekte vi estas tre multflanka.
+
+BALLESTED
+Oni devas scii ak -- aklimatizi sin en diversaj fakoj en la urbetoj.
+Se vi foje bezonus ion pri hararo, -- iom da pomado aŭ tiospecan, vi
+nur demandu pri dancinstruisto Ballested.
+
+LYNGSTRAND
+Dancinstruisto --?
+
+BALLESTED
+Estro de la "Kornasocio", se vi bonvolas. Hodiaŭ ni koncertos supre
+en "La Videjo". Adiaŭ, -- adiaŭ! (Li foriras kun siaj pentraĵoj
+tra la barilpordo kaj daŭrigas dekstren.)
+
+(_Hilde_ elvenas kun la piedbenketo. _Bolette_ alportas pliajn
+florojn. _Lyngstrand_ salutas al _Hilde_, de sia staro en la
+ĝardeno.)
+
+HILDE
+(ĉe la relo, ne reen salutante) Bolette diris, ke hodiaŭ vi
+kuraĝis enen veni.
+
+LYNGSTRAND
+Jes, mi permesis al mi eniri.
+
+HILDE
+Vi faris vian matenan promenadon, ĉu?
+
+LYNGSTRAND
+Ho ne, -- ne longan promenadon hodiaŭ.
+
+HILDE
+Ĉu vi naĝis?
+
+LYNGSTRAND
+Jes, mi banis min tempeton. Mi vidis vian patrinon. Ŝi eniris sian
+bandometon.
+
+HILDE
+Kiu faris?
+
+LYNGSTRAND
+Via patrino.
+
+HILDE
+Nu tiel, nu. (Ŝi metas la benketon antaŭ la balancseĝon.)
+
+BOLETTE
+(kvazaŭ interrompante) Ĉu vi ne vidis la boaton de patro tie sur
+la fjordo?
+
+LYNGSTRAND
+Jes, ŝajnis al mi, ke velboato stiriĝis ĉi-direkten.
+
+BOLETTE
+Certe estas patro. Li vizitis malsanulojn sur la insuloj.
+(Ŝi ordigas ion sur la tablo.)
+
+LYNGSTRAND
+(staras sur la unua ŝtupo de la ŝtuparo de la verando) Ho, kiel
+per floroj beligite --!
+
+BOLETTE
+Jes, ĉu ne estas bele?
+
+LYNGSTRAND
+Ho, vere delikate. Aspektas kvazaŭ estas solenaĵo en la domo.
+
+HILDE
+Jes, tamen estas.
+
+LYNGSTRAND
+Mi komprenis. Estas la datreveno de via patro, ĉu?
+
+BOLETTE
+(averte al _Hilde_) Hm -- hm!
+
+HILDE
+(senatente) Ne, tiu de patrino.
+
+LYNGSTRAND
+Nu tiel, -- Estas tiu de via patrino.
+
+BOLETTE
+(mallaŭte, kolere) Ĉu do, Hilde --!
+
+HILDE
+(same) Lasu min! (al _Lyngstrand_) Vi iros hejmen nun por
+matenmanĝi, ĉu?
+
+LYNGSTRAND
+(malsupreniras) Jes, mi devus meti ion en la stomakon.
+
+HILDE
+Vi certe trovas la regalon bona tie en la hotelo?
+
+LYNGSTRAND
+Mi ne plu loĝas en la hotelo. Estas tro multekoste por mi.
+
+HILDE
+Kie vi do nun loĝas?
+
+LYNGSTRAND
+Nun mi loĝas ĉe sinjorino Jensen.
+
+HILDE
+Kiu sinjorino Jensen?
+
+LYNGSTRAND
+La akuŝistino.
+
+HILDE
+Pardonu, sinjoro Lyngstrand, sed efektive mi havas aliajn
+farendaĵojn nun ol --
+
+LYNGSTRAND
+Ho, mi ja ne devus tiel paroli.
+
+HILDE
+Kion do?
+
+LYNGSTRAND
+Tion, kion mi diris.
+
+HILDE
+(rigardas lin mezure; neindulge) Mi ne komprenas vin.
+
+LYNGSTRAND
+Ne, ne. Sed mi do diru adiaŭ al la fraŭlinoj ĝis venonte.
+
+BOLETTE
+(venas sur la ŝtuparon) Adiaŭ, adiaŭ, sinjoro Lyngstrand. Vi vere
+devas pardoni nin hodiaŭ --. Sed iam poste, -- kiam vi havas bonan
+tempon -- kaj kiam vi havas la emon, -- vi absolute faru viziton por
+vidi patron kaj -- kaj ankaŭ nin aliajn.
+
+LYNGSTRAND
+Jes, multan dankon. Mi vere deziras fari tion.
+
+(Li salutas kaj eliras tra la kradpordo. Preterpasante sur la vojo
+ekstere maldekstre, li salutas ankoraŭ unu fojon al la verando.)
+
+HILDE
+(duonlaŭte) Adiaŭ, sinjoro! Bonvolu saluti sinjorinon Jensen de
+mi.
+
+BOLETTE
+(mallaŭte, tiras ŝian brakon) Hilde --! Petolaĉa infano! Ĉu vi
+tute freneziĝas! Li povus ja aŭdi vin!
+
+HILDE
+Pa, -- ĉu vi opinias, ke mi atentas pri _tio_.
+
+BOLETTE
+(rigardas dekstren) Jen venas patro.
+
+(_Doktoro Wangel_, en vojaĝkostumo kaj kun valizo en la mano, venas
+laŭ la vojeto de dekstre.)
+
+WANGEL
+Jen mi revenas, knabinetoj!
+
+(Li eniras tra la barilpordo.)
+
+BOLETTE
+(iras al li renkonte malsupre en la ĝardeno) Ho, bone ke vi venas.
+
+HILDE
+(Ankaŭ ŝi iras al li.) Ĉu vi ĉion finis por hodiaŭ, paĉjo?
+
+WANGEL
+Ho ne, poste mi devos iomete labori en la oficejo. -- Diru, -- ĉu
+Arnholm venis?
+
+BOLETTE
+Jes, li venis ĉi-nokte. Ni informiĝis en la hotelo.
+
+WANGEL
+Do vi lin ankoraŭ ne vidis?
+
+BOLETTE
+Ne. Sed li certe vizitos nin antaŭtagmeze.
+
+WANGEL
+Jes, li certe faros.
+
+HILDE
+(tiras lin) Paĉjo, rigardu do.
+
+WANGEL
+(rigardas al la verando) Jes, mi ja vidas, infano. -- Estas ja vere
+pompe.
+
+BOLETTE
+Jes, ni bele ornamis, ĉu ne?
+
+WANGEL
+Jes, vere, vere. -- Ĉu -- ĉu ni estas solaj en la domo nun?
+
+HILDE
+Jes, ŝi eliris --
+
+BOLETTE
+(interrompas) Patrino naĝas.
+
+WANGEL
+(Rigardas amike al _Bolette_ kaj frapetas ŝian kapon. Poste li diras
+iom hezite:) Aŭskultu nun, knabinetoj, -- ĉu vi volas lasi ĉion
+ĉi stari tiel la tutan tagon? Kaj ankaŭ la flagon supre la tutan
+tagon?
+
+HILDE
+Ho, tion vi do povas imagi, paĉjo!
+
+WANGEL
+Hm, -- nu ja. Sed vi do --
+
+BOLETTE
+(okulumas kaj kapsignas al li) Vi ja komprenas, ke ni ĉion faris
+por lernejestro Arnholm. Kiam tia bona amiko la unuan fojon venas por
+viziti vin --
+
+HILDE
+(ridetas kaj tiretas lin) Pensu, -- li ja estis la instruisto de
+Bolette, patro!
+
+WANGEL
+(kun duonrido) Vi du estas vere paro da petoluloj -- Nu, nu, --
+estas ja funde tute nature, ke vi memoras ŝin, kiu ne plu estas
+inter ni. Sed tamen. Jen, Hilde. (donas al ŝi la valizon) Portu
+ĝin en la oficejon. -- Nu, knabinetoj, -- mi tion ne ŝatas. Ne la
+manieron, vi komprenas. Ke ni tiel ĉiun jaron -- Nu, -- kion diri!
+Eble ne povas fariĝi alimaniere.
+
+HILDE
+(volas iri tra la ĝardeno maldekstren, sed haltas, turnas sin kaj
+montras) Vidu la sinjoron, kiu tie venas. Certe estas la
+lernejestro.
+
+BOLETTE
+(rigardas tien) _Tiu_? (ridas) Ho ne! Ĉu vi opinias, ke tiu
+aĝulo estas Arnholm!
+
+WANGEL
+Nu, atendu, infano. Jes, efektive estas li! -- Jes, certe tiel estas!
+
+BOLETTE
+(tien fiksrigardas; mallaŭte, surprizite) Jes, je Dio, ĉu ne
+ankaŭ mi opinias --!
+
+(Lernejestro _Arnholm_, en eleganta antaŭtagmeza kostumo, kun oraj
+okulvitroj kaj maldika bastono venas ekstere sur la vojo de
+maldekstre. Li aspektas iom streĉe, rigardas en la ĝardenon,
+salutas amikece kaj eniras tra la barilpordo.)
+
+WANGEL
+(iras al li renkonte) Bonvenon, kara lernejestro! Koran bonvenon
+reen al la antaŭa loko!
+
+ARNHOLM
+Dankon, dankon, doktoro Wangel. Milfojan dankon al vi.
+
+(Ili vigle mansalutas kaj kune iras tra la ĝardeno.)
+
+ARNHOLM
+Kaj jen la infanoj! (mansalutas al ili kaj rigardas ilin) Tiuj du
+mi malfacile rekonus.
+
+WANGEL
+Certe ne, mi opinias.
+
+ARNHOLM
+Nu, jes, eble tamen Bolette. -- Jes, Bolette mi estus rekonanta.
+
+WANGEL
+Apenaŭ, mi opinias. Pasis ja nun ok . ..naŭ jaroj de kiam vi vidis
+ŝin lastfoje. Nu, ĉi tie okazis ja multaj ŝanĝoj dum tiu tempo.
+
+ARNHOLM
+(ĉirkaŭrigardas) Ŝajnas al mi ke ne. Escepte ke la arboj kreskis
+konsiderinde -- kaj estas konstruita _jena_ laŭbo --
+
+WANGEL
+Nu ja, tiel ekstere --
+
+ARNHOLM
+(ridetas) Kaj kompreneble ke vi nun havas du grandajn fianĉpretajn
+filinojn en la domo.
+
+WANGEL
+Ho, fianĉpreta estas ja nur la unua.
+
+HILDE
+(duonlaŭte) Aŭskultu do patron!
+
+WANGEL
+Sed nun mi proponas, ke ni eksidu sur la verando. Tie estas pli
+malvarmete ol ĉi tie. Bonvolu.
+
+ARNHOLM
+Dankon, dankon, kara doktoro.
+
+(Ili supreniras. _Wangel_ proponas por _Arnholm_ lokon en la
+balancseĝo.)
+
+WANGEL
+Jen, jen. Vi nun sidu trankvile por ripozi. Ĉar vi aspektas iom
+streĉe post la vojaĝo.
+
+ARNHOLM
+Ho, ne gravas. En ĉi tiu ĉirkaŭaĵo --
+
+BOLETTE
+(al _Wangel_) Ĉu ni alportu sodakvon kaj sukon en la
+ĝardenĉambron? Ĉi tie baldaŭ fariĝos tro varme.
+
+WANGEL
+Bone, knabinetoj, faru! Alportu sodakvon kaj sukon. Kaj eble
+konjakon.
+
+BOLETTE
+Ĉu ankaŭ konjakon?
+
+WANGEL
+Nur iometon. Se iu dezirus.
+
+BOLETTE
+Nu ja, do. Hilde, malsupreniru al la oficejo kun la valizo.
+
+(_Bolette_ iras en la ĝardenĉambron fermante la pordon post si.
+_Hilde_ prenas la valizon kaj iras maldekstren tra la ĝardeno
+malantaŭ la domo.)
+
+ARNHOLM
+(kiu postrigardis _Bolette_ per la okuloj) Estas vere iu belega --.
+Estas du belegaj knabinoj, kiuj jen kreskis por vi.
+
+WANGEL
+(eksidas) Jes, vi trovas.
+
+ARNHOLM
+Jes, estas eĉ surprize pri Bolette. Ja ankaŭ pri Hilde. -- Sed nun
+pri vi mem, kara doktoro. Ĉu vi intencas loĝi ĉi tie vian tutan
+vivdaŭron?
+
+WANGEL
+Ho jes, estos tiel. Ĉi tie mi naskiĝis kaj brediĝis, kiel oni
+diras. Ĉi tie mi vivis feliĉe kun ŝi, kiu forpasis de ni tiel
+frue. Ŝi kiun vi konis, kiam vi lastfoje vizitis nin, Arnholm.
+
+ARNHOLM
+Jes -- jes.
+
+WANGEL
+Kaj nun mi vivas ĉi tie feliĉa kun ŝi, kiun mi ricevis anstataŭe.
+Mi devas diri, ke entute la sorto estis bona al mi.
+
+ARNHOLM
+Sed neniun infanon en via dua geedziĝo?
+
+WANGEL
+Ni ricevis knabeton antaŭ du -- du kaj duona jaro. Sed ni ne havis
+lin longe. Li mortis je la aĝo de kvar . ..kvin monatoj.
+
+ARNHOLM
+Via edzino, ŝi ne estas hejme hodiaŭ?
+
+WANGEL
+Jes, ŝi certe baldaŭ venos. Ŝi malsupreniris por preni banon. Ŝi
+naĝas ĉiun tagon je ĉi tiu tempo. En kiu ajna vetero.
+
+ARNHOLM
+Ĉu pro iu malsano?
+
+WANGEL
+Ne vere malsano. Sed ŝi estas strange nervoza la lastajn jarojn.
+Kompreneble, nur foje. Mi vere ne kapablas kompreni kio estas al ŝi.
+Sed bani sin en la maro estas kvazaŭ ŝia kora ĝojo, komprenu.
+
+ARNHOLM
+Tion mi memoras de pasinte.
+
+WANGEL
+(kun preskaŭ nerimarkebla rideto) Vi ja konas Ellida de la tempo,
+kiam vi estis instruisto en Skjoldvik.
+
+ARNHOLM
+Kompreneble. Ŝi ofte vizitis la pastran domon. Kaj mi ankaŭ ofte
+renkontis ŝin, kiam mi vizitis ŝian patron en la lumturo.
+
+WANGEL
+Kredu, tiu tempo profunde stampis ŝin. La urbanoj ne povas tion
+kompreni. Ili nomas ŝin "La sinjorino el la maro".
+
+ARNHOLM
+Ĉu?
+
+WANGEL
+Jes. Kaj tial --. Parolu vi kun ŝi pri pasintaj tagoj, kara Arnholm.
+Estus vere bone por ŝi.
+
+ARNHOLM
+(rigardas lin dubeme) Ĉu vi havas veran kialon por tion opinii?
+
+WANGEL
+Certe jes.
+
+VOĈO DE ELLIDA
+(aŭdata ekstere en la ĝardeno dekstre) Ĉu estas vi, Wangel!
+
+WANGEL
+(ekstaras) Jes, kara.
+
+(_Sinjorino Ellida Wangel_, kun granda ŝalo ĉirkaŭ si kaj kun
+malseka hararo disfalanta sur la ŝultroj, venas el inter la arboj
+ĉe la laŭbo. _Lernejestro Arnholm_ ekstaras.)
+
+WANGEL
+(ridetas kaj etendas la manojn al ŝi) Nu, jen la sinjorino el la
+maro!
+
+ELLIDA
+(malrapide supreniras sur la verandon kaj kaptas liajn manojn) Dank'
+al Dio, ke mi revidas vin! Kiam vi venis?
+
+WANGEL
+Ĵus nun. Antaŭ momento. (montras al _Arnholm_) Sed vi do salutu
+pasintan konaton --!
+
+ELLIDA
+(donas la manon al _Arnholm_) Jen vi do estas. Bonvenon! Kaj pardonu
+ke mi ne estis hejme.
+
+ARNHOLM
+Ho, mi petas. Vi do ne pensu pri ceremoniaĵoj.
+
+WANGEL
+La akvo estas freŝa hodiaŭ, ĉu?
+
+ELLIDA
+Freŝa! Je Dio, ĉi tie la akvo neniam estas freŝa. Malvarmeta kaj
+malvigliga. Uŝ, la akvo estas malsana ĉi tie en la fjordoj.
+
+ARNHOLM
+Malsana?
+
+ELLIDA
+Jes, malsana. Kaj mi opinias, ke ĝi malsanigas ankaŭ nin.
+
+WANGEL
+(ridetas) Nu, vi ja rekomendas la banejon.
+
+ARNHOLM
+Mi kredus, ke vi, sinjorino Wangel, havus apartan rilaton al la maro
+mem kaj al ĉio kio apartenas al ĝi.
+
+ELLIDA
+Ho jes, eble. Eĉ mi mem ja kredas. -- Sed ĉu vi vidas kiel bele la
+knabinetoj ornamis por vi?
+
+WANGEL
+(embarasata) Hm --. (rigardas sian horloĝon) Mi ja baldaŭ devas
+--
+
+ARNHOLM
+Ĉu vere estas por mi --?
+
+ELLIDA
+Kompreneble. Ni ja ne tiel ornamas ĉiutage. -- Uh, -- kiel sufoke
+varme estas sub tiu ĉi plafono! (malsupreniras en la ĝardenon)
+Venu ĉi tien! Ĉi tie estas almenaŭ iometa venteto. (Ŝi eksidas
+en la laŭbo.)
+
+ARNHOLM
+(eniras) Ŝajnas al mi, ke la venteto estas sufiĉe freŝa.
+
+ELLIDA
+Jes, vi, kiu kutimiĝis al la naŭza ĉefurba aero. Tie estas vere
+terure dum la somero, laŭdire.
+
+WANGEL
+(kiu ankaŭ iris en la ĝardenon) Hm, kara Ellida, vi devas nun sola
+konversacii kun nia gasto dum tempeto.
+
+ELLIDA
+Ĉu aferoj?
+
+WANGEL
+Jes, mi devas iri al la oficejo. Kaj mi ja ankaŭ devas ŝanĝi
+vestojn. Sed ne daŭros longe --
+
+ARNHOLM
+(eksidas en la laŭbo) Ne trorapidu, kara doktoro. Via edzino kaj mi
+certe scios pasigi la tempon.
+
+WANGEL
+(kapsignas) Ho, jes, -- mi fidas. Nu, -- ĝis revido! (Li iras tra
+la ĝardeno maldekstren.)
+
+ELLIDA
+(post mallonga silento) Ĉu ne ŝajnas al vi, ke estas bone sidi ĉi
+tie?
+
+ARNHOLM
+Nun mi sidas bone.
+
+ELLIDA
+La laŭbo nomiĝas _mia_ laŭbo. Ĉar estas mi, kiu farigis ĝin. Aŭ
+pli ĝuste Wangel -- por mi.
+
+ARNHOLM
+Kaj ĉi tie vi do kutimas sidi?
+
+ELLIDA
+Jes, ĉi tie mi pleje sidas dumtage.
+
+ARNHOLM
+Kun la knabinetoj?
+
+ELLIDA
+Ne, la knabinetoj -- ili estas sur la verando.
+
+ARNHOLM
+Kaj Wangel mem?
+
+ELLIDA
+Ho, Wangel, li iras tien kaj ĉi tien. Foje al mi kaj foje al la
+knabinetoj.
+
+ARNHOLM
+Ĉu estas vi kiu deziras tian aranĝon?
+
+ELLIDA
+Mi opinias, ke ĉiuj partoj kontentiĝas per tiu aranĝo. Ni povas ja
+ĵeti la parolon transen unu al la alia -- kiam ni foje trovas ion
+por diri.
+
+ARNHOLM
+(post ioma pensado) Kiam mi pasinte frekventis viajn lokojn --.
+Ekstere en Skjoldvik mi pripensas --. Hm, -- estas nun longe de tiam
+--.
+
+ELLIDA
+Estas pli ol dek jaroj de kiam vi vizitis nin tie.
+
+ARNHOLM
+Jes, proksimume. Sed kiam mi prezentas al mi la bildon de vi tie
+ekstere en la lumturo -- La paganino, kiel la maljuna pastro nomis
+vin, ĉar via patro laŭ li baptigis vin per ŝipnomo kaj ne per
+kristana homa nomo --
+
+ELLIDA
+Jes, kaj kiel do?
+
+ARNHOLM
+Mi tute ne estus kredinta renkonti vin ĉi tie kiel sinjorino Wangel.
+
+ELLIDA
+Ne, ĉar tiam Wangel ja ankoraŭ ne estis --. Tiam ja ankoraŭ vivis
+la unua patrino de la knabinoj. Ilia vera patrino --
+
+ARNHOLM
+Nu jes, jes. Sed eĉ se tiel ne estus --. Eĉ se li estus libera kaj
+ne ligita, -- mi meniam imagus, ke okazus tiel.
+
+ELLIDA
+Ankaŭ mi ne. Vere neniam -- tiam.
+
+ARNHOLM
+Wangel estas ja ĝentila. Honesta. Kore bonvola al ĉiuj homoj --
+
+ELLIDA
+(varme kaj kore) Jes, li vere estas!
+
+ARNHOLM
+-- sed ŝajnas al mi, ke li estas tiel ege malsimila al vi.
+
+ELLIDA
+Vi pravas. Li ja estas.
+
+ARNHOLM
+Nu, sed kiel okazis? Kiel okazis!
+
+ELLIDA
+Ho kara Arnholm, ne demandu min pri tio. Mi ne kapablas klarigi la
+aferon. Kaj se mi povus, vi ne kapablus percepti kaj kompreni eĉ
+eron el tio.
+
+ARNHOLM
+Hm --. (iomete pli mallaŭte) Ĉu vi iam konfidis ion pri mi al via
+edzo? Mi kompreneble aludas al la vana paŝo, -- al kiu mi lasis min
+ravi.
+
+ELLIDA
+Ne. Ĉu vi tion pensus? Neniun vorton mi diris al li pri -- pri tio
+al kio vi aludas.
+
+ARNHOLM
+Mi ĝojas. Ĉar premis min la penso ke --
+
+ELLIDA
+Vi tute ne bezonas. Mi nur diris al li la veron, ke mi multe ŝatis
+vin, kaj ke vi estis la plej fidela kaj bona amiko por mi tie
+ekstere.
+
+ARNHOLM
+Dankon. Sed diru nun, -- kial vi neniam skribis al mi post mia
+forvojaĝo?
+
+ELLIDA
+Mi pensis, ke eble dolorigus al vi aŭdi ion de iu, kiu -- kiu ne
+povis proksimiĝi al vi tiel, kiel vi deziris. Estus ja rekte reŝiri
+ion embarasan, mi pensis.
+
+ARNHOLM
+Hm --. Jes, jes, vi certe pravas.
+
+ELLIDA
+Sed kial vi mem neniam skribis?
+
+ARNHOLM
+(rigardas ŝin kaj ridetas duone riproĉe) Mi? Fari la komencon?
+Eble suspektigi min por enkonduki ion novan. Post rifuzo tia, kian mi
+spertis?
+
+ELLIDA
+Ho ne, mi ja bone komprenas. -- Ĉu vi neniam poste pensis pri alia
+rilato?
+
+ARNHOLM
+Neniam. Mi restas fidela al miaj memoroj.
+
+ELLIDA
+(duone ŝercante) Ho, ĉu! Forpelu la malnovajn, tristajn memorojn.
+Vi prefere devus pensi fariĝi feliĉa edzo, mi opinias.
+
+ARNHOLM
+Do devus baldaŭ okazi, sinjorino Wangel. Memoru ke, -- mi ja jam
+atingis la trideksepan, verdire.
+
+ELLIDA
+Nu, ja, des pli da kaŭzo por vi rapidi. (Ŝi iomete silentas, poste
+diras serioze kaj mallaŭte) Sed aŭskultu nun, kara Arnholm, -- mi
+nun diru al vi ion, kion mi tiam ne kapablus eldiri, eĉ se mia vivo
+estus en veto.
+
+ARNHOLM
+Kio do tio estas?
+
+ELLIDA
+Kiam vi faris -- la vanan paŝon, kiel vi ĵus diris, -- tiam mi ne
+_kapablis_ respondi al vi alimaniere ol mi faris.
+
+ARNHOLM
+Mi scias. Vi nur havis bonan amikecon por oferti al mi. Mi ja scias.
+
+ELLIDA
+Sed vi ne scias, ke mia tuta animo kaj ĉiuj miaj pensoj estis tiam
+en alia loko.
+
+ARNHOLM
+Tiam!
+
+ELLIDA
+Jes, ĝuste.
+
+ARNHOLM
+Sed tio ja ne eblas! Vi eraras pri la tempo! Mi opinias, ke tiam vi
+eĉ ne konis sinjoron Wangel.
+
+ELLIDA
+Mi ne parolas pri Wangel.
+
+ARNHOLM
+Ne Wangel? Sed tiam, -- ekstere en Skjoldvik --. Mi ne memoras unu
+solan homon tie, kiun mi opinius povus kapti vian atenton.
+
+ELLIDA
+Ne, ne, -- mi kredas. Ĉar ĉio estis tute freneza.
+
+ARNHOLM
+Sed rakontu do al mi pri tio ĉi!
+
+ELLIDA
+Ho, sufiĉas ja, ke vi scias, ke tiam mi estis jam ligita. Kaj nun vi
+ja scias.
+
+ARNHOLM
+Kaj se vi tiam ne estus ligita?
+
+ELLIDA
+Kio do?
+
+ARNHOLM
+Ĉu via respondo al mia letero estus alia.
+
+ELLIDA
+Kiel mi povas scii? Kiam Wangel venis, la respondo estis ja alia.
+
+ARNHOLM
+Pro kio do diri al mi, ke vi estis ligita?
+
+ELLIDA
+(ekstaras kvazaŭ en timo kaj maltrankvilo) Ĉar mi bezonas iun al
+kiu konfidi min. Ne, ne, sidu.
+
+ARNHOLM
+Via edzo do nenion scias pri la afero?
+
+ELLIDA
+Mi unue konfesis al li, ke mia animo iam estis en alia loko. Ion pli
+li ne postulis scii. Kaj ni poste neniam tuŝis la aferon. Funde
+estis ja nur frenezaĵo. Kaj rompiĝis ja baldaŭ -- iamaniere.
+
+ARNHOLM
+(ekstaras) Nur iamaniere? Ne tute!
+
+ELLIDA
+Jes, jes, certe! Ho, Dio, kara Arnholm, tute ne estas kiel vi imagas.
+Estas io tute nekomprenebla. Mi ne scias kiel mi povus tion rakonti.
+Vi nur opinius, ke mi estus malsana. Aŭ ke mi estus tute freneza.
+
+ARNHOLM
+Kara sinjorino, -- nun vi vere devas plene eldiri.
+
+ELLIDA
+Nu ja! Mi provos. Kiel povos vi, prudenta homo, klarigi al vi, ke --
+(rigardas eksteren kaj interrompas) Atendu ĝis poste. Jen vizitanto
+venas.
+
+(_Lyngstrand_ venas sur la vojo de maldekstre kaj iras en la
+ĝardenon. Li havas floron en la butontruo kaj portas grandan belan
+bukedon, volvitan per papero kaj silka rubando. Li haltas kaj hezitas
+iom necerta ĉe la verando.)
+
+ELLIDA
+(el la laŭbo) Ĉu la knabinojn vi serĉas, sinjoro Lyngstrand?
+
+LYNGSTRAND
+(turnas sin) Ho, la sinjorino jen? (salutas kaj proksimiĝas)
+Tiel ne estas. Ne la fraŭlinojn, sed vin mem, sinjorino Wangel.
+Vi ja permesis al mi veni por viziti vin --
+
+ELLIDA
+Jes, certe mi faris. Vi estas ĉiam bonvena.
+
+LYNGSTRAND
+Multan dankon. Kaj ĉar tiel feliĉe okazas, ke estas solenaĵo en la
+domo hodiaŭ --
+
+ELLIDA
+Nu, tion vi scias?
+
+LYNGSTRAND
+Jes, ja. Kaj tial mi volis permesi al mi donaci al sinjorino Wangel
+ĉi tiun --
+
+(Li kapsalutas kaj etendas la bukedon.)
+
+ELLIDA
+(ridetas) Sed kara sinjoro Lyngstrand, ĉu ne estas pli bone doni
+viajn belajn florojn al lernejestro Arnholm mem? Ĉar estas ja vere
+li, kiu --
+
+LYNGSTRAND
+(rigardas al ambaŭ necerte) Pardonu, -- sed mi ne konas tiun
+fremdan sinjoron. Estas nur -- Mi venas pro la datreveno, sinjorino.
+
+ELLIDA
+Datreveno? Vi eraras, sinjoro Lyngstrand. Ne estas datreveno en la
+domo hodiaŭ.
+
+LYNGSTRAND
+(ridetas intime) Ho, mi ja scias. Sed mi ne pensis ke estu tiel
+sekrete.
+
+ELLIDA
+Kion vi scias?
+
+LYNGSTRAND
+Ke estas la dat -- la datreveno de la sinjorino.
+
+ELLIDA
+Mia?
+
+ARNHOLM
+(rigardas ŝin demande) Hodiaŭ? Ne, certe ne.
+
+ELLIDA
+(al _Lyngstrand_) Kial vi tiel pensas?
+
+LYNGSTRAND
+Fraŭlino Hilde malkovris tion. Mi preterpasis iom pli frue hodiaŭ.
+Kaj mi demandis al la fraŭlinoj, kial ili tiel bele ornamas per
+floroj kaj flagoj --
+
+ELLIDA
+Nu bone?
+
+LYNGSTRAND
+-- kaj fraŭlino Hilde respondis: Jes, ĉar hodiaŭ estas la
+datreveno de -- de patrino.
+
+ELLIDA
+De patrino --! Nu tiel.
+
+ARNHOLM
+Aha! (Li kaj _Ellida_ rigardas sin reciproke kompreneme.) Jes, ĉar
+la juna sinjoro do tion scias, sinjorino Wangel --
+
+ELLIDA
+(al _Lyngstrand_) Jes, ĉar vi ja nun tion scias --
+
+LYNGSTRAND
+(denove ofertas la bukedon) Permesu al mi gratuli --
+
+ELLIDA
+(akceptas la florojn) Koran dankon al vi. -- Bonvolu sidiĝi
+momenton, sinjoro Lyngstrand.
+
+(_Ellida_, _Arnholm_ kaj _Lyngstrand_ eksidas en la laŭbo.)
+
+ELLIDA
+Tio ĉi -- pri mia datreveno -- devus esti sekreto, sinjoro
+lernejestro.
+
+ARNHOLM
+Devus, mi komprenas. Ne devus esti por ni neinformitaj.
+
+ELLIDA
+(metas la bukedon flanken) Ne, ĝuste tiel. Ne por la neinformitaj.
+
+LYNGSTRAND
+Mi do eĉ ne diros al iu vivanta homo.
+
+ELLIDA
+Ho, ne tiel grave. -- Sed kiel vi nun fartas? Vi aspektas pli sane
+nun ol antaŭe.
+
+LYNGSTRAND
+Jes, ankaŭ mi kredas, ke mi saniĝos. Kaj venontan jaron, se mi
+povos iri suden --
+
+ELLIDA
+Kaj tion vi povos, diras la knabinoj.
+
+LYNGSTRAND
+Jes, ĉar en Bergen mi havas bonfaranton, kiu protektas min. Kaj li
+promesis helpi min venontan jaron.
+
+ELLIDA
+Kiel vi kontaktiĝis al li?
+
+LYNGSTRAND
+Ho, feliĉa okazo. Ĉar iun fojon mi estis maristo sur unu el liaj
+ŝipoj.
+
+ELLIDA
+Ĉu vere? Vi do tiam ŝatis la maron?
+
+LYNGSTRAND
+Ne, tute ne. Sed kiam mia patrino mortis, mia patro ne volis lasi min
+nenifari hejme ĉe si. Kaj li farigis min maristo. Ni pereis en la
+Angla Kanalo survoje hejmen. Kaj estis ja bone por mi.
+
+ARNHOLM
+Kiel bone, vi diras?
+
+LYNGSTRAND
+Jes, ĉar per tiu pereo mi ricevis la difekton. En la brusto. Mi
+longe kuŝis en la malvarma akvo, antaŭ ol ili savis min. Kaj tiam
+mi ja devis forlasi la maron. -- Jes, vere estis granda feliĉo.
+
+ARNHOLM
+Ĉu, vi trovas?
+
+LYNGSTRAND
+Jes. Ĉar la difekto ne estas vere danĝera. Kaj nun mi povos fariĝi
+skulptisto, kion mi ege deziras. Imagu -- povi modli la delikatan
+argilon, kiu tiel cedeme formiĝas inter la fingroj!
+
+ELLIDA
+Kaj kion volas vi do modli? Ĉu marvirojn kaj marvirinojn? Aŭ ĉu
+antikvajn vikingojn?
+
+LYNGSTRAND
+Ne, tiaĵojn ne. Kiam mi estos progresinta, mi provos fari grandan
+verkon. Grupon, kiel oni tion nomas.
+
+ELLIDA
+Nu jes, -- sed kion tiu grupo reprezentu?
+
+LYNGSTRAND
+Ho, devus esti io kion mi mem travivis.
+
+ARNHOLM
+Jes, jes, -- tenu vin al tio.
+
+ELLIDA
+Sed kio tio do estus?
+
+LYNGSTRAND
+Jes, mi imagas, ke estu juna marista edzino, kiu kuŝas maltrankvila
+dormante. Kaj ŝi ankaŭ sonĝas. Mi certas, ke mi povos realigi, ke
+ŝi sonĝas.
+
+ARNHOLM
+Ĉu ne estu pli?
+
+LYNGSTRAND
+Jes, ankaŭ alia figuro. Iu estaĵo por nomi ĝin. Estu ŝia edzo,
+al kiu ŝi ne estis fidela, dum li estis for. Kaj li dronis en la
+maro.
+
+ARNHOLM
+Kiel, dronis --?
+
+ELLIDA
+Li dronis?
+
+LYNGSTRAND
+Jes. Li dronis dum vojaĝo. Sed okazas la strangaĵo, ke li tamen
+revenas hejmen. Estas dumnokte. Kaj nun li staras tie apud ŝia lito
+rigardante ŝin. Li staru malsekega, kvazaŭ homo ĵus eltirita el la
+maro.
+
+ELLIDA
+(klinas sin malantaŭen en la seĝo) Vere stranga imago. (fermas la
+okulojn) Mi vive bildigas tion antaŭ mi.
+
+ARNHOLM
+Sed je sankta nomo, sinjoro -- sinjoro --! Vi ja diris, ke estu io,
+kion vi mem travivis.
+
+LYNGSTRAND
+Jes, jes, -- Mi travivis tion ĉi. Iamaniere do.
+
+ARNHOLM
+Travivis, ke morta viro --?
+
+LYNGSTRAND
+Nu ja, mi ne diras tiel korpe travivis. Ne reale, vi komprenu. Sed
+tamen --
+
+ELLIDA
+(vigle, streĉe) Rakontu ĉion kion vi scias kaj povas! Pri tio mi
+devas ĉion scii.
+
+ARNHOLM
+(ridetas) Jes, tio devas ja esti io por vi. Tiaĵo kun mara etoso.
+
+ELLIDA
+Kiel do estis, sinjoro Lyngstrand?
+
+LYNGSTRAND
+Jes, tiel ke kiam ni velus hejmen kun la brigo el urbo nomita
+Halifax, ni devis postlasi la laborestron en la malsanulejo tie. Ni
+dungis usonanon anstataŭe. Tiu nova laborestro --
+
+ELLIDA
+La usonano?
+
+LYNGSTRAND
+-- jes; li ricevis de la estro amaseton da gazetoj, kiun li ĉiame
+legadis. Ĉar li volis lerni la norvegan, li diris.
+
+ELLIDA
+Nu! Kaj sekve!
+
+LYNGSTRAND
+Iun vesperon en terura vetero. Ĉiuj viroj sur la ferdeko. Escepte la
+laborestro kaj mi. Ĉar li estis tordinta la piedon, kaj ne povis
+stari sur ĝi. Kaj ankaŭ mi estis malsana kaj kuŝis. Ja, li do
+sidis tie en la kajuto denove legante unu el la malnovaj gazetoj --
+
+ELLIDA
+Jes! Jes!
+
+LYNGSTRAND
+Sed dum li tie sidas, mi aŭdas kvazaŭ hurlon el li. Kaj kiam mi
+rigardas lin, mi vidas ke li estas blanka kiel kreto en la vizaĝo.
+Li komencas tiri kaj ŝiri la gazeton en mil pecojn. Sed tion li
+faris tute silente, silente.
+
+ELLIDA
+Li nenion diris? Li ne parolis?
+
+LYNGSTRAND
+Ne tuj. Sed iom post iom li kvazaŭ parolis al si mem: Edziniĝis.
+Kun alia viro. Dum mi estis for.
+
+ELLIDA
+(fermas la okulojn kaj diras mallaŭte) Tion li diris?
+
+LYNGSTRAND
+Jes. Kaj imagu, -- li tion diris en bona norvega. Li certe facile
+lernis fremdajn lingvojn, tiu viro.
+
+ELLIDA
+Kaj poste? Kio okazis poste?
+
+LYNGSTRAND
+Jes, jen sekvas tio stranga, kion mi neniam en la mondo forgesos.
+Ĉar li aldonis, -- ankaŭ tio silente: -- Sed mia ŝi estas, kaj mia
+ŝi fariĝu. Kaj min ŝi sekvu, eĉ se mi venu hejmen por serĉi ŝin
+kiel droninta viro el la nigra maro.
+
+ELLIDA
+(verŝas al si akvon. Ŝia mano tremas.) Puh, -- kiel preme varme
+estas hodiaŭ --
+
+LYNGSTRAND
+Kaj tion li diris per tia vola forto, ke ŝajnis al mi ke li estas
+viro por tion plenumi.
+
+ELLIDA
+Ĉu vi scias -- pri la sorto de tiu viro?
+
+LYNGSTRAND
+Ho, sinjorino, li certe ne plu vivas.
+
+ELLIDA
+(rapide) Kial vi tion opinias!
+
+LYNGSTRAND
+Jes, ĉar ni ja poste pereis en la Angla Kanalo. Mi sukcesis trovi
+lokon en la granda savboato kun la ŝipestro kaj kvin aliaj. La
+direktisto prenis la malantaŭan boateton. Lin sekvis la usonano kaj
+iu alia.
+
+ELLIDA
+Kaj de ili oni nenion plu aŭdis?
+
+LYNGSTRAND
+Ne, nenion, sinjorino. Mia bonfaranto ĵus skribis tion en letero.
+Sed ĝuste tial mi multe ŝatus fari artaĵon pri tio. La malfidelan
+maristedzinon mi vive bildigas antaŭ mi. Kaj ankaŭ la venĝanto,
+kiu dronis, sed tamen revenas hejmen el la maro. Mi vidas ambaŭ tute
+klare.
+
+ELLIDA
+Ankaŭ mi. (ekstaras) Venu, -- ni eniru. Aŭ prefere malsupren al
+Wangel! Estas ja preme varme. (Ŝi iras el la laŭbo.)
+
+LYNGSTRAND
+(kiu ankaŭ ekstaris) Mi nun dankas pro la akcepto. Mi ja nur farus
+viziteton pro la datreveno.
+
+ELLIDA
+Nu, kiel vi preferas. (etendas al li la manon) Adiaŭ,
+kaj dankon pro la floroj.
+
+(_Lyngstrand_ salutas kaj eliras maldekstren tra la barilpordo.)
+
+ARNHOLM
+(proksimiĝas al _Ellida_) Mi ja vidas, ke tio ĉi kore tuŝis vin,
+kara sinjorino Wangel.
+
+ELLIDA
+Ho jes, vi povas ja esprimi vin tiel, kvankam --
+
+ARNHOLM
+Sed funde ne estas io alia ol vi devus atendi.
+
+ELLIDA
+(rigardas lin surprize) Atendi!
+
+ARNHOLM
+Jes, ŝajnas al mi.
+
+ELLIDA
+Atendi ke iu povus reveni --! Tiel reveni!
+
+ARNHOLM
+Sed pro Dio --! Ĉu estas la marista fablo de tiu freneza skulptisto
+--?
+
+ELLIDA
+Ho, kara Arnholm, eble li ne tamen estas tiel freneza.
+
+ARNHOLM
+Do estas tiu babilaĵo pri tiu morta viro, kiu tiel skuis vin? Kaj
+mi, kiu kredis, ke --
+
+ELLIDA
+Kion vi kredis?
+
+ARNHOLM
+Kompreneble mi kredis, ke estis nur ŝajnigo de vi. Ke vi
+ĉagreniĝis, ĉar vi malkovris, ke oni sekrete solenis familian
+memoron. Ke via edzo kaj liaj infanoj vivas en vivo de memoroj, en
+kiu vi ne partoprenas.
+
+ELLIDA
+Ho, ne, ne. Estu pri tio kiel estas. Mi ne rajtas postuli mian edzon
+sole por mi mem.
+
+ARNHOLM
+Ŝajnas al mi, ke vi tamen rajtas.
+
+ELLIDA
+Jes. Sed mi ne rajtas. Jen la afero. Ankaŭ mi vivas en io, -- al kio
+la aliaj estas eksteraj.
+
+ARNHOLM
+Vi! (pli mallaŭte) Ĉu estas komprenende, ke --? Vi -- Vi do ne
+amas vian edzon!
+
+ELLIDA
+Ho jes, jes, -- el mia tuta animo mi nun amas lin! Ĝuste tial tio
+ĉi estas tiel terura, -- tiel nekomprenebla, -- tiel neimagebla, --!
+
+ARNHOLM
+Vi nun konfidu viajn ĉagrenojn tute kaj senrezerve al mi! Vi volas,
+ĉu, sinjorino Wangel?
+
+ELLIDA
+Mi ne povas, kara amiko. Almenaŭ ne nun. Eble poste.
+
+(_Bolette_ venas sur la verandon kaj iras malsupren en la ĝardenon.)
+
+BOLETTE
+Nun patro venas el la oficejo. Ĉu ni do ne devus sidiĝi en la
+ĝardena ĉambro?
+
+ELLIDA
+Jes, ni faru.
+
+(_Wangel_, en ŝanĝita vestaĵo, venas kune kun _Hilde_ de
+maldekstre de malantaŭ la domo.)
+
+WANGEL
+Jen, jen! Mi estas libera kaj preta! Nun gustos bone glaso da io
+malvarmeta.
+
+ELLIDA
+Atendu iomete. (Ŝi iras en la laŭbon kaj serĉas la bukedon.)
+
+HILDE
+Ho, vidu, vidu! La belajn florojn! De kie vi ricevis ilin?
+
+ELLIDA
+Mi ricevis ilin de skulptisto Lyngstrand, mia kara Hilde.
+
+HILDE
+(ekmiras) De Lyngstrand?
+
+BOLETTE
+(maltrankvila) Ĉu Lyngstrand venis -- denove?
+
+ELLIDA
+(kun rideto) Jes. Li venis kun tiu ĉi. Okaze de la datreveno, vi
+komprenas.
+
+BOLETTE
+(ekrigardas al _Hilde_) Ah --!
+
+HILDE
+(murmuras) La besto!
+
+WANGEL
+(embarasita, al _Ellida_) Hm. Jes, vi ja vidas --. Mi diru al vi,
+mia kara, bona, benita Ellida --
+
+ELLIDA
+(interrompas) Venu nun, knabinetoj! Kaj ni metu miajn florojn en
+akvon kune kun la aliaj. (Ŝi supreniras sur la verandon.)
+
+BOLETTE
+(mallaŭte al _Hilde_) Ho, ŝi do tamen estas ĝentila.
+
+HILDE
+Simiaĵoj! Ŝi nur volas intimiĝi kun patro.
+
+WANGEL
+(supre sur la verando, premas la manon de _Ellida_) Dankon --
+dankon! Koran dankon pro tio ĉi, Ellida!
+
+ELLIDA
+(ordigas la florojn) Nu do, -- ĉu ne ankaŭ mi estu kune kun vi por
+-- por honori la datrevenon de patrino?
+
+ARNHOLM
+Hm --.
+
+(Li supreniras al _Wangel_ kaj _Ellida_. _Bolette_ kaj _Hilde_ restas
+en la ĝardeno.)
+
+
+
+
+DUA AKTO
+
+
+(Supre sur "La Videjo", arbustkovrita altaĵo malantaŭ la urbo. Iom
+malantaŭe staras ŝtonstako kaj ventomontrilo. Grandaj ŝtonoj por
+sidejoj kuŝas ĉirkaŭ la ŝtonstako kaj en la antaŭo. Profunde en
+la malantaŭo vidiĝas la ekstera fjordo kun insuloj kaj promontoroj.
+La granda maro ne vidiĝas. Estas duonhela somernokto. Flaveruĝa
+lumeto en la aero kaj sur la montopintoj fore. Kvartona kantado
+aŭdiĝas de malsupre en la deklivo dekstre.)
+
+(_Junaj homoj_ el la urbo, _gesinjoroj_, venas pare de dekstre, kaj
+en intima konversacio iras preter la ŝtonstako kaj elen maldekstre.
+Iom poste venas _Ballested_ kiel gvidanto por grupo da eksterlandaj
+geturistoj. Li estas ŝarĝita de ŝaloj kaj vojaĝsaketoj.)
+
+BALLESTED
+(montras supren per la bastono) Sehen Sie, meine Herrschaften, --
+dort fore liegt eine andere altaĵo. Das willen wir ankaŭ besteigen
+und so herunter --
+
+(Li daŭrigas angle kaj gvidas la grupon maldekstren.)
+
+(_Hilde_ venas rapide supren la deklivon dekstre, haltas kaj rigardas
+malantaŭen. Iom poste venas _Bolette_ la saman vojon.)
+
+BOLETTE
+Sed, kara, kial ni forkuru de Lyngstrand?
+
+HILDE
+Ĉar mi ne eltenas iri tiel malrapide en la deklivoj. Vidu, -- vidu,
+kiel li rampas supren.
+
+BOLETTE
+Ho, vi ja scias kiel malsana li estas.
+
+HILDE
+Ĉu vi opinias, ke estas tre danĝere?
+
+BOLETTE
+Jes, mi opinias.
+
+HILDE
+Li ja vizitis patron posttagmeze. Mi dezirus scii kion patro pensas
+pri li.
+
+BOLETTE
+Patro diris al mi, ke estas malmoliĝo en la pulmo, -- aŭ io tia. Li
+ne vivos longe, diris patro.
+
+HILDE
+Ĉu tion li diris! Imagu, -- ĝuste kion mi pensis.
+
+BOLETTE
+Sed pro Dio, vi nenion rimarkigu.
+
+HILDE
+Ho, kial vi tiel pensas. (duonlaŭte) Jen vidu, -- nun Hans fine
+krablis al la supro. Hans --. Ĉu ne ŝajnas al vi, ke oni povas
+vidi, ke li nomiĝas Hans?
+
+BOLETTE
+(flustras) Estu bonkonduta! Mi konsilas!
+
+(_Lyngstrand_ venas de dekstre kun sunŝirmilo en la mano.)
+
+LYNGSTRAND
+Mi petas pardonon al la fraŭlinoj, ĉar mi ne povis iri same rapide
+kiel vi.
+
+HILDE
+Ĉu vi eĉ ekhavis sunŝirmilon?
+
+LYNGSTRAND
+Ĝi apartenas al via patrino. Ŝi diris ke mi uzu ĝin kiel bastonon.
+Ĉar mi neniun kunportis.
+
+BOLETTE
+Ĉu ili daŭre estas tie malsupre? Patro kaj la aliaj?
+
+LYNGSTRAND
+Jes. Via patro iris en la gastejon. La aliaj sidas ekstere
+aŭskultante la muzikon. Sed poste ili volas supreniri, diris via
+patrino.
+
+HILDE
+(lin rigardante) Vi nun estas sufiĉe laca.
+
+LYNGSTRAND
+Jes, nun ŝajnas al mi, ke mi estas iomete laca. Mi pensas ke estas
+pli bone sidi tempeton.
+
+(Li eksidas sur ŝtono antaŭe dekstre.)
+
+HILDE
+(staras antaŭ li) Ĉu vi scias, ke poste okazos dancado malsupre
+sur la muzikejo?
+
+LYNGSTRAND
+Jes, mi aŭdis paroli pri tio.
+
+HILDE
+Vi certe ŝatas danci, ĉu ne?
+
+BOLETTE
+(kiu plukas floretojn inter la erikoj) Ho, Hilde, -- lasu nun
+Lyngstrand regajni la spiron.
+
+LYNGSTRAND
+(al _Hilde_) Jes, fraŭlino, mi volus danci -- se mi povus.
+
+HILDE
+Ĉu? Vi do neniam lernis?
+
+LYNGSTRAND
+Ankaŭ tion ne. Sed pri _tio_ mi ne pensis. Mi aludis ĉar mi ne
+povas pro la brusto.
+
+HILDE
+Pro tiu difekto, kiel vi diras?
+
+LYNGSTRAND
+Jes, estas tial.
+
+HILDE
+Ĉu vi multe ĉagreniĝis pro tiu difekto?
+
+LYNGSTRAND
+Ho ne, tion mi ne povas diri. (ridetas) Ĉar estas pro tio,
+ke ĉiuj homoj estas ĝentilaj kaj afablaj kaj eĉ bonfarantaj
+al mi, mi kredas.
+
+HILDE
+Jes, kaj ĝi ja ne estas danĝera.
+
+LYNGSTRAND
+Ne, ĝi tute ne estas danĝera. Tion mi komprenas laŭ via patro.
+
+HILDE
+Kaj vi ja saniĝos tuj kiam vi forvojaĝos.
+
+LYNGSTRAND
+Jes ja. Tiam mi saniĝos.
+
+BOLETTE
+(kun floroj) Jen, sinjoro Lyngstrand, -- metu tiujn ĉi en la
+butontruon.
+
+LYNGSTRAND
+Ho, mil dankojn, fraŭlino! Estas ja tro ĝentile de vi.
+
+HILDE
+(rigardas malsupren dekstren) Jen ili venas sur la vojo.
+
+BOLETTE
+(Ankaŭ ŝi rigardas malsupren.) Se ili nur sciu kie ili flankeniru.
+Ne, nun ili prenas eraran vojon.
+
+LYNGSTRAND
+(ekstaras) Mi kuros malsupren al la turniĝo kaj voku al ili.
+
+HILDE
+Tiam vi devas tre laŭte krii.
+
+BOLETTE
+Ne, vi ne devas. Vi denove fariĝos laca.
+
+LYNGSTRAND
+Ho, malsupren estas facile.
+
+(Li eliras dekstren.)
+
+HILDE
+Jes, malsupren, jes. (postrigardas lin) Nun li eĉ saltas! Kaj li
+ne memoras, ke poste li devas supreniri.
+
+BOLETTE
+Kompatindulo --.
+
+HILDE
+Se Lyngstrand proponus geedziĝon al vi, ĉu vi lin akceptus?
+
+BOLETTE
+Ĉu vi freneziĝis?
+
+HILDE
+Ho, mi ja pensas, ke se li ne havus tiun difekton. Kaj se li ne
+baldaŭ estus mortanta. Ĉu vi _tiam_ akceptus lin?
+
+BOLETTE
+Mi opinias, ke estus pli bone ke _vi_ prenus lin.
+
+HILDE
+Ho certe ne. Li ja nenion posedas. Li eĉ ne havas sufiĉe por
+vivteni sin.
+
+BOLETTE
+Kial vi do okupiĝas tiel multe pri li?
+
+HILDE
+Ho, tion mi ja nur faras pro tiu difekto.
+
+BOLETTE
+Mi tute ne rimarkis, ke vi kompatas lin pro _tio_.
+
+HILDE
+Ne, mi eĉ ne faras. Sed estas tiel tente.
+
+BOLETTE
+Kio?
+
+HILDE
+Rigardi lin, kaj igi lin rakonti, ke ne estas danĝere. Kaj ke li
+povos iri eksterlanden, kaj ke li fariĝos artisto. Tiun ĉion li
+kredadas kaj estas kontenta profunde en la animo. Kaj tamen el tio
+nenio fariĝos. Neniam. Ĉar li ne vivos tiel longe. Estas por mi
+ekscite pripensi tion.
+
+BOLETTE
+Ekscite!
+
+HILDE
+Jes, ĝuste ekscite. Tion mi permesas al mi.
+
+BOLETTE
+Fi, Hilde, vi vere estas aĉa infano!
+
+HILDE
+Mi eĉ volas esti. Spite! (rigardas malsupren) Nun fine!
+Aspekte Arnholm ne ŝatas supreniri. (turnas sin) Sed al aliaĵo,
+-- ĉu vi scias, kion mi vidis sur Arnholm ĉe la manĝotablo?
+
+BOLETTE
+Nu?
+
+HILDE
+Imagu, -- liaj haroj komencas defali -- tie supre, meze sur la kapo.
+
+BOLETTE
+Ho, babilaĵo! Ne estas vero.
+
+HILDE
+Jes. Kaj li havas sulkojn ĉe ambaŭ okuloj. Je Dio, Bolette, ke vi
+povis esti tiel enamiĝinta al li, tiam kiam li legis kun vi!
+
+BOLETTE
+(ridetas) Jes, ĉu eblas kompreni _tion_? Mi memoras, ke mi iam
+ploris brulantajn larmojn, ĉar li diris, ke Bolette estas malbela
+nomo.
+
+HILDE
+Jes, imagu! (rigardas malsupren) Ho, jen vidu! Nun "la sinjorino el
+la maro" konversaciadas kun li. Ne kun patro. -- Mi miras ĉu tiuj du
+ĵetas senteman okulon unu al la alia.
+
+BOLETTE
+Vi vere devus honti. Kial povas vi diri tiaĵon pri ŝi? Fariĝis ja
+nun tiel bone inter ni --
+
+HILDE
+Jes, jes, -- kredigu tion al vi mem, junulino! Ho ne, fariĝos neniam
+bone inter ni kaj ŝi. Ĉar ŝi ne konvenas por ni. Kaj nek ni por
+ŝi. Dio scias kial patro tirus ŝin en la domon! -- Mi ne mirus se
+ŝi iun tagon fariĝus freneza.
+
+BOLETTE
+Freneza! Kiel vi povas imagi tion?
+
+HILDE
+Ho, ne estas strange. Ankaŭ ŝia patrino fariĝis freneza. Ŝi
+mortis freneza, mi scias.
+
+BOLETTE
+Jes, Dio scias en kio vi ne metas vian nazon. Sed ne babiladu pri
+tio. Estu afabla -- pro patro. Aŭdu, Hilde?
+
+(_Wangel_, _Ellida_, _Arnholm_ kaj _Lyngstrand_ venas de dekstre.)
+
+ELLIDA
+(montras al la fono) Jen fore ĝi estas!
+
+ARNHOLM
+Jes, ĝuste. En tiu direkto ĝi ja estas.
+
+ELLIDA
+Jen fore kuŝas la maro.
+
+BOLETTE
+(al _Arnholm_) Ĉu vi ne trovas la lokon bela?
+
+ARNHOLM
+Mi trovas ĝin belega. Grandioza vidaĵo.
+
+WANGEL
+Jes. Eble vi neniam antaŭe supreniris ĉi tien?
+
+ARNHOLM
+Ne, neniam. Mi opinias, ke dum mia restado ĉi tie apenaŭ estis
+atingeble. Eĉ ne vojeto.
+
+WANGEL
+Kaj eĉ neniu aranĝo. Ĉion ni faris la lastajn jarojn.
+
+BOLETTE
+Jen sur la "Pilotkabo" estas ankoraŭ pli grandioza vidaĵo.
+
+WANGEL
+Ĉu ni iru tien, Ellida?
+
+ELLIDA
+(eksidas sur ŝtonon dekstre) Dankon. Ne mi. Sed iru vi aliaj. Kaj
+dume mi sidas ĉi tie.
+
+WANGEL
+Do mi restos kun vi. La knabinetoj povas montri la lokon al Arnholm.
+
+BOLETTE
+Ĉu vi ŝatas iri kun ni, sinjoro Arnholm?
+
+ARNHOLM
+Jes, volonte. Ĉu estas vojo ankaŭ tien?
+
+BOLETTE
+Ho jes. Estas larĝa vojo.
+
+HILDE
+La vojo estas tiel larĝa, ke estas abunda spaco por du iri brakon en
+brako.
+
+ARNHOLM
+(ŝerce) Ĉu vere, eta fraŭlino Hilde? (al _Bolette_)
+Ĉu ni provu, ĉu estas vero?
+
+BOLETTE
+(subpremas rideton) Jes ja. Ni provu. (Ili iras brakon en brako
+maldekstren)
+
+HILDE
+(al Lyngstrand) Ĉu ankaŭ ni iru --?
+
+LYNGSTRAND
+Brakon en brako --?
+
+HILDE
+Nu, kial ne? Bonvolu.
+
+LYNGSTRAND
+(prenas ŝian brakon kaj ridetas kontente) Estas ja vere ŝerce
+amuze!
+
+HILDE
+Ŝerce --?
+
+LYNGSTRAND
+Jes, ĉar aspektas ja kiel ni estas gefianĉoj.
+
+HILDE
+Vi neniam antaŭe promenis kun sinjorino ĉe la brako, sinjoro
+Lyngstrand, ĉu?
+
+(Ili eliras maldekstren.)
+
+WANGEL
+(kiu staras apud la ŝtonstako) Kara Ellida, nun ni havas momenton
+solan por ni mem --
+
+ELLIDA
+Jes, venu kaj eksidu ĉe mi.
+
+WANGEL
+(eksidas) Estas libere kaj trankvile. Ni nun parolu kune.
+
+ELLIDA
+Pri kio?
+
+WANGEL
+Pri vi. Kaj pri la rilato inter ni, Ellida. Mi ja vidas, ke tiel ne
+povas daŭri.
+
+ELLIDA
+Kio anstataŭus, laŭ vi?
+
+WANGEL
+Kompleta konfidemo, kara. Kunvivo inter ni, -- kiel antaŭe.
+
+ELLIDA
+Ho, se eblus! Sed ne estas eble!
+
+WANGEL
+Mi kredas, ke mi komprenas vin. El certaj esprimoj de vi foje kaj
+foje, mi kredas.
+
+ELLIDA
+(impete) Vi ne faras! Ne diru, ke vi komprenas --!
+
+WANGEL
+Ho jes. Vi estas honesta naturo, Ellida. Vi havas fidelan animon --
+
+ELLIDA
+Jes, mi havas.
+
+WANGEL
+Kiu ajn rilato en kiu vi sentu vin sekura kaj feliĉa, devas esti
+senrezerva rilato.
+
+ELLIDA
+(rigardas lin atente) Nu, -- kaj do!
+
+WANGEL
+Ne konvenas por vi esti la dua edzino de viro.
+
+ELLIDA
+Kial vi _tiel_ pensas nun?
+
+WANGEL
+Ĝi ofte eklumiĝis en mi kiel suspekto. Hodiaŭ fariĝis pli klare.
+La memorfesto de la infanoj --. Vi rigardis min kiel iun kunkulpulon
+--. Nu ja, -- la rememoroj de viro li ne povas neniigi. Ĉiuokaze ne
+la miajn. Tia mi ne estas.
+
+ELLIDA
+Mi scias. Mi ja scias bone.
+
+WANGEL
+Sed vi tamen eraras. Por vi aspektas kvazaŭ la patrino de la infanoj
+vivas ankoraŭ. Kvazaŭ ŝi nevidate ĉeestas inter ni. Vi kredas, ke
+mia animo estas egale dividata inter vi kaj ŝi. Tiu penso vin
+ofendas. Tial vi ne plu povas -- aŭ ne plu volas vivi kun mi kiel
+edzino.
+
+ELLIDA
+(ekstaras) Ĉu vi ĉion ĉi vidis, Wangel? Enrigardis en ĉion ĉi?
+
+WANGEL
+Jes, hodiaŭ mi fine rigardis internen en ĝi. Ĝis la fundo.
+
+ELLIDA
+Ĝis la fundo, vi diras. Ho, ne kredu tion.
+
+WANGEL
+(ekstaras) Mi bone scias, kara Ellida, ke estas pli ol tio ĉi.
+
+ELLIDA
+(timoplena) Ĉu vi scias, ke estas pli?
+
+WANGEL
+Jes. Estas tio, ke vi ne povas elteni la ĉirkaŭaĵon ĉi tie. La
+montoj premas peze sur vian animon. Ne estas sufiĉe da lumo por vi.
+Ne sufiĉe vasta ĉielo ĉirkaŭ vi. Ne forto kaj abundeco en la
+aerfluo.
+
+ELLIDA
+Vi ja pravas. Nokton kaj tagon, vintron kaj someron ĝi estas super
+mi -- tiu loganta hejmveo al la maro.
+
+WANGEL
+Mi bone scias, kara Ellida. (metas la manon sur ŝian kapon) Kaj
+tial la malsana infano revenu al sia propra hejmo.
+
+ELLIDA
+Ĉu kiel?
+
+WANGEL
+Tute simple. Ni transloĝiĝu.
+
+ELLIDA
+Transloĝiĝu!
+
+WANGEL
+Jes. Al iu loko ĉe la vasta maro, -- al iu loko kie vi povos trovi
+veran hejmon por via animo.
+
+ELLIDA
+Ho, kara, ne pensu pri tio! Estas tute neeble. Vi ne povas vivi
+feliĉe en iu ajn loko en la mondo ol tie ĉi.
+
+WANGEL
+Povas esti pri tio kiel eblas. Kaj krome, -- ĉu vi opinias, ke mi
+povos vivi feliĉe ĉi tie -- sen vi?
+
+ELLIDA
+Sed mi ja estas ĉi tie. Kaj mi restas. Vi ja havas min.
+
+WANGEL
+Ĉu mi havas vin, Ellida?
+
+ELLIDA
+Ho, ne parolu pri tio alia. Ĉi tie vi ja havas ĉion por kio vi
+vivas kaj spiras. La laboro de via tuta vivo kuŝas ja ĝuste ĉi
+tie.
+
+WANGEL
+Pri tio estu kiel eblas, mi diras. Ni transloĝiĝu de ĉi tie.
+Transloĝiĝu marborden. Tiu afero estas nun decidita, kara Ellida.
+
+ELLIDA
+Ho, sed kion vi kredas, ke ni gajnus per _tio_?
+
+WANGEL
+Vi gajnus sanon kaj novan pacon en la animo.
+
+ELLIDA
+Apenaŭ. Sed jen vi mem! Pensu do iomete ankaŭ pri vi mem. Kion vi
+gajnus?
+
+WANGEL
+Mi gajnus vin, vi kara.
+
+ELLIDA
+Sed tion vi ne povas! Ne, ne, vi tion ne povas, Wangel! Estas ja
+terure, -- senesperige pripensi.
+
+WANGEL
+Tion ni risku. Se vi havas tiajn pensojn, ne estas alia savo por vi
+ol -- for de ĉi tie. Kaj tio ju pli frue. Tio estas nun definitiva,
+ĉu vi aŭdas.
+
+ELLIDA
+Ne! Mi do je la nomo de la ĉielo prefere diru al vi ĉion tute
+malkaŝe. Tiel kiel estas.
+
+WANGEL
+Jes, jes, -- faru!
+
+ELLIDA
+Ĉar malfeliĉa vi vin mem ne faru pro mi. Precipe ĉar tio tamen
+nenion helpas.
+
+WANGEL
+Mi havas nun vian promeson, ke vi volas diri al mi ĉion, -- kiel
+estas.
+
+ELLIDA
+Mi diros al vi tiel bone kiel mi povas. Kaj kiel ŝajnas al mi ke
+estas. -- Venu, kaj sidu ĉe mi.
+
+(Ili eksidas sur ŝtonon.)
+
+WANGEL
+Nu ja, Ellida? Do --?
+
+ELLIDA
+La tagon, kiam vi venis al mi tie ekstere kaj demandis min aparteni
+al vi, -- tiam vi parolis tiel malkaŝe kaj honeste al mi pri via
+unua geedziĝo. Ĝi estis vere feliĉa, vi diris.
+
+WANGEL
+Ĝi ja estis.
+
+ELLIDA
+Jes, jes, mi ja kredas, kara. Ne pro tio mi mencias tion nun. Mi nur
+volas memorigi al vi, ke ankaŭ mi estis honesta al vi. Mi ja diris
+senrezerve, ke iam en mia vivo mi amis iun alian. Ke okazis -- okazis
+ia gefianĉiĝo inter ni.
+
+WANGEL
+Ia --?
+
+ELLIDA
+Jes, ia tia. Nu, daŭris ja tre mallonge. Li forvojaĝis. Kaj poste
+mi rompis. Mi ja diris al vi ĉion.
+
+WANGEL
+Sed, kara Ellida, kial vi revivigas ĉion ĉi? Funde ne estis mia
+afero. Kaj mi eĉ neniam demandis al vi, kiu li estas.
+
+ELLIDA
+Ne, vi ne faris. Vi ĉiam estis konsiderema al mi.
+
+WANGEL
+(ridetas) Ho, en tiu ĉi kazo --. Mi povus ja preskaŭ mem diri la
+nomon.
+
+ELLIDA
+La nomon!
+
+WANGEL
+En Skjoldvik kaj tie ĉirkaŭe ne estis ja multaj inter kiuj diveni.
+Aŭ, pli ĝuste, estis nur unu sola --
+
+ELLIDA
+Aspekte vi kredas, ke estis -- Arnholm.
+
+WANGEL
+Jes, ĉu ne estis --?
+
+ELLIDA
+Ne.
+
+WANGEL
+Ne? Jes, do mia kompreno staras senmova.
+
+ELLIDA
+Ĉu vi memoras, ke iam malfrue en la aŭtuno granda usona ŝipo venis
+al Skjoldvik pro averio?
+
+WANGEL
+Jes, mi bone memoras. Estis tie, ke oni trovis la ŝipestron
+mortigita en la kajuto. Mi mem venis por dissekcii la kadavron.
+
+ELLIDA
+Jes, certe.
+
+WANGEL
+Kredeble la dua ŝipisto mortigis lin.
+
+ELLIDA
+Neniu povas diri! Neniam malkaŝiĝis.
+
+WANGEL
+Tamen ne estas dubo. Kial li alie dronigus sin, kiel li faris?
+
+ELLIDA
+Li ne dronigis sin. Li forvojaĝis norden.
+
+WANGEL
+(surpriziĝas) Kiel vi tion scias?
+
+ELLIDA
+(sin mem devigante) Jes, Wangel, -- ĉar estas al tiu ŝipsubestro,
+ke mi -- fianĉiniĝis.
+
+WANGEL
+(eksaltas) Kion vi diras! Ĉu tio eblas!
+
+ELLIDA
+Jes, -- tiel estas. Estis kun li.
+
+WANGEL
+Sed je ĉio, Ellida --! Kiel vi povis ekpensi tiaĵon! Fianĉiniĝi
+kun tia ulo! Kun tute fremda homo! -- Kiel li nomiĝis?
+
+ELLIDA
+Tiam li nomis sin Friman. Poste, en siaj leteroj, li subskribis
+Alfred Johnston.
+
+WANGEL
+De kie li venis?
+
+ELLIDA
+De Finnmark, li diris. Sed li naskiĝis en Finnlando. Enmigris kiel
+infano -- kun sia patro, mi opinias.
+
+WANGEL
+Do kveno (= Loĝanto en Finnmark el Suomio).
+
+ELLIDA
+Jes. Tiel ili ja nomiĝas.
+
+WANGEL
+Kion pli vi scias pri li?
+
+ELLIDA
+Nur tion, ke li frue fariĝis maristo. Kaj ke li faris longajn
+vojaĝojn.
+
+WANGEL
+Nenion alian?
+
+ELLIDA
+Ne. Ni ne parolis pri tiaĵojn.
+
+WANGEL
+Pri kio vi do parolis?
+
+ELLIDA
+Pleje ni parolis pri la maro.
+
+WANGEL
+Ah --! Do pri la maro?
+
+ELLIDA
+Pri ventegoj kaj trankvilo. Pri sombraj noktoj sur la maro. Pri la
+maro dum brilaj suntagoj ni ankaŭ parolis. Sed pleje ni parolis pri
+la balenoj kaj pri la delfenoj kaj la fokoj, kiuj kutime kuŝas tie
+sur la ŝeroj en la meztaga varmo. Kaj ni parolis pri la mevoj kaj la
+agloj kaj ĉiuj la aliaj marbirdoj, kiujn vi ja konas. -- Imagu, --
+ĉu ne estas strange, -- kiam ni parolis pri ili, estis por mi
+kvazaŭ kaj la marbestoj kaj la marbirdoj estas liaj parencoj.
+
+WANGEL
+Kaj vi mem --?
+
+ELLIDA
+Jes, aspektis kvazaŭ ankaŭ mi fariĝis parenco al ili ĉiuj.
+
+WANGEL
+Jes, jes. -- Kaj do sekvis ke vi fianĉiniĝis kun li?
+
+ELLIDA
+Jes. Li diris, ke mi faru.
+
+WANGEL
+Faru? Vi do mem ne havis volon?
+
+ELLIDA
+Ne kiam li ĉeestis. Ho, -- poste ŝajnis al mi, ke estis tute
+nekompreneble.
+
+WANGEL
+Ĉu vi renkontis lin ofte?
+
+ELLIDA
+Ne, ne ofte. Iun tagon li vizitis nin kaj ĉirkaŭrigardis en la
+lumturo. Tiel mi konatiĝis kun li. Kaj poste ni renkontiĝis foje
+kaj foje. Sed tiam okazis tio pri la ŝipestro. Kaj li devis ja
+forvojaĝi.
+
+WANGEL
+Jes, jes, rakontu iom pli pri tio!
+
+ELLIDA
+Estis frue en la krepusko, -- mi ricevis slipon de li. En ĝi li
+petis min veni al li sur la Krutkabon, -- vi ja scias, la kabon inter
+la lumturo kaj Skjoldvik.
+
+WANGEL
+Jes ja, jes ja, -- mi konas ĝin bone.
+
+ELLIDA
+Tien mi venus tuj, li skribis, ĉar li volis paroli kun mi.
+
+WANGEL
+Kaj vi iris?
+
+ELLIDA
+Jes. Ion alian mi ne povis. Nu, li rakontis al mi, ke en la nokto li
+tranĉile pikis la ŝipestron.
+
+WANGEL
+Li tion do mem diris! Rekte diris tion!
+
+ELLIDA
+Jes. Sed li nur estis farinta ion, kio estis tute ĝusta, li diris.
+
+WANGEL
+Tute ĝusta? Kial li do forkuris?
+
+ELLIDA
+Tion li ne volis diri. Li nur diris, ke ne estis por mia orelo.
+
+WANGEL
+Kaj vi kredis lin je lia nura vorto?
+
+ELLIDA
+Jes, mi nenion alian ekpensis. Nu, li ja tamen devis forvojaĝi. Sed
+en la momento kiam li estis dironta adiaŭ al mi --. Ne, vi ne povas
+imagi, kion li ekpensis.
+
+WANGEL
+Nu? Diru do!
+
+ELLIDA
+Li prenis el la poŝo ŝlosilringon kaj tiris de la fingro sian
+propran ringon. De mi li prenis ringeton, kiun mi havis. Tiujn du
+ringojn li pendigis kune sur la ŝlosilringon. Kaj li diris, ke ni
+nun geedzigu nin kune al la maro.
+
+WANGEL
+Geedzigu --?
+
+ELLIDA
+Jes, tiel li diris. Kaj li ĵetis la ringojn per sia tuta forto tiom
+fore kiom li kapablis en la profundon.
+
+WANGEL
+Kaj vi, Ellida? Vi akceptis?
+
+ELLIDA
+Jes, imagu, -- mi pensis tiam, ke estis kiel devis esti. -- Sed, je
+bona Dio, -- li forvojaĝis!
+
+WANGEL
+Kaj kiam li efektive estis for --?
+
+ELLIDA
+Ho, vi ja bone komprenas, ke mi regajnis mian prudenton. Komprenis
+kiel stulta kaj sensenca tio estas.
+
+WANGEL
+Sed pli frue vi parolis pri leteroj. Vi do sciiĝis de li poste?
+
+ELLIDA
+Jes, mi sciiĝis de li. Unue mi ricevis kelkajn liniojn el Arkangelo.
+Li nur skribis, ke li intencis vojaĝi al Ameriko. Kaj li donis
+adreson, kien mi povus sendi respondon.
+
+WANGEL
+Ĉu vi respondis?
+
+ELLIDA
+Tuj. Mi kompreneble skribis, ke ĉio inter ni devus esti finita. Kaj
+ke li ne plu pensu pri mi, kiel ankaŭ mi neniam plu pensu pri li.
+
+WANGEL
+Sed li tamen skribis reen, ĉu?
+
+ELLIDA
+Jes, li skribis reen.
+
+WANGEL
+Kaj kion li respondis al viaj eldiroj?
+
+ELLIDA
+Eĉ ne vorton pri tio. Estis kvazaŭ mi ne rompis kun li. Li skribis
+tute prudente kaj trankvile, ke mi atendu lin. Kiam li estus preta
+akcepti min, li skribus. Kaj tiam mi tuj venus al li.
+
+WANGEL
+Ne volis lasi vin?
+
+ELLIDA
+Ne. Mi denove skribis. Preskaŭ samvorte kiel en la unua letero. Aŭ
+ankoraŭ pli decide.
+
+WANGEL
+Kaj li cedis?
+
+ELLIDA
+Ho ne, ne pensu tion. Li skribis trankvile kiel antaŭe. Neniun
+vorton pri la rompo. Kaj mi komprenis, ke ne utilis. Kaj neniam plu
+mi skribis al li.
+
+WANGEL
+Kaj eĉ ne aŭdis ion de li?
+
+ELLIDA
+Jes, mi ricevis tri leterojn de li post tiam. Unu fojon li skribis al
+mi el Kalifornio kaj alian fojon el Ĉinio. La lasta letero, kiun mi
+ricevis de li, estis el Aŭstralio. Li tiam skribis, ke li iris fosi
+oron. Poste venis neniu informo de li.
+
+WANGEL
+Tiu viro ekzercis eksterordinaran potencon sur vi, Ellida.
+
+ELLIDA
+Ho jes, jes. La terura homo!
+
+WANGEL
+Sed pri tio vi ne plu devas pensi. Neniam! Promesu al mi, mia kara,
+benita Ellida! Ni nun provu alian kuracon por vi. Pli freŝa aero ol
+ĉi tie ene en la fjordoj. La sala mara vento! Kion vi al tio diras?
+
+ELLIDA
+Ho, ne parolu pli pri tiu plano! Ne pensu pri tiaĵo! Ne estas helpo
+por mi en tio. Mi bone konscias, -- eĉ tie mi ne povos deŝarĝi
+min.
+
+WANGEL
+Kion? Kara, -- pri kio vi nun pensas?
+
+ELLIDA
+La teruraĵon, mi aludas. Tiun nekompreneblan potencon sur la animo --
+
+WANGEL
+Sed tiun vi ja nun deŝarĝis. Antaŭ longe. Kiam vi rompis kun li.
+Nun tio ja estas pasinta.
+
+ELLIDA
+(eksaltas) Ne, ĝuste tio ĝi ne estas!
+
+WANGEL
+Ne pasinta!
+
+ELLIDA
+Ne, Wangel, -- ne estas pasinta! Kaj mi timas, ke ĝi neniam pasos.
+Neniam en mia vivo!
+
+WANGEL
+(kun sufokata voĉo) Ĉu per tio vi volas diri, ke interne vi neniam
+povis forgesi tiun fremdan viron?
+
+ELLIDA
+Mi estis lin forgesinta. Sed subite estis kvazaŭ li revenis.
+
+WANGEL
+Kiam tio okazis?
+
+ELLIDA
+Antaŭ ĉirkaŭ tri jaroj. Aŭ iom pli. -- Estis dum mi atendis la
+infanon.
+
+WANGEL
+Ah, tiam do? Jes Ellida, -- mi nun ja komencas kompreneti iom kaj
+iom.
+
+ELLIDA
+Vi eraras, kara! Tio, kio kaptis min --. Ho, mi pensas, ke tute ne
+estas komprenebla.
+
+WANGEL
+(rigardas ŝin en ĉagreno) Imagu ke -- ke vi loĝis ĉi tie tri
+jarojn dum vi amis alian viron. Alian viron! Ne min, -- sed alian!
+
+ELLIDA
+Ho, vi tute eraras. Mi amas neniun alian ol vi.
+
+WANGEL
+(mallaŭte) Kial vi do, en tiu longa tempo, ne volis vivi kun mi
+kiel edzino?
+
+ELLIDA
+Estas pro tiu timo al tiu fremda viro.
+
+WANGEL
+Timo --?
+
+ELLIDA
+Jes, timo. Timo tiel terura, ke ŝajnas al mi, ke nur la maro povas
+instigi ĝin. Ĉar nun vi aŭdu, Wangel --
+
+(La _junuloj_ el la urbo venas de maldekstre, salutas kaj eliras
+dekstren. Kune kun ili venas _Arnholm_, _Bolette_, _Hilde_ kaj
+_Lyngstrand_.)
+
+BOLETTE
+(preterpasante) Ho, ĉu vi daŭre promenadas ĉi tie?
+
+ELLIDA
+Jes, estas freŝe kaj bone ĉi tie supre.
+
+ARNHOLM
+Ni, ni iros malsupren por danci.
+
+WANGEL
+Bone, bone. Ni baldaŭ postvenos, ankaŭ ni.
+
+HILDE
+Adiaŭ do, dume.
+
+ELLIDA
+Sinjoro Lyngstrand, -- atendu momenton.
+
+(_Lyngstrand_ haltas. _Arnholm_, _Bolette_ kaj _Hilde_ iras
+dekstren.)
+
+ELLIDA
+(al Lyngstrand) Ĉu ankaŭ vi iros danci?
+
+LYNGSTRAND
+Ne, sinjorino, mi ne kuraĝas.
+
+ELLIDA
+Ne. Pli bone ke vi estu singardema. Tio pri la brusto --. Vi ja
+ankoraŭ ne tute resaniĝis.
+
+LYNGSTRAND
+Ankoraŭ ne tute.
+
+ELLIDA
+(iom hezite) Kiom longe estas nun de kiam vi faris tiun vojaĝon --?
+
+LYNGSTRAND
+Kiam mi ricevis la difekton?
+
+ELLIDA
+Jes, la vojaĝon, pri kiu vi rakontis antaŭtagmeze.
+
+LYNGSTRAND
+Ho, estas eble ĉirkaŭ --. Atendu momenton. Jes, estas nun iom pli
+ol tri jaroj post tiam.
+
+ELLIDA
+Do tri jaroj.
+
+LYNGSTRAND
+Aŭ iom pli. Ni velis de Ameriko en Februaro. Kaj ni pereis en Marto.
+Estis la ekvinoksaj ŝtormoj, kiuj atakis nin.
+
+ELLIDA
+(rigardas al _Wangel_) Do je tiu tempo okazis --.
+
+WANGEL
+Sed kara Ellida --?
+
+ELLIDA
+Ne lasu nin reteni vin, sinjoro Lyngstrand. Vi iru. Sed ne dancu.
+
+LYNGSTRAND
+Ne, kaj nur rigardi. (Li eliras dekstren.)
+
+WANGEL
+Kara Ellida, -- kial vi demandis lin pri tiu vojaĝo?
+
+ELLIDA
+Johnston estis surŝipe. Mi certas.
+
+WANGEL
+El kio vi tion konkludas?
+
+ELLIDA
+(sen respondi) Surŝipe li sciiĝis, ke mi edziniĝis al aliulo. Dum
+li estis for. Kaj jen -- en la sama momento tio ĉi obsedis min!
+
+WANGEL
+Tiu timo?
+
+ELLIDA
+Jes. Okazas, ke subite mi vidas lin tute viva antaŭ mi. Aŭ vere iom
+flanke. Li neniam rigardas min. Li nur estas tie.
+
+WANGEL
+Kiel li aspektas por vi?
+
+ELLIDA
+Kiel mi laste vidis lin.
+
+WANGEL
+Antaŭ dek jaroj?
+
+ELLIDA
+Jes. Sur la Krutkabo. Plej klare mi vidas lian broĉon kun granda,
+bluece blanka perlo. Tiu perlo similas al fiŝokulo. Kaj ĝi kvazaŭ
+fiksrigardas min.
+
+WANGEL
+Je Dio --! Vi estas pli malsana ol mi opiniis. Pli malsana ol vi mem
+scias, Ellida.
+
+ELLIDA
+Jes, jes, -- helpu min, se vi povas! Ĉar sentiĝas ke tio tiriĝas
+pli kaj pli forte al mi.
+
+WANGEL
+Kaj en tia stato vi iris tri jarojn. Portis tiujn sekretajn suferojn
+sen konfidi vin al mi.
+
+ELLIDA
+Sed mi ja ne povis! Ne antaŭ nun, kiam fariĝis necese -- pro vi. Se
+mi konfidus tion ĉi al vi, -- mi devus ja ankaŭ konfidi al vi -- la
+nedireblaĵon.
+
+WANGEL
+La nedireblaĵon --?
+
+ELLIDA
+(defende) Ne, ne, ne! Ne demandu! Nur unu aferon ankoraŭ. Kaj tiam
+nenion pli. -- Wangel, -- kiel ni komprenu -- tiun enigmon pri la
+okuloj de la infano --?
+
+WANGEL
+Kara, benita Ellida, mi asertas al vi, ke estis nur imagaĵo. La
+infano havis ĝuste tiajn okulojn, kiel aliaj normalaj infanoj.
+
+ELLIDA
+Ne, ĝi ne havis! Ĉu ke vi tion ne povis vidi! La okuloj de la
+infano ŝanĝis koloron laŭ la maro. Kun sunbrila, trankvila fjordo,
+ĝiaj okuloj estis tiaj. En ŝtorma vetero laŭ ĝi. -- Ho, mi ja
+vidis, eĉ se vi ne rimarkis.
+
+WANGEL
+(cede) Hm, -- nu ja, nu ja. Sed eĉ se tiel estus? Kio do?
+
+ELLIDA
+(mallaŭte kaj pli proksime) Mi vidis tiajn okulojn antaŭe.
+
+WANGEL
+Kiam? Kaj kie --?
+
+ELLIDA
+Sur la Krutkabo. Antaŭ dek jaroj.
+
+WANGEL
+(retiras sin paŝon) Kiel -- kio --!
+
+ELLIDA
+(flustras treme) La infano havis la okulojn de tiu fremda viro.
+
+WANGEL
+(ekkrias senvole) Ellida --!
+
+ELLIDA
+(kunfrapas plende la manojn super la kapo) Nun vi ja komprenas, kial
+mi ne plu volas, -- neniam plu kuraĝas vivi kun vi kiel via edzino!
+
+(Ŝi turnas sin rapide kaj fuĝas dekstren malsupren la deklivoj.)
+
+WANGEL
+(rapidas post ŝi kriante) Ellida, -- Ellida! Mia kompatinda
+malfeliĉa Ellida!
+
+
+
+
+TRIA AKTO
+
+
+(Iom malproksima parto de la ĝardeno de _doktoro Wangel_. La loko
+estas humida, marĉa kaj kun ombrantaj, grandaj, maljunaj arboj.
+Dekstre vidiĝas la bordo de malpura lageto. Malalta interspacigita
+barilo apartigas la ĝardenon de la vojeto kaj la fjordo en la fono.
+Plej fore en la malproksimeco vidiĝas la montodorsoj kun montopintoj
+aliflanke de la fjordo. Estas malfrua posttagmezo, proksimume al
+vespero.)
+
+(_Bolette_ sidas sur ŝtonbenko dekstre kudrante. Sur la benko kuŝas
+kelkaj libroj kaj kudrilujo. _Hilde_ kaj _Lyngstrand_, ambaŭ kun
+fiŝkaptiloj, iras laŭ la bordo de la lageto.)
+
+HILDE
+(faras signon al _Lyngstrand_) Staru trankvile! Jen mi vidas unu
+grandan.
+
+LYNGSTRAND
+(ekrigardas) Kie ĝi staras?
+
+HILDE
+(montras) Ĉu vi ne vidas -- jen sube. Kaj rigardu jen! Je Dio,
+ankaŭ kroma (rigardas inter la arbojn) Pa! -- nun li venas kaj
+fortimigos ilin por ni!
+
+BOLETTE
+(ekrigardas) Kiu venas?
+
+HILDE
+Via ĉefinstruisto, panjo!
+
+BOLETTE
+Mia --?
+
+HILDE
+Jes, mia li, je Dio, neniam estis.
+
+(_Ĉefinstruisto Arnholm_ venas de dekstre el inter la arboj.)
+
+ARNHOLM
+Ĉu estas nun fiŝoj en la lageto?
+
+HILDE
+Jes, naĝas kelkaj tre maljunaj karasioj.
+
+ARNHOLM
+Ĉu, la maljunaj karasioj daŭre vivas?
+
+HILDE
+Jes, eltenaj ili estas. Sed nun ni fine kaptu kelkajn.
+
+ARNHOLM
+Vi devus prefere provi en la fjordo.
+
+LYNGSTRAND
+Ne, la lageto -- ĝi estas kvazaŭ pli mistera, por tiel paroli.
+
+HILDE
+Jes, ĉi tie estas pli ekscite. -- Ĉu vi naĝis hodiaŭ?
+
+ARNHOLM
+Ĝuste. Mi rekte venas de la banejo.
+
+HILDE
+Vi tenis vin en la baseno, ĉu?
+
+ARNHOLM
+Jes, mi ne estas lerta naĝisto.
+
+HILDE
+Ĉu vi povas naĝi surdorse?
+
+ARNHOLM
+Ne.
+
+HILDE
+Mi povas. (al _Lyngstrand_) Ni provu tie aliflanke.
+(Ili iras laŭ la lageto dekstren.)
+
+ARNHOLM
+(proksimiĝas al _Bolette_) Vi do sidas tute sola, Bolette?
+
+BOLETTE
+Ho, jes, tion mi plej ofte faras.
+
+ARNHOLM
+Via patrino ne estas en la ĝardeno, ĉu?
+
+BOLETTE
+Ne, eble ŝi promenas kune kun patro.
+
+ARNHOLM
+Kiel ŝi fartas nun posttagmeze?
+
+BOLETTE
+Mi ne certe scias. Mi forgesis pridemandi.
+
+ARNHOLM
+Kiajn librojn vi havas tie?
+
+BOLETTE
+Ho, unu estas io pri botaniko. La alia estas pri geografio.
+
+ARNHOLM
+Ĉu vi ŝatas tiajn legaĵojn?
+
+BOLETTE
+Jes, kiam mi havas tempon, --. Sed unue mi devas ja zorgi pri la
+mastrumado.
+
+ARNHOLM
+Sed ĉu via patrino ne helpas -- via duon-patrino -- ĉu ŝi ne
+helpas vin?
+
+BOLETTE
+Ne, estas mia afero. Mi devis ja zorgi pri la mastrumado la du
+jarojn, kiam patro estis sola. Kaj tiel daŭris poste.
+
+ARNHOLM
+Sed la saman deziron legi vi daŭre havas.
+
+BOLETTE
+Jes, mi legas, kion mi povas trovi el utilaj libroj. Oni volas ja
+scii ion pri la mondo. Ĉar ĉi tie ni ja vivas tute ekster ĉio. Nu,
+proksimume, do.
+
+ARNHOLM
+Sed kara Bolette, ne parolu do tiel.
+
+BOLETTE
+Ho jes. Ŝajnas al mi ke ni ne vivas alimaniere ol la karasioj en tiu
+lageto. La fjordo estas proksima, kaj tie naĝadas la grandaj aroj da
+fiŝoj enen kaj elen. Sed pri tio la kompatindaj malsovaĝaj
+dresfiŝoj nenion scias. Kaj tie ili neniam povas partopreni.
+
+ARNHOLM
+Mi opinias, ke ne estus avantaĝe por ili lasi ilin tien.
+
+BOLETTE
+Ho, ŝajnas al mi, ke pri tio ne gravus.
+
+ARNHOLM
+Cetere vi ne povas diri, ke ĉi tie oni estas metita tute ekster la
+vivo. Almenaŭ ne dum la somero. Ĉi tiujn tagojn estas ja kvazaŭ
+kunvenejo por la tuta monda vivo. Kvazaŭ nodpunkto -- tiel
+preterpase.
+
+BOLETTE
+(ridetas) Ho jes, vi, kiu nur venas tiel preterpase, povas ja facile
+ridindigi nin.
+
+ARNHOLM
+Ridindigi --? Kial vi pensas tiel?
+
+BOLETTE
+Jes, ĉar tio pri kunvenejo kaj nodpunkto por la monda vivo estas ja
+io, kion vi aŭdis diri en la urbo. Jes, ĉar ili paroladas ja tiel.
+
+ARNHOLM
+Jes, verdire mi tion rimarkis.
+
+BOLETTE
+Sed vere ne troviĝas vera vorto en tio. Ne por ni, kiuj daŭre
+loĝas ĉi tie. Kio utilas por ni, ke la granda fremda mondo
+preterpasas por vojaĝi norden por vidi la noktomezan sunon? Ni ja ne
+povas kuniri. Ni ja ne vidos iun noktomezan sunon. Ho ne, ni devas
+obeeme pasigi nian vivon ĉi tie en nia karasi-lageto.
+
+ARNHOLM
+(eksidas apud ŝi) Diru do nun, kara Bolette, -- ĉu ne estas io aŭ
+alia, -- io preciza, mi pensas, al kio vi ĉi tie hejme sopiras?
+
+BOLETTE
+Ho jes, povus esti.
+
+ARNHOLM
+Kaj kio do vere estas tio? Kion vi tiel postsopiras?
+
+BOLETTE
+Unue iri elen.
+
+ARNHOLM
+Tio do unue?
+
+BOLETTE
+Jes. Kaj poste lerni iom pli. Scii ion ĝustan pri la aferoj.
+
+ARNHOLM
+Kiam mi instruis vin, via patro diris ofte, ke li lasus vin studi.
+
+BOLETTE
+Jes, kompatinda patro, -- li multe diras. Sed kiam venas al la realo,
+--. Vere ne estas iu meminstigo en patro.
+
+ARNHOLM
+Bedaŭrinde ne, vi pravas. Vere ne estas. Sed ĉu vi iam parolis kun
+li pri tio? Sincere kaj instige?
+
+BOLETTE
+Ne, efektive mi ne faris.
+
+ARNHOLM
+Sed sciu, tion vi devus do fari. Antaŭ ol fariĝos tro malfrue,
+Bolette. Kial vi ne tion faras?
+
+BOLETTE
+Ho, eble pro tio ke ne estas vera meminstigo eĉ en mi, mi pensas.
+Eble mi heredis tion de patro.
+
+ARNHOLM
+Hm, -- mi miras ĉu vi ne estas maljusta al vi mem en tio?
+
+BOLETTE
+Ho ne, bedaŭrinde. Kaj aldone patro havas malmultan tempon pensi pri
+mi kaj mia estonto. Li eĉ ne emas. Tiaĵoj li preferas forpuŝi, se
+li povas. Ĉar Ellida ja tiom koncernas lin --
+
+ARNHOLM
+Kiu --? Kiel --?
+
+BOLETTE
+Mi pensas, ke li kaj mia duonpatrino --. (interrompante) Patro kaj
+patrino havas ja sian vivon, komprenu.
+
+ARNHOLM
+Nu, do tiom pli bone estus, se vi liberiĝus el tio ĉi.
+
+BOLETTE
+Jes, sed ŝajnas al mi, ke mi ne rajtas. Ne rajtas forlasi patron.
+
+ARNHOLM
+Sed kara Bolette, tion vi ja iun fojon tamen devas. Tial mi opinias,
+ke vi ju pli frue --
+
+BOLETTE
+Jes, devas ja okazi. Mi devas ja ankaŭ pensi pri mi mem. Provi trovi
+iun aŭ alian okupon. Kiam patro iam forpasos, mi ja nenion havas por
+mia subteno. -- Mia kompatinda patro, -- mi zorge timas forlasi lin.
+
+ARNHOLM
+Timas --?
+
+BOLETTE
+Jes, pro patro.
+
+ARNHOLM
+Sed, je dio, via duonpatrino do? Ŝi ja restas ĉe li.
+
+BOLETTE
+Jes, kompreneble. Sed ŝi ne estas kapabla por tio, kion patrino tiel
+facile ordigis. Estas multe, kion tiu ĉi ne _vidas_. Aŭ eble ne
+_volas_ vidi, -- aŭ ne _atentas_. Mi ne scias kiel estas.
+
+ARNHOLM
+Hm, -- eble mi komprenas al kio vi aludas.
+
+BOLETTE
+Kompatinda patro, -- iel li estas malforta. Vi eble mem tion
+rimarkis. Li ja ankaŭ ne havas sufiĉan profesian laboron por
+plenigi la tempon. Kaj aldone tio, ke ŝi tute ne kapablas stari
+flanke de li. -- Pri tio li tamen iomete mem kulpas.
+
+ARNHOLM
+Kiel, vi pensas?
+
+BOLETTE
+Ho, patro deziras ja ĉiam vidi gajajn vizaĝojn ĉirkaŭ si. Estu
+suna vetero kaj ĝojo en la domo, li diras. Tial mi timas, ke
+multfoje li donas al ŝi medicinon, kiu ne estas bona por ŝi
+longtempe.
+
+ARNHOLM
+Ĉu vi vere opinias tion?
+
+BOLETTE
+Jes, mi ne povas liberiĝi de tiu penso. Ĉar foje ŝi estas tre
+stranga. (impete) Sed ĉu do estas juste, ke mi restadu en la
+hejmo! Vere ne estas utile por patro. Kaj mi ja ankaŭ havas devojn
+al mi mem, mi pensas.
+
+ARNHOLM
+Sciu, kara Bolette, -- tiujn aferojn ni pli profunde priparolu.
+
+BOLETTE
+Ho, ne multe utilas. Eble mi estas kreita por resti ĉi tie en la
+karasi-lageto, mi pensas.
+
+ARNHOLM
+Tute ne. Tio dependas de vi mem.
+
+BOLETTE
+(vigle) Ĉu vi pensas?
+
+ARNHOLM
+Jes, kredu min. Dependas tute de vi mem.
+
+BOLETTE
+Ho, se mi vere povus --! Eble vi volas paroli al patro por mi?
+
+ARNHOLM
+Ankaŭ tio. Sed unue mi volas paroli sincere kaj senrezerve al vi
+mem, kara Bolette. (rigardas maldekstren) Tŝŝ! Ne komprenigu ion.
+Ni revenu al tio poste.
+
+(_Ellida_ venas de maldekstre. Ŝi ne havas ĉapelon, sed portas
+grandan tukon ĵetitan sur la kapon kaj ŝultrojn.)
+
+ELLIDA
+(en maltrankvila vigleco) Ĉi tie estas bone! Ĉi tie estas belege!
+
+ARNHOLM
+(ekstaras) Vi faris promenadon?
+
+ELLIDA
+Jes, longan, longan ravan promenadon supren kun Wangel. Kaj nun ni
+eliros veladi.
+
+BOLETTE
+Ĉu vi ne volas sidi?
+
+ELLIDA
+Ne, dankon. Ne sidi.
+
+BOLETTE
+(movigas sin sur la benko) Ĉar estas sufiĉa loko.
+
+ELLIDA
+(ĉirkaŭiras) Ne, ne, ne. Ne sidi. Ne sidi.
+
+ARNHOLM
+La promenado bone efikis al vi. Vi aspektas vigligite.
+
+ELLIDA
+Ho, mi sentas min kore feliĉa! Sekura! Sekura --. (rigardas
+maldekstren) Kia granda vaporŝipo estas tiu venanta?
+
+BOLETTE
+(ekstaras kaj elrigardas) Devas esti la granda angla.
+
+ARNHOLM
+Ĝi ĵetas ankron apud la barelbuo. Ĉu ĝi kutimas halti ĉi tie?
+
+BOLETTE
+Nur duonan horon. Ĝi vojaĝos pli internen en la fjordon.
+
+ELLIDA
+Kaj poste elen -- morgaŭ. Elen sur la grandan, vastan maron. Eĉ
+trans la maron. Imagu, -- kunvojaĝi! Ho, se mi povus! Se mi povus!
+
+ARNHOLM
+Ĉu vi neniam faris iom longan marvojaĝon, sinjorino Wangel?
+
+ELLIDA
+Neniam. Nur etaj ekskursoj ĉi tie en la fjordoj.
+
+BOLETTE
+(kun suspiro) Ho ne, ni devas resti dankemaj ke ni havas la teron.
+
+ARNHOLM
+Nu, ĉi tie ni ja vere havas nian hejmon.
+
+ELLIDA
+Ne, mi tute ne kredas, ke ni havas.
+
+ARNHOLM
+Ne sur la tero?
+
+ELLIDA
+Ne. Mi tion ne kredas. Mi kredas, ke se la homoj kutimiĝis vivi sur
+la maro, -- eble en la maro, -- ni estus pli perfektaj ol ni nun
+estas. Pli bonaj kaj feliĉaj.
+
+ARNHOLM
+Ĉu vi vere tion kredas?
+
+ELLIDA
+Jes, mi miras ĉu ni ne tiaj estus. Mi multfoje parolis kun Wangel
+pri tio --
+
+ARNHOLM
+Nu, kaj li --?
+
+ELLIDA
+Jes, li pensas, ke eble estus.
+
+ARNHOLM
+(ŝerce) Nu, nu. Sed nun ja estas tiel. Ni ja nun estas sur la
+malĝusta vojo kaj fariĝis teruloj anstataŭ maraj estaĵoj.
+Ĉiuokaze estas certe nun tro malfrue ĝustigi la eraron.
+
+ELLIDA
+Jes, vi jen diras bedaŭrindan veron. Kaj mi pensas, ke la homoj
+suspektas ion tian mem. Ke ili portadas tion, kiel sekretan penton
+kaj malĝojon. Kredu min, -- en tio la malgajo de la homoj havas sian
+plej profundan kaŭzon. Jes, -- kredu min.
+
+ARNHOLM
+Sed kara sinjorino Wangel, -- mi ne ekhavis la impreson, ke la homoj
+estas tre malgajaj. Kontraŭe ŝajnas al mi, ke la plimulto rigardas
+la vivon brile kaj facile -- kaj en granda, trankvila, senkonscia
+ĝojo.
+
+ELLIDA
+Ho ne, tiel ne estas. Tiu ĝojo -- ĝi estas kiel nia ĝojo pro la
+longa, hela somera tagnokto. Ĝi kunportas la rememorigon pri la
+venonta sombra tempo. Kaj tiu rememorigo ĵetas sian ombron sur la
+homan ĝojon, -- kiel la drivanta nubo ĵetas sian ombron sur la
+fjordon. Jen ĝi kuŝis brila kaj blua. Kaj jen subite --
+
+BOLETTE
+Vi ne devus okupiĝi pri tiaj malĝojaj pensoj nun. Ĵus vi ja estis
+ĝoja kaj gaja --
+
+ELLIDA
+Jes, jes, mi ja estis. Ho, tio ĉi -- estas stulte de mi.
+(ĉirkaŭrigardas maltrankvile) Ke Wangel nun venu. Li decide
+promesis al mi. Sed li tamen ja ne venas. Li forgesis. Ho, kara
+Arnholm, bonvolu trovi lin por mi?
+
+ARNHOLM
+Jes, volonte.
+
+ELLIDA
+Diru, ke li devas tuj veni. Ĉar nun mi ne povas vidi lin --
+
+ARNHOLM
+Ne povas vidi lin --?
+
+ELLIDA
+Ho, vi ne komprenas. Kiam li ne ĉeestas, mi ofte ne povas memori,
+kiel li aspektas. Kaj tiam estas kvazaŭ mi tute perdis lin. -- Estas
+terure embarase. Sed iru!
+
+(Ŝi ĉirkaŭiras apud la lageto.)
+
+BOLETTE
+(al _Arnholm_) Mi kuniros. Vi ja ne certe scias --
+
+ARNHOLM
+Ho, ĉu? Mi certe --
+
+BOLETTE
+(duonlaŭte) Ne, ne, mi estas maltrankvila. Mi timas, ke li estas
+sur la ŝipo.
+
+ARNHOLM
+Timas?
+
+BOLETTE
+Jes, li kutimas rigardi, ĉu estas konatuloj kun ĝi. Kaj ankaŭ ja
+estas restoracio tie --
+
+ARNHOLM
+Ah! Jes, venu.
+
+(Li kaj _Bolette_ eliras maldekstren.)
+
+(_Ellida_ staras momenton rigardante en la lageton. Foje ŝi parolas
+mallaŭte kaj interrompe al si mem.)
+
+(Ekstere sur la vojeto malantaŭ la barilo venas de dekstre fremda
+_vojaĝvestita viro_. Li havas tufajn ruĝajn harojn kaj barbon.
+Skotan ĉapon sur la kapo kaj vojaĝsakon per rimeno trans la
+ŝultro.)
+
+LA FREMDULO
+(iras malrapide laŭ la barilo kaj observadas la ĝardenon. Kiam li
+vidas Ellida, li haltas, rigardas ŝin fikse kaj daŭre kaj diras
+mallaŭte:) Bonan vesperon, Ellida!
+
+ELLIDA
+(turnas sin kaj krias) Ho kara, -- ĉu vi fine venas!
+
+LA FREMDULO
+Jes, fine.
+
+ELLIDA
+(rigardas lin en surprizo kaj timo) Kiu estas vi? Ĉu vi serĉas iun
+ĉi tie?
+
+LA FREMDULO
+Vi ja certe komprenas.
+
+ELLIDA
+(ekmiras) Kio _tio_ estas? Kiel vi alparolas min! Kiun vi serĉas?
+
+LA FREMDULO
+Mi ja serĉas vin.
+
+ELLIDA
+(ekskuiĝas) Aah --! (fiksrigardas lin, ŝanceliĝas malantaŭen
+kaj eligas duone sufokitan krion:) La okuloj! -- La okuloj!
+
+LA FREMDULO
+Nu, -- fine vi komencas rekoni min? Mi tuj rekonis vin, Ellida.
+
+ELLIDA
+La okuloj! Ne rigardu min tiel! Mi krias por helpo!
+
+LA FREMDULO
+Tŝ, tŝ! Ne timu. Mi ja nenion faras al vi.
+
+ELLIDA
+(tenas la manon antaŭ la okuloj) Ne rigardu min, mi diras!
+
+LA FREMDULO
+(klinas sin per la brakoj sur la barilon) Mi venis per la angla
+vaporŝipo.
+
+ELLIDA
+(ekrigardas lin evite) Kion vi volas pri mi?
+
+LA FREMDULO
+Mi ja promesis reveni tuj kiam mi povus --
+
+ELLIDA
+Foriru! Foriru denove! Ne revenu -- neniam revenu ĉi tien! Mi ja
+skribis al vi, ke ĉio estu finita inter ni! Ĉio! Vi ja scias!
+
+LA FREMDULO
+(neĝenita, ne respondante) Mi volus reveni al vi pli frue. Sed mi
+ne povis. Nun mi fine povas. Kaj jen vi nun havas min, Ellida.
+
+ELLIDA
+Kion vi volas pri mi? Pri kio vi pensas? Kial vi venis?
+
+LA FREMDULO
+Vi ja certe scias, ke mi venis por serĉi vin.
+
+ELLIDA
+(retiras sin en timo) Serĉi min! Ĉu _tion_ vi intencas!
+
+LA FREMDULO
+Jes, kompreneble.
+
+ELLIDA
+Sed vi ja scias, ke mi edziniĝis!
+
+LA FREMDULO
+Mi scias.
+
+ELLIDA
+Kaj tamen --! Tamen vi venas por -- por -- serĉi min!
+
+LA FREMDULO
+Jes, kompreneble.
+
+ELLIDA
+(kaptas la kapon per ambaŭ manoj) Ho tio terura --! Ho tio terura,
+terura --!
+
+LA FREMDULO
+Ĉu eble vi ne volas?
+
+ELLIDA
+(konfuzita) Ne rigardu min tiel!
+
+LA FREMDULO
+Mi demandas ĉu vi eble ne volas?
+
+ELLIDA
+Ne, ne, ne! Mi ne volas! En eterno, neniam! Mi ne volas, mi diras! Mi
+nek povas nek volas! (pli mallaŭte) Mi ankaŭ ne kuraĝas.
+
+LA FREMDULO
+(transpaŝas la barilon kaj venas en la ĝardenon) Ja, ja, do,
+Ellida, -- permesu al mi diri unu vorton antaŭ ol mi forvojaĝos.
+
+ELLIDA
+(volas fuĝi, sed ne povas. Ŝi staras kvazaŭ lama en timo, kaj
+apogas sin al arbotrunko apud la lageto.) Ne tuŝu min! Ne
+proksimiĝu! Ne pli proksimen! Ne tuŝu min, mi diras!
+
+LA FREMDULO
+(singardeme, kelkajn paŝojn pli proksimen al ŝi) Ne timu min,
+Ellida.
+
+ELLIDA
+(ĵetas la manojn antaŭ la okulojn) Ne rigardu min tiel!
+
+LA FREMDULO
+Ne timu. Ne timu.
+
+(_Doktoro Wangel_ venas tra la ĝardeno de maldekstre.)
+
+WANGEL
+(ankoraŭ duone inter la arboj) Nu, vi ja atendis min sufiĉe longe.
+
+ELLIDA
+(kuras al li, kroĉas sin al lia brako kaj krias:) Ho, Wangel, --
+savu min! Savu min vi -- se vi povas!
+
+WANGEL
+Ellida, -- kio je Dio --!
+
+ELLIDA
+Savu min, Wangel! Ĉu vi ne vidas lin? Jen li staras!
+
+WANGEL
+(alrigardas) La viro _tie_? (proksimiĝas) Permesu demandon, --
+kiu estas _vi_? Kaj kial vi venas en la ĝardenon?
+
+LA FREMDULO
+(indikas per kapsigno al Ellida) Mi volas paroli kun jena virino.
+
+WANGEL
+Nu ja. Do certe estis vi --? (al _Ellida_) Mi aŭdis, ke fremda
+viro venis en la korton por vin demandi.
+
+LA FREMDULO
+Jes, estis mi.
+
+WANGEL
+Kaj kion vi deziras de mia edzino? (turnas sin) Ĉu vi konas lin,
+Ellida?
+
+ELLIDA
+(mallaŭte, tordas la manojn) Ho, se mi lin konas! Jes, jes, jes!
+
+WANGEL
+(rapide) Nu!
+
+ELLIDA
+Ho, estas ja _li_, Wangel! Estas li mem! Li, kiel vi scias --!
+
+WANGEL
+Ĉu! Kion vi diras! (turnas sin) Ĉu vi estas tiu Johnston, kiu iam
+--?
+
+LA FREMDULO
+Nu, -- Vi povas nomi min Johnston. Bonvolu. Cetere mi ne tiel
+nomiĝas.
+
+WANGEL
+Ĉu ne?
+
+LA FREMDULO
+Nun ne plu, ne.
+
+WANGEL
+Kaj kion vi deziras de mia edzino? Vi ja scias, ke la filino de la
+lumturgardisto edziniĝis antaŭ longe. Kaj al kiu ŝi edziniĝis, vi
+devas ja ankaŭ scii.
+
+LA FREMDULO
+Mi ja scias dum pli ol tri jaroj.
+
+ELLIDA
+(streĉe) Kiel vi sciiĝis?
+
+LA FREMDULO
+Survoje hejmen al vi. Mi kaptis malnovan gazeton. Estis gazeto el tiu
+ĉi regiono. Ĝi rakontis pri la geedziĝo.
+
+ELLIDA
+(rigardas antaŭen) La geedziĝo --. Do _tio_ estis --
+
+LA FREMDULO
+Efikis sur min strange. Ĉar tio pri la ringoj, -- tio ja ankaŭ
+estis geedziĝo, Ellida.
+
+ELLIDA
+(frapas la manojn antaŭ la vizaĝon) Ho --!
+
+WANGEL
+Kiel vi kuraĝas --!
+
+LA FREMDULO
+Vi tion forgesis, ĉu?
+
+ELLIDA
+(sentas lian rigardon kaj krietas) Ne staru tiel min fiksrigardante!
+
+WANGEL
+(paŝas antaŭ lin) Vi turnu vin al mi kaj ne al ŝi. Do, mallonge,
+-- ĉar vi ja konas la situacion, -- kion vi do volas ĉi tie? Kial
+vi venas por trovi mian edzinon?
+
+LA FREMDULO
+Mi promesis al Ellida veni al ŝi plej eble frue.
+
+WANGEL
+Ellida --! Nun denove!
+
+LA FREMDULO
+Kaj Ellida promesis al mi tute certe atendi min ĝis mi venus.
+
+WANGEL
+Mi aŭdas, ke vi nomas mian edzinon per antaŭnomo. Tian intimecon ne
+estas kutimo ĉe ni.
+
+LA FREMDULO
+Mi bone scias. Sed ĉar ŝi unue apartenas al _mi_ --
+
+WANGEL
+Al _vi_! Ankoraŭ --!
+
+ELLIDA
+(kaŝas sin malantaŭ _Wangel_) Ho --! Li neniam malkaptas min!
+
+WANGEL
+Al _vi_! Vi diras, ke ŝi apartenas al vi, ĉu!
+
+LA FREMDULO
+Ĉu ŝi rakontis al vi pri du ringoj? Mia ringo kaj tiu de Ellida?
+
+WANGEL
+Nu jes. Sed kio do? Ŝi ja poste rompis tion. Vi ricevis ŝiajn
+leterojn. Vi do mem scias.
+
+LA FREMDULO
+Kaj Ellida kaj mi samopiniis, ke tio pri la ringoj valorus same
+decide kiel geedziĝo.
+
+ELLIDA
+Sed mi ne volas, vi ja aŭdas! Neniam, neniam volas mi konatiĝi kun
+vi! Ne rigardu min tiel! Mi ne volas, mi diras!
+
+WANGEL
+Vi estas freneza homo, se vi opinias, ke vi povas veni ĉi tien kaj
+konstrui iun rajton sur tia infanludo.
+
+LA FREMDULO
+Ĝuste. Iun rajton, -- en via senco de la vorto, -- mi ja tute ne
+havas.
+
+WANGEL
+Sed kion vi do volas fari? Vi do ne imagas al vi, ke vi povas preni
+ŝin de mi perforte! Kontraŭ ŝia propra volo!
+
+LA FREMDULO
+Ne. Kiel tio utilus? Se Ellida volas sekvi min, ŝi devas veni
+libervole.
+
+ELLIDA
+(ekmiras kaj ekdiras) Libervole --!
+
+WANGEL
+Kaj tion vi povus imagi al vi --!
+
+ELLIDA
+(al si mem) Libervole --!
+
+WANGEL
+Vi estas freneza. Foriru! Ni ne plu okupiĝu pri vi.
+
+LA FREMDULO
+(rigardas sian brakhorloĝon) Baldaŭ estas tempo iri surŝipen.
+(paŝon pli proksimen) Nu ja, Ellida, -- nun mi faris mian devon.
+(ankoraŭ pli proksimen) Mi tenis mian promeson al vi.
+
+ELLIDA
+(petante, iras malantaŭen) Ho, ne tuŝu min!
+
+LA FREMDULO
+Kaj nun vi pripensu ĝis morgaŭ nokte --
+
+WANGEL
+Estas nenio por pripensi. Foriru!
+
+LA FREMDULO
+(daŭre al _Ellida_) Mi nun iros per la vaporŝipo internen en la
+fjordon. Morgaŭ nokte mi do revenos. Kaj mi enrigardos ĉe vi.
+Atendu min ĉi tie en la ĝardeno. Ĉar mi preferas decidi la aferon
+kun vi sola, vi komprenas.
+
+ELLIDA
+(mallaŭte, tremante) Ho, vi aŭdas, Wangel!
+
+WANGEL
+Estu trankvila. Tiun viziton ni scios malhelpi.
+
+LA FREMDULO
+Adiaŭ do ĝis tiam, Ellida. Morgaŭ nokte.
+
+ELLIDA
+(petante) Ho ne, ne, -- ne revenu morgaŭ nokte! Neniam plu revenu!
+
+LA FREMDULO
+Kaj se tiam vi deziros sekvi min trans la maron --
+
+ELLIDA
+Ho, ne rigardu min tiel!
+
+LA FREMDULO
+Mi nur pensas, ke vi devas pretigi vin por vojaĝo.
+
+WANGEL
+Iru en la domon, Ellida.
+
+ELLIDA
+Mi ne povas. Ho, helpu min! Savu min, Wangel!
+
+LA FREMDULO
+Ĉar vi devas sincere pripensi, ĉar se vi ne sekvos min morgaŭ, la
+tuta afero estos finita.
+
+ELLIDA
+(_Ellida_ rigardas lin tremante) Kaj ĉio estos finita, ĉu? Por
+ĉiam --?
+
+LA FREMDULO
+(kun kapsigno) Neniam estos ĝi refarebla, Ellida. Mi neniam revenos
+al tiuj ĉi landoj. Vi neniam plu revidos min. Ankaŭ neniam plu
+aŭdos de mi. Tiam mi estos kiel morta kaj for de vi por ĉiam.
+
+ELLIDA
+(spiras maltrankvile) Hoh --!
+
+LA FREMDULO
+Pensu do sincere pri via faro. Adiaŭ. (transpaŝas la barilon,
+haltas kaj diras:) Nu, Ellida, -- tenu vin preta morgaŭ nokte. Ĉar
+tiam mi venos ĉi tien por serĉi vin.
+
+(Li foriras malrapide kaj trankvile laŭ la vojeto dekstren.)
+
+ELLIDA
+(tempeton postrigardas lin) Libervole, li diris! Imagu, -- li diris,
+ke libervole mi sekvu lin.
+
+WANGEL
+Estu nur prudenta. Nun li ja estas for. Kaj vi neniam lin revidos.
+
+ELLIDA
+Ho, kiel povas vi tion diri? Li ja revenos morgaŭ nokte.
+
+WANGEL
+Lasu lin veni. Vin li almenaŭ ne renkontu.
+
+ELLIDA
+(skuas la kapon) Ho, Wangel, ne pensu, ke vi povos malhelpi lin.
+
+WANGEL
+Jes, kara, -- fidu min.
+
+ELLIDA
+(cerbumante, ne lin aŭskultante) Post kiam li estos estinta ĉi tie
+-- morgaŭ nokte --? Kaj kiam li estos vojaĝinta trans la maron per
+la vaporŝipo --?
+
+WANGEL
+Jes, kio do?
+
+ELLIDA
+Ĉu tiam li neniam -- neniam plu revenos?
+
+WANGEL
+Ne, kara Ellida, tion vi fidu. Kion li farus ĉi tie post tio ĉi? Li
+ja aŭdis el via propra buŝo, ke vi ne volas sekvi lin. Tiel la
+afero estas finita.
+
+ELLIDA
+(al si mem) Morgaŭ, do. Aŭ neniam.
+
+WANGEL
+Kaj eĉ se li revenus --
+
+ELLIDA
+Kio do --?
+
+WANGEL
+Estos en nia potenco sendanĝerigi lin.
+
+ELLIDA
+Ho ne kredu.
+
+WANGEL
+Estas en nia potenco, mi diras! Se li ne lasas sin pacigi alimaniere,
+li punpagu pro murdo al la ŝipestro.
+
+ELLIDA
+(impete) Ne, ne, ne! Neniam tio! Ni scias nenion pri la murdo al la
+ŝipestro! Vere nenion!
+
+WANGEL
+Ĉu ni ne scias! Li ja mem konfesis tion al vi!
+
+ELLIDA
+Ne, nenion pri tio! Se vi ion diras, mi neas. Ne enfermu lin! Li
+apartenas al la vasta maro. Tie li apartenas.
+
+WANGEL
+(rigardas ŝin, kaj diras malrapide) Ah, Ellida, -- Ellida!
+
+ELLIDA
+(kroĉas sin senbride al li) Ho, kara, fidela, -- savu min de tiu
+viro!
+
+WANGEL
+(liberigas sin singardeme) Venu! Venu kun mi!
+
+(_Lyngstrand_ kaj _Hilde_, ambaŭ kun fiŝkaptiloj, venas de dekstre
+ĉe la lageto.)
+
+LYNGSTRAND
+(iras rapide al _Ellida_) Ho nun, sinjorino, nun vi aŭdu ion
+strangan!
+
+WANGEL
+Kaj kion?
+
+LYNGSTRAND
+Imagu, -- ni vidis la usonanon!
+
+WANGEL
+La usonanon?
+
+HILDE
+Jes, ankaŭ mi vidis lin.
+
+LYNGSTRAND
+Li iris malantaŭ la ĝardeno kaj poste sur la grandan anglan
+vaporŝipon.
+
+WANGEL
+De kie vi konas tiun viron?
+
+LYNGSTRAND
+Mi foje estis maristo sur la sama ŝipo kiel li. Mi certe kredis, ke
+li dronis. Sed li ja estas tute viva.
+
+WANGEL
+Ĉu vi scias ion pli pri li?
+
+LYNGSTRAND
+Ne. Sed li eble venis por venĝi sin sur sia nefidela marista edzino.
+
+WANGEL
+Kion vi diras?
+
+HILDE
+Lyngstrand volas uzi lin por fari artaĵon.
+
+WANGEL
+Mi ne komprenas --
+
+ELLIDA
+Vi aŭdos poste.
+
+(_Arnholm_ kaj _Bolette_ venas de maldekstre sur la vojeto ekster la
+barilo.)
+
+BOLETTE
+(al tiuj en la ĝardeno) Venu kaj rigardu! La angla vaporŝipo iras
+enen en la fjordon. (Granda vaporŝipo drivas preterpase en la
+foro.)
+
+LYNGSTRAND
+(al _Hilde_ apud la barilo) Ĉi-nokte li kaptos ŝin.
+
+HILDE
+(kapsignas) La malfidelan marist-edzinon, -- jes.
+
+LYNGSTRAND
+Imagu, -- meznokte.
+
+HILDE
+Estos ekscite.
+
+ELLIDA
+(postrigardas la ŝipon) Morgaŭ do --
+
+WANGEL
+Kaj poste neniam plu.
+
+ELLIDA
+(mallaŭte kaj tremante) Ho, Wangel, -- savu min de mi mem!
+
+WANGEL
+(rigardas ŝin timeme) Ellida! Mi suspektas, -- estas io malantaŭe.
+
+ELLIDA
+La tiranta logo estas malantaŭe.
+
+WANGEL
+La tiranta logo --?
+
+ELLIDA
+Tiu viro estas kiel la maro.
+
+(Malrapide kaj cerbumante ŝi iras tra la ĝardeno maldekstren.
+_Wangel_, maltrankvila, iras flanke de ŝi kaj observas ŝin atente.)
+
+
+
+
+KVARA AKTO
+
+
+(La ĝardenĉambro de _doktoro Wangel_. Pordojn dekstre kaj
+maldekstre. En la fono inter la du fenestroj estas malferma
+vitropordo al la verando. Malsupre de ĝi vidiĝas parton de la
+ĝardeno. Sofo kun tablo antaŭe maldekstre. Dekstre estas piano, kaj
+pli malantaŭe estas granda tabla ornamvazo. Meze sur la planko estas
+ronda tablo kun seĝoj ĉirkaŭe. Sur la tablo rozarbusto en florado
+kaj aliaj potfloroj ĉirkaŭ ĝi. -- Estas antaŭtagmeze.)
+
+(En la ĉambro apud la tablo sidas maldekstre _Bolette_ en la sofo,
+okupata pri brodaĵo. _Lyngstrand_ sidas sur seĝo ĉe la fino de la
+tablo. Malsupre en la ĝardeno sidas _Ballested_ pentrante. _Hilde_
+staras apud lin rigardante.)
+
+LYNGSTRAND
+(kun la brakoj sur la tablo. Dum tempo li sidas silente rigardante la
+laboradon de _Bolette_.) Aspektas tre malfacile kudri tian
+bordaĵon, fraŭlino Wangel.
+
+BOLETTE
+Ho ne. Ne estas malfacile. Nur nombru ĝuste --
+
+LYNGSTRAND
+Nombri? Ĉu vi devas ankaŭ nombri?
+
+BOLETTE
+Jes, la kudrerojn. Rigardu.
+
+LYNGSTRAND
+Ĝuste ja! Imagu! Estas ja kvazaŭ iu arto. Ĉu vi povas ankaŭ
+desegni?
+
+BOLETTE
+Ho jes, kiam mi havas modelon antaŭ mi.
+
+LYNGSTRAND
+Alie ne?
+
+BOLETTE
+Ne, alie ne.
+
+LYNGSTRAND
+Do tamen ne estas vera arto.
+
+BOLETTE
+Ne, ĝi pli estas -- mana lerteco.
+
+LYNGSTRAND
+Sed mi opinias ke vi certe povus _lerni_ arton.
+
+BOLETTE
+Kiam mi ne havas talenton?
+
+LYNGSTRAND
+Tamen. Se vi ĉiam estus kune kun vera artisto --
+
+BOLETTE
+Kaj vi opinias, ke mi povus lerni de li?
+
+LYNGSTRAND
+Ne lerni tiel ordinare. Sed mi opinias ke ĝi venus en vin iom post
+iom. Kvazaŭ miraklo, fraŭlino Wangel.
+
+BOLETTE
+Strange.
+
+LYNGSTRAND
+(iom poste) Ĉu vi pripensis --? Mi intencas diri -- ĉu vi
+pripensis pli profunde kaj serioze pri geedzeco, fraŭlino?
+
+BOLETTE
+(rigardas lin preterpase) Pri --? Ne.
+
+LYNGSTRAND
+Mi faris.
+
+BOLETTE
+Vi, ĉu?
+
+LYNGSTRAND
+Jes ja, -- mi ofte pripensas tiajn aferojn. Pleje pri geedzeco. Kaj
+aldone mi ja multe legis en libroj. Mi opinias, ke geedzeco estas ia
+miraklo. Ke la virino laŭe ŝanĝiĝas por esti simila al sia edzo.
+
+BOLETTE
+Ricevas liajn interesojn, vi pensas?
+
+LYNGSTRAND
+Jes, ĝuste!
+
+BOLETTE
+Nu, sed liaj kapabloj do? Kaj liaj talentoj kaj lerteco?
+
+LYNGSTRAND
+Hm, jes, -- mi miras ĉu ne ankaŭ tiuj --
+
+BOLETTE
+Kaj sekve vi kredas, ke tio kion viro legis -- aŭ pensis, -- tio
+ankaŭ transpasus al lia edzino?
+
+LYNGSTRAND
+Ankaŭ tio, jes. Iom post iom. Kvazaŭ mirakle. Sed mi ja scias, ke
+tio povas nur okazi en fidela kaj amoplena geedzeco kaj vere feliĉa.
+
+BOLETTE
+Ĉu vi neniam pensis, ke viro tiel povus tiriĝi al sia edzino?
+Fariĝi simila al ŝi, mi pensas.
+
+LYNGSTRAND
+Viro? Ne, tion mi ne imagis.
+
+BOLETTE
+Kial ne same por li kiel por ŝi?
+
+LYNGSTRAND
+Ne, ĉar viro havas ja vivotaskon por kiu vivi. Kaj estas _tio_, kio
+fortigas la viron, fraŭlino Wangel. Li havas vivotaskon, li.
+
+BOLETTE
+Ĉiuj?
+
+LYNGSTRAND
+Ho ne. Mi vere pensis pri la artisto.
+
+BOLETTE
+Ĉu vi pensas, ke estas ĝusta faro de artisto, ke li edziĝas?
+
+LYNGSTRAND
+Jes, mi opinias. Se li trovas iun, kiun li kore amas, --
+
+BOLETTE
+Tamen. Mi pensas, ke li prefere vivus sole por sia arto.
+
+LYNGSTRAND
+Certe li devus fari. Sed tion li ja povus fari eĉ se li edziĝus.
+
+BOLETTE
+Nu, sed ŝi do?
+
+LYNGSTRAND
+Ŝi? Kiel --?
+
+BOLETTE
+Ŝi al kiu li edziĝas. Por kio ŝi vivu?
+
+LYNGSTRAND
+Ankaŭ ŝi vivu por lia arto. Ŝajnas al mi, ke virino devas senti
+sin kore feliĉa pri _tio_.
+
+BOLETTE
+Hm, -- mi ne certe scias --
+
+LYNGSTRAND
+Jes, fraŭlino, fidu. Ne estas nur lia honoro kaj reputacio, kiujn
+ŝi ĝuas pro li --. Ĉar tiuj estas laŭ mi la malpli valora. Sed ke
+ŝi povas helpi lin krei, -- ke ŝi povas faciligi al li la laboron
+estante ĉe li kaj komfortigi lin kaj esti atenta pri li kaj igi la
+vivon gaja por li. Tio estus laŭ mi feliĉiga por virino.
+
+BOLETTE
+Ho, vi ne mem scias kiel memkontenta vi estas!
+
+LYNGSTRAND
+_Mi_ memkontenta, ĉu! Bona Dio --! Ho, se vi konus min iom pli bone
+ol vi faras -- (klinas sin pli proksimen al ŝi) Fraŭlino Wangel,
+-- kiam mi estos for, -- kaj mi ja baldaŭ estos --
+
+BOLETTE
+(rigardas lin kompate) Sed ne komencu do pri tia tristaĵo.
+
+LYNGSTRAND
+Funde ja ne estas tre triste, mi pensas.
+
+BOLETTE
+Kiel do?
+
+LYNGSTRAND
+Mi ja forvojaĝos post monato. Unue de ĉi tiu loko. Poste mi iros al
+la sudaj landoj.
+
+BOLETTE
+Ah, tiel. Nu ja.
+
+LYNGSTRAND
+Ĉu vi foje pensu pri mi, fraŭlino?
+
+BOLETTE
+Jes, mi volonte faru.
+
+LYNGSTRAND
+(ĝoja) Vi promesas, ĉu?
+
+BOLETTE
+Jes, mi promesas.
+
+LYNGSTRAND
+Solene kaj kore, fraŭlino Bolette?
+
+BOLETTE
+Solene kaj kore. (ŝanĝas temon) Sed por kio tio ĉi! Ne kondukos
+al io ajn.
+
+LYNGSTRAND
+Kiel vi povas tion diri! Por mi estus ĝojige scii, ke vi ĉi-hejme
+pensadas pri mi.
+
+BOLETTE
+Nu, sed kio poste?
+
+LYNGSTRAND
+Jes, poste mi ne scias pri io definita --
+
+BOLETTE
+Ankaŭ mi ne. Multe ja malhelpas. Ŝajnas al mi, ke ĉio en la mondo
+malhelpas.
+
+LYNGSTRAND
+Ho, povus okazi iu miraklo. Feliĉa okazaĵo de la destino -- aŭ io
+tia. Ĉar mi kredas, ke mi sukcesos.
+
+BOLETTE
+(vigle) Jes, ĉu ne! Vi kredas, ĉu!
+
+LYNGSTRAND
+Jes, mi firme kredas. Kaj jen -- post kelkaj jaroj -- kiam mi revenos
+hejmen kiel konata skulptisto kun bona ekonomio kaj en plena sano --
+
+BOLETTE
+Jes, vere. Ni esperu ke vi faros.
+
+LYNGSTRAND
+Vi konfide esperu. Se vi nur fidele kaj varme pensas pri mi, dum mi
+estas for en la sudaj landoj. Kaj por tio mi ja nun havas vian
+vorton.
+
+BOLETTE
+Vi havas. (skuas la kapon) Sed tamen kondukas al nenio.
+
+LYNGSTRAND
+Jes, fraŭlino Bolette, tamen kondukas al tio, ke mi povos labori pli
+facile kaj rapide pri mia artaĵo.
+
+BOLETTE
+Tion vi do kredas?
+
+LYNGSTRAND
+Jes, en mia interno mi tion sentas. Kaj ŝajnas al mi, ke estus
+vivige ankaŭ por vi -- ĉi tie en la izolo -- kiam vi scius en vi
+mem, ke vi kvazaŭ helpus min krei.
+
+BOLETTE
+(rigardas lin) Nu, sed vi, viaflanke?
+
+LYNGSTRAND
+Mi --?
+
+BOLETTE
+(rigardas al la ĝardeno) Tŝ. Ni parolu pri io alia. Ĉar tie venas
+la ĉefinstruisto.
+
+(_Ĉefinstruisto Arnholm_ estas vidata malsupre en la ĝardeno
+maldekstre. Li haltas kaj parolas kun _Ballested_ kaj _Hilde_.)
+
+LYNGSTRAND
+Ĉu vi amas vian antaŭan instruiston, fraŭlino Bolette?
+
+BOLETTE
+Ĉu mi amas lin?
+
+LYNGSTRAND
+Mi pensas, ĉu vi ŝatas lin?
+
+BOLETTE
+Ho jes, mi faras. Ĉar estas bone havi lin kiel amikon kaj
+konsilanton kaj tiel plu. -- Kaj li ĉiam estas helpema, se li povas.
+
+LYNGSTRAND
+Sed ĉu ne estas strange, ke li ne geedziĝis?
+
+BOLETTE
+Ĉu vi trovas tion strange?
+
+LYNGSTRAND
+Jes. Ĉar li ja estas sufiĉe riĉa, laŭdire.
+
+BOLETTE
+Laŭdire li estas. Sed eble ne estis facile por li trovi iun, kiu
+volus havi lin, mi pensas.
+
+LYNGSTRAND
+Kial tio?
+
+BOLETTE
+Ho, li estis ja instruisto por preskaŭ ĉiuj junaj knabinoj, kiujn
+li konas. Tion li mem diras.
+
+LYNGSTRAND
+Jes. Kiel _tio_ gravus?
+
+BOLETTE
+Sed, bona Dio, oni ja ne edzinigas sin al sia propra instruisto!
+
+LYNGSTRAND
+Ĉu vi pensas, ke juna knabino ne povus ami sian instruiston?
+
+BOLETTE
+Ne post kiam ŝi fariĝis plenkreska.
+
+LYNGSTRAND
+Ĉu -- imagu!
+
+BOLETTE
+(averte) Nu, nu, nu!
+
+(_Ballested_ kolektis siajn aĵojn kaj portas ilin dekstren en la
+ĝardeno. _Hilde_ helpas lin. _Arnholm_ iras sur la verandon kaj
+venas en la ĉambron.)
+
+ARNHOLM
+Bonan matenon, mia kara Bolette. Bonan matenon, sinjoro -- sinjoro --
+hm!
+
+(Li aspektas malkontenta kaj kapsignas malvarme al _Lyngstrand_, kiu
+ekstaras kaj klinas la kapon.)
+
+BOLETTE
+(ekstaras kaj iras al _Arnholm_) Bonan matenon, sinjoro
+ĉefinstruisto.
+
+ARNHOLM
+Kiel statas hodiaŭ?
+
+BOLETTE
+Nu dankon, bone.
+
+ARNHOLM
+Via duonpatrino estas en la banejo ankaŭ hodiaŭ, ĉu?
+
+BOLETTE
+Ne, ŝi estas en sia ĉambro.
+
+ARNHOLM
+Iom malsaneta?
+
+BOLETTE
+Mi ne scias. Ŝi enfermis sin.
+
+ARNHOLM
+Hm, -- ĉu?
+
+LYNGSTRAND
+Sinjorino Wangel aspekte multe ekscitiĝis pro tiu usonano hieraŭ.
+
+ARNHOLM
+Kion _vi_ scias pri tio?
+
+LYNGSTRAND
+Mi rakontis al la sinjorino, ke mi vidis lin tute viva iri malantaŭ
+la ĝardeno.
+
+ARNHOLM
+Nu, tiel.
+
+BOLETTE
+(al _Arnholm_) Vi sidis tre malfrue kun patro en la nokto.
+
+ARNHOLM
+Jes, sufiĉe longe. Ni komencis paroli pri io grava.
+
+BOLETTE
+Ĉu vi parolis kun li ankaŭ pri mi kaj miaj aferoj?
+
+ARNHOLM
+Ne, kara Bolette. Mi ne havis ŝancon. Ĉar liaj pensoj forte
+okupiĝis pri io alia.
+
+BOLETTE
+(suspiras) Aĥ jes, -- kiel ĉiam.
+
+ARNHOLM
+(rigardas ŝin signifoplene) Sed poste hodiaŭ ni du ja parolu pli
+profunde pri tiuj aferoj. -- Kie estas via patro nun? Eble ne hejme?
+
+BOLETTE
+Jes. Li certe estas en la oficejo. Mi serĉu lin.
+
+ARNHOLM
+Ne, dankon. Ne faru. Mi prefere malsupreniru al li.
+
+BOLETTE
+(aŭskultas direkte maldekstren) Atendu iomete, sinjoro
+ĉefinstruisto. Mi pensas, ke estas patro, kiu venas sur la ŝtuparo.
+Jes. Li certe estis supre vidante ŝin.
+
+(_Doktoro Wangel_ venas tra la pordo maldekstre.)
+
+WANGEL
+(etendas la manon al _Arnholm_) Nu, kara amiko, -- vi jam venis?
+Estas afable de vi veni tiel frue. Ĉar mi deziras paroli iom pli kun
+vi.
+
+BOLETTE
+(al _Lyngstrand_) Eble ni du iru en la ĝardenon al Hilde?
+
+LYNGSTRAND
+Jes, tre volonte, fraŭlino.
+
+(Li kaj _Bolette_ iras malsupren en la ĝardenon kaj for inter la
+arboj en la fono.)
+
+ARNHOLM
+(kiu sekvis ilin per la okuloj, turnas sin al _Wangel_) Ĉu vi bone
+konas tiun junan viron?
+
+WANGEL
+Ne, tute ne.
+
+ARNHOLM
+Ĉu vi do ŝatas, ke li tiel multe okupiĝas pri la knabinetoj?
+
+WANGEL
+Ĉu li faras? Tion mi tute ne rimarkis.
+
+ARNHOLM
+Tion vi devus ja kontroli, mi opinias.
+
+WANGEL
+Jes, vi certe pravas. Sed, bona Dio, kion mi faru, mi kompatinda
+viro? La knabinetoj alkutimiĝis prizorgi sin mem. Ili ne akceptas
+kion ajn instruon, nek de mi nek de Ellida.
+
+ARNHOLM
+Eĉ ne de ŝi?
+
+WANGEL
+Ne. Cetere mi ne povas postuli, ke ŝi miksiĝu en tiaĵon. Ne estas
+facile por ŝi. (interrompante) Sed ne estis ja _tio_, kion ni
+priparolus. Diru do al mi, -- ĉu vi pripensis la aferon? Pripensis
+kion mi rakontis al vi?
+
+ARNHOLM
+Mi pensis pri nenio alia de kiam ni disiĝis ĉi-nokte.
+
+WANGEL
+Kaj kio do estas farebla?
+
+ARNHOLM
+Kara doktoro, mi opinias, ke vi kiel kuracisto devas scii tion pli
+bone ol mi.
+
+WANGEL
+Ho, se vi nur scius, kiel malfacile estas por kuracisto ĝuste decidi
+pri malsanulo, kiun li korege amas! Kaj tio ĉi ja ne estas ordinara
+malsano. Ĉi tie ne sufiĉas ordinara kuracisto, -- kaj ne ordinaraj
+kuraciloj.
+
+ARNHOLM
+Kia estas ŝi hodiaŭ?
+
+WANGEL
+Mi ĵus vidis ŝin, kaj ŝi estis sufiĉe trankvila. Sed malantaŭ
+ŝiaj animstatoj kuŝas io kaŝita, kio neeblas por mi malkovri. Kaj
+aldone ŝi estas tiel ŝanĝiĝema, kaprica, -- subite varia.
+
+ARNHOLM
+Certe sekvo de ŝia malsana animstato.
+
+WANGEL
+Ne sole. En la profundo estas io denaska. Ellida apartenas al la
+marhomoj. Jen la kaŭzo.
+
+ARNHOLM
+Kiel do vere, kara doktoro?
+
+WANGEL
+Ĉu vi ne rimarkis, ke la homoj ĉe la vasta maro estas kvazaŭ
+aparta specio? Estas kvazaŭ ili vivas la vivon de la maro. Estas en
+ili ondado -- kaj ankaŭ malfluso kaj altmaro -- kaj en iliaj
+pensmanieroj kaj en iliaj sentoj. Kaj ili ne lasas sin replanti. Ho,
+mi devus pensi pri _tio_ antaŭe. Estis peko kontraŭ Ellida preni
+ŝin for de sia loko kaj meti ŝin ĉi tien!
+
+ARNHOLM
+Ĉu vi atingis al tiu opinio nun?
+
+WANGEL
+Jes, pli kaj pli. Sed mi estus ja devinta diri tion al mi mem
+antaŭe. Ho, funde mi ja sciis. Sed mi ne permesis al la penso sin
+esprimi. Ĉar mi ja tiel amis ŝin, komprenu! Tial mi unue pensis pri
+mi mem. Tiel tute nepravigeble egoisma mi tiam estis!
+
+ARNHOLM
+Hm, -- ĉiu viro certe estas iomete egoisma en tiaj cirkonstancoj.
+Cetere mi neniam notis tiun difekton en vi, doktoro Wangel.
+
+WANGEL
+(ĉirkaŭiras senpacience) Ho, jes! Kaj tia mi estis ankaŭ poste.
+Mi ja estas multe, multe pli aĝa ol ŝi. Mi devus esti por ŝi
+kvazaŭ patro -- kaj kiel gvidanto samtempe. Devus streĉi min por
+evoluigi kaj klarigi ŝian mensan vivon. Sed bedaŭrinde el tio
+fariĝis nenio. Mi ne havis energion por tio, vidu! Ĉar mi ja
+deziris gardi ŝin kiel ŝi estas. Sed ŝi ja pli kaj pli
+malsaniĝis. Kaj mi atendis kaj ne sciis kion elpensi. (pli
+mallaŭte) Tial en mia sufero mi skribis al vi kaj petis vin viziti
+nin.
+
+ARNHOLM
+(rigardas lin en surprizo) Ĉu! Pro tio vi skribis?
+
+WANGEL
+Jes. Sed ŝajnigu nescion.
+
+ARNHOLM
+Sed, je Dio, kara doktoro, -- kian helpon atendis vi de mi? Tion mi
+ne komprenas.
+
+WANGEL
+Ne, kompreneble. Ĉar mi sekvis eraran vojon. Mi opiniis ke la koro
+de Ellida iam pendigis sin al vi. Ke ĝi sekrete ankoraŭ ĉe vi
+ligiĝis. Ke eble estus bone por ŝi revidi vin kaj paroli kun vi pri
+la hejmo kaj pri pasintaj tagoj.
+
+ARNHOLM
+Estis do via edzino, kiun vi aludis, kiam vi skribis, ke ĉi tie iras
+iu min atendante, kaj -- kaj eble sopiris pri mi!
+
+WANGEL
+Jes, kiu alie?
+
+ARNHOLM
+(rapide) Ne, ne, vi pravas. -- Sed tion mi ne komprenis.
+
+WANGEL
+Kompreneble. Mi ja eraris.
+
+ARNHOLM
+Kaj vi diras pri vi mem, ke vi estas egoisma!
+
+WANGEL
+Ho, mi ja havis grandan ŝuldon por pagi. Mi pensis, ke mi ne rajtas
+rifuzi kiun ajn rimedon, se ĝi povus iomete faciligi ŝian animon.
+
+ARNHOLM
+Kiel vi efektive klarigas la potencon, kiun tiu fremda viro ekzercas
+sur ŝin?
+
+WANGEL
+Hm, kara amiko, -- estas eble flankoj en tiu ĉi afero, kiuj ne
+_lasas_ sin klarigi.
+
+ARNHOLM
+Io kio esence estas neklarigebla, vi aludas? Tute neklarigebla?
+
+WANGEL
+Ĉiuokaze neklarigebla ĝis plue.
+
+ARNHOLM
+Ĉu vi kredas pri tiaĵo?
+
+WANGEL
+Mi nek kredas nek neas. Mi nur ne scias. Tial mi elmetas la klarigon.
+
+ARNHOLM
+Jes, sed diru al mi. Tiu ŝia stranga kaj sinistra aserto, ke la
+okuloj de la infano --?
+
+WANGEL
+(vigle) Tion pri la okuloj mi tute ne kredas! Mi ne _volas_ kredi
+tiaĵon! Devas esti pura fantaziaĵo de ŝi. Nenio alia.
+
+ARNHOLM
+Ĉu vi rimarkis la okulojn de la viro hieraŭ?
+
+WANGEL
+Jes, certe mi faris.
+
+ARNHOLM
+Kaj vi vidis neniun similecon?
+
+WANGEL
+(eviteme) Hm, -- bona Dio, kion respondi? Ne estis ja tute lume,
+kiam mi vidis lin. Kaj cetere Ellida antaŭe parolis tiom pri tiu
+simileco --. Mi vere ne scias, ĉu mi estis kapabla rigardi lin sen
+antaŭjuĝo.
+
+ARNHOLM
+Ne, ne, eble. Sed nun la alia afero? Tiu timo kaj maltrankvilo en ŝi
+ĝuste je la tempo, kiam tiu fremda homo estus survoje hejmen?
+
+WANGEL
+Jes, vidu, -- _tio_ estas ankaŭ io, en kion ŝi verke aŭ sonĝe
+metis sin mem depost antaŭhieraŭ. Tio tute ne atakis ŝin tiel
+subite -- tiel tuje, kiel ŝi nun asertas. Sed post kiam ŝi aŭdis
+tiun junan Lyngstrand rakonti, ke Johnston -- aŭ Friman -- aŭ kiel
+li nomiĝas, -- ke li estis survoje ĉi tien antaŭ tri jaroj -- en
+Marto, -- ŝi sendube nun kredas, ke la anima maltrankvilo kaptis
+ŝin ĝuste en tiu sama monato.
+
+ARNHOLM
+Ĝi do ne faris, ĉu?
+
+WANGEL
+Tute ne. Estis spuroj kaj signoj longe antaŭ tiu tempo. -- Efektive
+okazis -- hazarde -- ĝuste en Marto antaŭ tri jaroj sufiĉe forta
+ekscitiĝo en ŝi --
+
+ARNHOLM
+Tamen ja --!
+
+WANGEL
+Jes, sed _tio_ lasas sin simple klarigi per la stato -- la
+cirkonstanco, -- en kiu ŝi je tiu tempo estis.
+
+ARNHOLM
+Do signo kontraŭ signo.
+
+WANGEL
+(pugnigas la manojn) Kaj ne povante helpi ŝin! Ne scii pri konsilo!
+Ne vidi iun ajn rimedon --!
+
+ARNHOLM
+Se vi nun decidus ŝanĝi loĝlokon? Transloĝiĝi aliloken? Por ke
+ŝi povu vivi en kondiĉoj pli hejmecaj por si?
+
+WANGEL
+Ho, kara, -- ĉu vi pensas, ke mi ne proponis ankaŭ _tion_ al ŝi?
+Mi proponis, ke ni transloĝiĝu al Skjoldvik. Sed ŝi ne volas.
+
+ARNHOLM
+Eĉ ne tion?
+
+WANGEL
+Ne. Ĉar ŝi pensas, ke neniel helpos. Kaj eble ŝi pravas.
+
+ARNHOLM
+Hm, -- ĉu?
+
+WANGEL
+Jes, kaj cetere, -- kiam mi pripensas, -- mi ne scias kiel mi realigu
+tion. Ĉar ŝajnas al mi, ke pro la knabinetoj mi ne povas
+transloĝiĝi al tia forejo. Ili devas ja loĝi en loko, kie estas
+_iometa_ ŝanco foje edzinigi ilin.
+
+ARNHOLM
+Edzinigi? Ĉu vi jam pensas pri _tio_?
+
+WANGEL
+Jes, bona Dio, -- mi devas ja pensi ankaŭ pri _tio_! Sed jen --
+aliflanke -- la konsidero pri mia kara malsana Ellida --! Ho, kara
+Arnholm, -- mi vere -- multmaniere -- staras meze inter fajro kaj
+akvo!
+
+ARNHOLM
+Por Bolette vi ne bezonas havi zorgojn -- (interrompante)
+Mi miras kien ŝi -- kien ili iris? (Li iras al la malferma pordo
+kaj elrigardas.)
+
+WANGEL
+(al la piano) Ho, mi oferus kion ajn -- por ĉiuj tri. -- Se mi nur
+ion scius.
+
+(_Ellida_ envenas tra la pordo maldekstre.)
+
+ELLIDA
+(rapide al _Wangel_) Ne eliru ĉi-matene!
+
+WANGEL
+Ne, certe ne. Mi restos hejme ĉe vi. (Montras al _Arnholm_, kiu
+proksimiĝas) Sed ĉu vi ne volas saluti nian amikon?
+
+ELLIDA
+(turnas sin) Ho, jen vi, sinjoro Arnholm! (etendas al li la manon)
+Bonan matenon.
+
+ARNHOLM
+Bonan matenon, sinjorino. Do ne en la banejo kiel kutime?
+
+ELLIDA
+Ne, ne, ne! Pri tio mi ne pensas hodiaŭ. Sed bonvolu eksidi por
+momento?
+
+ARNHOLM
+Ne, dankon, -- ne nun. (rigardas al _Wangel_) Mi promesis al la
+knabinetoj veni al ili en la ĝardeno.
+
+ELLIDA
+Jes, Dio scias ĉu vi renkontos ilin en la ĝardeno. Mi neniam scias
+kie ili iradas.
+
+WANGEL
+Ho jes, ili tenas sin apud la lageto.
+
+ARNHOLM
+Nu, mi certe trovos iliajn spurojn. (Li kapsalutas kaj transiras la
+verandon kaj elen en la ĝardenon dekstren.)
+
+ELLIDA
+Kioma horo estas, Wangel?
+
+WANGEL
+(rigardas sian horloĝon) Iomete post la dekunua.
+
+ELLIDA
+Iomete post. Kaj la dekunuan -- duonon antaŭ la dekdua ĉi-nokte
+venos la vaporŝipo. Ho, se mi tion estus trapasinta!
+
+WANGEL
+(proksimiĝas al ŝi) Kara Ellida, -- pri unu afero mi devas demandi
+vin.
+
+ELLIDA
+Pri kiu do?
+
+WANGEL
+Hieraŭ vespere -- tie supre sur la "Videjo" -- vi diris, ke dum la
+lastaj tri jaroj vi ofte vidis lin tute viva antaŭ vi.
+
+ELLIDA
+Jes, mi faris. Kredu min.
+
+WANGEL
+Nu, sed kiel vi lin vidis?
+
+ELLIDA
+Kiel mi vidis lin?
+
+WANGEL
+Mi pensas, -- kiel li aspektis por vi, kiam vi kredis, ke vi vidis
+lin?
+
+ELLIDA
+Sed kara Wangel, -- vi ja nun mem scias kiel li aspektas.
+
+WANGEL
+Ĉu li ankaŭ tiel aspektis en via imago?
+
+ELLIDA
+Jes, li ja faris.
+
+WANGEL
+Ĝuste tiel, kiel vi hieraŭ vidis lin en la realaĵo?
+
+ELLIDA
+Jes, ĝuste tiel.
+
+WANGEL
+Nu, sed kial vi ne tuj rekonis lin?
+
+WANGEL
+(ekmire) Mi ne faris, ĉu?
+
+WANGEL
+Ne. Vi mem diris poste, ke unue vi ne sciis, kiu tiu fremdulo estas.
+
+ELLIDA
+(surprize) Jes, mi pensas, ke vi pravas! Ĉu ne ŝajnas strange por
+vi, Wangel? Imagu, -- ke mi ne tuj rekonis lin!
+
+WANGEL
+Estas nur la okuloj, vi diris --
+
+ELLIDA
+Ho jes, -- la okuloj! La okuloj!
+
+WANGEL
+Nu, -- sed supre sur la "Videjo" vi diris, ke li ĉiam montris sin
+kia li estis, kiam vi disiĝis. Tie antaŭ dek jaroj.
+
+ELLIDA
+Ĉu mi diris?
+
+WANGEL
+Jes.
+
+ELLIDA
+Do li tiel aspektis preskaŭ kiel nun.
+
+WANGEL
+Ne. Vi priskribis lin tute alimaniere antaŭhieraŭ survoje hejmen.
+Antaŭ dek jaroj li estis senbarba, vi diris. Tute alie vestita li
+ankaŭ estis. Kaj la broĉo kun perlo --? Ĝin la viro ne portis
+hieraŭ.
+
+ELLIDA
+Ne, li ĝin ne portis.
+
+WANGEL
+(rigardas ŝin esplore) Pripensu iomete, kara Ellida. Aŭ -- eble vi
+ne plu kapablas memori, kiel li aspektis, kiam li staris kun vi sur
+la "Krutdeklivo"?
+
+ELLIDA
+(pripensante, momenton fermas la okulojn) Ne tute klare. Ne, --
+hodiaŭ mi ne kapablas. Ĉu ne estas strange?
+
+WANGEL
+Tamen ne tiel strange. Nova bildo de realaĵo montris sin antaŭ vi.
+Ĝi superombras la antaŭan, -- tiel ke vi ĝin ne plu povas vidi.
+
+ELLIDA
+Ĉu tiel, Wangel?
+
+WANGEL
+Jes. Kaj ĝi ankaŭ superombras viajn malsanajn imagaĵojn. Tial
+estas bone, ke la realaĵo venis.
+
+ELLIDA
+Bone! Vi diras bone, ĉu?
+
+WANGEL
+Jes, ke okazis, -- povos sanigi vin.
+
+ELLIDA
+(eksidas en la sofon) Wangel, -- venu sidi ĉe mi. Mi devas diri al
+vi ĉiujn miajn pensojn.
+
+WANGEL
+Jes, faru, kara Ellida.
+
+(Li eksidas sur seĝon aliflanke de la tablo.)
+
+ELLIDA
+Vere estis malfeliĉo -- por ni ambaŭ -- ke ĝuste ni du kuniĝis.
+
+WANGEL
+(miras) Kion vi diras!
+
+ELLIDA
+Ho jes. Estis. Estas ja ankaŭ kompreneble. Ne povus fariĝi io alia
+ol malfeliĉo. Ne laŭ la maniero laŭ kiu ni trovis unu la alian.
+
+WANGEL
+Kio do mankis en la maniero, --
+
+ELLIDA
+Aŭskultu nun, Wangel, -- Ne plu helpas, ke ni iradas ĉi tie
+mensogante por ni mem -- kaj por unu la alia!
+
+WANGEL
+Ĉu ni faras! Mensogas, vi diras!
+
+ELLIDA
+Jes, ni faras. Aŭ ni tamen kaŝas la veron. Ĉar la vero -- la pura
+klara vero -- estas ja _tio_, -- ke vi venis tien kaj -- kaj aĉetis
+min.
+
+WANGEL
+Aĉetis --! -- Aĉetis -- vi diras!
+
+ELLIDA
+Ho, mi ja ne estis ereto pli bona ol vi. Mi akceptis. Mi ja vendis
+min al vi.
+
+WANGEL
+(rigardas ŝin en doloro) Ellida, -- ĉu vi vere havas koron paroli
+tiel?
+
+ELLIDA
+Sed ĉu vere estas alia nomo por ĝi! Vi ne plu eltenis la videcon en
+via domo. Vi ĉirkaŭrigardis por nova edzino --
+
+WANGEL
+Kaj por nova patrino por la infanoj, Ellida.
+
+ELLIDA
+Eble ankaŭ tio -- tiel flanke. Tamen -- vi ja tute ne sciis ĉu mi
+taŭgas por tiu okupo. Vi ja nur vidis min -- kaj iomete parolis kun
+mi kelkajn fojojn. Kaj vi ekdeziris min, kaj sekve --
+
+WANGEL
+Nu, nomu tion kiel plaĉas al vi.
+
+ELLIDA
+Kaj mi, de mia flanko --. Mi staris senhelpa en konfuzo tute sola.
+Estis ja kompreneble, ke mi akceptis -- kiam vi proponis nutradi min
+mian vivon.
+
+WANGEL
+Ne aspektis por mi kiel nutrado, kara Ellida. Mi honeste demandis al
+vi, se vi volus dividi kun mi kaj la infanoj la iometon, kiun mi
+povis nomi la mian.
+
+ELLIDA
+Jes, vi faris. Sed tamen mi ne devus akcepti! Neniam por kiu ajn
+prezo mi devus akcepti! Ne vendi min mem! Prefere la plej mizeran
+laboron, -- prefere la plej malriĉajn kondiĉojn en -- en libereco
+-- kaj laŭ propra elekto!
+
+WANGEL
+(ekstaras) La kvin-ses jaroj, kiujn ni vivis kune, ĉu ili estis
+tute senvaloraj por vi?
+
+ELLIDA
+Ho, ne pensu tion, Wangel! Estas tiel bone ĉe vi, kiel kiu ajn homo
+povas deziri. Sed mi ne eniris vian domon en libereco. Jen la afero.
+
+WANGEL
+(rigardas ŝin) Ne -- en libereco!
+
+ELLIDA
+Ne. Mi ne libervole iris kun vi.
+
+WANGEL
+(mallaŭte) Ah, -- mi memoras -- la frazturniĝon de hieraŭ.
+
+ELLIDA
+En tiu frazturniĝo ĉio kuŝas. Ĝi eklumigis por mi. Kaj tial mi
+nun vidas klare.
+
+WANGEL
+Kion vi vidas?
+
+ELLIDA
+Mi vidas, ke nia kuna vivo -- vere ne estas geedzeco.
+
+WANGEL
+(amare) Jen vera eldiro de vi. La vivo kiun ni _nun_ vivas, ne estas
+geedzeco.
+
+ELLIDA
+Eĉ ne antaŭe. Neniam. Ne de la komenco. (rigardas antaŭen)
+La unua -- _tiu_ povus esti plena kaj pura geedzeco.
+
+WANGEL
+La unua? Kiun unuan vi aludas?
+
+ELLIDA
+La mian -- kun _li_.
+
+WANGEL
+(rigardas ŝin mire) Mi tute ne komprenas!
+
+ELLIDA
+Ho, kara Wangel, -- ni ne mensogu unu por la alia. Ankaŭ ne por ni
+mem.
+
+WANGEL
+Ne, ne! Sed kio sekve?
+
+ELLIDA
+Jes vidu, -- ni neniam povas nei -- ke libervola promeso estas same
+deviga kiel geedziĝo.
+
+WANGEL
+Sed je Dio --!
+
+ELLIDA
+(ekstaras impete) Permesu al mi forvojaĝi de vi, Wangel!
+
+WANGEL
+Ellida --! Ellida --!
+
+ELLIDA
+Jes, jes, -- permesu al mi! Kredu min, -- ne eblos alimaniere. Ne
+post la maniero laŭ kiu ni kuniĝis.
+
+WANGEL
+(en regata doloro) Al tio do venis inter ni.
+
+ELLIDA
+Devis veni. Ne povus alimaniere.
+
+WANGEL
+(rigardas ŝin triste) Eĉ ne tra la kuna vivo mi gajnis vin.
+Neniam, -- neniam tute posedis vin.
+
+ELLIDA
+Ho, Wangel, -- se mi povus ami vin tiel kiel mi dezirus! Tiel kore
+kiel vi meritas! Sed mi sentas profunde, -- ke neniam okazos.
+
+WANGEL
+Eksedziĝon do? Eksedziĝon, -- plenan juran eksedziĝon -- vi
+deziras?
+
+ELLIDA
+Kara, vi ne bone komprenas min. Ne estas ja pri formoj, ke mi pensas.
+Ĉar ne estas tiaj eksteraj aferoj, kiuj gravas. Kion mi volas, estas
+ke ni du samopinias libervole liberigi nin unu de la alia.
+
+WANGEL
+(amare, kapsignas malrapide) Refari la negocon, -- jes.
+
+ELLIDA
+(vigle) Ĝuste tiel! Refari la negocon!
+
+WANGEL
+Kaj poste, Ellida? Poste? Ĉu vi pripensis kiel aspektos por ambaŭ
+ni? Kiel la vivo fariĝos por vi kaj por mi?
+
+ELLIDA
+Tion mi ne povas atenti. Sekvu kio sekvu. Kion mi petegas de vi,
+Wangel, -- estas ja la pli grava! Nur donu al mi liberecon! Redonu al
+mi mian plenan liberecon!
+
+WANGEL
+Ellida, -- estas terura postulo de vi. Prokrastu, por ke mi pripensu
+decidon. Ni parolu pli profunde unu kun la alia. Lasu al vi mem
+tempon por pripensi, kion vi faros!
+
+ELLIDA
+Sed ne restas por ni pli da tempo por tio! Mi devas regajni mian
+liberecon tiun ĉi tagon!
+
+WANGEL
+Kial ĝuste hodiaŭ?
+
+ELLIDA
+Jes, -- ĉar li ja venos ĉi-nokte.
+
+WANGEL
+(skuiĝas) Venos! Li! Kiel tiu fremda viro rilatas al tio ĉi?
+
+ELLIDA
+Mi volas stari antaŭ li en plena libereco.
+
+WANGEL
+Kaj kion -- kion vi intencas poste fari?
+
+ELLIDA
+Mi ne volas uzi la pretekston, ke mi estas la edzino de alia viro. Ne
+ekskuzi min per tio ke mi ne havas eblecon elekti. Ĉar tiaokaze ne
+estus decido.
+
+WANGEL
+Vi parolas pri elekto! Elekto, Ellida! Elekto en tiu ĉi afero!
+
+ELLIDA
+Jes, mi devas havi eblecon elekti. Elekton al ambaŭ flankoj. Mi
+devas havi la eblecon lasi lin forvojaĝi sola --. Aŭ -- sekvi lin.
+
+WANGEL
+Ĉu vi mem komprenas kion vi diras? Sekvi lin! Doni vian tutan sorton
+en liajn manojn!
+
+ELLIDA
+Sed ĉu mi ne donis mian tutan sorton en _viajn_ manojn! Kaj tion --
+tiel senpere.
+
+WANGEL
+Nu ja. Sed li! Li! Tuta nekonatulo! Homo, kiun vi preskaŭ ne konas!
+
+ELLIDA
+Ho, sed vin mi ja eble konis eĉ pli malmulte. Kaj mi tamen sekvis
+vin.
+
+WANGEL
+Tiam vi almenaŭ sciis proksimume al kia vivo vi iris. Sed jen? Jen?
+Pripensu do! Kion vi scias pri tio ĉi? Eĉ nenion vi scias. Eĉ ne
+kiu li estas -- aŭ kio li estas.
+
+ELLIDA
+(rigardas antaŭen) Vero. Sed jen _tio kio_ estas la teruraĵo.
+
+WANGEL
+Jes, certe teruraĵo --
+
+ELLIDA
+Tial ŝajnas al mi, ke mi kvazaŭ _devas_ tiriĝi en ĝin.
+
+WANGEL
+(rigardas ŝin) Ĉar aspektas por vi kiel io terura?
+
+ELLIDA
+Jes, ĝuste tial.
+
+WANGEL
+(pli proksime) Aŭskultu nun, Ellida, -- kio por vi estas do tio
+terura?
+
+ELLIDA
+(pripensas) La terura, -- estas _tio_ kio timigas kaj allogas.
+
+WANGEL
+Ankaŭ allogas?
+
+ELLIDA
+Precipe allogas, -- mi sentas.
+
+WANGEL
+(malrapide) Vi parencas al la maro.
+
+ELLIDA
+Al ĝi parencas ankaŭ la teruraĵo.
+
+WANGEL
+Kaj la terura parencas al vi. Vi timigas kaj allogas samtempe.
+
+ELLIDA
+Ĉu ŝajnas al vi, Wangel?
+
+WANGEL
+Efektive mi vin neniam konis. Neniam ĝis la fundo. Mi nun komencas
+kompreni.
+
+ELLIDA
+Tial vi liberigu min! Liberigu min el ĉiu rilato al vi kaj al la
+via! Mi ne estas tiu, kiun vi imagis. Vi ja nun mem vidas. Nun ni
+povos disiĝi en kompreno -- kaj libervole.
+
+WANGEL
+(peze) Eble estas pli bone por ambaŭ -- se ni disiĝu. -- Sed mi
+tamen ne _povas_! -- Vi estas por mi kiel la terura, Ellida. La
+loganta, -- tio estas la plej forta en vi.
+
+ELLIDA
+Ĉu tiel?
+
+WANGEL
+Lasu nin fini ĉi tiun tagon saĝe. Kun plene trankvila animo. Mi ne
+_kuraĝas_ liberigi vin hodiaŭ. Ne rajtas. Ne rajtas pro vi mem,
+Ellida. Mi insistas pri mia rajto kaj mia devo defendi vin.
+
+ELLIDA
+Defendi? Al kio defendi? Ne estas ja perforto aŭ potenco de ekstere,
+kiu minacas min. La teruraĵo kuŝas pli profunde, Wangel! La
+teruraĵo, -- tio estas la allogo en mia propra animo. Kaj kion
+povas do vi pri tiu fari?
+
+WANGEL
+Mi povas fortigi kaj apogi vin por kontraŭbatali.
+
+ELLIDA
+Jes, -- se mi _volus_ kontraŭbatali.
+
+WANGEL
+Ĉu vi do ne volas?
+
+ELLIDA
+Ho, estas ja _tio_, kion mi ne mem scias!
+
+WANGEL
+Ĉi-nokte ĉio estos decidata, kara Ellida --
+
+ELLIDA
+(ekkrias) Jes, imagu! La decido tiel proksima! Decido por la tuta
+vivo!
+
+WANGEL
+-- kaj morgaŭ --
+
+ELLIDA
+Jes, morgaŭ! Eble mia ĝusta estonto tiam estos perdita!
+
+WANGEL
+Via ĝusta --?
+
+ELLIDA
+Tuta plena vivo en libereco perdita, -- perdita por mi! Kaj eble --
+ankaŭ por li.
+
+WANGEL
+(mallaŭte, kaptas ŝian manartikon) Ellida, -- ĉu vi amas tiun
+fremdan viron?
+
+ELLIDA
+Ĉu mi --? Ho, kiel mi sciu! Mi nur scias, ke por mi li estas la
+teruraĵo kaj ke --
+
+WANGEL
+-- kaj ke?
+
+ELLIDA
+(liberigas sin) -- kaj ke estas ĉe li, ke mi apartenas.
+
+WANGEL
+(mallevas la kapon) Mi komencas kompreni la plimulton.
+
+ELLIDA
+Kaj kiun helpon havas vi kontraŭ tion ĉi? Kiun konsilon havas vi
+por mi?
+
+WANGEL
+(rigardas ŝin instige) Morgaŭ, -- tiam li estos forvojaĝinta.
+Tiam la malfeliĉo ne minacos vian kapon. Kaj tiam mi estos preta
+liberigi vin. Ni refaros la negocon, Ellida.
+
+ELLIDA
+Ho, Wangel --! Morgaŭ -- tiam ja estos tro malfrue --!
+
+WANGEL
+(rigardas al la ĝardeno) La infanoj! La infanoj --! Ni almenaŭ
+indulgu ilin -- ĝis plue.
+
+(_Arnholm_, _Bolette_, _Hilde_ kaj _Lyngstrand_ venas tra la
+ĝardeno. _Lyngstrand_ adiaŭas tie malsupre kaj eliras maldekstren.
+La aliaj venas en la ĉambron.)
+
+ARNHOLM
+Nun imagu kiel ni vagadis farante planojn --
+
+HILDE
+Ni ekskursu sur la fjordo en la vespero kaj --
+
+BOLETTE
+Ne, diru nenion!
+
+WANGEL
+Ankaŭ ni du faris planojn.
+
+ARNHOLM
+Ĉu, -- vere?
+
+WANGEL
+Morgaŭ Ellida foriros al Skjoldvik -- por ioma tempo.
+
+BOLETTE
+Foriros --?
+
+ARNHOLM
+Jen, jen, tre saĝe, sinjorino Wangel.
+
+WANGEL
+Ellida deziras reiri hejmen. Hejmen al la maro.
+
+HILDE
+(eksaltante al _Ellida_) Vi foriros! Vi foriros de ni?
+
+ELLIDA
+(ektimigita) Sed Hilde, do! Kio estas al vi?
+
+HILDE
+(regas sin) Ho, estas nenio. (duonlaŭte, turnas sin for) Foriru
+do!
+
+BOLETTE
+(ektimigita) Patro, -- mi komprenas vin, -- ankaŭ vi foriros -- al
+Skjoldvik!
+
+WANGEL
+Certe ne, ne! Mi eble foje faros viziton tien --
+
+BOLETTE
+Kaj al ni --?
+
+WANGEL
+Mi ankaŭ faros viziton --
+
+BOLETTE
+-- foje, jes!
+
+WANGEL
+Kara infano, _devas_ tiel esti (Li paŝas sur la planko.)
+
+ARNHOLM
+(flustras) Ni priparolos poste, Bolette.
+
+(Li iras al _Wangel_. Ili kunparolas tie supre apud la pordo.)
+
+ELLIDA
+(duonlaŭte al _Bolette_) Kio estis al Hilde? Ŝi ja aspektis
+freneze!
+
+BOLETTE
+Ĉu vi neniam rimarkis, kion Hilde tagon post tago postsoifadis?
+
+ELLIDA
+Postsoifadis?
+
+BOLETTE
+Ekde vi venis en la domon?
+
+ELLIDA
+Ne, ne, -- kio do _tio_ estas?
+
+BOLETTE
+Unu solan aman vorton de vi.
+
+ELLIDA
+Ah --! Ĉu estus tasko por mi _ĉi tie_!
+
+(Ŝi ĉirkaŭfrapas la kapon per la manoj kaj senmove rigardas
+antaŭen kvazaŭ trakrozata de kontraŭecaj pensoj kaj animstatoj.)
+
+(_Wangel_ kaj _Arnholm_ venas antaŭen en flustra kunparolo.)
+
+(_Bolette_ iras por rigardi en la flankan ĉambron dekstre. Poste ŝi
+malfermas la pordon.)
+
+BOLETTE
+Jes, kara patro, -- la manĝaĵo estas preta sur la tablo -- se vi --
+
+WANGEL
+(kun perforta sinrego) Ĉu ĝi estas, infano? Bone, bone. Bonvolu,
+ĉefinstruisto! Ni nun eniru por gluti adiaŭan pokalon kun -- kun
+"la sinjorino el la maro".
+
+(Ili iras al la pordo dekstre.)
+
+
+
+
+KVINA AKTO
+
+
+(La plej fora parto de la ĝardeno de _doktoro Wangel_ apud la
+karasi-lago. Kreskanta somernokta krepusko.)
+
+(_Arnholm_, _Bolette_, _Lyngstrand_ kaj _Hilde_, en boato, puŝas sin
+per stango de maldekstre antaŭen laŭ la bordo.)
+
+HILDE
+Jen ni povas facile salti teren!
+
+ARNHOLM
+Ne, ne, ne faru!
+
+LYNGSTRAND
+Mi ne povas salti, fraŭlino.
+
+HILDE
+Vi, Arnholm, ĉu ankaŭ vi ne povas salti?
+
+ARNHOLM
+Prefere ne.
+
+BOLETTE
+Ni albordiĝu ĉe la baneja ŝtuparo.
+
+(Ili puŝas stange dekstren.)
+
+(Sammomente venas _Ballested_ de dekstre sur la vojeto, portante
+muziknotojn kaj ĉaskornon. Li salutas al tiuj en la boato, turnas
+sin kaj parolas al ili. Respondoj aŭdiĝas de pli kaj pli fore de
+ekstere.)
+
+BALLESTED
+Kion vi diras? -- Jes certe estas pro la angla vaporŝipo. Ĉar estas
+la lasta fojo ke ĝi venas ĉi-jare. Sed se vi volas ĝui la muzikon,
+vi ne devas atendi tro longe. (vokas) Kion? (agitas la kapon) Mi
+ne povas aŭdi kion vi diras!
+
+(_Ellida_ kun ŝalo sur la kapo venas de maldekstre akompanata de
+doktoro _Wangel_.)
+
+WANGEL
+Sed kara Ellida, -- mi asertas al vi, -- ni ankoraŭ havas abundan
+tempon.
+
+ELLIDA
+Ne, ne, -- ni ne havas! Kiun ajn momenton li povas veni.
+
+BALLESTED
+(ekster la barilo) Ho jen, bonan vesperon, sinjoro doktoro! Bonan
+vesperon, sinjorino!
+
+WANGEL
+(rimarkas lin) Ho, ĉu estas vi? Ĉu estu muziko ankaŭ ĉi-nokte?
+
+BALLESTED
+Jes. La "Korn-asocio" intencas aŭdigi sin. Ne mankas festaj
+okazaĵoj nuntempe. Ĉi-nokte okazos por la anglo.
+
+ELLIDA
+La anglo! Ĉu ĝi jam vidiĝas?
+
+BALLESTED
+Ankoraŭ ne. Sed ĝi ja venas de interne -- de inter la insuloj. Ĝi
+povas veni antaŭ ol ni atentas.
+
+ELLIDA
+Jes, -- ĝuste tiel estas.
+
+WANGEL
+(duone al _Ellida_) Ĉi-nokte estas la lasta vojaĝo. Kaj ĝi neniam
+plu revenos.
+
+BALLESTED
+Malĝojiga penso, sinjoro doktoro. Sed tial ni ja al ĝi faru
+honoron. Ho jes, ho jes! Baldaŭ finiĝos la ĝojiga somera tempo.
+Baldaŭ ĉiuj markoloj estos fermitaj, kiel diriĝas en la tragedio.
+
+ELLIDA
+Ĉiuj markoloj fermitaj, -- jes.
+
+BALLESTED
+Malĝojige pripensi. Ni estis la gajaj infanoj de la somero dum
+semajnoj kaj monatoj. Estas premige akcepti la malhelan sezonon. Jes,
+komence, mi pensas. Ĉar la homoj _povas_ akli -- a -- klimatigi
+sin, sinjorino Wangel. Jes, ĝuste kion ili povas.
+
+(Li salutas kaj foriras maldekstren.)
+
+ELLIDA
+(rigardas trans la fjordon) Ho, tiu doloriga streĉo! Tiu ĉi
+ekscita duona horo antaŭ la decido.
+
+WANGEL
+Estas do definitive decidite, ke vi volas mem paroli kun li?
+
+ELLIDA
+Mi _devas_ mem paroli kun li. Ĉar estas ja en libereco, ke mi faru
+mian elekton.
+
+WANGEL
+Vi ne havas elekton, Ellida. Vi ne havas permeson elekti. Mi ne
+permesas al vi.
+
+ELLIDA
+La elekton vi ne povos malhelpi. Nek vi, nek iu alia. Vi povos
+malpermesi al mi forvojaĝi kun li, -- sekvi lin, -- se mi tiel
+elektos. Vi povos reteni min ĉi tie per forto. Kontraŭ mia volo.
+Tion vi povos. Sed ke mi elektas, -- elektas interne en mia animo, --
+elektas lin kaj ne vin, -- se mi tiel volos kaj elektos, tion vi ne
+povos malhelpi.
+
+WANGEL
+Ne, vi pravas. Tion mi ne povos malhelpi.
+
+ELLIDA
+Kaj mi ja havas nenion por kontraŭstari! Ĉi-hejme estas ja nenio,
+kio allogas kaj ligas min. Mi estas ja tute senradika en via domo,
+Wangel. La infanojn mi ne posedas. Ne posedas iliajn animojn, mi
+aludas. Neniam posedis ilin. -- Kiam mi forvojaĝos, -- _se_ mi do
+forvojaĝos, aŭ kun li ĉi-nokte -- aŭ morgaŭ al Skjoldvik, mi eĉ
+ne havas ŝlosilon por redoni, -- eĉ ne sciigon por postlasi, nek
+pri unu aŭ pri iu alia afero. Tiel senradika mi estas en via domo.
+Tiel tute ekster ĉio mi estis de la unua momento.
+
+WANGEL
+Vi ja mem volis.
+
+ELLIDA
+Ne, mi ne volis. Mi nek volis nek ne volis. Mi ja simple lasis ĉion
+tiel fariĝi, kiel mi ĝin trovis la tagon kiam mi venis. Estas vi --
+kaj neniu alia, -- kiu volis havi ĉion tiel.
+
+WANGEL
+Mi intencis aranĝi ĉion plej bone por vi.
+
+ELLIDA
+Ho jes, Wangel, mi ja bone scias! Sed estas venĝo en tio. Io kio
+venĝas sin. Ĉar nun troviĝas ĉi tie neniu liganta forto, -- neniu
+apogo por mi, -- neniu helpo, -- neniu allogo al tio, kio estus nia
+kuna interna posedo.
+
+WANGEL
+Mi komprenas, Ellida. Kaj tial vi ja de morgaŭ rericevos vian
+liberecon. De tiam vi vivu vian propran vivon.
+
+ELLIDA
+Kaj _tion_ vi nomas mian propran vivon! Ho ne, mia propra, vera vivo
+erarvojiĝis, kiam mi akceptis vivon kune kun vi. (pugnige premas la
+manojn en timo kaj maltrankvilo) Kaj nun, -- ĉi-nokte -- post duona
+horo -- venos li, kiun mi perfidis -- li, al kiu mi tenus min
+senrompe, kiel li tenis sin al mi! Nun li venos kaj ofertas al mi --
+la lastan kaj solan fojon -- revivi la vivon, -- vivi mian propran,
+veran vivon, la vivon, kiu timigas kaj allogas -- kaj pri kiu mi ne
+_povas_ rezigni. Ne libere!
+
+WANGEL
+Guste tial vi bezonas, ke via edzo -- kaj ankaŭ via kuracisto --
+prenas potencon sur vi -- kaj agas en via nomo.
+
+ELLIDA
+Jes, Wangel, mi bone komprenas. Ho, ne miskredu, ke foje estas
+momentoj, kiam ŝajnas al mi, ke estus paco kaj savo kaŭri intime
+ĉe vi -- kaj provi spiti ĉiujn allogajn kaj timigajn fortojn. Sed
+eĉ tion mi ne kapablas. Ne, ne, -- mi ne kapablas!
+
+WANGEL
+Venu, Ellida, -- ni iomete promenadu kune.
+
+ELLIDA
+Mi volus. Sed mi ne kuraĝas. Ĉar li ja diris, ke mi atendu lin ĉi
+tie.
+
+WANGEL
+Venu. Vi ankoraŭ havas bonan tempon.
+
+ELLIDA
+Jes, ĉu vi opinias?
+
+WANGEL
+Sufiĉan tempon, mi diras.
+
+ELLIDA
+Do ni iomete promenadu.
+
+(Ili eliras antaŭe dekstre. Sammomente venas _Arnholm_ kaj _Bolette_
+antaŭen apud la supra bordo de la lageto.)
+
+BOLETTE
+(rimarkas la forirantojn) Jen vidu --!
+
+ARNHOLM
+(mallaŭte) Tŝ, -- lasu ilin foriri.
+
+BOLETTE
+Ĉu vi komprenas, kio estas inter ili la lastajn tagojn?
+
+ARNHOLM
+Ĉu vi ion rimarkis?
+
+BOLETTE
+Ĉu mi rimarkis!
+
+ARNHOLM
+Ion aparte?
+
+BOLETTE
+Ho jes. Plurajn okazaĵojn. Ĉu vi ne?
+
+ARNHOLM
+Ho, mi ne ĝuste scias --
+
+BOLETTE
+Jes, certe vi faris. Sed vi ne volas priparoli.
+
+ARNHOLM
+Mi opinias, ke estus bone por via duonpatrino fari tiun vojaĝeton.
+
+BOLETTE
+Ĉu?
+
+ARNHOLM
+Jes, ĉu ne estus bone por ĉiuj, ke ŝi povu foje elveni?
+
+BOLETTE
+Se morgaŭ ŝi transloĝiĝos al Skjoldvik, ŝi certe neniam revenos
+al ni.
+
+ARNHOLM
+Sed, kara Bolette, kial vi do tiel pensas?
+
+BOLETTE
+Jes, tion mi firme opinias. Atentu nur! Vi vidos, -- ŝi neniam
+revenos. Almenaŭ ne dum mi kaj Hilde estas en la domo.
+
+HILDE
+Ankaŭ Hilde?
+
+BOLETTE
+Nu, kun Hilde eblus. Ĉar ŝi ja ankoraŭ estas nur infano. Kaj funde
+ŝi adoras ŝin, mi opinias. Sed pri mi estas alie, vidu.
+Duonpatrino, kiu ne estas multe pli aĝa ol oni mem --
+
+ARNHOLM
+Kara Bolette, -- por vi eble daŭrus nur mallonga tempo ĝis vi
+elvenus.
+
+BOLETTE
+(vigle) Ĉu vere! Vi do parolis kun patro?
+
+ARNHOLM
+Ankaŭ tio, jes.
+
+BOLETTE
+Nu, -- kaj kion li diris!
+
+ARNHOLM
+Hm, -- via patro estas ja forte okupata per aliaj pensoj ĉi tiujn
+tagojn --
+
+BOLETTE
+Jes, jes, la samon mi ja antaŭe diris.
+
+ARNHOLM
+Sed tiom mi eltiris el li, ke vi ne devas atendi iun helpon de li.
+
+BOLETTE
+Neniun --!
+
+ARNHOLM
+Li profunde klarigis al mi sian staton. Opiniis, ke tute ne eblus por
+li.
+
+BOLETTE
+(riproĉe) Kaj vi tamen havis koron por stari tie min trompante.
+
+ARNHOLM
+Vere mi ne faris, kara Bolette. Dependas tute de vi mem -- ĉu vi
+deziras elveni aŭ ne.
+
+BOLETTE
+Kio dependas de mi mem, vi aludas?
+
+ARNHOLM
+Ke vi elvenos en la mondon? Lernos kion vi pleje ŝatas. Partoprenos
+en ĉio, kion vi sopiras ĉi-hejme. Vivos la vivon sub pli helaj
+kondiĉoj, Bolette. Kion vi al tio diras?
+
+BOLETTE
+(kunfrapas la manojn) Ho, granda Dio --! Sed ja tute neeblas, tio
+ĉi. Ĉar patro nek volas, nek povas, do --. Ĉar mi ja ne havas iun
+alian en la tuta mondo al kiu min turni.
+
+ARNHOLM
+Ĉu vi ne povus decidigi vin akcepti asiston de via malju -- de via
+antaŭa instruisto?
+
+BOLETTE
+De vi, Arnholm! Ĉu vi volus --?
+
+ARNHOLM
+Helpi vin? Jes, kore volonte. Kaj per konsilo kaj per ago. Fidu tion.
+-- Ĉu vi aprobas? Ĉ u? Ĉu vi akceptas?
+
+BOLETTE
+Ĉu mi akceptas! Povi eliri, -- vidi la mondon, -- lerni ion
+profunde! Ĉion kio staris antaŭ mi kiel la granda, feliĉiga
+neebleco --!
+
+ARNHOLM
+Jes, tio povos nun fariĝi realaĵo por vi. Se vi mem volas.
+
+BOLETTE
+Kaj al tiu nedirebla feliĉo vi volas helpi min! Ho ne, -- sed diru
+ĉu _povas_ mi akcepti tian oferton de fremda homo?
+
+ARNHOLM
+De mi vi povas akcepti, Bolette. De mi vi povas akcepti kion ajn.
+
+BOLETTE
+(kaptas liajn manojn) Jes, preskaŭ ŝajnas al mi, ke mi povas! Mi
+ne scias kiel estas; sed -- (ekkrias) Ho, mi povus kaj ridi kaj
+plori pro ĝojo! Pro feliĉo! Ho, -- ĉu povos mi tamen vere vivi. Mi
+komencis timi, ke la vivo preterirus min.
+
+ARNHOLM
+Pro tio vi ne bezonas timi, kara Bolette. Sed nun vi devas diri al mi
+tute sincere -- ĉu estas io -- io, kio ligas vin ĉi tie?
+
+BOLETTE
+Ligas min? Ne, nenio.
+
+ARNHOLM
+Nenio ajn?
+
+BOLETTE
+Ne, tute ne. Tio signifas, -- patro ja iamaniere ligas min. Kaj
+ankaŭ Hilde. Sed --
+
+ARNHOLM
+Nu, -- vian patron vi ja foje devas forlasi. Kaj Hilde iam ja ankaŭ
+iros sian propran vojon tra la vivo. Tio estas ja nur demando de
+tempo. Nenio alia. Sed alie do estas nenio, kio ligas vin, Bolette?
+Neniu rilato?
+
+BOLETTE
+Ne, tute ne. Pro tio mi povus ja forvojaĝi kien ajn.
+
+ARNHOLM
+Jes, ĉar tiel estas, kara Bolette, -- vi povos forvojaĝi kun mi.
+
+BOLETTE
+(manfrapas) Ho Dio en la ĉielo, -- kia feliĉo por pripensi!
+
+ARNHOLM
+Ĉar mi esperas, ke vi plene fidas min?
+
+BOLETTE
+Jes, efektive!
+
+ARNHOLM
+Kaj vi kuraĝas senrezerve konfidi vin mem kaj vian estontecon en
+miajn manojn, Bolette? Ĉu ne? Vi kuraĝas?
+
+BOLETTE
+Ho jes, certe! Kial ne? Ĉu eblas alie pensi! Vi, kiu estis mia
+maljuna instruisto -- mia instruisto en pasintaj tagoj, mi pensas.
+
+ARNHOLM
+Ne nur tial. Al tiu flanko de la afero mi ne atentas. Sed --. Nu, --
+vi do estas libera, Bolette. Neniu rilato ligas vin. Kaj mi nun
+demandas vin -- se vi volus -- volus ligi vin al mi -- por la vivo?
+
+BOLETTE
+(retiras sin pro timo) Ho, -- kion vi diras!
+
+ARNHOLM
+Por la vivo, Bolette. Ĉu vi volas fariĝi mia edzino.
+
+BOLETTE
+(duone al si mem) Ne, ne, ne! Ne eblas! Tute ne eblas!
+
+ARNHOLM
+Ĉu tute ne eblus por vi, ke --?
+
+BOLETTE
+Sed vi vere tute ne povas intenci kion vi diras, sinjoro Arnholm!
+(rigardas lin) Aŭ --. Tamen --. Ĉu estis tiel vi intencis -- kiam
+vi proponis fari tiom por mi?
+
+ARNHOLM
+Aŭskultu min iomete, Bolette. Aspekte mi surprizis vin forte.
+
+BOLETTE
+Ho, kiel tiaĵo -- de vi, -- kiel ĝi ne povus -- surprizi min!
+
+ARNHOLM
+Vi pravas. Vi ja ne sciis -- ne povis scii, ke mi faris tiun ĉi
+vojaĝon pro vi.
+
+BOLETTE
+Vi venis ĉi tien pro -- pro mi!
+
+ARNHOLM
+Jes, mi faris, Bolette. Ĉi-printempe mi ricevis leteron de via
+patro. Kaj en ĝi estas diraĵo, kiu igis min kredi -- hm --, ke vi
+daŭre havis vian antaŭan instruiston en -- en iom pli ol amika
+memoro.
+
+BOLETTE
+Kiel patro povis skribi tiaĵon!
+
+ARNHOLM
+Ne estis tiel, kiel li intencis. Sed mi kaptiĝis en la imago, ke ĉi
+tie sopiradis juna knabino, ke mi revenu. -- Ne, vi ne interrompu
+min, kara Bolette! Kaj, -- vi ja komprenas, -- ke kiam oni, kiel mi,
+ne plu staras en la veraj jaroj de juneco, tiam tia kredo -- aŭ
+imago -- faras ege fortan impreson. Kreskis en mi viva -- dankema
+inklino al vi. Ŝajnis al mi, ke mi devis vojaĝi al vi. Revidi vin.
+Diri al vi, ke mi havas la samajn sentojn, kiujn mi imagis, ke vi
+portis por mi.
+
+BOLETTE
+Sed ĉar vi nun scias, ke tiel ne estis! Ke estis miskompreno!
+
+ARNHOLM
+Ne aliiĝas, Bolette. Via bildo, -- tia, kian mi ĝin portas en mi,
+-- restos ĉiam kolorigita kaj stampita de la animstato, en kiun la
+miskompreno metis min. Eble vi ne komprenas. Sed tiel estas.
+
+BOLETTE
+Neniam mi imagis, ke tiaĵo okazu.
+
+ARNHOLM
+Sed ĉar nun montriĝas, ke okazas? Kion vi nun diras, Bolette? Ĉu
+vi povis decidigi vin, -- nu, fariĝi mia edzino?
+
+BOLETTE
+Ho, aspektas al mi tute neeble, sinjoro Arnholm. Vi, kiu estis mia
+instruisto! Mi ne povas imagi alian rilaton al vi.
+
+ARNHOLM
+Nu ja, -- ĉar ŝajnas al vi tute neeble, ke vi povus --. Do la
+rilato restos neŝanĝita, kara Bolette.
+
+BOLETTE
+Kiel, vi pensas?
+
+ARNHOLM
+Kompreneble mi tamen restas ĉe mia propono. Mi prizorgos, ke vi
+elvenos por vidi la mondon. Por lerni ion kion vi ŝatas. Vivi en
+sekuraj, sendependaj kondiĉoj. Vian postan estontecon mi ankaŭ
+sekurigos, Bolette. Ĉar en mi vi ĉiam havos bonan, fidelan,
+fidindan amikon. Pri tio estu certa!
+
+BOLETTE
+Ho Dio, -- sinjoro Arnholm, -- ĉio fariĝis ja nun tute neebla.
+
+ARNHOLM
+Ĉu ankaŭ tio neeblas?
+
+BOLETTE
+Jes, vi ja povas imagi! Post tio kion vi diris, -- kaj post la
+respondo, kiun mi donis al vi --. Ho, vi ja mem povas kompreni, ke
+nun neeblas por mi akcepti tiom multe de vi! Nenion en la mondo povos
+mi akcepti de vi. Neniam post tio ĉi!
+
+ARNHOLM
+Vi do preferas sidi ĉi-hejme lasante la vivon preterpasi vin?
+
+BOLETTE
+Ho, dolorigas pripensi!
+
+ARNHOLM
+Ĉu vi rezignu vidi ion el la mondo ekstere? Rezignu pri ĉio, kion
+laŭ vi mem vi postsopiradas? Scii ke ekzistas ege multo, -- kaj
+tamen neniam konatiĝi kun ĝi? Pripensu, Bolette.
+
+BOLETTE
+Jes, jes, -- vi vere pravas, sinjoro Arnholm.
+
+ARNHOLM
+Kaj jen, -- kiam via patro ne plu vivas, -- tiam eble stari senhelpa
+kaj sola en la mondo. Aŭ eble devante vin doni al alia viro, -- kiun
+vi -- eble -- ankaŭ ne amas.
+
+BOLETTE
+Ho jes, -- mi ja komprenas la veron -- en tio kion vi diras. Sed
+tamen --! Aŭ eble tamen --?
+
+ARNHOLM
+(rapide) Nu!
+
+BOLETTE
+(rigardas lin dubeme) Ĉu eble tamen ne estus neeble --.
+
+ARNHOLM
+Kio, Bolette!
+
+BOLETTE
+Ke eblus, -- akcepti -- tion, -- kion vi proponis.
+
+ARNHOLM
+Ĉu vi pensas, ke vi tamen povus laŭvole --? Ke vi tamen povus
+permesi al mi la ĝojon helpi vin kiel fidela amiko?
+
+BOLETTE
+Ne, ne, ne! Neniam tio! Ĉar _tio_ estus tute neebla. -- Ne, sinjoro
+Arnholm, -- do prefere prenu min.
+
+ARNHOLM
+Bolette! Vi tamen volas!
+
+BOLETTE
+Jes, -- mi opinias -- ke mi volas.
+
+ARNHOLM
+Vi do tamen volas fariĝi mia edzino!
+
+BOLETTE
+Jes. Se vi daŭre opinias, ke -- ke vi devas preni min.
+
+ARNHOLM
+Se mi opinias --! (kaptas ŝiajn manojn) Ho, dankon, -- dankon,
+Bolette! Kion vi alie diris, -- via antaŭa dubemo, -- tio ne timigas
+min. Se mi ankoraŭ ne gajnis vian tutan koron, mi tamen scios gajni
+ĝin. Ho, Bolette, mi portos vin sur la manoj!
+
+BOLETTE
+Kaj mi povos vidi la mondon. Povos vivi la vivon. Jen kion vi
+promesis al mi.
+
+ARNHOLM
+Jen al kio mi restas.
+
+BOLETTE
+Kaj mi povos lerni ĉion, kion mi ŝatas.
+
+ARNHOLM
+Mi mem estu via instruisto. Kiel antaŭe, Bolette. Memoru la lastan
+jaron en la lernejo --.
+
+BOLETTE
+(silente kaj profunde en si mem) Imagu, -- scii sin libera -- veni
+en la fremdan mondon. Kaj ne bezoni timi pro la estonteco. Ne
+antaŭtimi pro la stulta enspezo --.
+
+ARNHOLM
+Ne, pri tio vi neniam bezonos disipi pensojn. Kaj -- ĉu ne, kara
+Bolette, -- _tio_ estas ege bona stato? Ĉu?
+
+BOLETTE
+Jes. Efektive estas. Ĝuste kaj vere.
+
+ARNHOLM
+(metas la brakojn ĉirkaŭ ŝian talion) Ho, vi vidos, kiel hejmece
+kaj agrable ni ĉion aranĝu kune! Kaj kiel bone kaj sekure kaj
+intime ni du kunvivu, Bolette!
+
+BOLETTE
+Jes, ankaŭ mi komencas --. Funde mi opinias -- ke tio ĉi eblos.
+(rigardas dekstren kaj liberigas sin) Ah! Nepre nenion diru!
+
+ARNHOLM
+Kio estas, kara?
+
+BOLETTE
+Ho, estas la kompatinda --. (montras eksteren) Vidu tie.
+
+ARNHOLM
+Via patro --?
+
+BOLETTE
+Ne, la juna skulptisto. Li promenadas tie kun Hilde.
+
+ARNHOLM
+Nu, Lyngstrand. Kio estas al li?
+
+BOLETTE
+Ho, vi ja scias, kiel malforta kaj malsana li estas.
+
+ARNHOLM
+Jes, se ne estas nura imagaĵo.
+
+BOLETTE
+Ho ne, estas ja vero. Li certe ne longe eltenos. Sed tio estas eble
+la pli bona por li.
+
+ARNHOLM
+Kara, kiel _tio_ estus la pli bona?
+
+BOLETTE
+Jes, ĉar -- certe nenio fariĝos el lia arto. -- Ni foriru antaŭ ol
+ili venos.
+
+ARNHOLM
+Kore bonvole, mia kara Bolette.
+
+(_Hilde_ kaj _Lyngstrand_ venas de apud la lago.)
+
+HILDE
+Hej, -- hej! Ĉu la gesinjoroj ne volas atendi nin?
+
+ARNHOLM
+Bolette kaj mi prefere iros iom antaŭe.
+
+(Li kaj _Bolette_ eliras maldekstre.)
+
+LYNGSTRAND
+(ridas silente) Estas tre amuze ĉi tie nuntempe. Ĉiuj iras ja
+duope. Ĉiam duope.
+
+HILDE
+(postrigardas ilin) Mi ĵurus, ke li petadas ŝian manon.
+
+LYNGSTRAND
+Ĉu? Ĉu vi ion tian rimarkis?
+
+HILDE
+Ho jes. Ne estas malfacile, -- kiam oni uzas siajn okulojn.
+
+LYNGSTRAND
+Sed fraŭlino Bolette ne akceptas lin. Mi certas.
+
+HILDE
+Ne. Ĉar ŝi trovas, ke li aspektas tre maljuna. Kaj ŝi ankaŭ
+kredas, ke li baldaŭ fariĝos kalva.
+
+LYNGSTRAND
+Nu, ne estas sole pro _tio_. Ŝi tamen ne volus akcepti lin.
+
+HILDE
+Kiel vi povas tion scii?
+
+LYNGSTRAND
+Jes, ĉar estas aliulo, al kiu ŝi promesis pensi.
+
+HILDE
+Nur pensi?
+
+LYNGSTRAND
+Dum li estas for, jes.
+
+HILDE
+Ho, do eble estas vi mem, pri kiu ŝi pensadu!
+
+LYNGSTRAND
+Povus esti.
+
+HILDE
+Ĉu ŝi promesis al vi?
+
+LYNGSTRAND
+Jes, imagu, -- ŝi promesis! Sed vi ne devas diri al ŝi, ke vi
+scias.
+
+HILDE
+Ho, Dio gardu mian buŝon. Mi estos muta kiel la tombo.
+
+LYNGSTRAND
+Mi trovas, ke estas vere afable de ŝi.
+
+HILDE
+Kaj kiam vi revenos hejmen, -- ĉu vi volas fianĉinigi ŝin? Kaj
+poste vin edzigi al ŝi?
+
+LYNGSTRAND
+Ne, tio ne bone konvenus. Ĉar mi ja ne kuraĝas pensi pri tiaĵo la
+unuajn jarojn. Kaj kiam mi fine estos sukcesinta, ŝi estos ja tro
+maljuna por mi, mi pensas.
+
+HILDE
+Sed vi tamen volas, ke ŝi restadas ĉi tie pensante pri vi?
+
+LYNGSTRAND
+Jes, ĉar multe utilas al mi. Por mi kiel artisto, vi komprenas. Kaj
+ŝi povas ja facile tion fari, ŝi, kiu mem ne havas veran
+vivotaskon. -- Sed ĝentila de ŝi tio ja tamen estas.
+
+HILDE
+Ĉu vi opinias, ke vi laboros pli rapide pri la artaĵo, kiam vi
+scias, ke Bolette sidas ĉi tie pensante pri vi?
+
+LYNGSTRAND
+Jes, tion mi imagas. Scii, ke ie en la mondo juna, bela kaj silenta
+virino, kiu revadas pri mi --. Mi pensas, ke devas esti io -- io --.
+Jes, mi ne vere scias kiel nomi ĝin.
+
+HILDE
+Vi eble pensas -- ekscita?
+
+LYNGSTRAND
+Ekscita? Ho jes. Ekscita estas la vorto, kiun mi serĉis. Aŭ io tia.
+(rigardas ŝin dum momento) Vi, vi estas inteligenta, fraŭlino
+Hilde. Vere tre inteligenta vi estas. Kiam mi revenos hejmen, vi
+havos proksimume la saman aĝon kiel via fratino nun. Eble vi tiam
+ankaŭ aspektos kiel via fratino nun aspektas. Kaj eble vi tiam havos
+la saman animon, kian ŝi nun havas. Ke vi tiam estos fariĝinta
+kvazaŭ ŝi kaj vi mem -- en unu staturo por tiel paroli.
+
+HILDE
+Ĉu vi tion dezirus?
+
+LYNGSTRAND
+Mi ne certe scias. Jes, mi kredas. Sed nun -- dum tiu ĉi somero --
+mi preferas, ke vi nur similu al vi mem. Ĝuste tia kia vi estas.
+
+HILDE
+Vi ŝatas min pli bone tia, ĉu?
+
+LYNGSTRAND
+Jes, mi tre ŝatas vin tia.
+
+HILDE
+Hm, -- diru, vi kiu estas artisto, -- ĉu vi ŝatas, ke mi ĉiam iras
+hele somervestita?
+
+LYNGSTRAND
+Jes, tion mi vere ŝatas.
+
+HILDE
+Ĉu vi trovas, ke la helaj koloroj konvenas al mi?
+
+LYNGSTRAND
+Jes, vere delikate la helo konvenas al vi, laŭ mia gusto.
+
+HILDE
+Sed diru, -- vi, kiu estas artisto, -- kiel laŭ vi mi aperus en
+nigra koloro?
+
+LYNGSTRAND
+En nigra, fraŭlino Hilde?
+
+HILDE
+Jes, tute en nigra. Ĉu vi trovas, ke mi aperus bela en ĝi?
+
+LYNGSTRAND
+Nigra ja ne estas por la somertempo. Cetere vi aperus bela ankaŭ en
+nigra. Ĝuste vi kun via aspekto.
+
+HILDE
+(rigardas antaŭen) En nigra ĝis la kolo. -- Nigra punta kolumo. --
+Nigraj gantoj. -- Kaj longa nigra ŝalo malantaŭen.
+
+LYNGSTRAND
+Se vi tiel vestus vin, fraŭlino Hilde, mi dezirus esti pentristo --
+kaj mi pentrus junan, delikatan funebrantan vidvinon.
+
+HILDE
+Aŭ junan, funebrantan fianĉinon.
+
+LYNGSTRAND
+Jes, por tio vi konvenus pli bone. Sed vi do ne dezirus vesti vin
+tiel?
+
+HILDE
+Mi ne scias. Sed ŝajnas al mi ekscite.
+
+LYNGSTRAND
+Ekscite?
+
+HILDE
+Ekscite pripensi, jes. (subite montras maldekstren) Ho, vidu _jen_!
+
+LYNGSTRAND
+(rigardas tien) La granda angla vaporŝipo! Kaj tute ĉe la kajo!
+
+(_Wangel_ kaj _Ellida_ venas antaŭen apud la lageto.)
+
+WANGEL
+Ne, mi certigas al vi, kara Ellida, -- vi miskomprenas!
+(vidas la aliajn) Nu, vi du estas ĉi tie? Ĉu ne, sinjoro
+Lyngstrand, -- ĝi ankoraŭ ne estas en vido?
+
+LYNGSTRAND
+La granda anglo?
+
+WANGEL
+Jes!
+
+LYNGSTRAND
+(montras) Jen ĝi kuŝas, sinjoro doktoro.
+
+ELLIDA
+Ah --! Mi ja sciis.
+
+WANGEL
+Jam venis!
+
+LYNGSTRAND
+Kvazaŭ ŝtelisto en la nokto, oni povus diri. Tute silente, senbrue.
+
+WANGEL
+Vi devas akompani Hilde al la kajo. Rapidiĝu! Ŝi certe volas
+aŭskulti la muzikon.
+
+LYNGSTRAND
+Jes, ni ĵus estis irontaj, sinjoro doktoro.
+
+WANGEL
+Ni aliaj eble sekvos poste. Post iom ni venos.
+
+HILDE
+(flustras al _Lyngstrand_) Ankaŭ tiuj du iras duope.
+
+(Ŝi kaj _Lyngstrand_ iras tra la ĝardeno maldekstren. La kornmuziko
+aŭdiĝas fore ĉe la fjordo dum tio kio sekvas.)
+
+ELLIDA
+Jam venis! Li estas ĉi tie! Jes, jes, -- mi sentas.
+
+WANGEL
+Prefere eniru, Ellida. Lasu min paroli kun li sola.
+
+ELLIDA
+Ho, -- ne eblas! Ne eblas, mi diras! (ekkrias) Ah, -- ĉu vi vidas
+lin, Wangel!
+
+(_La fremdulo_ venas de maldekstre kaj haltas sur la vojeto ekster la
+barilo.)
+
+LA FREMDULO
+(salutas) Bonan vesperon. Jen mi denove estas, Ellida.
+
+ELLIDA
+Jes, jes, jes, -- la horo venis.
+
+LA FREMDULO
+Vi estas preta por forvojaĝi, ĉu? Aŭ ĉu ne?
+
+WANGEL
+Vi ja mem vidas, ke ŝi ne estas.
+
+LA FREMDULO
+Mi ne demandas pri vojaĝvestoj aŭ aliaj tiaĵoj. Eĉ ne plenaj
+valizoj. Ĉio kion ŝi bezonos por la vojaĝo, mi havas surŝipe.
+Ankaŭ por kabino mi zorgis. (al _Ellida_) Mi do demandas
+vin, ĉu vi estas preta min akompani, -- en libereco min akompani?
+
+ELLIDA
+(petante) Ho, ne demandu min! Ne tentu min tiel!
+
+(Ŝipfajfilo aŭdiĝas en la foro.)
+
+LA FREMDULO
+Nun fajfas la unuan fojon surŝipe. Vi nun devas diri jes aŭ ne.
+
+ELLIDA
+(tordas la manojn) Decido! Decido por la tuta vivo! Neniam plu
+reŝanĝi!
+
+LA FREMDULO
+Neniam! Post duona horo estos tro malfrue.
+
+ELLIDA
+(rigardas lin eviteme kaj esplore) Kial vi tiel necedige tiras min
+al vi?
+
+LA FREMDULO
+Ĉu ne vi, kiel mi, sentas ke ni du apartenas unu al la alia?
+
+ELLIDA
+Pro tiu promeso, ĉu?
+
+LA FREMDULO
+La promeso neniun ligas. Nek viron, nek virinon. La kialo ĉar mi
+tiel necedige tenas vin al mi, estas ke mi nenion alian _povas_.
+
+ELLIDA
+(malrapide kaj treme) Kial vi ne venis pli frue?
+
+WANGEL
+Ellida!
+
+ELLIDA
+(ekkrias) Ho, -- tio kio tiras kaj tentas kaj logas -- enen en la
+nekonateco! La potenco de la tuta maro koncentrita en tio sola!
+
+(_La fremdulo_ transgrimpas la barelon.)
+
+ELLIDA
+(kaŝas sin malantaŭ _Wangel_) Kio estas? Kion vi volas?
+
+LA FREMDULO
+Mi vidas -- kaj mi aŭdas, Ellida, -- ke fine vi tamen _min_ elektas.
+
+WANGEL
+(paŝas kontraŭ lin) Mia edzino ne havas elekton. Mi rajtas elekti
+por ŝi kaj havas ŝin en mia zorgado. Zorgado, jes! Se vi ne retiros
+vin de ĉi tie, -- el la lando, -- kaj neniam revenos, -- ĉu vi tiam
+scias al kio vi riskigos vin?
+
+ELLIDA
+Ne, ne, Wangel! Ne tion!
+
+LA FREMDULO
+Kion vi volas fari al mi?
+
+WANGEL
+Mi volas enkarcerigi vin -- kiel krimulon! Tuj! Jam antaŭ ol vi
+surŝipiĝos! Ĉar mi scias pri la murdo en Skjoldvik.
+
+ELLIDA
+Ho, Wangel, -- kiel povas vi --!
+
+LA FREMDULO
+Al tio mi estas preta. Kaj tial -- (tiras revolveron el la
+brustpoŝo) -- tial mi ankaŭ provizis min per tiu ĉi.
+
+ELLIDA
+(ĵetas sin antaŭ _Wangel_) Ne, ne, -- ne mortigu lin! Prefere min!
+
+LA FREMDULO
+Nek vin, nek lin. Estu trankvila. Tiu ĉi estas por propra uzo. Ĉar
+mi volas vivi kaj morti kiel libera homo.
+
+ELLIDA
+(en kreskanta ekscito) Wangel! Lasu min diri al vi, -- diri, kaj li
+aŭskultu! Vi ja povas reteni min ĉi tie! Por tio vi havas potencon
+kaj rimedojn! Kaj vi ankaŭ faros! Sed mian animon, -- ĉiujn miajn
+pensojn, -- mian logantan sopiron kaj mian avidon, -- _tiujn_ vi ne
+povas ligi! Ili volas aspiri kaj celi -- elen en la nekonatecon, --
+por kio mi estas kreita -- kaj kiun vi fermis por mi!
+
+WANGEL
+(en silenta doloro) Mi vidas, Ellida! Paŝon post paŝo vi glitas
+for de mi. La postulo pri tio senfina kaj senlima -- kaj pri la
+neatingebla, -- ĝi fine pelos vian animon tute en la noktan nigron.
+
+ELLIDA
+Ho jes, jes, -- mi sentas -- kvazaŭ nigraj sensonaj flugiloj super
+mi!
+
+WANGEL
+Al tio ĝi ne venu. Ne troviĝas alia savo por vi. Almenaŭ mi neniun
+alian vidas. Tial -- tial mi lasas -- la negocon nun tuj refariĝi.
+-- Nun vi povas elekti vian vojon -- en plena -- plena libereco.
+
+ELLIDA
+(momenton fiksrigardas lin kvazaŭ muta) Ĉu vero, -- vero, -- kion
+vi diras! Ĉu tiel vi pensas -- el via plej interna koro!
+
+WANGEL
+Jes, -- el mia plej interna, suferanta koro mi tion pensas.
+
+ELLIDA
+Kaj ĉu vi _povas_? Ĉu vi povas permesi ke tio _okazu_!
+
+WANGEL
+Jes, mi povas. Mi povas -- ĉar mi amas vin tiel arde.
+
+ELLIDA
+(mallaŭte kaj treme) Tiel proksime -- tiel intime -- mi do ligiĝis
+al vi!
+
+WANGEL
+Tion efikis la jaroj kaj nia kuna vivo.
+
+ELLIDA
+(kunfrapas la manojn) Kaj mi, -- kiu tion ne perceptis!
+
+WANGEL
+Viaj pensoj sekvis aliajn vojojn. Sed nun do, -- nun vi estas
+komplete liberigita de mi kaj de la mia. Kaj de la miaj. Nun via
+ĝusta vivo povas -- remetiĝi sur -- sur sian ĝustan spuron. Ĉar
+nun vi povas libere elekti. Kaj sub propra respondeco, Ellida.
+
+ELLIDA
+(kaptas sian kapon per la manoj kaj rigardas antaŭen al _Wangel_)
+Libere kaj -- sub respondeco! Ankaŭ sub respondeco? -- Estas
+transformo en tio ĉi!
+
+(La ŝipfajfilo denove aŭdiĝas.)
+
+LA FREMDULO
+Ĉu vi aŭdas, Ellida! Nun fajfas la lastan fojon. Venu do!
+
+ELLIDA
+(turnas sin al li, rigardas lin fikse kaj diras per forta voĉo:)
+Neniam mi sekvos vin post tio ĉi!
+
+LA FREMDULO
+Vi ne sekvos!
+
+ELLIDA
+(kroĉas sin al _Wangel_) Ho, -- neniam mi forlasos vin post tio
+ĉi!
+
+WANGEL
+Ellida, -- Ellida!
+
+LA FREMDULO
+Do finite?
+
+ELLIDA
+Jes! Finite por ĉiam!
+
+LA FREMDULO
+Mi klare vidas. Estas io, kio estas pli forta ol mia volo.
+
+ELLIDA
+Via volo nenion plu potencas super mi. Por mi vi estas morta viro, --
+kiu revenis el la maro. Kaj tien reiros. Sed mi ne plu timas vin. Kaj
+vi min ne plu logas.
+
+LA FREMDULO
+Adiaŭ, sinjorino. (Li svingas sin trans la barilon.) De nun vi ne
+estas pli ol -- trapasinta ŝippereo en mia vivo.
+
+(Li eliras maldekstren.)
+
+WANGEL
+(rigardas ŝin dum momento) Ellida, -- via animo estas kiel la maro.
+Ĝi havas kaj fluson kaj malfluson. Kio kaŭzis la transformon?
+
+ELLIDA
+Ho, ĉu vi ne komprenas, ke la transformo venis, -- ke la transformo
+_devis_ veni -- kiam mi povis elekti en libereco.
+
+WANGEL
+Kaj la nekonateco, -- ĝi ne logas vin pli?
+
+ELLIDA
+Nek logas, nek timigas. Mi povis rigardi en ĝin, -- iri en ĝin, --
+se mi mem estus volinta. Nun mi povis elekti. Tial mi ankaŭ povis
+rezigni.
+
+WANGEL
+Mi komencas kompreni vin -- iom post iom. Vi pensas kaj perceptas en
+bildoj -- kaj en videblaj aperaĵoj. Via sopiro kaj aspiro al la
+maro, la logo al li, -- al tiu fremda viro, -- estis esprimo de
+vekiĝanta kaj kreskanta postulo pri libereco en vi. Nenio alia.
+
+ELLIDA
+Ho, mi ne scias, kion diri al tio. Sed vi estis bona kuracisto por
+mi. Vi _trovis_, -- kaj vi kuraĝis _uzi_ la ĝustan rimedon -- la
+_solan_, kiu povis helpi min.
+
+WANGEL
+Jes, -- en la ekstrema peno kaj danĝero ni kuracistoj kuraĝas
+multe. -- Sed nun vi do revenos al mi, Ellida?
+
+ELLIDA
+Jes, kara, fidela Wangel, -- nun mi revenos al vi. Nun mi povas. Ĉar
+nun mi venos al vi en libereco, -- libervole, kaj sub respondeco.
+
+WANGEL
+(rigardas ŝin kore) Ellida! Ellida! Ho, imagu, ke nun ni du povos
+vivi tute unu por la alia --
+
+ELLIDA
+-- kaj kun kunaj memoroj. Viaj -- kiel ankaŭ miaj.
+
+WANGEL
+Jes, ĉu ne, vi kara!
+
+ELLIDA
+-- kaj por niaj du infanoj, Wangel!
+
+WANGEL
+_Niaj_ vi nomas ilin!
+
+ELLIDA
+Tiuj, kiujn mi ne posedas, sed kiujn mi scios gajni.
+
+WANGEL
+Niaj --! (kisas ĝoje kaj rapide ŝiajn manojn) Ho, -- senfinan
+dankon pro tiu vorto!
+
+(_Hilde_, _Ballested_, _Lyngstrand_, _Arnholm_ kaj _Bolette_ venas de
+maldekstre en la ĝardenon.)
+
+(Samtempe multaj el la _junuloj_ de la urbo kaj _somergastoj_ ekstere
+sur la vojeto.)
+
+HILDE
+(duonlaŭte al _Lyngstrand_) Jen vidu -- kiel novgefianĉiĝinte ŝi
+kaj patro aspektas!
+
+BALLESTED
+(kiu aŭdis ŝian eldiron) Estas somera tempo, fraŭlineto.
+
+ARNHOLM
+(rigardas al _Wangel_ kaj _Ellida_) Nun la anglo forvojaĝas.
+
+BOLETTE
+(iras al la barilo) De ĉi tie oni povas plej bone vidi ĝin.
+
+LYNGSTRAND
+La lasta vojaĝo ĉi-jare.
+
+BALLESTED
+Baldaŭ ĉiuj markoloj estos fermitaj, kiel diras la poeto. Estas
+malĝojige, sinjorino Wangel! Kaj nun ni ja ankaŭ perdos vin por
+ioma tempo. Morgaŭ vi ja transloĝiĝos al Skjoldvik, mi aŭdas.
+
+WANGEL
+Ne, -- ne okazos. Ĉar ĉi-nokte ni du redecidis.
+
+ARNHOLM
+(rigardas ilin alterne) Ah, -- vere!
+
+BOLETTE
+(venas antaŭen) Patro, -- ĉu estas vero!
+
+HILDE
+(proksimiĝas al _Ellida_) Ĉu vi tamen restos ĉe ni!
+
+ELLIDA
+Jes, kara Hilde, -- se vi volas havi min.
+
+HILDE
+(luktante inter ploro kaj ĝojo) Ho! -- imagu -- ĉu mi volas --!
+
+ARNHOLM
+(al _Ellida_) Sed tio ĉi estas ja vera surprizo --!
+
+ELLIDA
+(ridetas serioze) Nu, jen vidu, sinjoro Arnholm --. Ĉu vi memoras,
+-- ni parolis pri tio hieraŭ? Kiam oni fariĝis surtera estaĵo, --
+oni ne facile trovos la vojon reen -- al la maro. Kaj ankaŭ ne al la
+mara vivo.
+
+BALLESTED
+Sed estas ja ĝuste kiel pri mia mara virino!
+
+ELLIDA
+Proksimume, jes.
+
+BALLESTED
+Nur kun tiu diferenco ke _la marvirino -- ŝi mortos_. La homoj,
+kontraŭe, -- ili povas sin aklam-aklimatizi. Jes, jes, -- mi
+certigas al vi, sinjorino Wangel, -- ili _povas_ sin a-kli-matizi!
+
+ELLIDA
+Jes, en libereco ili povas, sinjoro Ballested.
+
+WANGEL
+Kaj sub respondeco, kara Ellida.
+
+ELLIDA
+(rapide, etendas al li la manon) Ĝuste _tiel_ estas.
+
+(La granda vaporŝipo glitas sensone elen de la fjordo. La muziko
+aŭdiĝas pli proksime sur la tero.)
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of La Sinjorino el la Maro, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA SINJORINO EL LA MARO ***
+
+***** This file should be named 19182-0.txt or 19182-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/9/1/8/19182/
+
+Produced by William Walter Patterson and Andrew Sly
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

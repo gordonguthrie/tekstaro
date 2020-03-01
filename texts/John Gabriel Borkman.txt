@@ -1,0 +1,5475 @@
+﻿The Project Gutenberg EBook of John Gabriel Borkman, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: John Gabriel Borkman
+
+Author: Henrik Ibsen
+
+Translator: Odd Tangerud
+
+Release Date: December 23, 2006 [EBook #20178]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK JOHN GABRIEL BORKMAN ***
+
+
+
+
+Produced by Andrew Sly and Will Wurzel
+
+
+
+
+
+HENRIK IBSEN
+
+JOHN GABRIEL BORKMAN
+
+(1896)
+
+Tradukis
+1997
+Odd Tangerud
+
+ISBN 82-91707-59-6
+
+
+
+JOHN GABRIEL BORKMAN
+
+ROLOJ:
+
+  JOHN GABRIEL BORKMAN, eksa bankestro.
+  SINJORINO GUNHILD BORKMAN, lia edzino.
+  ERHART BORKMAN, studento, ilia filo.
+  FRAŬLINO ELLA RENTHEJM, ĝemelfratino de sinjorino Borkman.
+  SINJORINO FANNY WILTON.
+  VILHELM FOLDAL, kromoficisto en ministeria oficejo.
+  FRIDA FOLDAL, lia filino.
+  LA ĈAMBRISTINO de sinjorino Borkman.
+
+
+(La dramo okazas iun vintran vesperon ekster la ĉefurbo en la
+bieno de la familio Renthejm.)
+
+
+
+
+UNUA AKTO
+
+
+(La sidĉambro de _sinjorino Borkman_, ekipita de malnovmoda,
+paliĝinta gloro. Malferma ŝovpordo kondukas malsupren en ĝardena
+ĉambro kun fenestroj kaj vitra pordo en la fono. Tra ĝi estas
+elvidaĵo al la ĝardeno, kie la neĝa vetero bloviĝas en la
+krepusko. Sur la dekstre-flanka muro estas enireja pordo de la
+antaŭĉambro. Pli antaŭe estas granda, malnova ferforno en kiu
+estas ekbruligita. Maldekstre, iom pli malantaŭe, estas unu pli
+malgranda pordo. Antaŭe en la sama flanko estas fenestro, kovrita de
+dikaj kurtenoj. Inter la fenestro kaj la pordo estas kanapo kun
+ĉevalhara kovraĵo kaj kun tapiŝkovrita tablo antaŭe. Sur la tablo
+estas eklumigita lampo kun ŝirmilo. Apud la forno estas altdorsa
+apogseĝo.)
+
+(_Sinjorino Gunhild Borkman_ sidas sur la kanapo kun sia
+kroĉtrikaĵo. Ŝi estas iom aĝa virino kun malvarma, distingita
+aspekto, kun rigida staturo kaj neŝanĝiĝantaj vizaĝtrajtoj. Ŝia
+densa hararo estas ege griza. La manoj maldikaj, diafanaj. Vestita en
+dika, malhela silkvestaĵo, kiu origine estis eleganta, sed nun estas
+uzita. Lana ŝalo sur la ŝultroj.)
+
+(Ŝi sidas momenton rekta kaj senmova kun la kroĉaĵo. Jen
+aŭdiĝas de ekstere sonorigado de preterpasanta sledo.)
+
+SINJORINO BORKMAN
+(ekaŭskultas; brilas ĝojo en ŝiaj okuloj, kaj senpere ŝi
+flustras:) Erhart! Fine!
+
+(Ŝi ekstaras kaj rigardas elen tra la kurteno. Aspektas
+seniluziigita, kaj reen eksidas sur la kanapo por sia laboro.)
+
+(La _ĉambristino_ iom poste envenas de la enireja ĉambro kun
+vizitkarto sur pleto.)
+
+SINJORINO BORKMAN
+(rapide) Ĉu la studento tamen venis?
+
+ĈAMBRISTINO
+Ne, sinjorino. Sed ekstere estas sinjorino —
+
+SINJORINO BORKMAN
+(flankenmetas la kroĉaĵon) Nu, do sinjorino Wilton —
+
+ĈAMBRISTINO
+(proksimiĝas) Ne; estas _fremda_ sinjorino —
+
+SINJORINO BORKMAN
+(etendas manon por la karto) Ke mi vidu — (legas; rapide ekstaras
+kaj rigardas la knabinon rigide) Ĉu vi estas certa, ke estas por
+mi?
+
+ĈAMBRISTINO
+Jes, mi komprenis, ke estus por la sinjorino.
+
+SINJORINO BORKMAN
+Ĉu ŝi demandis por paroli kun sinjorino Borkman?
+
+ĈAMBRISTINO
+Jes ja, tion ŝi faris.
+
+SINJORINO BORKMAN
+(abrupte; decidite) Bone. Do diru ke mi estas hejme.
+
+(La _ĉambristino_ malfermas la pordon por la fremda sinjorino kaj
+mem eliras.)
+
+(_Fraŭlino Ella Renthejm_ venas en la ĉambron. Ŝi similas al la
+fratino laŭ ekstero; sed ŝia vizaĝo havas pli suferan ol akran
+esprimon. Ĝi ankoraŭ portas stampon de granda, karakterplena beleco
+de pasintaj jaroj. La riĉa hararo estas kombita en naturajn buklojn
+de la frunto, kaj estas tute arĝentoblanka. Ŝi estas vestita en
+nigra veluro kun ĉapelo kaj mantelo kun pelta subŝtofo el la sama
+materialo.)
+
+(Ambaŭ fratinoj staras momenton en silento, prove rigardantaj unu
+la alian. Ĉiu el ili aspekte atendas, ke la alia parolu la unua.)
+
+ELLA RENTHEJM
+(kiu estas sin tenanta apud la pordo) Jes, vi certe rigardas min en
+surprizo, vi, Gunhild.
+
+SINJORINO BORKMAN
+(staras senmova, rekta, inter la kanapo kaj la tablo, apogante la
+fingropintojn sur la tapiŝo.) Ĉu vi ne iras erare? La administranto
+ja loĝas en la flanka domo, vi scias.
+
+ELLA RENTHEJM
+Ne estas kun la administranto ke mi parolu hodiaŭ.
+
+SINJORINO BORKMAN
+Ĉu estas al mi, ke vi ion volas?
+
+ELLA RENTHEJM
+Jes. Mi devas paroli kelkajn vortojn kun vi.
+
+SINJORINO BORKMAN
+(venas antaŭen sur la planko) Nu, — do eksidu.
+
+ELLA RENTHEJM
+Dankon; mi bone povas stari dume.
+
+SINJORINO BORKMAN
+Tute kiel plaĉas al vi. Sed tamen iom malligu la
+supervestaĵojn.
+
+ELLA RENTHEJM
+(malbutonumas la mantelon) Jes, estas tre varme ĉi tie —
+
+SINJORINO BORKMAN
+Mi ĉiam frostas.
+
+ELLA RENTHEJM
+(staras momenton ŝin rigardante, kun la brako ripozanta sur la dorso
+de la brakseĝo) Jes, — Gunhild, estas nun baldaŭ ok jaroj post
+kiam ni laste vidis unu la alian.
+
+SINJORINO BORKMAN
+(malvarme) Almenaŭ post kiam ni interparolis.
+
+ELLA RENTHEJM
+Ĝuste dirite, interparolis, jes. — Ĉar vi certe foje vidis min, —
+kiam mi devis fari mian jaran vojaĝon ĉi tien al la administranto.
+
+SINJORINO BORKMAN
+Unu aŭ du fojojn, mi opinias.
+
+ELLA RENTHEJM
+Ankaŭ mi kelkajn fojojn ekvidetis vin. En la fenestro _tie_.
+
+SINJORINO BORKMAN
+Estus malantaŭ la kurtenoj. Vi havas bonajn okulojn, vi. (akre kaj
+ŝire) Sed la lastan fojon kiun ni _kunparolis_, — tio okazis ĉi
+tie en la ĉambro ĉe mi —
+
+ELLA RENTHEJM
+(deturnante) Jes, jes, mi scias, Gunhild!
+
+SINJORINO BORKMAN
+— la semajnon antaŭ ol li, — antaŭ ol li liberiĝis.
+
+ELLA RENTHEJM
+(iras trans la planko) Ho, ne tuŝu do _tion_!
+
+SINJORINO BORKMAN
+(firme sed mallaŭte) Estis la semajno antaŭ ol li, — la bankestro
+denove liberiĝis.
+
+ELLA RENTHEJM
+(antaŭen sur la planko) Ho jes, jes, jes! Mi certe ne forgesas tiun
+momenton! Sed pri tio pensi estas tro preme. Eĉ nur en pensoj resti
+momenton je tio — oh!
+
+SINJORINO BORKMAN
+(obtuze) Kaj tamen la pensoj ne permesiĝas turniĝi ĉirkaŭ ion
+alian! (ekdire; kunfrapante la manojn) Ne, mi ne komprenas! Neniam en
+la mondo! Mi ne komprenas, ke tiaĵo, — io tiel terura povu trafi
+solan familion! Kaj imagu, — _nian_ familion! Altrangan familion,
+kiel la nian! Imagu ke tio trafis ĝuste _ĝin_!
+
+ELLA RENTHEJM
+Ho Gunhild, — estas ja pli, pli multaj ol _nia_ familio, kiujn tio
+frapis.
+
+SINJORINO BORKMAN
+Nu jes; sed pri ĉiuj tiuj aliuloj mi ne multe atentas. Ĉar estis ja
+nur iom da arĝento — aŭ kelkaj paperoj, — kiuj perdiĝis por
+_ili_. Sed por ni —! Por mi! Kaj por Erhart! Infano kia li tiam
+estis! (en kreskanta ekscito) La honto por ni du senkulpuloj! La
+senhonorigo! La malbela, terura senhonorigo! Kaj aldone esti tute
+ruinigata!
+
+ELLA RENTHEJM
+(singarde) Diru al mi, Gunhild, — kiel li portas tion?
+
+SINJORINO BORKMAN
+Erhart, vi aludas?
+
+ELLA RENTHEJM
+Ne, — li mem. Kiel li portas tion?
+
+SINJORINO BORKMAN
+(spirblovas moke) Ĉu vi imagas, ke mi demandas pri _tio_?
+
+ELLA RENTHEJM
+Demandas? Vi do ne bezonas demandi —
+
+SINJORINO BORKMAN
+(mire rigardas ŝin) Vi do ne kredas, ke mi interrilatas kun li?
+Estas kune kun li? Foje serĉas lin?
+
+ELLA RENTHEJM
+Eĉ ne tio!
+
+SINJORINO BORKMAN
+(kiel antaŭe) _Li_, kiu devis sidi enŝlosata kvin jarojn! (frapas
+la manojn antaŭ la vizaĝon) Ho, kia frakasanta honto! (ekrektigas
+sin) Kaj imagu kiom la nomo John Gabriel Borkman signifis pasinte! —
+Ne, ne, ne, — neniam plu vidi lin! — Neniam!
+
+ELLA RENTHEJM
+(rigardas ŝin momenton) Vi havas malmolan animon, Gunhild.
+
+SINJORINO BORKMAN
+Kontraŭ _li_, jes.
+
+ELLA RENTHEJM
+Li tamen estas via edzo.
+
+SINJORINO BORKMAN
+Ĉu li ne diris en la tribunalo, ke estis _mi_, kiu komencis ruinigi
+lin? Ke mi disipis tro da mono —?
+
+ELLA RENTHEJM
+(singardeme) Sed ĉu ne _estis_ ia vero en tio?
+
+SINJORINO BORKMAN
+Sed ĉu ne estis li mem, kiu volis tion tiel havi! Ĉio devus ja esti
+tiel sensence abunda —
+
+ELLA RENTHEJM
+Tion mi ja scias. Sed ĝuste tial vi estus devinta reteni. Kaj tion
+vi ja ne faris.
+
+SINJORINO BORKMAN
+Ĉu mi tiam scius, ke ne estas lia propra mono, tiu kiun li donis al
+mi por disponi? Kaj kiun li ankaŭ mem disponis? Dek fojojn pli
+disipe ol mi!
+
+ELLA RENTHEJM
+(silente) Nu, tio sekvis de lia pozicio, mi pensas. _Grandparte_
+tamen.
+
+SINJORINO BORKMAN
+(rikane) Jes, diriĝis ja ĉiam, ke ni devis “reprezenti”. Kaj sekve
+li reprezentis kiel efikis! Veturis per kvar-jungitaro — kvazaŭ li
+estus reĝo. Igis homojn kapklini kaj humilskrapi antaŭ li kvazaŭ
+antaŭ reĝo. (ridas) Kaj ili nomis lin per antaŭnomo, — tra la
+tuta lando — ĝuste kvazaŭ li estus la reĝo mem. “John Gabriel”,
+“John Gabriel”. Ĉiuj sciis kia grandegulo “John Gabriel” estas!
+
+ELLA RENTHEJM
+(firme kaj varme) Tiam li ja _estis_ grandegulo.
+
+SINJORINO BORKMAN
+Jes, aspektis ja tiel. Sed neniam per unu sola vorto li informis min,
+kia estas lia stato. Neniam li sugestis, el kio li prenis la
+rimedojn.
+
+ELLA RENTHEJM
+Ne, ne, — tion scietis ankaŭ ne aliuloj.
+
+SINJORINO BORKMAN
+Ne gravis pri la aliuloj. Sed al _mi_ li devis diri la veron. Sed
+tion li neniam faris! Li nur mensogis, — mensogis tiel senfunde por
+mi —
+
+ELLA RENTHEJM
+(interrompante) Tion li certe ne faris, Gunhild! Li eble prisilentis.
+Sed li certe ne mensogis.
+
+SINJORINO BORKMAN
+Nu jes, nomu tion kiel vi volas. Tio estas ja tute la sama. — Sed
+fine renversiĝis la tuto. Ĉio. La tuta gloro.
+
+ELLA RENTHEJM
+(antaŭ si) Jes, ĉio renversiĝis — por _li_ — kaj por
+aliuloj.
+
+SINJORINO BORKMAN
+(rektigas sin minace) Sed tion mi diras al vi, Ella, — mi ankoraŭ
+ne cedas! Mi sciu havigi al mi rehonorigon. Pri tio vi konfidu!
+
+ELLA RENTHEJM
+(streĉita) Rehonorigon? Kion vi pensas pri _tio_?
+
+SINJORINO BORKMAN
+Rehonorigon por nomo kaj honoro kaj bonstato! Rehonorigon por mia
+tuta mistraktita vivosorto, pri tio mi pensas! Mi havas iun rezerve,
+mi, vi sciu. — Iun, kiu lavu _pura_ ĉion, kion — kion la bankestro
+ĵetis en la koton.
+
+ELLA RENTHEJM
+Gunhild! Gunhild!
+
+SINJORINO BORKMAN
+(kreskante) Vivas venĝanto, sciu! Iu kiu rebonigos ĉion, pri kio
+lia patro estas kulpa al mi!
+
+ELLA RENTHEJM
+Do Erhart.
+
+SINJORINO BORKMAN
+Jes, Erhart, — mia mirinda knabo! _Li_ scios restarigi la
+parencaron, la domon, la nomon. Ĉion, kio _eblas_ restariĝi. —
+eble ankoraŭ pli.
+
+ELLA RENTHEJM
+Kaj laŭ vi kiel _tio_ okazus?
+
+SINJORINO BORKMAN
+Tio venu kiel ĝi povos. Mi ne scias _kiel_ tio venos. Sed mi scias,
+ke ĝi _venos_ kaj _devos_ iam veni. (rigardas ŝin demande) Ĉu —
+Ella, — ĉu ne estas funde la sama, kion vi estas pripensadanta de
+post kiam li estis etulo?
+
+ELLA RENTHEJM
+Ne, tion mi vere ne povas diri.
+
+SINJORINO BORKMAN
+Ĉu ne? Kial vi do zorgis pri li? Tiam kiam la ŝtormo estis
+ekfuriozinta super — super ĉi tiu domo.
+
+ELLA RENTHEJM
+Tiam vi ja ne mem kapablis, Gunhild.
+
+SINJORINO BORKMAN
+Ho ne, — mi ja ne povis. Kaj lia patro, — li estis leĝe ekskuzita,
+— tie kie li sidis, — tiel bone gardata —
+
+ELLA RENTHEJM
+(en ekscito) Ho, ke vi kapablas eldiri tiajn vortojn —! Vi!
+
+SINJORINO BORKMAN
+(kun venena esprimo) Kaj ke _vi_ povus decidigi vin zorgi pri iu, —
+iu infano de John Gabriel! Tute kvazaŭ tiu infano estus via propra
+— Forpreni ĝin de _mi_, — kaj vojaĝi hejmen kun ĝi. Kaj reteni
+ĝin ĉe vi, jaron post jaro. Ĝis la knabo preskaŭ estis
+plenkreska. (rigardas ŝin suspekte) Kial vi vere faris tion, Ella?
+Kial vi retenis lin?
+
+ELLA RENTHEJM
+Okazis ke mi tre kore ŝatis lin —
+
+SINJORINO BORKMAN
+Pli ol mi, — lia patrino!
+
+ELLA RENTHEJM
+(evite) Tion mi ne scias. Kaj aldone Erhart estis malforteca dum la
+kreskado —
+
+SINJORINO BORKMAN
+Erhart — malforteca!
+
+ELLA RENTHEJM
+Jes, ŝajnis al mi, — almenaŭ tiam. Kaj la aero tie fore ĉe la
+okcidenta marbordo estas multe pli milda ol ĉi tie, vi ja scias.
+
+SINJORINO BORKMAN
+(ridetas amare) Hm. Ĉu? (interrompante) Jes, vi certe estas multe
+farinta por Erhart, vi. (ŝanĝas tonon) Nu, estas ja kompreneble;
+vi havas ja rimedojn por tio. (ridetas) Vi estis ja bonŝanca, vi,
+Ella. Vi sukcesis savi tion, kio estis la via.
+
+ELLA RENTHEJM
+(ofendita) Por tio _mi_ ne faris paŝon, — povas mi certigi al vi.
+Mi ne havis — antaŭ longe longe poste — iun suspekton, ke la
+paperoj, kiuj estis en deponio en la banko por mia konto, — ke ili
+estis netuŝitaj —
+
+SINJORINO BORKMAN
+Nu ja; tiaĵon mi ne komprenas! Mi nur diras, ke vi estis bonŝanca.
+(rigardas ŝin demande) Sed kiam vi tiel meminiciate komencis
+prizorgi Erhart por mi —? Kiu do estis via celo pri tio?
+
+ELLA RENTHEJM
+(rigardas ŝin) Mia celo —?
+
+SINJORINO BORKMAN
+Nu ja, intencon vi ja devus havi. Kia vi volis fari lin? Kion fari
+el li, mi pensas?
+
+ELLA RENTHEJM
+(malrapide) Mi volis faciligi al Erhart la vojon por fariĝi feliĉa
+homo en nia mondo.
+
+SINJORINO BORKMAN
+(spirblovas) Puh, — homoj en nia ekonomia stato havas sufiĉe por
+pripensi ol pensi pri feliĉo.
+
+ELLA RENTHEJM
+Kion do, — vi pensas?
+
+SINJORINO BORKMAN
+(rigardas ŝin malferme kaj serioze) Erhart devas antaŭ ĉio atenti,
+ke li estos lumanta tiel alte kaj tiel vaste, ke neniu homo en la
+lando plu videtas la ombron, kiun lia patro ĵetis super min — kaj
+super sian filon.
+
+ELLA RENTHEJM
+(esplore) Diru al mi, Gunhild, — ĉu _tio_ estas postulo, kiun
+Erhart _mem_ metas por sia vivo —?
+
+SINJORINO BORKMAN
+(mire) Jes, tion ni do esperu!
+
+ELLA RENTHEJM
+— aŭ ĉu ĝi pli estas postulo, kiun _vi_ metas al li?
+
+SINJORINO BORKMAN
+(mallonge) Mi kaj Erhart ĉiam metas la samajn postulojn al ni
+mem.
+
+ELLA RENTHEJM
+(peze kaj malrapide) Tiel certa vi do estas pri via knabo, vi,
+Gunhild.
+
+SINJORINO BORKMAN
+(kaŝe triumfe) Jes, laŭdo kaj danko al Dio, — mi estas. Pri tio vi
+fidu!
+
+ELLA RENTHEJM
+Vi sekve funde tamen devas senti vin feliĉa. Spite al ĉiuj
+aliaĵoj.
+
+SINJORINO BORKMAN
+Mi ja faras. Pro tio. Sed jen, — ĉiun momenton, vidu, — venas
+drivanta tiu aliaĵo kiel kruda vetero super min.
+
+ELLA RENTHEJM
+(kun ŝanĝita tono) Diru al mi —. Pli bone tuj. Ĉar vere estas pro
+_tio_, ke mi venis ĉi tien al vi —
+
+SINJORINO BORKMAN
+Kion?
+
+ELLA RENTHEJM
+Ion pri kio mi opiniis, ke mi devas paroli kun vi, — Diru al mi,
+Erhart ja ne plu loĝas ĉi tie ĉe — ĉe vi aliuloj.
+
+SINJORINO BORKMAN
+(malmole) Erhart ja ne _povas_ loĝi ĉi tie ĉe mi. Li devas loĝi
+en la urbo —
+
+ELLA RENTHEJM
+Tion li skribis al mi.
+
+SINJORINO BORKMAN
+Tion li devas pro la studoj. Sed li vizitas min ioman tempon ĉiun
+vesperon.
+
+ELLA RENTHEJM
+Jes, eble mi povus vidi lin? Kaj tuj paroli kun li?
+
+SINJORINO BORKMAN
+Li ankoraŭ ne venis. Sed mi atendas lin ĉiun momenton.
+
+ELLA RENTHEJM
+Jes, Gunhild, — li certe estas veninta. Ĉar mi aŭdas lin
+supre.
+
+SINJORINO BORKMAN
+(kun rapida okulĵeto) Supre en la granda salono?
+
+ELLA RENTHEJM
+Jes. Mi ja aŭdas lin paŝadi tie supre de post kiam mi venis.
+
+SINJORINO BORKMAN
+(turnas la okulojn for de ŝi) Ne estas li, tio, Ella.
+
+ELLA RENTHEJM
+(surprize) Ĉu ne estas Erhart? (suspekte) Kiu tiu do _estas_?
+
+SINJORINO BORKMAN
+La bankestro.
+
+ELLA RENTHEJM
+(malrapide, en subpremita doloro) Borkman. John Gabriel Borkman!
+
+SINJORINO BORKMAN
+Tiel li paŝadas tien kaj reen. Antaŭen kaj malantaŭen. De mateno
+al vespero. Tagon post tago.
+
+ELLA RENTHEJM
+Mi vere aŭdis iun aludeton pri io —
+
+SINJORINO BORKMAN
+Kredeblas. Aludiĝas certe ĉiaĵoj pri ni en la distrikto.
+
+ELLA RENTHEJM
+Erhart aludis pri tio. En la leteroj. Ke lia patro tenas sin pleje
+ĉe si mem, — tie supre. Kaj vi ĉe vi mem ĉi tie malsupre.
+
+SINJORINO BORKMAN
+Jes, — tiel la stato estas estinta por ni, Ella. Tute de kiam ili
+liberigis lin. Kaj sendis lin hejmen al mi. — Dum ĉiuj tiuj longaj
+ok jaroj.
+
+ELLA RENTHEJM
+Sed mi neniam havis la penson, ke tio efektive povus esti vero. Ke
+estus ebla —!
+
+SINJORINO BORKMAN
+(kapsignas) Estas vero. Kaj neniam povos fariĝi alimaniera.
+
+ELLA RENTHEJM
+(rigardas ŝin) Tio ĉi tamen estas terura vivo, Gunhild.
+
+SINJORINO BORKMAN
+Pli ol terura, sciu. Baldaŭ ne plu eltenebla.
+
+ELLA RENTHEJM
+Mi bone komprenas.
+
+SINJORINO BORKMAN
+Ĉiame aŭdi liajn paŝojn tie supre. Ek de la frua mateno ĝis
+malfrue en la nokto. — Kaj tiel aŭdeble kiel estas ĉi tie
+malsupre.
+
+ELLA RENTHEJM
+Jes, estas intense aŭdeble ĉi tie.
+
+SINJORINO BORKMAN
+Multfoje ŝajnas al mi, ke mi havas malsanan lupon paŝadanta en
+kaĝo tie supre en la salono. Ĝuste rekte super mia kapo.
+(aŭskultas kaj flustras) Aŭdu nur, vi! Aŭdu! Tien kaj reen, —
+tien kaj reen iras la lupo.
+
+ELLA RENTHEJM
+(gardeme) Ĉu ne povus ŝanĝiĝi, Gunhild?
+
+SINJORINO BORKMAN
+(rifuzante) Li neniam faris alpaŝon por tio.
+
+ELLA RENTHEJM
+Sed ĉu vi ne povus fari la unuan paŝon?
+
+SINJORINO BORKMAN
+(ekagitiĝas) Mi! Post ĉio kion li pekis kontraŭ mi! — Ne dankon!
+Prefere lasu la lupon daŭrigi sian paŝadon tie supre.
+
+ELLA RENTHEJM
+Fariĝas tro varme por mi nun. Mi tamen devas ekhavi permeson por
+demeti la vestaĵojn.
+
+SINJORINO BORKMAN
+Jes, mi ja demandis al vi antaŭ —
+
+(_Ella Renthejm_ demetas de si mantelon kaj ĉapelon sur seĝon
+ĉe la enireja pordo.)
+
+ELLA RENTHEJM
+Ĉu vi neniam okaze renkontas lin ekstere de la domo?
+
+SINJORINO BORKMAN
+(ridas amare) En socia rondo, vi aludas?
+
+ELLA RENTHEJM
+Mi pensas kiam li eliras en la freŝan aeron. Ene sur la vojetoj en
+la arbaro, aŭ —
+
+SINJORINO BORKMAN
+La bankestro neniam eliras.
+
+ELLA RENTHEJM
+Eĉ ne en la krepusko?
+
+SINJORINO BORKMAN
+Neniam.
+
+ELLA RENTHEJM
+(kortuŝata) Al tio li do ne povas devigi sin?
+
+SINJORINO BORKMAN
+Eble ne povas. Li havas sian grandan pelerinon pendanta en la
+murŝranko. En la antaŭĉambro, vi scias —
+
+ELLA RENTHEJM
+(al si mem) — tiu ŝranko en kiu ni ludis, kiam ni estis etuloj —
+
+SINJORINO BORKMAN
+(kapsignas) Kaj foje, — malfrue vespere, — mi povas aŭdi lin
+malsuprenveni — por vesti sin kaj eliri. Sed kutime li haltas meze
+en la ŝtuparo, — kaj returnas. Kaj jen li reen supreniras al la
+salono.
+
+ELLA RENTHEJM
+(silente) Ĉu neniam iu el liaj malnovaj amikoj venas supren tie por
+viziti lin?
+
+SINJORINO BORKMAN
+Li _ne havas_ malnovajn amikojn.
+
+ELLA RENTHEJM
+Li do havis multajn — foje.
+
+SINJORINO BORKMAN
+Hm! De ili li ja bele kvitigis sin. Li fariĝis por siaj amikoj
+multekosta amiko, — li, John Gabriel.
+
+ELLA RENTHEJM
+Nu jes, vi eble pravas en tio, Gunhild.
+
+SINJORINO BORKMAN
+(impete) Cetere mi devas diri, ke estas malnoble, fie, malvirte,
+malgrandanime insisti tiom sur la perdo, kiun ili suferis pro li.
+Estis ja nur mona perdo. Nenio alia.
+
+ELLA RENTHEJM
+(ne respondante) Kaj nun li do vivas tie supre tute sola. Tiel tute
+sola.
+
+SINJORINO BORKMAN
+Jes, li eble tion faras. Efektive mi sciiĝas, ke maljuna kopiisto
+aŭ kromskribisto foje venas supren al li.
+
+ELLA RENTHEJM
+Nu tiel; certe estas iu, kiu nomiĝas Foldal. Ĉar mi scias ke tiuj
+du estis amikoj en la juneco.
+
+SINJORINO BORKMAN
+Jes, ili certe estis, mi kredas. Cetere mi ne scias ion pri li. Ĉar
+li neniam kunvenis en nia socia rondo. Kiam ni iun _havis_ —
+
+ELLA RENTHEJM
+Sed _nun_ li do venas al Borkman?
+
+SINJORINO BORKMAN
+Jes, li ne estas pli selektema ol tia. Sed tio kompreniĝas; li nur
+venas en la krepusko.
+
+ELLA RENTHEJM
+Tiu Foldal, — ankaŭ _li_ estis unu el tiuj, kiuj suferis perdojn,
+je la bankroto.
+
+SINJORINO BORKMAN
+(pase rimarkante) Jes, ŝajnas al mi, ke mi memoras, ke li perdis iom
+da mono, ankaŭ li. Sed certe estis tute bagatela —
+
+ELLA RENTHEJM
+(kun facila emfazo) Estis ĉio kion li posedis.
+
+SINJORINO BORKMAN
+(ridetas) Nu, sed pro Dio, — tio kion _li_ posedis, estis do certe
+tiel sensignife malmulta, sciu. Nenio por priparoli.
+
+ELLA RENTHEJM
+Eĉ ne paroliĝis pri tio, — de Foldal, — dum la proceso.
+
+SINJORINO BORKMAN
+Kaj cetere, mi povas rakonti al vi, ke Erhart estas doninta abundan
+rekompencon por tiu sensignifaĵo.
+
+ELLA RENTHEJM
+(mire) Ĉu Erhart? Kiel povus Erhart _tion_?
+
+SINJORINO BORKMAN
+Li zorgis pri la plej juna filino de Foldal. Li instruis ŝin, —
+tiel ke ŝi eble povos _fariĝi_ io, kaj iam zorgi pri si mem. Vidu,
+— _tio_ certe estas multe pli ol tio, kion la patro estus povinta
+fari por ŝi.
+
+ELLA RENTHEJM
+Jes, la patro, li eble havas mizeran ekonomian staton, li, mi
+opinias.
+
+SINJORINO BORKMAN
+Kaj Erhart ankaŭ aranĝis, ke ŝi povas lerni muzikon. Ŝi jam estas
+tiel lerta, ke ŝi povas veni supren al — al li tie supre en la
+salono, kaj ludi por li.
+
+ELLA RENTHEJM
+Do li daŭre ŝatas muzikon?
+
+SINJORINO BORKMAN
+Ho jes, li do faras. Li havas ja la pianon, kiun vi alsendis — kiam
+li estis atendata —
+
+ELLA RENTHEJM
+Kaj sur tiu ŝi ludas por li?
+
+SINJORINO BORKMAN
+Jes, tiel foje. En la vesperoj. Ankaŭ tion Erhart aranĝis.
+
+ELLA RENTHEJM
+Sed ĉu la bedaŭrinda knabino devas iri tiun longan vojon ĉi tien?
+Kaj poste hejmen al la urbo?
+
+SINJORINO BORKMAN
+Ne, tion ŝi ne bezonas. Erhart aranĝis, ke ŝi povas esti ĉe
+sinjorino, kiu loĝas ĉi tie najbare. Estas iu sinjorino Wilton —
+
+ELLA RENTHEJM
+(vigle) Sinjorino Wilton!
+
+SINJORINO BORKMAN
+Iu tre riĉa sinjorino. Iu kiun vi ne konas.
+
+ELLA RENTHEJM
+Mi aŭdis la nomon. Sinjorino Fanny Wilton, mi kredas —
+
+SINJORINO BORKMAN
+Jes, tute ĝuste.
+
+ELLA RENTHEJM
+Erhart plurajn fojojn skribis pri ŝi. — Ĉu ŝi loĝas ĉi tie
+nun?
+
+SINJORINO BORKMAN
+Jes, ŝi luprenis vilaon ĉi tie. Kaj nun ŝi transloĝis el la urbo
+antaŭ iom da tempo.
+
+ELLA RENTHEJM
+(iom hezitante) Laŭ onidiro ŝi eksedziĝis.
+
+SINJORINO BORKMAN
+La edzo eble mortis antaŭ pluraj jaroj.
+
+ELLA RENTHEJM
+Jes, sed ili eksedziĝis —. Li lasis sin eksedziĝi —
+
+SINJORINO BORKMAN
+Li forvojaĝis de ŝi, tion li faris. La kulpo certe ne estis
+ŝia.
+
+ELLA RENTHEJM
+Ĉu vi konas ŝin iom pli proksime, Gunhild?
+
+SINJORINO BORKMAN
+Ho jes, certe. Ŝi loĝas ja tute proksime. Kaj ŝi foje faras etajn
+vizitojn.
+
+ELLA RENTHEJM
+Kaj vi eble iom ŝatas ŝin?
+
+SINJORINO BORKMAN
+Ŝi estas nekutime komprenema. Rimarkinde klara en sia juĝo.
+
+ELLA RENTHEJM
+En sia juĝo pri homoj, vi aludas?
+
+SINJORINO BORKMAN
+Jes, pleje pri homoj. Ŝi ja efektive studis Erhart. Tiel vere funde,
+— la animon. Kaj tial ŝi vere adoras lin, — kiel kompreneble
+estas.
+
+ELLA RENTHEJM
+(iom ruze) Do ŝi eble konas Erhart ankoraŭ pli bone ol ŝi konas
+vin?
+
+SINJORINO BORKMAN
+Jes, Erhart ofte renkontis ŝin en la urbo. Antaŭ ol ŝi transloĝis
+ĉi tien.
+
+ELLA RENTHEJM
+(senpripense) Kaj ŝi tamen transloĝis el la urbo?
+
+SINJORINO BORKMAN
+(ekmiras kaj rigardas ŝin akre) _Tamen!_ Kion vi pensas
+pri tio?
+
+ELLA RENTHEJM
+(evite) Nu, Dio, — pensas —?
+
+SINJORINO BORKMAN
+Vi diris tion en iu stranga maniero. Estis io kion vi pripensis per
+tio, Ella!
+
+ELLA RENTHEJM
+(rigardas ŝin firme en la okulojn) Jes, efektive estis, Gunhild.
+Vere estis io, kion mi pensis pri tio.
+
+SINJORINO BORKMAN
+Nu, do diru malkaŝe!
+
+ELLA RENTHEJM
+Unue mi volas diri _tion_ al vi, ke mi trovas, ke ankaŭ _mi_ kvazaŭ
+havas rajton al Erhart. Aŭ ĉu vi tion ne trovas?
+
+SINJORINO BORKMAN
+(rigardas aeren) Je Dio. Post la sumoj, kiujn vi pagis por li,
+ja —
+
+ELLA RENTHEJM
+Ho, tute ne tial, Gunhild. Sed ĉar mi ŝatas lin —
+
+SINJORINO BORKMAN
+(ridetas moke) Mian filon? Ĉu vi povas? Vi? Spite el ĉio?
+
+ELLA RENTHEJM
+Jes, mi povas. Spite al ĉio. Kaj mi faras. Mi ŝatas Erhart. Tiom,
+kiom _mi_ entute _povas_ ŝati homon — nuntempe. En mia aĝo.
+
+SINJORINO BORKMAN
+Nu jes, jes, tiel estu; sed —
+
+ELLA RENTHEJM
+Kaj tial, vidu, mi fariĝas maltrankvila, kiam mi rimarkas, ke io
+minacas lin.
+
+SINJORINO BORKMAN
+Minacas Erhart! Jes, sed _kio_ minacas lin? Aŭ _kiu_ do minacas
+lin?
+
+ELLA RENTHEJM
+Tion faras unue _vi_, — en _via_ maniero —
+
+SINJORINO BORKMAN
+(ekkrie) Mi!
+
+ELLA RENTHEJM
+— kaj jen ankaŭ tiu sinjorino Wilton, — mi timas.
+
+SINJORINO BORKMAN
+(momenton rigardas ŝin konsternite) Kaj tiaĵon vi povas kredi pri
+Erhart! Pri mia propra filo! _Li_, kiu havas sian grandan mision por
+plenumi!
+
+ELLA RENTHEJM
+(supraĵe pasante diri) Ho kion, mision —!
+
+SINJORINO BORKMAN
+(ekscitite) Kaj tion vi kuraĝas diri tiel moke!
+
+ELLA RENTHEJM
+Ĉu vi opinias ke juna homo en la aĝo de Erhart, — sana kaj ĝoja,
+— ĉu vi opinias, ke _li_ akceptas oferi sin por tiaĵo kiel
+“misio”!
+
+SINJORINO BORKMAN
+(forte kaj firme) Erhart faras! Tion mi certe scias!
+
+ELLA RENTHEJM
+(agitas la kapon) Vi nek scias nek kredas tion, Gunhild.
+
+SINJORINO BORKMAN
+Ĉu mi ne kredas!
+
+ELLA RENTHEJM
+Estas nur io, kion vi prirevadas. Ĉar se vi ne havis _tion_ por
+alkroĉi vin, vi pensus certe ke vi tute malesperus.
+
+SINJORINO BORKMAN
+Jes, tiam mi vere devus malesperi. (impete) Kaj eble estas _tio_,
+kion vi pleje atendus, vi, Ella!
+
+ELLA RENTHEJM
+(kun levita kapo) Jes, mi tion pleje atendus — se vi ne povas
+liberigi vin alimaniere ol premegi Erhart per tio.
+
+SINJORINO BORKMAN
+(minace) Vi volas enpremi vin inter _ni_! Inter patrino kaj filo!
+_Vi!_
+
+ELLA RENTHEJM
+Mi volas liberigi lin el via potenco, — via superrego.
+
+SINJORINO BORKMAN
+(triumfe) Tion vi ne plu povas! Vi havis lin en viaj retoj — Ĝis
+lia dekkvina jaro. Sed nun mi regajnis lin, vidu!
+
+ELLA RENTHEJM
+Do mi volas regajni lin de vi! (raŭke; duone flustre) Ni du, ni
+luktis antaŭe je vivo kaj morto pri homo, ni, Gunhild!
+
+SINJORINO BORKMAN
+(rigardas ŝin triumfe) Jes, kaj _mi_ venkis.
+
+ELLA RENTHEJM
+(mokride) Ĉu vi daŭre opinias, ke tiu venko fariĝis gajno por
+vi?
+
+SINJORINO BORKMAN
+(sombre) Ne; — pri tio vi sange pravas.
+
+ELLA RENTHEJM
+Eĉ ne ĉi tiun fojon fariĝos gajno por vi.
+
+SINJORINO BORKMAN
+Ĉu neniu gajno, tio, gardi patrinan potencon super Erhart!
+
+ELLA RENTHEJM
+Ne; ĉar estas nur la _potenco_ super li, kiun vi volas havi!
+
+SINJORINO BORKMAN
+Kaj nun _vi!_
+
+ELLA RENTHEJM
+(varme) Mi volas havi lian internan animon, — lian menson, — lian
+tutan koron —!
+
+SINJORINO BORKMAN
+(ekdire) Al tio vi neniam plu atingos en tiu ĉi mondo!
+
+ELLA RENTHEJM
+(rigardas ŝin) Ĉu vi eble prizorgis _tion?_
+
+SINJORINO BORKMAN
+(ridetas) Jes, tion mi efektive permesis al mi. Ĉu vi ne povis legi
+tion el liaj leteroj?
+
+ELLA RENTHEJM
+(kapjesas malrapide) Jes. Vi tuta fine estis en liaj leteroj.
+
+SINJORINO BORKMAN
+(incite) Mi profitis de tiuj ĉi ok jaroj — kiam mi havis lin sub
+miaj okuloj, vidu.
+
+ELLA RENTHEJM
+(sinrege) Kion vi diris al Erhart pri mi? Ĉu eblas rakonti tion al
+mi?
+
+SINJORINO BORKMAN
+Jes, tio bone eblas.
+
+ELLA RENTHEJM
+Do faru!
+
+SINJORINO BORKMAN
+Mi nur diris al li tion, kio estas vero.
+
+ELLA RENTHEJM
+Nu?
+
+SINJORINO BORKMAN
+Mi ripete kaj ĉiame enplantis en li, ke li absolute memoru, ke estas
+al vi ke ni povas danki, ke ni povas vivi tiel kontentige, kiel ni
+faras. Ke ni entute _kapablas_ vivi.
+
+ELLA RENTHEJM
+Ne pli ol tio!
+
+SINJORINO BORKMAN
+Ho, tiaĵo mordas, sciu. Tion mi mem sentas.
+
+ELLA RENTHEJM
+Sed tio estas ja proksimume tio, kion li sciis antaŭe.
+
+SINJORINO BORKMAN
+Kiam li revenis hejmen al mi, li imagis, ke vi faris ĉion el bona
+koro. (rigardas ŝin en malica ĝojo) Nun li ne plu kredas tion,
+Ella.
+
+ELLA RENTHEJM
+Kion li do nun kredas?
+
+SINJORINO BORKMAN
+Li kredas tion, kio vera estas. Mi demandis lin, kiel li klarigas al
+si, ke onklino Ella neniam vojaĝas ĉi tien por viziti nin —
+
+ELLA RENTHEJM
+(interrompante) Tion li sciis antaŭe!
+
+SINJORINO BORKMAN
+Li scias tion pli bone nun. Vi kredigis al li, ke estas por indulgi
+min kaj — kaj tiun paŝadanton tie supre en la salono —
+
+ELLA RENTHEJM
+Tiel ankaŭ estis.
+
+SINJORINO BORKMAN
+El tio Erhart _nun_ ne kredas eron.
+
+ELLA RENTHEJM
+Kion vi do nun igis lin kredi pri mi?
+
+SINJORINO BORKMAN
+Li kredas tion, kio vera estas, ke vi hontas pri ni, malestimas nin.
+Aŭ ĉu eble vi ne faras? Ĉu vi ne iam kovis penson tiri lin tute
+for de mi? Pripensu nun, Ella. Vi certe memoras.
+
+ELLA RENTHEJM
+(repuŝante) Estis en la plej fia tempo de la skandalo. Kiam la afero
+estis antaŭ la tribunalo. — Mi ne plu nutras tiujn pensojn.
+
+SINJORINO BORKMAN
+Eĉ ne utilus al vi. Ĉar kio alie restus el lia misio! Ho ne dankon
+al vi! Estas _mi_, kiun Erhart bezonas, — ne _vi_. Ĉar tial li
+estas kvazaŭ morta por _vi_! Kaj vi por li!
+
+ELLA RENTHEJM
+(malvarme, decide) Ni vidos. Ĉar nun mi restos ĉi tie.
+
+SINJORINO BORKMAN
+(fiksrigardas ŝin) Ĉi tie en la bieno?
+
+ELLA RENTHEJM
+Jes, ĉi tie.
+
+SINJORINO BORKMAN
+Ĉi tie — ĉe ni? Tute tranokte?
+
+ELLA RENTHEJM
+Ĉi tie mi pasigos la reston de miaj tagoj, se tiel estu.
+
+SINJORINO BORKMAN
+(regas sin) Jes, jes, Ella, — la bieno estas ja via.
+
+ELLA RENTHEJM
+Ho jeno —!
+
+SINJORINO BORKMAN
+Ĉio estas ja via. La seĝo sur kiu mi sidas, estas via. La lito en
+kiu mi turnas min sendorma, ĝi apartenas al vi. La manĝaĵo kiun ni
+manĝas, ĝin ni ricevas pere de vi.
+
+ELLA RENTHEJM
+Tio ne povas esti alimaniere aranĝita. Borkman ne povas havi propran
+posedaĵon. Ĉar tuj iu venus forpreni ĝin de li.
+
+SINJORINO BORKMAN
+Mi ja scias. Ni devas rezignacii kaj vivi je via graco kaj
+indulgo.
+
+ELLA RENTHEJM
+(malvarme) Mi ne povas malhelpi vin rigardi tion de tiu flanko,
+Gunhild.
+
+SINJORINO BORKMAN
+Ne, tion vi ne povas. — Kiam vi deziros, ke ni forloĝiĝu?
+
+ELLA RENTHEJM
+(rigardas ŝin) Forloĝiĝu?
+
+SINJORINO BORKMAN
+(ekscitite) Jes, vi do neniam imagas al vi, ke mi volas resti
+loĝanta sub la sama tegmento kiel vi! — Ne, do prefere al la
+malriĉulejo aŭ eksteren sur la vojon!
+
+ELLA RENTHEJM
+Bone. Do sendu kun mi Erhart —
+
+SINJORINO BORKMAN
+Erhart! Mia propra filo! Mia infano!
+
+ELLA RENTHEJM
+Jes, — ĉar tiam mi tuj revojaĝos hejmen.
+
+SINJORINO BORKMAN
+(post mallonga pripensado, firme) Erhart mem elektu inter ni.
+
+ELLA RENTHEJM
+(rigardas ŝin dube kaj necerte) _Li_ elektu? Jes, — ĉu vi tion
+_kuraĝas_, Gunhild?
+
+SINJORINO BORKMAN
+(kun malmola rido) Ĉu mi _kuraĝas_! Igi mian filon elekti inter sia
+patrino kaj vi! Jes, tion mi efektive kuraĝas.
+
+ELLA RENTHEJM
+(aŭskultante) Ĉu iu venas? Ŝajnas al mi, ke mi aŭdas —
+
+SINJORINO BORKMAN
+Do certe estas Erhart —
+
+(Iu frapas rapide sur la antaŭĉambra pordo, kiu poste senpere
+malfermiĝas. _Sinjorino Wilton_, festene vestita kaj kun
+supervestaĵoj, envenas. Malantaŭ ŝi la _ĉambristino_, kiu ne
+ekhavis tempon por anonci, kaj aspektas iom konfuzita. La pordo
+restas duone malferma. _Sinjorino Wilton_ estas iu frapante bela,
+ŝvelbrusta sinjorino en la tridekaj jaroj. Larĝaj, ruĝaj, ridantaj
+lipoj. Viglaj okuloj. Riĉa, malhela hararo.)
+
+SINJORINO WILTON
+Bonan vesperon, kara sinjorino Borkman!
+
+SINJORINO BORKMAN
+(iom seke) Bonan vesperon, sinjorino. (al la _ĉambristino_; montras
+al la ĝardena ĉambro) Portu la lampon tien kaj eklumigu ĝin.
+(La _ĉambristino_ serĉas la lampon kaj eliras kun ĝi.)
+
+SINJORINO WILTON
+(vidas _Ella Renthejm_) Ho, pardonu, — ĉeestas ja vizitanto —
+
+(_Erhart Borkman_ forte malfermas la duone fermitan antaŭĉambran
+pordon, kaj enkuras. Li estas juna homo kun helaj, bravaj okuloj.
+Elegante vestita. Komence kreskantaj lipharoj.)
+
+ERHART BORKMAN
+(gaje sur la sojlo) Kio do! Ĉu onklino Ella venis? (al ŝi; kaptas
+ŝiajn manojn) Onjo, onjo! Ĉu estas vero! Ĉu _vi ĉi tie?_
+
+ELLA RENTHEJM
+(ĉirkaŭbrakas lian kolon) Erhart! Mia kara bona knabo! Ho, kiel
+granda vi fariĝis! Ho, kiel bone estas revidi vin!
+
+SINJORINO BORKMAN
+(akre) Kion tio signifu, Erhart, — ĉu vi staras vin kaŝante en la
+antaŭa ĉambro?
+
+SINJORINO WILTON
+(rapide) Erhart — Borkman venis kune kun mi.
+
+SINJORINO BORKMAN
+(mezuras lin per la okuloj) Ĉu tiel, Erhart. Vi ne unue venas al via
+patrino?
+
+ERHART
+Mi nur devis enrigardi momenton ĉe sinjorino Wilton, — por serĉi
+etan Frida.
+
+SINJORINO BORKMAN
+Ĉu ankaŭ tiu fraŭlino Foldal kunestas?
+
+SINJORINO WILTON
+Jes, ŝi staras ekstere en la enirejo.
+
+ERHART
+(parolas eksteren tra la pordo) Vi nur iru supren, Frida.
+
+(Paŭzo. _Ella Renthejm_ atente rigardas _Erhart_. Li aspektas
+ĝenite kaj iom senpacience; lia vizaĝo alprenas streĉitan kaj pli
+malvarman aspekton.)
+
+(La _ĉambristino_ portas la lumigitan lampon en la ĝardenan
+ĉambron, eliras kaj fermas la pordon post si.)
+
+SINJORINO BORKMAN
+(kun deviga ĝentileco) Jes, sinjorino Wilton, — se vi do volas
+pasigi la vesperon ĉi tie, vi —
+
+SINJORINO WILTON
+Ne, mil dankojn, kara sinjorino. Tion mi tute ne intencas. Ni havas
+alian inviton. Ni vizitos la advokaton Hinkels.
+
+SINJORINO BORKMAN
+(rigardas ŝin) _Ni?_ Pri kiuj _ni_ vi aludas?
+
+SINJORINO WILTON
+(ridetante) Nu, efektive mi nur pensas pri mi mem. Sed la sinjorinoj
+de la domo petis min kune konduki la studenton Borkman, — se mi
+okaze vidus lin.
+
+SINJORINO BORKMAN
+Kaj tion vi ja faris, kiel mi vidas.
+
+SINJORINO WILTON
+Jes, feliĉe. Ĉar li estis tiel bonvolema enrigardi ĉe mi, — pro
+eta Frida.
+
+SINJORINO BORKMAN
+(seke) Vi Erhart, — mi cetere ne sciis, ke vi konas tiun familion,
+— tiujn Hinkels.
+
+ERHART
+(incitita) Ne, efektive mi ne vere konas ilin. (aldonas iom
+senpacience) Vi do mem pli bone scias, vi patrino, kiujn homojn mi
+konas aŭ ne konas.
+
+SINJORINO WILTON
+Ho pa! En _tiu_ domo oni rapide konatiĝas! Ĝojaj, gajaj, gastamaj
+homoj. Sufiĉe da junaj virinoj.
+
+SINJORINO BORKMAN
+(kun akcento) Se mi konas mian filon ĝuste, tio vere ne estas
+societo por li, sinjorino Wilton.
+
+SINJORINO WILTON
+Sed bona Dio, kara sinjorino, li do estas juna ankaŭ li!
+
+SINJORINO BORKMAN
+Jes, feliĉe li estas juna. Ne estus bone alimaniere.
+
+ERHART
+Nu ja ja, patrino, — estas ja memkompreneble, ke mi ne iros al tiuj
+Hinkels hodiaŭ vespere. Kompreneble mi restos ĉi tie ĉe vi kaj
+onklino Ella.
+
+SINJORINO BORKMAN
+Mi ja certe sciis, mia kara Erhart.
+
+ELLA RENTHEJM
+Ne, Erhart, — pro _mi_ vi tamen ne rezignu —
+
+ERHART
+Jes, certe, kara onklino; ne estas demando pri io alia. (rigardas
+necerte al _sinjorino Wilton_) Sed kiel vi tion aranĝu? Ĉu vere
+konvenas? Vi ja jam respondis jes — en mia nomo.
+
+SINJORINO WILTON
+(gaje) Babilaĵo! Ĉu ne konvenus? Kiam mi envenos tien en la helajn,
+festenajn salonojn, — sola kaj forlasita — pensu nur! jen mi
+respondos ne — en via nomo.
+
+ERHART
+(longege) Jes, ĉar vi opinias, ke konvenas, mi —
+
+SINJORINO WILTON
+(facile kaj forviŝante) Mi ofte en bonaj okazaĵoj respondis kaj jes
+kaj ne — en mia nomo. Kaj ĉu vi forlasus vian onklinon nun, kiam
+ŝi ĵus venis? Fi do, _monsieur_ Erhart, — ĉu tio estus ago
+konvena al filo?
+
+SINJORINO BORKMAN
+(malbone tuŝata) Filo?
+
+SINJORINO WILTON
+Nu, _eduka_ filo do, sinjorino Borkman.
+
+SINJORINO BORKMAN
+Jes, tion vi do devas aldoni.
+
+SINJORINO WILTON
+Ho, mi pensas, ke oni havas pli por danki al bona nutropatrino ol al
+la propra, vera patrino.
+
+SINJORINO BORKMAN
+Ĉu vi mem spertis tion?
+
+SINJORINO WILTON
+Ho, je Dio, — mian patrinon mi malmulte konis. Sed se mi estus
+havinta tian bonan nutropatrinon, ankaŭ mi, — mi eble ne estus
+fariĝinta tiel — tiel malbonkonduta, kiel homoj diras, ke mi estas.
+(turnas sin al _Erhart_) Do oni bele restas hejme ĉe panjo kaj onjo
+— trinkante teon, sinjoro studento! (al la sinjorinoj) Adiaŭ,
+adiaŭ, kara sinjorino! Adiaŭ, fraŭlino! (La sinjorinoj salutas
+mute. Ŝi iras al la pordo.)
+
+ERHART
+(postiras) Ĉu mi ne akompanu vin ioman distancon —?
+
+SINJORINO WILTON
+(ĉe la pordo; averte) Eĉ ne paŝon vi akompanu min. Mi bone
+kutimiĝis iri mian vojon sola. (haltas ĉe la pordo, rigardas lin
+kaj kapsignas) Sed gardu vin nun, studento Borkman; — tion mi diras
+al vi!
+
+ERHART
+Kial mi gardu min?
+
+SINJORINO WILTON
+(gaje) Jes, ĉar kiam mi iras malsupren laŭ la vojo, — sola kaj
+forlasita, kiel dirite, — mi provos ĵeti runojn post vin.
+
+ERHART
+(ridas) Nu, tiel! Ĉu vi nun volas provi _tion_ denove.
+
+SINJORINO WILTON
+(duone serioze) Jes, gardu vin nun. Kiam mi nun iros malsupren, mi
+diros interne, — vere el mia plej interna volo mi diros: Studento
+Erhart Borkman, — prenu tuj vian ĉapelon!
+
+SINJORINO BORKMAN
+Kaj jen li ĝin prenos, vi kredas?
+
+SINJORINO WILTON
+(ridante) Jes, kompreneble; li tuj kaptos sian ĉapelon. Kaj jen mi
+diros: Bele surtiru la surtuton sur vin, Erhart Borkman! Kaj la
+galoŝojn! Je ĉio ne forgesu la galoŝojn! Kaj tiam postsekvu min!
+Obee, obee, obee!
+
+ERHART
+(kun devigita ŝercemo) Jes, je tio fidu.
+
+SINJORINO WILTON
+(kun levita montrofingro) Obee! Obee! — Bonan nokton!
+
+(Ŝi ridas kaj kapklinas al la sinjorinoj kaj fermas la pordon
+post si.)
+
+SINJORINO BORKMAN
+Ĉu ŝi vere faradas tiajn sorĉaĵojn?
+
+ERHART
+Ho, fore de tio. Kiel vi povas kredi tion? Estas nur ŝerce.
+(interrompe) Sed ni ne plu parolu pri sinjorino Wilton nun.
+
+(Li devigas _Ella Renthejm_ eksidi en la apogseĝon ĉe la
+forno.)
+
+ERHART
+(staras iomete ŝin rigardante) Ho, ke vi estas farinta tiun longan
+vojaĝon, onklino Ella! Kaj tio nun en vintra tempo?
+
+ELLA RENTHEJM
+Fine fariĝis necese por mi nun, Erhart.
+
+ERHART
+Ĉu? Kial do?
+
+ELLA RENTHEJM
+Mi devis veni ĉi tien por fine paroli kun la kuracistoj.
+
+ERHART
+Nu, estas ja bone!
+
+ELLA RENTHEJM
+(ridetante) Ĉu vi trovas tion bona?
+
+ERHART
+Ke vi fine ekdecidis, mi pensas.
+
+SINJORINO BORKMAN
+(en la kanapo; malvarme) Ĉu vi estas malsana, Ella?
+
+ELLA RENTHEJM
+(rigardas ŝin akre) Tion vi ja bone scias, ke mi estas malsana.
+
+SINJORINO BORKMAN
+Nu jes tiel malsaneta, kiel vi estas estinta dum multaj jaroj —
+
+ERHART
+Dum la tempo kiam mi estis ĉe vi, mi ofte diris ke vi devus paroli
+kun la doktoro.
+
+ELLA RENTHEJM
+Ho, tie en mia loko estas neniu, kiun mi povas vere fidi. Kaj cetere
+ne sentiĝis tiel malbone tiam.
+
+ERHART
+Ĉu do estas pli malbone pri vi nun, onklino?
+
+ELLA RENTHEJM
+Ho jes, mia knabo; nun fariĝis iom pli malbone pri mi.
+
+ERHART
+Jes, sed do ne danĝere?
+
+ELLA RENTHEJM
+Ho, estas kiel oni prenas tion.
+
+ERHART
+(vigle) Jes, sed sciu, onklino Ella, — do vi ne devas revojaĝi
+hejmen tiel frue.
+
+ELLA RENTHEJM
+Ne, tion mi do certe ne faros.
+
+ERHART
+Vi devas resti ĉi tie en la urbo. Ĉar ĉi tie vi ja povas elekti
+inter la plej bonaj kuracistoj.
+
+ELLA RENTHEJM
+Jes, estis mia penso, kiam mi forvojaĝis de hejme.
+
+ERHART
+Kaj vi ankaŭ devas trovi vere bonan loĝejon, — iun hejmecan,
+trankvilan pensionon.
+
+ELLA RENTHEJM
+Mi enloĝiĝis ĉi-matene en la malnovan, kie mi antaŭe loĝis.
+
+ERHART
+Nu jes, _tie_ estos hejmece por vi.
+
+ELLA RENTHEJM
+Jes, sed mi tamen ne restos tie.
+
+ERHART
+Ĉu? Kial ne?
+
+ELLA RENTHEJM
+Ne, mi redecidiĝis, kiam mi venis ĉi tien.
+
+ERHART
+(mire) Ĉu —? Redecidiĝis —?
+
+SINJORINO BORKMAN
+(kroĉas; ne ekrigardas) Via onklino volas loĝi ĉi tie en sia
+bieno, Erhart.
+
+ERHART
+(rigardas ilin ambaŭ laŭvice) Ĉi tie! Ĉe ni! Ĉe ni aliuloj! —
+Ĉu estas vero, onklino?
+
+ELLA RENTHEJM
+Jes, mi nun faris la decidon.
+
+SINJORINO BORKMAN
+(kiel antaŭe) Ĉio ja apartenas al via onklino, vi scias.
+
+ELLA RENTHEJM
+Kaj mi restos ĉi tie, Erhart. Unue do. Ĝis plue. Mi instalos min
+por mi mem. Tie en la administra alo —
+
+ERHART
+Jes, en tio vi ĝustas. Tie vi ja ĉiam havas ĉambrojn pretaj.
+(subite vigle) Tamen ĉu ne, onklino, — ke vi estas tre laca post la
+vojaĝo?
+
+ELLA RENTHEJM
+Ho, iom laca mi ja estas.
+
+ERHART
+Nu, kaj mi opinias, ke vi devus enlitiĝi frue.
+
+ELLA RENTHEJM
+(rigardas lin ridetante) Mi ja faros.
+
+ERHART
+(vigle) Ĉar tiel ni povus ja interparoli pli proksime morgaŭ — aŭ
+iun alian tagon, vidu. Pri ĉio kaj kio ajn. Pri ĉio ajn. Vi kaj
+panjo kaj mi. Ĉu tio ne estus multe pli bona, onjo Ella?
+
+SINJORINO BORKMAN
+(ekblove; ekstaras de la kanapo) Erhart, — laŭ aspekto mi vidas, ke
+vi volas foriri de mi!
+
+ERHART
+(ekskuiĝas) Al kio vi aludas!
+
+SINJORINO BORKMAN
+Vi volas iri al — al advokato Hinkels!
+
+ERHART
+(senpere) Nu tiel! (sinrege) Jes, ĉu vi do opiniis, ke mi sidu ĉi
+tie tenante onklinon Ella vekita ĝis malfrue en la nokto? Ŝi kiu
+estas malsana, panjo. Pensu pri tio.
+
+SINJORINO BORKMAN
+Vi volas viziti Hinkels, Erhart!
+
+ERHART
+(senpacience) Jes, tamen je Dio, panjo, — ŝajnas al mi, ke mi ne
+povas rezigni. Aŭ kion _vi_ diras, onjo?
+
+ELLA RENTHEJM
+Vi agu prefere en plena libereco, Erhart.
+
+SINJORINO BORKMAN
+(minace al ŝi) Vi volas disigi lin de mi!
+
+ELLA RENTHEJM
+(ekstaras) Jes, se mi vere tion povus, Gunhild!
+
+(Muziko aŭdiĝas de supre.)
+
+ERHART
+(tordas sin kvazaŭ en veo) Ho, mi ne eltenas tion ĉi!
+(ĉirkaŭrigardas) Kie estas mia ĉapelo? (al _Ella_) Ĉu vi konas
+tiun muzikon tie supre en la salono?
+
+ELLA RENTHEJM
+Ne. Kiu tiu estas?
+
+ERHART
+_Danse macabre_ ĝi estas. La danco de la mortintoj. Ĉu vi ne konas
+la dancon de la mortintoj, onklino?
+
+ELLA RENTHEJM
+(ridetas peze) Ankoraŭ ne, Erhart.
+
+ERHART
+(al _sinjorino Borkman_) Panjo, — mi petas vin bele — permesu al mi
+iri!
+
+SINJORINO BORKMAN
+(rigardas lin malmole) De via patrino? Vi tion do volas?
+
+ERHART
+Mi revenos ĉi tien — eble morgaŭ!
+
+SINJORINO BORKMAN
+(pasie ekscitita) Vi volas for de mi! Volas esti kune kun la fremdaj
+homoj! Ĉe — ĉe —; ne, mi eĉ ne volas pensi tion!
+
+ERHART
+Tie estas eklumigitaj lampoj. Kaj junaj, ĝojaj vizaĝoj. Kaj tie
+estas muziko, panjo!
+
+SINJORINO BORKMAN
+(montras supren al la plafono) Ankaŭ tie supre estas muziko,
+Erhart.
+
+ERHART
+Jes, ĝuste _jena_ muziko, — estas tiu, kiu pelas min el la
+domo.
+
+ELLA RENTHEJM
+Ĉu vi ne malenvias al via patro tiun iometon de memforgeso?
+
+ERHART
+Jes, mi faras. Milfoje mi malenvias ĝin al li. Se mi nur mem evitas
+aŭskulti ĝin.
+
+SINJORINO BORKMAN
+(rigardas lin riproĉe) Estu forta, Erhart! Forta, mia knabo! Neniam
+forgesu, ke vi havas vian grandan mision!
+
+ERHART
+Ho, patrino, — ne elbuŝu tiujn parolmanierojn! Mi ne estas kreita
+por esti misiisto. Bonan nokton, kara onklino! Bonan nokton panjo!
+(Li iras rapide tra la antaŭa ĉambro.)
+
+SINJORINO BORKMAN
+(post mallonga silento) Vi tamen baldaŭ estos lin repreninta, vi,
+Ella.
+
+ELLA RENTHEJM
+Dio donu ke mi povus kredi tion.
+
+SINJORINO BORKMAN
+Sed vi ne longe retenos lin, vi vidos.
+
+ELLA RENTHEJM
+Pro vi, vi pensas?
+
+SINJORINO BORKMAN
+Pro mi aŭ — pro ŝi, la alia.
+
+ELLA RENTHEJM
+Do prefere ŝi ol vi?
+
+SINJORINO BORKMAN
+(kapsignas malrapide) Tion mi komprenas. Mi diras la samon. Prefere
+ŝi ol vi.
+
+ELLA RENTHEJM
+Neniel konsiderante kien li fine portiĝos —
+
+SINJORINO BORKMAN
+Ŝajnas al mi, ke tio estus indiferenta.
+
+ELLA RENTHEJM
+(prenas siajn supervestaĵojn sur la brakon) La unuan fojon kiam ni
+du ĝemelfratinoj samopinias. — Bonan nokton, Gunhild. (Ŝi eliras
+tra la antaŭa ĉambro.)
+
+(La muziko aŭdiĝas pli forte de supre en la salono.)
+
+SINJORINO BORKMAN
+(staras momenton trankvile, skuiĝas, ŝrumpiĝas kaj flustras
+senpere.) La lupo denove hurlas. — La malsana lupo. (Ŝi staras
+momenton, kaj jen ĵetas sin sur la planktapiŝon, tordas sin vee kaj
+flustras plende:) Erhart! Erhart, — estu fidela al mi! Ho, revenu
+hejmen, kaj helpu vian patrinon! Ĉar mi ne plu toleras ĉi tiun
+vivon!
+
+
+
+
+DUA AKTO
+
+
+(La granda festsalono de pasinta tempo en la domo de la
+Renthejmoj. Sur la muroj pendas antikvaj teksitaj tapiŝoj,
+montrantaj ĉas-scenojn kun paŝtistoj kaj paŝtistinoj, ĉio pale
+senkolorigita. Sur la muro maldekstre estas duflugila pordo, kaj pli
+proksime en la antaŭo estas piano. En la angulo fone maldekstre
+estas tapetpordo sen kadro. Meze sur la muro dekstre estas granda,
+tajlita, kverka skribotablo kun multaj libroj kaj paperoj. Pli
+antaŭe ĉe la sama flanko estas sofo kun tablo kaj seĝoj. La mebloj
+estas en rigida empir-stilo. Sur la pupitro kaj la tablo staras
+eklumigitaj lampoj.)
+
+(_John Gabriel Borkman_ staras kun la manoj dorse apud la piano
+aŭskultante al _Frida Foldal_, kiu sidas ludante la lastajn mezurojn
+de _Danse macabre_.)
+
+(_Borkman_ meze alta viro de firma, fortika staturo en la
+sesdekaj. Distingita aspekto, bele formita profilo, akraj okuloj kaj
+grizeblanka krispa hararo kaj barbo. Li estas vestita en nigra, ne
+tute moderna kostumo, kaj portas blankan koltukon. _Frida Foldal_
+estas bela, pala, dekkvinjara knabino kun iom laca streĉita esprimo.
+Malriĉe beligita en hela vestaĵo.)
+
+(La melodio atingis la finon. Silento.)
+
+BORKMAN
+Ĉu vi povas diveni kie mi la unuan fojon aŭdis tonojn, kiel tiujn
+ĉi?
+
+FRIDA
+(rigardas lin) Ne, sinjoro Borkman?
+
+BORKMAN
+Estis malsupre en la minejoj.
+
+FRIDA
+(ne komprenas) Nu jes? Malsupre en la minejoj?
+
+BORKMAN
+Mi estas filo de ministo. Kaj mia patro foje kunprenis min en la
+minejojn. — Tie malsupre la erco kantas.
+
+FRIDA
+Ĉu, — ĝi kantas?
+
+BORKMAN
+(kapjesas) Kiam ĝi malfiksiĝas. La martelfrapoj, kiuj malfiksigas
+ĝin, — tiuj estas la meznokta sonorilo, kiu sonorigas, kaj
+liberigas ĝin. Tial la erco kantas — el ĝojo — en sia
+maniero.
+
+FRIDA
+Kial ĝi faras tion, sinjoro Borkman?
+
+BORKMAN
+Ĝi sopiras supren en la lumon de la tago por servi la homojn.
+
+(Li paŝadas tien kaj reen sur la salona planko, ade kun la manoj
+dorse.)
+
+FRIDA
+(sidas iomete atendante; rigardas sian horloĝon kaj ekstaras.)
+Pardonu, sinjoro Borkman, — sed bedaŭrinde mi devas foriri, mi.
+
+BORKMAN
+(haltas antaŭ ŝi) Ĉu vi jam volas foriri?
+
+FRIDA
+(metas la notaron en la tekon) Jes, mi ja devas. (videble
+embarasata) Ĉar mi dungiĝis ien ĉi tiun vesperon.
+
+BORKMAN
+Ien, kie okazos kunestado?
+
+FRIDA
+Jes.
+
+BORKMAN
+Kaj tie vi aŭskultigos vin por la ĉeestantoj?
+
+FRIDA
+(mordas sian lipon) Ne — mi ludos por ilia dancado.
+
+BORKMAN
+Nur por dancado?
+
+FRIDA
+Jes; ili volas danci post la vespermanĝo.
+
+BORKMAN
+(staras ŝin rigardante) Ĉu vi kutime ludas por danco? Tiel
+ĉirkaŭe en la domoj?
+
+FRIDA
+(surmetas la supervestaĵojn) Jes, kiam mi povas ekhavi mendon,
+mi —. Estas ja ĉiam ioma enspezo per tio.
+
+BORKMAN
+(pridemandante) Ĉu estas _tio_, pri kio vi pleje pensas, kiam vi
+sidas ludante al danco?
+
+FRIDA
+Ne; pleje mi pensas, kiel enuige estas, ke mi ne mem povas partopreni
+la dancadon.
+
+BORKMAN
+(kapsignas) Estas ĝuste _tio_, kion mi volus scii. (paŝadas
+maltrankvila sur la planko) Jes, jes, jes, — _tio_, ne povante
+_mem_ partopreni, tio estas la plej peza el ĉio. (haltas) Sed por vi
+estas unu afero, kiu kontraŭpesas tion, Frida.
+
+FRIDA
+(rigardas lin demandante) Kio estas tio, sinjoro Borkman?
+
+BORKMAN
+Estas tio, ke vi posedas dekoble pli da muziko en vi, ol la tuta
+dancantaro kune.
+
+FRIDA
+(ridetas evite) Ho, tio do ne estas tute certa.
+
+BORKMAN
+(averte suprenlevas la montrofingron) Neniam do estu tiel freneza, ke
+vi dubas pri vi mem!
+
+FRIDA
+Sed je Dio, kiam neniu scias?
+
+BORKMAN
+Ke vi nur mem scias, estas sufiĉe. — Kie vi ludos ĉi tiun
+vesperon?
+
+FRIDA
+Estas ĉe advokato Hinkels.
+
+BORKMAN
+(subite rigardas ŝin akre) Hinkels, vi diras!
+
+FRIDA
+Jes.
+
+BORKMAN
+(kun ŝiranta rideto) Ĉu venas vizitantoj en la domon de tiu ulo?
+Ĉu _li_ povas igi homojn viziti sin?
+
+FRIDA
+Jes, venos multaj homoj, laŭ tio kion diras sinjorino Wilton.
+
+BORKMAN
+(impete) Sed kiaj homoj! Ĉu vi povas diri al mi tion?
+
+FRIDA
+(iom timeme) Ne, mi vere ne scias. Nu jes, — efektive mi scias ke
+studento Borkman iros tien ĉi-vespere.
+
+BORKMAN
+(mire) Erhart! Mia filo?
+
+FRIDA
+Jes, li vizitos.
+
+BORKMAN
+El kio vi tion scias?
+
+FRIDA
+Li mem diris. Antaŭ horo.
+
+BORKMAN
+Ĉu li do estas ĉi tie hodiaŭ?
+
+FRIDA
+Jes, li estis ĉe sinjorino Wilton la tutan posttagmezon.
+
+BORKMAN
+(esplore) Ĉu vi scias, ĉu li ankaŭ estis ĉi tie? Ĉu li envenis
+por paroli kun iu malsupre, mi aludas?
+
+FRIDA
+Jes, li faris viziteton al la sinjorino.
+
+BORKMAN
+(amare) Aha, — kompreneble.
+
+FRIDA
+Sed estis fremda sinjorino ĉe ŝi, mi pensas.
+
+BORKMAN
+Nu? Ĉu estis? Nu ja, al la sinjorino kredeble iuj foje venas.
+
+FRIDA
+Ĉu mi diru al studento Borkman, se mi poste renkontos lin, ke li
+venu ankaŭ ĉi tien supren al _vi_?
+
+BORKMAN
+(akre) Vi nenion diru! Tion mi ne permesas. La homoj, kiuj deziras
+viziteti min, ili povas veni meminstige. Mi petas neniun.
+
+FRIDA
+Do ne, mi nenion diros. — Bonan nokton, sinjoro Borkman.
+
+BORKMAN
+(paŝadas ĉirkaŭe grumblante) Bonan nokton.
+
+FRIDA
+Eble mi povos malsuprenkuri la helican ŝtuparon? Estas pli
+rapide.
+
+BORKMAN
+Kompreneble, — kuru vi la ŝtuparon kiun vi preferas. Bonan nokton
+por vi!
+
+FRIDA
+Bonan nokton, sinjoro Borkman.
+
+(Ŝi eliras tra la eta tapetpordo en la fono maldekstre.)
+
+(Penseme _Borkman_ iras al la piano por fermi ĝin, sed ne faras.
+Ĉirkaŭrigardas en la impresa malpleneco, kaj komencas paŝadi sur
+la planko de la angulo apud la piano kaj al la angulo fone dekstre,
+— la tutan tempon senripozema kaj maltrankvila tien kaj reen. Fine
+li iras al la skribotablo, aŭskultas transen al la tapetpordo,
+rapide prenas manspegulon, rigardas en ĝin kaj ĝustigas sian
+koltukon.)
+
+(Iu frapas sur la tapetpordon; _Borkman_ tion aŭdas, rapide
+rigardas tien, sed silentas.)
+
+(Iom poste denove frapiĝas; ĉi tiun fojon pli forte.)
+
+BORKMAN
+(staranta apud la skribotablo kun la maldekstra mano apogita sur la
+tabloplato kaj la dekstra enmetita sur la brusto) Envenu!
+
+(_Vilhelm Foldal_ singardeme envenas en la salonon. Li estas
+kurba, ellacigita viro kun mildaj, bluaj okuloj kaj maldensa, longa,
+griza hararo malsupren sur la jakokolumo. Teko sub la brako. Mola
+felta ĉapelo en la mano kaj grandaj kornkadraj okulvitroj, kiujn li
+suprenŝovas sur la frunton.)
+
+BORKMAN
+(ŝanĝas teniĝon, kaj rigardas la envenanton per duone
+seniluziigita, duone kontenta esprimo) Ho, ĉu estas nur vi.
+
+FOLDAL
+Bonan vesperon, John Gabriel. Jes, efektive estas mi.
+
+BORKMAN
+(kun severa rigardo) Cetere ŝajnas al mi, ke vi venas iom
+malfrue.
+
+FOLDAL
+Nu, la vojo ja ne estas tiel mallonga. Precipe por iu, kiu iru
+piede.
+
+BORKMAN
+Sed kial vi ĉiam marŝas, Vilhelm? Vi havas ja la tramvagonon tute
+proksime.
+
+FOLDAL
+Marŝi estas pli saniga. Kaj ankaŭ estas ja dek oeroj ŝparitaj. —
+Nu, ĉu do Frida ĵus estis ĉi tie ludante por vi?
+
+BORKMAN
+Ŝi ĵus en tiu ĉi momento foriris. Ĉu vi ne renkontis ŝin
+ekstere?
+
+FOLDAL
+Ne, mi ne vidis ŝin dum longaj tempoj. De post kiam ŝi enloĝiĝis
+en la domo de tiu sinjorino Wilton.
+
+BORKMAN
+(eksidas en la sofo kaj montras mane al seĝo) Bonvolu eksidu ankaŭ
+vi, Vilhelm.
+
+FOLDAL
+(eksidas sur la rando de la seĝo) Multajn dankojn (rigardas lin
+pezanime) Ho, vi ne povas kompreni kiel soleca mi sentas min, post
+kiam Frida eliris de la hejmo.
+
+BORKMAN
+Ho ĉu, — sufiĉe do restas por vi.
+
+FOLDAL
+Jes, Dio scias ke mi havas. Tute kvin uloj. Sed Frida estas la sola,
+kiu iomete komprenis min. (peze agitas la kapon) Ĉiuj la aliuloj
+tute ne komprenas min.
+
+BORKMAN
+(sombre, rigardas antaŭen kaj tamburas la tablon) Ne, jen la afero.
+_Jen_ la kondamno, kiun ni opuloj, ni elektitaj homoj devas porti. La
+amaso, la multo, — ĉiuj la meznombruloj, — ili ne komprenas nin,
+Vilhelm.
+
+FOLDAL
+(rezigne) Poviĝus rezigni pri la kompreno. Kun iom da pacienco oni
+povas ja ĉiam atendadi pri ĝi ankoraŭ ioman tempon. (kun
+plorstrangulata voĉo) Sed estas io, kio estas ankoraŭ pli amara,
+sciu.
+
+BORKMAN
+(ekscite) Nenio estas pli amara ol tio!
+
+FOLDAL
+Jes, estas, John Gabriel. Mi ĵus nun havis doman scenon — antaŭ ol
+mi ekiris ĉi tien.
+
+BORKMAN
+Ĉu? Kial jeno?
+
+FOLDAL
+(ekdirege) Tiuj hejme — ili malestimas min.
+
+BORKMAN
+(ekscitite) Malestimas —!
+
+FOLDAL
+(viŝas la okulojn) Mi jam rimarkis tion longe. Sed hodiaŭ ĝi vere
+aperiĝis.
+
+BORKMAN
+(iom silentas) Vi eble faris malbonan elekton, kiam vi edziĝis.
+
+FOLDAL
+Estis ja preskaŭ neniu elekto por mi. Kaj cetere, — edziĝi oni ja
+deziras, kiam oni komencas atingi iun aĝon. Kaj tiel reduktita, tiel
+genuestaranta kiel mi tiam estis —
+
+BORKMAN
+(eksaltas kolera) Ĉu tio ĉi estu akuzo kontraŭ mi? Riproĉo —!
+
+FOLDAL
+(timeme) Ne, pro Dio, John Gabriel —!
+
+BORKMAN
+Jes, vi sidas pensante pri la malsukceso, kiu enrompiĝis sur la
+bankon —!
+
+FOLDAL
+(trankviligante) Sed mi do ne kulpigas _vin_ por _tio_! Dio kompatu
+min —!
+
+BORKMAN
+(grumblante; eksidas denove) Nu, tio do estas bona.
+
+FOLDAL
+Cetere vi ne devas kredi, ke estas pro mia edzino, ke mi plendas. Ke
+ŝi ne havas edukon, la povrulino, estas ja vero. Sed sufiĉe bona
+ŝi tamen estas. — Ne, sed estas la infanoj, sciu —
+
+BORKMAN
+Mi povis tion pensi.
+
+FOLDAL
+Ĉar la infanoj, — ili havas ja pli altan kulturon, ili. Kaj sekve
+pli da postuloj al la vivo.
+
+BORKMAN
+(rigardas lin kompateme) Kaj tial tiuj infanoj malestimas vin,
+Vilhelm?
+
+FOLDAL
+(ektiras la ŝultrojn) Mi ja ne faris ioman karieron, vidu. Tion mi
+devas ja konfesi —
+
+BORKMAN
+(proksimiĝas kaj metas la manon sur lian brakon) Ĉu ili do ne
+scias, ke vi verkis tragedion en viaj junecaj tagoj?
+
+FOLDAL
+Jes, kompreneble ili _tion_ scias. Sed tio neniel impresas ilin.
+
+BORKMAN
+Do ili estas nekomprenemaj, ĉar via tragedio estas bona. Tion mi
+kredas plene kaj fide.
+
+FOLDAL
+(klarigante) Ĉu vi ne trovas, ke estas sufiĉe bonaj scenoj en ĝi,
+John Gabriel? Je Dio, se mi nun fine povus fari ĝin akceptata —
+(komencas vigle malfermi kaj foliumi en la teko) Jen, vidu! Mi montru
+al vi ion, kion mi ŝanĝis —
+
+BORKMAN
+Ĉu vi kunprenis ĝin?
+
+FOLDAL
+Jes, mi kunprenis ĝin. Nun estas tiom longe post kiam mi legis ĝin
+por vi. Kaj mi pensis, ke eble povus distri vin aŭskulti akton aŭ
+du —
+
+BORKMAN
+(evite, ekstaras) Ne, ne, prefere alian fojon.
+
+FOLDAL
+Nu ja, kiel vi volas.
+
+(_Borkman_ paŝadas sur la planko. Foldal repakas la
+manuskripton.)
+
+BORKMAN
+(haltas antaŭ li) Vi pravas en tio, kion vi ĵus diris, — ke vi
+neniun karieron faris. Sed _tion_ mi promesas al vi, Vilhelm, ke kiam
+la horo de restariĝo iam sonoriĝos por mi —
+
+FOLDAL
+(volas ekstari) Ho, dankon al vi —!
+
+BORKMAN
+(kun mansvingo) Vi bonvole restu sidanta. (kreskanta ekscito) Kiam la
+horo de restariĝo sonoriĝos por mi —. Kiam ili komprenos, ke ili
+ne povas esti sen mi —. Kiam ili venos supren ĉi tie en la salonon
+— kaj rampos al la kruco, kaj petegos al mi denove preni la rimenojn
+de la banko —! La nova banko, kiun ili starigis — sed ne povas
+estri — (starigas sin denove apud la skribotablo kiel antaŭe, kaj
+frapas sin sur la brusto) _Ĉi tie_ mi volas stari kaj akcepti ilin!
+Kaj estu aŭdata kaj pridemandata kiujn kondiĉojn John Gabriel
+Borkman metos por ke — (haltas subite kaj rigardas al _Foldal_) Vi
+rigardas min tiel dubeme! Eble vi ne kredas, ke ili venos? Ke ili
+_devas, devas, devas_ iam veni al mi? Ĉu vi ne kredas!
+
+FOLDAL
+Jes, Dio scias, ke mi faras, John Gabriel.
+
+BORKMAN
+(denove eksidas en la sofon) Mi kredas tion tiel firme. _Scias_ tion
+senskue certe — ke ili venos. — Se mi ne havus tiun certecon, — mi
+estus antaŭ longe pafinta al mi kuglon tra la kapo.
+
+FOLDAL
+(timeme) Ho ne, pro ĉio en la mondo —!
+
+BORKMAN
+(pavante) Sed ili venos! Ili tamen venos! Atentu! Ĉiun tagon, ĉiun
+horon mi povas atendi ilin ĉi tie. Kaj vi vidos, ke mi tenos min
+preta por akcepti ilin.
+
+FOLDAL
+(kun suspiro) Se ili do venus tre baldaŭe.
+
+BORKMAN
+(maltrankvile) Jes ja, la tempo pasas; la jaroj pasas; La vivo, huh
+ne — pri ĝi mi ne povas pensi! (rigardas lin) Ĉu vi scias kiel mi
+foje sentas min?
+
+FOLDAL
+Nu?
+
+BORKMAN
+Mi sentas min kiel iu Napoleono, kiu pafiĝis al kriplulo en sia unua
+batalo.
+
+FOLDAL
+(metas la manon sur la tekon) Tiun senton ankaŭ mi havas.
+
+BORKMAN
+Nu ja, tiel en minora afero.
+
+FOLDAL
+(kviete) Mia eta verkista mondo havas grandan valoron por _mi_, John
+Gabriel.
+
+BORKMAN
+(impete) Jes, sed _mi_, kiu estus povinta krei milionojn! Ĉiujn
+tiujn minejojn, kiujn mi submetigus al mi! Novajn minejojn en
+sennombro! La akvofalojn! La ŝtonrompejojn! La komercajn vojojn kaj
+la ŝipliniojn tra la tuta mondo. Ĉion, ĉion mi estus sola
+starigita!
+
+FOLDAL
+Jes, mi ja scias. Ne ekzistis tiaĵo antaŭ kiu vi cedus.
+
+BORKMAN
+(premas la manojn) Kaj tamen mi devas sidi ĉi tie kiel pafvundita
+birdego, kaj vidi, ke la aliuloj antaŭvenas min, — kaj forprenas
+ĉion de mi, pecon post peco!
+
+FOLDAL
+Tiel ankaŭ pri _mi_, vi sciu.
+
+BORKMAN
+(sen lin atenti) Imagu. Tiel proksima ke mi estis ĉe la celo. Se mi
+estus havinta prokraston de ok tagoj por konsideri. Ĉiuj deponaĵoj
+estus tiam reprenitaj. Ĉiuj la valoraĵoj, kiujn mi per kuraĝa mano
+utiligis, ili denove kuŝus en sia loko kiel antaŭe. La kapturnige
+grandaj akciosocietoj estis ĝuste antaŭ sia realiĝo. Eĉ ne unu
+sola opulo perdus oeron —
+
+FOLDAL
+Ja, je Dio — kiel ege proksima vi estis —
+
+BORKMAN
+(en sufokita kolero) Kaj jen la perfido superondis min! Ĝuste meze
+en la tagoj de decido! (rigardas lin) Ĉu vi scias kiun krimon mi
+tenas kiel la plej fian fareblan de homo?
+
+FOLDAL
+Ne. Diru!
+
+BORKMAN
+Ne estas mortigo. Ne rabo aŭ nokta ŝtelenrompo. Eĉ ne falsa ĵuro.
+Ĉar ĉiuj tiaĵoj fariĝas pleje kontraŭ homoj, kiujn oni malamas,
+aŭ kiuj estas sensignifaj kaj ne rilatas al ni.
+
+FOLDAL
+Sed la plej fia do, John Gabriel?
+
+BORKMAN
+(emfaze) La plej fia estas la misuzo de fido pere de amiko.
+
+FOLDAL
+(iom dubinde) Jes, sed aŭskultu nun —
+
+BORKMAN
+(ekinterrompe) Kion vi intencas diri! Mi vidas tion laŭ via aspekto.
+Sed tio ne estas trafa. La homoj, kiuj havis siajn valorpaperojn en
+la banko, ili ekhavus sian tuton reen. Ĉiun opan grajnon! — Ne, vi
+sciu, — la plej fia kion homo povas fari, estas misuzi la leterojn
+de amiko, — aperigi por la tuta mondo tion, kio estis konfidita al
+unu sola, duope, kvazaŭ flustro en malplena, malhela, ŝlosita
+ĉambro. Tiu homo, kiu povas utiligi tiajn rimedojn, li estas tute
+trae venenigita kaj infektigita de la moralo de la superfripono. Kaj
+tian amikon mi havis. — Kaj li estis tiu, kiu frakasis min.
+
+FOLDAL
+Mi ja scietas al kiu vi aludas.
+
+BORKMAN
+Ne estis faldaĵo en mia tuta konduto, kiun mi ne kuraĝis malkaŝi
+por li. Kaj kiam venis la momento, jen li direktis kontraŭ mi la
+armilojn, kiujn mi mem estis lin donintaj enmane.
+
+FOLDAL
+Mi neniam povis kompreni, kial li —. Ja, subparoliĝis tamen multe
+tiam.
+
+BORKMAN
+Pri kio subparoliĝis? Diru. Mi ja scias nenion. Ĉar mi ja tuj —
+izoliĝis. Pri kio la homoj subparolis, Vilhelm?
+
+FOLDAL
+Vi estus ja ministro, oni diris.
+
+BORKMAN
+Ofertiĝis al mi. Sed mi rifuzis.
+
+FOLDAL
+Do ne staris al li en la vojo.
+
+BORKMAN
+Ho ne; ne estis tial, ke li perfidis min.
+
+FOLDAL
+Nu, _en tiu okazo_ mi vere ne komprenas —
+
+BORKMAN
+Mi tamen povas diri al vi, Vilhelm.
+
+FOLDAL
+Nu?
+
+BORKMAN
+Estis — iaspeca virina historio, vi sciu.
+
+FOLDAL
+Virina historio? Ne do, John Gabriel —?
+
+BORKMAN
+(interrompante) Jes, jes, jes, — pri tiuj malnovaj, stultaj
+historioj ni ne plu parolu. — Nu, ministro fariĝis nek li nek
+mi.
+
+FOLDAL
+Sed alte supren li atingis.
+
+BORKMAN
+Kaj mi en la abismon.
+
+FOLDAL
+Ho, estas terura tragedio —
+
+BORKMAN
+(kapsignas al li) Preskaŭ same terura kiel la _via_, ŝajnas al mi,
+kiam mi pripensas.
+
+FOLDAL
+(naive) Jes, eĉ same terura.
+
+BORKMAN
+(ridas silente) Sed rigardata de alia flanko, vere estas kvazaŭ iu
+komedio.
+
+FOLDAL
+Komedio? Tio ĉi?
+
+BORKMAN
+Jes, tiel kiel ŝajnas, ke ĝi evoluas nun. Ĉar nun vi aŭdu —
+
+FOLDAL
+Nu do?
+
+BORKMAN
+Jes; vi ja ne renkontis Frida, kiam vi venis.
+
+FOLDAL
+Ne.
+
+BORKMAN
+Dum ni du sidas ĉi tie, ŝi sidas tie malsupre ludante al danco por
+li, kiu perfidis kaj ruinigis min.
+
+FOLDAL
+Pri tio mi eĉ ne havis scieton.
+
+BORKMAN
+Jes, ŝi prenis sian notaron, kaj foriris de mi al — la grandsinjora
+domo.
+
+FOLDAL
+Nu ja, bedaŭrinda infano —
+
+BORKMAN
+Kaj ĉu vi povas diveni por kiu ŝi ludas inter la aliuloj?
+
+FOLDAL
+Nu?
+
+BORKMAN
+Por mia filo, sciu.
+
+FOLDAL
+Ĉu?
+
+BORKMAN
+Jes; — kiel ŝajnas al vi, Vilhelm? Mia filo estas tie malsupre en
+la vico de dancantoj ĉi-vespere. Ĉu do ne estas komedio, kiel mi
+diras?
+
+FOLDAL
+Jes, sed do li certe nenion scias.
+
+BORKMAN
+Kion li ne scias?
+
+FOLDAL
+Li ne scias, kiel _li_ — tiu — nu —
+
+BORKMAN
+Vi tamen povas diri la nomon. Mi eĉ toleras aŭdi ĝin nun.
+
+FOLDAL
+Mi estas certa, ke via filo ne konas la konekson, John Gabriel.
+
+BORKMAN
+(sombra, sidanta frapante la tablon) Li konas ĝin, sciu, — tiel
+certe kiel mi sidas ĉi tie.
+
+FOLDAL
+Sed ĉu vi povas imagi, ke li serĉus societon en _tiu_ domo!
+
+BORKMAN
+(agitas la kapon) Mia filo do ne rigardas la aferojn tiel samokule
+kiel mi. Mi kuraĝas ĵuri ke li staras ĉe la flanko de miaj
+malamikoj! Li kredeble opinias kiel ili, ke advokato Hinkels nur
+faris sian damnitan devon, kiam li perfidis min.
+
+FOLDAL
+Sed, kara, kiu estus al li prezentinta la aferon en _tiu_ lumo?
+
+BORKMAN
+Kiu? Ĉu vi forgesas, kiuj zorgis pri li? Unue lia onklino — de post
+kiam li havis ses — sep jarojn. Kaj nun poste — lia patrino!
+
+FOLDAL
+Mi opinias, ke vi estas maljusta kontraŭ ili.
+
+BORKMAN
+(ekscite) Mi neniam estas maljusta al iu homo! Ambaŭ ili incitis lin
+kontraŭ mi, ĉu vi ne aŭdas!
+
+FOLDAL
+(cedeme) Jes, ja, ja; do ili tiel faris.
+
+BORKMAN
+(kolerplena) Ho, tiuj virinoj! Ili malvirtigas kaj falsigas la vivon
+por ni! Fuŝigas nian tutan sorton, — nian tutan venkan iron.
+
+FOLDAL
+Tamen ne ĉiuj!
+
+BORKMAN
+Ĉu? Menciu unu solan, kiu tamen taŭgas!
+
+FOLDAL
+Ne, jen la problemo. La opaj, kiujn mi konas, ili ne taŭgas.
+
+BORKMAN
+(spirblovas malestime) Nu, al kio do tio utilas! Ke ekzistas tiaj
+virinoj, — kiam oni ne konas ilin!
+
+FOLDAL
+(varme) Jes, John Gabriel, tamen utilas. Estas tiel feliĉige kaj
+tiel benite pensi, ke tie ekstere, ĉirkaŭe, tre fore, — _tie_
+tamen troviĝas la vera virino.
+
+BORKMAN
+(senpacience translokigas sin en la sofo) Ho, ĉesu pri tiu poezia
+babilaĵo!
+
+FOLDAL
+(profunde ofendita rigardas lin) Ĉu vi nomas mian plej sanktan
+kredon poezia babilaĵo!
+
+BORKMAN
+(malmole) Jes, mi faras! Estas tio ĉi, kio kaŭzis, ke vi neniam
+antaŭeniĝis en la mondo. Se vi forpelus ĉiujn tiaĵojn, mi povus
+ankoraŭ helpi vin surpieden — helpi vin supren.
+
+FOLDAL
+(dum bolas interne en li) Ho, tion vi ja ne povas.
+
+BORKMAN
+Mi _povos_, kiam mi nur regajnos la potencon.
+
+FOLDAL
+Sed tio estas ja tre longe estonta espero.
+
+BORKMAN
+(impete) Ĉu vi eble opinias, ke tiu tempo neniam venos? Respondu al
+tio!
+
+FOLDAL
+Mi ne scias kion respondi al vi.
+
+BORKMAN
+(ekstaras; montras per manmovo al la pordo malvarme kaj aristokrate)
+Do mi ne plu bezonas vin.
+
+FOLDAL
+(ekstaras de la seĝo) Ne bezonas —!
+
+BORKMAN
+Ĉar vi ne kredas, ke mia sorto ŝanĝiĝos —
+
+FOLDAL
+Tamen mi ja ne povas kredi kontraŭ ĉiu racio! — Kontentigon vi
+devus ja havi —
+
+BORKMAN
+Daŭre! Daŭre!
+
+FOLDAL
+Certe mi ne plenumis mian ekzamenon; sed _tiom_ mi tamen legis dum
+miaj tagoj —
+
+BORKMAN
+(rapide) Neeble, vi opinias?
+
+FOLDAL
+Ne ekzistas prejudikato por tiaĵo.
+
+BORKMAN
+Ne estas necesa por esceptuloj.
+
+FOLDAL
+La leĝo ne konas tiajn konsiderojn.
+
+BORKMAN
+(akre kaj decide) Vi ne estas poeto, Vilhelm.
+
+FOLDAL
+(senpere plektas la manojn) Ĉu vi tion diras tute serioze?
+
+BORKMAN
+(rifuzante sen respondo) Ni nur forludas nian tempon pri ni
+reciproke. Plej bone ke vi ne revenu.
+
+FOLDAL
+Vi do deziras, ke mi forlasu vin?
+
+BORKMAN
+(ne lin rigardante) Mi ne plu bezonas vin.
+
+FOLDAL
+(kvietanime prenas la tekon) Ne, ne, ne; povas ja tiel esti, tio.
+
+BORKMAN
+Jen vi do la tutan tempon mensogadis por mi.
+
+FOLDAL
+(skuas la kapon) Neniam mensogis, John Gabriel.
+
+BORKMAN
+Ĉu vi ne sidadis ĉi tie mensogante esperon kaj kredon kaj fidon en
+min?
+
+FOLDAL
+Ne estis mensogo tiom longe, kiam _vi_ kredis pri _mia_ voko. Tiom
+longe kiam vi kredis pri mi, tiom longe mi kredis pri vi.
+
+BORKMAN
+Ni do trompis unu la alian reciproke. Kaj eble ankaŭ trompis nin mem
+— ambaŭ.
+
+FOLDAL
+Sed ĉu ne tio do funde estas amikeco, John Gabriel?
+
+BORKMAN
+(ridetas amare) Jes, trompi, — tio estas amikeco. Jen vi pravas.
+Tiun sperton mi iam antaŭe faris.
+
+FOLDAL
+(rigardas lin) Neniu poezia voko. Kaj tion vi povis diri al mi tiel
+senkonsidere.
+
+BORKMAN
+(pli mola voĉo) Nu, mi ja ne estas iu spertulo en _tia_ afero.
+
+FOLDAL
+Eble pli ol vi mem scias.
+
+BORKMAN
+_Mi_?
+
+FOLDAL
+(kviete) Jes, vi. Ĉar mi mem havis miajn dubojn — foje, vi sciu. La
+terura dubo — ke mi fuŝis la vivon pro imagaĵo.
+
+BORKMAN
+Se vi mem dubas, vi staras sur falantaj piedoj.
+
+FOLDAL
+Tial estis por mi tiel konfideme, veni ĉi tien, kaj apogi min al vi,
+kiu kredis. (prenas sian ĉapelon) — Sed nun vi estas kiel fremdulo
+por mi.
+
+BORKMAN
+Ankaŭ vi por mi.
+
+FOLDAL
+Bonan nokton, John Gabriel.
+
+BORKMAN
+Bonan nokton, Vilhelm. (_Foldal_ eliras maldekstre)
+
+(_Borkman_ staras momenton rigardante la fermitan pordon; faras
+movon, kvazaŭ li volus revoki _Foldal_, sed hezitas pripense, kaj
+komencas paŝadi tien kaj reen sur la planko kun la manoj dorse.
+Poste li haltas apud la sofotablo, kaj li estingas la lampon.
+Fariĝas duonlume en la salono.)
+
+(Iom poste frapiĝas sur la tapetpordo maldekstre en la fono.)
+
+BORKMAN
+(apud la tablo, skuiĝas, turnas sin kaj demandas laŭte) Kiu frapas?
+(neniu respondo; frapiĝas denove)
+
+BORKMAN
+(restas staranta) Kiu estas? Envenu!
+
+(_Ella Renthejm_, kun ekbruligita kandelo en la mano aperas en la
+pordo. Ŝi estas vestita en sia nigra robo kiel antaŭe, kun la
+mantelo malfirme ĵetita sur la ŝultroj.)
+
+BORKMAN
+(rigardas ŝin) Kiu estas vi? Kion vi volas al mi?
+
+ELLA RENTHEJM
+(fermas la pordon post si kaj venas pli proksimen) Estas mi, Borkman.
+(Ŝi metas la kandelon sur la pianon kaj restas staranta tie.)
+
+BORKMAN
+(staras kiel fulme frapita, rigardas ŝin sendeturne kaj flustras
+duonlaŭte) Ĉu estas — estas Ella? Ĉu estas Ella Renthejm?
+
+ELLA RENTHEJM
+Jes. — Estas _“via”_ Ella, — kiel vi nomis min en antaŭa tempo.
+Iam. Antaŭ tiuj multaj — multaj jaroj.
+
+BORKMAN
+(kiel antaŭe) Jes, estas vi, Ella, — mi vidas tion nun.
+
+ELLA RENTHEJM
+Ĉu vi rekonas min?
+
+BORKMAN
+Jes, nun mi komencas —
+
+ELLA RENTHEJM
+La jaroj atakis min forte kaj aŭtune, Borkman. Ĉu ne ŝajnas al
+vi?
+
+BORKMAN
+(devigite) Vi iom ŝanĝiĝis. Je la unua rigardo —
+
+ELLA RENTHEJM
+Mi nun ne havas la malhelajn buklojn laŭ la nuko. Tiujn, kiujn vi
+ŝatis vindi ĉirkaŭ viajn fingrojn.
+
+BORKMAN
+(rapide) Ĝuste! Nun mi vidas, Ella. Vi ŝanĝis la hararanĝon.
+
+ELLA RENTHEJM
+(kun malĝoja rideto) Ĝuste. Estas pro la hararanĝo.
+
+BORKMAN
+(deturnante) Krome mi ne sciis, ke vi estas en ĉi tiu regiono de la
+lando.
+
+ELLA RENTHEJM
+Mi ja ĵus venis.
+
+BORKMAN
+Kial vi vojaĝis ĉi tien, — nun mezvintre?
+
+ELLA RENTHEJM
+Tion vi aŭdos.
+
+BORKMAN
+Ĉu estas io, kion vi intencas pri _mi_?
+
+ELLA RENTHEJM
+Ankaŭ pri vi. Sed se ni parolu pri tio, mi devas komenci tre longe
+pasinte.
+
+BORKMAN
+Vi certe estas laca.
+
+ELLA RENTHEJM
+Jes, mi estas laca.
+
+BORKMAN
+Ĉu vi ne volas eksidi? _Jen_, — en la sofon.
+
+ELLA RENTHEJM
+Jes, dankon. Mi bezonas sidi.
+
+(Ŝi transiras dekstren, kaj eksidas en la pli antaŭan angulon de
+la sofo. _Borkman_ staras apud la tablo kun la manoj dorse ŝin
+rigardante. Mallonga silento.)
+
+ELLA RENTHEJM
+Estas nedireble longe de post kiam ni du renkontiĝis vizaĝon
+vizaĝe, Borkman.
+
+BORKMAN
+(sombre) Ege, ege longe de post tiam. Ĉiuj tiuj teruraĵoj
+interkuŝas.
+
+ELLA RENTHEJM
+Tuta homa vivo interkuŝas. Forĵetita homa vivo.
+
+BORKMAN
+(rigardas ŝin akre) Forĵetita!
+
+ELLA RENTHEJM
+Jes, ĝuste forĵetita. Por ni ambaŭ.
+
+BORKMAN
+(en malvarma komerca voĉtono) Mi ankoraŭ ne konsideras mian vivon
+kiel forĵetitan.
+
+ELLA RENTHEJM
+Nu, sed _mia_ vivo do?
+
+BORKMAN
+En tio vi mem kulpas, Ella.
+
+ELLA RENTHEJM
+(kun skuiĝo) Kaj _tion_ diras _vi_!
+
+BORKMAN
+Vi povus bone fariĝi feliĉa sen mi.
+
+ELLA RENTHEJM
+Ĉu vi tion kredas?
+
+BORKMAN
+Se vi mem volus.
+
+ELLA RENTHEJM
+(amare) Jes, mi ja scias, ke aliulo staris preta por akcepti
+min —
+
+BORKMAN
+Sed lin vi rifuzis —
+
+ELLA RENTHEJM
+Jes, mi faris.
+
+BORKMAN
+Fojon post fojo vi rifuzis lin. Jaron post jaro —
+
+ELLA RENTHEJM
+(moke) — jaron post jaro mi rifuzis la feliĉon, vi do pensas?
+
+BORKMAN
+Vi povus bone fariĝi feliĉa ankaŭ kun _li_. Kaj tiam _mi_ estus
+savita.
+
+ELLA RENTHEJM
+Vi —?
+
+BORKMAN
+Jes, tiam vi estus min savinta, Ella.
+
+ELLA RENTHEJM
+Kiel, vi pensas?
+
+BORKMAN
+Li kredis, ke estas mi, kiu staris malantaŭ viaj rifuzadoj, — viaj
+eternaj rifuzoj. Kaj li faris venĝon. Ĉar tion li facile povis, —
+li, kiu havis en sia depono ĉiujn miajn senrezervajn, fidoplenajn
+leterojn. Tiujn li uzis, — kaj tiam estis for pri mi, — ĝis plue
+do. Jen, pri ĉio tio vi kulpas, Ella!
+
+ELLA RENTHEJM
+Jen, jen, Borkman, — reale do, eble estas _mi_, kiu estas ŝuldanto
+al _vi_.
+
+BORKMAN
+Estas kiel oni tion prenas. Mi bone scias pri ĉio, por kio mi devas
+danki vin. Vi igis la bienon ĉi tie, la tutan bienon, aljuĝi al vi
+ĉe la aŭkcio. Disponigis la domon senlimige por mi kaj por — via
+fratino. Vi prenis Erhart al vi, — zorgis por li en ĉiuj manieroj —
+
+ELLA RENTHEJM
+— tiom longe kiom permesiĝis —
+
+BORKMAN
+— permesiĝis de via fratino, jes. Mi neniam miksis mi en tiujn
+hejmajn problemojn. — Kiel mi volis diri, — mi scias kion vi oferis
+por mi kaj via fratino. Sed vi _povis_ ja ankaŭ tion fari, Ella. Sed
+memoru, ke estis _mi_, kiu faris vin kapabla.
+
+ELLA RENTHEJM
+(ekscitita) En tio vi grande eraras, Borkman! Estis mia plej interna
+kaj varma animo kaj koro por Erhart, — kaj ankaŭ por vi, _tio_
+pelis min!
+
+BORKMAN
+(interrompante) Kara, ni ne eniru en sentojn kaj tiaĵojn. Mi
+kompreneble opinias, ke kiam vi agis, kiel vi faris, estis _mi_ kiu
+faris vin kapabla.
+
+ELLA RENTHEJM
+(ridetas) Hm, kapabla, kapabla —
+
+BORKMAN
+(fervore) Jes, ĝuste kapabla! Kiam la granda decida frapo estus
+fariĝonta, — kiam mi povis ŝpari nek parencojn nek amikojn, —
+kiam mi devis kapti — kaj ankaŭ kaptis la milionojn, kiuj estis
+konfiditaj al mi, — tiam mi ŝparis ĉion, kio estis via, ĉion kion
+vi posedis, — kvankam mi estus povinta preni kaj prunti ĝin — kaj
+uzi ĝin — kiel ĉion la ceteran.
+
+ELLA RENTHEJM
+(malvarme kaj trankvile) Estas vere kaj ĝuste, Borkman.
+
+BORKMAN
+Tiel ja estas. Kaj tial, — kiam ili venis kaj prenis min, — ili
+ankaŭ trovis ĉion vian netuŝita en la kelo de la banko.
+
+ELLA RENTHEJM
+(ekrigardas lin) Mi ofte pensis pri tio, — — kial vi vere ŝparis
+ĉion tion, kio estis mia? Kaj sole nur tion?
+
+BORKMAN
+Kial?
+
+ELLA RENTHEJM
+Jes, kial? Diru.
+
+BORKMAN
+(akre kaj moke) Vi eble pensas, ke estis por havi ion sur kio apogi
+min, se mi ne sukcesus?
+
+ELLA RENTHEJM
+Ho ne, pri tio vi certe ne pensis dum _tiuj_ tagoj.
+
+BORKMAN
+Neniam! Mi estis tiel neskueble certa pri la venko.
+
+ELLA RENTHEJM
+Jes, sed kial tamen —?
+
+BORKMAN
+(ŝultrotiras) Je Dio, Ella, — ne estas facile memori kialojn, kiuj
+estas dudek jarojn aĝaj. Mi nur memoras, ke kiam mi iris tie sola,
+cerbumante pri ĉiuj tiuj grandaj entreprenoj, kiuj estus
+realigindaj, ŝajnis al mi, ke mi estis anime tiel kiel mi imagis al
+mi estron de aerŝipo. Jen mi vagis en sendormaj noktoj, plenigante
+grandegan balonon por veli supre trans nesekura, danĝeroplena
+oceano.
+
+ELLA RENTHEJM
+(ridetas) Vi, kiu neniam dubis pri la venko.
+
+BORKMAN
+(senpacience) La homoj _estas_ tiaj, Ella. Ili kaj dubas kaj kredas
+pri la sama afero. (por si mem) Kaj tial eble estis, kial mi ne volis
+havi vin kaj la vian kun mi en la balono.
+
+ELLA RENTHEJM
+(en ekscito) Kial, demandas mi! Diru, kial!
+
+BORKMAN
+(ne ŝin rigardante) Oni prefere ne prenas la plej karan kun si en
+tia vojaĝo.
+
+ELLA RENTHEJM
+Vi _kunhavis_ ja la plej karan en la balono. Via mema vivo de la
+estonto —
+
+BORKMAN
+La vivo ne ĉiam estas la plej kara.
+
+ELLA RENTHEJM
+(senspire) Ĉu tiel estis por vi tiam?
+
+BORKMAN
+Ŝajnas al mi tiel.
+
+ELLA RENTHEJM
+Ke _mi_ estis la plej kara, kiun vi sciis?
+
+BORKMAN
+Jes, ŝvebas antaŭ mi io tia.
+
+ELLA RENTHEJM
+Kaj tiam tamen estis pasintaj jaroj kaj tagoj, post kiam vi perfidis
+min — kaj edzinigis alian — iun alian!
+
+BORKMAN
+Perfidis vin, vi diras? Vi certe komprenas, ke estis pli altaj
+konsideroj, — nu do, _aliaj_ konsideroj, — kiuj devigis min. Sen
+_lia_ kunhelpo mi povus nenien veni.
+
+ELLA RENTHEJM
+Do perfidis min pro — pli altaj konsideroj.
+
+BORKMAN
+Mi ne povis senesti lian helpon. Kaj li postulis _vin_, kiel prezon
+por la helpo.
+
+ELLA RENTHEJM
+Kaj vi pagis la prezon. Tutplene. Sen marĉandado.
+
+BORKMAN
+Ne havis elekton. Devis venki aŭ fali.
+
+ELLA RENTHEJM
+(rigardas lin, la lipoj tremetantaj) Ĉu tio povas esti vero, kion vi
+diras, ke mi estis por vi la plej kara en la mondo?
+
+BORKMAN
+Kaj tiam kaj poste, — longe longe poste.
+
+ELLA RENTHEJM
+Kaj vi tamen marĉandis min for. Marĉandadis pri la rajto de via amo
+kun alia viro. Vendis mian amon por — por bankestra ofico!
+
+BORKMAN
+(sombre kaj kurbigite) La deviga neceso estis super mi, Ella.
+
+ELLA RENTHEJM
+(ekstaras sovaĝe kaj skuite de la sofo) Krimulo!
+
+BORKMAN
+(skuiĝas sed regas sin) Tiun vorton mi aŭdis antaŭe.
+
+ELLA RENTHEJM
+Ho, ne pensu ke mi aludas al tio, kion vi krimis kontraŭ leĝo kaj
+juro de la lando! La utiligo, kiun vi faris de ĉiuj tiuj akcioj kaj
+obligacioj — aŭ kio ajn, kio tio estis, — kiom vi pensas, ke mi
+zorgas pri ĝi! Se mi havus permeson stari proksime al vi, kiam ĉio
+disfalis sur vin —
+
+BORKMAN
+(streĉite) Kio tiam, Ella?
+
+ELLA RENTHEJM
+Kredu min, mi tolerus ĉion ĝoje kun vi. La malhonoron, la
+ruiniĝon, — ĉion, ĉion mi helpus vin porti —
+
+BORKMAN
+Ĉu vi tion volus? Ĉu povus?
+
+ELLA RENTHEJM
+Kaj volus kaj povus. Ĉar tiam mi ja ne sciis pri via granda, terura
+krimo —
+
+BORKMAN
+Kiun! Al kio vi aludas?
+
+ELLA RENTHEJM
+Mi aludas al tiu krimo, por kiu ne estas pardono —
+
+BORKMAN
+(gapas al ŝi) Vi freneziĝis.
+
+ELLA RENTHEJM
+(paŝas pli proksimen) Vi estas murdisto! Vi faris la grandan pekon
+de morto!
+
+BORKMAN
+(retiras sin al la piano) Ĉu vi freneziĝas, Ella?
+
+ELLA RENTHEJM
+Vi mortigis la amovivon en mi. (pli proksimen) Ĉu vi komprenas, kion
+tio signifas? Rakontiĝas en la Biblio pri enigma peko, por kiu estas
+neniu pardono. Mi neniam antaŭe komprenis, kio tio estas. Nun mi
+komprenas. La granda nepardonebla peko, — estas la peko murdi la
+amovivon en iu homo.
+
+BORKMAN
+Kaj tion vi diras, ke mi faris?
+
+ELLA RENTHEJM
+Vi _faris_. Mi neniam vere komprenis, kio vere okazis al mi, antaŭ
+nun ĉi tiun vesperon. Ke vi perfidis min, kaj turnis vin al Gunhild
+anstataŭe, — tion mi interpretis nur kiel iun ordinaran
+nestabilecon viaflanke. Kaj kiel sekvon de senkorajn artaĵojn
+ŝiaflanke. Kaj mi preskaŭ pensas, ke mi malestimis vin iomete —
+spite al ĉio. Sed _nun_ mi vidas! Vi perfidis la virinon, kiun vi
+_amis_! Min, min, min! La plej karan kion vi sciis en la mondo, tion
+vi estis preta vendi por profito. _Tio_ estas la duobla murdo, por
+kiu vi faris vin kulpa! Murdo al via propra animo kaj al la mia!
+
+BORKMAN
+(malvarma kaj sinrega) Kiel bone mi rekonas vian pasian, senbridan
+animon, Ella. Estas kompreneble akcepteble por vi vidi la aferon
+tiel, kiel vi faras. Vi estas ja virino. Kaj por vi aspekte ŝajnas,
+ke vi ne scikonas, ne donas valoron al iu alia afero en la tuta
+mondo.
+
+ELLA RENTHEJM
+Ne, efektive mi ne faras.
+
+BORKMAN
+Nur via propra kora afero —
+
+ELLA RENTHEJM
+Nur ĝi! Nur ĝi! Vi pravas.
+
+BORKMAN
+Sed vi devas memori, ke mi estas viro. Kiel virino vi estis por mi la
+plej kara en la mondo. Sed kiam tamen tiel estu, unu virinon povas
+anstataŭi alia —
+
+ELLA RENTHEJM
+(rigardas lin kun rideto) Ĉu vi tion spertis, kiam vi estis preninta
+Gunhild kiel edzinon?
+
+BORKMAN
+Ne. Sed miaj taskoj en la vivo helpis min porti ankaŭ _tion._ Mi
+volis meti sub mian potencon ĉiujn fontojn de potenco en ĉi tiu
+lando. Ĉion, kion tero, montaroj kaj arbaroj kaj maro enhavis de
+riĉaĵoj — tion mi volis submetigi, kaj krei regnon por mi mem, kaj
+tiel bonfarton por la multaj, multaj miloj da aliuloj.
+
+ELLA RENTHEJM
+(perdita en memoro) Mi konas tion. Tiom da vesperoj, kiam ni
+priparolis viajn celojn —
+
+BORKMAN
+Jes, kun vi mi povis paroli, Ella.
+
+ELLA RENTHEJM
+Mi ŝercis pri viaj planoj, kaj demandis, ĉu vi volus veki ĉiujn la
+dormantajn spiritojn de la oro.
+
+BORKMAN
+(kapsignas) Mi memoras tiun esprimon. (malrapide) Ĉiujn la
+dormantajn spiritojn de la oro.
+
+ELLA RENTHEJM
+Sed vi ne prenis tion por ŝerco. Vi diris: “Jes, jes, Ella, estas
+ĝuste tio, kion mi volas.”
+
+BORKMAN
+Tiel ankaŭ _estis_. Kiam mi unue estus metinta la piedon en la
+piedingon —. Kaj _tio_ dependis tiam de unu sola viro. Li povis,
+kaj li volis havigi al mi la estran oficon en la banko, — se mi
+miaflanke —
+
+ELLA RENTHEJM
+Ĝuste, jes! Se vi viaflanke rezignus pri la virino, kiun vi amis, —
+kaj kiu senlime amis vin.
+
+BORKMAN
+Mi scikonis lian konsumantan pasion por vi. Sciis ke li neniam je kiu
+ajn alia kondiĉo —
+
+ELLA RENTHEJM
+Kaj vi akceptis.
+
+BORKMAN
+(impete) Jes, mi faris, Ella! Ĉar la potencavido estis tiel
+nesubprema en mi, vi sciu. Kaj mi akceptis. _Devis_ akcepti. Kaj li
+helpis min supren duone al la logantaj altejoj, kien mi sopiris. Kaj
+mi altiĝis kaj altiĝis. Jaron post jaro mi altiĝis —
+
+ELLA RENTHEJM
+Kaj _mi_ estis kvazaŭ forviŝita el via vivo.
+
+BORKMAN
+Kaj tamen li reen renversigis min en la abismon. Pro vi, Ella.
+
+ELLA RENTHEJM
+(post mallonga, pensema silento) Borkman, — ĉu ne ŝajnas al vi, ke
+kvazaŭ kuŝis kondamno super nia tuta rilato?
+
+BORKMAN
+(rigardas ŝin) Kondamno?
+
+ELLA RENTHEJM
+Jes. Ĉu ne ŝajnas al vi?
+
+BORKMAN
+(maltrankvila) Jes. Sed kiel vere —? (ekdire) Ho, Ella, — mi
+baldaŭ ne plu scias, kiu pravas, — aŭ vi aŭ mi!
+
+ELLA RENTHEJM
+Vi estas tiu, kiu pekis. Vi mortigis ĉiun homan ĝojon en mi.
+
+BORKMAN
+(timeme) Tion do ne diru, Ella!
+
+ELLA RENTHEJM
+Ĉiu ina, homa ĝojo almenaŭ. De la tempo, kiam la bildo de vi
+komencis estingiĝi en mi, mi ekzistis kvazaŭ sub suneklipso. Dum
+ĉiuj tiuj jaroj fariĝis por mi pli kaj pli malloge, — fine tute
+neeble, ami iun vivantan estaĵon. Nek homojn, nek bestojn aŭ
+plantojn. Nur tiun unu solan —
+
+BORKMAN
+Kiun tiun unu solan —?
+
+ELLA RENTHEJM
+Erhart, kompreneble.
+
+BORKMAN
+Erhart —?
+
+ELLA RENTHEJM
+Erhart, — vian, vian filon, Borkman.
+
+BORKMAN
+Ĉu li do kuŝis tiel varme sur via koro?
+
+ELLA RENTHEJM
+Kial alie, kredas vi, ke mi prenis lin al mi? Kaj retenis lin tiom
+longe kiom mi povis? Kial?
+
+BORKMAN
+Mi pensis, ke estis pro kompatemo. Kiel ĉio la cetera.
+
+ELLA RENTHEJM
+(en forta interna ekscito) Kompatemo, vi diras! Haha! Mi neniam
+sentis kompatemon — de post kiam vi perfidis min. Mi simple ne
+kapablis. Se venis malriĉa, malsata infano en mian kuirejon,
+frostante kaj plorante kaj petegante iom da manĝaĵo, mi igis la
+kuiristinon okupiĝi pri tio. Neniam sentis iun deziron preni la
+infanon al mi mem, varmigi ĝin apud mia propra forno, ĝoji vidante
+ĝin satmanĝi. Kaj tia mi neniam estis en mia juneco; tion mi klare
+memoras! Estas _vi_, kiu faris min dezerte malplena kaj dezerte
+malfekunda interne — kaj ankaŭ ekstere!
+
+BORKMAN
+Nur ne por Erhart.
+
+ELLA RENTHEJM
+Ne. Ne por _via_ filo. Sed cetere por ĉio, ĉio, kio vive moviĝas.
+Vi fraŭdis min pri la ĝojo de patrino kaj feliĉo en la vivo. Kaj
+ankaŭ pri la ĉagrenoj kaj la larmoj. Kaj _tio_ estus eble la plej
+korŝira perdo por mi, vi sciu.
+
+BORKMAN
+Ĉu jenon vi diras, Ella?
+
+ELLA RENTHEJM
+Kiu scias? Eble estus la ĉagrenoj kaj larmoj de patrino, kiuj servus
+al mi plej bone. (en pli forta emocio) Sed mi _ne povis_ rezigni pri
+la perdo tiam. Tial mi prenis Erhart al mi. Gajnis lin tute. Gajnis
+lian tutan, varman, fideman infanan koron por mi, — ĝis, —.
+Aĥ!
+
+BORKMAN
+Ĝis kio?
+
+ELLA RENTHEJM
+Ĝis lia patrino, — lia karna patrino, mi aludas, reprenis lin de
+mi.
+
+BORKMAN
+Li devis ja forlasi vin. Ĉi tien al la urbo.
+
+ELLA RENTHEJM
+(tordas siajn manojn) Jes, sed mi ne toleras esti forlasita, sciu! Ne
+la malplenecon! Ne la perdon de la koro de via filo!
+
+BORKMAN
+(kun malica esprimo en la okuloj) Hm, — ĝin vi certe ne perdis,
+Ella. Oni ne facile perdas korojn al la avantaĝo de iu ĉi tie
+malsupre en la — ĉambra etaĝo.
+
+ELLA RENTHEJM
+Mi _estas_ perdinta Erhart ĉi tie. Kaj _ŝi_ gajnis lin reen. Aŭ
+ankaŭ iu alia. Tio lumas sufiĉe el la leteroj, kiujn li foje
+skribas al mi.
+
+BORKMAN
+Sekve estas por serĉi lin hejmen al vi, ke vi venas ĉi tien?
+
+ELLA RENTHEJM
+Jes, se _tio_ estus farebla, mi —!
+
+BORKMAN
+Farebla tio ja estas, se vi nepre volas. Ĉar _vi_ havas ja la pli
+grandan kaj unuan postulon pri li.
+
+ELLA RENTHEJM
+Nu, postulo, postulo! Kion valoras postuloj ĉi tie? Se li ne venas
+libervole, — mi tute ne havas lin. Kaj estas _tio_, kion mi devas!
+Tuta kaj ne partigita devas mi nun havi la koron de mia infano!
+
+BORKMAN
+Vi devas memori, ke Erhart estas en la aĝo de dudekoj. Longe vi ne
+povus kalkuli reteni lian koron ne partigita, kiel vi esprimas
+vin.
+
+ELLA RENTHEJM
+(kun peza rideto) Ne necesus daŭri tre longe.
+
+BORKMAN
+Ĉu ne? Mi pensis, ke tio kion vi postulas, tion vi postulas ĝis la
+fino de viaj tagoj.
+
+ELLA RENTHEJM
+Mi faras. Sed tamen tio ne bezonas daŭri tre longe.
+
+BORKMAN
+(ekmiras) Kion vi diras per tio?
+
+ELLA RENTHEJM
+Vi ja scias, ke mi estas malsana la lastajn jarojn?
+
+BORKMAN
+Ĉu _vi_?
+
+ELLA RENTHEJM
+Vi tion ne scias?
+
+BORKMAN
+Ne, vere ne —
+
+ELLA RENTHEJM
+(rigardas lin en surprizo) Ĉu Erhart ne rakontis tion?
+
+BORKMAN
+En la momento mi vere tion ne memoras.
+
+ELLA RENTHEJM
+Entute li eble ne parolis pri mi?
+
+BORKMAN
+Jes, paroli pri vi mi pensas, ke li tamen faris. Cetere mi malofte
+vidas lin. Preskaŭ neniam. Estas iu malsupre, kiu tenas lin for de
+mi. For, for, vi komprenas.
+
+ELLA RENTHEJM
+Ĉu vi scias tion certe, Borkman?
+
+BORKMAN
+Jes certe mi scias. (ŝanĝas voĉtonon) Nu, sed vi do estis malsana,
+Ella?
+
+ELLA RENTHEJM
+Jes, mi estis. Kaj nun ĉi-aŭtune ĝi tiom graviĝis, ke mi devis
+veni ĉi tien por paroli kun kuracistoj, kiuj estas pli lertaj.
+
+BORKMAN
+Kaj vi eble jam parolis kun ili?
+
+ELLA RENTHEJM
+Jes, hodiaŭ antaŭtagmeze.
+
+BORKMAN
+Kion ili do diris?
+
+ELLA RENTHEJM
+Ili donis al mi plenan certecon pri _tio_, kion mi longe scietis —
+
+BORKMAN
+Nu?
+
+ELLA RENTHEJM
+(simple kaj trankvile) Estas mortiga malsano, kiun mi portas,
+Borkman.
+
+BORKMAN
+Ho, vi do ne kredu tion, Ella!
+
+ELLA RENTHEJM
+Estas malsano por kiu ne ekzistas iu helpo aŭ savo, vi sciu. La
+kuracistoj scias pri neniu rimedo kontraŭ ĝi. Ili devas lasi ĝin
+iri sian vojon. Povas nenion fari por haltigi ĝin. Nur iomete
+mildigi, eble. Kaj _tio_ ja tamen estas bona.
+
+BORKMAN
+Ho, sed povas ankoraŭ longe daŭri, — vi fidu min.
+
+ELLA RENTHEJM
+Povas eble daŭri tra la vintro, ili diris.
+
+BORKMAN
+(senpripense) Nu jes, — la vintro ja estas longa, ĝi.
+
+ELLA RENTHEJM
+(silente) Ĝi almenaŭ estas sufiĉe longa por mi.
+
+BORKMAN
+(vigle, deturnante) Sed, je la mondo, el kio povus tiu malsano
+evolui? Vi, kiu ja efektive vivis sane kaj saĝe —? El kio ĝi
+venus?
+
+ELLA RENTHEJM
+(rigardas lin) La kuracistoj pensis, ke eble mi iam travivis grandajn
+animskuiĝojn.
+
+BORKMAN
+(ekflamiĝante) Animskuiĝojn! Aha, mi komprenas! Estus _mi_, kiu
+kulpus!
+
+ELLA RENTHEJM
+(en kreskanta ekscito) Estas tro malfrue _tion_ priparoli nun! Sed mi
+_devas_ reenhavi la solaninfanon de mia koro, antaŭ ol mi forpasos!
+Estas tiel nedireble peze por mi pensi pri tio, ke mi forlasu ĉion,
+kio estas vivo, — forlasi sunon kaj lumon kaj aeron, sen _ĉi tie_
+postlasi unu solan, kiu volus pensi pri mi, memori min varme kaj
+sopireme, — tiel kiel filo pensas kaj memoras la patrinon, kiun li
+perdis.
+
+BORKMAN
+(post mallonga paŭzo) Prenu lin, Ella, — se vi povos gajni lin.
+
+ELLA RENTHEJM
+(vigle) Vi donas vian konsenton? Ĉu vi _povas?_
+
+BORKMAN
+(sombre) Jes. Kaj tio ne estas granda ofero, vi sciu. Ĉar mi tamen
+ne posedas lin.
+
+ELLA RENTHEJM
+Dankon, dankon almenaŭ por la ofero! — Sed mi havas ankoraŭ ion
+por peti vin. Grandan aferon por _mi_, Borkman.
+
+BORKMAN
+Nu, do diru.
+
+ELLA RENTHEJM
+Vi eble trovos tion infanece de mi, — eble vi ne komprenos —
+
+BORKMAN
+Ekdiru, — nu do diru.
+
+ELLA RENTHEJM
+Kiam mi nun forpasos, ne estos malmulto, kion mi postlasos —
+
+BORKMAN
+Ne, eble ne estos —
+
+ELLA RENTHEJM
+Kaj mi intencas transporti ĉion al Erhart.
+
+BORKMAN
+Jes, vi ja vere ne havas iun pli proksiman.
+
+ELLA RENTHEJM
+(varme) Ne, mi efektive havas neniun pli proksiman ol lin.
+
+BORKMAN
+Neniun el via propra parencaro. Vi estas la lasta.
+
+ELLA RENTHEJM
+(kapsignas malrapide) Jes, tiel ĝuste estas. Kiam mi mortos, — tiam
+ankaŭ mortos la nomo Renthejm. Kaj tio estas por mi sufokanta penso.
+Neniiĝi el la estado — eĉ la nomo —
+
+BORKMAN
+(ekscitas) Hah, — mi vidas kien vi celas!
+
+ELLA RENTHEJM
+(pasie) Ne lasu tion okazi! Permesu al Erhart porti la nomon post
+mi!
+
+BORKMAN
+(rigardas ŝin akre) Mi komprenas vin. Vi volas liberigi mian filon
+de la ŝarĝo porti la nomon de sia patro. Jen la afero.
+
+ELLA RENTHEJM
+Neniel tio! Mi mem spite kaj ĝoje portus ĝin kune kun vi! Sed
+patrino, kiu baldaŭ mortos —. Nomo ligas pli ol vi pensas kaj
+scias, Borkman.
+
+BORKMAN
+(malvarme kaj fiere) Bone kaj mallonge, Ella. Mi estu viro por porti
+mian nomon sola.
+
+ELLA RENTHEJM
+(kaptas kaj premas liajn manojn) Dankon, dankon! Nun estas plenumita
+reguligo inter ni! Jes, jes, lasu nun tion! Vi bonfaris kion vi
+povis. Ĉar kiam _mi_ estas for el la vivo, Erhart Renthejm vivos
+post mi!
+
+(La tapetpordo malfermiĝas. _Sinjorino Borkman_ kun la granda
+tuko sur la kapo, staras en la pordaperturo.)
+
+SINJORINO BORKMAN
+(en furioza ekscito) Neniam en eterneco Erhart estu nomata tiel!
+
+ELLA RENTHEJM
+(retiras sin malantaŭen) Gunhild!
+
+BORKMAN
+(akre kaj minace) Supren ĉi tien al mi, neniu havas permeson
+veni!
+
+SINJORINO BORKMAN
+(paŝon internen) Mi prenas al mi tiun permeson.
+
+BORKMAN
+(kontraŭ ŝin) Kion vi volas al mi?
+
+SINJORINO BORKMAN
+Mi volas lukti kaj batali por vi. Defendi vin kontraŭ malbonaj
+potencoj.
+
+ELLA RENTHEJM
+La plej malbonaj potencoj estas en vi mem, Gunhild!
+
+SINJORINO BORKMAN
+(malmole) Lasu tion kiel estas. (minace, kun levita brako) Sed _tion_
+mi diras, — la patran nomon li portu! Kaj portu ĝin alte antaŭen
+al nova honoro! Kaj mi sola volas esti lia patrino! Mi sola! Al mi
+sola estu la koro de mia filo. Al mi kaj al neniu alia.
+
+(Ŝi eliras per la tapetpordo kaj fermas post si.)
+
+ELLA RENTHEJM
+(skuita kaj ekscitita) Borkman, — Erhart pereos en tiu ĉi
+veteraĉo. Devas okazi kompreno inter vi kaj Gunhild. Ni devas tuj
+iri malsupren al ŝi.
+
+BORKMAN
+(rigardas ŝin) Ni? Ankaŭ mi, vi pensas?
+
+ELLA RENTHEJM
+Kaj vi kaj mi.
+
+BORKMAN
+(skuas la kapon) Ŝi estas malmola, sciu. Malmola kiel la erco, kiun
+mi iam revis rompi el la montoj.
+
+ELLA RENTHEJM
+Do provu tion nun!
+
+BORKMAN
+(ne respondas; necerta; staras ŝin rigardante)
+
+
+
+
+TRIA AKTO
+
+
+(La sidĉambro de _sinjorino Borkman._ La lampo daŭre lumas
+antaŭ la kanapotablo. Ene en la ĝardena ĉambro estas estingite kaj
+mallume.)
+
+(_Sinjorino Borkman_, kun tuko sur la kapo, envenas en intensa,
+interna impeto tra la antaŭĉambra pordo, iras al la fenestro kaj
+tiras la kurtenon iom flanken; poste ŝi iras al la kahelforno kaj
+eksidas, sed baldaŭ eksaltas kaj iras por tiri la sonorigŝnuron.
+Staras apud la kanapo atendante. Neniu venas. Poste ŝi denove
+sonorigas; ĉi tiun fojon pli impete.)
+
+(Iom poste envenas la _ĉambristino_ el la antaŭa ĉambro. Ŝi
+aspektas malbonhumore kaj dormeme, kaj aspekte ŝi vestis sin en tuta
+rapideco.)
+
+SINJORINO BORKMAN
+(senpacience) Kie vi do estas, Malene? Jen mi sonorigis du
+fojojn!
+
+ĈAMBRISTINO
+Jes, sinjorino, mi ja aŭdis.
+
+SINJORINO BORKMAN
+Kaj vi tamen ne venas.
+
+ĈAMBRISTINO
+(malgajhumora) Unue mi devus ja surmeti kelkajn vestaĵojn, mi
+scias.
+
+SINJORINO BORKMAN
+Jes. Vi devas vesti vin konvene. Kaj vi tuj kuru por serĉi mian
+filon.
+
+ĈAMBRISTINO
+(rigardas ŝin en surprizo) Ĉu mi serĉu la studenton?
+
+SINJORINO BORKMAN
+Jes, vi nur diru, ke li tuj revenu al mi, ĉar mi volas paroli kun
+li.
+
+ĈAMBRISTINO
+(acide grumblante) Do pli bone ke mi veku la veturigiston ĉe la
+administranto.
+
+SINJORINO BORKMAN
+Kial tio?
+
+ĈAMBRISTINO
+Por ke li jungu antaŭ la sledo. Tia terura, neĝa vetero kia estas
+ĉi-vespere.
+
+SINJORINO BORKMAN
+Ho, tio ne gravas. Nur rapidiĝu! Estas ja tute proksime trans la
+angulo.
+
+ĈAMBRISTINO
+Tamen, sinjorino, ja ne estas tuj ĉe la angulo, tio.
+
+SINJORINO BORKMAN
+Jes, efektive estas. Ĉu vi ne scias, kie situas la vilao de advokato
+Hinkels?
+
+ĈAMBRISTINO
+(moke) Ho ĉu, estas _tie_, ke la studento estas ĉi-vespere?
+
+SINJORINO BORKMAN
+(ekmiras) Jes, kie li alie estus?
+
+ĈAMBRISTINO
+(formas iun rideton) Ne, mi nur pensis, ke li estas kie li kutimas,
+mi.
+
+SINJORINO BORKMAN
+Kie, vi pensas.
+
+ĈAMBRISTINO
+Ĉe tiu sinjorino Wilton, kiel oni nomas ŝin.
+
+SINJORINO BORKMAN
+Sinjorino Wilton? Mia filo ja ne tiel ofte kutimas fari vizitojn
+_tie._
+
+ĈAMBRISTINO
+(duone murmurante) Ŝajne ili diras, ke li venas tien ĉiutage.
+
+SINJORINO BORKMAN
+Estas nur babilaĵo, Malene. Nun do, iru al advokato Hinkels, kaj
+serĉu lin.
+
+ĈAMBRISTINO
+(rektigas la nukon) Jes, je Dio; mi do iros.
+
+(Ŝi volas eliri tra la antaŭĉambro. En la sama momento tiu
+pordo malfermiĝas. _Ella Renthejm_ kaj _Borkman_ aperas sur la
+sojlo.)
+
+SINJORINO BORKMAN
+(ŝancelas paŝon malantaŭen) Kion tio ĉi signifu!
+
+ĈAMBRISTINO
+(timigita, senpere plektas la manojn) Ho Jesuo do!
+
+SINJORINO BORKMAN
+(flustras al la _ĉambristino_) Diru, ke li venu tujtuje!
+
+ĈAMBRISTINO
+(mallaŭte) Jes ja, sinjorino.
+
+(_Ella Renthejm_ kaj, post ŝi, _Borkman_ venas en la ĉambron. La
+_ĉambristino_ ŝteliras malantaŭ ili tra la pordo kaj fermas post
+si.)
+
+(Mallonga paŭzo.)
+
+SINJORINO BORKMAN
+(denove sinrega, turnas sin al _Ella_) Kion li volas ĉi tie malsupre
+ĉe mi?
+
+ELLA RENTHEJM
+Li volas provi atingi al iu kompreno kun vi, Gunhild.
+
+SINJORINO BORKMAN
+Tion li neniam antaŭe provis.
+
+ELLA RENTHEJM
+Ĉi-vespere li volas.
+
+SINJORINO BORKMAN
+La lastan fojon kiam ni staris vidalvide — estis en la tribunalo.
+Tiam mi alvokiĝis por doni klarigon —
+
+BORKMAN
+(proksimiĝas) Kaj ĉi-vespere estas _mi_, kiu volas doni
+klarigon.
+
+SINJORINO BORKMAN
+(rigardas lin) _Vi!_
+
+BORKMAN
+Ne pri tio, kion mi krimis. Ĉar _tion_ konas ja la tuta mondo.
+
+SINJORINO BORKMAN
+(tiras amaran sopiron) Jes, estas vera vorto. La tuta mondo konas
+tion.
+
+BORKMAN
+Sed ĝi ne scias _kial_ mi krimis. Kial mi _devis_ krimi. La homoj ne
+komprenas, ke mi _devis_, ĉar mi estis mi mem, — mi estis John
+Gabriel Borkman, — kaj neniu alia. Kaj estas pri _tio_, ke mi provos
+doni al vi klarigon.
+
+SINJORINO BORKMAN
+(skuas la kapon) Ne utilas. Instigoj neniun absolvas. Impulsoj ankaŭ
+ne.
+
+BORKMAN
+En propraj okuloj ili povas absolvi.
+
+SINJORINO BORKMAN
+(repuŝe svingas la manon) Ho, lasu tion! Mi sufiĉe pensis pri tiuj
+viaj sombraj aferoj.
+
+BORKMAN
+Ankaŭ mi. Dum la kvin senfinaj jaroj en la ĉelo — kaj aliloke —
+mi havis tempon por tio. Kaj en la ok jaroj supre en la salono mi
+havis ankoraŭ pli bonan tempon. Mi trapasis la tutan proceson por
+nova traktado — por mi mem. Fojon post fojo mi trapasis ĝin. Mi
+estis mia propra akuzanto, mia propra defendanto kaj mia propra
+juĝisto. Pli nepartia ol kiu ajn alia, — tion mi kuraĝas diri. Mi
+paŝadis tie supre sur la salona planko kaj turnis kaj renversis
+ĉiun opan el miaj faroj. Rigardis ilin de antaŭe kaj malantaŭe
+same senindulge, same senkompateme, kiel kiu ajn advokato. Kaj la
+jura rezulto al kiu mi ĉiam revenas, estas _tiu_, ke la sola
+kontraŭ kiu mi krimis, — estas mi mem.
+
+SINJORINO BORKMAN
+Kaj ĉu do kontraŭ mi? Kaj kontraŭ via filo?
+
+BORKMAN
+Vi kaj li enteniĝas en tio, pri kio mi pensas, kiam mi diras mi
+mem.
+
+SINJORINO BORKMAN
+Kaj la multaj centoj da aliuloj, do? Tiuj, kiujn homoj diras, ke vi
+ruinigis?
+
+BORKMAN
+(pli impete) Mi havis la potencon! Kaj aldone la nesubigeblan vokon
+ene en mi tiam! La ligitaj milionoj kuŝis dise en la lando, profunde
+en la montoj, kaj vokis min! Kriis al mi por liberigo! Sed neniu el
+la aliuloj aŭdis tion. Nur mi sola.
+
+SINJORINO BORKMAN
+Jes, por brulstampo por la nomo Borkman.
+
+BORKMAN
+Mi dezirus scii, mi, se la aliuloj havus la potencon, ĉu ili ne agus
+ĝuste kiel mi?
+
+SINJORINO BORKMAN
+Neniu, neniu krom vi farus tion.
+
+BORKMAN
+Eble ne. Sed tiam estus tial, ĉar ili ne havus talentojn kiel mi.
+Kaj se ili _estus_ tion farinta, ili ne tion farus kun _miaj_ celoj.
+La ago tiuokaze fariĝus iu alia. — Bone kaj mallonge, mi absolvis
+min mem.
+
+ELLA RENTHEJM
+(mole kaj pete) Ho, sed ĉu vi kuraĝas diri tion tiel sekure,
+Borkman?
+
+BORKMAN
+(kapsignas) Absolvis min _tiurilate._ Sed jen venas la granda,
+premanta memkulpigo.
+
+SINJORINO BORKMAN
+Kiu estas _ĝi_?
+
+BORKMAN
+Mi pasigis tie supre forĵetante tute ok valorajn jarojn de mia vivo!
+La saman tagon kiam mi liberiĝis, mi estus devinta eliri en la
+realan vivon, — elen en la feromalmolan, senrevigan realecon! Mi
+estus devinta komenci de malsupre kaj denove svingi min al la
+altejoj, — pli alten ol iam antaŭe, — spite al tio, kio kuŝas
+intermeze.
+
+SINJORINO BORKMAN
+Ho, fariĝus nur vivi la saman vivon denove, — kredu min.
+
+BORKMAN
+(skuas la kapon, kaj rigardas ŝin instrue) Nenio nova okazos. Sed
+_tio_ kio _estas okazinta_, tio ankaŭ ne ripetiĝas. Estas la okulo,
+kiu ŝanĝas la agon. La renaskita okulo ŝanĝas la malnovan agon.
+(interrompante) Nu, tion vi ne komprenas.
+
+SINJORINO BORKMAN
+(mallonge) Ne, tion mi ne komprenas.
+
+BORKMAN
+Ne, _tio_ estas ĝuste la kondamno, ke mi neniam trovis komprenon ĉe
+unu sola homa animo.
+
+ELLA RENTHEJM
+(rigardas lin) Neniam, Borkman?
+
+BORKMAN
+Escepte ĉe unu — eble. Antaŭ longe, longe. En la tagoj kiam mi
+pensis, ke mi ne bezonas komprenon. Alie, poste, neniam ĉe iu ajn!
+Neniun havis mi, por esti sufiĉe atentema por ekstari kaj voki min,
+— sonorigi por mi kiel matena horloĝo, — instigi min al memfida
+laboro denove —.Kaj ankaŭ presi en min, ke mi nenion neripareblan
+estas farinta.
+
+SINJORINO BORKMAN
+(ridas moke) Nu, _tion_ vi tamen bezonas esti enpresinta de
+ekstere.
+
+BORKMAN
+(en ŝvelanta kolero) Jes, kiam la tuta mondo ĥore siblas, ke mi
+estas tia nerestarigebla persono, povas veni momentoj super min, kiam
+mi mem estas proksima al tion kredi. (levas la kapon) Sed jen denove
+kreskas mia interna, venkanta konscio. Kaj _ĝi_ absolvas min!
+
+SINJORINO BORKMAN
+(rigardas lin malmole) Kial vi neniam venis al _mi_ por demandi pri
+tio kion vi nomas kompreno?
+
+BORKMAN
+Ĉu utilus — se mi estus veninta al vi?
+
+SINJORINO BORKMAN
+(svingas la manon rifuzante) Vi neniam amis ion ekster vi mem, —
+_tio_ estas la kerno en la tuto.
+
+BORKMAN
+(fiere) Mi amis la potencon —
+
+SINJORINO BORKMAN
+La potencon, jes!
+
+BORKMAN
+— la potencon krei homan feliĉon vaste, vaste ĉirkaŭ mi!
+
+SINJORINO BORKMAN
+Vi iam havis potencon fari _min_ feliĉa. Ĉu vi uzis ĝin por
+tio?
+
+BORKMAN
+(sen ŝin rigardante) Plej ofte kelkiuj subfalas — en
+ŝiprompiĝo.
+
+SINJORINO BORKMAN
+Kaj via propra filo! Ĉu vi uzis vian potencon — aŭ ĉu vi vivis
+kaj agis por fari _lin_ feliĉa?
+
+BORKMAN
+Lin mi ne konas.
+
+SINJORINO BORKMAN
+Ne, tio estas vero. Vi eĉ ne konas lin.
+
+BORKMAN
+(malmole) Por tio vi, — vi, lia patrino, prizorgis.
+
+SINJORINO BORKMAN
+(rigardas lin; kun alteco en la esprimo) Ho, vi ne scias, kion _mi_
+prizorgis.
+
+BORKMAN
+Vi?
+
+SINJORINO BORKMAN
+Jes, ĝuste mi. Mi sola.
+
+BORKMAN
+Do diru.
+
+SINJORINO BORKMAN
+Vian reputacion mi prizorgis.
+
+BORKMAN
+(kun mallonga, seka rido) Mia reputacio? Jen, jen! Aspektas ja
+kvazaŭ mi jam estus morta.
+
+SINJORINO BORKMAN
+(akcentite) Tia vi ja estas.
+
+BORKMAN
+(malrapide) Jes, vi eble pravas en tio. (ekscite) Sed ne, ne! Ne
+ankoraŭ! Mi estis tiel proksima, proksima al tio. Sed nun mi
+vekiĝis. Saniĝis denove. Atendas ankoraŭ vivo antaŭ mi. Mi povas
+vidi tiun novan, lumantan vivon, kiu fermentas kaj atendas — Kaj
+certe ankaŭ vi vidos tion.
+
+SINJORINO BORKMAN
+(suprenlevas la manon) Ne revu pli pri vivo! Tenu vin trankvila, tie
+kie vi kuŝas!
+
+ELLA RENTHEJM
+(indigne) Gunhild! Gunhild, — kiel vi do povas voli —!
+
+SINJORINO BORKMAN
+(ne ŝin aŭskultante) Mi volas starigi la monumenton sur la
+tombon.
+
+BORKMAN
+La hontomonumenton vi certe pripensas.
+
+SINJORINO BORKMAN
+(kreskanta animskuiĝo) Ho ne, ne estu iu monumento el ŝtono aŭ
+metalo. Kaj neniu ekhavu la rajton gravuri mokeman enskribaĵon en la
+monumenton, kiun mi starigos. Tie estos plantata kvazaŭ aro da
+vivanta heĝo, el arboj kaj arbustoj dense, dense ĉirkaŭ via tomba
+vivo. Tie kovriĝos ĉio la malluma, kiu iam _estis_. Kaŝiĝos en
+forgeso por la okuloj de la homoj John Gabriel Borkman.
+
+BORKMAN
+(raŭke kaj tranĉe) Kaj _tiun_ amoverkon _vi_ volas plenumi?
+
+SINJORINO BORKMAN
+Ne per propraj fortoj. Pri tio mi ne kuraĝas pensi. Sed mi edukis
+helpanton por meti sian vivon sole en tion ĉi. _Li_ trapasu sian
+vivon en pureco kaj alteco kaj lumo, tiel ke via propra mineja vivo
+fariĝos kvazaŭ estingita ĉi tie supre sur la tero!
+
+BORKMAN
+(sombre kaj minace) Ĉu al Erhart vi aludas, do diru tuj.
+
+SINJORINO BORKMAN
+(lin rigardante firme en la okulojn) Jes, estas Erhart. Mia filo. Li,
+pri kiu vi volas rezigni — kiel pentofaro por viaj propraj agoj.
+
+BORKMAN
+(kun okulĵeto al _Ella_) Kiel pentofaro por mia plej peza peko.
+
+SINJORINO BORKMAN
+(rifuzante) Peko kontraŭ fremdulo nur. Memoru la pekon kontraŭ
+_mi_! (rigardas moke al ili ambaŭ) Sed li ne obeas vin! Kiam mi
+vokos lin en mia mizero, li venos! Ĉar estas ĉe _mi_ ke li volas
+esti! Ĉe mi kaj neniam ĉe iu alia — (subite aŭskultas kaj krias)
+Jen mi aŭdas lin. Jen li estas, — jen li estas! Erhart!
+
+(_Erhart Borkman_ abrupte malferma tiras la enirejan pordon, kaj
+venas en la ĉambron. Li estas vestita en surtuto kaj havas ĉapelon
+sur la kapo.)
+
+ERHART
+(pala kaj timema) Panjo do, — kio je Dio —!
+
+(Li vidas _Borkman_, kiu staras apud la pordo de la ĝardena
+ĉambro, skuiĝas kaj deprenas la ĉapelon.)
+
+ERHART
+(silentas momenton; poste li demandas:) Kion vi do volas al mi,
+panjo? Kio okazis?
+
+SINJORINO BORKMAN
+(vaste etendas la brakojn al li) Mi volas vidi vin, Erhart! Mi volas
+havi vin ĉe mi — ĉiam!
+
+ERHART
+(balbutante) Havi min —? Ĉiam! Al kio vi aludas per tio?
+
+SINJORINO BORKMAN
+Havi vin, havi vin, mi volas! Ĉar estas iuj, kiuj volas preni vin
+for de mi!
+
+ERHART
+(cedas paŝon) Ah, — vi do scias!
+
+SINJORINO BORKMAN
+Jes. Ĉu ankaŭ _vi_ scias.
+
+ERHART
+(ekmiras kaj rigardas ŝin) Ĉu _mi_ scias? Jes, kompreneble —
+
+SINJORINO BORKMAN
+Aha, interkonsentita ludo! Malantaŭ mia dorso. Erhart, Erhart!
+
+ERHART
+(rapide) Panjo, diru kio estas, kion vi scias!
+
+SINJORINO BORKMAN
+Mi scias ĉion. Mi scias, ke via onklino estas veninta por forpreni
+vin de mi.
+
+ERHART
+Onklino Ella!
+
+ELLA RENTHEJM
+Ho, aŭskultu nun iomete _min_, Erhart!
+
+SINJORINO BORKMAN
+(daŭrante) Ŝi volas, ke mi cedu vin al ŝi. Ŝi volas esti por vi
+en la loko de patrino, Erhart! Ŝi volas, ke vi estu ŝia filo kaj ne
+la mia de nun. Volas ke vi heredu ĉion post ŝi. Demeti vian nomon,
+kaj anstataŭe preni la ŝian!
+
+ERHART
+Onklino Ella, ĉu tio ĉi estas vero?
+
+ELLA RENTHEJM
+Jes, estas vero.
+
+ERHART
+Mi sciis eĉ ne vorton pri tiaĵo antaŭ nun. Kial volas vi havi min
+reen al vi?
+
+ELLA RENTHEJM
+Ĉar mi sentas, ke mi perdas vin ĉi tie.
+
+SINJORINO BORKMAN
+(malmole) Pro _mi_ vi perdas lin — jes! Kaj tio estas en ordo,
+tio.
+
+ELLA RENTHEJM
+(rigardas lin pete) Erhart, mi ne povas elteni perdi vin. Ĉar sciu,
+ke mi estas soleca, — mortanta homo.
+
+ERHART
+Mortanta —?
+
+ELLA RENTHEJM
+Jes, mortanta. Ĉu vi volas esti kun mi ĝis la fino? Ligi vin tute
+al mi? Esti por mi, kvazaŭ vi estus mia propra infano —
+
+SINJORINO BORKMAN
+(interrompante) — kaj perfidi vian patrinon kaj eble ankaŭ vian
+taskon en la vivo? Ĉu vi tion volas, Erhart?
+
+ELLA RENTHEJM
+Mi estas kondamnita al forpaso. Respondu al mi, Erhart.
+
+ERHART
+(varme; kortuŝite) Onklino Ella, — vi estis al mi nedireble bona.
+Ĉe vi eblis por mi elkreski en la plej plena, senzorga sento de
+feliĉo, kiun mi kredas, ke povas esti en la vivo de iu infano —
+
+SINJORINO BORKMAN
+Erhart, Erhart!
+
+ELLA RENTHEJM
+Ho, kiel benate, ke vi povas tion vidi tiel ankoraŭ!
+
+ERHART
+— sed mi ne povas oferi min por vi nun. Neeblas por mi tiel tute kaj
+plene fariĝi kiel filo por vi —
+
+SINJORINO BORKMAN
+(triumfe) Ha, mi ja sciis! Vi ne ricevos lin! Vi ne ricevos lin,
+Ella!
+
+ELLA RENTHEJM
+(peze) Mi vidas. Vi regajnis lin.
+
+SINJORINO BORKMAN
+Jes, jes, — mia li estas, kaj mia li restas! Erhart, — ĉu ne,
+filo, — ni du havas ankoraŭ iom da vojo por iri kune, ni.
+
+ERHART
+(luktanta kun si mem) Panjo, — mi tamen diru al vi malkaŝe —
+
+SINJORINO BORKMAN
+(streĉe) Nu?
+
+ERHART
+Fariĝos tamen nur mallonga vojo, kiun mi iros kune kun vi,
+panjo.
+
+SINJORINO BORKMAN
+(staras kiel frapita) Kion vi aludas per tio?
+
+ERHART
+(prenante kuraĝon) Je Dio, panjo, — mi estas ja juna! Sentiĝas al
+mi, ke la ĉambra aero ĉi tie fine tute sufokus min.
+
+SINJORINO BORKMAN
+Ĉi tie — ĉe mi!
+
+ERHART
+Jes, ĉi tie ĉe vi, panjo!
+
+ELLA RENTHEJM
+Do venu kun mi, Erhart!
+
+ERHART
+Ho, onklino Ella, ne estas hareton pli bone ĉe vi. Estas alimaniere
+_tie_. Sed _tamen_ ne pli bone. Ne pli bone por _mi_. Estas rozoj kaj
+lavendoj, — ĉambra aero, ankaŭ tie!
+
+SINJORINO BORKMAN
+(skuita, sed kun batalakirita memrego) Ĉambra aero ĉe via patrino,
+vi diras!
+
+ERHART
+(en kreskanta senpacienco) Jes, mi ne scias kiel alie nomi tion.
+Ĉiun tiun malsanecan zorgon kaj — kaj diigon — aŭ kio ĝi estas.
+Mi ne eltenas tion pli longe!
+
+SINJORINO BORKMAN
+(rigardas lin profunde serioze) Ĉu vi forgesas al kio vi dediĉis
+vian vivon, Erhart?
+
+ERHART
+(ekkrie) Ho, diru prefere al kio _vi_ dediĉis mian vivon! Vi, vi
+estis mia volo! Mi mem neniam rajtis havi iun! Sed nun mi _ne povas_
+plu porti tiun jugon! Mi estas juna! Memoru bone tion, patrino! (kun
+ĝentila, indulgema rigardo al _Borkman_) Mi ne povas dediĉi mian
+vivon al pentofaro por iu alia. Kiu ajn kiu tiu aliulo estus.
+
+SINJORINO BORKMAN
+(kaptita de kreskanta timo) Kiu estas tiu, kiu ŝanĝis vin,
+Erhart?
+
+ERHART
+(trafita) Kiu —? Ĉu ne povus esti mi mem, kiu —?
+
+SINJORINO BORKMAN
+Ne, ne, ne! Vi estas veninta sub fremdajn potencojn. Vi ne plu estas
+sub tiu de via patrino. Kaj ankaŭ ne sub tiu de via — via nutra
+patrino.
+
+ERHART
+(kun aldevigita spito) Mi estas sub mia propra potenco, mi, panjo!
+Kaj ankaŭ sub mia propra volo!
+
+BORKMAN
+(antaŭen al _Erhart_) Do eble fine venis mi en la vico.
+
+ERHART
+(fremde kaj formale ĝentile) Kiel —? Kiel patro opinias?
+
+SINJORINO BORKMAN
+(moke) Jes, pri tio ankaŭ mi demandas.
+
+BORKMAN
+(daŭrigante seninterrompe) Aŭskultu, Erhart, — ĉu vi do volas iri
+kun via patro? Ne estas tra la vivoago de aliulo, ke homo povas trovi
+restarigon por sia falo. Tiaĵo estas nur vanaj revoj, pri kiuj
+fabeliĝis por vi — ĉi tie malsupre en la ĉambra aero. Eĉ se vi
+volus aranĝi vian vivon por vivi kiel ĉiuj la sanktuloj kune — tio
+nenion utilus al mi.
+
+ERHART
+(formale; respekte) Estas vero kiel dirite.
+
+BORKMAN
+Jes, estas. Kaj ankaŭ ne utilus, se mi min fordonus al velko en
+pentofaro kaj rompanta humiligo. Mi provis helpi min trae per revoj
+kaj espero — en ĉiuj tiuj ĉi jaroj. Sed tiaĵo ne taŭgas por mi.
+Kaj nun mi volas elen el la revoj.
+
+ERHART
+(kapklinas facile) Kaj kion volas — kion volas do patro fari?
+
+BORKMAN
+Restarigi min mem, mi volas. Rekomenci de malsupre. Estas nur per sia
+nuntempo kaj sia venonta tempo ke homo povas pentofari por la
+pasinteco. Tra laboro, — tra senĉesa laboro por ĉio tio, kio en la
+juneco staris por mi kiel la vera vivo. Sed _nun_ milfojojn pli alte
+ol tiam. Erhart, — ĉu vi volas esti kun mi, kaj helpi min pri tiu
+ĉi nova vivo?
+
+SINJORINO BORKMAN
+(averte levas la manon) Ne faru, Erhart!
+
+ELLA RENTHEJM
+(varme) Jes, jes, faru! Ho, helpu lin, Erhart!
+
+SINJORINO BORKMAN
+Kaj al _tio vi_ konsilas? Vi, la soleca, — la mortanta.
+
+ELLA RENTHEJM
+Estu sensignife pri mi.
+
+SINJORINO BORKMAN
+Jes, se nur ne estas _mi_, kiu prenas lin de vi.
+
+ELLA RENTHEJM
+Ĝuste tiel, Gunhild.
+
+BORKMAN
+Ĉu vi volas. Erhart?
+
+ERHART
+(en embarasa ĝemo) Patro, — mi ne povas nun. Estas tute neeble!
+
+BORKMAN
+Sed kion vi do fine volas?
+
+ERHART
+(ekflamante) Mi estas juna! Mi volas fojon vivi la vivon ankaŭ mi!
+Mian propran vivon volas mi vivi!
+
+ELLA RENTHEJM
+Ne volas oferi kelkajn mallongajn monatojn por lumigi por povra,
+estingiĝanta homa vivo?
+
+ERHART
+Onklino, mi ne _povas_, eĉ se mi ege volus.
+
+ELLA RENTHEJM
+Ne por iu, kiu nedireble amas vin?
+
+ERHART
+Vere kiel mi vivas, onklino Ella, — mi ne povas.
+
+SINJORINO BORKMAN
+(rigardas lin akre) Kaj eĉ via patrino ne plu ligas vin nun.
+
+ERHART
+Mi ĉiam volas ami vin, panjo. Sed mi ne povas daŭre vivi por vi
+sola. Ĉar ne estas vivo por mi, tio ĉi.
+
+BORKMAN
+Do venu tamen ligi vin al mi! Ĉar vivo, tio estas laboro, tio,
+Erhart. Venu, kaj ni du eliru en la vivon por labori kune!
+
+ERHART
+(pasie) Jes, sed mi ne _volas_ labori _nun_! Ĉar mi estas _juna_!
+Neniam mi sciis ke mi tia estas. Sed nun _mi_ tion sentas fluanta
+varme tra mi. Mi ne _volas_ labori! Nur vivi, vivi, vivi!
+
+SINJORINO BORKMAN
+(kun scietanta ekkrio) Erhart, — por kio volas vi vivi!
+
+ERHART
+(kun brilaj okuloj) Por la feliĉo, panjo!
+
+SINJORINO BORKMAN
+Kaj kie vi pensas trovi _ĝin_?
+
+ERHART
+Mi jam _trovis_ ĝin!
+
+SINJORINO BORKMAN
+(ekkrias) Erhart —!
+
+(_Erhart_ iras rapide kaj malfermas la antaŭĉambran pordon.)
+
+ERHART
+(vokas eksteren) Fanny, — nun vi povas enveni!
+
+(_Sinjorino Wilton_ en supervestaĵoj, aperas sur la sojlo.)
+
+SINJORINO BORKMAN
+(kun plektitaj manoj) Sinjorino Wilton —!
+
+SINJORINO WILTON
+(iom timema; kun demanda rigardo al _Erhart_) Ĉu mi do —?
+
+ERHART
+Jes, nun vi povas enveni. Mi ĉion diris.
+
+(_Sinjorino Wilton_ envenas en la ĉambron. _Erhart_ fermas la
+pordon post ŝi. Ŝi klinas sin formale por _Borkman_, kiu mute
+resalutas.)
+
+(Mallonga paŭzo.)
+
+SINJORINO WILTON
+(kun mallaŭta, sed firma voĉo) La vorto do estas dirita. Kaj sekve
+mi ja povas scii, ke mi staras ĉi tie kiel iu, kiu okazigis grandan
+malfeliĉon en la domo.
+
+SINJORINO BORKMAN
+(malrapide; rigardas ŝin rigide) Vi frakasis la lastan restaĵon de
+tio, por kio mi povus vivi. (ekdire) Sed tio ĉi, — estas ja tamen
+tute neebla!
+
+SINJORINO WILTON
+Mi bone komprenas, ke ĝi aspektas al vi neeble, sinjorino
+Borkman.
+
+SINJORINO BORKMAN
+Jes, tion vi do povus diri al vi mem, ke estas neeble. Aŭ ĉu —?
+
+SINJORINO WILTON
+Mi prefere dirus, ke estas tute absurde. Sed tamen tiel estas.
+
+SINJORINO BORKMAN
+(turnas sin) Ĉu tio ĉi estas tute serioza, Erhart?
+
+ERHART
+Tio ĉi estas por mi la feliĉo, panjo. La tuta, granda, rava feliĉo
+de la vivo. Mi ne povas diri al vi ion alian.
+
+SINJORINO BORKMAN
+(al _sinjorino Wilton_; premante la manojn) Ho, kiel vi sorĉis kaj
+logis mian malfeliĉan filon!
+
+SINJORINO WILTON
+(kun fiera postĵeto de la kapo) Tion mi ne faris.
+
+SINJORINO BORKMAN
+Vi ne faris, ĉu vi diras!
+
+SINJORINO WILTON
+Ne. Mi nek sorĉis nek logis lin. Libervole Erhart venis al mi. Kaj
+libervole mi renkontis lin duonvoje.
+
+SINJORINO BORKMAN
+(rigardas ŝin moke de supre malsupren) Jes _vi_, jes! Tion mi vere
+kredas.
+
+SINJORINO WILTON
+(sinrege) Sinjorino Borkman, — ekzistas potencoj en la homa vivo,
+kiujn vi aspekte ne precipe konas.
+
+SINJORINO BORKMAN
+Kiuj potencoj, se mi kuraĝas demandi?
+
+SINJORINO WILTON
+La potencoj, kiuj ordonas al du homoj nerompeble — kaj senkonsidere
+kunligi siajn vivovojon.
+
+SINJORINO BORKMAN
+(ridetas) Mi kredis, ke vi jam _estas_ nerompeble ligita — al iu
+alia.
+
+SINJORINO WILTON
+(mallonge) Tiu alia forlasis min.
+
+SINJORINO BORKMAN
+Sed li tamen vivas, oni diras.
+
+SINJORINO WILTON
+Por _mi_ li estas morta.
+
+ERHART
+(insiste) Jes, patrino, por Fanny li estas morta. Kaj tiu alia ja
+tute ne koncernas min!
+
+SINJORINO BORKMAN
+(rigardas lin severe) Vi do scias, — tion pri la aliulo?
+
+ERHART
+Jes, panjo, mi scias tion tiel bone, tiel bone, ĉion!
+
+SINJORINO BORKMAN
+Kaj tamen tio ne koncernas vin, vi diras!
+
+ERHART
+(en rifuzanta orgojlo) Mi povas nur diri al vi, ke estas la feliĉo,
+kiun mi volas havi! Mi estas juna! Mi volas vivi, vivi, vivi!
+
+SINJORINO BORKMAN
+Jes, vi estas juna, Erhart. Tro juna por tio ĉi.
+
+SINJORINO WILTON
+(firme kaj serioze) Ne kredu ion alian, sinjorino Borkman, ol ke mi
+diris al li la samon. Ĉiujn rilatojn koncerne mian vivon, mi
+malkaŝe metis antaŭ lin. Ripete mi memorigis al li, ke mi havas sep
+jarojn pli ol li —
+
+ERHART
+(interrompante) Ho Fanny, — tion mi ja sciis antaŭe.
+
+SINJORINO WILTON
+— sed nenio, — nenio helpis.
+
+SINJORINO BORKMAN
+Nu? Ĉu ne? Kial vi do ne senpere rifuzis lin? Fermis vian domon por
+li? Jen vidu, _tion_ vi estus devinta fari entempe!
+
+SINJORINO WILTON
+(rigardas ŝin kaj diras mallaŭte) Tion mi efektive ne povis,
+sinjorino Borkman.
+
+SINJORINO BORKMAN
+Kial vi ne povis?
+
+SINJORINO WILTON
+Ĉar la feliĉo ankaŭ por mi nur estis en tio sola.
+
+SINJORINO BORKMAN
+(moke) Hm, — la feliĉo, la feliĉo —
+
+SINJORINO WILTON
+Mi neniam antaŭe sciis, kio feliĉo en la vivo estas. Kaj mi do ne
+povas rifuzi la feliĉon, kvankam ĝi venas tiel malfrue.
+
+SINJORINO BORKMAN
+Kaj kiom longe pensas vi ke tiu feliĉo daŭros.
+
+ERHART
+(interrompante) Longe aŭ mallonge, panjo, — tio nenion signifu.
+
+SINJORINO BORKMAN
+(en kolero) Blindigita homo, kia vi estas! Ĉu vi ne vidas kien tio
+ĉi kondukiĝas?
+
+ERHART
+Mi ne ŝatas rigardi en la estontecon. Ne volas rigardi en iu ajn
+direkton! Mi nur volas havi la rajton foje vivi la vivon, ankaŭ
+mi!
+
+SINJORINO BORKMAN
+(dolore) Kaj tion ĉi vi nomas la vivon, Erhart!
+
+ERHART
+Jes, ĉu vi ne vidas kiel ĉarma ŝi estas!
+
+SINJORINO BORKMAN
+(tordas la manojn) Kaj _tiun ĉi_ frakasantan honton mi do _ankaŭ_
+devos porti!
+
+BORKMAN
+(en la fono; malmole kaj akre) Ho, — vi ja kutimiĝis porti tiaĵon,
+vi, Gunhild!
+
+ELLA RENTHEJM
+(petante) Borkman —!
+
+ERHART
+(same) Patro —!
+
+SINJORINO BORKMAN
+Jen mi devos iri kaj ĉiutage antaŭ miaj okuloj vidi mian propran
+filon kune kun iu — iu —
+
+ERHART
+(interrompas akre) Nenion vi estos vidanta, patrino! Fidu tion, vi!
+Mi ne restos longe ĉi tie.
+
+SINJORINO WILTON
+(rapide kaj decide) Ni forvojaĝos, ni, sinjorino Borkman.
+
+SINJORINO BORKMAN
+(paliĝas) Ĉu ankaŭ _vi_ forvojaĝos! Kune eble?
+
+SINJORINO WILTON
+(kapsignas) Mi vojaĝos suden, jes. Eksterlanden. Kune kun juna
+knabino. Kaj Erhart akompanos nin.
+
+SINJORINO BORKMAN
+Kun vi — kaj juna knabino?
+
+SINJORINO WILTON
+Jes. Estas tiu eta Frida Foldal, kiun mi prenis en mian domon. Mi
+deziras, ke ŝi elvenu por lerni pli da muziko.
+
+SINJORINO BORKMAN
+Kaj vi prenas ŝin kun vi?
+
+SINJORINO WILTON
+Jes, mi ja ne povas forlasi la junan infanon sola tie
+eksterlande.
+
+SINJORINO BORKMAN
+(subpremas rideton) Kion _vi_ diras al _tio_, Erhart?
+
+ERHART
+(iom embarasita, skuas la ŝultrojn) Jes, panjo, — ĉar Fanny fine
+volas tion tiel havi, —
+
+SINJORINO BORKMAN
+(malvarme) Kaj kiam forvojaĝos la gesinjoroj, se oni kuraĝas
+demandi?
+
+SINJORINO WILTON
+Ni forvojaĝos nun tuj, ĉi-nokte. Mia sleda veturilo staras malsupre
+sur la vojo, — ekster la domo de Hinkels.
+
+SINJORINO BORKMAN
+(rigardas ŝin malsupren) Aha, — _tio_ do estis la vespera societa
+kunestado.
+
+SINJORINO WILTON
+(ridetas) Jes, venis nur Erhart kaj mi. Kaj ankaŭ eta Frida,
+kompreneble.
+
+SINJORINO BORKMAN
+Kaj kie _ŝi_ nun estas?
+
+SINJORINO WILTON
+Ŝi sidas en la veturilo atendante nin.
+
+ERHART
+(en ĝena embaraso) Panjo, vi do certe komprenas —? Mi volus ŝpari
+vin — kaj ĉiujn por tio ĉi.
+
+SINJORINO BORKMAN
+(rigardas lin profunde ofendita) Vi volus forvojaĝi de mi sen diri
+adiaŭ?
+
+ERHART
+Jes, ŝajnis al mi, ke estus pli bone tiel. Pli bone por ambaŭ
+partoj. Ĉio estis ja plene pretigita. La vestaĵoj pakitaj. Sed kiam
+sendiĝis por mi, do —. (volas etendi al ŝi la manojn) Adiaŭ,
+panjo.
+
+SINJORINO BORKMAN
+(rifuzante mansvingas kontraŭ lin) Ne tuŝu min!
+
+ERHART
+(cedeme) Ĉu _tio_ estas via lasta vorto?
+
+SINJORINO BORKMAN
+(malmole) Jes.
+
+ERHART
+(turnas sin) Adiaŭ do vi, onklino Ella.
+
+ELLA RENTHEJM
+(premas liajn manojn) Adiaŭ, Erhart! Kaj vivu vian vivon, — kaj
+fariĝu tiel feliĉa, tiel feliĉa, kiel por vi eblas!
+
+ERHART
+Dankon, onklino. (kapsalutas antaŭ _Borkman_) Adiaŭ, patro.
+(flustras al _sinjorino Wilton_) Ke ni foriru plej eble tuje.
+
+SINJORINO WILTON
+(mallaŭte) Jes, ni faru.
+
+SINJORINO BORKMAN
+(kun malica rideto) Sinjorino Wilton, — ĉu vi kredas fari vere
+saĝe kunpreni ĉi tiun junan knabinon?
+
+SINJORINO WILTON
+(ridete respondas, duone ironie, duone serioze) La viroj estas tiel
+nestabilaj, sinjorino Borkman. Kaj same pri virinoj. Kiam Erhart
+finis pri _mi_, kaj mi pri _li_, estos bone por ni ambaŭ, ke li, la
+bedaŭrindulo, havas iun sur kiu apogi sin.
+
+SINJORINO BORKMAN
+Sed vi mem do?
+
+SINJORINO WILTON
+Ho, mi certe min aranĝos, vi sciu. Adiaŭ ĉiuj!
+
+(Ŝi salutas kaj eliras tra la antaŭĉambra pordo. _Erhart_
+staras momenton kvazaŭ ŝancelanta; jen li turnas sin kaj sekvas
+ŝin.)
+
+SINJORINO BORKMAN
+(kun mallevitaj, plektitaj manoj) Seninfana.
+
+BORKMAN
+(kvazaŭ vekiĝanta al decido) Do elen en la veteraĉon sola! Mian
+ĉapelon! Mian mantelon! (Li iras rapide al la pordo.)
+
+ELLA RENTHEJM
+(en timo; haltigas lin) John Gabriel, kien vi volas?
+
+BORKMAN
+Elen en la veteraĉon de la vivo, vi aŭdas. Lasu min, Ella!
+
+ELLA RENTHEJM
+(tenas lin firme) Ne, ne, mi ne lasas vin eliri! Vi estas malsana. Mi
+vidas laŭ via aspekto.
+
+BORKMAN
+Lasu min iri, diras mi! (Li fortiras sin kaj iras elen en la
+antaŭĉambron.)
+
+ELLA RENTHEJM
+(ĉe la pordo) Helpu min reteni lin, Gunhild!
+
+SINJORINO BORKMAN
+(malvarme kaj malmole; staras meze en la ĉambro) Mi retenos neniun
+homon en la tuta mondo. Lasu ilin foriri de mi, ĉiuj. Kaj iu kaj
+alia! Tiel foren, — tiel foren kien ili nur volas. (subite kun
+tranĉanta krio) Erhart, ne forvojaĝu!
+
+(Ŝi ĵetas sin kun etenditaj brakoj al la pordo. _Ella Renthejm_
+haltigas ŝin.)
+
+
+
+
+KVARA AKTO
+
+
+(Malferma korto ekster la ĉefdomo, kiu situas dekstre. Angulo de
+tiu kun enireja pordo kaj plataĵo de ŝtonŝtuparo elstaras. Laŭ la
+fono, proksime al la korto, streĉas sin abruptaj deklivoj kun picea
+arbaro. Komencanta maldensa arbetaĵo maldekstre. La neĝado ĉesis;
+sed la tero estas dike kovrata de la ĵus falinta neĝo.)
+
+(_Borkman, sinjorino Borkman_ kaj _Ella Renthejm_ staras ekstere
+sur la ŝtuparo. _Borkman_ apogas sin, senforta kaj laca, al la doma
+muro. Li havas malmodan pelerinon ĵetita sur la ŝultroj, tenas
+molan, grizan feltĉapelon en unu mano kaj dikan tuberbastonon en la
+alia. _Ella Renthejm_ portas sian mantelon sur la brako. La granda
+tuko de _sinjorino Borkman_ estas glitinta malsupren sur la nukon,
+tiel ke ŝia hararo montriĝas.)
+
+ELLA RENTHEJM
+(estas sin stariginta antaŭ _sinjorino Borkman_) Ne iru post lin,
+Gunhild!
+
+SINJORINO BORKMAN
+(en timo kaj ekscito) Lasu min preterpasi! Li _ne devas_ forvojaĝi
+de mi!
+
+ELLA RENTHEJM
+Estas tute senutile, mi diras al vi! Vi ne atingas lin.
+
+SINJORINO BORKMAN
+Lasu min tamen iri, Ella! Mi volas krii laŭte post lin malsupren
+laŭ la vojo. Kaj la krio de sia patrino li do certe aŭdos!
+
+ELLA RENTHEJM
+Li _ne povas_ aŭdi vin. Li certe jam sidas ene en la veturilo —
+
+SINJORINO BORKMAN
+Ne, ne, — li jam ne povas sidi en la veturilo!
+
+ELLA RENTHEJM
+Li jam sidas en la veturilo, kredu min.
+
+SINJORINO BORKMAN
+(en malespero) Se li sidas en la veturilo, — li sidas tie kun ŝi,
+kun ŝi, — ŝi!
+
+BORKMAN
+(ridas aĉe) Kaj tiel lokigite li ne aŭdas la kriojn de sia
+patrino.
+
+SINJORINO BORKMAN
+Ne, — do li ne aŭdas. (aŭskultas) Tŝŝ! Kio estas _tio?_
+
+ELLA RENTHEJM
+(ankaŭ aŭskultanta) Aŭdiĝas kvazaŭ sono de sonoriloj —
+
+SINJORINO BORKMAN
+(kun mallaŭta ekkrio) Estas _ŝia_ veturilo!
+
+ELLA RENTHEJM
+Aŭ eble tiu de aliulo —
+
+SINJORINO BORKMAN
+Ne, ne; ĝi estas la sleda veturilo de sinjorino Wilton! Mi konas la
+arĝentajn sonorilojn! Aŭdu! Nun ili veturas ĝuste preter tie ĉi
+— malsupre de la deklivo!
+
+ELLA RENTHEJM
+(rapide) Gunhild, se vi volas krii post lin, do kriu _nun_! Eble ke
+li tamen —!
+
+(La sonoriloj aŭdiĝas proksime, ene en la arbaro.)
+
+ELLA RENTHEJM
+Rapidu, Gunhild! Nun ili estas tute malsupre de ni!
+
+SINJORINO BORKMAN
+(staras momenton nedecide; jen ŝi rigidiĝas, malmilda kaj malvarma)
+Ne. Mi ne postkrias lin. Lasu Erhart Borkman veturi preter min.
+Longe, longe eksteren en tion, kion li nomas la vivon kaj la
+feliĉon.
+
+(La sonorigado perdiĝas en la foro.)
+
+ELLA RENTHEJM
+(iom poste) Nun la sonoriloj ne plu aŭdiĝas.
+
+SINJORINO BORKMAN
+Ŝajnis al mi, ke ili sonoris kiel tombaj sonoriloj.
+
+BORKMAN
+(kun seka, mallaŭta rido) Hoho, — ankoraŭ ne sonoriĝas super
+mi!
+
+SINJORINO BORKMAN
+Sed super _mi_. Kaj super li, kiu forvojaĝis de mi.
+
+ELLA RENTHEJM
+(kapsignas penseme) Kiu scias, ĉu ili ne tamen sonorigas al li la
+vivon kaj la feliĉon, Gunhild.
+
+SINJORINO BORKMAN
+(ekrektigas sin; rigardas ŝin akre) La vivon kaj la feliĉon, vi
+diras!
+
+ELLA RENTHEJM
+Almenaŭ por mallonga tempo.
+
+SINJORINO BORKMAN
+Ĉu vi volus malenvii al li la vivon kaj la feliĉon, — kun
+_ŝi_?
+
+ELLA RENTHEJM
+(varme kaj arde) Jes, el mia tuta, plena animo mi tion volus!
+
+SINJORINO BORKMAN
+(malvarme) Do vi eble estas pli riĉa pri amoforto, vi, ol mi.
+
+ELLA RENTHEJM
+(rigardas longe foren el si) Eble estas la _manko_ de amo, kiu
+subtenas tiun forton.
+
+SINJORINO BORKMAN
+(fiksas la okulojn sur ŝin) Se tiel estas, — tiam ankaŭ mi baldaŭ
+fariĝos same riĉa kiel vi, Ella. (Ŝi turnas sin kaj iras en la
+domon.)
+
+ELLA RENTHEJM
+(staras momenton zorgeme rigardante _Borkman_; poste ŝi metas la
+manon singardeme sur lian ŝultron.) John, venu kaj eniru, ankaŭ
+vi.
+
+BORKMAN
+(kvazaŭ vekiĝanta) Mi?
+
+ELLA RENTHEJM
+Jes. Vi ne eltenas la akran, vintran aeron. Mi vidas laŭ via
+aspekto. Venu, kaj eniru kun mi. Enen sub tegmenton kie estas
+varme.
+
+BORKMAN
+(kolera) Supren en la salonon eble?
+
+ELLA RENTHEJM
+Prefere en la ĉambron al ŝi.
+
+BORKMAN
+(ekkolere en impeto) Neniam plu en la vivo mi metos mian piedon sub
+tiun tegmenton!
+
+ELLA RENTHEJM
+Sed kien vi do iru? Tiel malfrue, je nokta tempo, John?
+
+BORKMAN
+(surmetas la ĉapelon) Antaŭ ĉio mi volas nun eliri por zorgi pri
+ĉiuj miaj kaŝitaj trezoroj.
+
+ELLA RENTHEJM
+(rigardas lin timeme) John, — mi ne komprenas vin!
+
+BORKMAN
+(en tusanta rido) Ho, ne estas kaŝita ŝtelaĵo pri kio mi pensas.
+Ne timu tion, Ella. (haltas kaj elmontras) Vidu tiun ulon _tie!_
+Kiu estas _li_?
+
+(_Vilhelm Foldal_, en malnova, neĝkovrita jako, kun la ĉapelo
+malsupren plektita kaj kun granda ŝirmilo en la mano, venas antaŭen
+de la angulo de la domo, peze irante tra la neĝo. Li forte lamas je
+la maldekstra gambo.)
+
+BORKMAN
+Vilhelm! Kion vi volas ĉi tie ĉe mi — nun denove?
+
+FOLDAL
+(ekrigardas) Ho je Dio, — ĉu vi staras ekstere sur la ŝtuparo,
+John Gabriel? (salutas) Kaj ankaŭ la sinjorino, mi vidas!
+
+BORKMAN
+(mallonge) Ne estas la sinjorino.
+
+FOLDAL
+Ho, pardonu. Mi ja perdis la okulvitrojn en la neĝon. — Tamen ke
+vi, kiu alie neniam eliras ekstere de la pordo —?
+
+BORKMAN
+(senkonsidere, gaje) Estas tempo, ke mi denove komencu fariĝi
+liberaera homo, komprenu. Preskaŭ tri jarojn en intertempa
+mallibereco; kvin jarojn en la karcero; ok jarojn en la salono tie
+supre —
+
+ELLA RENTHEJM
+(zorgeme) Borkman, — mi petas vin —!
+
+FOLDAL
+Ak ja, ja, ja —
+
+BORKMAN
+Sed kion vi do volas al mi, mi demandas?
+
+FOLDAL
+(daŭre staras malsupre antaŭ la ŝtuparo.) Mi volis supren al vi,
+John Gabriel. Ŝajnis al mi ke mi _devis_ supren en la salonon. Je
+Dio, — tiun salonon!
+
+BORKMAN
+Ĉu vi volis supren tie al mi, kiu montris al vi la pordon?
+
+FOLDAL
+Jes, tio estu je la dia nomo sensignifa.
+
+BORKMAN
+Kion vi faris al la piedo? Vi ja lamas?
+
+FOLDAL
+Jes, imagu, — mi surveturiĝis.
+
+ELLA RENTHEJM
+Surveturiĝis!
+
+FOLDAL
+Jes, de sleda veturilo —
+
+BORKMAN
+Hoho!
+
+FOLDAL
+— kun du ĉevaloj jungitaj. Ili venis rapidkure malsupren la
+deklivo. Mi ne kapablis iri el la vojo sufiĉe rapide; kaj jen —
+
+ELLA RENTHEJM
+— kaj ili veturis sur vin?
+
+FOLDAL
+Ili veturis ĝuste sur min, sinjorino — aŭ fraŭlino. Ĝuste sur
+min ili veturis, tiel ke mi ruliĝis en la neĝo kaj perdis la
+okulvitrojn, kaj la ŝirmilo rompiĝis; (frotas sin) kaj ankaŭ la
+piedo ekhavis damaĝon.
+
+BORKMAN
+(ridas interne) Ĉu vi scias, kiu sidis en tiu veturilo, Vilhelm?
+
+FOLDAL
+Ne, kiel povus mi tion vidi? Estis ja fermita veturilo, kaj la
+kurtenoj estis malsupren tiritaj. Kaj la veturigisto eĉ ne haltis
+momenton, kiam mi kuŝis tie ruliĝante —. Sed _tio_ povas esti
+sensignifa, ĉar — (ekdire) Ho, mi estas tiel strange ĝoja,
+sciu!
+
+BORKMAN
+Ĝoja?
+
+FOLDAL
+Jes, mi ne ĝuste scias kiel nomi tion. Sed ŝajnas al mi, ke mi
+devas nomi tion ĝoja. Ĉar okazis io tiel tute mirinde! Kaj tial mi
+ne _povis_ ion alian, — mi _devis_ veni kaj partigi la ĝojon kun
+vi, John Gabriel.
+
+BORKMAN
+(akre) Nu, do partigu tiun ĝojon!
+
+ELLA RENTHEJM
+Ho, — sed unue enkonduku kun vi vian amikon. Borkman.
+
+BORKMAN
+(akre) Mi ne volas en la domon, mi diris.
+
+ELLA RENTHEJM
+Sed vi ja aŭdas, ke li estas surveturigita!
+
+BORKMAN
+Ho, surveturigitaj ni fariĝos ĉiuj — iun fojon en la vivo. Tamen
+tiam oni devas ekstari denove. Kaj ŝajnigi kvazaŭ nenio okazis.
+
+FOLDAL
+Jen profundanima vorto, John Gabriel. Sed mi povas same bone rapide
+rakonti ĉi-ekstere.
+
+BORKMAN
+(pli milde) Jes, servu al mi en tio, Vilhelm.
+
+FOLDAL
+Jes, nun nur aŭdu! Imagu, vi — kiam mi ĉi-vespere revenis hejmen
+de vi, — mi trovas leteron. — Ĉu vi povas diveni de kiu?
+
+BORKMAN
+Eble de via eta Frida?
+
+FOLDAL
+Ĝuste! Imagu ke vi tuj divenis. Jes, estis longa — sufiĉe longa
+letero de Frida, sciu. Servisto estis ĝin portinta. Kaj ĉu vi
+imagas pri kio ŝi skribas?
+
+BORKMAN
+Eble estus por diri adiaŭ al la gepatroj.
+
+FOLDAL
+Ĝuste! Strange kiel vi povas diveni, John Gabriel! Nu, ŝi skribas,
+ke sinjorino Wilton tiom multe ŝatas ŝin. Kaj nun la sinjorino
+volas kunpreni ŝin eksterlanden. Por ke Frida lernu pli da muziko,
+ŝi skribas. Kaj sinjorino Wilton ankaŭ havigis al ŝi taŭgan
+instruiston, kiu kunvojaĝos. Kaj legos kun Frida. Ĉar, bedaŭrinde,
+ŝi estas iom neglektita en iuj temoj, vi komprenas.
+
+BORKMAN
+(ridas interne, tiel ke klukas en li) Jes, bone, jes bone. Mi
+komprenas ĉion tiel nedireble bone, Vilhelm.
+
+FOLDAL
+(daŭrigas fervore) Kaj imagu, ŝi nur sciiĝis pri la vojaĝo nun
+ĉi-vespere. Estis en la kunveno, pri kiu vi scias, hm! Kaj tamen ŝi
+trovis tempon por skribi. Kaj la letero estas tiel varme kaj bele kaj
+tiel kore skribita, mi certigas al vi. Neniel plu ŝpuro de malestimo
+por sia patro. Kaj tiu bela trajto, sciu, ke ŝi volus diri adiaŭon
+skribe — antaŭ ol ŝi forvojaĝus. (ridas) Sed _tiel_ ja ne
+okazos!
+
+BORKMAN
+(rigardas lin demande) Kiel tio?
+
+FOLDAL
+Ŝi skribas, ke morgaŭ frue ili forvojaĝos. Tute frue.
+
+BORKMAN
+Jen, jen, — morgaŭ? Ĉu ŝi tion skribas?
+
+FOLDAL
+(ridas kaj frotas la manojn) Jes, sed nun mi estos ruza, mi,
+komprenu! Nun mi iros rekte al sinjorino Wilton —
+
+BORKMAN
+Nun ĉi-vespere?
+
+FOLDAL
+Jes je Dio, ankoraŭ ja ne estas tiel ege malfrue. Kaj se estus
+ŝlosite, mi sonorigos. Senpere. Ĉar mi volas kaj mi devas vidi
+Frida, antaŭ ol ŝi forvojaĝos. Bonan nokton, bonan nokton! (Li
+volas foriri)
+
+BORKMAN
+Aŭskultu, mia bedaŭrinda Vilhelm, — vi povas ŝpari al vi la pezan
+vojdistancon.
+
+FOLDAL
+Ho, vi pensas pri la piedo —
+
+BORKMAN
+Jes, kaj ankaŭ ke vi tamen ne enlasiĝos ĉe sinjorino Wilton.
+
+FOLDAL
+Ho, efektive, mi enlasiĝos. Mi daŭre sonorigos, ĝis iu venos por
+malfermi. Ĉar Frida mi devas kaj volas vidi.
+
+ELLA RENTHEJM
+Via filino jam foriris, sinjoro Foldal.
+
+FOLDAL
+(staras kiel frapita) Frida, ĉu jam forvojaĝis! Ĉu vi scias tion
+certe? De kiu vi aŭdis tion?
+
+BORKMAN
+Ni informiĝis de ŝia estonta instruisto.
+
+FOLDAL
+Ĉu? Kaj kiu estas li?
+
+BORKMAN
+Estas iu studento Erhart Borkman.
+
+FOLDAL
+(brile ĝoja) Via filo, John Gabriel! Ĉu _li_ kunvojaĝos?
+
+BORKMAN
+Jes-ja; estas li, kiu helpos al sinjorino Wilton por instrui vian
+etan Frida.
+
+FOLDAL
+Nu, laŭdon kaj dankon al Dio! Do la infano ja estas inter la plej
+bonaj manoj. Sed ĉu estas tute certe, ke ili jam forvojaĝis kun
+ŝi?
+
+BORKMAN
+Ili forvojaĝis kun ŝi en tiu veturilo kiu survoje surveturigis
+vin.
+
+FOLDAL
+(kunfrapas la manojn) Imagu, ke mia eta Frida sidis en tiu luksa
+veturilo!
+
+BORKMAN
+(kapsignas) Jes-jes, Vilhelm, — via filino estas bone instaligita
+por veturi. Kaj ankaŭ studento Borkman. — Nu, ĉu vi rimarkis la
+arĝentajn sonorilojn?
+
+FOLDAL
+Jes-ja. — Arĝentajn sonorilojn, vi diras? Ĉu estis arĝentaj
+sonoriloj, ĉu? Veraj arĝentaj sonoriloj?
+
+BORKMAN
+Tion vi povas konfidi. Ĉio estis vera. Ekstere kaj — kaj
+interne.
+
+FOLDAL
+(silente en emocio) Ĉu ne estas mirinde, kiel la feliĉo povas
+akomodi sin por homo! Estas mia — mia simpla poeta talento, kiu
+transformiĝis al muziko en Frida. Do mi tamen ne vane estis poeto.
+Ĉar nun _ŝi_ povas vojaĝi elen en la grandan vastan mondon,
+pri kiu mi foje revis tiel alloge por ĝin vidi. En fermita
+sledo-veturilo eta Frida povas vojaĝi. Kaj kun arĝentaj sonoriloj
+sur la jungilaro —
+
+BORKMAN
+— kaj surveturi sian patron —
+
+FOLDAL
+(ĝoja) Ho kio! Ne gravas pri mi, — — se nur la infano —. Nu, mi
+do tamen venis tro malfrue. Kaj tial mi volas iri hejmen por konsoli
+ŝian patrinon, kiu sidas en la kuirejo plorante.
+
+BORKMAN
+Ĉu ŝi ploras?
+
+FOLDAL
+(ridade) Jes, imagu, vi, — ŝi sidis ege plorante, kiam mi
+eliris.
+
+BORKMAN
+Kaj vi, vi ridas, Vilhelm.
+
+FOLDAL
+Jes _mi_, jes! Sed ŝi, la povrulino, ŝi tion ne pli bone komprenas,
+ŝi, sciu. Nu, adiaŭ do! Bone estas ke mi havas la tramon tiel
+proksime. Adiaŭ, adiaŭ, John Gabriel! Adiaŭ, fraŭlino!
+
+(Li salutas kaj pene iras la saman vojon laŭ kiu li venis.)
+
+BORKMAN
+(staras momenton silente rigardante antaŭen) Adiaŭ, Vilhelm!
+Ne estas la unua fojo en la vivo, ke vi surveturiĝis, malnova amiko.
+
+ELLA RENTHEJM
+(rigardas lin en subpremata timo) Vi estas tiel pala, tiel pala, John —
+
+BORKMAN
+Devenas de la karcera aero tie supre.
+
+ELLA RENTHEJM
+Mi neniam antaŭe vidis vin tia.
+
+BORKMAN
+Ne, ĉar vi certe neniam antaŭe vidis elrompintan punaton.
+
+ELLA RENTHEJM
+Ho, venu nun, kaj eniru kun mi, John!
+
+BORKMAN
+Formetu tiujn logajn tonojn. Mi ja diris al vi —
+
+ELLA RENTHEJM
+Tamen ĉar mi nun petas vin insiste? Pro vi mem —
+
+(La _ĉambristino_ elvenas duone sur la ŝtuparon.)
+
+ĈAMBRISTINO
+Pardonu; la sinjorino diris, ke mi ŝlosu la stratan pordon nun.
+
+BORKMAN
+(mallaŭte al _Ella_) Aŭdu nur; nun ili volas denove enŝlosigi
+min!
+
+ELLA RENTHEJM
+(al la _ĉambristino_) La bankestro ne estas tute sana. Li volas spiri
+iom da freŝa aero unue.
+
+ĈAMBRISTINO
+Jes, sed la sinjorino mem diris, ke —
+
+ELLA RENTHEJM
+Mi mem ŝlosos la pordon. Lasu la ŝlosilon en la seruro, kaj —
+
+ĈAMBRISTINO
+Jes, je Dio, mi do faros. (Ŝi reiras en la domon.)
+
+BORKMAN
+(staras momenton silente kaj aŭskultante; poste li rapidiĝas
+malsupren sur la korton) Nun mi estas ekster la muro, Ella! Nun ili
+neniam plu kaptos min!
+
+ELLA RENTHEJM
+(malsupre ĉe li) Sed vi estas ja libera homo ankaŭ tie interne,
+John. Povas iri kaj veni tute kiel plaĉas al vi.
+
+BORKMAN
+(mallaŭte, kvazaŭ en timo) Neniam denove sub tegmenton! Ĉi tie
+ekstere en la nokto estas bone. Se mi nun irus supren al la salono,
+— plafono kaj muroj kunŝrumpiĝus. Premegus min. Premus min plata
+kiel muŝo.
+
+ELLA RENTHEJM
+Sed kien vi do volas?
+
+BORKMAN
+Nur iri kaj iri kaj iri. Vidi ĉu mi denove povas atingi al libereco
+kaj al vivo kaj al homoj. Ĉu vi volas iri kun mi, Ella?
+
+ELLA RENTHEJM
+Mi? Nun?
+
+BORKMAN
+Jes, jes, — nun tuj!
+
+ELLA RENTHEJM
+Sed kiom longe do?
+
+BORKMAN
+Tiom longe kiom mi kapablas.
+
+ELLA RENTHEJM
+Ho, sed pripensu do. Ekstere en ĉi tiu malseka, malvarma vintra
+nokto —
+
+BORKMAN
+(kun raŭka, gorĝa sono) Hoho, — la fraŭlino estas zorgema pri sia
+sanstato? Jes-ja, — ĝi estas ja bedaŭrinda, ĝi.
+
+ELLA RENTHEJM
+Estas por _via_ sanstato, ke mi estas zorgema.
+
+BORKMAN
+Hohoho! La sanstato de mortinto! Mi devas priridi vin, Ella! (Li iras
+pluen.)
+
+ELLA RENTHEJM
+(post lin; tenas lin firme) Kion vi diris, ke vi estas?
+
+BORKMAN
+Mortinto, mi diris. Ĉu vi ne memoras, ke Gunhild diris, ke mi nur
+tenu min trankvila, _tie_ kie mi kuŝas?
+
+ELLA RENTHEJM
+(decide ĵetas la mantelon sur sin) Mi iros kun vi, John.
+
+BORKMAN
+Jes, ni du, ni apartenas unu al la alia, ni, Ella. (iras pluen) Venu
+do!
+
+(Dume ili atingis al inter la arbetaro maldekstre. Tiu kaŝas ilin
+pli kaj pli, tiel ke ili fine ne vidiĝas. La domo kaj la korto
+malaperas el la vido. La pejzaĝo, kun deklivoj kaj altejoj,
+malrapide kaj daŭre ŝanĝiĝas, kaj fariĝas pli kaj pli
+sovaĝa.)
+
+VOĈO DE ELLA RENTHEJM
+(aŭdiĝas de ene en la arbetaro dekstre) Kien ni nun iras, John! Mi
+ne rekonas la lokon ĉi tie.
+
+VOĈO DE BORKMAN
+(pli alte) Tenu vin nur en la neĝaj spuroj post mi!
+
+VOĈO DE ELLA RENTHEJM
+Sed kial ni do devas iri tiel alten!
+
+VOĈO DE BORKMAN
+(pli proksime) Ni devas supreniri la turniĝan vojeton.
+
+ELLA RENTHEJM
+(daŭre kaŝita) Ho, sed mi baldaŭ ne plu kapablas.
+
+BORKMAN
+(ĉe la arbarrando dekstre) Venu, venu! Nun ni ne estas fore de la
+elvidejo. Tie staris benko en antaŭa tempo —
+
+ELLA RENTHEJM
+(venas el inter la arbetoj) Ĉu vi memoras ĝin?
+
+BORKMAN
+Tie vi povos ripozi.
+
+(Ili atingis antaŭen sur etan, altan, malferman ebenaĵon en la
+arbareto. La vojeto altiĝas abrupte malantaŭ ili. Maldekstre,
+profunde malsupre, estas vasta pejzaĝo kun fjordo kaj altaj foraj
+montodorsoj unu super la alia. Sur la ebenaĵo maldekstre estas morta
+pino kun benko sube. La neĝo kuŝas dike sur la ebenaĵo.)
+
+(_Borkman_ kaj post li _Ella Renthejm_ de dekstre pene vadas tra
+la neĝo.)
+
+BORKMAN
+(haltas ĉe la profundeĵo maldekstre) Venu jen, Ella, kaj vi
+vidos.
+
+ELLA RENTHEJM
+(apud li) Kion vi volas montri al mi, John?
+
+BORKMAN
+(montras eksteren) Vidu kie la lando kuŝas libera kaj malferma por
+ni — vaste etende?
+
+ELLA RENTHEJM
+Tie sur la benko ni ofte sidis pasinte, — kaj rigardis ankoraŭ pli
+kaj pli foren.
+
+BORKMAN
+Estis lando de revoj en kiun ni tiam rigardis.
+
+ELLA RENTHEJM
+(kapsignas peze) La reva lando de nia vivo ĝi estis, jes. Kaj nun
+tiu lando estas neĝkovrata. — Kaj la maljuna arbo estas morta.
+
+BORKMAN
+(ne ŝin aŭskultante) Ĉu vi povas videti la fumon de la grandaj
+vaporŝipoj tie sur la fjordo?
+
+ELLA RENTHEJM
+Ne.
+
+BORKMAN
+Mi povas. — Ili venas kaj foriras. Ili alportas komunan vivon sur la
+tuta terglobo. Ili kreas lumon kaj varmon por la animoj en miloj da
+hejmoj. Estas _tio_, kion mi revis krei.
+
+ELLA RENTHEJM
+(silente) Kaj fariĝis nur revo.
+
+BORKMAN
+Fariĝis nur revo, jes. (aŭskultas) Kaj aŭskultu, vi, el tie
+malsupre ĉe la rivero! La fabrikoj funkcias! _Miaj_ fabrikoj! Ĉiuj
+tiuj, kiujn _mi_ volis starigi! Aŭdu nur kiel ili laboras. Ili havas
+noktan laboron. Nokton kaj tagon ili do laboras. Aŭdu, aŭdu! La
+radoj turnas, kaj la rulcilindroj fulmas — turne, turne! Ĉu vi ne
+aŭdas, Ella?
+
+ELLA RENTHEJM
+Ne.
+
+BORKMAN
+_Mi_ povas aŭdi.
+
+ELLA RENTHEJM
+(time) Mi kredas ke vi eraras, John.
+
+BORKMAN
+(pli kaj pli ekflamigata) Ho, sed la tuto tie ĉi — estas nur la
+eksteraĵo ĉirkaŭ la regno, vi sciu!
+
+ELLA RENTHEJM
+Regno, vi diras? Kiu regno —?
+
+BORKMAN
+_Mia_ regno, kompreneble! La regno, al kiu mi estis proksima por
+ekposedi tiam kiam — tiam kiam mi mortis.
+
+ELLA RENTHEJM
+(silente; skuita) Ho, John, John!
+
+BORKMAN
+Kaj nun ĝi kuŝas tie — sendefenda, senmastra, — minacata de
+atakoj de rabistoj, — Ella! Ĉu vi vidas la montodorsojn _tie_ tre
+fore? Unu malantaŭ alia. Ili altiĝas, kreskas kiel turoj. _Tio_
+estas mia profunda, senlima, neelĉerpebla regno!
+
+ELLA RENTHEJM
+Ho, sed estas frostiga spirblovo de tiu regno, John!
+
+BORKMAN
+Tiu spirblovo efikas kiel viva aero en mi. Tiu spirblovo venas al mi
+kiel saluto de humilaj spiritoj. Mi sentas ilin, la ligitajn
+milionojn; mi sentas la vejnojn de erco, kiuj streĉas siajn
+serpentumantajn, branĉiĝantajn, logantajn brakojn al mi. Mi vidis
+ilin antaŭ mi kiel vivigitaj ombroj — tiun nokton, kiam mi staris
+en la kelo de la banko kun la lumigilo en la mano. Vi tiam volis
+liberiĝi. Kaj mi provis. Tamen ne kapablis. La trezoro reen sinkis
+en la profundon. (kun etenditaj manoj) Sed mi volas flustri al vi ĉi
+tie en la nokta silento. Mi amas vin, kie vi kuŝas ŝajne mortaj en
+la profundo kaj la mallumo! Mi amas vin, vi vivopostulantaj trezoroj
+— kun via tuta lumanta sekvantaro de potenco kaj honoro! Mi amas,
+amas, amas vin!
+
+ELLA RENTHEJM
+(en silenta, kreskanta ekscito) Jes, tie malsupre vi daŭre havas
+vian amon. John. Ĉiam havis ĝin tie. Sed ĉi tie supre en la tago,
+John, — estis varma, vivanta homa koro, kiu pulsis kaj batadis por
+vi. Kaj tiun koron vi frakasis. Ho, pli ol tio! Dekoble pli malbone!
+Vi _vendis_ ĝin por — por —
+
+BORKMAN
+(skuiĝa; fluas kvazaŭ malvarmo tra li) Pro la regno — kaj la
+potenco — kaj la honoro, vi opinias?
+
+ELLA RENTHEJM
+Jes, tion mi opinias. Mi diris tion al vi pli frue ĉi-vespere. Vi
+murdis la amovivon en tiu virino, kiu amis vin. Kaj kiun vi reen
+amis. Tiom kiom vi _kapablis_ ami iun do. (kun suprenlevita brako)
+Kaj tial mi aŭguras, John Gabriel Borkman, — vi neniam gajnos la
+premion, kiun vi postulis por la murdo. Vi neniam faros la venkantan
+enmarŝon en vian malvarman, sombran regnon!
+
+BORKMAN
+(ŝancelas al la benko kaj eksidas peze) Mi preskaŭ timas, ke vi
+pravos en tiu aŭguro, Ella.
+
+ELLA RENTHEJM
+(apud li) Ne _timu_ pro tio, John. Ĝuste _tio_ estus la plej bona,
+kio okazus al vi.
+
+BORKMAN
+(kun krio; kaptas sin ĉe la brusto) Ah —! (senforta) Nun ĝi
+malkaptis min.
+
+ELLA RENTHEJM
+(skuas lin) Kio estis, John!
+
+BORKMAN
+(glitas malantaŭen al la apogo) Estis glacia mano, kiu kaptis mian
+koron.
+
+ELLA RENTHEJM
+John! Nun vi sentis la glacian manon! Ĉu!
+
+BORKMAN
+(murmuras) Ne. — Neniu glacia mano. — Mano de erco ĝi estis. (Li
+glitas tute malsupren sur la benkon.)
+
+ELLA RENTHEJM
+(deprenas sian mantelon kaj kovras lin) Restu trankvile kuŝanta, kie
+vi nun kuŝas! Mi serĉos helpon por vi. (Ŝi faras kelkajn paŝojn
+dekstren; jen ŝi haltas, reen iras kaj longe palpas lian pulson kaj
+lian vizaĝon.)
+
+ELLA RENTHEJM
+(trankvile kaj firme) Ne. Pli bone tiel, John Borkman. Pli bone tiel
+por vi.
+
+(Ŝi streĉas la mantelon pli dense sur lin, kaj eksidas en la
+neĝon antaŭ la benko.)
+
+(Mallonga silento.)
+
+(_Sinjorino Borkman_, en supervestaĵoj venas tra la arbaro de
+dekstre. Antaŭ ŝi la _ĉambristino_ kun lumigita lanterno.)
+
+ĈAMBRISTINO
+(lumigas en la neĝon) Jes, jes, sinjorino. Jen estas iliaj spuroj —
+
+SINJORINO BORKMAN
+(ĉirkaŭrigardas observe) Jes, jen ili estas! Jen ili sidas sur la
+benko. (vokas) Ella!
+
+ELLA RENTHEJM
+(ekstaras) Ĉu vi serĉas nin?
+
+SINJORINO BORKMAN
+(akre) Jes, tion mi ja devas fari.
+
+ELLA RENTHEJM
+(montras) Jen li kuŝas, Gunhild.
+
+SINJORINO BORKMAN
+Dormas!
+
+ELLA RENTHEJM
+(kapsignas) Profundan kaj longan dormon, mi kredas.
+
+SINJORINO BORKMAN
+(ekdire) Ella! (regas sin kaj demandas mallaŭte) Ĉu okazis —
+libervole?
+
+ELLA RENTHEJM
+Ne.
+
+SINJORINO BORKMAN
+(malpezigita) Do ne per propra mano?
+
+ELLA RENTHEJM
+Ne. Estis glacia mano de erco, kiu kaptis lian koron.
+
+SINJORINO BORKMAN
+(al la _ĉambristino_) Serĉu helpon. Venigu homojn el la bieno.
+
+ĈAMBRISTINO
+Jes, bone, sinjorino. (mallaŭte) En Jeĉja nomo do —
+
+(Ŝi eliras tra la arbaro dekstren.)
+
+SINJORINO BORKMAN
+(staras malantaŭ la benko) La nokta aero do mortigis lin —
+
+ELLA RENTHEJM
+Do tiel estas.
+
+SINJORINO BORKMAN
+— lin, tiun fortan viron.
+
+ELLA RENTHEJM
+(iras al la antaŭo de la benko) Ĉu vi ne volas rigardi lin,
+Gunhild?
+
+SINJORINO BORKMAN
+(rifuzante) Ne, ne, ne. (mallaŭtigas la voĉon) Li estis filo de
+ministo, — li, la bankestro. Ne povis elteni la freŝan venton.
+
+ELLA RENTHEJM
+Pli ĝuste estis la frosto, kiu mortigis lin.
+
+SINJORINO BORKMAN
+(skuas la kapon) La frosto, vi diras? La frosto, — ĝi estis lin
+mortiginta antaŭ longe.
+
+ELLA RENTHEJM
+(kapjesas al ŝi) Kaj kreis nin du al ombroj, jes.
+
+SINJORINO BORKMAN
+Vi pravas.
+
+ELLA RENTHEJM
+(kun dolora rideto) Unu mortinto kaj du ombroj, _tion_ efikis la
+frosto.
+
+SINJORINO BORKMAN
+Jes, la kora frosto. — Kaj jen do ni du povas etendi unu al la alia
+la manon, Ella.
+
+ELLA RENTHEJM
+Mi pensas, ke nun ni tion povas.
+
+SINJORINO BORKMAN
+Ni dunaskitoj — super _li_ kiun ni ambaŭ amis.
+
+ELLA RENTHEJM
+Ni du ombroj — super la morta viro.
+
+(_Sinjorino Borkman_ malantaŭ la benko, kaj _Ella Renthejm_
+antaŭe, etendas unu al la alia la manojn.)
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of John Gabriel Borkman, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK JOHN GABRIEL BORKMAN ***
+
+***** This file should be named 20178-0.txt or 20178-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/0/1/7/20178/
+
+Produced by Andrew Sly and Will Wurzel
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

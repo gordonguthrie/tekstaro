@@ -1,0 +1,6504 @@
+﻿The Project Gutenberg EBook of Popolmalamiko, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Popolmalamiko
+       Dramo en kvin aktoj
+
+Author: Henrik Ibsen
+
+Translator: Odd Tangerud
+
+Release Date: November 14, 2006 [EBook #19803]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK POPOLMALAMIKO ***
+
+
+
+
+Produced by Andrew Sly and Bill Patterson
+
+
+
+
+
+
+HENRIK IBSEN
+
+POPOLMALAMIKO
+
+Dramo en kvin aktoj
+
+(En folkefiende)
+
+(1882)
+
+Tradukis: Odd Tangerud
+
+  Eldonejo: Jec Scandinavia a/s
+  Postboks 54
+  N - 3401 Lier
+  Tlf. 32 85 50 03
+  Fax. 32 85 5082
+  ISBN 82-91707-51-0
+
+
+Popolmalamiko
+
+ROLOJ:
+
+  DOKTORO TOMAS STOCKMANN, kuracisto ĉe banejo.
+  SINJORINO STOCKMANN, lia edzino.
+  PETRA, ilia filino, instruistino.
+  EJLIF, ilia filo, 13 jara.
+  MORTEN, ilia filo 10 jara.
+  PETRO STOCKMANN, la pli aĝa frato de la doktoro; urba magistranto
+    (membro de la urba magistrato) kaj policestro; prezidanto de la
+    baneja estraro k. t. p.
+  MORTEN KIIL, tanejestro; eduka patro de sinjorino Stockmann.
+  HOVSTAD, redaktoro de la gazeto "La Popola Mesaĝo".
+  BILLING, kunlaboranto en la gazeto.
+  ŜIPESTRO HORSTER.
+  PRESISTO ASLAKSEN.
+  PARTOPRENANTOJ EN CIVITANA KUNVENO, viroj el ĉiuj sociaj tavoloj,
+    kelkaj virinoj kaj aro da knablernantoj.
+
+
+(Stockmann prononciĝas _Stokman_ kun mallonga _o_)
+
+(La intrigo okazas en marborda urbo en suda Norvegio.)
+
+
+
+
+UNUA AKTO
+
+
+(Vespero en la sidĉambro de la _doktoro_; senlukse sed belete
+ekipita kaj meblita. Sur la flanka muro dekstre estas du pordoj, el
+kiuj la pli fona kondukas en la antaŭĉambron kaj la pli proksima
+al la laborĉambro de la _doktoro_. Sur la kontraŭa muro, rekte
+kontraŭ la pordo de la antaŭĉambro, estas pordo al la ceteraj
+ĉambroj de la familio. Meze sur la sama muro staras la kahela forno,
+kaj pli antaŭe estas sofo kaj super ĝi spegulo, kaj antaŭ la sofo
+estas ovala tablo kun tuko. Sur la tablo staras lumanta lampo kun
+ŝirmilo. En la fono estas malferma pordo al la manĝoĉambro. Tie
+vidiĝas pretigita tablo por vespermanĝo kaj sur ĝi lampo.)
+
+(_Billing_ sidas ĉe la manĝotablo kun buŝtuko sub la mentono.
+_Sinjorino Stockmann_ staras apud la tablo kaj transdonas al li
+pladon kun granda peco de rostbovaĵo. La ceteraj seĝoj ĉirkaŭ la
+tablo estas forlasitaj, la manĝilaro en malordo, kiel post finita
+manĝo.)
+
+SINJORINO STOCKMANN
+Nu ja, ĉar vi venas horon tro malfrue, sinjoro Billing, vi devas
+esti kontenta per malvarma manĝaĵo.
+
+BILLING
+(manĝante) Gustas bonege, -- vere bonege.
+
+SINJORINO STOCKMANN
+Vi ja scias kiel strikte Stockmann tenas sin je fiksa manĝohoro --
+
+BILLING
+Por mi tute ne gravas. Gustas eĉ pli bone, kiam mi povas sidi tiel
+sola kaj manĝi senĝenate.
+
+SINJORINO STOCKMANN
+Ja, ja, kiam bongustas al vi -- (aŭskultas en la direkto de la
+antaŭĉambro) Jen eble venas ankaŭ Hovstad.
+
+BILLING
+Jes eble.
+
+(_Magistranto Petro Stockmann_ en surtuto kun uniformĉapo kaj
+bastono envenas.)
+
+LA MAGISTRANTO
+Altestime bonan vesperon, bofratino.
+
+SINJORINO STOCKMANN
+(alvenas en la sidĉambron) Ha, jen, bonan vesperon. Ĉu estas vi?
+Ĝentile de vi fari viziton.
+
+LA MAGISTRANTO
+Mi ĵus preteriris, kaj -- (kun ĵetrigardo al la manĝoĉambro)
+Pardonu, aspekte vi havas gastojn.
+
+SINJORINO STOCKMANN
+(iom embarasata) Ne, tute ne; estas tute hazarde. (rapide) Bonvolu
+eniri por kunmanĝeti!
+
+LA MAGISTRANTO
+Mi! Ne, multajn dankojn. Je Dio; varman manĝaĵon vespere; Ne estas
+por _mia_ stomako.
+
+SINJORINO STOCKMANN
+Ho, unu solan fojon --.
+
+LA MAGISTRANTO
+Ne, ne, Dio benu vin; mi tenas min je mia teakvo kaj mia buterpano.
+Estas en la daŭro pli sane, -- kaj ankaŭ pli ŝpareme.
+
+SINJORINO STOCKMANN
+(ridetas) Vi do ne kredu, ke Tomas kaj mi vere estas malŝparemuloj.
+
+LA MAGISTRANTO
+Ne vi, bofratino; mi eĉ ne aludus --. (montras al la oficejo de la
+doktoro) Ĉu -- Ĉu eble li ne estas hejme?
+
+SINJORINO STOCKMANN
+Ne, li eliris por promeneto post la manĝo, -- li kaj la knaboj.
+
+LA MAGISTRANTO
+Ĉu tio estas saniga? (aŭskultas) Jen li verŝajne venas.
+
+SINJORINO STOCKMANN
+Ne, ne estas li. (oni frapas) Envenu! (_Redaktoro Hovstad_ envenas
+de la antaŭĉambro.)
+
+SINJORINO STOCKMANN
+Ha ĉu estas sinjoro Hovstad, kiu --?
+
+HOVSTAD
+Jes, pardonu, sed mi estis retenata en la presejo. Bonan vesperon,
+sinjoro magistranto.
+
+LA MAGISTRANTO
+(salutas iom retene) Sinjoro redaktoro. Eble vi venas pro fakaj
+aferoj?
+
+HOVSTAD
+Parte. Estas io por la gazeto.
+
+LA MAGISTRANTO
+Mi komprenas. Laŭdire mia frato estas tre fekunda verkisto en "La
+Popola Mesaĝo".
+
+HOVSTAD
+Jes, li degnas skribi en "La Popola Mesaĝo", kiam li pro la vero
+devas esprimi sian opinion pri io aŭ alia.
+
+SINJORINO STOCKMANN
+(al _Hovstad_) Sed ĉu vi ne volas --? (montras al la
+manĝoĉambro)
+
+LA MAGISTRANTO
+Kompreneble; mi tute ne riproĉas lin pro tio, ke li skribas por tiu
+legantaro, kie li atendas favoran resonon. Cetere mi ja persone ne
+havas kaŭzon por malŝati vian gazeton, sinjoro Hovstad.
+
+HOVSTAD
+Ne, vere ankaŭ mi opinias ke ne.
+
+LA MAGISTRANTO
+Entute regas bona, pacema spirito en nia urbo; -- vere bona civitana
+spirito. Kaj tio devenas el tio, ke ni havas grandan komunan aferon
+kune, aferon, kiu samgrade rilatas al ĉiuj honestaj civitanoj --
+
+HOVSTAD
+La banejo, jes.
+
+LA MAGISTRANTO
+Ĝuste. Ni havas nian grandan, novan, belegan banejon. Atentu! La
+banejo fariĝos la plej grava vivkondiĉo de la urbo, sinjoro
+Hovstad. Sendube!
+
+SINJORINO STOCKMANN
+Tion saman ankaŭ Tomas diras.
+
+LA MAGISTRANTO
+Kian eksterordinaran progreson la loko havas dum tiuj nuraj jaroj! La
+homoj ekhavis monon; estas vivo kaj vigleco. Konstruaĵoj kaj grundo
+plivaloriĝas de tago al tago.
+
+HOVSTAD
+Kaj la senlaboreco malkreskas.
+
+LA MAGISTRANTO
+Ankaŭ tio, jes. Por la posedantaj klasoj zorgo pri malriĉuloj estas
+konsiderinde malaltigita -- feliĉe, kaj malaltiĝos ankoraŭ pli, se
+ni ĉi tiun jaron havos vere belan someron; -- multajn vizitantajn
+fremdulojn, -- sufiĉan nombron da malsanuloj, kiuj donos famon al la
+institucio.
+
+HOVSTAD
+Kaj por tio estas ja ŝancoj, mi aŭdas.
+
+LA MAGISTRANTO
+Aspektas tre promesplene. Ĉiun tagon envenas demandoj pri loĝejoj
+kaj similaj aferoj.
+
+HOVSTAD
+Nu, do venas ja la artikolo de la doktoro ĝustatempe.
+
+LA MAGISTRANTO
+Ĉu li skribis ion ankaŭ nun?
+
+HOVSTAD
+Estas io kion li skribis mezvintre; rekomendo pri la banejo,
+priskribanta la favorajn sanigajn kondiĉojn ĉe ni. Sed tiam mi
+flankenmetis la artikolon.
+
+LA MAGISTRANTO
+Aha, estis supozeble iu manko en ĝi?
+
+HOVSTAD
+Ne, tiel ne; sed mi opiniis, ke estas pli bone atendi ĝis nun,
+printempe; ĉar nun la homoj komencas ekipi sin kaj pensi pri
+somerrestado --
+
+LA MAGISTRANTO
+Tute ĝuste; treege ĝuste, sinjoro Hovstad.
+
+SINJORINO STOCKMANN
+Jes, Tomas estas vere senlaca pri la banejo.
+
+LA MAGISTRANTO
+Nu, li ja estas en la servo de la banejo.
+
+HOVSTAD
+Jes, kaj estas ja ankaŭ _li_, kiu ĝin kreis komence.
+
+LA MAGISTRANTO
+Ĉu estas _li_? Nu tiel? Jes mi foje aŭdas, ke certaj homoj havas
+tiun opinion. Sed mi vere kredis, ke ankaŭ _mi_ faris modestan
+kontribuon al tiu entrepreno.
+
+SINJORINO STOCKMANN
+Jes, tion Tomas ĉiam diras.
+
+HOVSTAD
+Jes, kiu neas tion, sinjoro magistranto? Vi antaŭenigis la aferon
+kaj realigis ĝin; tion ni ja ĉiuj scias. Sed _mi_ nur pensis, ke la
+ideo origine venis de la doktoro.
+
+LA MAGISTRANTO
+Jes, da ideoj mia frato efektive havis sufiĉe dum sia tempo --
+bedaŭrinde. Sed kiam io estas realigenda, jen alispecaj homoj estas
+bezonataj, sinjoro Hovstad. Kaj mi vere pensis, ke precipe en tiu ĉi
+domo --
+
+SINJORINO STOCKMANN
+Sed, kara bofrato --
+
+HOVSTAD
+Kiel do la magistranto --
+
+SINJORINO STOCKMANN
+Eniru por ekhavi ion en la stomakon, sinjoro Hovstad; kaj dume mia
+edzo certe revenos.
+
+HOVSTAD
+Dankon; peceton eble. (Li iras en la manĝoĉambron.)
+
+LA MAGISTRANTO
+(iom mallaŭte) Estas strange pri tiuj homoj, kiuj devenas rekte de
+la farmistoj; neniam povas ili formeti la sendiskretecon.
+
+SINJORINO STOCKMANN
+Sed kiom valoras zorgi pri tio? Ĉu ne vi kaj Tomas povas dividi la
+honoron kiel fratoj?
+
+LA MAGISTRANTO
+Aspekte povus esti tiel; sed laŭŝajne ne estas ĉiuj kiuj estas
+kontentaj pri divido.
+
+SINJORINO STOCKMANN
+Ho, kia diro! Vi kaj Tomas ja tre bone akordiĝas. (aŭskultas) Jen
+li estas, mi pensas.
+
+(Ŝi iras kaj malfermas la pordon de la antaŭĉambro.)
+
+DOKTORO STOCKMANN
+(ridas kaj faras bruon ekstere) Jen, kroma gasto, Katrine. Ĉu ne
+ĝojige; ĉu? Bonvolu, ŝipestro Horster; jen pendigu la mantelon sur
+la hokon. Nu do, vi ja ne portas mantelon! Imagu, Katrine, mi trovis
+lin sur la strato; li preskaŭ ne volis supreniri kun mi.
+
+(_Ŝipestro Horster_ envenas kaj salutas la sinjorinon)
+
+DOKTORO STOCKMANN
+(ĉe la pordo) Eniru, knaboj. Nun ili denove estas lupe malsataj!
+Venu, ŝipestro Horster; nun vi gustumu veran rostbovaĵon --
+
+(Li puŝetas _Horster_ en la manĝoĉambron. Ankaŭ _Ejlif_ kaj
+_Morten_ eniras.)
+
+SINJORINO STOCKMANN
+Sed, Tomas, ĉu vi do ne vidas --?
+
+DOKTORO STOCKMANN
+(turnas sin ĉe la pordo) Nu, ĉu estas vi, Petro? (aliras kaj
+etendas al li la manon) Ho, vere ĝojige.
+
+LA MAGISTRANTO
+Bedaŭrinde mi devas baldaŭ foriri --
+
+DOKTORO STOCKMANN
+Babilaĵo; baldaŭ ni metos la grogon sur la tablon. Vi ne forgesas
+la grogon, Katrine?
+
+SINJORINO STOCKMANN
+Ne, ne; la akvo jam bolas. (Ŝi iras en la manĝoĉambron.)
+
+LA MAGISTRANTO
+Ankaŭ grogon --!
+
+DOKTORO STOCKMANN
+Jes, eksidu, kaj ni komfortigu nin.
+
+LA MAGISTRANTO
+Ne dankon; mi neniam partoprenas en grogfestenoj.
+
+DOKTORO STOCKMANN
+Sed tio ĉi ja ne estas iu grogfesteno.
+
+LA MAGISTRANTO
+Ŝajnas al mi -- (ekrigardas al la manĝoĉambro) Estas strange, ke
+ili kapablas konsumi tian kvanton da manĝaĵo.
+
+DOKTORO STOCKMANN
+(frotas la manojn) Jes, ĉu ne estas benate vidi junulojn manĝi?
+Ĉiam apetiton! Estas kiel devas esti. Manĝaĵon oni bezonas!
+Fortojn! Estas tiaj homoj, kiuj trafosu la fermentantan materion de
+la estonteco, Petro.
+
+LA MAGISTRANTO
+Permesu al mi demandi tra kio oni bezonus "trafosi", kiel vi
+vortumas?
+
+DOKTORO STOCKMANN
+Nu, pri tio vi devas demandi la junularon -- en pleneco de la tempo.
+Ni ne vidas. Kompreneble. Du tiaj maljunaj sentaŭguloj kiel vi kaj
+mi --
+
+LA MAGISTRANTO
+Nu do! Estas mirige stranga nomigo --
+
+DOKTORO STOCKMANN
+Nu, ne prenu mian esprimon tro litere, Petro. Ĉar sciu, mi estas
+arde ĝoja kaj kontenta. Mi sentas min nepriskribeble feliĉa meze en
+tiu ĉi ĝermanta, vigla vivo. Estas ja promesriĉa tempo en kiu ni
+vivas! Estas kvazaŭ nova mondo elkreskas ĉirkaŭ ni.
+
+LA MAGISTRANTO
+Ĉu vere vi tion trovas?
+
+DOKTORO STOCKMANN
+Jes; kompreneble vi tion ne vidas tiel bone kiel mi. Vi ja ĉiujn
+viajn tagojn vivis meze en tiu ĉi urbo; kaj tial la impres-kapablo
+malakriĝas. Sed mi, kiu devis sidi tie norde en mia forejo dum tiuj
+multaj jaroj, preskaŭ neniam vidante fremdan homon kun vekanta
+vorto, -- sur min efikis kvazaŭ mi translokiĝis mezen en vivoviglan
+metropolon.
+
+LA MAGISTRANTO
+Hm; metropolon --
+
+DOKTORO STOCKMANN
+Jes, mi ja scias, ke la cirkonstancoj estas modestaj kompare kun
+aliaj lokoj. Sed ĉi tie estas vigla vivo, -- promesoj, sennombraj
+taskoj por kiuj labori kaj batali; kaj _jen_ la ĉefa afero. (krias)
+Katrine, ĉu ne la poŝtisto venis?
+
+SINJORINO STOCKMANN
+(en la manĝoĉambro) Ne, li ankoraŭ ne venis.
+
+DOKTORO STOCKMANN
+Kaj la bona enspezo, Petro! Tion oni lernas aprezi, kiam oni kiel ni
+vivis en malsato --
+
+LA MAGISTRANTO
+Nu ja, kompreneble --
+
+DOKTORO STOCKMANN
+Ho jes, vi ja povas pensi, ke ofte estis mizere por ni tie norde. Kaj
+nun, vivi kiel grandsinjoro! Hodiaŭ ekzemple ni manĝis rostbovaĵon
+por tagmanĝo! Nu, ni ankaŭ krome havis por la vespermanĝo. Ĉu vi
+ne volas gustumi pecon? Aŭ ĉu mi do almenaŭ montru ĝin al vi?
+Venu --
+
+LA MAGISTRANTO
+Ne, ne, tute ne --
+
+DOKTORO STOCKMANN
+Nu, sed jen do. Ĉu vi vidas, ke ni ekhavis tablotukon?
+
+LA MAGISTRANTO
+Jes, mi tion rimarkis.
+
+DOKTORO STOCKMANN
+Kaj ni ankaŭ ekhavis lampŝirmilon. Jen vidu! Por ĉio Katrine
+ŝparis. Kaj tio faras la ĉambron vere hejmeca. Ĉu vi ne
+samopinias? Staru ĉi tie; -- ne, ne, ne; ne tiel. Jen tiel! Vidu;
+kiam la lumo radias tiel faske --. Mi vere trovas, ke aspektas
+elegante. Ĉu ne?
+
+LA MAGISTRANTO
+Jes, kiam oni povas permesi al si tiajn luksaĵojn --
+
+DOKTORO STOCKMANN
+Ho jes, nun mi ja povas tion permesi al mi. Katrine diras, ke mi
+enspezas preskaŭ same multe kiom ni foruzas.
+
+LA MAGISTRANTO
+Preskaŭ, jes --!
+
+DOKTORO STOCKMANN
+Sed sciencisto devas ja vivi iom distingite. Mi estas certa, ke
+ordinara guberniestro foruzas multe pli jare ol mi.
+
+LA MAGISTRANTO
+Jes, mi vere kredas! Guberniestro, aŭtoritatulo --
+
+DOKTORO STOCKMANN
+Nu, do ordinara grandkomercisto! Tia ulo foruzas multfoje pli --
+
+LA MAGISTRANTO
+Jes ja, laŭ ties kondiĉoj.
+
+DOKTORO STOCKMANN
+Cetere mi ne disipas por senutilaĵoj, Petro. Sed mi pensas, ke mi ne
+povas rezigni pri la ega ĝojo vidi homojn ĉe mi. Mi tion bezonas,
+komprenu. Mi, kiu sidis tiom longe izolite, -- por mi estas nepra
+vivkondiĉo esti kune kun junaj, bravaj, viglaj homoj, entreprenemaj
+--; kaj tiaj ili estas, ĉiuj tiuj kiuj sidas tie manĝante tiel
+bone. Mi dezirus, ke vi iom bone konus Hovstad.
+
+LA MAGISTRANTO
+Jes Hovstad, li ja rakontis, ke li presigos novan artikolon de vi.
+
+DOKTORO STOCKMANN
+Artikolon de mi?
+
+LA MAGISTRANTO
+Jes, pri la banejo. Artikolon, kiun vi verkis vintre.
+
+DOKTORO STOCKMANN
+Ho tiun, jes! -- Ne, ĝin mi ĝisplue ne volas presigi.
+
+LA MAGISTRANTO
+Ĉu ne? Laŭ mi ja estas la plej oportuna tempo.
+
+DOKTORO STOCKMANN
+Jes, vi pravus; dum ordinaraj cirkonstancoj -- (paŝadas sur la
+planko)
+
+LA MAGISTRANTO
+(postrigardas lin) Kio neordinara estus pri la cirkonstancoj nun?
+
+DOKTORO STOCKMANN
+(haltas) Nu, Petro, tion mi en la momento vere ne povas al vi diri;
+almenaŭ ne ĉi-vespere. Povas esti diverse pri la cirkonstancoj, aŭ
+eble eĉ nenio. Eble estas nur imago.
+
+LA MAGISTRANTO
+Mi devas konfesi, ke tio sonas vere enigme. Ĉu io estos okazanta?
+Io, pri kio mi ne estu informata? Mi do opinius, ke mi, kiel la estro
+de la baneja estraro --
+
+DOKTORO STOCKMANN
+Kaj mi opinius, ke mi --; nu, ni do ne har-tiru unu la alian, Petro.
+
+LA MAGISTRANTO
+Pro dio; ne estas mia kutimo har-tiri, kiel vi diras. Sed mi devas
+plej firme postuli, ke ĉiuj iniciatoj estu decidataj komerce kaj per
+la leĝe elektitaj aŭtoritatuloj. Mi ne povas permesi, ke oni iras
+laŭ insidaj vojoj malantaŭ niaj dorsoj!
+
+DOKTORO STOCKMANN
+Ĉu _mi_ iam iras laŭ insidaj vojoj?
+
+LA MAGISTRANTO
+Vi almenaŭ havas enradikiĝintan emon iri viajn proprajn vojojn. Kaj
+tio estas en bone ordigita socio preskaŭ same nepermesebla. La
+individuo vere akceptu, ke li subordigu sin al la tuto, aŭ, pli
+ĝuste, sub tiuj aŭtoritatuloj, kies tasko estas gardi la bonon de
+la tutaĵo.
+
+DOKTORO STOCKMANN
+Povas esti. Sed diable, kiel tio rilatas al mi?
+
+LA MAGISTRANTO
+Jes, ĉar estas tio, kion vi aspekte neniam volas lerni, mia bona
+Tomas. Sed gardu vin; iun tagon vi pagos por tio, -- frue aŭ
+malfrue. Nun mi avertis vin. Adiaŭ.
+
+DOKTORO STOCKMANN
+Ĉu vi estas freneza? Vi tute eraras --
+
+LA MAGISTRANTO
+Tion mi ordinare ne faras. Cetere mi ne toleras -- (salutas en la
+manĝoĉambron) Adiaŭ, bofratino. Adiaŭ sinjoroj.
+
+(Li foriras.)
+
+SINJORINO STOCKMANN
+(revenas en la sidĉambron) Ĉu li foriris?
+
+DOKTORO STOCKMANN
+Jes, kaj furioza.
+
+SINJORINO STOCKMANN
+Sed kara Tomas, kion vi nun denove faris al li?
+
+DOKTORO STOCKMANN
+Tute nenion. Li do ne rajtas postuli, ke mi faru al li raporton
+antaŭtempe.
+
+SINJORINO STOCKMANN
+Pri kio vi farus al li raporton?
+
+DOKTORO STOCKMANN
+Hm; lasu tion al mi, Katrine. -- Tamen estas strange, ke la poŝtisto
+ne venas.
+
+(_Hovstad_, _Billing_ kaj _Horster_ ekstaris de la manĝotablo kaj
+venas en la sidĉambron. _Ejlif_ kaj _Morten_ venos iom poste.)
+
+BILLING
+(streĉas la brakojn) Aĥ, post tia manĝo, je dia morto, oni sentas
+sin kiel nova homo.
+
+HOVSTAD
+La magistranto ne estis en la bona angulo ĉi-vespere.
+
+DOKTORO STOCKMANN
+Venas de la stomako; li havas malbonan digeston.
+
+HOVSTAD
+Certe estis ni el "La Popola Mesaĝo", kiujn li ne povis digesti.
+
+SINJORINO STOCKMANN
+Vi ja sufiĉe bone akordiĝis kun li, laŭŝajne.
+
+HOVSTAD
+Ho, jes; sed estas ja nenio alia ol iu militpaŭzo.
+
+BILLING
+_Jen_ la vorto! Ĝi rezumas la situacion.
+
+DOKTORO STOCKMANN
+Vi devas memori, ke Petro estas soleca homo, la kompatindulo. Li ne
+havas hejmon por ĝui la etoson; nur aferoj, aferoj. Kaj aldone tiu
+damnita sengusta teakvo, kiun li glutadas. Nu, metu do seĝojn al la
+tablo, knaboj! Katrine, ĉu nun la grogon?
+
+SINJORINO STOCKMANN
+(irante al la manĝoĉambro) Tuj mi ĝin alportos.
+
+DOKTORO STOCKMANN
+Kaj eksidu en la sofon ĉe mi, ŝipestro Horster. Rara gasto kiel vi
+--. Bonvolu preni lokojn, miaj amikoj.
+
+(La sinjoroj eksidas ĉirkaŭ la tablo. _Sinjorino Stockmann_
+alportas pleton, sur kiu estas bolilo, glasoj, karafoj kaj aliaj
+necesaĵoj.)
+
+SINJORINO STOCKMANN
+Jen arako, kaj tio ĉi estas rumo; kaj jen konjako. Nun ĉiu helpu
+sin mem.
+
+DOKTORO STOCKMANN
+(prenas glason) Efektive ni faru. (dum la grogo miksiĝas) Kaj nun
+la cigaroj. Ejlif, vi ja scias kie estas la skatolo. Kaj vi, Morten,
+trovu mian pipon. (La knaboj iras en la ĉambron dekstre.) Mi
+suspektas, ke Ejlif foje kaptas cigaron; sed mi ŝajnigas nescianta.
+(vokas) Kaj ankaŭ mian kaloton, Morten! Katrine, diru al li kien mi
+metis ĝin. Nu, li ja ĝin havas! (La knaboj alportas la
+pridemanditajn aĵojn.) Bonvolu, miaj amikoj. Mi preferas la pipon,
+vi scias; tiu ĉi faris kun mi multajn ekskursojn en aĉa vetero tie
+supre en Nordlando. (tostas) Je via sano! Aĥ, verdire estas iom pli
+bone sidi ĉi tie sekure kaj agrable.
+
+SINJORINO STOCKMANN
+(trikante) Ĉu vi baldaŭ forvelos, ŝipestro Horster?
+
+HORSTER
+Mi pensas, ke venontan semajnon mi estos preta.
+
+SINJORINO STOCKMANN
+Kaj vi ja iros al Ameriko?
+
+HORSTER
+Jes, mi intencas.
+
+BILLING
+Sed tiel vi ne povos partopreni la komunuman elekton.
+
+HORSTER
+Ĉu okazos novaj elektoj?
+
+BILLING
+Vi tion ne scias?
+
+HORSTER
+Ne, mi ne miksas min en tiujn aferojn.
+
+BILLING
+Sed vi do tamen interesiĝas pri la publikaj aferoj, ĉu?
+
+HORSTER
+Ne, tiujn mi ne komprenas.
+
+BILLING
+Tamen; voĉdoni oni ja devas.
+
+HORSTER
+Eĉ tiuj, kiuj ne komprenas la aferon?
+
+BILLING
+Komprenas? Kion vi volas diri per tio? La socio estas kvazaŭ ŝipo;
+ĉiuj devas meti la manon sur la stirilon.
+
+HORSTER
+Eble tio estas avantaĝa sur la tero; sed sur ŝipo tio efikus
+malbone.
+
+HOVSTAD
+Estas strange, ke la plimulto de maristoj interesiĝas tiom malmulte
+pri la aferoj de la lando.
+
+BILLING
+Vere strange.
+
+DOKTORO STOCKMANN
+Maristoj estas kiel migraj birdoj; Ili sentas sin hejme en sudo kaj
+en nordo. Sed tial ni aliuloj devas esti tiom pli agemaj, sinjoro
+Hovstad. Ĉu aperos io komune utila en "La Popola Mesaĝo" morgaŭ?
+
+HOVSTAD
+Nenio pri la urbaj aferoj. Sed postmorgaŭ mi intencas enpreni vian
+artikolon --
+
+DOKTORO STOCKMANN
+Jes, morto kaj infero, la artikolon! Nun ne, aŭskultu, vi devas
+atendi pri ĝi.
+
+HOVSTAD
+Ĉu? Nun ni havas ja tre bonan spacon, kaj ŝajnas al mi, ke estas la
+plej oportuna momento --
+
+DOKTORO STOCKMANN
+Jes, jes; vi eble pravas; sed tamen vi devas atendi. Mi klarigos al
+vi post iom --
+
+(_Petra_, en ĉapelo kaj mantelo kaj kun amaseto da kajeroj sub la
+brako, envenas el la antaŭĉambro.)
+
+PETRA
+Bonan vesperon.
+
+DOKTORO STOCKMANN
+Bonan vesperon, Petra; jen vi do estas?
+
+(reciprokaj salutoj; _Petra_ demetas la vestaĵojn kaj la kajerojn
+sur seĝon apud la pordo.)
+
+PETRA
+Kaj jen oni sidas komfortante sin, dum mi penegis en mia laboro.
+
+DOKTORO STOCKMANN
+Nu, do partoprenu la komforton ankaŭ vi.
+
+BILLING
+Ĉu mi pretigu glaseton por vi?
+
+PETRA
+(venas al la tablo) Dankon, mi preferas mem; vi ĉiam faras ĝin tro
+forta. Sed patro, fakte mi havas leteron por vi. (iras al la seĝo,
+kie kuŝas la vestaĵoj)
+
+DOKTORO STOCKMANN
+Leteron! De kiu?
+
+PETRA
+(serĉas en la mantelpoŝo) Mi ricevis ĝin de la poŝtisto ĵus
+kiam mi eliris --
+
+DOKTORO STOCKMANN
+(ekstaras kaj iras al ŝi renkonte) Kaj nur nun vi ĝin donas!
+
+PETRA
+Mi vere ne havis tempon kuri returnen. Bonvolu, jen ĝi estas.
+
+DOKTORO STOCKMANN
+(kaptas la leteron) Mi vidu, mi vidu, infano. (rigardas la
+surskribon) Jes, ĝuste --!
+
+SINJORINO STOCKMANN
+Ĉu estas _tiu_ kiun vi tiel atendis, Tomas?
+
+DOKTORO STOCKMANN
+Jes ĝuste; nun mi tuj devas eniri -- Kie trovos mi lampon, Katrine?
+Ĉu denove ne troviĝas lampo en mia ĉambro!
+
+SINJORINO STOCKMANN
+Jes, la lampo estas ja lumanta sur la skribotablo.
+
+DOKTORO STOCKMANN
+Bone, bone. Pardonu momenton --
+
+(Li iras en la ĉambron dekstre.)
+
+PETRA
+Kio do tio estas, patrino?
+
+SINJORINO STOCKMANN
+Mi ne scias; la lastajn tagojn li ofte demandis pri la poŝtisto.
+
+BILLING
+Supozeble eksterurba paciento --
+
+PETRA
+Kompatinda patro; li baldaŭ havos tro multe da laboro. (pretigas
+sian glason) Ho, bone gustos!
+
+HOVSTAD
+Ĉu ankaŭ hodiaŭ vi instruis en la vesperlernejo?
+
+PETRA
+(trinketas) Du horojn.
+
+BILLING
+Kaj antaŭtagmeze kvar horojn en la instituto --
+
+PETRA
+(eksidas ĉe la pordo) Kvin horojn.
+
+SINJORINO STOCKMANN
+Kaj ĉi-vespere vi devas kontrollegi skribajn taskojn, mi vidas.
+
+PETRA
+Amaseton, jes.
+
+HORSTER
+Aspekte vi havas sufiĉan laboron.
+
+PETRA
+Jes; kaj bone. Oni tiam fariĝas tiel kontentige laca.
+
+BILLING
+Vi tion ŝatas, ĉu?
+
+PETRA
+Jes, ĉar tiam oni poste dormas tiel bone.
+
+MORTEN
+Vi certe estas granda pekulino, vi, Petra.
+
+PETRA
+Pekulino?
+
+MORTEN
+Jes, ĉar vi tiom multe laboras. Sinjoro Rørlund diras, ke laboro
+estas puno pro niaj pekoj.
+
+EJLIF
+(spitblovas moke) Fu, kiel stulta vi estas, ke vi kredas tiaĵon.
+
+SINJORINO STOCKMANN
+Nu, nu, Ejlif!
+
+BILLING
+(ridas) Jen, bonege.
+
+HOVSTAD
+Ĉu vi ne volas multe labori, Morten?
+
+MORTEN
+Ne, mi ne volas.
+
+HOVSTAD
+Nu, sed kio vi do volas fariĝi en la vivo?
+
+MORTEN
+Mi plej ŝatus fariĝi vikingo, mi.
+
+EJLIF
+Kaj do vi devus ja esti pagano.
+
+MORTEN
+Ja, ja; mi povus ja fariĝi pagano.
+
+BILLING
+Mi konsentas kun vi, Morten! Mi diras ĝuste la samon.
+
+SINJORINO STOCKMANN
+(faras signon) Ne, certe vi ne faras, sinjoro Billing.
+
+BILLING
+Jes, dia morto --! Mi _estas_ pagano, kaj pri tio mi fieras. Atentu,
+baldaŭ ni estos paganoj, la tuta aro.
+
+MORTEN
+Kaj ĉu _ni tiam_ rajtos fari ĉion laŭ nia volo?
+
+BILLING
+Jes, vidu, Morten --
+
+SINJORINO STOCKMANN
+Eniru nun, knaboj; vi certe devas ion legi por morgaŭ.
+
+EJLIF
+_Mi_ povus tamen resti tempeton --
+
+SINJORINO STOCKMANN
+Eĉ vi ne; eniru ambaŭ.
+
+(La knaboj diras bonan nokton kaj iras en la ĉambron maldekstre.)
+
+HOVSTAD
+Ĉu vi vere opinias, ke malutilas al la knaboj aŭdi tiaĵon?
+
+SINJORINO STOCKMANN
+Mi ja ne scias; sed mi ne ŝatas.
+
+PETRA
+Jes, sed patrino, mi opinias, ke vere estas malsaĝe de vi.
+
+SINJORINO STOCKMANN
+Jes, povas esti; sed mi tion ne ŝatas; ne en la hejmo.
+
+PETRA
+Estas tiom da mensogoj kaj hejme kaj en la lernejo. En la hejmo oni
+prisilentu, kaj en la lernejo ni devas mensogi antaŭ la infanoj.
+
+HORSTER
+Vi devas mensogi, ĉu?
+
+PETRA
+Jes, ĉu vi ne scias, ke ni devas prezenti multon, kion ni mem ne
+kredas?
+
+BILLING
+Jes, estas ja tro certe.
+
+PETRA
+Se mi havus rimedojn, mi mem starigus lernejon, kaj tie instruiĝus
+tute alimaniere.
+
+BILLING
+Ho ĉu, rimedojn --
+
+HORSTER
+Nu, se vi pri _tio_ pensas, fraŭlino Stockmann, vi povos de mi
+volonte havi ejon. La granda malnova domo de karmemora patro
+staras ja preskaŭ malplena; tie estas granda manĝosalono sur
+la teretaĝo --
+
+PETRA
+(ridas) Ja, ja, dankon al vi; sed ne efektiviĝos.
+
+HOVSTAD
+Ho ne, fraŭlino Petra prefere transiros al la gazetskribantoj, mi
+pensas. Sed aŭdu, ĉu vi havis tempon iom trarigardi la anglan
+rakonton, kiun vi promesis traduki por ni?
+
+PETRA
+Ne, ankoraŭ ne; sed vi ricevu ĝin en ĝusta tempo.
+
+(_Doktoro Stockmann_ venas de sia ĉambro kun la malfermita letero en
+la mano.)
+
+DOKTORO STOCKMANN
+(svingas la leteron) Jen, nun vi sciu, ke aŭdiĝos novaĵo en la
+urbo!
+
+BILLING
+Novaĵo?
+
+SINJORINO STOCKMANN
+Kia novaĵo?
+
+DOKTORO STOCKMANN
+Granda malkovro, Katrine!
+
+HOVSTAD
+Ĉu?
+
+SINJORINO STOCKMANN
+Kiun vi faris?
+
+DOKTORO STOCKMANN
+Jes, ĝuste mi. (paŝas tien kaj reen) Ke ili nun venu, kiel ili
+kutimas, kaj lasu ilin diri, ke estas kapricoj kaj ideoj de
+frenezulo. Sed ili gardu sin! Haha, ili gardu sin, mi pensas!
+
+PETRA
+Sed, patro, diru do pri kio tio temas.
+
+DOKTORO STOCKMANN
+Jes, jes, atendu nur iomete, kaj vi sciu ĉion. Imagu se mi nun havus
+Petron ĉi tie! Jes, jen oni vidas, kiel ni homoj povas ĉirkaŭiri
+kaj juĝi kiel la plej blindaj talpoj --
+
+HOVSTAD
+Kion vi aludas per tio, sinjoro doktoro?
+
+DOKTORO STOCKMANN
+(haltas apud la tablo) Ĉu ne estas komuna opinio, ke nia urbo estas
+saniga loko?
+
+HOVSTAD
+Jes, kompreneble.
+
+DOKTORO STOCKMANN
+Eĉ eksterordinare saniga loko, -- loko, kiu meritas la plej ardan
+rekomendon por malsanuloj same kiel por sanaj homoj --
+
+SINJORINO STOCKMANN
+Jes sed, kara Tomas --
+
+DOKTORO STOCKMANN
+Kaj rekomendi ĝin kaj laŭdi ĝin ni ja faris. Mi skribadis kaj en
+"La Popola Mesaĝo" kaj en flugfolioj --
+
+HOVSTAD
+Nu jes, kaj sekve?
+
+DOKTORO STOCKMANN
+Tiu banejo, kiu nomiĝas la arterio de la urbo, kaj ĝia vivnervo kaj
+-- kaj diablo scias kion oni elpensis --
+
+BILLING
+"La pulsanta koro de la urbo" mi iam en solena momento permesis al mi --
+
+DOKTORO STOCKMANN
+Ho jes, ankaŭ tio. Sed ĉu vi vere scias, kio estas ĉi tiu granda,
+grandioza, laŭdata banejo, kiu kostis tiom da mono, -- ĉu vi scias
+kio tiu estas?
+
+HOVSTAD
+Ne, sed kio ĝi do estas?
+
+SINJORINO STOCKMANN
+Nu, kio ĝi estas?
+
+DOKTORO STOCKMANN
+La tuta banejo estas pestejo.
+
+PETRA
+La banejo, patro!
+
+SINJORINO STOCKMANN
+(samtempe) Nia banejo!
+
+HOVSTAD
+(same) Sed, sinjoro doktoro --
+
+BILLING
+Absolute nekredeble!
+
+DOKTORO STOCKMANN
+La tuta banejo estas kalkita venena tombo, mi diras. Sanece
+danĝerega! Ĉiuj tiuj malpuregaĵoj supre en la Muelejvalo, -- ĉio
+tio kio odoras tiel abomene, -- tio infektas la akvon en la kondukaj
+tuboj al la putodomo; kaj tiu sama venena malpuraĵo sorbiĝas en la
+plaĝon --
+
+HOVSTAD
+-- kie la marbanejoj situas?
+
+DOKTORO STOCKMANN
+Ĝuste tie.
+
+HOVSTAD
+De kio vi scias tion ĉi tiel certe, sinjoro doktoro?
+
+DOKTORO STOCKMANN
+Mi ekzamenis la staton plej eble konscience. Ho, mi longe iris kun
+suspekto pri io tia. Pasintjare ni havis kelkajn neatenditajn kazojn
+de malsano inter la vizitantoj ĉe la banejo, -- kaj tifaj kaj
+gastraj --
+
+SINJORINO STOCKMANN
+Jes, vere okazis.
+
+DOKTORO STOCKMANN
+Tiam ni opiniis, ke la fremduloj kunportis la infekton; sed poste, --
+vintre, -- mi ekhavis aliajn pensojn; kaj mi komencis ekzameni la
+akvon kiel eble plej zorge.
+
+SINJORINO STOCKMANN
+Do estas pri _tio_, ke vi estis tiom okupata!
+
+DOKTORO STOCKMANN
+Jes, vi vere povas diri, ke mi estis okupata, Katrine. Sed ĉi tie
+mankis al mi la necesaj sciencaj helpiloj; kaj mi sendis al la
+universitato provspecimenojn el la trinkakvo kaj el la marakvo por
+ekhavi ekzaktan analizon faritan de kemiisto.
+
+HOVSTAD
+Kaj ĝin vi nun ricevis?
+
+DOKTORO STOCKMANN
+(montras la leteron) Jen mi havas ĝin! Li trovis ĉeeston de
+putrantaj organikaj materioj en la akvo, -- infuzorioj amase. Estas
+absolute malsanige ĉu uzata interne ĉu ekstere.
+
+SINJORINO STOCKMANN
+Estas dia feliĉo, ke vi malkovris tion ĝustatempe.
+
+DOKTORO STOCKMANN
+Jes, en tio vi pravas.
+
+HOVSTAD
+Kion vi nun intencas fari, sinjoro doktoro?
+
+DOKTORO STOCKMANN
+Kompreneble plibonigi la aferon.
+
+HOVSTAD
+Ĉu tio eblas?
+
+DOKTORO STOCKMANN
+Devas esti ebla. Alie la tuta banejo estas neuzebla, -- detruita. Sed
+ne estas katastrofo. Mi klare scias, kion ni devas fari.
+
+SINJORINO STOCKMANN
+Sed kara Tomas, ke vi tenis tion ĉi tiel sekreta.
+
+DOKTORO STOCKMANN
+Ĉu mi kurus ĉirkaŭe en la urbo babilante, antaŭ ol scii certe? Ho
+ne; tiel freneza mi ne estas.
+
+PETRA
+Nu, sed al ni hejme --
+
+DOKTORO STOCKMANN
+Eĉ ne al unu sola vivanta animo. Sed morgaŭ vi povos kuri vizite al
+la "melo" --
+
+SINJORINO STOCKMANN
+Sed Tomas do --!
+
+DOKTORO STOCKMANN
+Nu do, al avo. Jes, nun li ekhavos ion por primiri, la maljunulo; li
+ja kredas, ke mi estas freneza en mia kapo; nu ja, estas pluraj kiuj
+havas la saman opinion, mi rimarkis. Sed nun tiuj bonuloj vidu --;
+nun ili vidu --! (paŝadas ĉirkaŭe frotante la manojn) Fariĝos
+ega bruo en la urbo, Katrine. Vi ne povas imagi. La tuta akvotubaro
+estu refosota.
+
+HOVSTAD
+(ekstaras) La tuta akvotubaro --?
+
+DOKTORO STOCKMANN
+Jes, kompreneble. La enlasejo situas tro malalte; oni translokigu
+ĝin al loko multe pli alta.
+
+PETRA
+Kaj tiel vi tamen finfine praviĝas.
+
+DOKTORO STOCKMANN
+Jes, ĉu vi memoras, Petra? Mi skribis kontraŭ ili, kiam ili estis
+konstruontaj. Sed tiam estis neniu, kiu volis aŭskulti min. Nun,
+kredu, mi donos al ili plenan salvon; -- jes, ĉar mi kompreneble
+skribis raporton al la banejestraro; ĝi kuŝis preta tutan semajnon;
+mi nur atendis tiun ĉi. (montras la leteron) Sed nun mi tuj
+ekspedos ĝin (iras en sian ĉambron kaj revenas kun pakaĵo da
+paperoj) Jen vidu! Kvar dense skribitajn foliojn! Kaj la letero estu
+kunmetata. Gazeton, Katrine! Havigu ion al mi por kovraĵo. Bone;
+jen; donu ĝin al -- al --; (stamfas) kiel diable ŝi nomiĝas? Nu,
+donu ĝin al la servistino; diru, ke ŝi tuj portu ĝin al la
+magistranto.
+
+(_Sinjorino Stockmann_ iras kun la pakaĵo tra la manĝoĉambro.)
+
+PETRA
+Kion vi pensas, ke onklo Petro diros, patro?
+
+DOKTORO STOCKMANN
+Kion li do dirus? Li certe estos ĝoja vidante, ke tia grava vero
+malkovriĝas, mi pensas.
+
+HOVSTAD
+Ĉu vi permesas, ke mi faros etan noticon en "La Popola Mesaĝo" pri
+via malkovro?
+
+DOKTORO STOCKMANN
+Jes, vere dankon pro tio.
+
+HOVSTAD
+Estas ja dezirinde, ke la publiko sciu plej eble frue.
+
+DOKTORO STOCKMANN
+Jes, certe estas.
+
+SINJORINO STOCKMANN
+(revenas) Nun ŝi foriris kun ĝi.
+
+BILLING
+Vi fariĝos, je dia morto, la elstarulo de la urbo, sinjoro doktoro!
+
+DOKTORO STOCKMANN
+(kontente paŝadas ĉirkaŭen) Ho ĉu; funde mi ja nur faris mian
+devon. Mi estis bonŝanca trezorfosisto; tio estas la tuto; sed
+tamen --
+
+BILLING
+Hovstad, ĉu vi ne opinias, ke la urbo devus fari procesion por
+doktoro Stockmann?
+
+HOVSTAD
+Tiun ideon mi ĉiuokaze subtenos.
+
+BILLING
+Kaj mi parolos kun Aslaksen pri tio.
+
+DOKTORO STOCKMANN
+Ne, karaj amikoj, lasu tian arlekenaĵon; mi ne akceptos iujn
+aranĝojn. Kaj se la banejestraro ekpensus decidi por mi plialtigon
+de la salajro, mi ne akceptos ĝin. Katrine, mi diras al vi, -- mi ne
+akceptos ĝin.
+
+SINJORINO STOCKMANN
+Kaj vi faras ĝuste, Tomas.
+
+PETRA
+(suprenlevas sian glason) Je via sano, patro!
+
+HOVSTAD kaj BILLING
+Je via sano, je via sano, sinjoro doktoro.
+
+HORSTER
+(tuŝetas glason kun la doktoro) Ke vi havu nur feliĉon el tio ĉi.
+
+DOKTORO STOCKMANN
+Dankon, dankon, miaj karaj amikoj! Mi estas elkore ĝoja --; ho,
+estas tamen benate scii pri si mem, ke oni faris sin meritinda por
+sia naskiĝurbo kaj siaj kuncivitanoj. Hura, Katrine!
+
+(Li kaptas ŝin per ambaŭ manoj ĉirkaŭ la kolo kaj turniĝadas kun
+ŝi. _Sinjorino Stockmann_ krias kaj kontraŭbatalas. Ridado,
+aplaŭdado kaj huraoj por la doktoro. La knaboj elmetas siajn kapojn
+ĉe la pordo.)
+
+
+
+
+DUA AKTO
+
+
+(La sidĉambro de la doktoro. La pordo de la manĝoĉambro estas
+fermita. Antaŭtagmeze.)
+
+SINJORINO STOCKMANN
+(Kun sigelita letero en la mano venas de la manĝoĉambro, iras al
+la antaŭa pordo dekstre kaj enrigardas.) Ĉu vi estas hejme, Tomas?
+
+DOKTORO STOCKMANN
+(interne) Jes, mi ĵus revenis. (venas) Ĉu estas io?
+
+SINJORINO STOCKMANN
+Letero de via frato. (donas ĝin al li)
+
+DOKTORO STOCKMANN
+Aha, ni rigardu. (daŭre legas murmurante) Hm --
+
+SINJORINO STOCKMANN
+Kion li do diras?
+
+DOKTORO STOCKMANN
+(metas la paperojn en la poŝon) Ne, li nur skribas, ke li mem
+vizitos nin tagmeze.
+
+SINJORINO STOCKMANN
+Do memoru, ke vi tiam estu hejme.
+
+DOKTORO STOCKMANN
+Jes, mi ja povos; ĉar mi jam finis miajn antaŭtagmezajn vizitojn.
+
+SINJORINO STOCKMANN
+Vere mi estas scivola aŭdi kiel li konsideras la aferon.
+
+DOKTORO STOCKMANN
+Eble li ne ŝatas, ke estas mi kaj ne li mem, kiu faris la malkovron.
+
+SINJORINO STOCKMANN
+Jes, ĉu ankaŭ vi tion timas?
+
+DOKTORO STOCKMANN
+Nu, funde li kompreneble fariĝos ĝoja. Sed tamen --; Petro tiel
+diable timas, ke aliaj homoj ol li mem, faras ion por la bono de la
+urbo.
+
+SINJORINO STOCKMANN
+Sed sciu, Tomas, -- vi devus esti tiel ĝentila, ke vi dividu la
+honoron kun li. Ĉu oni ne povus diri, ke estas li, kiu unue metis
+vin sur la spuron --?
+
+DOKTORO STOCKMANN
+Jes, egale por mi. Se mi nur sukcesos rebonigi la aferon.
+
+MALJUNA MORTEN KIIL
+(enmetas la kapon ĉe la antaŭĉambra pordo, ĉirkaŭrigardas
+ekzamene, ridas kaŝe kaj demandas ruze) Ĉu estas -- estas vero?
+
+SINJORINO STOCKMANN
+(al li renkonte) Patro, -- ĉu estas vi!
+
+DOKTORO STOCKMANN
+Jen, jen, bopatro; bonan matenon, bonan matenon!
+
+SINJORINO STOCKMANN
+Ho, sed envenu do.
+
+MORTEN KIIL
+Jes, se estas vero; ĉar alie mi foriros.
+
+DOKTORO STOCKMANN
+Kio estas vero?
+
+MORTEN KIIL
+Tiu stultaĵo pri la akvosistemo. Ĉu ĝi estas vero?
+
+DOKTORO STOCKMANN
+Kompreneble estas vero. Sed kiel _vi_ sciiĝis pri _tio_?
+
+MORTEN KIIL
+(envenas) Petra enkuris, kiam ŝi iris al la lernejo --
+
+DOKTORO STOCKMANN
+Ĉu ŝi faris?
+
+MORTEN KIIL
+Jes ja; kaj ŝi rakontis --. Mi pensis, ke ŝi volis nur ridindigi
+min; sed tia Petra ja ne estas.
+
+DOKTORO STOCKMANN
+Ne, kiel vi povus pensi tiaĵon!
+
+MORTEN KIIL
+Ho, oni fidu neniun; oni povas esti ridindigata antaŭ ol oni scias.
+Sed tio tamen do estas vero, ĉu?
+
+DOKTORO STOCKMANN
+Jes, efektive tiel estas. Eksidu nun, bopatro. (sidigas lin en la
+sofon) Kaj ĉu ne estas vera feliĉo por la urbo --?
+
+MORTEN KIIL
+(baraktas kun la ridado) Feliĉo por la urbo?
+
+DOKTORO STOCKMANN
+Jes, ke mi faris tiun malkovraĵon ĝustatempe --
+
+MORTEN KIIL
+(kiel antaŭe) Ja ja ja! -- Sed neniam mi imagis, ke vi volis fari
+arlekenaĵon pri via propra samsanga frato.
+
+DOKTORO STOCKMANN
+Arlekenaĵon!
+
+SINJORINO STOCKMANN
+Sed, kara patro --
+
+MORTEN KIIL
+(ripozigas la manojn kaj la mentonon sur la bastonbutonon kaj
+palpebrumas ruze al la doktoro) Kiel efektive estis? Ĉu ne iuj
+bestoj enrampis en la akvotubojn?
+
+DOKTORO STOCKMANN
+Ho jes, infuzorioj.
+
+MORTEN KIIL
+Kaj eĉ multaj tiaj bestoj envenis, diris Petra. Enorma amaso.
+
+DOKTORO STOCKMANN
+Nu jes; ili povas ĉeesti en centmiloj.
+
+MORTEN KIIL
+Sed neniu povas vidi ilin, -- ĉu ne estas tiel?
+
+DOKTORO STOCKMANN
+Ne, vidi ilin oni ne povas.
+
+MORTEN KIIL
+(silente klukridante) Jeno estas, diablo portu min, la plej bona,
+kion mi ĝis nun aŭdis pri vi.
+
+DOKTORO STOCKMANN
+Kiel? Kio?
+
+MORTEN KIIL
+Sed neniel vi povos kredigi tiaĵon al la magistranto.
+
+DOKTORO STOCKMANN
+Nu, ni vidos.
+
+MORTEN KIIL
+Ĉu vi imagas lin tiel freneza?
+
+DOKTORO STOCKMANN
+Mi esperas, ke la tuta urbo estas tiel freneza.
+
+MORTEN KIIL
+La tuta urbo! Jes, povas esti. Sed tion ili meritas; tio servu al ili
+bone. Ili estus tiom pli saĝaj ol ni maljunuloj. Ili hundbalotis min
+el la urba konsilantaro. Jes, tiel mi diras; ĉar ili balotis pri mi
+kiel pri hundo. Sed nun ili ekhavos. Faru arlekenaĵon pri ili,
+Stockmann.
+
+DOKTORO STOCKMANN
+Sed bopatro --
+
+MORTEN KIIL
+Nur arlekenaĵon, mi diras. (ekstaras) Se vi kapablas tion fari,
+tiel ke la magistranto kaj liaj amikoj kuros ĉirkaŭe nur flarante
+sian propran odoron, mi surloke donos cent kronojn al la malriĉuloj.
+
+DOKTORO STOCKMANN
+Nu, tio estas ja ĝentila.
+
+MORTEN KIIL
+Jes, mi ja ne havas multe por disponi, vi scias; sed se vi tion
+kapablas, mi pensos pri la mizeruloj per kvindek kronoj julvespere.
+
+(_Redaktoro Hovstad_ venas de la antaŭĉambro.)
+
+HOVSTAD
+Bonan matenon! (haltas) Ho, pardonu --
+
+DOKTORO STOCKMANN
+Ne, ne. Envenu; envenu.
+
+MORTEN KIIL
+(denove klukridas) Li! Ĉu ankaŭ li partoprenas?
+
+HOVSTAD
+Kion vi aludas?
+
+DOKTORO STOCKMANN
+Jes, kompreneble, li partoprenas.
+
+MORTEN KIIL
+Ĉu mi ne tion pensus! Estos enmetata en la gazetojn. Jes, vi estas
+vere la ĝusta, Stockmann. Sed faru vian kabalon; nun mi foriros.
+
+DOKTORO STOCKMANN
+Ho ne; restu iomete, bopatro.
+
+MORTEN KIIL
+Ne, nun mi foriros. Kaj eltrovu kiel eble plej multajn arlekenaĵojn;
+diable, tion vi ne estu farinta por nenio.
+
+(Li eliras; _Sinjorino Stockmann_ akompanas lin eksteren.)
+
+DOKTORO STOCKMANN
+(ridas) Imagu, -- la maljunulo kredas eĉ ne unu vorton el tio ĉi
+pri la akvoliverejo.
+
+HOVSTAD
+Ĉu estis _tiu_ afero --?
+
+DOKTORO STOCKMANN
+Jes, pri tiu ni parolis. Kaj eble estas koncerne la samon, ke ankaŭ
+vi venas?
+
+HOVSTAD
+Jes, estas pri ĝi. Ĉu vi havas liberan momenton, sinjoro doktoro?
+
+DOKTORO STOCKMANN
+Tiom longe kiom vi deziras, kara.
+
+HOVSTAD
+Ĉu vi ricevis respondon de la magistranto?
+
+DOKTORO STOCKMANN
+Ankoraŭ ne. Li venos post iom.
+
+HOVSTAD
+Mi iom pensis pri la afero de post hieraŭ vespere.
+
+DOKTORO STOCKMANN
+Nu ja?
+
+HOVSTAD
+Por vi kiu estas kuracisto kaj sciencisto, tiu afero pri la
+akvoliverejo gravas en si mem. Mi aludas, ke vi ne pensas, ke la
+afero estas ligita kun multaj aliaj aferoj.
+
+DOKTORO STOCKMANN
+Jes, kiel --? Ni eksidu, kara. -- Tie en la sofon.
+
+(_Hovstad_ eksidas en la sofon, la doktoro en apogseĝon aliflanke de
+la tablo.)
+
+DOKTORO STOCKMANN
+Nu? Vi do opinias --?
+
+HOVSTAD
+Vi diris hieraŭ, ke la putra akvo venas de malpuraĵoj en la grundo.
+
+DOKTORO STOCKMANN
+Jes, ĝi venas sendube de tiu venena marĉo supre en la Muelejvalo.
+
+HOVSTAD
+Pardonu, sinjoro doktoro, sed mi opinias, ke ĝi venas de tute alia
+marĉo.
+
+DOKTORO STOCKMANN
+Kiu marĉo tiu do estus?
+
+HOVSTAD
+La marĉo en kiu nia tuta komunuma vivo kuŝas putrante.
+
+DOKTORO STOCKMANN
+Sed, diable, sinjoro Hovstad, kia babilado estas tiu?
+
+HOVSTAD
+Ĉiuj aferoj de la urbo estas iom post iom transprenitaj de la aro de
+publikaj oficistoj --
+
+DOKTORO STOCKMANN
+Nu, oficistoj ili ja ne ĉiuj estas.
+
+HOVSTAD
+Ne, sed tiuj, kiuj ne estas oficistoj, ili almenaŭ estas la amikoj
+kaj subtenantoj de la oficistoj; estas ĉiuj riĉuloj, ĉiuj tiuj kun
+la malnovaj respektataj nomoj en la urbo; estas tiuj, kiuj estras kaj
+regas super ni.
+
+DOKTORO STOCKMANN
+Jes, sed tiuj homoj vere havas kaj kapablon kaj sperton.
+
+HOVSTAD
+Ĉu ili montris kapablon kaj sperton, kiam ili lokigis la akvotubon
+tien, kie ĝi nun kuŝas?
+
+DOKTORO STOCKMANN
+Ne, _tio_ kompreneble estis granda stultaĵo de ili. Sed tio ja nun
+pliboniĝos.
+
+HOVSTAD
+Ĉu vi kredas, ke iros tiel glate?
+
+DOKTORO STOCKMANN
+Glate aŭ ne glate, -- farenda ĝi tamen estas.
+
+HOVSTAD
+Jes, se la gazetaro prenos la taskon.
+
+DOKTORO STOCKMANN
+Neniam fariĝos necese, kara. Mi estas certa, ke mia frato --
+
+HOVSTAD
+Pardonu al mi, sinjoro doktoro, sed mi diras al vi, ke mi volas
+trakti la aferon.
+
+DOKTORO STOCKMANN
+En la gazeto?
+
+HOVSTAD
+Jes. Kiam mi transprenis "La Popolan Mesaĝon", mia intenco estis, ke
+mi rompu tiun rondon de obstinaj reakciuloj, kiuj posedas la tutan
+potencon.
+
+DOKTORO STOCKMANN
+Sed vi ja mem rakontis al mi kiel tio finiĝis; vi ja tiel preskaŭ
+ruinigis la gazeton.
+
+HOVSTAD
+Jes, tiam mi devis refi velojn, vere. Ĉar danĝero estis, ke ni ne
+havus banejon, se tiuj homoj falus. Sed nun ni havas ĝin, kaj ni
+povas malhavi la altajn sinjorojn.
+
+DOKTORO STOCKMANN
+Malhavi, jes; sed ni tamen ŝuldas al ili grandan dankon.
+
+HOVSTAD
+Tion ni ja rekonos, kiel decas. Sed gazetisto de mia popoleca inklino
+ne povas malkapti tian ŝancon kiel tiun ĉi. Ni devas skui tiun
+miton pri la neerarpovaj estrantoj. Tiaĵojn oni devas elradikigi
+kiel ĉiaspecajn superstiĉojn.
+
+DOKTORO STOCKMANN
+Pri tio mi tutkore samopinias kun vi, sinjoro Hovstad; se estas
+superstiĉo, do forigu ĝin!
+
+HOVSTAD
+La magistranto mi ja nevolonte tuŝus, ĉar li ja estas via frato.
+Sed certe vi opinias kiel mi, ke la vero antaŭas ĉiujn aliajn
+konsiderojn.
+
+DOKTORO STOCKMANN
+Kompreneble. (forte) Jes, sed -- Jes, sed --!
+
+HOVSTAD
+Vi ne havu malbonan opinion pri mi. Mi estas nek pli profitema nek
+pli potencavida ol la plimulto de homoj.
+
+DOKTORO STOCKMANN
+Sed kara, -- kiu pensas tiel?
+
+HOVSTAD
+Mi devenas el simplaj homoj, kiel vi scias; kaj mi havis sufiĉan
+okazon vidi, kion la bazaj tavoloj de la socio bezonas. Kaj tio estas
+partopreni la estradon de la publikaj aferoj, sinjoro doktoro. _Tio_
+estas kio evoluigas la kapablojn, la sciojn kaj la memkonsciecon --
+
+DOKTORO STOCKMANN
+Tion mi bonege komprenas --
+
+HOVSTAD
+Jes, -- kaj tial mi pensas, ke ĵurnalisto prenas sur sin pezan
+respondecon, se li ne profitas de avantaĝa situacio por liberigi la
+plimulton, la simplulojn, la subprematojn. Mi bone scias, -- ke inter
+la superuloj ili nomos tion ribeligo kaj tiaĵojn; sed ili faru kiel
+al ili plaĉas. Kiam mi mem havas mian puran konsciencon, jen --
+
+DOKTORO STOCKMANN
+Ĝuste tio, jes! ĝuste tio, kara sinjoro Hovstad. Sed tamen --
+diable --! (Iu frapas.) Envenu!
+
+(_Presisto Aslaksen_ ĉe la pordo de la antaŭĉambro. Li estas
+simple sed konvene vestita, nigre, kun blanka, iomete kunĉifita
+koltuko, kaj kun gantoj kaj cilindra ĉapelo en la mano.)
+
+ASLAKSEN
+(salutas kapkline) Pardonu, sinjoro doktoro, ke mi estas tiel
+aŭdaca --
+
+DOKTORO STOCKMANN
+(ekstaras) Jen, jen, -- presisto Aslaksen!
+
+ASLAKSEN
+Jes, ĝuste, sinjoro doktoro.
+
+HOVSTAD
+(ekstaras) Ĉu min vi serĉas, Aslaksen?
+
+ASLAKSEN
+Ne, tute ne; mi ne sciis, ke ni renkontiĝus ĉi tie. Estas la
+doktoro mem --
+
+DOKTORO STOCKMANN
+Nu, per kio mi servu?
+
+ASLAKSEN
+Ĉu estas vero, kion mi aŭdis de sinjoro Billing, ke la doktoro
+intencas havigi al ni pli bonan akvoliverejon?
+
+DOKTORO STOCKMANN
+Jes, por la banejo.
+
+ASLAKSEN
+Bone; tion mi komprenas. Do mi venas por diri, ke tiun aferon mi
+volas subteni el ĉiuj fortoj.
+
+HOVSTAD
+(al la doktoro) Jen vi vidas!
+
+DOKTORO STOCKMANN
+Mi kore dankas vin pro tio! Sed --
+
+ASLAKSEN
+Ĉar estus eble bezonate havi nin etburĝojn subtenantaj dorse. Ni
+kvazaŭ konsistigas kompaktan plimulton en la urbo, -- kiam ni vere
+_volas_. Kaj estas ĉiam bone havi la plimulton kun si, sinjoro
+doktoro.
+
+DOKTORO STOCKMANN
+Senduba vero; sed mi tute ne komprenas, ke ĉi tie apartaj aranĝoj
+estus necesaj. Ŝajnas al mi, ke tia simpla afero --
+
+ASLAKSEN
+Nu ja, povus tamen esti bone; ĉar mi konas la lokajn aŭtoritatulojn
+sufiĉe bone; la potenculoj ne volonte akceptas proponojn venantajn
+de aliuloj. Kaj tial mi pensas, ke ne estus malavantaĝe, ke ni faru
+iometan manifestacion.
+
+HOVSTAD
+Ĝuste tio, jes.
+
+DOKTORO STOCKMANN
+Manifestacion vi diras? Nu, kiel vi do volas manifestacii?
+
+ASLAKSEN
+Kompreneble tre modere, sinjoro doktoro; mi ĉiam estas laŭeble
+modera; ĉar modereco estas la unua deco de civitano, -- laŭ _mia_
+opinio.
+
+DOKTORO STOCKMANN
+Pri tio vi ja estas konata, sinjoro Aslaksen.
+
+ASLAKSEN
+Jes, mi kuraĝas tion diri. Kaj tiu afero pri la akvoliverejo, ĝi
+estas ege grava por ni etburĝoj. Aspekte la banejo fariĝos kvazaŭ
+eta orminejo por la urbo. Estas pere de la banejo, ke ni ĉiuj vivas,
+kaj precipe ni domposedantoj. Tial ni ja volonte subtenas la
+institucion per ĉiuj fortoj. Kaj ĉar mi ja estas estro de la asocio
+de domposedantoj --
+
+DOKTORO STOCKMANN
+Jes --?
+
+ASLAKSEN
+-- kaj ĉar mi aldone estas agento por la asocio por modereco, -- ja,
+la doktoro certe scias, ke mi agadas por la moderecmovado?
+
+DOKTORO STOCKMANN
+Jes, kompreneble.
+
+ASLAKSEN
+Nu, -- sekve mi kompreneble renkontas multajn homojn. Kaj ĉar mi
+estas konata por esti prudenta kaj lojala civitano, kiel la doktoro
+mem diris, mi ja havas certan influon en la urbo, -- iun potencon, --
+se mi mem tion diru.
+
+DOKTORO STOCKMANN
+Tion mi scias tre bone, sinjoro Aslaksen.
+
+ASLAKSEN
+Jes, jes -- tial estus por mi facila afero starigi iun manifeston, se
+estus bezone.
+
+DOKTORO STOCKMANN
+Manifeston, vi diras?
+
+ASLAKSEN
+Jes, iun dankadreson de la civitanoj de la urbo, pro tio ke vi
+antaŭenportis tiun ĉi komune gravan aferon. Kompreneble ni devas
+ĝin vortumi en la plej deca modereco, ke ĝi ne ofendos la
+aŭtoritatulojn kaj tiujn, kiuj cetere havas la potencon. Kaj se ni
+estos singardaj pri _tio, _neniu povos ofendiĝi, mi pensas?
+
+HOVSTAD
+Nu, eĉ se ili ne tion ŝatus --
+
+ASLAKSEN
+Ne, ne, ne; neniun ofendon kontraŭ la aŭtoritatuloj, sinjoro
+Hovstad. Neniun opozicion kontraŭ homoj, kiuj staras al ni tiel
+proksime. Da tiaj spertoj mi rikoltis sufiĉe dum miaj tagoj; kaj el
+tio ankaŭ neniam venos io bona. Sed prudentaj kaj sinceraj eldiroj
+de civitano ne devas al li esti rifuzataj.
+
+DOKTORO STOCKMANN
+(agitas lian manon) Mi preskaŭ ne povas diri al vi, Aslaksen, kiel
+kore ĝojigas min trovi tiun subtenon inter miaj kuncivitanoj. Mi
+estas tiel ĝoja, -- tiel ĝoja! Aŭdu; ĉu ne glaseton da ŝereo?
+Ĉu!
+
+ASLAKSEN
+Ne, multan dankon; mi neniam gustumas tiajn alkoholaĵojn.
+
+DOKTORO STOCKMANN
+Nu, sed glason da biero do; kion vi diras?
+
+ASLAKSEN
+Dankon, ankaŭ ne, sinjoro doktoro; mi nenion prenas tiel frue en la
+tago. Sed nun mi volas eliri en la urbon kaj paroli kun kelkaj el la
+domposedantoj kaj pretigi la etoson.
+
+DOKTORO STOCKMANN
+Jes, estas senmezure ĝentile de vi, sinjoro Aslaksen; sed mi ne
+povas igi en mian kapon, ke ĉiuj tiuj aranĝoj estus necesaj; mi
+pensas, ke la afero iros glate de si mem.
+
+ASLAKSEN
+La aŭtoritatuloj laboras iom mallerte, sinjoro doktoro. Jes, Dio
+pardonu, mi tion ne diras por mallaŭdi ilin --
+
+HOVSTAD
+Morgaŭ ni pelĉasos ilin en la gazeto, Aslaksen.
+
+ASLAKSEN
+Sed ne tro senbride, sinjoro Hovstad. Antaŭeniru kun modereco, aŭ
+vi ne sukcesos movi ilin el la loko; fidu mian konsilon; ĉar mi
+rikoltis spertojn en la lernejo de la vivo. -- Nu ja, mi diru adiaŭ
+al la doktoro. Vi nun scias, ke almenaŭ ni etburĝoj staras
+malantaŭ vi kiel muro. Vi havas la kompaktan plimulton ĉe via
+flanko, sinjoro doktoro.
+
+DOKTORO STOCKMANN
+Dankon pro tio, mia kara sinjoro Aslaksen. (prezentas al li la
+manon) Adiaŭ, adiaŭ!
+
+ASLAKSEN
+Ĉu vi kuniras al la presejo, sinjoro Hovstad?
+
+HOVSTAD
+Mi venos poste; restas ankoraŭ io por decidi.
+
+ASLAKSEN
+Bone, bone.
+
+(Li salutas kaj eliras; _doktoro Stockmann_ sekvas lin eksteren en la
+antaŭĉambron.)
+
+HOVSTAD
+(je enveno de la doktoro) Nu, kion vi nun diras, sinjoro doktoro?
+Ĉu ne ŝajnas al vi, ke estas la tempo por aerumi kaj iom agiti ĉi
+tie en tiu kovarda malkuraĝeco kaj malvigleco?
+
+DOKTORO STOCKMANN
+Ĉu vi aludas al presisto Aslaksen?
+
+HOVSTAD
+Jes, mi faras. Li estas unu el tiuj, kiuj staras en la marĉo -- tia
+honesta homo kia li cetere estas. Kaj tiaj estas la plimulto ĉi tie
+ĉe ni; ili iras kliniĝante kaj svingante al ambaŭ flankoj; pro
+nuraj konsideroj kaj hezitemo ili neniam kuraĝas fari plenan paŝon.
+
+DOKTORO STOCKMANN
+Jes, sed Aslaksen estis ja kore bonvola, ŝajnas al mi.
+
+HOVSTAD
+Estas unu sinteno, kiun mi pli alte taksas; kaj tio estas stari kiel
+fidinda, konfidema homo.
+
+DOKTORO STOCKMANN
+Mi komplete samopinias kun vi.
+
+HOVSTAD
+Tial mi nun volas kapti la ŝancon kaj provi, ĉu mi povus instigi la
+bonvolemulojn foje montri kuraĝon. La kulto de aŭtoritato _devas_
+esti elradikiĝata en la urbo. Pri tiu nepardoneble granda eraro pri
+la akvoliverejo ni devas informi ĉiujn voĉdonrajtulojn.
+
+DOKTORO STOCKMANN
+Bone; se vi opinias, ke estas por la bono de la komunumo, do faru;
+sed ne antaŭ ol mi parolis kun mia frato.
+
+HOVSTAD
+Mi tamen pretskribos redakcian artikolon dume. Kaj se la magistranto
+ne volas antaŭenigi la aferon --
+
+DOKTORO STOCKMANN
+Ho, kiel vi povas imagi tion?
+
+HOVSTAD
+Estas imageble. Kaj _tiam_ --?
+
+DOKTORO STOCKMANN
+Jes, tiam mi promesas al vi --; aŭdu, -- tiam vi povos presigi mian
+artikolon, -- enpreni ĝin tuta kaj kompleta.
+
+HOVSTAD
+Ĉu mi rajtos? Ĉu decidite?
+
+DOKTORO STOCKMANN
+(prezentas al li la manuskripton) Jen ĝi estas; prenu ĝin kun vi;
+ne malutilos, ke vi tralegu ĝin; kaj vi redonu ĝin al mi poste.
+
+HOVSTAD
+Bone, bone; mi faros. Kaj nun adiaŭ, doktoro.
+
+DOKTORO STOCKMANN
+Adiaŭ, adiaŭ. Jes, vi vidos, ke iros glate, sinjoro Hovstad, --
+vere glate!
+
+HOVSTAD
+Hm, -- ni vidos. (Li salutas kaj eliras tra la antaŭĉambro.)
+
+DOKTORO STOCKMANN
+(rigardas en la manĝoĉambron) Katrine --! Nu, Petra, ĉu vi venis
+hejmen?
+
+PETRA
+(envenas) Jes, mi ĵus venis de la lernejo.
+
+SINJORINO STOCKMANN
+(venas) Ĉu li ankoraŭ ne venis?
+
+DOKTORO STOCKMANN
+Petro? Ne. Sed mi multe parolis kun Hovstad. Li estas tute kaptita de
+mia malkovro. Jes, ĉar sciu, ke ĝi estas multe pli grava, ol mi
+unue pensis. Kaj li ankaŭ metis sian gazeton por mia bezono, se
+fariĝos necese.
+
+SINJORINO STOCKMANN
+Sed ĉu vi opinias, ke tio estos bezonata?
+
+DOKTORO STOCKMANN
+Ho, tute ne. Sed almenaŭ estas fieriga konscio, ke oni havas la
+liberalan, sendependan gazetaron ĉe sia flanko. Jes, kaj imagu -- mi
+havis viziton de la estro de la asocio de domposedantoj.
+
+SINJORINO STOCKMANN
+Nu? Kaj kion li volis?
+
+DOKTORO STOCKMANN
+Ankaŭ subteni min. Ĉiuj volas ili subteni min, se estos necese.
+Katrine, -- ĉu vi scias kion mi havas malantaŭ mi?
+
+SINJORINO STOCKMANN
+Malantaŭ vi? Ne; kion vi do havas malantaŭ vi?
+
+DOKTORO STOCKMANN
+La kompaktan plimulton.
+
+SINJORINO STOCKMANN
+Ĉu vere? Ĉu estas bone por vi, Tomas?
+
+DOKTORO STOCKMANN
+Jes, mi opinius, ke estas bone! (frotas la manojn kaj paŝadas tien
+kaj reen) Ja, bona Dio, kiel ĝojige estas stari tiel en frata ligo
+kune kun siaj samurbanoj!
+
+PETRA
+Kaj fari tiom bonan kaj utilan, patro!
+
+DOKTORO STOCKMANN
+Jes, kaj krome por mia propra hejmurbo!
+
+SINJORINO STOCKMANN
+Oni sonorigas.
+
+DOKTORO STOCKMANN
+Do ni certe havas lin. -- -- (Oni frapas.) Bonvole envenu!
+
+LA MAGISTRANTO
+(venas de la antaŭĉambro) Bonan matenon.
+
+DOKTORO STOCKMANN
+Bonvenon, Petro!
+
+SINJORINO STOCKMANN
+Bonan matenon, bofrato. Kiel vi fartas?
+
+LA MAGISTRANTO
+Dankon; nu, iel. (al la doktoro) Hieraŭ post oficejaj horoj mi
+ricevis de vi artikolon rilate la akvokondiĉojn ĉe la banejo.
+
+DOKTORO STOCKMANN
+Jes, ĉu vi legis ĝin?
+
+LA MAGISTRANTO
+Jes, mi faris.
+
+DOKTORO STOCKMANN
+Kaj kion vi sekve diras pri tiu afero?
+
+LA MAGISTRANTO
+(kun rigardo flanken) Hm --
+
+SINJORINO STOCKMANN
+Venu, Petra. (Ŝi kaj _Petra_ iras en la ĉambron maldekstre.)
+
+LA MAGISTRANTO
+(post ioma paŭzo) Ĉu estis necese fari tiujn ekzamenojn malantaŭ
+mia dorso?
+
+DOKTORO STOCKMANN
+Jes, tiom longe kiom mi nenion certe sciis, mi --
+
+LA MAGISTRANTO
+Kaj nun vi opinias, ke vi scias?
+
+DOKTORO STOCKMANN
+Jes, pri tio vi ja mem nun konvinkis vin.
+
+LA MAGISTRANTO
+Ĉu vi intencas meti tiun ĉi dokumenton antaŭ la banejan estraron
+kvazaŭ oficialan dokumenton?
+
+DOKTORO STOCKMANN
+Jes ja. Ion oni devas ja fari pri la afero; kaj tion urĝe.
+
+LA MAGISTRANTO
+Vi uzas, kiel kutime, fortajn parolmanierojn en via traktaĵo. Inter
+alie vi diras, ke tio, kion ni ofertas al niaj bangastoj, estas
+permanenta venenigo.
+
+DOKTORO STOCKMANN
+Jes sed, Petro, ĉu ĝi povas alimaniere nomiĝi? Pensu nur, --
+venena akvo por interna same kiel por ekstera uzo! Kaj tio al
+kompatindaj, malsanaj homoj, kiuj bonfide serĉas sanon ĉe ni, kaj
+kiuj pagas multekoste por regajni sian sanon!
+
+LA MAGISTRANTO
+Kaj jen vi en via postulato venas per via dedukto al la rezulto, ke
+ni devas fosi novan kloakon, kiu prenu la fiaĵojn de la Muelejvalo,
+kaj ke la akvotubo devas esti alie lokigata.
+
+DOKTORO STOCKMANN
+Jes, ĉu vi do scias pri alia solvo? Mi ne.
+
+LA MAGISTRANTO
+Antaŭtagmeze mi faris viziteton al la urba inĝeniero. Kaj al li mi
+menciis -- tiel duone ŝerce -- tiujn laborojn, kvazaŭ ion, kion ni
+devas pripensi iam en la estonteco.
+
+DOKTORO STOCKMANN
+Iam en la estonteco!
+
+LA MAGISTRANTO
+Li ridetis de mia supozata ekstravaganco -- kompreneble. Ĉu vi faris
+al vi la maloportunon pripensi kiom la proponitaj ŝanĝoj eble
+kostus? Laŭ la informoj, kiujn mi ricevis, la elspezoj verŝajne
+sumiĝus al pluraj ĉentmiloj da kronoj.
+
+DOKTORO STOCKMANN
+Ĉu fariĝus tiom multekoste?
+
+LA MAGISTRANTO
+Jes. Kaj post tio sekvas la plej malbona. La laboro daŭrus minimuman
+tempospacon de du jaroj.
+
+DOKTORO STOCKMANN
+Du jaroj, vi diras? Tutaj du jaroj?
+
+LA MAGISTRANTO
+Minimume. Kaj kion ni dume faru pri la banejo? Ĉu ni fermu ĝin?
+Jes, tion ni devus. Aŭ ĉu vi opinias, ke iuj vizitos nin, kiam la
+onidiro disvastiĝos, ke la akvo estas malsaniga?
+
+DOKTORO STOCKMANN
+Sed, Petro, tia ĝi ja estas.
+
+LA MAGISTRANTO
+Kaj ĉio tio nun, -- ĝuste nun, kiam la institucio estas en
+progreso. Ankaŭ la najbaraj urboj havas certajn kondiĉojn por
+fariĝi serĉataj banlokoj. Ĉu vi ne pensas, ke ili tuj ekagu por
+direkti la fluon de fremduloj al si? Jes, tute sendube. Kaj jen ni
+starus tie; ni devus verŝajne fermi la tutan multekostan
+institucion; kaj jen vi ruinigus vian hejmurbon.
+
+DOKTORO STOCKMANN
+-- ruinigus --!
+
+LA MAGISTRANTO
+Estas sole pere de la banejo, ke la urbo havas ian notindan
+estontecon. Tion vi ja certe komprenas same bone kiel mi.
+
+DOKTORO STOCKMANN
+Sed kion vi elpensu, ke oni faru?
+
+LA MAGISTRANTO
+El via traktaĵo mi ne povis konvinkiĝi, ke la akvokondiĉoj ĉe la
+banejo estas tiel krizaj, kiel vi ilin prezentas.
+
+DOKTORO STOCKMANN
+Ili estas eĉ pli krizaj! Aŭ ili almenaŭ fariĝos tiaj en la
+somero. Kiam la vetero fariĝos varma.
+
+LA MAGISTRANTO
+Kiel mi jam diris, mi opinias ke vi konsiderinde troigas. Kapabla
+kuracisto devas scii fari siajn disponojn, -- li devas scii kiel
+preventi malutilajn efikojn kaj forigi ilin, se ili evidente aperus.
+
+DOKTORO STOCKMANN
+Kaj sekve --? Kio poste?
+
+LA MAGISTRANTO
+La establita akvoliverejo ĉe la banejo nun ja estas fakto, kaj devas
+kompreneble esti traktata kiel tia. Sed kredeble la direkcio siatempe
+ne volos esti neinklina preni en konsideron, ĉu kun akceptindaj
+financaj oferoj estus eble realigi kelkajn plibonigojn.
+
+DOKTORO STOCKMANN
+Kaj vi opinias, ke mi iam akceptus tian ruzaĵon!
+
+LA MAGISTRANTO
+Ruzaĵon?
+
+DOKTORO STOCKMANN
+Jes, estus ruzaĵo, -- trompo, mensogo, rekta krimo kontaŭ la
+publiko, kontraŭ la tuta komunumo!
+
+LA MAGISTRANTO
+Kiel mi antaŭe diris, mi ne povis al mi alproprigi la konvinkon, ke
+estas iu vere superpenda danĝero.
+
+DOKTORO STOCKMANN
+Jes, vi povis! Io alia ne eblas. Mia prezento estas tiel frapante
+vera kaj ĝusta, tion mi scias! Kaj vi tre bone komprenas, Petro; sed
+vi nur ne volas tion konfesi. Estis vi, kiu akceptigis, ke kaj la
+banejaj konstruaĵoj kaj la akvoliverejo fariĝis lokigitaj, kie ili
+nun situas; kaj estas _tiu_, -- estas tiu fatala eraro, kiun vi ne
+volas konfesi. Pa, -- ĉu vi opinias, ke mi ne travidas vin?
+
+LA MAGISTRANTO
+Kaj eĉ se tiel estus? Se mi per ia konsideremo gardas mian
+prestiĝon, tio okazas por la bono de la urbo. Sen morala aŭtoritato
+mi ne povas estri kaj konduki la aferojn tiel, kiel mi tion
+konsideras plej praktike por la bono de la tuto. Tial, -- kaj el
+diversaj aliaj kialoj, -- estas grave por mi, ke via prezentaĵo ne
+direktiĝas al la direkcio de la banejo. Ĝi devas esti retenata pro
+konsidero al la komuna bono. Mi iom poste metos la aferon sub
+diskuto, kaj ni agu plej eble efike en plena silento; sed nenio, --
+eĉ neniu vorto devas veni al la scio de la publiko en tiu ĉi fatala
+afero.
+
+DOKTORO STOCKMANN
+Nu, tion vi ne povas malhelpi, mia kara Petro.
+
+LA MAGISTRANTO
+Devas esti kaj estu malhelpota.
+
+DOKTORO STOCKMANN
+Neeblas, mi diras; tro multaj jam konas ĝin.
+
+LA MAGISTRANTO
+Konas ĝin! Kiuj? Do ne tiuj sinjoroj en "La Popola Mesaĝo" --?
+
+DOKTORO STOCKMANN
+Ho jes; ankaŭ ili. La liberala sendependa gazetaro certe zorgos pri
+tio, ke vi faru vian devon.
+
+LA MAGISTRANTO
+(post mallonga paŭzo) Vi estas senmezure senprudenta homo, Tomas.
+Ĉu vi ne pripensis la konsekvencojn, kiujn tio povos havi por vi
+mem?
+
+DOKTORO STOCKMANN
+Konsekvencojn? Konsekvencojn por mi?
+
+LA MAGISTRANTO
+Por vi kaj por la viaj, jes.
+
+DOKTORO STOCKMANN
+Kion diable _tio_ signifas?
+
+LA MAGISTRANTO
+Mi pensas, ke mi ĉiam montris min kiel serveman kaj helpeman fraton
+al vi.
+
+DOKTORO STOCKMANN
+Jes, vi faris; kaj pro tio mi dankas vin.
+
+LA MAGISTRANTO
+Mi ne petas. Iel mi ja ankaŭ devis -- pro mi mem. Estis ĉiam mia
+espero, ke mi iomete bridus vin, kiam mi helpis vin plibonigi vian
+ekonomian staton.
+
+DOKTORO STOCKMANN
+Ĉu? Ĉu nure pro vi mem --!
+
+LA MAGISTRANTO
+Parte, mi diras. Estas malagrable por publika oficisto, ke lia plej
+proksima parenco foje kaj foje kompromitas sin.
+
+DOKTORO STOCKMANN
+Kaj tion vi opinias, ke mi faras?
+
+LA MAGISTRANTO
+Jes, bedaŭrinde, vi faras, sen via propra scio. Vi havas
+maltrankvilan, bataleman, ribeleman animon. Kaj ankaŭ vian
+malfeliĉan emon skribi publike pri ĉiuj eblaj kaj neeblaj aferoj.
+Post subita ideo, -- tuj vi skribas gazetartikolon aŭ tutan
+broŝuron pri ĝi.
+
+DOKTORO STOCKMANN
+Jes, sed estas ja la devo de civitano konigi al la publiko novan
+ideon, kiun li ekhavis!
+
+LA MAGISTRANTO
+Ho, la publiko tute ne bezonas novajn pensojn. Al la publiko plej
+bone servas la malnovaj, bonaj, aprobitaj ideoj, kiujn ĝi jam havas.
+
+DOKTORO STOCKMANN
+Kaj tion vi tiel rekte diras!
+
+LA MAGISTRANTO
+Jes, iam mi do devas paroli rekte al vi. Ĝis nun mi provis eviti
+tion, ĉar mi scias, kiel iritema vi estas; sed nun mi devas diri al
+vi la veron, Tomas. Vi ne havas imagon kiom vi malutilas al vi mem
+per via impeta konduto. Vi plendas pri la aŭtoritatuloj, jes eĉ pri
+la registaro, -- kritikaĉas ĝin, -- pretendas, ke vi estas
+neglektita, persekutata. Sed ĉu vi povas ion alian atendi, -- tia
+trudema homo, kia vi estas.
+
+DOKTORO STOCKMANN
+Nu do, -- ĉu mi ankaŭ estas trudema?
+
+LA MAGISTRANTO
+Jes, Tomas, vi estas tre malfacila homo por kunlaboro. Tion mi
+spertis. Vi transpaŝas ĉiujn konsiderojn; aspekte vi tute forgesas,
+ke estas mi, kiun vi povas danki pro la ofico ĉi tie kiel baneja
+kuracisto --
+
+DOKTORO STOCKMANN
+Al tiu mi estis la sole ĝusta! Mi kaj neniu alia! Mi estis la unua,
+kiu vidis, ke la urbo povis fariĝi floranta banloko; kaj tiam mi
+estis la sola, kiu tion vidis. Mi staris sola kaj luktis por la ideo
+dum multaj jaroj; kaj mi skribis kaj skribis --
+
+LA MAGISTRANTO
+Sendube. Sed tiam la ĝusta tempo ankoraŭ ne prezentis sin; nu, pri
+tio vi tie norde en via forejo ne povis juĝi. Sed kiam la oportuna
+momento venis, tiam mi -- kaj la aliuloj -- prenis la aferon en niajn
+manojn --
+
+DOKTORO STOCKMANN
+Jes, kaj sekve vi fuŝis mian belan planon. Ho ja, montriĝas
+efektive nun, kiaj saĝaj uloj vi estis!
+
+LA MAGISTRANTO
+Laŭ mia supozo montriĝas nun nur, ke vi denove bezonas elfluon por
+via batalemo. Vi volas venki viajn superulojn; -- estas ja via ĉiama
+kutimo. Vi ne toleras iun aŭtoritatulon super vi; vi strabas
+malkontente al ĉiu, kiu okupas superan publikan pozicion; vi
+rigardas lin kiel personan malamikon, -- kaj tuj ĉiuj atakiloj estas
+same bonaj por vi. Sed nun mi atentigis vin, kio staras riske por la
+tuta urbo, -- kaj sekve ankaŭ por mi. Kaj tial mi diras al vi,
+Tomas, ke mi ne cedas en la postulo, kiun mi nun intencas starigi al
+vi.
+
+DOKTORO STOCKMANN
+Kia postulo estas tiu?
+
+LA MAGISTRANTO
+Ĉar vi estis tiel babilema, ke vi menciis tiun delikatan aferon por
+nekoncernantuloj, kvankam ĝi devus esti konservata kiel sekreto de
+la direkcio, ni kompreneble ne povas silentigi la aferon. Ĉiuspecaj
+onidiroj disvastiĝos ĉirkaŭen, kaj la maliculoj inter ni volos
+nutri la onidirojn per ĉiuspecaj aldonaĵoj. Tial fariĝas necese,
+ke vi publike kontraŭdiru tiajn onidirojn.
+
+DOKTORO STOCKMANN
+Mi! Kiel? Mi ne komprenas vin.
+
+LA MAGISTRANTO
+Estas atendata, ke vi post novaj ekzamenoj venos al la rezulto, ke la
+afero eĉ ne proksimume estas tiel danĝera aŭ kriza, kiel vi en la
+unua momento imagis al vi.
+
+DOKTORO STOCKMANN
+Aha, -- do tion vi atendas!
+
+LA MAGISTRANTO
+Plue oni atendas, ke vi nutras kaj publike esprimas tiun konfidon al
+la estraro, ke ĝi profunde kaj konscience volas okazigi ĉion
+necesan por plibonigi eblajn difektojn.
+
+DOKTORO STOCKMANN
+Jes, sed tion vi neniam povos fari, tiom longe kiom vi faras fuŝadon
+kaj flikaĵon. Tion mi diras al vi, Petro; kaj tio estas mia klara
+kaj serioza konvinko --!
+
+LA MAGISTRANTO
+Kiel funkciisto vi ne rajtas nutri iun apartan konvinkon.
+
+DOKTORO STOCKMANN
+(haltas) Ne rajtas --?
+
+LA MAGISTRANTO
+Kiel funkciisto, mi diras. Kiel privata persono, -- kompreneble, tio
+estas alia afero. Sed kiel subordigita funkciisto ĉe la banejo vi ne
+rajtas esprimi iun konvinkon, kiu kontraŭas tiun de viaj superuloj.
+
+DOKTORO STOCKMANN
+Tio troas! Mi, kiel kuracisto, kiel sciencisto, ne rajtus --!
+
+LA MAGISTRANTO
+La afero ĉi tie traktata ne estas nure scienca; estas kompleksa
+afero; ĝi estas kaj teknika kaj ekonomia afero.
+
+DOKTORO STOCKMANN
+Ho, ke ĝi estu por mi kio diable ĝi volas esti! Mi volas esti
+libera por diri mian opinion pri ĉiuj aferoj en la tuta mondo!
+
+LA MAGISTRANTO
+Bonvolu. Sed nur ne pri la banejo -- Tion ni malpermesas al vi.
+
+DOKTORO STOCKMANN
+(krias) Vi malpermesas --; Vi! Tiaj, tiaj --!
+
+LA MAGISTRANTO
+Mi malpermesas al vi, -- _mi_, via plej supera ĉefo; kaj kiam mi
+malpermesas, por vi estas obei.
+
+DOKTORO STOCKMANN
+(sin regante) Petro, -- se vi ne estus mia frato --
+
+PETRA
+(ektire malfermas la pordon) Patro, tion vi ne toleru!
+
+SINJORINO STOCKMANN
+(post ŝi) Petra, Petra!
+
+LA MAGISTRANTO
+Aha, oni staras gvate.
+
+SINJORINO STOCKMANN
+Traaŭdeblas; ni ne povis eviti --
+
+PETRA
+Jes, mi staris aŭskultante.
+
+LA MAGISTRANTO
+Nu, estas ja bone --
+
+DOKTORO STOCKMANN
+(iras pli proksimen) Vi parolis pri malpermeso kaj obeo --?
+
+LA MAGISTRANTO
+Vi mem devigis min paroli en tiu tono.
+
+DOKTORO STOCKMANN
+Kaj mi do en publika deklaro ŝtopu al mi mem la buŝon?
+
+LA MAGISTRANTO
+Ni estimas tion absolute necesa, ke vi publikigu deklaron tian, kian
+mi postulis.
+
+DOKTORO STOCKMANN
+Kaj se mi ne -- obeas?
+
+LA MAGISTRANTO
+En tiu okazo ni mem elsendos deklaron por trankviligi la publikon.
+
+DOKTORO STOCKMANN
+Bone; sed en tiu okazo mi skribos kontraŭ vin. Mi persistos; mi
+pruvu, ke _mi_ pravas kaj ke vi malpravas. Kaj kion volas vi tiam
+fari?
+
+LA MAGISTRANTO
+En tiu okazo mi ne povos malhelpi, ke vi ricevos vian maldungon.
+
+DOKTORO STOCKMANN
+Kion --!
+
+PETRA
+Patro, -- maldungon!
+
+LA MAGISTRANTO
+Maldungon kiel kuracisto ĉe la banejo. Mi vidos min devigata
+rekomendi tujan maldungon, forigi vin de ĉiu rilato kun la aferoj de
+la banejo.
+
+DOKTORO STOCKMANN
+Kaj tion vi kuraĝus!
+
+LA MAGISTRANTO
+Estas vi mem, kiu ĉi tie ludas riske.
+
+PETRA
+Onklo, tio estas indigniga konduto kontraŭ homo kiel patro!
+
+SINJORINO STOCKMANN
+Silentu do, Petra!
+
+LA MAGISTRANTO
+(rigardas al Petra) Aha, oni jam permesas al si esprimi opiniojn.
+Kompreneble. (al la sinjorino) Bofratino, supozeble vi estas la plej
+prudenta en ĉi tiu domo. Uzu la influon, kiun vi eble havas sur vian
+edzon; igu lin percepti, al kio tio kondukos kaj por lia familio --
+
+DOKTORO STOCKMANN
+Mia familio koncernas neniun alian ol mi mem!
+
+LA MAGISTRANTO
+-- kaj por lia familio, mi diras, kaj por la urbo en kiu li loĝas.
+
+DOKTORO STOCKMANN
+Estas mi, kiu laboras por la vera bono de la urbo! Mi volas
+senvualigi la mankojn, kiuj frue aŭ malfrue aperos en la plena lumo
+de la tago. Ho, montriĝos, ke mi amas mian hejmurbon.
+
+LA MAGISTRANTO
+Vi, kiu en blinda spito ekiras fortranĉi la plej gravan fonton de
+prospero por la urbo.
+
+DOKTORO STOCKMANN
+Tiu fonto estas venena, homo! Ĉu vi estas freneza! Ni vivas ĉi tie
+vendaĉante malpuraĵojn kaj putraĵojn! Nia tuta floranta publika
+vivo suĉas sian nutron el mensogo!
+
+LA MAGISTRANTO
+Fantaziaĵo -- aŭ io ankoraŭ pli malbona. Homo, kiu elĵetas tiajn
+ofendajn akuzojn kontraŭ sian propran hejmlokon, tiu efektive estas
+malamiko de la socio.
+
+DOKTORO STOCKMANN
+(kontraŭen al li) Kaj jenon vi kuraĝas --
+
+SINJORINO STOCKMANN
+(ĵetas sin inter ilin) Tomas!
+
+PETRA
+(kaptas la brakon de sia patro) Estu trankvila, patro!
+
+LA MAGISTRANTO
+Mi ne volas riski perforton. Mi nun avertis vin. Pripensu nun, kion
+vi ŝuldas al vi mem kaj al la viaj. Adiaŭ.
+
+(Li eliras.)
+
+DOKTORO STOCKMANN
+(paŝas tien kaj reen) Kaj tian traktadon mi devas sperti! En mia
+propra hejmo, Katrine! Kion vi al tio diras!
+
+SINJORINO STOCKMANN
+Jes, vere estas kaj honto kaj spito, Tomas --
+
+PETRA
+Se eblus por mi iel gorĝe kapti onklon --!
+
+DOKTORO STOCKMANN
+Mi mem kulpas; mi estus devinta hirti harojn kontraŭ ili antaŭ
+longe, -- grinci dentojn, -- morde ataki! -- Eĉ nomi min malamiko de
+la socio! Mi! Diable, tion mi ne lasas gluiĝi sur min!
+
+SINJORINO STOCKMANN
+Sed, kara Tomas, via frato ja havas la potencon --
+
+DOKTORO STOCKMANN
+Jes, sed estas mi, kiu pravas!
+
+SINJORINO STOCKMANN
+Aĥ jes, vi pravas, vi pravas; kion helpas tio, ke vi pravas, kiam vi
+ne havas potencon?
+
+PETRA
+Sed patrino do, -- kiel vi povas paroli tiel?
+
+DOKTORO STOCKMANN
+Ĉu ne helpus en libera socio esti tiu, kiu pravas? Vi estas ridinda,
+Katrine. Kaj aŭdu, -- ĉu mi ne havas la liberalan gazetaron antaŭ
+mi, -- kaj la kompaktan plimulton dorse? Tiuj do estas sufiĉa
+potenco, mi opinias!
+
+SINJORINO STOCKMANN
+Sed, bona Dio, Tomas, vi do ne intencas --?
+
+DOKTORO STOCKMANN
+Kion mi ne intencas?
+
+SINJORINO STOCKMANN
+-- kontraŭstari vian fraton.
+
+DOKTORO STOCKMANN
+Kion, diable, volas vi, ke mi alie farus, se mi ne rajtas insisti pri
+ĝusteco kaj vero!
+
+PETRA
+Jes, pri tio ankaŭ mi demandas?
+
+SINJORINO STOCKMANN
+Sed utilas ja al nenio; kiam ili ne volas, ili ne volas.
+
+DOKTORO STOCKMANN
+Hoho, Katrine, atendu nur, kaj vi vidos, ke mi faros mian militon al
+venko.
+
+SINJORINO STOCKMANN
+Jes, vi eble venkos tiel, ke vi ricevos vian maldungon, -- tion vi
+faros.
+
+DOKTORO STOCKMANN
+Tiam mi almenaŭ farus mian devon al la publiko, -- al la socio. Mi,
+kiu nomiĝas malamiko de la socio!
+
+SINJORINO STOCKMANN
+Sed al via familio, Tomas? Al ni hejme? Ĉu ŝajnas al vi, ke _tio_
+estas fari vian devon al tiuj, kiujn vi devas prizorgi?
+
+PETRA
+Ho, ne pensu ĉiam unue pri ni patrino.
+
+SINJORINO STOCKMANN
+Jes, _vi_ povas senzorge paroli; vi povas stari sur propraj piedoj,
+se gravas. -- Sed pensu pri la knaboj, Tomas; pensu ankaŭ iom pri vi
+mem, kaj pri mi --
+
+DOKTORO STOCKMANN
+Vere mi opinias, ke vi estas tute freneza, Katrine! Se mi tiel
+mizere, malkuraĝe submetigus min antaŭ tiun Petro kaj lian
+kanajlaron, -- ĉu mi plu iam havus feliĉan momenton en mia vivo?
+
+SINJORINO STOCKMANN
+Nu, tion mi ne scias; sed Dio gardu nin antaŭ tiu feliĉo, kiun ni
+ĉiuj ricevos, se vi daŭre obstinos. Tiam vi denove staros sen
+vivrimedoj, sen stabilaj enspezoj. Ŝajnas al mi, ke ni sufiĉe
+spertis tion en la pasinteco; memoru tion, Tomas; pensu kion tio
+kunportos.
+
+DOKTORO STOCKMANN
+(tordas sin luktante kaj pugnigas la manojn) Kaj tiaĵon tiuj
+oficejsklavoj ĵetu sur liberan honestan homon! Ĉu ne estas terure,
+Katrine?
+
+SINJORINO STOCKMANN
+Jes, vere estas granda peko kontraŭ vi. Sed, bona Dio, estas ja tiom
+multaj maljustaĵoj en la mondo sub kiujn oni devas klini sin. -- Jen
+la knaboj, Tomas! Rigardu ilin! Kio fariĝu el ili? Ho ne, ne, vi do
+neniam povos --
+
+(_Ejlif_ kaj _Morten_, kun lernolibroj, dume envenis.)
+
+DOKTORO STOCKMANN
+La knaboj --! (subite li staras firme kaj sinrege.) Eĉ ne se la
+tuta mondo falus, volas mi klini la nukon sub la jugon.
+
+(Li iras al sia ĉambro.)
+
+SINJORINO STOCKMANN
+(post lin) Tomas, -- kion vi volas fari!
+
+DOKTORO STOCKMANN
+(ĉe la pordo) Mi volas havi la rajton rigardi miajn knabojn en la
+okulojn, kiam ili fine fariĝos plenkreskaj, liberaj homoj.
+
+(Li iras en sian ĉambron)
+
+SINJORINO STOCKMANN
+(ekploras) Ho Dio helpu kaj konsolu nin ĉiujn!
+
+PETRA
+Patro, li estas brava! Li ne cedas.
+
+(La _knaboj_ mire demandas, kio okazis; _Petra_ signas al ili por
+silenti.)
+
+
+
+
+TRIA AKTO
+
+
+(La redaktejo de "La Popola Mesaĝo". Maldekstre en la fono estas
+la enirpordo; dekstre sur la sama muro estas alia pordo kun
+vitraĵoj, tra kiuj oni vidas en la presejon. Sur la muro dekstre
+estas pordo. Meze sur la planko estas granda tablo kovrita de
+paperoj, gazetoj kaj libroj. Antaŭe maldekstre estas fenestro kaj
+apud ĝi estas skribopupitro kun alta seĝo. Paro da apogseĝoj
+staras ĉe la tablo kaj kelkaj aliaj seĝoj laŭ la muroj. La ĉambro
+estas trista kaj malkomforta, la mebloj malnovaj, la apogseĝoj
+malpuraj kaj ŝiritaj. En la presejo oni vidas paron da kompostistoj
+en laboro; pli fore manpresilo estas en funkcio.)
+
+(_Redaktoro Hovstad_ sidas ĉe la pupitro skribante. Iom poste venas
+de dekstre _Billing_ kun la manuskripto de la doktoro en la mano.)
+
+BILLING
+Nu, jen vere io --!
+
+HOVSTAD
+(skribante) Ĉu vi tralegis ĝin?
+
+BILLING
+(metas la manuskripton sur la pupitron) Jes, mi efektive faris.
+
+HOVSTAD
+Ĉu vi ne trovas, ke la doktoro estas sufiĉe akra?
+
+BILLING
+Akra? Li estas, dia morto, frakasanta, jes vere. Ĉiu vorto falas
+peze, kiel -- mi diru -- kiel frapo de hakilkapo.
+
+HOVSTAD
+Jes, sed tiuj homoj ne falas post la unua frapo.
+
+BILLING
+Vere; sed ni daŭre frapos, -- frapon post frapo, ĝis la tuta
+potenco de la grandeguloj disfalos. Kiam mi sidis tie interne legante
+tion ĉi, mi kvazaŭ vidis la revolucion veni de fore.
+
+HOVSTAD
+(turnas sin) Tŝ; ne diru tion kun Aslaksen aŭskultanta.
+
+BILLING
+(mallaŭtigas la voĉon) Aslaksen estas cedema malkuraĝulo; ne
+troviĝas vira kuraĝo en li. Sed tiun ĉi fojon vi do trapuŝos vian
+volon? Ĉu? Vi ja enprenos la artikolon de la doktoro?
+
+HOVSTAD
+Jes, se la magistranto ne cedas senproteste, --
+
+BILLING
+Tio estus diable ĉagrene.
+
+HOVSTAD
+Nu, ni povas feliĉe utiligi al ni la situacion, kio ajn kio okazos.
+Se la magistranto ne akceptos la proponon de la doktoro, li ekhavos
+ĉiujn etburĝojn sur la nukon, -- la tutan asocion de domposedantoj
+kaj la aliaj. Kaj se li akceptos ĝin, li ekhavos kiel kontraŭulojn
+aron de la grandaj posedantoj de akcioj en la banejo, kiuj ĝis nun
+estis liaj plej fortaj subtenantoj --
+
+BILLING
+Jes, jes bone; ĉar ili devos ja elspezi grandan sumon --
+
+HOVSTAD
+Jes, ho ĵuru pri tio. Kaj jen la rondo estos rompita, vidu, kaj tiam
+ni en la gazeto, tagon post tago, evidentigu por la publiko, ke la
+magistranto malkapablas en ĉiu ajn afero, kaj ke la konfidaj
+postenoj en la urbo, la tuta komunuma estraro, estu transdonota en la
+manojn de liberalaj homoj.
+
+BILLING
+Estas, dia morto, frapante vere! Mi vidas, -- mi vidas; ni staras
+ĵus antaŭ la komenco de revolucio!
+
+(Oni frapas.)
+
+HOVSTAD
+Tŝ (vokas) Envenu!
+
+(_Doktoro Stockmann_ venas tra la pordo maldekstre en la fono.)
+
+HOVSTAD
+(iras al li renkonte) Ho, jen la doktoro. Nu?
+
+DOKTORO STOCKMANN
+Ekpresu, sinjoro Hovstad!
+
+HOVSTAD
+Tiel do rezultis?
+
+BILLING
+Hura!
+
+DOKTORO STOCKMANN
+Ekpresu, mi diras. Jes certe, en tion rezultis. Sed nun ili havu kion
+ili deziras. Nun estos milito en la urbo, sinjoro Billing!
+
+BILLING
+Milito kun nuda tranĉilo, mi esperas! La tranĉilo al la gorĝo,
+sinjoro doktoro!
+
+DOKTORO STOCKMANN
+La traktaĵo estas nur komenco. Mi jam havas la kapon plena de skizoj
+por kvar aŭ kvin aliaj artikoloj. Kie estas Aslaksen?
+
+BILLING
+(vokas en la presejon) Aslaksen, venu ĉi tien momenton!
+
+HOVSTAD
+Kvar aŭ kvin aliaj artikoloj, vi diris? Pri la sama afero?
+
+DOKTORO STOCKMANN
+Ho ne, -- multe mankas je tio, kara. Estos pri tute aliaj aferoj. Sed
+ĉio devenas de la akvoliverejo kaj la kloako. Unu afero posttiras
+alian, vi komprenas. Estas kiel malkonstrui malnovan domon, -- ĝuste
+tiel.
+
+BILLING
+Estas, dia morto, vero; ŝajnas ke oni neniam finis, antaŭ ol la
+tuta domaĉo estas malkonstruita.
+
+ASLAKSEN
+(venante de la presejo) Malkonstruita! La doktoro do ne intencas
+malkonstrui la banejon?
+
+HOVSTAD
+Absolute ne; ne timu.
+
+DOKTORO STOCKMANN
+Nu ne; temas pri tute aliaj aferoj. Kion vi nun diras pri mia
+traktaĵo, sinjoro Hovstad?
+
+HOVSTAD
+Ĝi estas tiel klara kaj simpla; oni ne bezonas esti fakulo por
+kompreni la konekson. Mi kuraĝas diri, ke vi havos ĉiun kleran
+homon ĉe via flanko.
+
+ASLAKSEN
+Kaj ankaŭ ĉiujn prudentajn, ĉu?
+
+BILLING
+Prudentajn kaj malprudentajn, -- jes, mi pensas preskaŭ la tutan
+urbon.
+
+ASLAKSEN
+Nu, do ni kuraĝas presi ĝin.
+
+DOKTORO STOCKMANN
+Jes, tion mi opinius.
+
+HOVSTAD
+Ni enprenos ĝin morgaŭ frue.
+
+DOKTORO STOCKMANN
+Jes, morto kaj plago, ni devas perdi eĉ ne unu solan tagon. Aŭdu,
+sinjoro Aslaksen, pri _tio_ mi petas vin: Vi devas persone okupiĝi
+pri la manuskripto.
+
+ASLAKSEN
+Mi faros.
+
+DOKTORO STOCKMANN
+Atentu pri ĝi kvazaŭ pri oro. Neniun preseraron; ĉiu vorto estas
+grava. Kaj mi envenos poste; eble mi tiam povos legi presprovaĵon.
+-- Jes, mi ne povas esprimi, kiom mi soifas vidi tiun aferon presita,
+-- ĵetege disigita --
+
+BILLING
+Disĵetita, -- jes kvazaŭ fulmo!
+
+DOKTORO STOCKMANN
+-- submetita al la juĝo de ĉiuj spertaj kuncivitanoj. Ho, vi ne
+povas imagi al vi, kion mi hodiaŭ devis toleri. Oni minacis min per
+tio kaj tio; oni volis forpreni de mi miajn plej evidentajn homajn
+raĵtojn --
+
+BILLING
+Kion! Viajn homajn rajtojn!
+
+DOKTORO STOCKMANN
+-- oni volis humiligi min, igi min perfidulo; postulis, ke mi metu
+personan avantaĝon antaŭ mian internan, sanktan konvinkon --
+
+BILLING
+Tio estas, dia morto, tro kruda.
+
+HOVSTAD
+Ho jes, oni povas atendi ĉion de tiu flanko.
+
+DOKTORO STOCKMANN
+Sed antaŭ mi ili cedu; tion ili vidu nigre sur blanke. Ĉiun tagon
+mi nun kvazaŭ ĵetos ankron en "La Popola Mesaĝo", kaj enfilos ilin
+per eksplodaj artikoloj laŭvice --
+
+ASLAKSEN
+Jes, sed aŭskultu --
+
+BILLING
+Hura; ni havos militon, militon!
+
+DOKTORO STOCKMANN
+-- mi frapu ilin teren, frakasu ilin, disfaligu iliajn fortikaĵojn
+antaŭ la okuloj de la justa publiko! Tion mi faru!
+
+ASLAKSEN
+Sed nepre modere, sinjoro doktoro; pafu modere --
+
+BILLING
+Ho ne; ho ne! Ne ŝparu la dinamiton!
+
+DOKTORO STOCKMANN
+(same nekonfuzebla) Ĉar nun ne estas nur tio pri la akvoliverejo
+kaj la kloako. Estas la tuta socio, kiu estu purigota, desinfektota
+--
+
+BILLING
+_Jen_ la liberiga vorto!
+
+DOKTORO STOCKMANN
+Ĉiuj flikuloj ni forĉasos. Kaj tio en ĉiuj ejoj! Malfermiĝis por
+mi senfinaj vizioj hodiaŭ. Ankoraŭ ne estas tute klare por mi; sed
+mi eltrovos. Estas junaj, sanaj portantoj de la standardoj, kiujn ni
+nun devas serĉi, miaj amikoj; ni devas havi novajn komandantojn en
+ĉiuj antaŭpostenoj.
+
+BILLING
+Aŭdu, aŭdu!
+
+DOKTORO STOCKMANN
+Estu ni nur solidaraj, kaj ĉio iros glate, glate! La tuta revolucio
+kvazaŭ ŝipo lanĉiĝos el la ŝipglitejo. Jes, ĉu vi ne tion
+kredas?
+
+HOVSTAD
+Miaparte, mi opinias, ke nun ni havas esperon meti la estradon de la
+komunumo tien, kie ĝi juste devas kuŝi.
+
+ASLAKSEN
+Kaj antaŭenpaŝante en modereco, mi ne povas imagi, ke tio ĉi estu
+danĝera.
+
+DOKTORO STOCKMANN
+Kiu, diable, atentas, ĉu tio estas danĝera aŭ ne! Kion mi faras,
+tion mi faras en la nomo de la vero kaj pro mia konscienco.
+
+HOVSTAD
+Vi estas viro, kiu meritas subtenon, sinjoro doktoro.
+
+ASLAKSEN
+Jes, tio estas firma; la doktoro estas la vera amiko de la urbo; vera
+amiko de la socio li estas.
+
+BILLING
+Doktoro Stockmann estas, dia morto, amiko de la popolo, Aslaksen!
+
+ASLAKSEN
+Mi opinias, ke la asocio de domposedantoj baldaŭ uzos tiun esprimon.
+
+DOKTORO STOCKMANN
+(tuŝita, premas iliajn manojn) Dankon, dankon, miaj karaj, fidelaj
+amikoj; -- tio ĉi estas por mi konsolo: -- mia frato nomis min io
+tute alia. Nu, honto al mi, se li tion ne rehavu kun rentoj! Sed nun
+mi devas eliri por kuraci iun malfeliĉan diablon --. Mi revenos,
+kiel mi diris. Zorgu nun bone pri la manuskripto, sinjoro Aslaksen;
+-- kaj precipe forstreku eĉ ne unu solan krisignon! Prefere aldonu
+kelkajn! Bone, bone; adiaŭ ĝis poste; adiaŭ, adiaŭ!
+
+(Reciprokaj salutoj dum li estas akompanata al la pordo, kaj li
+foriras.)
+
+HOVSTAD
+Li fariĝos netakseble utila homo por ni.
+
+ASLAKSEN
+Jes, tiom longe kiom li nur tenas sin al la afero pri la banejo. Sed
+se li pluen iros, ne estas konsilinde sekvi lin.
+
+HOVSTAD
+Hm, dependas de --
+
+BILLING
+Vi estas ja damne timema, Aslaksen.
+
+ASLAKSEN
+Timema? Jes, kiam temas pri la lokaj potenculoj, mi estas timema,
+sinjoro Billing; tion mi lernis en la lernejo de la spertoj. Sed metu
+min en la grandan politikon, antaŭ la registaro mem, kaj jen vidu
+ĉu mi estas timema.
+
+BILLING
+Certe vi ne estas, ne; sed tio ja estas la kontraŭeco en vi.
+
+ASLAKSEN
+Mi estas homo kun konscienco, tia estas la afero. Se oni atakas la
+registaron, oni almenaŭ ne malutilas al la socio; ĉar tiuj homoj ne
+ĝenas sin pri tio; -- ili restas starantaj same firme. Sed la
+_lokaj_ aŭtoritatuloj, _ilin_ oni povas elĵeti el ofico, kaj jen
+eble oni ekhavos la senspertecon ĉe la stirilo, je neriparebla
+malutilo por domposedantoj kaj por aliuloj.
+
+HOVSTAD
+Sed la civitana edukado pere de memregado, -- ĉu vi ne pensas pri
+_ĝi?_
+
+ASLAKSEN
+Kiam homo ricevis ion inter la manojn, pri kio li devas zorgi, li ne
+povas pensi pri ĉio ajn, sinjoro Hovstad.
+
+HOVSTAD
+Ke mi do neniam ricevu ion inter la manojn!
+
+BILLING
+Aŭdu, -- aŭdu!
+
+ASLAKSEN
+(ridetas) Hm. (montras al la seĝo) Sur la redaktortabureto _tie_
+sidis antaŭ vi guberniestro Stensgard.
+
+BILLING
+(kraĉas) Fi! Tia dizertulo.
+
+HOVSTAD
+Mi ne estas ŝancelisto -- kaj neniam fariĝos.
+
+ASLAKSEN
+Politikisto priĵuru nenion en la mondo, sinjoro Hovstad. Kaj vi,
+sinjoro Billing, devus iomete refi la velon nuntage, mi opinias; vi
+ja petskribas pri la ofico kiel sekretario en la magistrato.
+
+BILLING
+Mi --!
+
+HOVSTAD
+Ĉu vi, Billing!
+
+BILLING
+Nu ja. -- Diable, vi ja komprenas, ke estas nur por inciti tiujn
+memkontentajn sinjorojn.
+
+ASLAKSEN
+Nu, min tio tute ne koncernas. Sed kiam oni akuzas min pro timemo kaj
+pro kontraŭdiro en mia sinteno, tiam jenon mi volas akcenti: La
+pasinteco de presisto Aslaksen kuŝas aperta por ĉiu ajn. Mi ne
+subiĝis al alia ŝanĝo ol fariĝi pli modera. Mia koro daŭre estas
+ĉe la popolo; sed mi ne neas, ke mia prudento klinas iomete en la
+direkton de la potenculoj, -- jes, nome al la lokaj.
+
+(Li iras en la presejon.)
+
+BILLING
+Ĉu ni ne provu kvitigi nin pri li, Hovstad?
+
+HOVSTAD
+Ĉu vi konas iun alian, kiu volas stari kredite por papero kaj
+preskostoj?
+
+BILLING
+Damnite ke ni ne havas sufiĉan komerckapitalon.
+
+HOVSTAD
+(eksidas ĉe la pupitro) Jes, se ni nur _tiun_ havus --
+
+BILLING
+Ĉu se vi turnus vin al doktoro Stockmann?
+
+HOVSTAD
+(foliumante la paperojn) Ho, kiom tio utilus? Li posedas ja nenion.
+
+BILLING
+Ne; sed li havas bonan viron rezerve, maljunan Morten Kiil, -- "la
+melon", kiel homoj nomas lin.
+
+HOVSTAD
+(skribante) Ĉu vi scias certe, ke _li_ ion posedas?
+
+BILLING
+Jes, dia morto, li ja certe posedas! Kaj parto de ĝi devas ja fali
+sur la familion de Stockmann. Li devas ja pensi ekipi -- almenaŭ la
+infanojn.
+
+HOVSTAD
+(turnas sin duone) Ĉu vi bazas vin sur _tio_?
+
+BILLING
+Bazas? Kompreneble mi bazas sur nenio.
+
+HOVSTAD
+Estas saĝe. Kaj sur tiu ofico en la magistrato vi tute ne devas
+bazi; ĉar mi povas certigi vin, -- vi ĝin ne ricevos.
+
+BILLING
+Ne, ĉu vi ne komprenas, ke mi tion bone scias? Sed efektive estas
+bone, ke mi ne ricevos ĝin. Tia neglekto flamigas la batalemon; --
+oni kvazaŭ ricevas provizon de freŝa galo, kaj tio do estas
+bezonata en fora angulo kiel la nia, kie rare okazas io vere
+instiganta.
+
+HOVSTAD
+(skribante) Nu ja; nu ja.
+
+BILLING
+Nu, -- ili baldaŭ aŭdos de mi! -- Nun mi eniros por skribi la
+manifeston de la asocio de domposedantoj.
+
+(Li iras en la ĉambron dekstre.)
+
+HOVSTAD
+(sidas ĉe la pupitro, maĉas la plumingon kaj diras malrapide:) Hm,
+-- ĉu tiel? -- (Oni frapas.) Envenu!
+
+(Petra venas tra la pordo maldekstre en la fono.)
+
+HOVSTAD
+(ekstaras) Ĉu estas vi? Vi venas ĉi tien?
+
+PETRA
+Jes, mi petas pardonon --
+
+HOVSTAD
+(antaŭentiras apogseĝon) Bonvolu eksidi.
+
+PETRA
+Ne dankon; mi tuj foriros.
+
+HOVSTAD
+Ĉu eble estas io de via patro, kio --?
+
+PETRA
+Ne, estas de mi mem. (tiras libron el la mantelpoŝo) Jen la angla
+rakonto.
+
+HOVSTAD
+Kial vi redonas ĝin?
+
+PETRA
+Ĉar mi ne volas traduki ĝin.
+
+HOVSTAD
+Sed vi ja promesis al mi certe --
+
+PETRA
+Jes, tiam mi ankoraŭ ne estis ĝin leginta. Kaj ankaŭ vi certe ne
+legis ĝin?
+
+HOVSTAD
+Ne; vi ja scias, ke mi ne konas la anglan lingvon; sed --
+
+PETRA
+Nu ja; tial mi volis diri al vi, ke vi devas serĉi iun alian. (metas
+la libron sur la tablon) Tiu ĉi ne taŭgas en "La Popola Mesaĝo".
+
+HOVSTAD
+Kaj kial ne?
+
+PETRA
+Ĉar ĝi tute kontraŭas viajn proprajn opiniojn.
+
+HOVSTAD
+Nu, pro tio --
+
+PETRA
+Vi ja ne komprenas min. Temas pri tio kiel supernatura gvidado zorgas
+pri la tielnomataj bonaj homoj, kaj fine kondukas ĉion al la plej
+bona por ili, -- kaj ke ĉiuj tielnomataj malbonaj homoj ricevas
+punon.
+
+HOVSTAD
+Tamen tiel ĉio estas ja nur bone. Estas ja ĝuste tiaĵo, kion la
+homoj volas havi.
+
+PETRA
+Ĉu vi do volas esti tiu, kiu donas tiaĵon al la homoj? Vi mem ja
+kredas eĉ ne unu vorton el tio. Vi ja bone scias, ke ne okazas tiel
+en la realeco.
+
+HOVSTAD
+Vi tute pravas; sed redaktoro ne povas ĉiam agi kiel li volus. Ofte
+oni devas klini sin antaŭ la opinio de la popolo en negravaj aferoj.
+La politiko tamen estas la ĉefa afero en la vivo -- almenaŭ por
+gazeto; kaj se mi volas konduki homojn kun mi al libereco kaj
+progreso, mi ne devas fortimigi ilin. Trovante tian moralan rakonton
+sube en la gazetkelo, ili pli volonte akceptos, kion ni presas supre;
+-- ili kvazaŭ fariĝas pli konfidemaj.
+
+PETRA
+Fi; tiel ruze vi ne starigas kaptilojn por viaj legantoj; vi do ne
+estas araneo.
+
+HOVSTAD
+(ridetas) Dankon, ĉar vi havas tian bonan opinion pri mi. Ne,
+efektive estas ja la ideo de Billing kaj ne la mia.
+
+PETRA
+De Billing!
+
+HOVSTAD
+Jes, li almenaŭ parolis tiel pasinttage. Estas ja Billing, kiu
+absolute volas enpreni tiun rakonton; mi ja ne konas la libron.
+
+PETRA
+Sed kiel povas do Billing kun siaj liberalaj opinioj --!
+
+HOVSTAD
+Ho, Billing estas multspeca, li. Nun li ankaŭ petskribis pri la
+ofico kiel sekretario de la magistrato, mi aŭdas.
+
+PETRA
+Tion mi ne kredas, Hovstad. Kiel povus li decidigi sin al tiaĵo?
+
+HOVSTAD
+Nu, pri tio vi devas demandi lin.
+
+PETRA
+Neniam mi imagus tion pri Billing.
+
+HOVSTAD
+(rigardas ŝin fikse) Ĉu ne? Ĉu tio venas al vi tiel neatende.
+
+PETRA
+Jes. Aŭ tamen eble ne. Ho, mi ne vere scias --.
+
+HOVSTAD
+Ni gazetskribistoj ne multe taŭgas, fraŭlino.
+
+PETRA
+Ĉu vi vere tion diras?
+
+HOVSTAD
+Foje mi tion pensas.
+
+PETRA
+Jes, sub la ĉiutaga kverelado; tion mi komprenas. Sed nun, kun
+granda afero inter la manoj --.
+
+HOVSTAD
+Tio ĉi pri via patro, vi aludas?
+
+PETRA
+Ĝuste tio, jes. Ŝajnas al mi, ke nun vi devas senti vin kiel viro,
+kiu taŭgas antaŭ la plimulto.
+
+HOVSTAD
+Jes, hodiaŭ mi sentas ion tian.
+
+PETRA
+Jes, ĉu ne; vi ja tion sentas! Ho, estas admirinda vivotasko, kiun
+vi elektis. Tiel rompi vojon por misjuĝitaj veroj kaj por novaj,
+kuraĝaj opinioj --; jes, antaŭeniri sentime kaj paroli por maljuste
+traktata homo --
+
+HOVSTAD
+Pleje ĉar tiu maljuste traktata homo estas --, hm, -- mi ne ĝuste
+scias kiel mi --
+
+PETRA
+Kiam li estas tiel justa kaj funde honesta, vi pensas?
+
+HOVSTAD
+(pli mallaŭte) Pleje ĉar li estas via patro, mi pensas.
+
+PETRA
+(subite kiel frapita) _Tio_?
+
+HOVSTAD
+Jes, Petra, -- fraŭlino Petra.
+
+PETRA
+Ĉu estas _tio_, kio staras por vi, kiel la unua kaj supera? Ne la
+afero mem? Ne la vero; ne la granda, varma bonkoreco de patro?
+
+HOVSTAD
+Jes, -- ja kompreneble, ankaŭ tio.
+
+PETRA
+Ne dankon; nun vi trodiris, Hovstad; kaj nun mi neniam plu kredos vin
+en io ajn.
+
+HOVSTAD
+Ĉu vi ofendiĝus pro tio, ke estas pleje pro vi --?
+
+PETRA
+Tio pro kio mi ofendiĝas, estas ke vi ne estis sincera antaŭ patro.
+Vi parolis kun li, kvazaŭ la vero kaj la bono de la socio kuŝus en
+via koro; vi trompis kaj patron kaj min; vi ne estas tia viro, kian
+vi ŝajnigis. Kaj tion mi neniam pardonos al vi -- neniam!
+
+HOVSTAD
+Tion vi ne diru tiel akre, fraŭlino Petra; kaj malpli nun.
+
+PETRA
+Kial ne nun?
+
+HOVSTAD
+Ĉar via patro nun ne povas malhavi mian helpon.
+
+PETRA
+(rigardas lin kvazaŭ de supre) Ĉu vi ankaŭ estas tia? Fi do!
+
+HOVSTAD
+Ne, ne, mi ne estas; venis ja nur senintence; ne kredu tion.
+
+PETRA
+Mi scias kion kredi. Adiaŭ.
+
+ASLAKSEN
+(el la presejo, rapide kaj sekrete) Morto kaj plago, sinjoro Hovstad
+-- (vidas Petra) Aj, domaĝe --
+
+PETRA
+Jen kuŝas la libro; donu ĝin al iu alia. (iras al la elirejo)
+
+HOVSTAD
+(sekvas ŝin) Sed, fraŭlino --
+
+PETRA
+Adiaŭ. (ŝi foriras.)
+
+ASLAKSEN
+Sinjoro Hovstad, aŭskultu do!
+
+HOVSTAD
+Nu, nu do; kio estas?
+
+ASLAKSEN
+La magistranto staras en la presejo.
+
+HOVSTAD
+La magistranto, vi diras?
+
+ASLAKSEN
+Jes, li volas paroli kun vi; li envenis tra la malantaŭa pordo, --
+ne volis esti vidata, vi komprenas.
+
+HOVSTAD
+Kio tio povas esti? Ne; atendu, mi volas mem --
+
+(Li iras al la pordo de la presejo, malfermas, salutas kaj invitas la
+_magistranton_ enveni)
+
+HOVSTAD
+Staru observante, Aslaksen, ke neniu --
+
+ASLAKSEN
+Komprenas -- (iras en la presejon)
+
+LA MAGISTRANTO
+Sinjoro Hovstad certe ne atendis vidi min ĉi tie.
+
+HOVSTAD
+Ne, tion mi vere ne atendis.
+
+LA MAGISTRANTO
+(ĉirkaŭrigardas) Ĉi tie vi ja aranĝis la ejon hejmece, vere
+hejmece.
+
+HOVSTAD
+Ho --
+
+LA MAGISTRANTO
+Kaj nun mi venas tiel senceremonie okupante vian tempon.
+
+HOVSTAD
+Bonvolu, sinjoro magistranto; mi estas je via servo. Sed ĉu mi ne
+devas liberigi vin de --? (metas la kepon kaj la bastonon de la
+_magistranto_ sur seĝon) Kaj ĉu la magistranto bonvolas sidi?
+
+LA MAGISTRANTO
+(eksidas ĉe la tablo) Dankon.
+
+(Ankaŭ Hovstad eksidas ĉe la tablo.)
+
+LA MAGISTRANTO
+Mi havis -- vere ĝenan travivaĵon hodiaŭ, sinjoro Hovstad.
+
+HOVSTAD
+Nu? Jes tiom da farendaĵoj, kiom la magistranto havas, --
+
+LA MAGISTRANTO
+Tio ĉi hodiaŭ rilatas al la doktoro de la banejo.
+
+HOVSTAD
+Nu ja; al la doktoro?
+
+LA MAGISTRANTO
+Li verkis iun proponon al la estraro de la banejo koncerne iujn
+supozeblajn mankojn.
+
+HOVSTAD
+Ho, vere?
+
+LA MAGISTRANTO
+Jes, ĉu li ne diris al vi --? Ŝajnas al mi, ke li menciis --
+
+HOVSTAD
+Ho jes, efektive, li lasis kelkajn vortojn fali --
+
+ASLAKSEN
+(el la presejo) Mi devus ja havi la manuskripton --
+
+HOVSTAD
+(ĉagrenita) Hm; ĝi ja kuŝas sur la pupitro.
+
+ASLAKSEN
+(trovas ĝin) Bone.
+
+LA MAGISTRANTO
+Sed _tie_ ja ĝuste estas --
+
+ASLAKSEN
+Jes, estas la traktaĵo de la doktoro, sinjoro magistranto.
+
+HOVSTAD
+Nu, do estas _tiu_, pri kiu vi parolas?
+
+LA MAGISTRANTO
+Ĝuste tiu. Kion vi opinias pri ĝi?
+
+HOVSTAD
+Mi ja ne estas fakulo, kaj mi nur legis ĝin supraĵe.
+
+LA MAGISTRANTO
+Sed vi tamen presigos ĝin?
+
+HOVSTAD
+Al homo kiu elpaŝas sub sia propra nomo, mi ne povas rifuzi --
+
+ASLAKSEN
+Mi decidas nenion en la gazeto, sinjoro magistranto --
+
+LA MAGISTRANTO
+Kompreneble.
+
+ASLAKSEN
+Mi nur presas, kion oni donas al mi en la manojn.
+
+LA MAGISTRANTO
+Tute en ordo.
+
+ASLAKSEN
+Kaj tial mi devas -- (iras al la presejo)
+
+LA MAGISTRANTO
+Ne, restu momenton, sinjoro Aslaksen. Kun via permeso, sinjoro
+Hovstad --
+
+HOVSTAD
+Mi petas, sinjoro magistranto --
+
+LA MAGISTRANTO
+Vi estas saĝa kaj pensema viro, sinjoro Aslaksen.
+
+ASLAKSEN
+Ĝojigas min, ke la magistranto tiel pensas.
+
+LA MAGISTRANTO
+Kaj viro kun influo en vastaj rondoj.
+
+ASLAKSEN
+Nur pleje inter etburĝoj, ja.
+
+LA MAGISTRANTO
+La malgrandaj impostpagantoj estas ja la plimulto -- ĉi tie kiel en
+aliaj lokoj.
+
+ASLAKSEN
+Efektive ili ja estas.
+
+LA MAGISTRANTO
+Kaj mi ne dubas, ke vi konas la opinion de la plimulto. Ĉu ne?
+
+ASLAKSEN
+Jes, tion mi ja dirus, ke mi faras, sinjoro magistranto.
+
+LA MAGISTRANTO
+Jes, -- kaj ĉar regas tia laŭdinda oferemo inter la malpli
+bonstataj burĝoj, --
+
+ASLAKSEN
+Kiel tio?
+
+HOVSTAD
+Oferemo?
+
+LA MAGISTRANTO
+Estas bela signo pri socia spirito; ege bela signo. Mi dirus, ke tion
+mi ne atendis. Sed vi konas ja la opinion pli profunde ol mi.
+
+ASLAKSEN
+Jes, sed sinjoro magistranto --
+
+LA MAGISTRANTO
+Kaj efektive ne fariĝos eta ofero, kiun la urbo verŝajne devos
+fari.
+
+HOVSTAD
+La urbo?
+
+ASLAKSEN
+Sed mi ne komprenas --. Estas ja la banejo --!
+
+LA MAGISTRANTO
+Post intertempa kalkulo la ŝanĝoj, kiujn la doktoro supozas
+dezirindaj, sumiĝas al kelkaj centmiloj da kronoj.
+
+ASLAKSEN
+Estas ja granda sumo; sed --
+
+LA MAGISTRANTO
+Kompreneble fariĝos necese, ke ni kontraktu komunuman prunton.
+
+HOVSTAD
+(ekstaras) Ĉu estas la intenco, ke la urbo --?
+
+ASLAKSEN
+Ĉu pagiĝus el la kaso de la urbo! El la malriĉaj poŝoj de la
+etburĝoj!
+
+LA MAGISTRANTO
+Jes, estimata sinjoro Aslaksen, de kie alie venus la monaj rimedoj?
+
+ASLAKSEN
+Pri tio devas zorgi la sinjoroj, kiuj posedas la banejon.
+
+LA MAGISTRANTO
+La posedantoj de la banejo ne estimas sin kapablaj streĉi sin pli
+foren ol ili jam faris.
+
+ASLAKSEN
+Ĉu certe, sinjoro magistranto?
+
+LA MAGISTRANTO
+Mi certigis min pri tio. Se oni deziras tiujn ampleksajn ŝanĝojn,
+la urbo mem devas elspezi la kostojn.
+
+ASLAKSEN
+Sed dia morto kaj plago -- pardonu! sed tio ĉi estas ja tute alia
+afero, sinjoro Hovstad!
+
+HOVSTAD
+Jes, tia ĝi efektive estas.
+
+LA MAGISTRANTO
+La plej fatala estas, ke necesus fermi la banejon dum tempo de du
+jaroj.
+
+HOVSTAD
+Fermi? Tute fermi!
+
+ASLAKSEN
+Du jarojn!
+
+LA MAGISTRANTO
+Jes, tiom longe daŭrus la laboro -- minimume.
+
+ASLAKSEN
+Sed morto kaj plago, tion ni ne eltenos, sinjoro magistranto! El kio
+do vivu ni domposedantoj intertempe?
+
+LA MAGISTRANTO
+Al tio estas bedaŭrinde malfacile respondi, sinjoro Aslaksen. Sed
+kion volas vi, ke ni faru? Ĉu vi opinias ke ni ricevos eĉ unu solan
+gaston al la banejo, kiam oni kredigas al ili, ke la akvo estas
+putra, ke ni loĝas sur venena grundo, la tuta urbo --
+
+ASLAKSEN
+Kaj ĉio estas nur imagaĵo?
+
+LA MAGISTRANTO
+Per mia plej granda bonvolemo mi ne povis konvinki min, ke estas io
+alia.
+
+ASLAKSEN
+Jes, sed do estas ja tute nepravigeble farite de doktoro Stockmann
+--; mi petas pardonon, sinjoro magistranto, sed --
+
+LA MAGISTRANTO
+Estas bedaŭrinda vero, kion vi jen esprimas, sinjoro Aslaksen. Mia
+frato ĉiam estis impeta homo.
+
+ASLAKSEN
+Kaj tamen vi volas subteni lin en tiaĵo, sinjoro Hovstad!
+
+HOVSTAD
+Sed kiu do povus pensi, ke --?
+
+LA MAGISTRANTO
+Mi redaktis mallongan klarigon pri la afero, tiel kiel ĝi el sobra
+vidpunkto estu komprenata; kaj aldone mi sugestas kiel eblaj domaĝoj
+laŭespere estu riparotaj en maniero farebla por la kaso de la
+banejo.
+
+HOVSTAD
+Ĉu vi havas tiun artikolon ĉe vi, sinjoro magistranto?
+
+LA MAGISTRANTO
+(foliumas la poŝon) Jes, mi kunprenis ĝin okaze, ke vi --
+
+ASLAKSEN
+(rapide) Morto kaj plago, jen li estas!
+
+LA MAGISTRANTO
+Kiu? Mia frato?
+
+HOVSTAD
+Kie, -- kie?
+
+ASLAKSEN
+Li iras tra la presejo.
+
+LA MAGISTRANTO
+Fatale. Mi ne dezirus renkonti lin ĉi tie, kaj mi ankoraŭ havas
+multon priparolendan kun vi.
+
+HOVSTAD
+(montras al la pordo dekstre) Eniru tien dume.
+
+LA MAGISTRANTO
+Sed --?
+
+HOVSTAD
+Vi trovos nur Billing.
+
+ASLAKSEN
+Rapide, rapide, sinjoro magistranto; jen li venas.
+
+LA MAGISTRANTO
+Jes, jes do; sed prizorgu, ke li baldaŭ foriru.
+
+(Li eliras tra la pordo dekstre, kiun _Aslaksen_ malfermas kaj fermas
+post li.)
+
+HOVSTAD
+Trovu iun okupon, Aslaksen.
+
+(Li eksidas kaj skribas. _Aslaksen_ foliumas en amaso da gazetoj sur
+seĝo dekstre.)
+
+DOKTORO STOCKMANN
+(venas el la presejo) Jen mi ree estas. (demetas ĉapelon kaj
+bastonon)
+
+HOVSTAD
+(skribante) Jam nun, sinjoro doktoro? Urĝu pri tio, kion ni
+priparolis, Aslaksen. La tempo ne sufiĉas por ni hodiaŭ.
+
+DOKTORO STOCKMANN
+(al _Aslaksen_) Ankoraŭ neniu provpresaĵo, mi aŭdas.
+
+ASLAKSEN
+(ne sin turnante) Ne, kiel povus la doktoro pensi tion?
+
+DOKTORO STOCKMANN
+Ne, ne; sed mi estas senpacienca, vi certe komprenas. Mi havas eĉ ne
+momentan kvieton antaŭ ol mi vidos ĝin en la gazeto.
+
+HOVSTAD
+Hm; daŭros certe ankoraŭ ioman tempon. Ĉu vi ne pensas, Aslaksen?
+
+ASLAKSEN
+Jes, mi preskaŭ timas tion.
+
+DOKTORO STOCKMANN
+Bone, bone, miaj karaj amikoj; do mi revenos; mi volonte revenos du
+fojojn, se estos necese. Tia granda afero, -- la bonfarto de la tuta
+urbo --; ne estas ja tempo por vivi en nenifarado. (volas foriri,
+sed haltas kaj revenas) Sed aŭdu, -- ankoraŭ estas afero, kiun mi
+devas priparoli kun vi.
+
+HOVSTAD
+Pardonu; sed ĉu ni povus alian fojon --?
+
+DOKTORO STOCKMANN
+Estas en du vortoj dirite. Estas nur tio, vi komprenu, -- ke kiam oni
+morgaŭ legos mian artikolon en la gazeto, kaj ne scias, ke mi la
+tutan vintron en silento laboradis por la bono de la urbo --
+
+HOVSTAD
+Jes, sed doktoro --
+
+DOKTORO STOCKMANN
+Mi scias kion vi volas diri. Vi opinias, ke ne estis pli ol mia
+damnita devo, -- simpla civitana devo. Kompreneble; tion mi scias
+same bone kiel vi. Sed miaj samcivitanoj, vidu --; bona Dio, la
+benitaj homoj, ili ja tiel amas min --
+
+ASLAKSEN
+Jes, la civitanoj amas vin ĝis tiun ĉi tagon, sinjoro doktoro.
+
+DOKTORO STOCKMANN
+Jes, kaj ĝuste tial mi timas, ke --; _jen_ kion mi volis diri: Kiam
+nun tio ĉi venas al ili -- precipe al la senhavaj klasoj -- kiel
+instiganta alvoko por en la estonteco preni la aferojn de la urbo en
+proprajn manojn --
+
+HOVSTAD
+(ekstaras) Hm, sinjoro doktoro, mi ne volas kaŝi por vi --
+
+DOKTORO STOCKMANN
+Aha, -- ĉu mi ne povus pensi, ke io estas en preparo! Sed tion mi ne
+volas akcepti. Se oni preparadas ion tian --
+
+HOVSTAD
+Kion do?
+
+DOKTORO STOCKMANN
+Nu, ion aŭ alian, -- standard-procesion aŭ festmanĝon aŭ
+subskripcion al honora donaco -- aŭ kion ajn, vi devas promesi al mi
+je via savo malhelpi tion. Kaj ankaŭ vi, Aslaksen; ĉu vi aŭdas?
+
+HOVSTAD
+Pardonu, sinjoro doktoro; ni povas same bone unue kiel laste diri al
+vi la puran veron --
+
+(_Sinjorino Stockmann_, kun ĉapelo kaj mantelo envenas tra la pordo
+maldekstre en la fono.)
+
+SINJORINO STOCKMANN
+(vidas la doktoron) Jes, ĝuste!
+
+HOVSTAD
+(iras al ŝi renkonte) Jen jen, ankaŭ la sinjorino?
+
+DOKTORO STOCKMANN
+Kion, diable, volas vi ĉi tie, Katrine?
+
+SINJORINO STOCKMANN
+Vi ja povas bone pensi, kion mi volas.
+
+HOVSTAD
+Bonvolu sidi. Aŭ eble --
+
+SINJORINO STOCKMANN
+Dankon; ne ĝenu vin. Kaj vi eĉ ne devas esti ĉagrenita pro tio, ke
+mi venas por serĉi Stockmann; ĉar sciu, ke mi estas patrino de tri
+infanoj.
+
+DOKTORO STOCKMANN
+Babilaĵo; tion ni ja bone scias.
+
+SINJORINO STOCKMANN
+Ĉu? Ne aspektas tiel, ke vi pensas iom pri edzino kaj infanoj
+hodiaŭ; ĉar alie vi ne irus ĵeti nin ĉiujn en malfeliĉon.
+
+DOKTORO STOCKMANN
+Sed ĉu vi estas tute freneza, Katrine! Ĉu viro kun edzino kaj
+infanoj ne havu permeson publikigi la veron, -- ne havu permeson esti
+utila kaj agema civitano, -- ne havu permeson servi la urbon en kiu
+li loĝas!
+
+SINJORINO STOCKMANN
+Ĉio kun modereco, Tomas!
+
+ASLAKSEN
+Tion ankaŭ mi diras. Modereco en ĉio.
+
+SINJORINO STOCKMANN
+Kaj tial vi faras pekon kontraŭ nin, sinjoro Hovstad, kiam vi logas
+mian edzon for de domo kaj hejmo, kaj forlogas lin en tion ĉi.
+
+HOVSTAD
+Mi ja ne forlogas iun en --
+
+DOKTORO STOCKMANN
+Forlogas! Ĉu vi kredas, ke _mi_ lasas min forlogi!
+
+SINJORINO STOCKMANN
+Jes, vi faras. Mi ja scias, ke vi estas la plej inteligenta homo en
+la urbo; sed estas tre facile forlogi vin, Tomas. (al _Hovstad_) Kaj
+pensu nur, ke li perdas sian oficon ĉe la banejo, se vi presos lian
+artikolon --
+
+ASLAKSEN
+Kio do!
+
+HOVSTAD
+Sed aŭdu, sinjoro doktoro --
+
+DOKTORO STOCKMANN
+(ridas) Ha-ha, lasu ilin nur provi --! Ho ne, -- ili certe gardos
+sin. Ĉar, vidu, mi havas la kompaktan plimulton malantaŭ mi!
+
+SINJORINO STOCKMANN
+Jes, estas ja ĝuste la malfeliĉo, ke vi havas tian teruraĵon
+malantaŭ vi.
+
+DOKTORO STOCKMANN
+Babilaĵo, Katrine; -- iru hejmen kaj zorgu pri via domo, kaj lasu
+min zorgi pri la socio. Kiel vi povas timi, kiam mi estas fidema kaj
+ĝoja? (frotas la manojn kaj paŝadas tien kaj reen) La vero kaj la
+popolo gajnos la batalon, je tio vi povas sakri. Ho, mi vidas la
+tutan liberalan burĝaron ariĝi en venkantan armeon --! (haltas ĉe
+seĝo) Kio -- kio diablo estas _jeno_?
+
+ASLAKSEN
+(rigardas tien) Aj do!
+
+HOVSTAD
+(same) Hm --
+
+DOKTORO STOCKMANN
+Jen kuŝas ja la pinto de la aŭtoritatulo.
+
+(Li prenas zorgeme la kepon de la _magistranto_ per la fingropintoj,
+kaj suprenlevas ĝin.)
+
+SINJORINO STOCKMANN
+La kepo de la magistranto!
+
+DOKTORO STOCKMANN
+Kaj jen ankaŭ la komandobastono. Kiel diable kaj fantome --
+
+HOVSTAD
+Nu jeno do --
+
+DOKTORO STOCKMANN
+Ha, mi komprenas! Li faris viziton por konvinki vin. Ha-ha, jen li
+venis al la ĝustaj! Kaj kiam li ekvidis min en la presejo --.
+(ekridas) Ĉu li kuris, sinjoro Aslaksen?
+
+ASLAKSEN
+(rapide) Je Dio li kuris, doktoro.
+
+DOKTORO STOCKMANN
+Kuris de bastono kaj --. Babilaĵo; Petro ne kuras de io ajn. Sed
+diable, kien vi metis lin? Ha, -- tie, kompreneble. Nun vi vidu,
+Katrine!
+
+SINJORINO STOCKMANN
+Tomas, -- mi petas vin --!
+
+ASLAKSEN
+Gardu vin, sinjoro doktoro!
+
+DOKTORO STOCKMANN
+(Li metas la kepon de la _magistranto_ sur la kapon kaj prenas lian
+bastonon; poste li iras al la pordo, abrupte malfermas ĝin, kaj
+salutas per la mano al la ŝirmilo de la kepo.)
+
+(La _magistranto_ envenas, ruĝa de kolero. Malantaŭ li _Billing_.)
+
+LA MAGISTRANTO
+Kion tiuj tumultoj signifu?
+
+DOKTORO STOCKMANN
+Respekto, mia bona Petro. Nun estas mi, kiu estas la aŭtoritato en
+la urbo.
+
+(Li paŝadas tien kaj reen.)
+
+SINJORINO STOCKMANN
+(preskaŭ plorante) Ne, sed Tomas do!
+
+LA MAGISTRANTO
+(postsekvas lin) Donu al mi mian kepon kaj bastonon!
+
+DOKTORO STOCKMANN
+(kiel antaŭe) Se vi estas policestro, mi estas urbestro, -- mi
+estras la tutan urbon, mi, jen vidu!
+
+LA MAGISTRANTO
+Demetu la kepon, mi diras. Memoru ke estas laŭregulara uniformkepo!
+
+DOKTORO STOCKMANN
+Ba; ĉu vi opinias, ke la vekiĝanta popola leono lasas sin timigi de
+uniformkepoj? Ĉar sciu, ke ni faros revolucion en la urbo morgaŭ.
+Vi minacis maldungi min; sed nun mi maldungos vin, -- maldungos vin
+de ĉiuj viaj konfiditaj postenoj --. Ĉu vi opinias, ke mi ne povas?
+Ho jes; mi havas la venkantajn potencojn de la socio kun mi. Hovstad
+kaj Billing volas tondri en "La Popola Mesaĝo", kaj presisto
+Aslaksen elmarŝos antaŭe de la tuta asocio de domposedantoj --
+
+ASLAKSEN
+Tion mi ne faros, sinjoro doktoro.
+
+DOKTORO STOCKMANN
+Certe vi faros --
+
+LA MAGISTRANTO
+Aha; sinjoro Hovstad eble aliĝos al la agitado?
+
+HOVSTAD
+Ne, sinjoro magistranto.
+
+ASLAKSEN
+Ne, tiel freneza sinjoro Hovstad ne estas, ke li detruos kaj sin mem
+kaj la gazeton pro imagaĵo.
+
+DOKTORO STOCKMANN
+(ĉirkaŭrigardas) Kion do jeno signifu?
+
+HOVSTAD
+Vi prezentis vian aferon en falsa lumo, sinjoro doktoro; kaj tial mi
+ne povas subteni ĝin.
+
+BILLING
+Ne, post tio, kion sinjoro magistranto bonvole klarigis al mi, --
+
+DOKTORO STOCKMANN
+Falsa! Lasu min pri tio. Presigu vi nur mian traktaĵon; mi estos
+viro por defendi ĝin.
+
+HOVSTAD
+Mi ne presigos ĝin. Mi ne povas, ne volas kaj ne kuraĝas presigi
+ĝin.
+
+DOKTORO STOCKMANN
+Vi ne kuraĝas? Kia babilaĵo! Vi ja estas redaktoro; kaj estas ja la
+redaktoroj, kiuj regas la gazetaron, mi kredus!
+
+ASLAKSEN
+Ne; sed estas la abonantoj, sinjoro doktoro.
+
+LA MAGISTRANTO
+Feliĉe, jes.
+
+ASLAKSEN
+Estas la publika opinio, la klera publiko, la domposedantoj kaj ĉiuj
+aliaj; _tiuj_ regas la gazetojn.
+
+DOKTORO STOCKMANN
+(sinrega) Kaj ĉiujn tiujn potencojn mi havas kontraŭ mi?
+
+ASLAKSEN
+Jes, vi havas. Estus la ruinigo de la burĝaro, se ni presus vian
+artikolon.
+
+DOKTORO STOCKMANN
+Nu tiel. --
+
+LA MAGISTRANTO
+Mian kepon kaj mian bastonon!
+
+(_Doktoro Stockmann_ demetas la kepon kaj kuŝigas ĝin sur la
+tablon kune kun la bastono.)
+
+LA MAGISTRANTO
+(prenas ambaŭ al si) Via urbestra honoro ekhavis abruptan finon.
+
+DOKTORO STOCKMANN
+Ni ankoraŭ ne atingis la finon. (al _Hovstad_) Do neeblas presigi
+mian traktaĵon en "La Popola Mesaĝo"?
+
+HOVSTAD
+Tute neeblas; ankaŭ pro konsidero pri via familio.
+
+SINJORINO STOCKMANN
+Ho, vi tute ne havu konsideron pri la familio, sinjoro Hovstad.
+
+LA MAGISTRANTO
+(prenas paperon el la poŝo) Kiel informo por la publiko sufiĉas
+tion ĉi: Estas aŭtentika klarigo. Bonvolu.
+
+HOVSTAD
+(prenas la paperon) Bone; estos zorge presigata.
+
+DOKTORO STOCKMANN
+Sed la mia ne. Oni imagas, ke oni povas silentigi min kaj la veron
+ĝis morto! Sed tio ne iros tiel glate, kiel vi opinias. Sinjoro
+Aslaksen, bonvolu tuj preni mian manuskripton kaj presi ĝin kiel
+flugfolion -- je mia propra kostopago, -- en mia eldonejo. Mi volas
+havi kvar cent ekzemplerojn; ne, kvin, ses cent mi volas havi.
+
+ASLAKSEN
+Eĉ ne se vi ofertus al mi oron, kuraĝus mi ludoni mian presejon al
+tiaĵo, sinjoro doktoro. Mi ne kuraĝas pro la publika opinio. Neniu
+en la urbo presos ĝin.
+
+DOKTORO STOCKMANN
+Do redonu ĝin al mi.
+
+HOVSTAD
+(donas al li la manuskripton) Bonvolu.
+
+DOKTORO STOCKMANN
+(serĉas ĉapelon kaj bastonon) Publikigota ĝi tamen estu. Mi legos
+ĝin en granda popolkunveno; ĉiuj miaj samcivitanoj aŭdu la voĉon
+de la vero!
+
+LA MAGISTRANTO
+Neniu asocio en la tuta urbo pruntedonos al vi ejon por tia celo.
+
+ASLAKSEN
+Eĉ ne unu sola; tion mi ja certe scias.
+
+BILLING
+Ne, dia morto, ĉu ili faros!
+
+SINJORINO STOCKMANN
+Estus do tro indignige! Sed kial staras ili do tiel kontraŭ vi,
+ĉiuj?
+
+DOKTORO STOCKMANN
+(kolera) Jes, tion mi diru. Estas ĉar en tiu ĉi urbo ĉiuj viroj
+estas timoplenaj virinoj -- kiel vi; ĉiuj nur pensas pri la familio
+kaj ne pri la socio.
+
+SINJORINO STOCKMANN
+(kaptas lian brakon) Do mi montru al ili unu -- unu virinon, kiu
+povas esti viro -- fojon. Ĉar nun mi kunsentas kun vi, Tomas!
+
+DOKTORO STOCKMANN
+Bone dirite, Katrine. Publikigota ĝi estu, je mia beno kaj savo! Se
+mi ne povos lui ejon, do mi dungos tamburiston por iri tra la urbo
+kun mi, kaj mi laŭtlegos ĝin ĉe ĉiuj stratanguloj.
+
+LA MAGISTRANTO
+Tiel ege freneza vi do ne estas?
+
+DOKTORO STOCKMANN
+Jes, mi estas!
+
+ASLAKSEN
+Vi havos eĉ neniun homon en la tuta urbo por iri kun vi.
+
+BILLING
+Ne, dia morto, ĉu vi ekhavos!
+
+SINJORINO STOCKMANN
+Ne cedu, Tomas. Mi sendos la knabojn kuniri kun vi.
+
+DOKTORO STOCKMANN
+Bona ideo!
+
+SINJORINO STOCKMANN
+Morten volonte kuniros; kaj Ejlif, certe ankaŭ li.
+
+DOKTORO STOCKMANN
+Jes, kaj ankaŭ Petra! Kaj vi mem, Katrine!
+
+SINJORINO STOCKMANN
+Ne, ne, mi ne; sed mi staros en la fenestro por rigardi vin; tion mi
+faros.
+
+DOKTORO STOCKMANN
+(ĉirkaŭbrakas kaj kisas ŝin) Dankon pro tio! Jes, nun ni provu
+batalon, vi bonaj sinjoroj! Mi volas vidi ĉu la fiaĵo kapablas
+kunkudri la buŝon de tiu patrioto, kiu volas purigi la socion!
+
+(Li kaj la sinjorino eliras tra la pordo maldekstre en la fono.)
+
+LA MAGISTRANTO
+(malkviete agitas sian kapon) Nun li igis ankaŭ _ŝin_ freneza.
+
+
+
+
+KVARA AKTO
+
+
+(Granda malmoderna salono en la domo de Horster. Malferma duparta
+pordo en la fono kondukas en antaŭĉambron. Sur la maldekstra
+longmuro estas tri fenestroj; meze sur la kontraŭa muro estas metita
+podio kaj sur ĝin malgranda tablo kun du kandeloj, akvokarafo, glaso
+kaj sonorilo. Cetere la salono estas lumigata per lampetoj inter la
+fenestroj. Maldekstre antaŭe staras tablo kun kandelo kaj seĝo.
+Antaŭe dekstre estas pordo kaj apud ĝi kelke da seĝoj.)
+
+(Granda kunveno de civitanoj el ĉiuj tavoloj. Oni povas vidi kelkajn
+virinojn kaj kelkajn lernejajn knabojn en la amaso. Pli kaj pli da
+homoj laŭvice fluas enen de la fono, tiel ke la salono pleniĝas.)
+
+CIVITANO
+(al aliulo, kiun li renkontas) Ĉu ankaŭ vi venas ĉi-vespere,
+Lamstad?
+
+LA ALPAROLINTO
+Mi partoprenas en ĉiuj popolkunvenoj, mi.
+
+ĈESTARANTO
+Vi ja kunprenis fajfilon, ĉu ne?
+
+LA DUA CIVITANO
+Kredu ke mi faris. Ĉu vi ne?
+
+LA TRIA
+Ho jes. Kaj ŝipestro Evensen volas kunpreni grandan kornon, li
+diris.
+
+LA DUA CIVITANO
+Li estas amuza, tiu Evensen. (ridado en la grupo)
+
+LA KVARA CIVITANO
+(alvenas) Aŭdu, diru kio okazos ĉi vespere?
+
+LA DUA CIVITANO
+Estas ja doktoro Stockmann, kiu volas fari prelegon kontraŭ la
+magistranto.
+
+LA NOVEVENINTO
+Sed la magistranto estas ja lia frato.
+
+LA UNUA CIVITANO
+Tio estas tute egale por li; doktoro Stockmann ne estas malkuraĝa.
+
+LA TRIA CIVITANO
+Sed li ja malpravas; tion mi legis en "La Popola Mesaĝo".
+
+LA DUA CIVITANO
+Jes, kredeble li malpravas ĉi tiun fojon; ĉar ili ne volis luigi al
+li salonon nek en la asocio de domposedantoj nek en la civitanklubo.
+
+LA UNUA CIVITANO
+Eĉ ne la banejan salonon li povis lui.
+
+LA DUA CIVITANO
+Ne, kompreneble.
+
+VIRO
+(en alia grupo) Kun kiu oni samopiniu en ĉi tiu afero, sinjoro?
+
+ALIA VIRO
+(en la sama grupo) Nur rigardu presiston Aslaksen, kaj faru, kiel
+_li_ faras.
+
+BILLING
+(kun dokumentujo sub la brako, faras al si vojon tra la amaso)
+Pardonu, sinjoroj! Permesu al mi preterpasi. Mi referos por "La
+Popola Mesaĝo". Koran dankon!
+
+(Li eksidas ĉe la tablo maldekstre.)
+
+LABORISTO
+Kiu tiu estas?
+
+ALIA LABORISTO
+Ĉu vi ne konas _lin_? Estas ja tiu Billing, kiu skribas por la
+gazeto de Aslaksen.
+
+(_Ŝipestro Horster_ akompanas _sinjorinon Stockmann_ kaj _Petra_
+enen tra la pordo dekstre antaŭe. Ejlif kaj _Morten_ sekvas ilin.)
+
+HORSTER
+Mi pensis, ke jen la familio povas sidi; de ĉi tie estas facile
+eliri, se io okazus.
+
+SINJORINO STOCKMANN
+Ĉu vi kredas, ke fariĝos tumultoj?
+
+HORSTER
+Oni neniam scias --; inter tiom da homoj --. Sed eksidu vi nun tute
+trankvile.
+
+SINJORINO STOCKMANN
+(eksidas) Kiel ĝentile de vi, ke vi proponis al Stockmann vian
+salonon.
+
+HORSTER
+Ĉar ja neniu alia volis, do --
+
+PETRA
+(kiu ankaŭ eksidis) Kaj ankaŭ kuraĝe, Horster.
+
+HORSTER
+Ho, tio ne postulis multe da kuraĝo, mi opinias.
+
+(_Redaktoro Hovstad_ kaj _presisto Aslaksen_ venas samtempe, sed
+unuope tra la amaso.)
+
+ASLAKSEN
+(iras al _Horster_) Ĉu la doktoro ankoraŭ ne venis?
+
+HORSTER
+Li atendas tie interne. (moviĝo apud la pordo en la fono)
+
+HOVSTAD
+(al _Billing_) Jen la magistranto. Vidu!
+
+BILLING
+Jes, dia morto, ĉu li ne tamen venas!
+
+(_Magistranto Stockmann_ senpuŝe faras al si vojon inter la
+kunvenintoj, salutas ĝentile kaj prenas lokon ĉe la muro
+maldekstre. Iom poste venas _doktoro Stockmann_ tra la pordo dekstre
+antaŭe. Li estas nigre vestita, en redingoto, kun blanka koltuko.
+Iuj manfrapas necerte, sed silentiĝas per mallaŭtaj tŝŝ.
+Fariĝas silente.)
+
+DOKTORO STOCKMANN
+(duonlaŭte) Kiel vi fartas, Katrine?
+
+SINJORINO STOCKMANN
+Nu, mi fartas bone. (Pli mallaŭte) Ne koleriĝu nun, Tomas.
+
+DOKTORO STOCKMANN
+Ho, mi scias regi min. (rigardas sian horloĝon, supreniras la
+podion kaj kapklinas) La horloĝo montras kvaronon post, -- kaj do mi
+volas komenci -- (eltiras sian manuskripton)
+
+ASLAKSEN
+Unue ni devas elekti prezidanton.
+
+DOKTORO STOCKMANN
+Ne; tio ne estas necesa.
+
+KELKAJ SINJOROJ
+(krias) Jes, jes!
+
+LA MAGISTRANTO
+Ankaŭ mi opinius, ke prezidanto devus esti elektata.
+
+DOKTORO STOCKMANN
+Sed mi kunvokis ĉi tiun kunvenon por fari prelegon, Petro!
+
+LA MAGISTRANTO
+La prelego de la baneja kuracisto eble kaŭzus esprimojn de
+diverĝantaj opinioj.
+
+PLURAJ VOĈOJ
+Prezidanton! Prezidanton!
+
+HOVSTAD
+La publika civitana volo aspekte postulas prezidanton.
+
+DOKTORO STOCKMANN
+(sinrege) Nu do bone; lasu do la civitana volo havi sian volon.
+
+ASLAKSEN
+Ĉu ne la magistranto volus akcepti tiun taskon?
+
+TRI SINJOROJ
+(manfrapas) Bravo! Bravo!
+
+LA MAGISTRANTO
+Pro pluraj facile kompreneblaj kaŭzoj mi devas rifuzi. Sed feliĉe
+ni havas en nia mezo viron, kiun mi opinias ke ĉiuj povas akcepti.
+Mi aludas al la prezidanto de la asocio de domposedantoj, sinjoro
+presisto Aslaksen.
+
+MULTAJ VOĈOJ
+Jes, jes! Aslaksen vivu! Hura por Aslaksen.
+
+(_Doktoro Stockmann_ prenas sian manuskripton kaj malsupreniras de la
+podio)
+
+ASLAKSEN
+Ĉar la fido de miaj kuncivitanoj vokas min, mi ne estas malinklina --
+
+(Manfrapado kaj aplaŭdo. _Aslaksen_ supreniras la podion.)
+
+BILLING
+(skribas) Do -- "sinjoro presisto Aslaksen elektita per aplaŭdo" --
+
+ASLAKSEN
+Kaj ĉar mi nun staras sur tiu ĉi loko, mi petas la permeson diri
+kelkajn mallongajn vortojn. Mi estas trankvilema kaj pacema homo, kiu
+ŝatas prudentan moderecon -- kaj moderan prudenton; tion scias ĉiu
+ajn, kiu konas min.
+
+MULTAJ VOĈOJ
+Jes, jes, Aslaksen!
+
+ASLAKSEN
+En la lernejo de la vivo kaj de la spertoj mi lernis, ke modereco
+estas la virto, kiu plej bone decas al civitano --
+
+LA MAGISTRANTO
+Aŭdu!
+
+ASLAKSEN
+-- kaj ke prudento kaj modereco estas tio, kio estas plej bone ankaŭ
+por la socio. Mi tial admonus al la estimata samcivitano, kiu
+kunvokis al ĉi tiu kunveno, ke li kiel eble provos teni sin inter la
+limoj de la modereco.
+
+VIRO
+(apud la pordo) Je la sano de la asocio por modereco!
+
+VOĈO
+Fi pro diablo!
+
+MULTAJ
+Tŝŝ, tŝŝ!
+
+ASLAKSEN
+Neniuj interrompoj, sinjoroj! -- Ĉu iu petas la parolrajton?
+
+LA MAGISTRANTO
+Sinjoro prezidanto!
+
+ASLAKSEN
+Sinjoro magistranto Stockmann havas la parolrajton.
+
+LA MAGISTRANTO
+Konsiderante la proksiman parencecon, supozeble konatan, kiun mi
+havas al la funkcianta baneja kuracisto, mi preferus nenion diri
+ĉi-vespere. Sed mia rilato al la banejo kaj la konsidero al la plej
+gravaj interesoj de la urbo devigas min prezenti proponon. Mi
+kuraĝas supozi, ke neniu el la ĉeestantaj civitanoj opinias, ke
+estas dezirinde, ke malfidindaj kaj troigantaj prezentoj de la
+sanitaraj kondiĉoj en la banejo kaj la urbo estu disvastigataj en
+vastaj rondoj.
+
+MULTAJ VOĈOJ
+Ne, ne, ne! Tion ne! Ni protestas!
+
+LA MAGISTRANTO
+Mi tial proponas, ke la kunveno ne permesu al la baneja kuracisto
+laŭtlegi aŭ prelegi sian prezenton de la afero.
+
+DOKTORO STOCKMANN
+(impete) Ne permesas --? Kio do!
+
+SINJORINO STOCKMANN
+(tusas) Hm -- hm!
+
+DOKTORO STOCKMANN
+(regas sin) Nu; do ne permesas.
+
+LA MAGISTRANTO
+En mia klarigo en "La Popola Mesaĝo" mi prezentis al la publiko la
+ĉefajn faktojn, tiel ke ĉiuj bonvolemaj burĝoj facile povas fari
+sian juĝon. El tio oni vidos, ke la propono de la baneja kuracisto,
+-- krom esti voto pri malkonfido al la estrantaj homoj en la loko, --
+vere signifas ŝarĝi sur la impostpagantojn nenecesan elspezon de
+minimume cent mil kronoj.
+
+(malkontento, kaj kelkaj fajfas)
+
+ASLAKSEN
+(sonorigas) Silentium, miaj sinjoroj! Mi permesas al mi subteni la
+proponon de la magistranto. Estas ankaŭ _mia_ opinio, ke la agitado
+de la doktoro havas subintencon. Li parolas pri la banejo; sed estas
+al revolucio ke li aspiras; li volas meti la estradon en aliajn
+manojn. Neniu malfidas la honestan intencon de la doktoro; Dio gardu,
+pri tio ne povas esti du opinioj. Ankaŭ _mi_ estas amiko de popola
+memregado, kiam ĝi ne fariĝas tro multekosta por la impostpagantoj.
+Sed _tio_ estus la okazo ĉi tie; kaj tial --; je dia morto --
+pardonu -- mi ne povas subteni doktoron Stockmann tiun ĉi fojon. Oni
+povas ankaŭ aĉeti oron tro multekoste; tio estas ja _mia_ opinio.
+
+(vigla aplaŭdado de ĉiuj flankoj)
+
+HOVSTAD
+Ankaŭ mi sentas min instigata klarigi mian sintenon. Unue la agitado
+de doktoro Stockmann aspekte gajnis konsiderindan apogon, kaj mi
+subtenis lin tiel senpartie kiel mi povis. Sed dume ni malkovris, ke
+ni lasis nin misgvidi de falsa prezentado --
+
+DOKTORO STOCKMANN
+Falsa --!
+
+HOVSTAD
+Iu ne tute fidinda prezentado, kiel la klarigo de la magistranto
+montris. Mi esperas, ke neniu en ĉi tiu loko malfidas mian liberalan
+animstaton; la sinteno de "La Popola Mesaĝo" en la grandaj politikaj
+problemoj estas bone konata de ĉiuj. Sed de spertaj kaj saĝaj homoj
+mi lernis, ke en pure lokaj aferoj gazeto devas antaŭeniri kun ioma
+singardemo.
+
+ASLAKSEN
+Mi tute samopinias kun la parolanto.
+
+HOVSTAD
+Kaj en la prezentita afero estas sendube, ke doktoro Stockmann havas
+la publikan volon kontraŭ si. Sed kiu estas la unua kaj plej granda
+devo de redaktoro, miaj sinjoroj? Ĉu ne estas agi konforme al siaj
+legantoj? Ĉu li ne ricevis kvazaŭ silentan mandaton por fervore kaj
+senlace antaŭenigi la prosperon de siaj samideanoj? Aŭ ĉu mi eble
+erarus en tio?
+
+MULTAJ VOĈOJ
+Ne, ne, ne! Redaktoro Hovstad pravas!
+
+HOVSTAD
+Kostis por mi pezan lukton rompi kun viro, en kies hejmo mi
+lastatempe estis ofta gasto, -- viro, kiu ĝis ĉi tiu tago ĝuis la
+senduban bonvolemon de siaj kuncivitanoj, -- viro, kies sola -- aŭ
+almenaŭ plej esenca eraro estas, ke li demandas pri konsilo pli el
+sia koro ol el sia kapo.
+
+KELKAJ DISAJ VOĈOJ
+Jen vero! Hura por doktoro Stockmann!
+
+HOVSTAD
+Sed mia devo al la socio devigis min rompi kun li. Kaj ankaŭ estas
+alia konsidero, kiu pelas min lukti kontraŭ lin kaj, se eble,
+haltigi lin sur la fatala vojo, laŭ kiu li nun iras; estas la
+konsidero al lia familio --
+
+DOKTORO STOCKMANN
+Tenu vin al la akvotubo kaj la kloako!
+
+HOVSTAD
+-- la konsidero al lia edzino kaj liaj neplenaĝaj infanoj.
+
+MORTEN
+Ĉu tiuj estas ni, panjo?
+
+SINJORINO STOCKMANN
+Tŝ!
+
+ASLAKSEN
+Mi do volas meti la proponon de la magistranto sub voĉdonon.
+
+DOKTORO STOCKMANN
+Vi ne bezonas! Ĉi-vespere mi ne intencas paroli pri la fiaĵo tie
+malsupre en la banejo. Ne; vi aŭdos ion tute alian.
+
+LA MAGISTRANTO
+(duonlaŭte) Kio do nun estas?
+
+EBRIA VIRO
+(supre apud la enirpordo) Mi estas impostrajtigita! Kaj tial mi
+ankaŭ estas opinirajtigita! Kaj mi havas la plenan -- firman --
+nekompreneblan opinion ke --
+
+PLURAJ VOĈOJ
+Silentu tie!
+
+ALIAJ
+Li estas ebria! Elĵetu lin! (Oni elĵetas la ebriulon.)
+
+DOKTORO STOCKMANN
+Ĉu mi rajtas paroli?
+
+ASLAKSEN
+(sonorigas) Sinjoro doktoro Stockmann parolos!
+
+DOKTORO STOCKMANN
+Ke tio okazus nur antaŭ kelkaj tagoj, ke oni kuraĝus provi kiel
+ĉi-vespere bari al mi la parolrajton! Kiel leono mi defendus miajn
+sanktajn homajn rajtojn! Sed nun tio por mi ne gravas; ĉar nun mi
+havas pli grandajn aferojn por priparoli.
+
+(La amaso densiĝas ĉirkaŭ li. _Morten Kiil_ aperas inter la
+ĉestarantoj.)
+
+DOKTORO STOCKMANN
+(daŭrigas) Mi pensis, kaj mi cerbumis multe dum la lastaj tagoj, --
+cerbumis pri multaj aferoj, tiel ke fine komencis turniĝi en mia
+kapo.
+
+LA MAGISTRANTO
+(tusas) Hm --!
+
+DOKTORO STOCKMANN
+-- sed jen mi klare vidis la rilatojn; mi travidis la konekson tute
+klare. Kaj tial mi staras ĉi tie hodiaŭ. Miaj samcivitanoj, mi
+volas funde senvualigi por vi kaŝitajn aferojn! Mi montros al vi
+malkovron multe pli gravan, ol tiun malgravaĵon, ke nia
+akvokondukilo estas venena, kaj ke nia banejo por sano kuŝas sur
+infektita grundo.
+
+MULTAJ VOĈOJ
+(kriante) Ne parolu pri la banejo! Ni ne volas aŭdi tion. Nenion pri
+ĝi.
+
+DOKTORO STOCKMANN
+Mi diris, ke mi volas paroli pri la granda malkovro, kiun mi faris la
+lastajn tagojn, -- la malkovro, ke ĉiuj niaj spiritaj vivofontoj
+estas venenaj, kaj ke nia tuta civitana socio kuŝas sur la infektita
+grundo de la mensogo.
+
+KONSTERNITAJ VOĈOJ
+(duonlaŭte) Kion li diras?
+
+LA MAGISTRANTO
+Kia kulpigo --!
+
+ASLAKSEN
+(kun la mano sur la sonorilo) Mi petas la parolanton sin moderi.
+
+DOKTORO STOCKMANN
+Mi amis mian hejmurbon tiel kore, kiel iu povas ami la hejman lokon
+de sia juneco. Mi ne estis maljuna, kiam mi forvojaĝis, kaj la
+distanco, sopiro kaj memoro kvazaŭ ĵetis pli grandan brilon sur
+lokon kaj homojn.
+
+(disaj manfrapado kaj aplaŭdo aŭdiĝas)
+
+DOKTORO STOCKMANN
+Kaj jen mi sidis dum multaj jaroj en terura forejo longe fore tie
+norde. Kiam mi vizitis kelkajn el tiuj homoj, kiuj loĝis dise inter
+la ŝtonejoj, ŝajnis al mi multfoje, ke estus pli avantaĝe por la
+bedaŭrindaj povruloj, havi bestokuraciston tie anstataŭ homon kiel
+mi. (murmurado en la salono)
+
+BILLING
+(demetas la plumon) Nun, dia morto, mi neniam aŭdis --!
+
+HOVSTAD
+Tio estas insulto kontraŭ estiminda laborista klaso!
+
+DOKTORO STOCKMANN
+Atendu nur iomete! -- mi opinias, ke neniu povas imputi al mi, ke mi
+forgesis mian hejmurbon tie norde. Mi kvazaŭ kuŝis sur ovo kiel
+molanaso; kaj tio kion mi elkovis, -- estis la plano por la banejo
+ĉi tie.
+
+(manfrapado kaj protestoj)
+
+DOKTORO STOCKMANN
+Kaj fine, kiam la sorto aranĝis ĉion tiel bone kaj benate por mi,
+ke mi povis reveni hejmen, -- jes, miaj kuncivitanoj, tiam ŝajnis al
+mi, ke mi ne havas pliajn dezirojn en la mondo. Jes, mi havis la
+deziron, fervore, senlace, arde esti agema por la bono de hejmo kaj
+publiko.
+
+LA MAGISTRANTO
+(rigardas aeren) La maniero estas iom stranga -- hm.
+
+DOKTORO STOCKMANN
+Kaj jen mi ĉirkaŭiris glutante la feliĉon de blindeco. Sed hieraŭ
+antaŭtagmeze, -- ne, vere estis antaŭhieraŭ vespere -- tiam tute
+malfermiĝis por mi miaj spiritaj okuloj, kaj la unua, kion mi vidis,
+estis la senmezura stulteco de la aŭtoritatuloj --
+
+(Bruo, krioj, kaj ridado. _Sinjorino Stockmann_ tusas ripete.)
+
+LA MAGISTRANTO
+Sinjoro prezidanto!
+
+ASLAKSEN
+(sonorigas) Per la rajto de mia aŭtoritato --!
+
+DOKTORO STOCKMANN
+Estas malgrandanime kroĉi sin al sola vorto, sinjoro Aslaksen! Mi
+aludas nur, ke mi post suspekto malkovris la egan fiaĵon, pro kio
+la estrantuloj faris sin kulpaj tie en la banejo. Estrantulojn mi
+ne povas toleri eĉ se estus pri mia morto; -- mi havis sufiĉe da
+ili dum miaj tagoj. Ili estas kiel virkaproj en juna arbetaro; ĉie
+ili malutilas; ili kontraŭstaras liberan homon, kie ajn kie li
+turnas sin, -- kaj mi preferus, ke oni neniigus ilin kiel aliajn
+fibestojn --
+
+(bruo en la salono)
+
+LA MAGISTRANTO
+Sinjoro prezidanto, ĉu tiaj esprimoj povas pasi?
+
+ASLAKSEN
+(kun la mano sur la sonorilo) Sinjoro doktoro --!
+
+DOKTORO STOCKMANN
+Mi ne komprenas, kial mi nur nun ekhavis vere klaran koncepton pri
+tiuj sinjoroj; ĉar mi havis ja ĉiun tagon antaŭ mi tian unikan
+ekzempleron en nia urbo, -- mia frato Petro, -- inerta kaj obstina en
+antaŭjuĝoj --
+
+(Ridado, bruo, fajfado. _Sinjorino Stockmann_ tusadas.)
+
+(_Aslaksen_ sonorigas fortege)
+
+LA EBRIA VIRO
+(kiu denove envenis) Ĉu estas mi, kiun vi aludas? Ĉar efektive mi
+nomiĝas Petersen; se ne diablo serĉu min --
+
+KOLERAJ VOĈOJ
+Elĵetu la ebriulon! El la pordo!
+
+(La viro elĵetiĝas.)
+
+LA MAGISTRANTO
+Kiu estas tiu persono?
+
+PROKSIMA VIRO
+Mi ne konas lin, sinjoro magistranto.
+
+DUA
+Li ne estas el nia urbo.
+
+TRIA
+Laŭdire estas iu lignokomercisto el --
+
+(La fino de la frazo estas neaŭdebla.)
+
+ASLAKSEN
+La viro verŝajne estas ebria de bavara biero. -- Daŭrigu, sinjoro
+doktoro; sed provu kiel eble esti modera.
+
+DOKTORO STOCKMANN
+Nu do bone, miaj samcivitanoj; mi ne pli funde priparolos niajn
+estrantulojn. Se iu el tio kion mi ĵus diris, imagu al si, ke mi
+volas faligi tiujn sinjorojn ĉi-vespere, li eraras, -- ege eraras.
+Ĉar mi havas la kontentigan konsolon, ke ĉiuj tiuj postiĝintoj,
+ĉiuj tiuj maljunuloj el mortadanta ideomondo, ili perfekte ekspedos
+sin mem el la vivo; helpo de kuracisto por akceli ilian pasadon en
+morton ili ne bezonas. Kaj efektive ne estas _tiaj_ homoj, kiuj estas
+la plej minacanta danĝero por la socio; ne estas _tiuj_, kiuj plej
+ageme venenigas niajn spiritajn fontojn kaj infektas la grundon sub
+ni; ne estas _tiuj_, kiuj estas la plej danĝeraj malamikoj al la
+vero kaj libereco en nia socio.
+
+KRIOJ EL ĈIUJ FLANKOJ
+Kiuj do? Kiuj ili estas? Menciu ilin?
+
+DOKTORO STOCKMANN
+Jes, fidu, ke mi menciu ilin! Ĉar _tio_ estas ĝuste la granda
+malkovro, kiun mi faris hieraŭ. (laŭtigas la voĉon) La plej
+danĝeraj malamikoj al la vero kaj la libereco inter ni, estas la
+kompakta plimulto. Jes, la damnita kompakta, liberala plimulto, --
+estas _tiu_! Nun vi scias.
+
+(Ega bruo en la salono. La plimulto krias, tretegas kaj fajfas.
+Kelkaj iom maljunaj sinjoroj ŝtele interŝanĝas okulĵetojn kaj
+aspekte amuziĝas. _Sinjorino Stockmann_ timeme ekstaras; _Ejlif_ kaj
+_Morten_ iras minace al la lernejanoj, kiuj faras tumulton.
+_Aslaksen_ sonorigas kaj admonas al trankvilo. _Hovstad_ kaj
+_Billing_ parolas ambaŭ, sed ne aŭdiĝas. Fine fariĝas silento.)
+
+ASLAKSEN
+La prezidanto atendas, ke la parolanto revokas siajn malprudentajn
+eldirojn.
+
+DOKTORO STOCKMANN
+Neniam en la mondo, sinjoro Aslaksen. Estas la granda plimulto en nia
+socio, kiu forprenas de mi mian liberecon, kaj kiu volas malpermesi
+al mi eldiri la veron.
+
+HOVSTAD
+La plimulto ĉiam pravas.
+
+BILLING
+Kaj ĝi ankaŭ havas la veron; dia morto!
+
+DOKTORO STOCKMANN
+La plimulto neniam pravas. Neniam, mi diras! Estas unu el tiuj sociaj
+mensogoj, kontraŭ kiujn libera, pensanta homo devas ribeli. El kiuj
+konsistas la plimulto de la loĝantoj en iu lando? Ĉu el la saĝaj
+aŭ la malsaĝaj? Mi pensas, ke ni samopiniu, ke malsaĝuloj ĉeestas
+en terurega plimulto ĉirkaŭe sur la tuta tero. Sed, pro diabla
+eterno, ne povas esti ĝuste, ke la malsaĝuloj regu super la
+saĝuloj! (bruo kaj kriado) Nu jes; vi povas superkrii min; sed vi
+ne povas kontraŭdiri min. La plimulto havas _la potencon_ --
+bedaŭrinde --; sed _pravaj_ ili ne estas. Pravas mi kaj la aliaj
+opaj uloj. La malplimulto ĉiam pravas. (denova bruego)
+
+HOVSTAD
+Ha-ha; doktoro Stockmann do fariĝis aristokrato depost
+antaŭhieraŭ!
+
+DOKTORO STOCKMANN
+Mi diris, ke mi ne emas forĵeti vortojn sur tiun pulmomankan,
+anhelantan aron, kiu poststumbladas. Kun ili la pulsanta vivo havas
+nenion komunan. Sed mi pensas pri la malmultaj, la opaj inter ni,
+kiuj alproprigis al si la junajn ĝermantajn verojn. Tiuj homoj
+staras kvazaŭ inter la antaŭpostenoj, tiel fore antaŭe, ke la
+kompakta plimulto ankoraŭ ne tien atingis, -- kaj _tie_ ili luktas
+por veroj, kiuj ankoraŭ estas tro novnaskitaj en la monda konscio
+por havi iun plimulton kun si.
+
+HOVSTAD
+Nu, do la doktoro fariĝis revoluciulo!
+
+DOKTORO STOCKMANN
+Jes, morto kaj plago, tia mi estas, sinjoro Hovstad! Mi intencas fari
+revolucion kontraŭ la mensogo, ke la plimulto posedas la veron. Kiaj
+estas tiuj veroj, ĉirkaŭ kiuj la plimulto kutimas ariĝi? Estas la
+veroj, kiuj estas tiom aĝaj, ke ili estas survoje fariĝi senilaj.
+Sed kiam vero fariĝis tiom maljuna, ĝi estas ankaŭ survoje fariĝi
+mensogo, miaj sinjoroj!
+
+(rido kaj krioj el moko)
+
+DOKTORO STOCKMANN
+Jes, jes, kredu min kiel vi volas; sed la veroj tute ne estas tiaj
+eternaj Metuŝelaĥ-oj, kiajn imagas al si la homoj. Normale
+konstruita vero vivas -- diru -- ĝenerale 17 -- 18, maksimume 20
+jarojn; malofte pli. Sed tiaj aĝaj veroj estas ĉiam ostece
+malgrasaj. Sed tamen estas nur tiam, ke la plimulto okupas sin pri
+ili, kaj rekomendas ilin al la socio kiel sanigan, spiritan nutrajon.
+Sed ne estas granda nutraĵa valoro en tia manĝaĵo, mi povas
+certigi al vi; kaj tion mi ja kiel kuracisto komprenas. Ĉiuj tiuj
+veroj akceptitaj de la plimulto estas komparindaj kun pasintjara
+peklaĵo; ili estas kvazaŭ rancaj, ŝimaj, verdiĝintaj ŝinkoj. Kaj
+el tio sekvas tiu morala skorbuto, kiu furiozas ĉirkaŭe en la
+socioj.
+
+ASLAKSEN
+Ŝajnas al mi, ke la parolanto devojiĝas flanken de la teksto.
+
+LA MAGISTRANTO
+Mi ĉefe devas samopinii kun la prezidanto.
+
+DOKTORO STOCKMANN
+Ho, sed mi pensas, ke vi estas tute freneza, Petro! Mi tenas min ja
+kiel eble plej strikte al la teksto. Ĉar tio, kion mi volas
+priparoli, estas ja ĝuste tio, ke la amaso, la majoritato, tiu
+damnita, kompakta plimulto -- ke estas tiu, mi diras, kiu venenas
+niajn spiritajn vivofontojn kaj infektigas la grundon sub ni.
+
+HOVSTAD
+Kaj tion faras la granda liberala plimulto de la popolo, ĉar ĝi
+estas sufiĉe saĝa por laŭdi nur la certajn, akceptitajn verojn!
+
+DOKTORO STOCKMANN
+Aĥ, kara mia sinjoro Hovstad, ne parolu pri certaj veroj! La veroj,
+kiujn la amaso, la homomulto akceptas, estas la veroj, kiujn la
+pioniroj rigardis kiel certaj en la tagoj de niaj geavoj. Ni
+pioniroj, kiuj vivas en niaj nunaj tagoj, ni ne plu akceptas ilin;
+kaj mi opinias, ke tute ne ekzistas iu alia vero ol tiu, ke neniu
+socio povas havi sanan vivon sur tiaj malnovaj, senmedolaj veroj.
+
+HOVSTAD
+Sed anstataŭ paroladi tiel en la aeron, estus amuze aŭdi, kiuj
+estas tiuj malnovaj, senmedolaj veroj, per kiuj ni nutras nin.
+
+(aplaŭdo de pluraj flankoj)
+
+DOKTORO STOCKMANN
+Ho, mi povus nombri tutan aron da tiaj fiaĵoj; sed unue mi volas
+teni min al unu sola, akceptita vero, kiu efektive estas terura
+mensogo, sed sur kiu tamen vivas sinjoro Hovstad kaj "La Popola
+Mesaĝo" kaj la tuta disĉiplaro de "La Popola Mesaĝo".
+
+HOVSTAD
+Kaj tiu estas --?
+
+DOKTORO STOCKMANN
+Estas tiu doktrino, kiun vi prenis herede de la prapatroj, kaj kiun
+vi senpripense proklamas dise kaj vaste, -- la doktrino, ke la
+homomulto, la amaso, la grego estas la kerno de la popolo, -- ke ĝi
+estas la popolo mem, -- ke kiu ajn el la popolo, ke tiuj
+senspertuloj, tiuj embrioj en la socio, havas la saman rajton
+kondamni aŭ akcepti, regi kaj estri kiel la opaj noblaj personecoj.
+
+BILLING
+Nun mi neniam, dia morto --
+
+HOVSTAD
+(samtempe, krias) Civitanoj, notu tion!
+
+EKSCITITAJ VOĈOJ
+Ho-ho, ĉu ne estas ni, kiuj estas la popolo? Ĉu estas nur la
+altranguloj, kiuj regu!
+
+LABORISTO
+Elĵetu tiun viron kiu babiladas tiel!
+
+ALIULOJ
+Ĵetu lin el la pordo!
+
+CIVITANO
+(krias) Blovu la kornon, Evensen!
+
+(Fortaj kornosonoj aŭdiĝas; fajfiloj kaj bruo de kolero en la
+salono.)
+
+DOKTORO STOCKMANN
+(kiam la bruo iom silentiĝis) Sed estu do iom moderaj! Ĉu vi ne
+toleras unu fojon aŭdi la voĉon de la vero? Mi tute ne postulas, ke
+vi ĉiuj surloke samopiniu kun mi. Sed vere mi atendis, ke sinjoro
+Hovstad samopinius post ioma pripensado. Sinjoro Hovstad pretendas ja
+esti liberpensulo --
+
+SURPRIZIĜINTAJ DEMANDOJ
+(mallaŭte) Liberpensulo, li diris? Ĉu? Redaktoro Hovstad
+liberpensulo?
+
+HOVSTAD
+(krias) Pruvu tion, doktoro Stockmann! Kiam mi tion diris presite?
+
+DOKTORO STOCKMANN
+(pripensas) Ne, morto kaj plago, pri tio vi pravas; -- tiun
+sincerecon vi neniam havis. Nu, mi ne volas tro embarasi vin, sinjoro
+Hovstad. Lasu do al mi esti liberpensulo. Ĉar nun mi volas el la
+naturscienco evidentigi al vi, ke "La Popola Mesaĝo" senhonte tiras
+vin per la nazo, kiam ĝi diras al vi, ke vi, ke la popolamaso, la
+grego estas la vera kerno de la popolo. Komprenu ke tio estas nur
+gazetmensogo! La homomulto estas nenio alia ol kruda materialo el kio
+la popolo faras homojn.
+
+(grumblado, ridado kaj bruo en la salono)
+
+DOKTORO STOCKMANN
+Ĉu ne tiel okazas en la cetera vivanta mondo? Vidu la malsamecon,
+kiun ni trovas inter kulturita kaj nekulturita bestofamilio. Rigardu
+nur vulgaran farmistkokinon. Kian karnan valoron havas tia kripligita
+kokinkorpo? Ho ne multe! Kaj kiajn ovojn ĝi demetas? Iu simpla
+korniko aŭ korvo povas demeti preskaŭ same bonajn ovojn. Sed
+rigardu kulturitan hispanan aŭ japanan kokinon, aŭ rigardu noblan
+fazanon aŭ meleagron; -- jen vi certe vidos la malsamecon! Kaj nun
+mi volas mencii la hundojn, al kiuj ni homoj estas en tia proksima
+parenceco. Imagu nun unue simplan ĉieshundon, -- mi aludas tian
+abomenan, hirtharan, vulgaran hundaĉon, kiu kuras laŭstrate
+malpurigante la domomurojn. Kaj komparu la hundaĉon kun pudelo, kiu
+dum pluraj generacioj devenas el altkultura domo, kie ĝi ricevis
+delikatan manĝaĵon kaj povis aŭskulti harmoniajn voĉojn kaj
+muzikon. Ĉu vi ne komprenas, ke la kranio de la pudelo estas tute
+alie evoluita ol tiu de la hundaĉo? Ho jes, fidu tion! Estas tiaj
+kulturitaj pudelidoj, kiujn la arlekenoj dresas por fari la plej
+nekredeblajn akrobataĵojn. Tiaĵojn ordinara farmisthundaĉo povas
+neniam lerni, eĉ se ĝi starus sur sia kapo.
+
+(bruo kaj ridado aŭdiĝas ĉirkaŭe)
+
+CIVITANO
+(krias) Ĉu vi volas trakti nin kiel hundojn?
+
+ALIA VIRO
+Ni ne estas bestoj, sinjoro doktoro!
+
+DOKTORO STOCKMANN
+Ho, je mia eterna savo, ni estas bestoj! Efektive ni ĉiuj estas
+bestoj tiaj, kiajn kiu ajn povus postuli. Sed noblaj bestoj ne
+troviĝas en granda nombro inter ni. Ho estas terure granda diferenco
+inter pudelhomoj kaj homoj el hundaĉa specio. Kaj tio estas la amuza
+aspekto de la afero, ke redaktoro Hovstad samopinias kun mi, kiam
+temas pri kvarpieduloj --
+
+HOVSTAD
+Jes, lasu ilin pasi por kio ili estas.
+
+DOKTORO STOCKMANN
+Nu jes; sed tuj kiam mi etendas la leĝon al la dupieduloj, sinjoro
+Hovstad haltas; tiam li ne plu kuraĝas pensi siajn proprajn
+opiniojn, ne pensi siajn proprajn pensojn ĝisfine; kaj jen li turnas
+la doktrinon supron malsupren kaj publikigas en "La Popola Mesaĝo",
+ke la farmistkokino kaj la strathundaĉo -- _tiuj_ estas la veraj
+elstaruloj en la menaĝerio. Sed tiel ĉiam okazas, kiam la
+ordinareco sidas en la korpo, kaj kiam oni ne evoluis al spirita
+nobleco.
+
+HOVSTAD
+Mi ne postulas ian distingon. Mi devenas el simplaj farmistoj; kaj mi
+estas fiera, ke mi havas radikon profunde en la popolo, kiu nun
+mokiĝas.
+
+MULTAJ LABORISTOJ
+Hura por Hovstad! Hura! Hura!
+
+DOKTORO STOCKMANN
+La ordinaruloj pri kiuj mi parolas, ne troviĝas sole en la popola
+profundo; ili svarmas kaj miriadas ĉirkaŭ ni, -- eĉ ĝis la pintoj
+de la socio. Rigardu nur vian propran, belan, elegantan magistranton!
+Sed frato Petro estas vere same bona ordinarulo, kiel kiu ajn en paro
+de ŝuoj --
+
+(ridado kaj tŝŝado)
+
+LA MAGISTRANTO
+Mi protestas kontraŭ tiaj personaj aludoj.
+
+DOKTORO STOCKMANN
+(neĝenita) -- kaj tio li ne estas pro tio, ke li same kiel mi
+devenas el praa, terura pirato el Pomeranio aŭ ie tie, -- jes, ĉar
+de li ni devenas --
+
+LA MAGISTRANTO
+Absurdaj tradicioj. Neiĝas!
+
+DOKTORO STOCKMANN
+-- sed li tia estas, ĉar li pensas la pensojn de siaj superuloj, kaj
+ĉar li opinias la opiniojn de siaj superuloj. Tiuj homoj, kiuj tion
+faras, estas spiritaj ordinaruloj; jen vidu, tial mia imponaspekta
+frato Petro funde estas tiel terure malmulte nobla, -- kaj sekve
+ankaŭ malmulte liberala.
+
+LA MAGISTRANTO
+Sinjoro prezidanto --!
+
+HOVSTAD
+Do estas la superuloj, kiuj estas liberalaj en nia lando? Jen vere
+nova informo.
+
+(ridado en la asembleo)
+
+DOKTORO STOCKMANN
+Jes, ankaŭ tio estas parto de mia nova malkovro. Kaj ankaŭ _tio_,
+ke liberaleco estas precize la sama kiel moralo. Kaj tial mi diras,
+ke estas tute nepravigeble de "La Popola Mesaĝo", ke ĝi tagon post
+tago anoncas la herezon, ke la amaso, la grego, la kompakta plimulto
+posedas la liberalecon kaj moralon, -- kaj ke malvirtoj kaj
+koruptiĝo kaj ĉiuspecaj spiritaj fiaĵoj estas io, kio fluas el la
+kulturo, kiel ĉiuj fiaĵoj fluas al la banejo el la tanejoj en la
+Muelejvalo! (bruo kaj interrompo)
+
+DOKTORO STOCKMANN
+(neĝenita, ridas en sia fervoro) Kaj tamen tiu sama "La Popola
+Mesaĝo" predikas, ke la amaso, la grego estu suprenlevota al pli
+altstataj vivkondiĉoj! Sed, pro diabla haŭto kaj osto, -- se la
+doktrino de "La Popola Mesaĝo" estus ĝusta, _suprenlevi la amason,
+tio_ do estus ĝuste la sama kiel puŝi ĝin rekte en la pereon! Sed
+feliĉe estas nur malnova, heredita, popola mensogo, tiu ideo, ke la
+kulturo malmoraligas. Ne; estas la stultigo, malriĉeco, malbeleco en
+la vivkondiĉoj, kiuj plenumas tiun diablan agon! En domo, kie oni ne
+aerumas kaj ne balaas la plankon ĉiun tagon --; mia edzino Katrine
+insistas, ke la planko ankaŭ estu lavata; sed pri tio oni povas
+disputi; -- nu, -- en tia domo, mi diras, la homoj post du -- tri
+jaroj perdas la kapablon pensi kaj agi morale. Manko de oksigeno
+malfortigas la konsciencon. Kaj aspekte estas tiom granda manko de
+oksigeno en multegaj domoj en nia urbo, ke la tuta kompakta plimulto
+povas esti tiel senskrupula bazigi la prosperon de la urbo sur marĉo
+de mensogo kaj trompo.
+
+ASLAKSEN
+Tia kruda akuzo ne estu ĵetata kontraŭ tutan civitanecon.
+
+SINJORO
+Mi admonas al la prezidanto malpermesi al la parolanto paroli.
+
+FERVORAJ VOĈOJ
+Jes, jes! ĝuste! Malpermesu al li paroli!
+
+DOKTORO STOCKMANN
+(ekscitita)
+ Tiam mi elkrios la veron ĉe ĉiuj stratanguloj! Mi skribos en
+eksterurbaj gazetoj! La tuta lando sciu, kiel ĉi tie statas!
+
+HOVSTAD
+Aspekte la doktoro intencas ruinigi nian urbon.
+
+DOKTORO STOCKMANN
+Jes, tiel mi amas mian hejmurbon, ke mi prefere ruinigus ĝin ol
+vidus ĝin prosperi sur mensogo.
+
+ASLAKSEN
+Forta esprimo.
+
+(Bruo kaj fajfado. _Sinjorino Stockmann_ senutile tusas; la _doktoro_
+ne plu aŭdas.)
+
+HOVSTAD
+(krias tra la bruo) Tiu homo ja estas malamiko de la burĝaro, kiu
+volas ruinigi tutan socion!
+
+DOKTORO STOCKMANN
+(en kreskanta ekscito) Ne gravas ke oni ruinigu mensogan socion! Ĝi
+devas esti disfaligata teren, mi diras! Pereigataj kiel fibestoj ili
+estu, ĉiuj kiuj vivas en mensogo! Vi fine infektigas la tutan
+landon; vi kaŭzas, ke la tuta lando meritas esti ruinigata. Kaj se
+fariĝos _tiel_ ekstreme, tiam mi diros el mia sincera koro: ruinigu
+la landon; pereigu ĉi tiun popolon!
+
+VIRO
+(el la amaso) Li parolas kiel vera popolmalamiko.
+
+BILLING
+Dia morto, jen la voĉo de la popolo!
+
+LA TUTA ARO
+(krias) Jes, jes, jes! Li estas popolmalamiko! Li malamas sian
+landon! Li malamas la tutan popolon!
+
+ASLAKSEN
+Kaj kiel civitano kaj kiel homo mi estas profunde ŝokata de tio,
+kion mi ĉi tie devis aŭskulti. Doktoro Stockmann prezentis sin en
+maniero, kiun mi eĉ en sonĝo ne kredus. Bedaŭrinde mi devas
+akcepti la opinion, kiun ĵus esprimiĝis de respektindaj civitanoj;
+kaj mi opinias, ke ni devas esprimi tiun opinion en rezolucio. Mi
+proponas jenon:
+
+"La kunveno deklaras, ke ĝi rigardas la banejan kuraciston,
+doktoro Stockmann, kiel popolmalamikon."
+
+(Tondrantaj huraoj kaj aplaŭdo. Multaj ĉirkaŭas la doktoron kaj
+fajfas kontraŭ lin. _Sinjorino Stockmann_ kaj _Petra_ ekstaris.
+_Morten_ kaj _Ejlif_ luktas kun la aliaj lernejanoj, kiuj ankaŭ ili
+fajfis. Kelkaj plenkreskuloj disigas ilin)
+
+DOKTORO STOCKMANN
+(al la fajfantoj) Ho, vi malsaĝuloj, kiaj vi estas, -- mi diras al
+vi, ke --
+
+ASLAKSEN
+(sonorigas) La doktoro ne plu havas la parolrajton. Regula
+voĉdonado devas okazi; sed por indulgi personajn sentojn ĝi devas
+okazi skribe kaj sen nomo. Ĉu vi havas puran paperon, Billing?
+
+BILLING
+Jen kaj blua kaj blanka papero --
+
+ASLAKSEN
+(malsupreniras) Bone; tiel ĉio okazos pli rapide. Tondu la paperon
+--; jen, jen. (al la kunvenaro) Blua signifas ne; blanka signifas
+jes. Mi mem kolektos la voĉojn.
+
+(La _magistranto_ forlasas la salonon. _Aslaksen_ kaj kelkaj aliaj
+civitanoj ĉirkaŭiras inter la kunvenintoj kolektante la paperpecojn
+en ĉapelojn)
+
+SINJORO
+(al _Hovstad_) Kiel estas pri la doktoro? Kion oni pensu pri tiaĵo?
+
+HOVSTAD
+Vi ja scias kiel impeta li estas.
+
+ALIA SINJORO
+(al _Billing_) Aŭdu; vi ja ofte vizitas lian domon. Ĉu vi
+rimarkis, ke li drinkas?
+
+BILLING
+Dia morto, mi ne scias kion diri. La grogo ĉiam staras sur la tablo,
+kiam iu vizitas.
+
+TRIA SINJORO
+Ne; mi prefere kredas, ke li foje estas iom freneza.
+
+LA UNUA SINJORO
+Jes, eble estas ia hereda frenezo en la familio, ĉu?
+
+BILLING
+Povas esti.
+
+KVARA SINJORO
+Ne; tio ĉi estas nur pura malico; estas venĝo pro io.
+
+BILLING
+Iun tagon li parolis pri plialtigo de la salajro; sed tion li ja ne
+ricevis.
+
+ĈIUJ SINJOROJ
+(samvoĉe) Aha; do estas ja facile kompreneble!
+
+LA EBRIA VIRO
+(en la amaso) Mi volas havi bluan, mi! Kaj mi ankaŭ volas havi
+blankan!
+
+KRIOJ
+Jen denove la ebriulo! Elĵetu lin!
+
+MORTEN KIIL
+(proksimiĝas al la doktoro) Nun, Stockmann, ĉu vi nun vidas, kio
+sekvas el tia arlekenaĵo?
+
+DOKTORO STOCKMANN
+Mi faris mian devon.
+
+MORTEN KIIL
+Kion vi diris pri la tanejoj en la Muelejvalo?
+
+DOKTORO STOCKMANN
+Vi ja aŭdis; mi diris, ke estas de tie, ke la fiaĵo venas.
+
+MORTEN KIIL
+Ankaŭ de _mia_ tanejo?
+
+DOKTORO STOCKMANN
+Bedaŭrinde, via tanejo estas la plej malpuriga.
+
+MORTEN KIIL
+Ĉu _tion_ vi volas presi en la gazetoj?
+
+DOKTORO STOCKMANN
+Mi kaŝos nenion.
+
+MORTEN KIIL
+Tio estos por vi multekosta, Stockmann.
+
+(Li foriras.)
+
+GRASA SINJORO
+(iras al _Horster_, sen saluti la virinojn) Nu, ŝipestro, vi
+pruntedonas vian domon al popolmalamiko?
+
+HORSTER
+Mi opinias, ke mi povas fari pri mia posedaĵo laŭdezire, sinjoro
+grandkomercisto.
+
+LA GRANDKOMERCISTO
+Do vi eble ne kontraŭas, ke mi faras la samon pri la mia.
+
+HORSTER
+Al kio aludas la grandkomercisto?
+
+LA GRANDKOMERCISTO
+Vi aŭdos de mi morgaŭ.
+
+(Li turnas sin, kaj foriras.)
+
+PETRA
+Ĉu li ne estas via ŝipposedanto, Horster?
+
+HORSTER
+Jes, estas grandkomercisto Vik.
+
+ASLAKSEN
+(kun la voĉdoniloj en la mano; supreniras sur la podion kaj
+sonorigas) Sinjoroj, permesu al mi anonci la rezulton. Per ĉiuj
+voĉoj kontraŭ unu --
+
+JUNA SINJORO
+La unu estas tiu de la ebria viro!
+
+ASLAKSEN
+Per ĉiuj voĉoj kontraŭ tiu de ebria viro tiu ĉi kunveno de
+civitanoj deklaras, ke la baneja kuracisto, doktoro Tomas Stockmann
+estas popolmalamiko. (krioj kaj aplaŭdo) Vivu nia malnova, honesta,
+civitana socio! (denova aplaŭdo) Vivu nia taŭga kaj aktiva
+magistranto, kiu tiel lojale subpremis la voĉon de la sango! (Hura)
+La kunveno estas fermita. (Li malsupreniras.)
+
+BILLING
+Vivu la prezidanto.
+
+LA TUTA ARO
+Hura por presisto Aslaksen!
+
+DOKTORO STOCKMANN
+Mian ĉapelon, kaj mian redingoton, Petra. Ŝipestro, ĉu vi havas
+lokon por pasaĝeroj al la nova mondo?
+
+HORSTER
+Por vi kaj la viaj mi faros lokon, sinjoro doktoro.
+
+DOKTORO STOCKMANN
+(dum _Petra_ helpas lin surmeti la redingoton) Bone. Venu, Katrine!
+Venu, knaboj!
+
+(Li prenas la brakon de sia edzino.)
+
+SINJORINO STOCKMANN
+(mallaŭte) Kara Tomas, ni iru la malantaŭan vojon.
+
+DOKTORO STOCKMANN
+Neniujn ŝtelvojojn, Katrine. (per laŭta voĉo) Vi aŭdos de la
+popolmalamiko, antaŭ ol li estos elbrosinta la polvon de siaj ŝuoj!
+Mi ne estas tiel bonvolema kiel certa persono; mi ne diras: Mi
+pardonas al vi, ĉar vi ne scias kion vi faras.
+
+ASLAKSEN
+(krias) Blasfema komparo, sinjoro Stockmann!
+
+BILLING
+Estas, dia mor -- --. Tiaĵo estas kruda por sincera homo.
+
+KRUDA VOĈO
+Li eĉ minacas!
+
+EKSCITAJ VOĈOJ
+Ni frakasu liajn fenestrojn! Trempu lin en la fjordo!
+
+VIRO
+(en la amaso) Blovu la kornon, Evensen! Fajfu, fajfu!
+
+(Kornosonoj, fajfado kaj sovaĝaj krioj. La _doktoro_ iras kun la
+siaj al la elirejo. _Horster_ faras vojon por ili.)
+
+LA TUTA AMASO
+(krias post la forirantoj:) Popolmalamiko! Popolmalamiko!
+Popolmalamiko!
+
+BILLING
+(ordigante siajn notaĵojn) Dia morto ĉu mi volus trinki grogon ĉe
+Stockmann ĉi-vespere!
+
+(La kunvenintoj interpremiĝas al la elirejo; la bruo disvastiĝas
+eksteren; el la strato aŭdiĝas la krio:)
+
+"Popolmalamiko! Popolmalamiko!"
+
+
+
+
+KVINA AKTO
+
+
+(Laborĉambro de _doktoro Stockmann_. Librobretoj kaj ŝrankoj kun
+diversaj preparaĵoj laŭ la muroj. En la fono estas elirejo al la
+antaŭĉambro; antaŭe maldekstre estas pordo al la sidĉambro. Sur
+la muro dekstre estas du fenestroj, kies vitroj estas frakasitaj.
+Meze en la ĉambro staras la skribotablo de la doktoro, kovrita de
+libroj kaj dokumentoj. La ĉambro estas en malordo. Estas
+antaŭtagmeze.)
+
+(_Doktoro Stockmann_, en negliĝo kaj pantofloj kaj kun kaloto,
+staras klinite, rastante per pluvŝirmilo sub unu el la ŝrankoj;
+fine li antaŭentiras ŝtonon.)
+
+DOKTORO STOCKMANN
+(parolas tra la malfermita pordo al la sidĉambro) Katrine, jen mi
+trovis ankoraŭ unu.
+
+SINJORINO STOCKMANN
+(ene en la sidĉambro) Ho, vi certe ankoraŭ trovos plurajn.
+
+DOKTORO STOCKMANN
+(metas la ŝtonon sur aron da aliaj sur la tablo) Tiujn ŝtonojn mi
+konservos kiel sanktaĵojn. Ejlif kaj Morten vidu ilin ĉiun tagon,
+kaj kiam ili fariĝos plenkreskaj, ili ricevu ilin herede de mi.
+(rastas sub librobreto) Ĉu ŝi -- kiel diable ŝi nomiĝas, -- ŝi,
+la servistino, -- ĉu ŝi ankoraŭ ne serĉis la vitraĵiston?
+
+SINJORINO STOCKMANN
+(envenas) Jes, sed li respondis, ke li ne scias, ĉu li povos veni
+hodiaŭ.
+
+DOKTORO STOCKMANN
+Vi certe vidos, ke li ne kuraĝas.
+
+SINJORINO STOCKMANN
+Ne, ankaŭ Randine opinias, ke li ne kuraĝas pro la najbaroj.
+(parolas enen en la sidĉambron) Kion vi volas, Randine? Nu tiel.
+(iras tien kaj tuj revenas) Jen letero al vi, Tomas.
+
+DOKTORO STOCKMANN
+Mi rigardu. (malfermas ĝin kaj legas) Nu tiel.
+
+SINJORINO STOCKMANN
+De kiu ĝi estas?
+
+DOKTORO STOCKMANN
+De la domposedanto. Li malluigas nin.
+
+SINJORINO STOCKMANN
+Ĉu vere? Li, kiu estas tia honesta homo --
+
+DOKTORO STOCKMANN
+(rigardas en la leteron) Li ne kuraĝas havi nin, li diras.
+Malvolonte li tion faras; sed li ne kuraĝas ion alian -- pro siaj
+kuncivitanoj -- pro la publika opinio -- estas dependanta -- ne
+kuraĝas ofendi certajn riĉulojn.
+
+SINJORINO STOCKMANN
+Jen vidu, Tomas.
+
+DOKTORO STOCKMANN
+Ja, ja, mi vidas; ili estas malkuraĝuloj, ĉiuj, en ĉi tiu urbo;
+neniu ion kuraĝas pro ĉiuj aliaj homoj. (ĵetas la leteron sur la
+tablon) Sed ne gravas por ni, Katrine. Nun ni vojaĝos al la nova
+mondo, kaj tiam --
+
+SINJORINO STOCKMANN
+Jes sed, Tomas, ĉu estas bone pripensite, tio ĉi pri la vojaĝo?
+
+DOKTORO STOCKMANN
+Ĉu mi restus ĉi tie, kie oni primokis min kiel popolmalamikon,
+brulstampis min, frakasis miajn fenestrojn! Kaj jen vidu, Katrine;
+ili ankaŭ ŝirfendis mian nigran pantalonon.
+
+SINJORINO STOCKMANN
+Ho ne; kaj la plej bonan, kiun vi havas!
+
+DOKTORO STOCKMANN
+Neniam oni devus surmeti sian plej bonan pantalonon, kiam oni luktas
+por libereco kaj vero. Nu, la pantalono ne multe gravas por mi; ĉar
+ĝin vi ja povas kunkudri por mi. Sed estas _tio_, ke la kanajlaro
+kaj la amaso kuraĝas agresi min, kvazaŭ ili estus miaj egaluloj, --
+estas _tio_ kion mi, je mia morto, ne povas akcepti.
+
+SINJORINO STOCKMANN
+Jes, ili estis krudaj kontraŭ vin ĉi tie en la urbo, Tomas; sed ĉu
+pro _tio_ ni devas forvojaĝi el la lando?
+
+DOKTORO STOCKMANN
+Ĉu vi opinias, ke la plebanoj ne estas same impertinentaj en niaj
+aliaj urboj kiel en tiu ĉi? Ho jes, kara, estos certe tute la sama.
+Nu, egale; lasu la hundaĉojn buŝaĉi; _tio_ ne estas la plej
+malbona; la plej malbona estas, ke ĉiuj homoj en la tuta lando estas
+partisklavoj. Nu, pri _tio_, -- eble ne estas pli bone en la libera
+okcidento; ankaŭ tie ja furiozas la kompakta plimulto kaj la
+liberala publika opinio kaj ĉiu alia diablaĵo. Sed, vidu, la
+kondiĉoj estas pli granskalaj tie; ili povas mortigi, sed ili ne
+torturadas; ili ne pinĉas liberan animon per ŝraŭbtenilo kiel
+hejme ĉe ni. Kaj en bezono oni povas ja teni sin flanke. (iras
+trans la planko) Se mi nur sciis, kie estas praarbaro aŭ eta sudmara
+insulo por vendo malmultekoste --
+
+SINJORINO STOCKMANN
+Jes, sed la knaboj, Tomas?
+
+DOKTORO STOCKMANN
+(haltas) Vi estas stranga, Katrine! Ĉu vi vere preferus, ke la
+knaboj kreskus en tia socio kiel la nia? Hieraŭ vespere vi vidis ja
+mem, ke la duono de la popolo estas furioza; kaj se la alia duono ne
+perdis sian prudenton, tio estas ĉar ili estas azenoj, kiuj ne havas
+iun prudenton por perdi.
+
+SINJORINO STOCKMANN
+Sed kara Tomas, vi parolas ja tiel nesingardeme.
+
+DOKTORO STOCKMANN
+Nu! Ĉu ne estas vero, kion mi diras? Ĉu ili ne turnas ĉiujn
+konceptojn supron malsupren? Ĉu ili ne faras unu saman kaĉon el
+justo kaj maljusto? Ĉu ili ne nomas mensogon, kion mi scias esti
+vero? Sed la plej frenezega estas, ke ĉi tie ĉirkaŭiras
+plenkreskaj, liberalecaj homoj en amaso, kaj kredas, ke ili estas
+liberpensantoj! Ĉu vi iam ion tian aŭdis, Katrine!
+
+SINJORINO STOCKMANN
+Jes, jes, eble estas stulte, sed --
+
+(Petra envenas de la sidĉambro.)
+
+SINJORINO STOCKMANN
+Ĉu vi jam nun venas de la lernejo?
+
+PETRA
+Jes; mi estas maldungita!
+
+SINJORINO STOCKMANN
+Maldungita!
+
+DOKTORO STOCKMANN
+Ankaŭ vi!
+
+PETRA
+Sinjorino Busk maldungis min; kaj do mi opiniis plej bone iri tuj.
+
+DOKTORO STOCKMANN
+Kaj vi ĝuste faris!
+
+SINJORINO STOCKMANN
+Kiu kredus, ke sinjorino Busk estas tiel fia homo!
+
+PETRA
+Ho ne, patrino, sinjorino Busk ne estas fia; mi vidis klare, kiel tio
+ĉagrenigis ŝin. Sed ŝi ne kuraĝis, diris ŝi; kaj jen mi
+maldungiĝis.
+
+DOKTORO STOCKMANN
+(ridas kaj frotas manojn) Ŝi ne kuraĝis, ankaŭ ŝi ne! Ho,
+belege.
+
+SINJORINO STOCKMANN
+Ho ja, post la teruraj tumultoj hieraŭ vespere, do --
+
+PETRA
+Ne estis nur sole _tio_. Aŭdu nun, patro!
+
+DOKTORO STOCKMANN
+Nu, kaj kio?
+
+PETRA
+Sinjorino Busk montris al mi ne malpli ol tri leterojn, kiujn ŝi
+ricevis ĉi-matene --
+
+DOKTORO STOCKMANN
+Sen subskribo, ĉu?
+
+PETRA
+Jes.
+
+DOKTORO STOCKMANN
+Jes, ĉar ili ne _kuraĝas_ riski la nomon, Katrine!
+
+PETRA
+Kaj en du el ili skribiĝis, ke sinjoro, kiu vizitadas en nia domo,
+rakontis en la klubo ĉi-nokte, ke mi havas ege liberajn opiniojn pri
+diversaj aferoj --
+
+DOKTORO STOCKMANN
+Kaj tion vi do ne neis?
+
+PETRA
+Kompreneble ne. Sinjorino Busk mem havas konsiderinde liberajn
+opiniojn, kiam ni estas solaj du; sed ĉar ĉi tio pri mi
+disvastiĝis, ŝi ne kuraĝis reteni min.
+
+SINJORINO STOCKMANN
+Kaj imagu, -- jen unu kiu vizitadas nian domon! Vidu, kion vi rehavas
+por via gastameco, Tomas.
+
+DOKTORO STOCKMANN
+En tia fiaĵo ni ne volas plu vivi. Enpaku kiel eble plej rapide,
+Katrine; ni foriru ju pli frue des pli bone.
+
+SINJORINO STOCKMANN
+Silentu; ŝajnas al mi, ke estas iu en la koridoro. Iru por vidi,
+Petra.
+
+PETRA
+(malfermas la pordon) Ho, ĉu estas vi, ŝipestro Horster? Bonvolu
+eniri.
+
+HORSTER
+(el la antaŭĉambro) Bonan tagon. Mi pensis, ke mi devis fari
+viziteton por aŭdi kiel statas.
+
+DOKTORO STOCKMANN
+(premas lian manon) Dankon; tre bonvoleme de vi.
+
+SINJORINO STOCKMANN
+Kaj dankon, ke vi trahelpis nin, ŝipestro Horster.
+
+PETRA
+Sed kiel vi mem trairis hejmen?
+
+HORSTER
+Ho jes, iris bone; mi havas ja ioman forton; kaj tiuj homoj pleje
+preferas uzi la buŝon.
+
+DOKTORO STOCKMANN
+Jes, ĉu ne estas strange pri tiu fia malkuraĝeco? Venu, kaj mi
+montru ion al vi! Jen, tie la ŝtonoj, kiujn ili ĵetis enen al ni.
+Rigardu ilin! Ne estas pli ol du sufiĉe grandaj ŝtonoj en la tuta
+aro; la resto estas nenio alia ol ŝtonetoj, -- nuraj grajnoj. Kaj
+tamen ili staris tie ekstere hurlante, kaj ĵuris, ke ili volas bati
+min pecen; sed ago -- ago -- ne, el tio oni ne multon vidas en nia
+urbo!
+
+HORSTER
+Estis ja ankaŭ la plej bona por vi ĉi tiun fojon, sinjoro doktoro.
+
+DOKTORO STOCKMANN
+Efektive estis. Sed tamen estas ĉagrenige; ĉar se iam okazos
+serioza batalo grava por la tuta lando, vi vidos, ke la publika
+opinio preferos forkuri, kaj la kompakta plimulto kuros arbaren kiel
+aro da ŝafoj, ĉu ne ŝipestro Horster. Estas _tio_, kio estas tiel
+ĉagrenige pripensi; vere estas por mi bedaŭrinde --. Ho; sed pro
+diablo, -- funde tio ĉi estas ja nur stultaĵo. Se ili diris, ke mi
+estas popolmalamiko, lasu min do esti popolmalamiko.
+
+SINJORINO STOCKMANN
+Vi neniam fariĝos, Tomas.
+
+DOKTORO STOCKMANN
+Ne ĵuru pri tio, Katrine. Malica vorto povas efiki kiel pinglograto
+en la pulmo. Kaj tiu damnita vorto --; mi ne kvitiĝos de ĝi; ĝi
+fiksiĝis sub la koro; ĝi kuŝas tie kaj fosas kaj suĉas kiel
+acidaj sukoj. Kaj kontraŭ tio helpas neniu magnezo.
+
+PETRA
+Ba; nur ridu pri ili, patro.
+
+HORSTER
+La homoj certe ŝanĝos opiniojn, sinjoro doktoro.
+
+SINJORINO STOCKMANN
+Jes, Tomas, pri tio vi povas esti same certa, kiel pri tio ke vi
+staras ĉi tie.
+
+DOKTORO STOCKMANN
+Jes, eble kiam estos tro malfrue. Sed tiam estu por ili laŭ merite!
+Tiam ili povos iri ĉi tie en sia fiaĵo, kaj pentante ke ili pelis
+patrioton en ekzilon. Kiam vi forvelos, ŝipestro Horster?
+
+HORSTER
+Hm, -- vere estas pri tio, ke mi venis por paroli kun vi --
+
+DOKTORO STOCKMANN
+Nu, ĉu estas io pri la ŝipo?
+
+HORSTER
+Ne; sed ne okazos, ke mi kuniros.
+
+PETRA
+Ĉu vi do estas maldungita?
+
+HORSTER
+(ridetas) Jes, efektive estas tiel.
+
+PETRA
+Ankaŭ vi.
+
+SINJORINO STOCKMANN
+Jen vi vidas, Tomas.
+
+DOKTORO STOCKMANN
+Kaj tio pro la vero! Aj, se mi estus ion tian pripensinta --
+
+HORSTER
+Ne estu afliktita pro tio; mi certe trovos oficon ĉe iu aŭ alia
+eksterurba ŝipsocieto.
+
+DOKTORO STOCKMANN
+Kaj tion de tiu grandkomercisto Vik, -- riĉa homo, sendependa de
+ĉiuj --! Fi, pro diablo!
+
+HORSTER
+Alie li estas sufiĉe sincera; kaj li mem diris, ke li volus reteni
+min, se li nur kuraĝus --
+
+DOKTORO STOCKMANN
+Sed li ne kuraĝis? Ne; tion mi komprenas!
+
+HORSTER
+Ne estas facile, li diris, kiam oni apartenas al certa partio --
+
+DOKTORO STOCKMANN
+Jen vera vorto de honestulo. Partio estas kvazaŭ viandmuelilo; ĝi
+muelas ĉiujn kapojn kune al kaĉo; kaj tial ili fariĝas kaĉokapoj
+kaj farĉokapoj ĉiuj!
+
+SINJORINO STOCKMANN
+Sed Tomas do!
+
+PETRA
+(al _Horster_) Se vi ne estus nin akompaninta hejmen, eble en tio
+ĉi ne rezultus.
+
+HORSTER
+Pri tio mi ne pentas.
+
+PETRA
+(etendas al li la manon) Dankon pro tio.
+
+HORSTER
+(al la doktoro) Kaj ankaŭ _tion_ mi volus diri, ke ĉar vi fine
+decidis ke vi forvojaĝu, mi pensis pri alia solvo --
+
+DOKTORO STOCKMANN
+Bone; se ni nur povos rapide forvojaĝi --
+
+SINJORINO STOCKMANN
+Tŝ; ĉu iu frapis la pordon?
+
+PETRA
+Eble estas onklo.
+
+DOKTORO STOCKMANN
+Aha! (krias) Envenu!
+
+SINJORINO STOCKMANN
+Kara Tomas, promesu al mi do --
+
+(La magistranto venas de la antaŭĉambro.)
+
+LA MAGISTRANTO
+(ĉe la pordo) Nu, vi estas okupata. Jes, do mi prefere --
+
+DOKTORO STOCKMANN
+Ne, ne; envenu.
+
+LA MAGISTRANTO
+Sed mi dezirus paroli kun vi ni du solaj.
+
+SINJORINO STOCKMANN
+Ni iros en la sidĉambron dume.
+
+HORSTER
+Kaj mi revenos poste.
+
+DOKTORO STOCKMANN
+Ne; vi eniru kune, ŝipestro Horster; mi bezonas plian informon --
+
+HORSTER
+Ja, ja, do mi atendas.
+
+(Li sekvas _sinjorinon Stockmann_ kaj _Petra_ en la sidĉambron.)
+
+LA MAGISTRANTO
+(silentas, sed ekrigardas al la fenestroj)
+
+DOKTORO STOCKMANN
+Vi eble trovas, ke estas iom liberaere ĉe ni hodiaŭ? Surmetu la
+kepon.
+
+LA MAGISTRANTO
+Dankon, se mi povas. (tion faras) Mi sentas, ke mi kaptis
+malvarmumon hieraŭ; mi frostis --
+
+DOKTORO STOCKMANN
+Ĉu? Kontraŭe mi trovis, ke estis sufiĉe varme.
+
+LA MAGISTRANTO
+Mi bedaŭras, ke ne estis en mia potenco malebligi tiujn noktajn
+ekscesojn.
+
+DOKTORO STOCKMANN
+Ĉu vi volas diri al mi ion ceteran?
+
+LA MAGISTRANTO
+(elprenas grandan leteron) Mi havas tiun ĉi dokumenton por vi de la
+baneja direkcio.
+
+DOKTORO STOCKMANN
+Mi estas maldungita, ĉu?
+
+LA MAGISTRANTO
+Jes, de hodiaŭ. (metas la leteron sur la tablon) Ni bedaŭras; sed
+-- sincere dirite -- ni ne kuraĝis pro la publika opinio.
+
+DOKTORO STOCKMANN
+(ridetas) Ne kuraĝis? Tiujn vortojn mi aŭdis _pli frue_ hodiaŭ.
+
+LA MAGISTRANTO
+Mi petas, ke vi ekkomprenu vian staton. Estonte vi ne povas atendi
+iun ajn praktikon en nia urbo.
+
+DOKTORO STOCKMANN
+Al la diablo pri la praktiko! Sed el kio vi tion scias tiel certe?
+
+LA MAGISTRANTO
+La asocio de domposedantoj starigis liston, kiun ili portas de domo
+al domo. Ĉiuj bonanimaj civitanoj estas petataj ne viziti vin; kaj
+mi kuraĝas garantii, ke neniu domposedanto kuraĝas rifuzi sian
+subskribon; ili tute simple ne _kuraĝas_.
+
+DOKTORO STOCKMANN
+Ne, ne; pri tio mi ne dubas. Sed kio do?
+
+LA MAGISTRANTO
+Se mi povus doni al vi konsilon, ĝi estus, ke vi forlokiĝu el nia
+urbo por ioma tempo --
+
+DOKTORO STOCKMANN
+Jes, mi ĝuste iomete pensas forlasi la lokon.
+
+LA MAGISTRANTO
+Bone. Kaj post duona jaro aŭ iom pli, kiam vi ŝanĝis vian opinion,
+kaj vi post matura konsidero povus decidigi vin esprimi bedaŭron kaj
+konfesi vian eraron --
+
+DOKTORO STOCKMANN
+Tiam mi eble povus rericevi mian oficon, vi pensas?
+
+LA MAGISTRANTO
+Eble; estas tute ne senŝance.
+
+DOKTORO STOCKMANN
+Jes, sed la publika opinio? Vi ja ne kuraĝas pro la publika opinio.
+
+LA MAGISTRANTO
+La opinio estas ege varia afero. Kaj por diri la veron estas ege
+grave por ni havi tian konfeson de vi.
+
+DOKTORO STOCKMANN
+Jes, por ĝi vi lekas viajn lipojn! Sed pro diablo, vi memoras kion
+mi antaŭe diris al vi pri tiaj vulpo-ruzaĵoj!
+
+LA MAGISTRANTO
+Tiam via pozicio estis konsiderinde pli favora; vi povis supozi, ke
+vi havas la tutan urbon dorse --
+
+DOKTORO STOCKMANN
+Jes, kaj nun mi sentas, ke mi havas la tutan urbon sur la nuko --.
+(ekflamiĝas) Sed eĉ ne se mi havus la diablon mem kaj lian
+praavinon sur la nuko --! Neniam, -- neniam, mi diras!
+
+LA MAGISTRANTO
+Patro de familio ne kuraĝas tiel agi, kiel vi faras. Vi ne kuraĝas,
+Tomas.
+
+DOKTORO STOCKMANN
+Mi ne kuraĝas, ĉu? Estas nur unu sola ago en la mondo, kiun libera
+homo ne kuraĝas; kaj ĉu vi scias, kiu tiu estas?
+
+LA MAGISTRANTO
+Ne.
+
+DOKTORO STOCKMANN
+Kompreneble; sed _mi_ diru al vi. Libera homo ne kuraĝas malpurigi
+sin kiel fiulo; li ne kuraĝas konduti tiel, ke li devus kraĉi sin
+mem en la okulojn.
+
+LA MAGISTRANTO
+Tio ĉi sonas ja treege akceptebla; kaj se ne ekzistus alia klarigo
+por via obstineco --; sed tia ja ekzistas --
+
+DOKTORO STOCKMANN
+Kion vi aludas per _tio_?
+
+LA MAGISTRANTO
+Tion vi certe bonege komprenas. Sed ĉar mi estas via frato kaj saĝa
+homo, mi konsilas al vi, ne bazi vin tro fide sur esperoj kaj
+perspektivoj, kiuj tre facile povus malsukcesi.
+
+DOKTORO STOCKMANN
+Sed al kio do _tio_ aludu?
+
+LA MAGISTRANTO
+Ĉu vi vere volas kredigi al mi, ke vi estas senscia pri la
+testamentaj dispozicioj, kiujn faris tanejestro Kiil?
+
+DOKTORO STOCKMANN
+Mi scias, ke la iometon, kiun li posedas, estas destinita al fondaĵo
+por bezonantaj metiistoj. Sed kiel tio rilatas al mi?
+
+LA MAGISTRANTO
+Unue ne estas iometoj pri kio temas. Tanejestro Kiil estas sufiĉe
+riĉa homo.
+
+DOKTORO STOCKMANN
+Tion mi neniam suspektis --!
+
+LA MAGISTRANTO
+Hm, -- vere ne? Vi do ankaŭ ne scias, ke ne malkonsiderinda parto de
+lia kapitalo estas heredota de viaj infanoj, tiel ke vi kaj via
+edzino ĝuu la rentojn dum via vivodaŭro. Ĉu li tion ne diris al
+vi?
+
+DOKTORO STOCKMANN
+Ne; mi ĵuras, ke li ne faris. Kontraŭe; li ĉiam koleriĝadis pro
+tio, ke li pagu tro altan imposton. Sed ĉu vi scias tion ĉi tiel
+certe, Petro?
+
+LA MAGISTRANTO
+Mi sciiĝis de tute fidinda fonto.
+
+DOKTORO STOCKMANN
+Ho, dian dankon, do Katrine estos sekura, -- kaj ankaŭ la infanoj!
+Tion mi ja devas rakonti -- (krias) Katrine, Katrine!
+
+LA MAGISTRANTO
+(retenas lin) Tŝ, ankoraŭ nenion diru!
+
+SINJORINO STOCKMANN
+(malfermas la pordon) Kio estas?
+
+DOKTORO STOCKMANN
+Nenio, kara; nur reen eniru.
+
+(_Sinjorino Stockmann_ fermas.)
+
+DOKTORO STOCKMANN
+(paŝadas sur la planko) Sekura! Ĉu vere, -- ili do ĉiuj estas
+sekuraj! Kaj tiaj por la vivodaŭro! Ho beniga sento scii, ke oni
+estas sekura!
+
+LA MAGISTRANTO
+Jes, sed estas ja _tio_, kio vi ne estas. Tanejestro Kiil povas
+nuligi la testamenton kiun ajn tagon aŭ horon laŭdezire.
+
+DOKTORO STOCKMANN
+Sed tion li ne faras, mia bona Petro. La melo estas tro ĝojega, ke
+mi ekkaptas vin kaj viajn sagacajn amikojn.
+
+LA MAGISTRANTO
+(ekmiras, kaj rigardas lin esplore) Aha, tio ĵetas lumon sur
+multon.
+
+DOKTORO STOCKMANN
+Kian multon?
+
+LA MAGISTRANTO
+La tuto estis kombinita manovro. Tiuj senbridaj, senkonsideraj
+atencoj, kiujn vi -- en la nomo de la vero -- direktis kontraŭ la
+estrantajn civitanojn en la urbo --
+
+DOKTORO STOCKMANN
+Kiujn; kiujn?
+
+LA MAGISTRANTO
+-- estis do nenio alia, ol interkonsentita kompenso por la testamento
+de tiu maljuna venĝavida Morten Kiil.
+
+DOKTORO STOCKMANN
+(konsternita) Petro, -- vi do estas la plej fia plebano, kiun mi
+konas dum mia vivo.
+
+LA MAGISTRANTO
+Inter ni estas finite. Via maldungo estas nerevokebla; -- ĉar nun ni
+havas armilojn kontraŭ vi. (Li foriras.)
+
+DOKTORO STOCKMANN
+Fi, fi, fi! (krias) Katrine! La planko estu lavata post li. Enirigu
+ŝin kun akvujo, ŝin, -- ŝin -- kion diable --, ŝin, kiu ĉiam
+havas fulgon sur la nazo --
+
+SINJORINO STOCKMANN
+(en la sidĉambro) Tŝ, tŝ do, Tomas!
+
+PETRA
+(ankaŭ ĉe la pordo) Patro, avo venas kaj petas, ĉu li povas
+paroli kun vi sola.
+
+DOKTORO STOCKMANN
+Jes, certe li povas. (ĉe la pordo) Envenu, bopatro.
+
+(_Morten Kiil_ envenas. La _doktoro_ fermas la pordon malantaŭ li.)
+
+DOKTORO STOCKMANN
+Nu, kio estas? Eksidu.
+
+MORTEN KIIL
+Ne sidi. (ĉirkaŭrigardas) Aspektas bele ĉe vi hodiaŭ, sinjoro
+Stockmann.
+
+DOKTORO STOCKMANN
+Jes, ĉu ne?
+
+MORTEN KIIL
+Vere bele ja aspektas; freŝan aeron vi ankaŭ havas; hodiaŭ vi
+havas sufiĉe da tiu "moksigena" ŝtofo, pri kiu vi parolis hieraŭ.
+Vi certe havas bonegan konsciencon hodiaŭ, mi pensas.
+
+DOKTORO STOCKMANN
+Jes, mi havas.
+
+MORTEN KIIL
+Ĉu imagu? (frapas sian bruston) Sed ĉu vi scias kion _mi_ havas
+ĉi tie?
+
+DOKTORO STOCKMANN
+Espereble ankaŭ bonan konsciencon.
+
+MORTEN KIIL
+Ba! Estas io multe pli bona ol tio.
+
+(Li elprenas dikan poŝdokumentujon, malfermas ĝin kaj montras aron
+da dokumentoj.)
+
+DOKTORO STOCKMANN
+(rigardas lin mire) Akcioj en la banejo?
+
+MORTEN KIIL
+Ne estis malfacile ekhavi ilin hodiaŭ.
+
+DOKTORO STOCKMANN
+Kaj vi jam aĉetis --?
+
+MORTEN KIIL
+Tiom por kio mi havis monon.
+
+DOKTORO STOCKMANN
+Sed kara bopatro, -- tiel malesperige kiel statas pri la banejo nun!
+
+MORTEN KIIL
+Se vi kondutas kiel prudenta homo, vi certe restarigos la banejon.
+
+DOKTORO STOCKMANN
+Jes, vi ja mem vidas, ke mi faras, kion mi povas; -- sed --! La homoj
+estas ja frenezaj en nia urbo!
+
+MORTEN KIIL
+Vi diris hieraŭ, ke la pleja fiaĵo venas de mia tanejo. Se _tio_
+estus vero, mia avo, kaj mia patro antaŭ mi, kaj mi mem dum multaj
+jaroj malpurigadus la urbon kvazaŭ tri murdanĝeloj. Ĉu vi opinias,
+ke mi lasas tiun honton gluiĝi sur min?
+
+DOKTORO STOCKMANN
+Bedaŭrinde, tion vi devas akcepti.
+
+MORTEN KIIL
+Dankon ne. Mi defendos mian bonan nomon kaj reputacion. Oni nomas min
+"la melo", mi aŭdis. Melo, ĉu tio ne estas iuspeca porko; sed pri
+tio ili neniam en la mondo praviĝu. Mi volas vivi kaj morti kiel
+purema homo.
+
+DOKTORO STOCKMANN
+Kaj kiel vi volas realigi _tion_?
+
+MORTEN KIIL
+_Vi_ purigu min, Stockmann.
+
+DOKTORO STOCKMANN
+Mi!
+
+MORTEN KIIL
+Ĉu vi scias per kiu mono mi aĉetis tiujn ĉi akciojn? Ne, tion vi
+ne povas scii; sed nun mi diru. Estas la mono kiun Katrine kaj Petra
+kaj la knabetoj heredos post mi. Jes, ĉar mi ja tamen havas iom
+ŝparitan, komprenu.
+
+DOKTORO STOCKMANN
+(ekflamiĝas) Kaj tiel vi prenas la monon de Katrine por tiaĵo!
+
+MORTEN KIIL
+Jes, tiu mono nun investiĝis en la banejo. Kaj nun mi volas vidi,
+ĉu vi tamen estas tiel furioza -- freneza, Stockmann. Se vi daŭre
+lasos bestojn kaj tiajn fiaĵojn veni el mia tanejo, tio estas la
+sama kiel tranĉi rimenojn el la haŭto de Katrine, kaj ankaŭ de
+Petra, kaj de la knabetoj; sed _tion_ neniu vera familipatro faras,
+-- se li ne estas frenezulo.
+
+DOKTORO STOCKMANN
+(paŝas tien kaj reen) Jes, sed mi _estas_ freneza, mi estas
+frenezulo!
+
+MORTEN KIIL
+Tiomege delira -- freneza vi certe ne estas, kiam la familio estas en
+danĝero.
+
+DOKTORO STOCKMANN
+(haltas antaŭ li) Kial vi ne parolis kun mi, antaŭ ol vi aĉetis
+tiujn senvaloraĵojn!
+
+MORTEN KIIL
+Kio estas farita, plej forte efikas.
+
+DOKTORO STOCKMANN
+(paŝadas maltrankvile ĉirkaŭe) Se mi do ne estus tiel certa pri
+la afero --! Sed mi estas profunde konvinkita, ke mi pravas.
+
+MORTEN KIIL
+(pesas la dokumentujon en la mano) Se vi daŭre frenezadas, tiuj ĉi
+ne valoros multe.
+
+(Li metas la dokumentujon en la poŝon.)
+
+DOKTORO STOCKMANN
+Sed pro diablo, la scienco devus do kapabli eltrovi iun ilon por
+preventi; iu kontraŭinfekta drogo --
+
+MORTEN KIIL
+Vi pensas pri io por mortigi la bestojn, ĉu?
+
+DOKTORO STOCKMANN
+Jes, aŭ por neŭtraligi ilin.
+
+MORTEN KIIL
+Ĉu vi ne povus provi per iom da ratveneno?
+
+DOKTORO STOCKMANN
+Ho, babilaĵo! -- Sed ĉiuj ja diras, ke estas nur imagaĵo. Ĉu ne
+povas esti imagaĵo do! Lasu ilin _havi_ sian imagaĵon! Ĉu ne la
+nesciantaj, etkoraj hundaĉoj insultis min kiel popolmalamikon; --
+kaj ili eĉ estis pretaj tiri miajn vestaĵojn de mia korpo!
+
+MORTEN KIIL
+Kaj ĉiujn fenestrojn, kiujn ili frakasis por vi!
+
+DOKTORO STOCKMANN
+Jes, kaj la zorgoj pri miaj devoj al la familio! Tion mi devas
+priparoli kun Katrine; ŝi pli bone scias pri tiuj aferoj.
+
+MORTEN KIIL
+Bone; aŭskultu nur konsilon de saĝa edzino.
+
+DOKTORO STOCKMANN
+(ekkoleriĝas kontraŭ lin) Ke vi povis konduti tiel stultege!
+Forriski la monon de Katrine; meti min en tiun ĉi teruran
+turmentadon! Kiam mi vidas vin, estas kvazaŭ mi vidus satanon mem
+--!
+
+MORTEN KIIL
+Se tiel estas, mi devas foriri. Sed antaŭ ol la dua mi atendas
+respondon de vi. _Jes_ aŭ _ne_. Se vi respondos _ne_, mi transdonos
+la akciojn al la bonfara fondaĵo, -- kaj tio jam hodiaŭ.
+
+DOKTORO STOCKMANN
+Kaj kion ricevos Katrine?
+
+MORTEN KIIL
+Eĉ ne grajneton.
+
+(La pordo de la antaŭĉambro malfermiĝas. _Redaktoro Hovstad_ kaj
+_presisto Aslaksen_ aperas.)
+
+MORTEN KIIL
+Jen, vidu tiujn du!
+
+DOKTORO STOCKMANN
+(fiksrigardas ilin) Ĉu vi? Ĉu _vi_ denove kuraĝas veni ĉi tien
+al mi!
+
+HOVSTAD
+Jes vere ni tion faras.
+
+ASLAKSEN
+Komprenu, ni havas ion por priparoli kun vi.
+
+MORTEN KIIL
+(flustras) Jes aŭ ne antaŭ la dua.
+
+ASLAKSEN
+(okulumas al _Hovstad_) Aha!
+
+(_Morten Kiil_ foriras.)
+
+DOKTORO STOCKMANN
+Nu, kion vi do volas pri mi? Estu mallonge.
+
+HOVSTAD
+Mi bone komprenas, ke vi malŝatas nin pro nia sinteno dum la kunveno
+hieraŭ --
+
+DOKTORO STOCKMANN
+Kaj tion vi nomas sinteno? Ho, bela sinteno! Mi nomas tion
+sintenaĉa, virinaĉa --. Pro diablo fi!
+
+HOVSTAD
+Nomu tion, kiel al vi plaĉas; sed ni ne _povis_ ion alian fari.
+
+DOKTORO STOCKMANN
+Vi _ne kuraĝis_ ion alian, ĉu ne?
+
+HOVSTAD
+Jes, se vi preferas.
+
+ASLAKSEN
+Sed kial vi ne lasis fali vorton antaŭe? Nur etan aludon al sinjoro
+Hovstad aŭ mi.
+
+DOKTORO STOCKMANN
+Aludo? Pri kio?
+
+ASLAKSEN
+Pri tio, kio kaŝis sin malantaŭe.
+
+DOKTORO STOCKMANN
+Mi tute ne komprenas vin.
+
+ASLAKSEN
+(kapsignas intime) Ho, je Dio, vi faras, doktoro Stockmann.
+
+HOVSTAD
+Ne estas plu necese teni tion sekrete.
+
+DOKTORO STOCKMANN
+(rigardas ilin laŭvice) Sed pro diabla haŭto kaj osto --!
+
+ASLAKSEN
+Ĉu mi rajtas demandi, -- ĉu via bopatro ne iras ĉirkaŭe en la
+urbo aĉetante ĉiujn banejakciojn?
+
+DOKTORO STOCKMANN
+Jes, aĉetis banejakciojn hodiaŭ; sed --?
+
+ASLAKSEN
+Estus pli saĝe, se vi igus iun alian fari tion, -- iun, kiu ne estas
+tiel parence proksima.
+
+HOVSTAD
+Kaj vi ne devus ekstari sub propra nomo. Neniu devus ja scii, ke la
+atako kontraŭ la banejo venis de vi. Vi estus devinta konsiliĝi kun
+mi, doktoro Stockmann.
+
+DOKTORO STOCKMANN
+(rigardas kvazaŭ foren; aspekte io prilumiĝas por li, kaj li diras
+kvazaŭ perpleksa) Ĉu tiaĵo estas imagebla? Ĉu tiaĵo estas
+farebla?
+
+ASLAKSEN
+(ridetas) Montriĝas, ke estas farebla. Sed komprenu, ke ĝi devas
+esti plenumata elegante.
+
+HOVSTAD
+Kaj prefere pluraj devas partopreni; ĉar estas ja ĉiam tiel, ke la
+respondeco malgrandiĝas por la opulo, kiam li kunlaboras kun aliaj.
+
+DOKTORO STOCKMANN
+(sinrege) Mallonge, sinjoroj, -- kion vi do deziras?
+
+ASLAKSEN
+Tion sinjoro Hovstad plej bone --
+
+HOVSTAD
+Ne, vi parolu, Aslaksen.
+
+ASLAKSEN
+Nu ja; estas _tio_, ke nun, kiam ni konas la tutan konekson, ni ja
+opinias, ke ni kuraĝas meti "La Popolan Mesaĝon" je via dispono.
+
+DOKTORO STOCKMANN
+_Nun_ vi kuraĝas? Sed la publika opinio? Ĉu vi ne timas, ke
+leviĝos ŝtormo kontraŭ nin?
+
+HOVSTAD
+Ni devas elteni la ŝtormon.
+
+ASLAKSEN
+Kaj la doktoro devas esti rapidfara. Tuj kiam via atako havos
+rezulton --
+
+DOKTORO STOCKMANN
+Tuj kiam mia bopatro kaj mi ekkaptis la akciojn je malalta prezo, vi
+aludas --?
+
+HOVSTAD
+Certe estas nur sciencaj konsideroj, kiuj instigas vin fariĝi la
+estro de la banejo.
+
+DOKTORO STOCKMANN
+Kompreneble; estis pro sciencaj konsideroj, ke mi igis tiun maljunan
+"melon" partopreni en tio ĉi. Kaj poste ni laŭŝajne riparos la
+akvokondukilon kaj iom fosadas en la plaĝo, sen kaŭzi al la urba
+kaso elspezon eĉ ne de duona krono. Ĉu vi ne opinias, ke ni
+sukcesos? Ĉu?
+
+HOVSTAD
+Mi opinias, -- kiam vi havas "La Popolan Mesaĝon" kun vi.
+
+ASLAKSEN
+En libera socio la gazetaro estas potenco, sinjoro doktoro.
+
+DOKTORO STOCKMANN
+Jes bone; kaj tio estas ja ankaŭ la publika opinio; kaj vi, sinjoro
+Aslaksen, vi garantias pri la asocio de domposedantoj?
+
+ASLAKSEN
+Pri la asocio de domposedantoj same kiel pri la amikoj de modereco.
+Fidu tion.
+
+DOKTORO STOCKMANN
+Sed, miaj sinjoroj --; nu, mi hontas fari demandon; sed kiun
+kompenson --?
+
+HOVSTAD
+Prefere ni helpus vin por nenio, kompreneble. Sed "La Popola Mesaĝo"
+staras sur malfortaj piedoj; ĝi ne eldoniĝas senprobleme; kaj
+ĉesigi la gazeton nun, kiam estas tiom, por kio agi en la granda
+politiko, mi vere malvolonte farus.
+
+DOKTORO STOCKMANN
+Mi komprenas; estus ja ĉagrenige por amiko de la popolo kiel vi.
+(ekscitiĝas) Sed mi estas malamiko de la popolo, mi! (kuras
+ĉirkaŭe en la ĉambro) Kie mi havas mian bastonon? Pro diablo, kie
+estas la bastono?
+
+HOVSTAD
+Kion tio signifu?
+
+ASLAKSEN
+Vi do ne volas --?
+
+DOKTORO STOCKMANN
+(haltas) Kaj se mi nun donu al vi eĉ ne nuran oeron de miaj multaj
+akcioj? Memoru ke la moneroj ne facile glitas el la poŝoj de ni
+riĉuloj.
+
+HOVSTAD
+Ho, _vi_ devas memori, ke tiu afero pri la akcioj povas esti
+prezentata dumaniere.
+
+DOKTORO STOCKMANN
+Jes, tion vi certe kapablas; se mi ne kontribuos por helpi "La
+Popolan Mesaĝon", vi certe ekhavos malbelan opinion pri tiu afero;
+vi persekutos min, mi opinias, -- ĉasos min, -- provos gorĝmordi
+min, kiel la hundo gorĝmordas la leporon!
+
+HOVSTAD
+Tio estas laŭ natura leĝo; ĉiu besto volas trovi nutraĵon.
+
+ASLAKSEN
+Oni ja devas preni la nutraĵon, kie oni ĝin trovas.
+
+DOKTORO STOCKMANN
+Do serĉu ion en la kloakdefluilo; (ĉirkaŭkuras en la ĉambro) --
+ĉar morto kaj plago, vi nun spertu, kiu estas la plej forta besto el
+ni tri. (trovas la pluvŝirmilon kaj frape svingas ĝin) Hej, jen
+--!
+
+HOVSTAD
+Vi do ne volas atenci nin!
+
+ASLAKSEN
+Atentu pri tiu pluvŝirmilo!
+
+DOKTORO STOCKMANN
+Tra la fenestro, sinjoro Hovstad!
+
+HOVSTAD
+(ĉe la pordo de la antaŭĉambro) Ĉu vi estas tute freneza!
+
+DOKTORO STOCKMANN
+Tra la fenestro, sinjoro Aslaksen! Saltu, mi diras! Same bone frue
+kiel poste.
+
+ASLAKSEN
+(kuras ĉirkaŭ la skribotablon) Modereco, sinjoro doktoro; mi ne
+estas forta viro; mi ne multe eltenas -- (krias) Helpu, helpu!
+
+(_Sinjorino Stockmann_, _Petra_ kaj _Horster_ venas de la
+sidĉambro.)
+
+SINJORINO STOCKMANN
+Sed Dio pardonu, Tomas, kio estas!
+
+DOKTORO STOCKMANN
+(frapsvingas la pluvŝirmilon) Saltu eksteren, mi diras! En la
+defluilon!
+
+HOVSTAD
+Atako kontraŭ senkulpan homon! Mi nomas vin atestanto, ŝipestro
+Horster (Li rapidas tra la antaŭĉambro)
+
+ASLAKSEN
+(konfuzita) Se oni nur konus la lokajn rilatojn -- (forglitas tra
+la sidĉambro)
+
+SINJORINO STOCKMANN
+(retenas la doktoron) Sed regu vin do, Tomas!
+
+DOKTORO STOCKMANN
+(ĵetas la pluvŝirmilon) Honto al mi ke ili ja tamen forsavis sin.
+
+SINJORINO STOCKMANN
+Sed kion ili volis pri vi?
+
+DOKTORO STOCKMANN
+Tion vi sciu poste; nun mi devas pripensi aliajn aferojn. (iras al
+la tablo kaj skribas sur vizitkarton) Jen, Katrine; kion vi legas
+tie?
+
+SINJORINO STOCKMANN
+Tri grandajn _Ne_; kion tio signifas?
+
+DOKTORO STOCKMANN
+Tion vi sciu poste. (transdonas la karton) _Jen_, Petra; kure sendu
+la fulgitinon al la "melo" kun ĝi plej eble rapide. Rapidu!
+
+(_Petra_ eliras kun la karto tra la antaŭĉambro.)
+
+DOKTORO STOCKMANN
+Aj; se mi ne hodiaŭ havis viziton de ĉiuj satanaj sendintoj, mi ne
+scias de kiuj plu. Sed nun mi akrigu mian plumon kontraŭ ilin, ke
+ĝi fariĝu aleno; mi trempos ĝin en venenon kaj galon; mi ĵetos
+mian inkujon rekte en ilian kapaĉojn!
+
+SINJORINO STOCKMANN
+Jes, sed ni ja forvojaĝos, Tomas.
+
+(_Petra_ revenas.)
+
+DOKTORO STOCKMANN
+Nu?
+
+PETRA
+Farite.
+
+DOKTORO STOCKMANN
+Bone. -- Forvojaĝos, vi diras? Ne, morto kaj plago ĉu ni faru; ni
+restos, kie ni estas, Katrine!
+
+PETRA
+Ni restos!
+
+SINJORINO STOCKMANN
+En ĉi tiu urbo?
+
+DOKTORO STOCKMANN
+Jes, ĝuste ĉi tie; ĉi tie estas la batalejo; ĉi tie mi luktos;
+ĉi tie mi volas venki! Kiam vi estos kunkudrinta mian pantalonon, mi
+eliros en la urbon por lui domon; ni devas ja havi tegmenton super ni
+dum la vintro.
+
+HORSTER
+Tion vi ricevos ĉe mi.
+
+DOKTORO STOCKMANN
+Ĉu vere?
+
+HORSTER
+Jes, bonvolu; mi havas sufiĉe da ĉambroj, kaj preskaŭ neniam estas
+hejme.
+
+SINJORINO STOCKMANN
+Ho, kiel bonvole de vi. Horster.
+
+PETRA
+Dankon!
+
+DOKTORO STOCKMANN
+(premas lian manon) Dankon, dankon! Jen tiu zorgo estas for. Kaj nun
+mi komencos serioze jam en tiu ĉi tago. Ho, estas senfino da aferoj
+por elfosi, Katrine! Sed estas bone, ke mi nun havas liberan tempon
+je mia dispono; jes, jen vidu; vi sciu, ke mi estas maldungita de la
+banejo --
+
+SINJORINO STOCKMANN
+(suspiras) Ho jes, tion mi ja atendis.
+
+DOKTORO STOCKMANN
+-- kaj poste ili volas forpreni de mi mian praktikon. Sed lasu ilin
+fari! La malriĉulojn mi tamen retenas -- tiujn, kiuj nenion pagas;
+kaj, bona Dio, estas ja ili, kiuj pleje min bezonas. Sed, morto kaj
+plago, aŭskulti min ili devos; mi predikos por ili ĉiutempe, kiel
+estas ie skribita.
+
+SINJORINO STOCKMANN
+Sed, kara Tomas, ĉu vi ne vidis kiom utilas prediki.
+
+DOKTORO STOCKMANN
+Vi vere estas komika, Katrine. Ĉu mi lasu min frapiĝi el la
+batalejo de tiu publika opinio kaj de la kompakta plimulto kaj tiaj
+satanaĵoj? Ne dankon, kara! Kaj kion mi volas, tio estas ja tiel
+simpla kaj klara kaj rekta. Mi nur volas marteladi en la kapojn de la
+hundaĉoj, ke la liberaluloj estas la plej insidaj malamikoj de
+liberaj homoj, -- ke la partiprogramoj tordas la kolojn de junaj
+vivopovaj veroj, -- ke konsideroj pri oportuneco turnas supron
+malsupren moralon kaj justecon, tiel ke fine fariĝos neelteneble
+vivi ĉi tie. Jes, ĉu ne ŝajnas al vi, ŝipestro Horster, ke mi
+devas kapabli igi la homojn kompreni _tion_?
+
+HORSTER
+Povas esti; mi ne komprenas tiajn aferojn.
+
+DOKTORO STOCKMANN
+Nun vi aŭskultu! Estas la partiestroj, kiujn ni devas ekstermi. Ĉar
+komprenu, ke partiestro estas kvazaŭ lupo, -- li estas kvazaŭ
+glutavida lupaĉo; -- li bezonas tioman nombron da brutetoj ĉiun
+jaron, por ekzisti. Rigardu nun Hovstad kaj Aslaksen! Kiom da
+brutetoj _ili_ konsumas; aŭ ili vundmordas ilin kaj disŝiras ilin,
+tiel, ke ili neniam plu fariĝos aliaj ol domposedantoj kaj
+abonantoj de "La Popola Mesaĝo"! (eksidas duone sur la tablon) Ho,
+venu ĉi tien, kara Katrine, -- vidu, kiel bele la suno brilas enen
+ĉe ni hodiaŭ. Kaj tiu benata printempa aero, kiu enfluas ĉe mi.
+
+SINJORINO STOCKMANN
+Jes, se ni nur povus vivi el sunbrilo kaj printempa aero, Tomas.
+
+DOKTORO STOCKMANN
+Nu, aldone vi devas pene ŝpari, -- kaj ni certe traluktos. _Tio_
+estas mia plej malgranda zorgo. Ne, tio kio pli grava estas, estas
+_tio_, ke mi ne konas iun tian liberan kaj noblan viron, kiu post mi
+kuraĝos preni sur sin mian taskon.
+
+PETRA
+Ho, ne pensu pri tio, patro; vi havas la tempon antaŭ vi. -- Sed jen
+jam la knaboj.
+
+(_Ejlif_ kaj _Morten_ envenas tra la sidĉambro.)
+
+SINJORINO STOCKMANN
+Ĉu vi ricevis forpermeson hodiaŭ?
+
+MORTEN
+Ne; sed ni luktis kun la aliaj dum la paŭzo --
+
+EJLIF
+Ne estas vero; estis la aliaj, kiuj luktis kun ni.
+
+MORTEN
+Jes, kaj sinjoro Rørlund diris, ke ni pli bone restu hejme kelkajn
+tagojn.
+
+DOKTORO STOCKMANN
+(klakas per la fingroj kaj eksaltas de la tablo) Jen mi vidas! Jen
+mi vidas, mi ĵuru! Vi neniam plu metu viajn piedojn en la lernejon!
+
+LA KNABOJ
+Ne en la lernejon!
+
+SINJORINO STOCKMANN
+Sed ne, Tomas --
+
+DOKTORO STOCKMANN
+Neniam, mi diras! Mi volas mem instrui vin; -- ja, tio signifas, ke
+vi eĉ nenion lernu --
+
+MORTEN
+Hura!
+
+DOKTORO STOCKMANN
+-- sed mi volas fari el vi liberajn, noblajn homojn. Aŭdu, pri tio
+vi devas helpi min, Petra.
+
+PETRA
+Jes, patro, fidu min je tio.
+
+DOKTORO STOCKMANN
+Kaj la lernejo, ĝi estu en la salono, kie ili moknomis min
+popolmalamiko. Sed ni bezonas plurajn; mi devas havi almenaŭ dek du
+knabojn por komenci.
+
+SINJORINO STOCKMANN
+Ilin vi certe ne trovos en tiu ĉi urbo.
+
+DOKTORO STOCKMANN
+Ni vidos. (al la knaboj) Ĉu vi ne konas iujn stratbubojn, -- iujn
+vere bubaĉajn --?
+
+MORTEN
+Jes, patro, el tiuj mi konas multajn!
+
+DOKTORO STOCKMANN
+Jen bone; havigu kelkajn por mi. Unu solan fojon mi volas
+eksperimenti pri la hundaĉoj; ofte sidas strangaj kapoj sur ili.
+
+MORTEN
+Sed kion ni do faru, kiam ni jam estos liberaj kaj noblaj homoj?
+
+DOKTORO STOCKMANN
+Tiam vi forpelu ĉiujn lupaĉojn al la fora okcidento, knaboj!
+
+(_Ejlif_ aspektas iom dubema; _Morten_ saltetas kaj krias hura.)
+
+SINJORINO STOCKMANN
+Aj, se nur tiuj lupaĉoj ne forpelos vin, Tomas.
+
+DOKTORO STOCKMANN
+Ĉu vi tute freneziĝas, Katrine! _Forpeli min_? Nun, kiam mi estas
+la plej forta viro en la urbo!
+
+SINJORINO STOCKMANN
+La plej forta -- _nun_?
+
+DOKTORO STOCKMANN
+Jes, tian grandan vorton mi kuraĝas esprimi, ke _nun_ mi estas unu
+el la plej fortaj viroj en la tuta mondo.
+
+MORTEN
+Ho ne do!
+
+DOKTORO STOCKMANN
+(mallaŭtigas la voĉon) Tŝ; ankoraŭ ne tion priparolu; sed mi
+faris grandan malkovron.
+
+SINJORINO STOCKMANN
+Nun denove?
+
+DOKTORO STOCKMANN
+Certe, jes certe! (kolektas ilin ĉirkaŭ sin kaj diras konfideme)
+La afero estas tia, komprenu, ke la plej forta viro en la mondo,
+estas tiu, kiu staras tute sola.
+
+SINJORINO STOCKMANN
+(ridetas skuante la kapon) Ho, vi Tomas --!
+
+PETRA
+(fidoplene, kaptas liajn manojn) Patro!
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Popolmalamiko, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK POPOLMALAMIKO ***
+
+***** This file should be named 19803-0.txt or 19803-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/9/8/0/19803/
+
+Produced by Andrew Sly and Bill Patterson
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

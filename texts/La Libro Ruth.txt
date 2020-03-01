@@ -1,0 +1,743 @@
+﻿The Project Gutenberg EBook of La Libro Ruth, by Anonymous
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: La Libro Ruth
+
+Author: Anonymous
+
+Translator: E. Neumark
+
+Release Date: December 28, 2007 [EBook #24057]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA LIBRO RUTH ***
+
+
+
+
+Produced by Andrew Sly, David Starner and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by Österreichische Nationalbibliothek - Austrian National
+Library.)
+
+
+
+
+
+
+
+  La Biblio
+  tradukita en
+  ESPERANTO.
+
+La Libro Ruth.
+
+  El la Originalo
+  tradukis
+  E. NEUMARK.
+
+NÜRNBERG.
+
+Presejo de W. Tümmel.
+
+1893.
+
+
+
+
+Antaŭparolo.
+
+
+Tiu ĉi libreto estas malgranda, tamen ĝi estas konata al ĉiu
+naciisto, ĉar ĝi estas parteto de l’Biblio, kiu ĝis hodiaŭ estas
+tradukita en du cent lingvoj; kaj tial mi esperas, ke ĉiu homo min
+bone komprenos, ĉar en okazo de ia dubo li facile povos kompari mian
+tradukon kun sia nacia. La kara leganto tamen sciu, ke preskaŭ ne
+estas trovataj du tradukoj, kiuj ĉie precize konsentu. Ĉe mia
+laboro mi tenis, ekster la hebrea originalo, la tradukoj rusan,
+germanan, araban kaj persan; kaj praktike mi v[neklaraĵo] ke ĉiu
+de ili havas diversan formon; tial, ne sciante, kiun [neklaraĵo] ili
+akurate sekvi, mi elektis sekvi la originalon, trovante, ke en nia
+lingvo ni povas komprenigi la penson de alinaciisto pli precize, ol
+en iu alia lingvo. Mi tradukis konservante kiom eble la vortojn de
+l’originalo, kaj tamen mi juĝas, ke la libro per tio ne perdis la
+klarecon por la leganto, kaj kie mi trovis tian okazon, mi aldonis
+kelkajn vortojn enŝlosante ilin en krampoj.
+
+Kiu iam provis traduki antikvan libron en lingvo niatempa, scias la
+malfacilecon de tia laboro, kiu neniel povas resti nekritikebla; se
+mi skribus la tradukon libere (t. e. konservante la rakonton, ne la
+vortojn), kredeble ĝi estus pli klara kaj bonstila, sed tiam ĝi
+jam ne prezentus ĉiujn nuancojn de l’originalo precize, kaj multaj
+pensoj per tio perdus.
+
+Kiam mi vidos, ke mia laboro plaĉis al niaj amikoj kaj ili estos
+kontentaj je ĝi, tiam mi ankaŭ eldonos la tradukon de «Esther» el
+la Biblio.
+
+Mi esperas, ke niaj diligentaj amikoj min sekvos, kaj pli frue aŭ
+pli malfrue ni havos en nia lingvo la tradukon de l’tuta Biblio, kiu
+alportos al nia lingvo honoron, progresadon kaj utilegon.
+
+Grodno, Rusujo, en Novembro 1892.
+
+E. Neumark.
+
+
+
+Pri l’ortografio.
+
+
+Tradukante el lingvo hebrea, mi ne povis skribadi la nomojn personajn
+kaj geografiajn tiel, kiel oni kutimis skribadi en lingvoj eŭropaj,
+ĉar nia lingvo, kiu estas kreita por esti internacia, devas
+prezenti ĉion kiom eble pli precize, ol aliaj lingvoj, kaj tial ĉe
+l’skribado de nomoj, kiuj havas sonojn ne havantajn literojn en nia
+alfabeto, ne povinte skribi ilin precize, mi almenaŭ faris signojn,
+per kiuj la filologo aŭ la orienta naciisto ilin ekkonu kaj povu
+ilin diferencigi de l’sonoj proksimaj al ili. Kaj jen estas la
+formoj, en kiuj mi skribis en tia okazo, kaj tiujn ĉi samajn formojn
+mi proponas al niaj amikoj, estontaj en tia situacio
+
+  Anstataŭ     araba, turka,   mi skribis
+  la hebrea:   kaj persa:      kaj konsilas:
+          ח‎     =       ح       ĥh
+          „     =       ظ       zh
+(vokalo)  ע‎     =       ع       à, è, ì, ò, ù
+          גֿ‎     =       غ       gh
+          „     =       ض       dd (perse zz)
+          ק‎     =       ق       kh
+          תּ‎     =       ت       th
+          תֿ‎     =       ث       sh
+          „     =       ص       ss
+
+kaj ĉar la suprediritaj kvar lingvoj ne havas sonojn fremdajn al
+nia alfabeto pli ol tiuj naŭ, pri kiuj mi jam parolis, mi pensas,
+ke tiel ni povas signi ĉiujn orientajn sonojn.
+
+La tradukinto.
+
+
+La Libro Ruth.
+
+
+
+
+ĈAPITRO I.
+
+
+(1) En la tagoj, kiam juĝis (= _regis_) la juĝistoj, estis
+malsato en la lando, kaj el Beshleĥhem Jehuda foriris homo, por
+loĝi en kampoj de Moab, li, lia edzino kaj liaj du filoj. (2) La
+nomo de l’homo (_estis_) Elimeleĥ—de lia edzino, Naòmi, kaj
+la nomoj de liaj du filoj—Maĥhlon kaj Kiljon, Efrashanoj de
+Beshleĥhem Jehuda, kaj ili venis kampojn Moabajn kaj estis tie. (3)
+Kaj Elimeleĥ, edzo de Naòmi, mortis, kaj restis ŝi kaj ŝiaj du
+filoj. (4) Kaj ili edziĝis kun virinoj moabinoj, la nomo de
+l’unu Àrpa, kaj de l’dua Ruth, kaj ili loĝis tie ĉirkaŭ dek
+jarojn. (5) Kaj Maĥhlon kaj Kiljon ambaŭ ankaŭ mortis, kaj restis
+la virino (_sola_) post ŝiaj du filoj kaj ŝia edzo. (6) Kaj
+ŝi kun ŝiaj bofilinoj sin levis kaj reiris de la moabaj kampoj,
+ĉar ŝi aŭdis en la kampo moaba: «ke Dio ekmemoris sian popolon,
+por doni al ili panon». (7) Kaj ŝi eliris el la loko, kie ŝi estis
+tie, kaj ŝiaj du bofilinoj kun ŝi, kaj ili iris en vojon, por
+reveni Jehudujon. (8) Kaj Naòmi diris al siaj du bofilinoj:
+iru reiĝu ĉiu al sia patrina domo, Dio faradu al vi favoron,
+kiel vi faradis al la mortintoj kaj al mi. (9) Dio donu al vi, ke vi
+trovu ripozon ĉiu en domo de sia edzo, kaj ŝi ilin kisis, kaj ili
+levis voĉon kaj ploris. (10) Kaj ili diris al ŝi: nur kun Vi ni
+reiros al via popolo. (11) Kaj Naòmi diris: reiru miaj filinoj, kial
+vi irus kun mi? ĉu mi havas ankoraŭ filojn en min ventro, kiuj por
+vi estos edzoj? (12) Reiĝu, miaj filinoj, iru, ĉar mi jam tro
+maljuniĝis por edziniĝi. Se mi eĉ dirus, mi havas esperon, eĉ mi
+ankaŭ estus nunan nokton edzinigita kaj eĉ naskus filojn,— (13) Ĉu
+je ili vi atendos, ĝis ili grandiĝos? ĉu pro ili vi retenos vin,
+por ne edziniĝi? ne, miaj filinoj! ĉar (_se vi ne obeos_) mi
+estos tre maldolĉigita pri vi, ĉar sur min dia mano (= _batego_)
+jam falis. (14) Kaj ili levis voĉon kaj ankoraŭ ploris, kaj Àrpa
+kisis sian bopatrinon (_por adiaŭ_) sed Ruth kuniĝis je ŝi.
+(15) Kaj Naòmi diris: jen via bofratino reiris al sia nacio kaj Dio,
+reiru post via bofratino. (16) Kaj Ruth rediris: ne petegu min,
+por vin forlasi kaj reiri de vi, ĉar kien vi iros, mi (_ankaŭ_)
+iros kaj kien vi pasigos la noktojn mi (_ankaŭ_) pasigos, via
+nacio estas mia nacio kaj via Dio estas mia Dio. (17) Kie vi mortos,
+mi mortos, kaj tie oni min enterigos, tiel Dio min punu kaj punegu,
+se eĉ la morto faros disigon inter ni. (18) Kaj Naòmi vidis, ke ŝi
+penadas, por iri kun ŝi, kaj ŝi ĉesis paroladi al ŝi. (19) Kaj
+ambaŭ iradis, ĝis ili venis Beshleĥhemon, kaj kiam ili venis
+Beshleĥhemon, la tuta urbo ekteruriĝis je ili, kaj diris:
+«Ĉu tio ĉi estas Naòmi?» (20) Kaj ŝi diris al ili: Ne nomu min
+«Naòmi» (= _agrablulino_), sed nomu min «Mara» (= _maldolĉulino_),
+ĉar la Ĉiopova tre min maldolĉigis. (21) Mi plena (_de bonhavo_)
+foriris, sed malplene Dio min revenigis; kial vi min nomas Naòmi,
+dum Dio min mizerigis kaj la Ĉiopova malbonfaris al mi. (22) Kaj
+revenis Naòmi, kaj ŝia bofilino Ruth la Moabino, kiu venis de
+Moabaj kampoj—kun ŝi, kaj ili venis Beshleĥhemon en la komenco
+de rikoltado de hordeo.
+
+
+
+
+ĈAPITRO II.
+
+
+(1) Kaj Naòmi havis parencon de sia edzo viro grava heroo de l’gento
+de Elimeleĥ, kaj lia nomo estis Boàz. (2) Kaj Ruth la moabino diris
+al Naòmi: mi iros kampon kaj elserĉados (_perditajn_) spikojn,
+ĉe kiu mi trovos favoron en liaj okuloj; kaj ŝi rediris: iru, mia
+filino. (3) Kaj ŝi iris kaj venis kaj elserĉadis en la kampo poste
+de l’rikoltantoj, kaj (_neintence_) tio ĉi okazis en la parto
+de l’kampo (_kiu apartenis_) al Boàz de l’gento de Elimeleĥ.
+(4) Kaj jen Boàz venis de Beshleĥhem, kaj diris al la rikoltantoj:
+«Dio kun vi!» Kaj ili rediris: «Dio vin benu!» (5) Kaj Boàz diris
+al sia servanto, kiu staris (_kiel estro_) ĉe l’rikoltantoj:
+kies estas tiu ĉi junulino? (6) Kaj la servanto staranta, ĉe
+l’rikoltantoj respondis kaj diris: ŝi estas junulino moabino,
+kiu revenis de moabaj kampoj kun Naòmi, (7) kaj ŝi diris: mi
+elserĉados (_spikojn_) kaj kolektos (_farante_) garbojn poste
+de l’rikoltantoj, kaj ŝi venis kaj staradas (_tie ĉi_) de
+l’mateno ĝis nun; ŝia jena sidado en la dometo estas de mallonge.
+(8) Kaj Boàz diris al Ruth: ĉu vi aŭdas, mia filino? ne iru
+elserĉadi alian kampon kaj ne foriru de tie ĉi, kaj tiel kuniĝu
+kun miaj servantinoj. (9) Viaj okuloj (_rigardu_) sur la kampon,
+kiun oni rikoltos, iru ilin sekvante, mi ordonis ja al la junularo,
+ke ili vin ne tuŝu; kiam vi soifos, iru al la vazoj kaj trinku de
+l’ (_akvo_) kiun la junularo ĉerpas. (10) Kaj ŝi falis sur sian
+vizaĝon kaj inkliniĝis ĝis la tero, kaj diris al li: kial mi
+trovis favoron en viaj okuloj, por min ekkonatigi, dum mi estas ja
+alilandulino? (11) Kaj Boàz respondis kaj diris al ŝi: al mi estas
+jam raportita ĉio, kion vi faradis kun via bopatrino post la morto
+de via edzo, kaj vi forlasis vian patron, patrinon kaj patrujon, kaj
+iris al nacio, kiun vi ne konis hieraŭ kaj antaŭhieraŭ. (12) Dio
+pagu vian faradon, kaj via rekompenco estu tuta (_kaj plena_) de
+l’Ĉioestro Dio de Israel, al kiu vi venis, por trovi defendon sub
+liaj flugiloj. (13) Kaj ŝi diris: mi trovas favoron en viaj okuloj,
+mia mastro! ĉar vi min konsolis, kaj parolis al la koro de via
+servantino, dum mi ne estas inda kiel unu el viaj servantinoj. (14)
+Kaj Boàz diris al ŝi: en la tempo de manĝado alvenu tien ĉi kaj
+manĝu de l’manĝaĵo, kaj trempu vian panon en vinagron. Kaj ŝi
+sidiĝis flanken de l’rikoltantoj, kaj li alŝovis al ŝi rostitajn
+spikojn, kaj ŝi manĝis kaj satiĝis kaj restigis al si. (15) Kaj
+ŝi leviĝis por elserĉadi, kaj Boàz ordonis al siaj servantoj,
+dirante: ankaŭ inter la garboj ŝi elserĉadu kaj vi ne hontigu
+ŝin. (16) Kaj de l’garbetoj vi ankaŭ defaligu por ŝi, kaj lasu, ke
+ŝi ĝin elserĉu, kaj ne riproĉu ŝin. (17) Kaj ŝi elserĉadis en
+la kampo ĝis la vespero kaj elbatis tion, kion ŝi elserĉis, kaj
+ĝi estis ĉirkaŭ unu «efa» (_mezurilo_) da hordeo. (18) Kaj
+ŝi ĝin portis kaj venis la urbon, kaj ŝia bopatrino vidis tion,
+kion ŝi elserĉis, kaj ŝi (_Ruth_) elprenis (_el la poŝo_)
+tion, kion ŝi restigis de sia sateco kaj donis al ŝi. (19) Kaj ŝia
+bopatrino diris: kie vi serĉadis hodiaŭ kaj kie vi laboris, via
+konanto estu benata; kaj ŝi raportis al sia bopatrino, ĉe kiu ŝi
+laboris, kaj diris: la nomo de l’viro, ĉe kiu mi hodiaŭ laboris,
+estas Boàz. (20) Kaj Naòmi diris al sia bofilino: benita li estu de
+Dio, ĉar li ne forlasis sian afablon de l’vivantoj kaj (_nek_)
+de l’mortintoj. Kaj Naòmi diris: la viro estas proksima al ni, li
+estas el niaj parencoj. (21) Kaj Ruth la moabino diris: li ankaŭ
+diris al mi: «kun la servantinoj, kiuj estas ĉe mi, kuniru, ĝis ili
+finos la tutan mian rikoltadon». (22) Kaj Naòmi diris al sia bofilino
+Ruth: bone estas, mia filino, ke vi iru kun liaj servantinoj, por ke
+oni vin ne renkontu (_severe_) en alia kampo. (23) Kaj Ruth
+kuniris kun la servantinoj de Boàz por elserĉadi (_spikojn_)
+ĝis la fino de l’hordea kaj tritika rikoltado, kaj ŝi sidadis
+ĉe sia bopatrino.
+
+
+
+
+ĈAPITRO III.
+
+
+(1) Kaj Naòmi, ŝia bopatrino, diris: mia filino! mi deziras ja por
+vi ripozon, kiu estas bona por vi. (2) Kaj nun Boàz, nia parenco, kun
+kies junulinoj vi kunestis, li jen ventumas la amason da hordeo en
+nuna nokto. (3) Vi baniĝu kaj ŝmiriĝu (_per parfumoj_) kaj metu
+viajn (_plej karajn_) vestojn sur vin kaj subiru al la amasejo,
+ne konatigu vin al la viro, ĝis li finos manĝi kaj trinki. (4) Kaj
+kiam li kuŝos, eksciiĝu la lokon, kie li kuŝiĝos, kaj venu kaj
+malkovru lian piedujon kaj kuŝiĝu, kaj li jam diros al vi, kion
+vi faru. (5) Kaj ŝi rediris al ŝi: ĉion, kion vi diros al mi, mi
+faros. (6) Kaj ŝi subiris al la amasejo kaj faradis ĉion, kiel ŝia
+bopatrino al ŝi ordonis. (7) Kaj Boàz manĝis kaj trinkis, kaj lia
+koro bonhumoriĝis, kaj li venis al la rando de l’garbaro por
+kuŝiĝi, kaj ŝi venis mallaŭte kaj malkovris lian piedujon kaj
+kuŝiĝis. (8) Kaj kiam fariĝis noktomezo, la viro ektimis, kaj
+li ekpalpis kaj (_eksciiĝis ke_) jen virino kuŝas apud lia
+piedujo. (9) Kaj li diris: kiu vi estas?! kaj ŝi rediris: mi estas
+Ruth, via sklavino, etendu viajn flugilojn sur vian sklavinon, ĉar
+vi ja estas parenco. (10) Kaj li diris: benata vi estu de Dio, mia
+filino! vi boniĝis vian lastan afablon pli ol la unua, per tio, ke
+vi ne iris al la junuloj ĉu malriĉa ĉu riĉa. (11) Kaj nun ne
+timu, mia filino, ĉion, kion vi diros, mi por vi faros, ĉar la tuta
+pordego de mia popolo scios, ke vi estas heroa virino. (12) Kaj
+nun! kvankam mi vere estas parenco, tamen ekzistas parenco
+pli proksima ol mi. (13) Pasigu la nokton, kaj matene, se li vin
+elaĉetos, estas bone, li elaĉetu, kaj se li ne volos vin elaĉeti,
+mi vin elaĉetos, kiel vivas Dio! kuŝu ĝis la mateno. (14) Kaj ŝi
+kuŝis apud lia piedujo ĝis la mateno, kaj ŝi sin levis antaŭ la
+tempo, kiam homo povas ekkoni la duan—ĉar li diris: ne estu sciate,
+ke virino venis la amasejon. (15) Kaj li diris: donu la tukon, kiu
+estas sur vi kaj tenu ĝin, kaj ŝi ĝin tenis kaj li mezuris ses
+(_mezurilojn da_) hordeo, kaj metis sur ŝin, kaj venis la
+urbon. (16) Kaj ŝi venis al sia bopatrino, kiu diris; kiu vi estas?
+ĉu mia filino? kaj ŝi raportis al ŝi ĉion, kion la viro faris
+por ŝi. (17) Kaj ŝi diris: tiujn ĉi ses (_mezurilojn da_)
+hordeo li donis al mi, ĉar li diris al mi: «ne revenu al via
+bopatrino malplene». (18) Kaj (Naòmi) diris: sidu, filino, ĝis vi
+scios kiel la afero elfalos, ĉar la viro ne trankvilos, antaŭ ol
+li hodiaŭ finos la aferon.
+
+
+
+
+
+ĈAPITRO IV.
+
+
+(1) Kaj Boàz iris al la pordego (de l’urbo) kaj sidis tie, kaj jen
+la parenco, pri kiu Boàz diris, pasas, kaj (_Boàz vokante_) diris:
+Tiu kaj tiu! venu, sidiĝu tie ĉi! kaj li alvenis kaj sidiĝis. (2)
+Kaj (_Boàz_) prenis dek virojn el la maljunuloj de l’urbo kaj diris:
+sidiĝu tie ĉi; kaj ili sidiĝis. (3) Kaj li diris al la parenco: la
+parton de l’kampo, kiu apartenis al nia frato Elimeleĥ, vendas Naòmi,
+kiu revenis de moaba kampo. (4) Kaj mi diris: mi malkovros vian
+orelon (= _rakontos_), dirante: aĉetu en la apudtestado de la
+sidantoj kaj de la maljunularo de mia popolo. Se vi elaĉetos,
+elaĉetu! kaj se oni (= _vi_) ne elaĉetos, diru al mi, ke mi
+sciu, ĉar krom vi ekzistas, neniu por elaĉeti, kaj mi (_kandidatas_)
+post vi. Kaj tiu rediris: mi elaĉetos! (5) Kaj Boàz diris: en la
+tago, kiam vi aĉetos la kampon de l’mano de Naòmi, tiam vi aĉetas
+de Ruth la moabino, edzino de l’mortinto, (_la devon_) daŭrigi la
+nomon de l’mortinto sur lian heredaĵon. (6) Kaj diris la parenco: mi
+ne povas elaĉeti (_ŝin_) por mi, ĉar eble (_per tio_) mi malutilos
+al mia heredaĵo, elaĉetu vi mian aĉetaĵon, ĉar mi ne povas
+elaĉeti. [(7) En antikveco tiu ĉi moro ekzistis ĉe Israel: ĉe
+l’aĉetado kaj ŝanĝado, por konfirmi ĉiun aferon, demetis homo
+sian ŝuon (_ganton_) kaj ĝin donis al la dua, kaj tio ĉi estis
+la atesteco ĉe Israel.] (8) Kaj la parenco diris al Boàz: aĉetu
+por vi, kaj (_tiu_) demetis sian ŝuon. (9) Kaj diris Boàz al la
+maljunularo kaj tuta popolo: vi estu hodiaŭ atestantoj, ke mi
+aĉetis ĉion, kio apartenis al Elimeleĥ kaj kio apartenis al Kiljon
+kaj Maĥhlon de l’mano de Naòmi. (10) Kaj Ruthon la moabinon, edzinon
+de Maĥhlon mi ankaŭ aĉetis, por ke ŝi estu mia edzino, por
+daŭrigi la nomon de l’mortinto sur lian heredaĵon, kaj la nomo de
+l’mortinto ne fortranĉiĝu de liaj fratoj kaj de lia loka pordego,
+vi hodiaŭ estu atestantoj! (11) Kaj rediris la tuta popolo, kiu
+estis en la pordego, kaj la maljunuloj: ni estas atestantoj!
+Dio donu la edzinon, kiu venas vian domon, kiel Raĥhel kaj Lea, kiuj
+ambaŭ konstruis la domon Israel, akiru havon en Efrash, kaj havu
+bonan nomon en Beshleĥhem. (12) Kaj via domo estu, kiel la domo de
+Perec, kiun Thamar naskis de Jehuda, de l’semo, kiun Dio al vi donos
+de tiu ĉi junulino. (13) Kaj Boàz prenis Ruthon kaj ŝi fariĝis lia
+edzino, kaj li alvenis al ŝi, kaj Dio donis al ŝi gravedecon, kaj
+ŝi naskis filon. (14) Kaj la virinoj diris al Naòmi: laŭdo al Dio,
+ke li hodiaŭ ne malekzistigis por vi parencon, kaj lia nomo estu
+nomata (_kaj ekzistanta_) ĉe Israel. (15) Kaj li estos por vi
+agrabliganto de l’animo, kaj nutranto de via grizeco, ĉar lin naskis
+via bofilino, kiu vin amas kaj estas pli bona por vi, ol sep filoj.
+(16) Kaj Naòmi prenis la infanon kaj metis sur siajn genuojn kaj
+estis lia vartistino. (17) Kaj la najbarinoj donis al li nomon:
+[dirante: ĉe Naòmi naskiĝis filo, ili nomis lian nomon] Òbed
+(= _laboranto, utilanto_); li estis la patro de Jiŝaj patro de
+David. (18) Tiuj ĉi estas la naskigitoj de Perec; Perec naskigis
+Ĥhecron’on. (19) Ĥhecron naskigis Ram’on, Ram naskigis Àminadab’on,
+(20) Àminadab naskigis Naĥhŝon’on, Naĥhŝon naskigis Salma’on.
+(21) Salma naskigis Boàz’on, Boàz naskigis Òbed’on. (22) Òbed
+naskigis Jiŝaj’on, kaj Jiŝaj naskigis David’on.
+
+Fino.
+
+
+Notoj de tekstpreparanto.
+
+En la antaŭparolo, du vortoj ne estis legebla. Mi transskribis ilin
+kiel [neklaraĵo].
+
+Mi ŝanĝis ĉi-subajn detalojn en la teksto:
+
+Ĉapitro Verso  Originalteksto              Korektaĵo
+     I  19  Cu tio ĉi estas Naòmi?      Ĉu tio ĉi estas Naòmi?
+     I  22  la komenco dĉ rikoltado     la komenco de rikoltado
+    II  23  la servantinoj de Boaz      la servantinoj de Boàz
+   III  11  tuta pordeĝo de mia popolo  tuta pordego de mia popolo
+
+
+
+
+
+
+End of the Project Gutenberg EBook of La Libro Ruth, by Anonymous
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA LIBRO RUTH ***
+
+***** This file should be named 24057-0.txt or 24057-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/0/5/24057/
+
+Produced by Andrew Sly, David Starner and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by Österreichische Nationalbibliothek - Austrian National
+Library.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

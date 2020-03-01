@@ -1,0 +1,1899 @@
+﻿Project Gutenberg's Taglibro de Vilaĝ-pedelo, by Steen Steensen Blicher
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Taglibro de Vilaĝ-pedelo
+
+Author: Steen Steensen Blicher
+
+Translator: H. J. Bulthuis
+
+Release Date: October 5, 2007 [EBook #22901]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TAGLIBRO DE VILAGX-PEDELO ***
+
+
+
+
+Produced by Andrew Sly, David Starner and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+Taglibro
+
+de Vilaĝ-pedelo
+
+de
+
+St. St. Blicher.
+
+Tradukis
+
+H. J. Bulthuis, L. K.
+
+
+Rekomendita de Esperantista Literatura Asocio.
+
+[Bildo: Butin & Jung Emblemo]
+
+1922
+
+Butin & Jung, Godesberg, Germanlando.
+
+
+En tiu ĉi traduko mi skribis preskaŭ ĉie la nomojn kiel en
+la dana teksto. Ekzemple:
+
+  Føulum    aŭ  Föulum
+  Søren     aŭ  Sören
+  Cornelius aŭ  Kornelius
+  Thiele    aŭ  Tile
+  Samsø     aŭ  Samsö ktp.
+
+
+Nur nomojn, kiujn oni renkontas ofte en la literaturo, mi skribis
+Esperante; ekzemple: Siberujo, Danujo ktp. Nur la klarigojn de la
+_latinaj_ kaj _francaj_ frazoj mi notis kiel mi trovis ilin en la
+dana verketo. Tie, kie la verkinto ne aldonis klarigojn, mi ankaŭ
+ne donis ilin en ĉi tiu traduko. La traduko ne estas laŭvorta,
+sed iom libera kaj tute laŭ la reguloj de la Fundamento.
+
+_La tradukinto._
+
+
+
+Enkondukaj vortoj.
+
+Milton, la fama angla poeto, kies nomon ĉiu konas, bezonis preskaŭ
+kvarcent paĝojn por priskribi en sia "Perdita Paradizo" la falon de
+Adamo kaj Evo kaj ilian forpeladon el la paradizo. Tion li povus
+fari, kopiante la unuan ĉapitron de Genezo (_Voltaire_).
+
+Blicher, la dana verkisto, kies nomon konas preskaŭ neniu ekster
+Danujo kaj Norvegujo, verkis en la jaro 1824 romanon de granda
+morala kvalito kaj kun enhavo ne malpli granda ol tiu, trovata en la
+ĉie legata ĉefverko de Daniel de Foe, kaj bezonis nur 40-paĝan
+taglibron por efektivigi tiun mirindaĵon.
+
+Lia verko pro tio kaj antaŭ multaj aliaj verkoj indas aperi en
+internacia vestaĵo.
+
+Mi prenis sur min la taskon liveri ĝin kaj esperas, ke ĝi povu
+plaĉi al la legantaro de Esperantaj verkoj.
+
+_La tradukinto._
+
+
+
+Føulum[1], la 1-an de Januaro 1708.
+
+Dio donu al ni ĉiuj ĝojigan novjaron! Kaj gardu nian bonan sinjoron
+Søren! Li estingis la lumon hodiaŭ vespere, kaj patrino diras, ke
+li ne vivos ĝis la venonta novjaro.
+
+La vespero tamen estis agrablega, kiam sinjoro Søren deprenis sian
+ĉapon post la manĝado kaj diris, kiel li kutimis: "_Agamus
+gratias!_" Li fingre montris min anstataŭ Jens'on. Estis la unua
+fojo, ke mi legis mian latinan preĝon: pasis hodiaŭ unu jaro, ke
+Jens legis ĝin; sed mi larĝe malfermis la okulojn, ĉar tiam mi
+komprenis nenian vorton, kaj nun mi povas kompreni la duonon de
+Cornelius.
+
+Tio antaŭdiras al mi, ke mi fariĝos predikisto en Føulum, ho
+kiel multe miaj gepatroj ĝojus, se ili ĝisvivus tian tagon! Kaj se
+Jens, la filo de la predikisto, povus estiĝi episkopo en Viborg --
+kiel diras lia patro -- nu, kiu povas scii tion? Dio ordonas en ĉio;
+lia volo fariĝu! _Amen in nomine Jesu!_
+
+[Piednoto 1: En tiu ĉi traduko la nomoj estas skribitaj kiel en la
+_dana_ teksto. Elparolu ø kiel _eu_ en la franca vorto _feu_.]
+
+
+
+Føulum, la 3-an de Septembro 1708.
+
+Hieraŭ mi atingis per helpo de Dio mian dekkvinan jaron. Jens ne
+povas plu fari min klera en latinaĵo. Hejme mi estas pli diligenta
+ol li, mi legas, dum li iras kun Petro la ĉasisto sur la kamparo.
+Tiamaniere li ne povos estiĝi episkopo. La kompatinda sinjoro
+Sören! Li vidas tion klare, larmoj staras en liaj okuloj, kiam
+kelkfoje li diras al li: "_Mi fili! mi fili! otium est pulvinar
+diaboli!_"
+
+En novjaro ni komencos la grekan studadon, sinjoro Sören donis al mi
+la grekan testamenton. "Ĉu tio ne estas stranga skribaĵaĉo? Tio
+estas ankoraŭ kiel akrigilo por viaj okuloj," diris li amike al mi
+kaj pinĉis mian orelon, kion li ĉiam faras, kiam li estas ĝoja.
+Sed ha! Kiajn larĝajn okulojn li montros vidante, ke mi jam kapablas
+legi rapide en mia testamento.
+
+
+
+Føulum, die St. Martini 1708.
+
+Finiĝos malbone je Jens -- sinjoro Søren tiel koleris pri li,
+ke la tutan tagon li parolis al li dane; al mi li parolis latine. Unu
+fojon mi aŭdis, ke li diris kvazaŭ al si mem: "_Vellem hunc esse
+filium meum!_"[2] Estis mi, pri kiu li parolis. Kiel Jens kriplige
+legis en sia Cicero. Mi bone scias kial, ĉar antaŭhieraŭ, kiam lia
+patro estis ĉe edziĝofesto en Vinge, li estis kun Petro la ĉasisto
+en la arbaro de Lindum, kaj -- Dio protektu nin! -- sovaĝa virporko
+deŝiris lian pantalonon. Li mensogis al sia patrino kaj diris, ke
+virbovo de Thiele faris tion, sed ŝi donis al li fortan vangofrapon
+-- _habeat!_[3]
+
+[Piednoto 2: Mi dezirus, ke tiu ĉi estus mia filo.]
+
+[Piednoto 3: Li havu ĝin!]
+
+
+
+Føulum, Calendis Januar. 1709.
+
+_Proh dolor!_ Sinjoro Søren estas morta! _Vae me miserum!_ Kiam ni
+sidis ĉetable kristnask-vesperon, li flanken ŝovis sian kuleron kaj
+rigardis Jens'on longe kaj melankolie -- "_fregisti cor meum!_"[4]
+diris li ĝemante kaj eniris la dormoĉambron. Ho ve! li ne plu
+ellitiĝis. Depost tiu tempo mi vizitis lin ĉiutage, kaj li donis al
+mi multajn bonajn konsilojn kaj instruaĵojn; sed nun mi lin vidos
+neniam plu.
+
+Ĵaŭdon mi lin vidis lastfoje; neniam mi forgesos, kion li diris
+farante al mi kvazaŭ paroladon kortuŝantan: "Dio donu al mia filo
+honestan koron!" Li interplektis siajn malgrasajn manojn kaj, dum lia
+kapo refalis sur la kusenon, li flustris: "_Pater! In manus tuas
+committo spiritum meum!_"
+
+Tio estis liaj lastaj vortoj. Kiam mi vidis, ke la sinjorino levis la
+antaŭtukon al la okuloj, mi kuris eksteren tute malĝoja. Eksterdome
+staris Jens ploranta. "_Seras dat poenas turpi poenitentia_,"[5]
+pensis mi; sed li falis sur mian kolon kaj ploregis. Dio pardonu al
+li lian petolemecon! Tio malĝojigis min plej multe.
+
+[Piednoto 4: Vi rompis mian koron.]
+
+[Piednoto 5: Lia pento venas tro malfrue.]
+
+
+
+Føulum, Pridie Iduum Januarii MDCCIX.
+
+Hieraŭ mia kara patro iris al Viborg por serĉi domon, kie mi povos
+tagmanĝi, kiam mi iros lernejon. Kiom mi sopiris al tiu tempo! Mi
+legas la tutan tagon, sed la tagoj estas nun tiel mallongaj, kaj
+patrino diras, ke ne valoras legadi ĉe lamplumo. Mi ne povas fini
+ĉi tiun leteron al Tuticanus -- ho, estis tute alie, kiam vivis la
+bona sinjoro Sören! _Eheu! Mortuus est!_
+
+Ĉi tiu vintro estas terura! Ĉielo kaj tero kvazaŭ unuiĝis;
+neĝamaso sterniĝas de nia tegmento ĝis la garbejo. Estintan nokton
+Jens pafis du leporojn en nia brasikĝardeno -- li baldaŭ forgesis
+pri sia patro. Sed se la ĉasisto Petro ekscios tion, li ekkoleregos.
+
+
+
+Føulum, Idibus Januarii MDCCIX.
+
+Patro ankoraŭ ne rehejmiĝis, kaj la vetero estas ankoraŭ tre
+malbona -- se li nur ne perdas la vojon. Jen Jens laŭiras la
+garbejon kun pafilo kaj kelkaj birdoj en la mano -- li eniras. -- Tio
+estas perdrikoj, kiujn li pafis sur la tegmento de Mads Madsens. Li
+deziras, ke patrino rostu ilin, sed ŝi ne kuraĝas tion fari, antaŭ
+ol venos mia patro.
+
+
+
+Føulum, XVIII Calend. Febru. 1709.
+
+Ho ve! Mia kara patro frostmortis! Viro de Kokholm lin trovis en la
+neĝamaso kaj veturigis lin hejmen -- -- mi tiom ploris, ke mi ne
+povas plu vidi per la okuloj. -- Patrino ankaŭ. -- Dio helpu nin
+ambaŭ!
+
+
+
+Føulum, la 18-an de Februaro 1709.
+
+Mi preskaŭ ne rekonis Jens'on. Li portis verdan frakon, kaj verda
+plumo staris sur lia ĉapelo. "Vidu," diris li, "nun mi estas
+ĉasisto! Kio vi estas? Bubo, kiu iras lernejon, latinisto!" --
+
+"Jes, Dio nin helpu!" mi respondis. "La latinaĵo preteriris! Mi
+povus estiĝi predikisto tie, kie vi estus episkopo! Mia patrino ne
+mortus pro malsato, se mi kantus antaŭ la pordoj de Viborg. Mi devas
+resti hejme kaj perlaboros panon por ŝi. -- Ve, Jens, se via patro
+vivus!"
+
+"Ni ne parolu pri tio!" li diris. "Neniam mi lernus latinaĵon -- la
+diablo ĝin prenu! Jen tiel, vi povos veni en la bienon! Tie estos
+bonaj tagoj kaj agrabla vivmaniero!" --
+
+"Kiel mi povus?" mi respondis. --
+
+"Ni klopodos pri tio!" ekkriis li kaj foriris. Tiu Jens tamen havas
+bonan koron, sed li estas senzorga kaj senpripensema. Antaŭ ses
+semajnoj oni enterigis lian patron, kaj tri semajnojn poste sekvis
+lia patrino. Ŝajnas, kvazaŭ Jens estas nun tute alia kiel antaŭe.
+Li povas plori ĉi tiun horon kaj ridi alian horon.
+
+
+
+Thiele[6], la 1-an de Majo 1709.
+
+Jen mi estas nun servisto ĉe lia sinjora moŝto; Adiaŭ pastra
+ofico! Adiaŭ, latino! Ho, miaj karaj libroj! _Valete plurimum!
+vendidi libertatem_[7] por dekdu taleroj. Ok el ili havos mia
+kompatinda patrino, kaj lia sinjora moŝto promesis al ŝi
+brulolignon, tiel ke ŝi ne malsatos nek sentos la malvarmon. Jens
+havigis al mi tiun oficon. Li havas multan influon en la bieno; li
+estas diabla Jens, kiun amas ĉiuj virinoj. La mastrumistino multfoje
+donis al li grandan pecon da kuko; la edzino de la bienestro ridis
+tiel amike al li, same la knabinoj -- eĉ unu el la bienaj fraŭlinoj
+kapklinis milde, kiam ŝi lin preteriris. Pro ĉio ĉi li estiĝis
+ĉasisto en la loko de Petro. Plej bedaŭrinde estas, ke li kutimas
+kolere blasfemi pli multe ol iu ajn maristo.
+
+[Piednoto 6: Elparolu: Tile.]
+
+[Piednoto 7: Adiaŭ, mi vendis mian liberecon.]
+
+
+
+Thiele, la 12-an de Majo 1709.
+
+Mi sanas bonege, Dio estu glorata! Ni estas ses servistoj por la
+sinjoro, la sinjorino, la junkro kaj la du fraŭlinoj. Mi havas
+sufiĉan tempon por legi, kaj mi ne malzorgas miajn karajn librojn.
+Ili ne utilas al mi, sed mi ne povas ne okupi min pri ili. Hieraŭ
+estis vendataj la libroj de la mortinta sinjoro Søren, mi
+aĉetis por du taleroj kaj ekhavis tiel multajn, ke mi preskaŭ ne
+povis porti ilin. Inter ili estas multaj de Ovidius; unu havas la
+titolon: "_ars amoris_", alia: "_remedium amoris_"; ilin mi legos
+unue, ĉar mi volas ekscii, pri kio ili temas. Unu fojon mi foliumis
+ilin en la studejo de sinjoro Søren, sed li tuj ekprenis ilin de mi,
+dirante: "_Abstine manus!_ Forigu la fingrojn de tiuj paperaĵoj!
+Tio ne taŭgas por vi."
+
+
+
+Thiele, la 3-an de Junio 1709.
+
+Kiu do komprenas francon! La sinjoro parolas nur france, kiam li
+manĝas, kaj mi komprenas ne unu vorton. Hodiaŭ ili parolis pri mi,
+ĉar multfoje ili min rigardis. Unu fojon mi preskaŭ lasis fali
+teleron; mi staris post la seĝo de fraŭlino Sofia, ŝi turnis sin
+kaj rigardis min rekte en la vizaĝon -- ŝi estas belega fraŭlino,
+tiu fraŭlino Sofia! Mi tre ĝojas vidante ŝin.
+
+
+
+Thiele, la 13-an de Septembro 1709.
+
+Hieraŭ estis tie ĉi malkvieta tago. Multaj venis de Viskum, kaj
+okazis granda ĉasado. Mi ĉeestis kaj ricevis pafilon de lia sinjora
+moŝto. En la komenco ĉio iris bone, sed subite preteriris lupo. Pro
+ektimo mi preskaŭ lasis fali la pafilon kaj tute forgesis pafi. Jens
+staris ĉe mia flanko, kaj li pafis la lupon. "Vi estas stultulo!" li
+diris, "sed mi ne vin perfidos!" Tuj poste preteriris la sinjoro. "Vi
+estas simplulo, Martino!" li ekkriis. "Vi ricevis subaĉetmonon."
+
+"Mi plej humile petas pardonon," mi respondis, "mi estas tute
+senkulpa, sendube kalumniantoj parolis malbonon pri mi al via moŝto.
+Per la helpo de Dio mi servos vin honeste kaj fidele!"
+
+Tiam li vidis plej indulge kaj diris: "Vi estas granda simplulo!"
+
+Sed kun tio ne finiĝis la okazintaĵo.
+
+Kiam la gesinjoroj sidis ĉetable, ili ankoraŭfoje parolis pri la
+lupo kaj demandis al mi: kiom multe ĝi donis al mi? kaj cetere. Mi
+ne sciis, kion ili celis; sed tion mi povas kompreni, ke ili mokis
+min france kaj dane. Kaj fraŭlino Sofia partoprenis, ŝi ekridis al
+mi rekte en la okulojn -- tio doloris min plej multe. Sed mi povus
+lerni tiun tra-la-naz-parolatan lingvon. Ĝi ja ne estus pli
+malfacila ol latino.
+
+
+
+Thiele, la 2-an de Oktobro 1709.
+
+Ĝi ne estas malebla -- tion mi jam vidis. Franco estas nenio krom
+kripligita latino. Inter la multaj libroj, kiujn mi aĉetis,
+troviĝas Metamorfozo en la franca lingvo -- tio estas feliĉa okazo!
+La latinan mi jam komprenas. Sed unu afero estas stranga; se mi
+aŭdas ilin interparoli france tie supre, tiam ŝajnas al mi, kvazaŭ
+nenia franca vorto sin trovas en ilia interparolado -- ne estas pri
+Ovidius, ke ili diskutas. Fine mi ankaŭ min dediĉas al la pafado.
+La sinjoro deziras, ke mi ĉeestu la ĉasadon, sed neniam mi povas
+lin kontentigi, jen li min insultas, jen li ridas pri mi -- kelkafoje
+li faras ambaŭ kune: mi portas malbone la pafilon, mi ŝarĝas
+malbone, mi celas malbone, kaj malbone mi pafas. "Jens devas instrui
+vin. Rigardu al Jens!" diris la sinjoro. "Tio estas ĉasisto! Vi iras
+kun la pafilo, kvazaŭ ĝi estus rastilo, kiun vi portas sur la
+ŝultro, kaj kiam vi celas, ŝajnas, kvazaŭ vi falus surdorsen."
+
+Fraŭlino Sofia ankaŭ min mokridas, -- tamen tio plibeligas ŝian
+vizaĝon, ĉar ŝi havas belajn dentojn.
+
+
+
+Thiele, la 7-an de Novembro 1709.
+
+Hieraŭ mi pafis vulpon! La sinjoro nomis min bona knabo kaj donacis
+al mi inkrustitan pulvujon. La instruado de Jens portis bonajn
+fruktojn. La pafado estas tamen agrabla. -- La studado en la franca
+lingvo prosperas pli bone, mi eklernas la elparoladon. Antaŭ nelonge
+mi aŭskultis ĉe la pordo, kiam mademoiselle legis kun la fraŭlino.
+Kiam ili finis kaj iris for, mi enŝteliĝis por vidi, kiun libron
+ili uzis. Diable! Kiel mi miris! Ĝi estis la sama, kiun mi mem
+posedas kaj kiu nomiĝas: _L'école du monde_. Nun mi staras
+ĉiutage ekster la pordo kun la libro en la mano kaj aŭskultas -- --
+tio funkcias bone. La franca lingvo estas pli bela ol mi supozis;
+ĝi sonas mirinde, kiam fraŭlino Sofia ĝin parolas.
+
+
+
+Thiele, la 13-an de Decembro 1709.
+
+Hieraŭ Dio savis mian sinjoron pere de mia malforta mano. Ni havis
+grandan peladon en la arbaro de Lindum. Venante ĉe la griza marĉo,
+subite virporko aperis, kiu rekte alkuris al la sinjoro. Li pafis
+kaj trafis ĝin, sed malgraŭ tio la besto lin atakis. La sinjoro ne
+timis, li eltiris sian tranĉilegon kaj volis enpuŝi ĝin en la
+bruston de la virporko, sed malsukcesis. Kion fari? -- Ĉio okazis en
+unu momento tiel, ke neniu povis veni por helpi. Ĝuste kiam mi volas
+iri tien, ni vidas nian sinjoron sur la dorso de la virporko, kaj jen
+ili forrapidis. "Pafu!" li ekkriis al la rajdistestro -- kiu estis
+lia dekstra flankulo -- sed li ne kuraĝis. "Pafu en liajn korpon kaj
+krurojn!" ekkrias li al Jens, dum li preteriras lin; la pafilo de
+Jens ne funkcias. Nun la virporko sin turnas kaj preterkuras min.
+"Pafu Martino! se ne, mi rajdos kun la virporko rekte al la infero!"
+li ekkrias.
+
+En la nomo de Dio! pensis mi, celante al la postaĵo de la besto, kaj
+mi trafis ĝin tiel feliĉe, ke mi frakasis ambaŭ ĝiajn koksojn. Mi
+ĝojis, ĉiuj ĝojis, sed plej multe ĝojis nia sinjoro.
+
+"Tio estis majstra pafo," diris li, "gardu la pafilon, kiun vi
+manuzis tiel lerte! Kaj aŭdu!" li diris al la rajdistestro, "vi
+azenido! Stampu la plej dikan fagon en la arbaro por lia maljuna
+patrino! Jens povas iri hejmen kaj meti pli bonan ŝtonon sur sian
+pafilon!" Kiam ni rehejmiĝis tiun vesperon, ĉiu informiĝis kaj
+rakontis pri la okazintaĵo. La sinjoro frapis mian ŝultron, kaj
+fraŭlino Sofia ridetis tiel amike al mi, ke mia koro kvazaŭ saltis
+en mian gorĝon.
+
+
+
+Thiele, la 11-an de Januaro 1710.
+
+Estas agrabla vetero! La suno leviĝas tiel ruĝa kiel brulanta
+karbo. Estas stranga vidaĵo, kiam ĝi tiel brilas tra la blankaj
+arboj, kaj ĉiuj arboj aspektas kvazaŭ pudritaj, kaj la branĉoj
+ĉirkaŭe pendas teren. La maljuna "Grand Richard" estas ruinigita,
+kelkaj el ĝiaj branĉoj jam rompiĝis. Ĝuste tian saman veteron ni
+havis antaŭ ok tagoj, kiam mi glitveturis al Fussingö kaj kiam mi
+staris post fraŭlino Sofia. Ŝi volis mem konduki la ĉevalojn,
+sed post kvarono da horo ŝiaj fingretoj ekfrostiĝis.
+
+"_J'ai froid_", ŝi diris al si mem.
+
+"Ĉu mi kondukos, fraŭlino?" mi diris.
+
+"_Comment!_" ŝi diris, "ĉu vi komprenas france?"
+
+"_Un peu, mademoiselle!_" mi respondis.
+
+Tiam ŝi turnis sin kaj rigardis min fikse en la okulojn. Mi prenis
+kondukilon en ĉiu mano kaj tenis ambaŭ brakojn ĉirkaŭ ŝi. Mi
+etendis ilin kiel eble plej multe por ne proksimiĝi al ŝi tro
+multe; sed ĉiufoje kiam la glitveturilo skuiĝis kaj mi ŝin tuŝis,
+estis, kvazaŭ mi tuŝis varman fornon. Ŝajnis al mi, kvazaŭ mi
+flugus kun ŝi tra la aero, kaj antaŭ ol mi tion sciis, ni estis en
+Fussingö. Se ŝi ne estus ekkriinta: "_Tenez Martin! Arrêtez-vous!_"
+mi estus veturinta rekte al Randers aŭ ĝis la fino de la mondo. Ĉu
+ŝi refoje glitveturilos hodiaŭ? Sed jen venas Jens kun la pafilo de
+la sinjoro, kiun li purigis -- sekve ni ĉasos.
+
+
+
+Thiele, la 13-an de Februaro 1710.
+
+Mi ne sentas min bonstata. Estas kvazaŭ peza ŝtono kuŝus sur mia
+brusto. Mi preskaŭ ne manĝas, kaj nokte mi ne povas dormi. Estintan
+nokton mi havis strangan sonĝon: mi imagis, ke mi staras sur la
+posta parto de l' glitveturilo de fraŭlino Sofia; sed subite mi
+sidis en la glitveturilo kaj ŝi sur miaj genuoj. Mi tenis mian
+dekstran brakon ĉirkaŭ ŝia talio, kaj ŝi tenis la maldekstran
+ĉirkaŭ mia kolo. Ŝi sin kurbis kaj kisis min; sed en la sama tempo
+mi vekiĝis. Ve! Mi tiel volonte daŭrigus tiun sonĝon! -- Tio estas
+stranga libro, kiun ŝi pruntedonis al mi; mi amuzas min per ĝi
+ĉiuvespere -- kiu do povus estiĝi tiel feliĉa kiel tiu tartara
+princo! -- Ju pli mi legas la francan lingvon, des pli multe mi
+ŝatas ĝin; mi preskaŭ forgesas mian latinaĵon pro tio.
+
+
+
+Thiele, la 23-an de Marto 1710.
+
+Hieraŭ, kiam ni revenis de la skolopĉasado, la sinjoro diris al mi:
+"Kaj mi konstatis, ke vi komprenas france?" "Malmulte, sinjoro," mi
+respondis. "Sekve vi ne plu povas servadi ĉetable; ni ja ne povos
+malfermi la buŝon pro vi." "Ve!" mi ekkriis, "ĉu via sinjora moŝto
+do ne volas min eksigi?"
+
+"_Point du tout_," li respondis. "De nun vi povos esti mia _valet de
+chambre_! kaj kiam junkro Kresten vojaĝos Parizon, vi lin akompanos
+-- kion vi opinias pri tio?"
+
+Mi estis tiel kortuŝata, ke mi ne povis diri unu vorton, sed kisis
+lian manon. Kvankam mi nun tre ĝojas, ŝajnas tamen al mi, ke mi
+nevolonte volas forlasi ĉi tiun lokon, kaj mi vere kredas, ke mia
+sano depost tiu tempo estiĝis pli malbona.
+
+
+
+Thiele, la 1-an de Majo 1710.
+
+Ho ve, mi malfeliĉulo! Nun mi scias, kio al mi mankas; Ovidius al mi
+ĝin diris, tre precize li priskribis al mi mian malsanon. Se mi ne
+eraras, ĝi nomiĝas _Amor_, t. e. amo, kaj tiu, en kiun mi enamiĝis,
+estas sendube fraŭlino Sofia.
+
+Ho, mi kompatinda malsaĝulo! Kiel tio finiĝos? Mi devas ekzameni
+liajn _remedia amoris_!
+
+-- Ĵus mi ŝin vidis staranta kaj parolanta en la koridoro kun Jens;
+tio tratranĉis mian koron. Ŝajnas al mi, ke mi devus dispafi lian
+kranion, sed jen ŝi pretersaltetis min kun rideto; -- mi sentis,
+kvazaŭ mi estus ĉasanta kaj kvazaŭ ĉasotaĵo venis sub la
+trafpovo de mia pafilo, mia koro frapis al miaj ripoj, kaj nur kun
+peno mi povis spiri, kaj miaj okuloj estis kvazaŭ kunekreskintaj kun
+la ĉasotaĵo -- _ah, malheureux que je suis!_
+
+
+
+Thiele, la 17-an de Junio 1710.
+
+Kiel dezerta ŝajnas al mi la bieno kaj enuiga. La gesinjoroj estas
+for kaj revenos post ok tagoj. Kiel mi pasigos ilin? Mi havas
+plezuron por nenio. Mia pafilo pendas polvokovrita kaj rustita, kaj
+mi ne ĝin purigas. Mi ne povas kompreni, kiel Jens kaj la aliaj
+povas esti tiel ĝojaj kaj gajaj; ili parolas kaj ridas tiel, ke ĝi
+kaŭzas eĥon en la flanka konstruaĵo -- mi ĝemas kiel botaŭro.
+Ho, fraŭlino Sofia! Ke vi estu farmista knabino aŭ mi princo!
+
+
+
+Thiele, la 28-an de Junio 1710.
+
+Nun la bieno staras antaŭ miaj okuloj, kvazaŭ ĝi ĵus estus
+kalkpentrita kaj ornamita. La arboj en la ĝardeno ricevis delikatan
+koloron, kaj ĉiuj homoj aspektas tiel mildaj. -- Fraŭlino Sofia
+rehejmiĝis, ŝi eniris tra la pordego kiel la suno tra nubo; tamen
+mi tremetas kiel poplofolio. Estas bone kaj samtempe malbone esti
+enamiĝinta.
+
+
+
+Thiele, la 4-an de Oktobro 1710.
+
+Ni havis belegan ĉasadon hodiaŭ! La arbaro de Hvidding enhavis pli
+ol tricent pelistojn, ĉar ili venis de Viskum kaj Fussingø kun
+ĉiuj siaj ĉashundoj. Ĉe tagiĝo ni estis jam tie venintaj de
+Thiele. Estis tute kviete en la aero, kaj dika nubo kovris la tutan
+ĉirkaŭaĵon: oni vidis nur la pintojn de Bavu-altaĵoj super ĝi.
+Tre malproksime ni povis aŭdi la bruantajn paŝojn de la pelistoj
+kaj kelkan bojadon de hundoj.
+
+"Nun ili venas de Viskum," diris la sinjoro, "mi povas aŭdi la
+ĉasistojn."
+
+"Jen ili ankaŭ venas de Fussingø," diris Jens, "tio estas
+Perdriks, kiu bojas."
+
+Ni povis vidi ankoraŭ nenion pro la nubo, sed ni aŭdis la bruadon
+de veturiloj, la spiradon de la ĉevaloj, kaj la paroladon kaj
+ridadon de la pafistoj. Jen la suno aperis kaj la nubo foriĝis iom
+post iom. Estiĝis plena de movado ĉiuflanke. La arbaradministranto
+jam komencis ordigi la pelantojn, oni aŭdis ilin flustri al tiuj,
+kiuj volis paroli laŭte, kaj kelkfoje ekmoviĝis la bruiloj. De
+okcidento kaj sudo ĉasistoj venis veturantaj kaj post ili sekvis
+veturiloj kun hundoj, kies vostoj pendis trans la plankoj de la
+veturiloj, kaj de tempo al tempo altiĝis hundkapo, kiu ekhavis
+vangfrapon de la ĉasist-knaboj. Nu, la sinjoro mem deĉevaliĝis kaj
+irinte laŭlonge de la longa valo, li haltis en la mezo de la arbaro.
+Tie li fajfis, kaj subite la kornludisto ludis gajan melodion. La
+hundoj estis malkunigitaj, kaj baldaŭ ili bojis, unu post la alia
+kaj fine ĉiuj kune. Leporoj, vulpoj kaj cervoj aperis kaj malaperis
+sur la arbarkovrita monteto. De tempo al tempo pafo sonis, kaj ĝia
+eĥo aŭdiĝis ĝis en la valo. La pelantojn mi ne povis vidi, sed
+mi aŭdis iliajn vokadojn kaj ekkriojn, kiam cervo aŭ leporo volis
+preterkuri ilian vicon. Mi pafis du vulpojn kaj unu kapron antaŭ la
+matenmanĝo. Dum la matenmanĝo la hundoj estis kunligitaj kaj la
+kornoludisto ludis, kaj poste ni refoje ĉasis. Vidu: jen ĉe la fino
+de la valo ekhaltis du veturiloj kun ĉiuj sinjoroj kaj fraŭlinoj
+kaj inter ili fraŭlino Sofia. Tio savis la vivon al vulpo, ĉar kiam
+mi ekvidis la fraŭlinon, la vulpo preteriris min. Du horojn antaŭ
+la vespero la arbaro estis senigita de ĉasotaĵo kaj la ĉasado
+finiĝis. Ni ĉiuj ricevis tridek el la pafitaj ĉasaĵoj, kaj junkro
+Kresten, kiu estis pafinta la plej multajn vulpojn, estis honorata
+per muzikaĵo de la kornoludisto.
+
+
+
+Thiele, la 17-an de Decembro 1710.
+
+Hieraŭ mi sekvis mian karan patrinon al ŝia ripozejo. La nova
+predikisto -- Dio rekompencu lin pro tio! -- honoris ŝin per funebra
+predikaĵo, kiu daŭris sep kvaronojn da horo. Ŝi estis al mi bona
+kaj kara patrino -- Dio donu al ŝi feliĉan reviviĝon! †††
+
+
+
+Thiele, la 23-an de Januaro 1711.
+
+Malagrabla vintro! Nenia glitveturado! Mi sopiris ĝin de post la
+sankta Martinotago, sed vane! Pluvado kaj ventego, suda vento kaj
+malĝojiga vetero. Pasintan jaron en tiu ĉi tempo ni veturis al
+Fussingø; ho kiam mi pensas pri tiu vespero! La luno lumis tiel
+blanke kiel arĝenta telero sur la blua ĉielo kaj ĵetis nigrajn
+ombrojn sur la vojoflankon en la blankan neĝon. Mi klinis min tiel,
+ke mia ombro kunfandiĝis kun tiu de fraŭlino Sofia, tiam ŝajnis al
+mi, kvazaŭ ni estas unu. Malvarma vento blovis renkonte al ni, kaj
+ĝi reblovis ŝian dolĉan elspiron -- mi ĝin enspiris kiel vinon --
+ho ve, mi malsaĝulo! mi enamiĝinta malsaĝulo! je kio utilos al mi
+ĉiuj tiuj pripensadoj? Dimanĉon mi vojaĝos al Kopenhago kun junkro
+Kresten, kaj ni restos tie la tutan someron. Mi pensas, ke mi mortos,
+antaŭ ol venos la monato Majo. -- _Ah, mademoiselle Sophie! adieu!
+un éternel adieu!_
+
+
+
+Sur la maro inter Samsø kaj Sälland, la 3-an de Februaro 1711.
+
+La suno subiras post la kara Jylland; ĝia rebrilaĵo sterniĝas
+malproksimen sur la kvieta maro kiel senfina vojo el fajro. Mi
+imagas, ke ĝi min salutas de mia hejmo -- ve, tio estas tre
+malproksima, kaj mi pli kaj pli malproksimiĝas.
+
+Kion do oni nun faras en Thiele? Io tintetas en mia dekstra orelo, --
+-- ĉu tio estas fraŭlino Sofia, kiu nun parolas pri mi? Ho ne! mi
+estas ja nur malriĉa servisto, kiel do ŝi povus pensi pri mi, same
+kiel pri la maristo, kiu iras tien kaj returnen sur la ferdeko kun
+krucigitaj brakoj? -- li rigardas tiel ofte norden -- kio do estas
+tie por rigardi? "Svedo!" li diras; "Dio helpu kaj savu nin!"
+
+
+
+Kallundborg, la 4-an de Februaro 1711.
+
+Nun mi scias, kio estas milito -- mi ĉeestis batalon kaj -- glorata
+estu la Sinjoro de Zeboat! -- ni venkis. Estis svedaj kaperistoj,
+kiel diris la ŝipestro. Matene, tuj kiam tagiĝis, ni vidis ilin je
+distanco de duona mejlo; oni estis dirinta, ke ili nin persekutis.
+
+"Ĉu estas inter la pasaĝeroj kelkaj, kiuj havas la kuraĝon batali
+kontraŭ la svedaj gastoj?" diris la ŝipestro.
+
+"Mi havas bonan pafilon," respondis junkro Kresten, "kaj mia servisto
+havas ankaŭ unu; ĉu ni foje klopodos la ĉasadon, Morten?"
+
+"Kiel ordonas la junkro!" mi diris, kurante kajuton, kie mi ŝarĝis
+niajn pafilojn; tiam mi portis ilin kun pulvo kaj kugloj sur la
+ferdekon. Du jutlandaj soldatoj venis el la ŝipkelo, ĉiu havis sian
+muskedon kaj la ŝipestro hispanan pafilon, tiel longan kiel li mem;
+la direktisto kaj la maristoj alportis hakilojn kaj hokstangojn.
+
+"Ĉu ni ne povas velforkuri de ili, mia kara kapitano?" mi demandis.
+
+"Ne, pro la diablo," li respondis. "Vi ja vidas, ke ili velatingas
+nin tiom, kiom ili povas; vi aŭdos baldaŭ iliajn kanonojn; sed se
+vi timas, vi povos iri hejmen kaj kuŝiĝi antaŭ la komodo de via
+patrino."
+
+Subite strio da fumo rulis de la sveda ŝipo, kaj tuj poste ni aŭdis
+teruran bruadon kaj krakadon super niaj kapoj. Baldaŭ nova ekpafo
+aŭdiĝis kaj refoje unu, kaj la lasta kuglo forŝiris spliton de nia
+masto. Mi sentis min tre stranga, mia koro ekbatis, kaj ĉio krakis
+ĉirkaŭ mi. Sed la sveda ŝipo tiom alproksimiĝis al ni, ke la
+kugloj de niaj pafiloj povus atingi la kaperojn, kaj kiam mi pafis
+por la unua fojo, estis al mi, kvazaŭ mi partoprenis pelĉasadon. La
+svedoj alproksimiĝis pli kaj pli, kaj ni staris post la kajuto kaj
+pafis al ili je ĉiuj niaj fortoj. Multaj kaperistoj falis precipe
+per la kugloj de la junkro kaj de mi.
+
+"Se ni povas trafi skolopon, Morten, ni povas ankaŭ trafi svedon,
+kiam li staras senmove!" li diris.
+
+"Viglaj knabegoj!" ekkriis la kapitano. "Ĉu vi vidas la svedan
+kapitanon, kiu iras tien kaj reen kun tiu granda glavo? Pafu lin, kaj
+ni gajnos la ludadon!"
+
+Tiam mi lin celis kaj pafis, kaj kiam mi formetis la pafilon de mia
+vango, mi vidis lin rulfali kaj trafi per la nazo sur la ferdekon.
+"Hura!" ekkriis nia ŝipestro, kaj ni ĉiuj imitis lin; sed la
+kaperistoj deflankiĝis kaj veliris for. Kun la dana flago sur la
+masto ni veliris en la fjordon de Kallundborg kaj estis fieraj kaj
+ĝojaj, ĉar neniu el la niaj estis vundita, kvankam la kugloj flugis
+trans kaj tra nia ŝipo. La provizadministranto, sinjoro Hartman,
+estis la ununura, kiu vidis sian sangon kaj eĉ laŭ mirinda maniero.
+Li kuŝis en la lito de la ŝipestro kaj fumis pipon, kiam la batalo
+komenciĝis. Tuj poste mi supreniris al li por preni tolon por la
+kugloj.
+
+"Morten!" li diris: "_quid hoc sibi vult?_"[8] Sed antaŭ ol mi
+respondis, kuglo trairis la fenestron de la kajuto, ekprenis kun si
+la pipon -- kiu elstaris el la lito -- kaj la pipekstremaĵo faris
+truon en lia palato. Nun ni estas ekster danĝero kaj en la haveno.
+Kiel dolĉa estas la ripozo post tia batalo!
+
+[Piednoto 8: "Kion signifas tio?"]
+
+
+
+Kopenhago, la 2-an de Junio 1711.
+
+Mia kapo estas plenplena je ĉiuj strangaj aferoj, kiujn mi aŭdis
+kaj vidis. Mi ne povas ordigi miajn pensojn, ĉar unu forpelas la
+alian kiel nuboj dum ventego. Sed la plej stranga el ĉio estas, ke
+mi estas senigota de mia enamiĝo. Ju pli longe mi restas tie ĉi,
+des pli malmulte mi sopiras je fraŭlino Sofia, kaj mi preskaŭ povus
+kredi, ke estas ankaŭ belaj knabinoj en Kopenhago. Se mi verkus
+notaĵojn pri _Ovidii remedium amoris_, tiam mi rekomendus ekskurson
+al la ĉefurbo kiel unu el la plej belaj rimedoj kontraŭ tiu
+danĝera malsano.
+
+
+
+Ankrita apud Kronborg, la 1-an de Septembro 1711.
+
+Ho, indulgema ĉielo! Kiom mi travivis! Kiom da ĉagreno kaj
+mizeraĵo mi vidis proprokule! Dio nin punis pro niaj pekoj kaj
+ulcerfrapis sian popolon. Ili falis kiel muŝoj ĉirkaŭ mi, sed mi
+malindulo estis savata de la morto. Ve, mia kara junkro! Kion mi
+diros, kiam mi rehejmiĝos sen li? Sed mi ne lin forlasis, antaŭ ol
+li elspiris sian lastan elspiron; mi donus por li mian vivon, sed Dio
+ĝin indulgis -- glorata estu lia nomo! Dum mi pensas pri tiuj
+teruraj tagoj, mia koro rompiĝas.
+
+Kun timo kaj senparole ni sidis de l' mateno ĝis la vespero en nia
+izolita domo, rigardis unu la alian kaj ĝemadis. Nur malofte ni
+rigardis malsupren en la senhomajn stratojn, kie antaŭe ŝvarmadis
+multaj homoj; de tempo al tempo ia _triste figure_ ŝanceliĝis sur
+la pavimo kiel fantomo; sed post la fenestroj ni vidis sidadi la
+homojn kiel arestitojn; la plej multaj sidis senmove, kvazaŭ ili
+estus pentritaj portretoj. Kiam la rulado de la pestveturiloj
+aŭdiĝis, tuj ĉiuj forkuris de la fenestroj, por ne vidi la teruran
+vidaĵon. Mi vidis ĝin nur unu fojon; neniam mi tion forgesos. Jen
+veturis tiu nigra mortanĝelo kun la longaj veturiloj plenaj je
+mortintoj; ili kuŝis ĵetitaj unu sur la alian kiel bestoj. De
+malantaŭ la veturilo pendis la kapo kaj brakoj de juna virino; ŝiaj
+okuloj elstaris el la nigre-flava vizaĝo, kaj la longaj kapoharoj
+balais la straton.
+
+Tiam la junkro tremis por la unua fojo; li ŝancelis en sian dormejon
+kaj kuŝiĝis sur sian mortliton; sed mi ĝemis en mia koro: "Ili
+estos ĵetataj en la tombon kiel bestoj, la morto forkonsumis ilin;
+sed Dio savis mian animon de la tomba potenco, ĉar li akceptis min,
+Sela!"
+
+
+
+Thiele, la 29-an de Septembro 1711.
+
+Fine mi rehejmiĝis. Kiam mi eniris la pordegon, mia koro batis
+preskaŭ kiel en la tago, kiam ni ekbatalis kontraŭ la Svedo. Kaj
+kiam mi eniris en la ĉambron kaj vidis la gesinjorojn, vestitajn
+nigre, mi ekploris kiel infano, kaj ili ĉiuj ploris. Pro plorado mi
+preskaŭ ne povis paroli, kaj antaŭ ol mi finrakontis tiun teruran
+okazintaĵon, la sinjoro foriris kaj eniris en sian ĉambron -- Dio
+konsolu lin laŭ sia kompatemo, Amen!
+
+
+
+Thiele, la 8-an de Oktobro 1711.
+
+Hodiaŭ por la unua fojo post mia alveno ni iris ĉasadi. Ve! tio ne
+estis kiel en pasintaj tagoj, kaj ĝi donis nur malgrandan kontentecon.
+
+"Morten," diris la sinjoro multfoje al mi, "mankas al ni junkro
+Kresten." Kaj tiam li ĝemis tiom, ke ĝi tratranĉis al mi la koron.
+Ni revenis hejmen longe antaŭ la vespero kaj kun malgrasa leporo.
+
+
+
+Thiele, la 2-an de Novembro 1711.
+
+Ekreviviĝas en la bieno; ni atendas tre altrangajn fremdulojn: lian
+ekscelencan moŝton Guldenlöve kun sekvantaro. Li intencas resti
+kelkajn semajnojn, kaj li sin distros per ĉasado. Hieraŭ la sinjoro
+parolis multe pri tio ĉetable.
+
+"Li devenas de reĝa familio kaj estas perfekta kavaliro," diris la
+sinjorino, rigardante fraŭlinon Sofia'n.
+
+Ŝi ruĝiĝis, mallevis la okulojn teleren kaj ridetis, sed mia
+tuta korpo malvarmiĝis kiel glacio. Ve! ve! mi pensis, ke mi estu
+senigita je mia malsaĝa amo, sed mi sentas, ke la malsano revenis
+en terura maniero. Mi baraktas kiel perdriko en reto, sed tio tute
+ne helpas -- ho ke mi estu mil mejlojn for de tie ĉi!
+
+
+
+Thiele, la 14-an de Novembro 1711.
+
+Fine alvenis lia ekscelenca moŝto kun la plej granda pompo kaj
+beleco; du kurieroj kun altaj arĝent-ornamitaj ĉapeloj venas
+kuretante en la korton, centon da paŝoj antaŭ li. Ili stariĝas kun
+siaj longaj multkoloraj bastonoj ĉe ambaŭ flankoj de la granda
+pordo. La sinjorino sin movas kaj sin ŝovas de unu pordo al alia,
+neniam antaŭe mi ŝin vidis tiel facilmova. Fraŭlino Sofia staris
+en la salonego, rigardante jen en la spegulon jen el la fenestro. Ŝi
+tute ne min vidis, kiam mi trairis la salonegon.
+
+Fine li venis mem kun ses fieraj ĉevaloj antaŭ sia veturilo, li
+estas bela sinjoro! Li aspektis eminenta kaj indulga, tamen ŝajnis
+al mi, ke io malplaĉa estas videbla je li. Li ridetis tiel fidolĉe
+kaj palpebrumis, kvazaŭ li rigardis al la suno. Li sin klinis antaŭ
+ĉiu el la gesinjoroj, sed ŝajnis, kvazaŭ li sin klinis nur por
+restariĝi pli alte. Venante ĉe fraŭlino Sofia, la sango supreniris
+en lian palan vizaĝon, kaj li flustris longan francan komplimenton.
+
+Ĉetable li preskaŭ ne deturnis la okulojn de ŝi, eĉ kiam li
+parolis kun la aliaj. Dume ŝi lin ŝtelrigardis, sed mi bruligis
+mian manon je la telero tiel, ke ĝi estas hodiaŭ kovrita je
+veziketoj; ho, ke tio estu la sola loko, kiu min doloris!
+
+
+
+Thiele, la 20-an de Novembro 1711.
+
+Estas sendube: el tio fariĝos geedziĝo. Oni bezonas nur atenti la
+sinjorinon. Kiam ŝi rigardis la fraŭlinon, ŝi posten ĵetis la
+kapon kvazaŭ anaso, kiu havas plenan kropon, deturnas la okulojn
+kaj fermas ilin, kvazaŭ ŝi estus ekdormonta, kaj tiam ŝi diras:
+"_Un cavalier accompli, ma fille! n'est-ce pas vrai? et il vous aime,
+c'est trop clair!_"[9]
+
+Ho ve, jes, tio estas sufiĉe klara; kaj ŝi reciproke lin amas,
+ankaŭ tio estas klara. Ŝi estiĝu feliĉa.
+
+[Piednoto 9: Perfekta kavaliro, mia filino! Ĉu ne vere? Li vin
+amas, tio estas tute klara.]
+
+
+
+Thiele, la 4-an de Decembro 1711.
+
+Lia ekscelenca moŝto ankoraŭ ne multe amuziĝis per la ĉasado; du
+fojojn ni ĉasis, sed ĉiufoje tio jam enuigis lin duonvoje. Estas
+ĉasotaĵo hejme en la bieno, kiu altiras lin kiel magneto. Ve, ke mi
+estu restinta en Kopenhago!
+
+
+
+Thiele, la 8-an de Decembro 1711.
+
+Hodiaŭ la geedziĝo estas publike deklarita, kaj post ok tagoj
+okazos la edziĝa festo. Kie mi kaŝos min tiel longe? Mi ĝin ne
+eltenos; kiam li metas sian brakon ĉirkaŭ ŝia talio, estas,
+kvazaŭ iu trapikas mian koron per tranĉilo -- --
+
+Ho, kara ĉielo! Mi kredas, ke Jens kaj mi estas samsortuloj; kiam mi
+al li diris tion pri la geedziĝo, li tiel forte puŝis la pafilon
+teren, ke la pafiltenilo dispeciĝis, kaj tiam li kuris kun la stumpo
+en erikejon. Mi do ne estas la sola malsaĝulo en la mondo.
+
+
+
+Thiele, la 16-an de Decembro 1711.
+
+La variolo atakis fraŭlinon Sofian. Ve! Kiel mi tremas pro ŝia
+vivo! Ho, se mi povus morti anstataŭ ŝi, sed mi povas havi tiun
+malsanon nur unu fojon. Ŝia bela vizaĝo estas tute kovrata de
+ulceroj.
+
+
+
+Thiele, la 19-an de Decembro 1711.
+
+Ĉi tie estas granda malĝojo. Fraŭlino Maria mortis, kaj la sinjoro
+estas nekonsolebla; sed la sinjorino parolas nur pri ŝia enterigo
+kaj kiel tio okazos. Fraŭlino Sofia ja sekvos sian fratinon, ĉar
+ŝi estas tre malsana. Lia ekscelenca moŝto estas forvojaĝonta. --
+Feliĉan vojaĝon! --
+
+
+
+Thiele, la 13-an de Marto 1712.
+
+Refoje mi ellitiĝis post longdaŭra malsano. Mi kredis, ke ĝi estus
+la lasta, kaj kore petegis al mia Dio pri savo. Sed mi promenos
+ankoraŭ momenton en tiu ĉi ĉagrenejo -- tio estas lia volo -- kiu
+estu! Estas al mi, kvazaŭ mi forsavis min de la morto, kaj ŝajnas
+al mi, ke tiu tri-monata malsano daŭris tri jarojn. Hieraŭ mi ŝin
+revidis unuafoje de post mia enlitiĝo, kaj eĉ kun malkonsterno,
+preskaŭ mi kredus, ke la malsano forprenis kun si mian malsaĝan
+amon. Ŝi estis iom pala, kaj mi opiniis, ke ŝi ne aspektis tre
+ĝoje. Ho ve! Ŝi ne havas specialan kaŭzon por tio. Lia ekscelenca
+moŝto revenis la estintan semajnon, kiel mi aŭdis. Li sendube estas
+granda diboĉulo; antaŭ nelonge mi vidis tra fendaĵo de mia pordo,
+ke li kondutis tre maldece kun la servistino de la sinjorino. Ho, la
+kompatinda fraŭlino Sofia! Se mi estus lia ekscelenca moŝto, mi
+ŝin alpreĝus kiel anĝelon de la ĉielo.
+
+
+
+Thiele, la 1-an de Majo 1712.
+
+Lia ekscelenca moŝto forvojaĝis kaj lasis tie ĉi sian karulinon.
+Si jam enuigis lin, -- Dio pardonu min! -- mi kredas, ke li same
+enuigis ŝin. Ŝi sekve ne plu sopiras je li, ĉar ŝi estas tiel
+vivoplena kiel antaŭe, preskaŭ pli vivoplena; tamen de tempo al
+tempo iom fiera. Kelkfoje ŝi parolas al mi kvazaŭ al almozulo kaj
+kelkfoje kvazaŭ mi estus ŝia egalulo. Mi kompatindulo, mi preskaŭ
+kredas, ke ŝi min mokas --. Mi ne estiĝis ankoraŭ saĝa, ĉar ŝi
+povas fari min ĝoja aŭ malĝoja, tute laŭ sia plaĉo.
+
+
+
+Thiele, la 3-an de Junio 1712.
+
+Mian sanon mi neniam reakiros; la vigleco de mia juna aĝo tute
+foriĝis. Mi sentas min peza kaj laca en tuta mia estaĵo, kaj nenio
+povas min amuzi. Mi ne deziras ĉasi nek legi; mia pafilo kaj mia
+Ovidius estas ambaŭ polvokovritaj. La franca lingvo, kiun mi tiel
+amis antaŭe, komencas malplaĉi al mi, mi ne volas plu legi nek
+aŭdi ĝin -- ĝi estas trompa lingvo!
+
+
+
+Thiele, la 2-an de Julio 1712.
+
+Jens kaj mi interŝanĝis nian ĉambron. Li fine volis havi la mian,
+ĉar li ne kuraĝis kuŝi tute apud la enterigejo, la malsaĝulo!
+Tamen li mem iam kuŝos tie por ĉiam. La interŝanĝo tre plaĉas al
+mi, ĉar nun tra la fenestro mi povas vidi la tombojn de miaj karaj
+gepatroj -- ili estas bone protektataj -- Dio ĝojigu iliajn animojn
+en la ĉielo! Tie malproksime estas la tombo de sinjoro Søren;
+ĉiam kreskas sur ĝi ĉiaj kardoj -- mi devas ilin elŝiri!
+
+
+
+Thiele, la 13-an de Decembro 1712.
+
+La servistino de la sinjorino naskis fileton. Ŝi kulpigis
+puntovendiston -- sed en la tuta bieno ĉiu scias, kiu estas la
+kulpulo. La juna fraŭlino mem mokŝercis pri tio. Mi ne komprenas,
+kiel ŝi povis tion fari; sed ŝi estas senzorga kaj ridas pri ĉio
+-- mi ne havas tian karakteron.
+
+
+
+Thiele, la 27-an de Februaro 1713.
+
+Ĉu mi sonĝas aŭ ĉu mi maldormas? Ĉu mia prudento min trompis,
+aŭ ĉu vere ŝi estis mia? Jes, ŝi estis mia -- mi ŝin ĉirkaŭbrakis
+per miaj brakoj, ŝi ripozis sur mia brusto kaj kovris mian vizaĝon
+per kisoj -- per varmegaj kisoj -- nun mi volonte mortus, tiel
+feliĉa mi estos neniam plu. Sed ne! kiel tio okazis al mi? Ĉu mi
+revas? Kion mi faris? Ve, mi ne scias, kion mi skribas -- mi timas,
+ke mi freneziĝos.
+
+
+
+Thiele, la 5-an de Marto 1713.
+
+Mi memore revokas ĉi tiun dolĉan matenon! Mi bone pripensu, kiel
+feliĉega mi estis; estas nur nun, ke mi kvazaŭ elebriiĝas. -- La
+sinjoro revenis de ĉasado, kaj Jens estis restinta en la arbaro por
+eltiri la hundon, kiu estis falinta en truegon. Mi bone sciis, ke li
+ne revenos antaŭ tagiĝo, kaj tiel min ekkaptis la deziro kuŝi en
+mia antaŭa ĉambro. Mi ĵus ekdormis, kiam mi estis vekata per kiso.
+Terurite mi eksidis kaj estis vokonta; tiam subite mi sentis manon
+sur mia buŝo kaj brakon ĉirkaŭ mia nuko, kaj dolĉa voĉo flustris
+-- ho ĉielo! Tio estis la ŝia, mi ne kuraĝis eldiri ŝian nomon.
+Tiam -- tiam -- ho mi pekulo! mi hardita pekulo! mi perfidis mian
+sinjoron! kaj mi eĉ ne povas sincere kaj kore bedaŭri tion.
+Ĉiufoje kiam mi volas pentofari, mi estas malhelpata de kaŝita
+ĝojo, kiu mokas pri mia pento. Mi sentas tion: mi sopiras ripeti
+tiun malbonfaron, kiun mi devus malbeni.
+
+"Eterne la mia!" estis la unuaj vortoj, kiujn mi provis eldiri; sed
+tiam ŝi sin eltiris el miaj brakoj kun ekkrio, kaj -- mi estis sola.
+La pordo knaris, kaj mi eksidis en mia lito; mi dubas, ĉu ĉio tio
+estas fantomaĵo.
+
+Ho! kial ŝi forkuris? kial do ŝi eniris al mi nevokita, netentita?
+Ĉu ŝi min amis, kiel mi amis ŝin, silente, interne, brulante?
+
+
+
+Thiele, la 6-an de Marto 1713.
+
+Ho mondo! ho mondo! kiel trompa vi estas! Honesteco jam ne ekzistas,
+virto kaj honoro estas piedpremataj! Sed kial mi volas plendi? Ĉu mi
+estas pli bona ol ŝi? Ĉu mia peko estis pli malgranda, ĉar mi
+kredis, ke mia amo estas pli granda? Ho ve, mi akiris la rekompencon,
+kiun mi indas, ni estas egale malbonaj, unu perfidas la alian. Ho!
+vi trompa virino! vi falsa edzino de Potifaro! estis tial, kial vi
+eligis ekkrion kaj forkuris pro tio, ke vi aŭdis mian voĉon. Tio do
+estas malnova kutimo -- kiam vi serĉis mian liton -- ne, la liton de
+Jens! Malnova amo, malnova peko! dum mi vin adoris, dum mi konsideris
+vin kun respekto kiel sanktan anĝelon, tiam vi amintrigis kun mia
+kunservisto!
+
+-- -- Estis en la mezo de la nokto. Ebria pro dolĉaj rememoroj, mi
+iris en la ĝardenon. En malluma vojo mi vidis ion moviĝantan --
+ŝajnis al mi, ke tio estas ŝi. Rapide mi tien kuris -- estis ŝi!
+Jes, estis ŝi, sed kiel mi ŝin trovis? Sur la genuo de Jens, kun la
+brakoj ĉirkaŭ lia kolo -- ekterurite ĉiu forkuris sian vojon, kaj
+mi staris, kvazaŭ mi estis tuj falonta en abismon. La suno trovis
+min sur tiu sama loko, estis al mi malvarmege -- mi tremis kiel
+poplofolio. Ho, vi mizera trompa malvirtigita mondo!
+
+
+
+Thiele, la 9-an de Marto 1713.
+
+Mi ŝin vidis por la unua fojo post tiu pekoplena nokto. Subita
+ruĝiĝo trakuris ŝian vizaĝon, ŝi ĉirkaŭrigardis en la ĉambro
+por ne vidi min. Mi sentis, ke mi fariĝas malvarma kaj varma
+samtempe. En la momento, kiam ni estis solaj, ŝi preteriris min
+rapide kaj diris kun duone fermitaj okuloj: "_Silence!_" Samtempe ŝi
+premis mian manon, kaj jen ŝi estis ekster la ĉambro.
+
+
+
+Thiele, la 13-an de Aprilo 1713.
+
+Ĉiuj en la bieno scias ĉion: La sinjoro, la sinjorino, tuta la
+bieno tion scias, kaj estas _Mamsel Lapus_, kiu ĝin malkovris kaj
+publikigis. La juna fraŭlino volonte ŝin mokŝercis; sed tion ŝi
+bone enskribis en sian memoron. Neniu rimarkis, ke tiu ruza virino
+komprenas la danan lingvon, kaj tial oni kelkfoje ne singarde diris
+ion, pri kio ŝi eksciis la veron. Poste ŝi tiel longe spionadis,
+ke fine ŝi sukcesis vidi ilin kune en la lito.
+
+Ĉielo! kia skandalo estiĝis el tio! La sinjoro ĉirkaŭ-iradis kiel
+frenezulo kun sia pafilo por pafmortigi Jens'on, sed Jens estis
+jam malproksime sur sia ĉevalo. La juna fraŭlino sidis kiel
+malliberulino en la angulsalono, por ke la sinjoro ne faru al ŝi
+malbonon. Kara ĉielo! Kiel tio finiĝos? Mi tremas ĉiufoje, kiam mi
+aŭdas lian voĉon. Mia konscienco min kondamnas kaj faras min
+timemulo. Pento kaj timego tiel min atakis, ke amo kaj ĵaluzo estas
+tute pelitaj el mia brusto. Ho, ke mi estu kvindek mejlojn sub la
+tero!
+
+
+
+Thiele, la 14-an de Aprilo 1713.
+
+Jens estis tie ĉi. Li venis en la nokto en mian ĉambron por
+ekaŭdi, kiel ĉio okazas. Li estis kvazaŭ ebria homo, ploris kaj
+blasfemis samtempe. "Ne malkaŝu, ke mi estis tie ĉi," li diris,
+kiam li iris for, "alie vi estos morta homo!" Li sendube plenumos
+sian promeson; kaj mi estu singarda. Sed kion li do intencas?
+Li mem ne scias tion.
+
+
+
+Thiele, la 17-an de Aprilo 1713.
+
+La juna fraŭlino malaperis!
+
+Estintan nokton ŝi forkuris tra la fenestro. Jens sen dubo estis tie
+ĉi por forkonduki ŝin, ĉar iu renkontis meznokte du personojn sur
+unu ĉevalo, sed pro la mallumeco li ne povis vidi, ĉu ambaŭ
+estas viroj. Tio okazis sur la vojo al Viborg, kaj ni ĉiuj estis
+eksterdome la tutan tagon por serĉi. Ni revenis ne trovinte ilin.
+Mi sciiĝis, ke ili transiris la ponton de Skjerno, sed mi estas
+prudenta kaj ne venos tro proksime al ili.
+
+Ve, ve al la mondo, en kiu ni vivas! Ve al mia kompatinda sinjoro! Li
+certe mortos pro tio. Li kuŝas, kaj al neniu estas permesate viziti
+lin.
+
+
+
+Thiele, la 20-an de Aprilo 1713.
+
+Hodiaŭ la sinjoro venigis min al si. Ho, kara Dio! Kiel pala li
+estis, kiajn kaviĝintajn vangojn li havis! Mi preskaŭ povus diri,
+ke li jam ne vivas.
+
+"Morten!" li diris, kiam mi eniris. "Ĉu tio estas vi? Venu ĉi tien
+al mi!"
+
+Tuj kiam mi aŭdis lian voĉon, mi ekploris. Ĉar estis, kvazaŭ lia
+voĉo venis el barelo, kaj kiam li vokis tra la pordego: "Morten!
+Venu kun la hundoj!", tiam estis, kvazaŭ la bieno renversiĝus, kaj
+kokoj kaj anasoj ekflugis ĉirkaŭe kun timego. Sed tiam li parolis
+mallaŭte, tiel flustre, ke mia koro estis rompiĝonta.
+
+"Morten!" li diris, "ĉu vi ne vidis skolopojn?"
+
+"Ne, via moŝto!" mi respondis plorante. "Mi tute ne estis
+eksterdome."
+
+"Ho, vi ne estis?" li diris. "Mi ne plu pafos multajn!"
+
+"Ho jes!" mi respondis. "Dio povas refoje helpi vin!"
+
+"Ne, Morten!" li diris, "kun mi ĉio finiĝis. Se mi havus ankoraŭ
+Kresten!"
+
+Jen li retenis du larmojn, kiuj estis eniĝontaj liajn kavajn
+okulojn.
+
+"Kie estas Vaillant?" li demandis.
+
+"Ĝi kuŝas ĉe la kameno," mi respondis.
+
+"Voku ĝin!" li diris.
+
+La hundo venis kaj kuŝigis la kapon sur la liton. La sinjoro longe
+frapetis ĝin karese kaj rigardis ĝin melankolie.
+
+"Vi estis por mi fidela knabo," li diris. "Vi ne min forlasis. Kiam
+mi estos mortinta, vi pafmortigu kaj enterigu ĝin sub la granda
+frakseno ekster la enterigejo, sed pafu ĝin bone, kaj ne lasu ĝin
+diveni, kion vi intencas -- promesu tion al mi!"
+
+"Jes, via moŝto!" mi respondis.
+
+"Ĝi apartenos al neniu alia," li diris, refalante sur la kapkusenon.
+"Mian ĉasĉevalon kaj la pafilon kaj mian portepeon vi heredos; mian
+blankfruntan ĉevalon vi neniam forlasos; se ĝi estiĝos tiel aĝa,
+ke ĝi ne povos plu manĝi, tiam mortpafu ĝin."
+
+"Jes, kara sinjoro!" mi respondis; mi preskaŭ ne povis diri tion pro
+plorado.
+
+"Kaj jen," li diris, "kuŝas papera saketo sur la tablo, vi ĝin
+heredu pro viaj bonaj servoj. -- Nun iru, Morten! kaj preĝu al Dio
+por mia kulpa animo!"
+
+Mi kisis lian manon, kiun li etendis al mi, kaj ŝanceliris al mia
+ĉambro -- ho! Dio donu al li feliĉan morton! Li estis por mi tiel
+bona kaj favora sinjoro!
+
+
+
+Thiele, la 3-an de Majo 1713.
+
+Fine ankaŭ li mortis! Nun mi havas plu nenian amikon sur la tero. --
+Ĉi tie mi ne volas resti; mi volas foriri en la mondon por senigi
+min je miaj melankoliaj pensadoj --. Kompatinda Vaillant! Kiam mi
+ekprenis la pafilon, ĝi saltis ĉirkaŭe tiel ĝoja, ĝi ne sciis,
+ke mi kondukas ĝin al la morto --. Ne! tian ekpafon mi faros neniam
+plu dum mia vivo; kiam mi streĉis la ĉanon kaj ĝi tion aŭdis,
+svingis la voston kaj ĉirkaŭrigardis, ĝi atendis ĉasotaĵon kaj
+tute ne pensis, ke la kuglo estis destinata por ĝi mem; kiam la
+pulvo ekbrulis, kaj ĝi konvulsie kuŝis tere, estis, kvazaŭ mia
+koro estis saltonta el mia brusto. Ho, mia kara, mortinta sinjoro!
+Tio estis la lasta, la plej malfacila servo, kiun mi faris por vi.
+
+
+
+Surŝipe apud Thune, la 17-an de Majo 1713.
+
+Duan fojon -- eble lastan fojon -- mi adiaŭas vin, ho mia kara
+naskiĝlando! Adiaŭ, ho verda arbaro -- kaj bruna stepo! Adiaŭ ĉiu
+ĝojo de mia juna aĝo! Pli malpeza estis mia koro, kiam antaŭ du
+jaroj mi trafendis tiujn ĉi ondojn; tiam mi havis mian bonan
+sinjoron, nun li ripozas en sia tombo, same kiel mia junkro; kaj ŝi
+-- kiun mi volonte forgesus -- vagadas en la mondo, Dio scias kie kaj
+kiel. Mi do provos la ludadon de la sorto kaj manĝos mian panon
+inter fremduloj. Jes! la militon mi provos! Ĝi donos panon aŭ
+morton! La blankfrunta ĉevalo kaj mi iros kune, ĝi estas mia lasta
+amiko en la mondo.
+
+
+
+Svedujo, la 13-an de Junio 1716.
+
+Ĉi tie mi sidas kiel milit-kaptito en fremda lando. Ĝis nun mia
+glavo min helpis. Mia kolonelo kaj mi batalis kontraŭ malamikoj; sed
+ni estis du kontraŭ dek. Ho ve, mia kompatinda ĉevalo! Vi devis
+morti -- ho ke mi mortu ankaŭ!
+
+
+
+Stockholm, la 14-an de Junio 1716.
+
+Tio ne povas daŭri pli longe! Ili min trenis de unu fortikaĵo al
+alia; ili allogis kaj minacis min, por ke mi soldatiĝu, sed prefere
+mi pereos en subtera malliberejo ol batali kontraŭ mia propra reĝo
+kaj estro. Ankoraŭ pli volonte mi havus mian liberecon. Mi klopodos
+ĝin akiri aŭ trovi la morton!
+
+
+
+Nordkøping, la 3-an de Februaro 1718.
+
+Fine kaj spite al ĉio mi estiĝis sveda soldato! Kvankam mi kiel
+eble plej singarde min kaŝis kiel ĉasotaĵo en arbaro kaj meze de
+ŝtonegoj, tamen ili min trovis. Kion alian mi devus fari? Pli bone
+estas sub la bona ĉielo de Dio inter glavoj kaj kanonoj ol inter
+kvar muroj de malliberejo! Ili promesis al mi, ke neniam mi batalos
+kontraŭ miaj samlandanoj, sed nur kontraŭ Grandrusoj -- ili eble
+havas la veran kuglon kun la nomo de Morten Vinge sur ĝi.
+
+
+
+Siberujo, la 15-an de Majo 1721.
+
+Sinjoro mia Dio! Kiel strangaj estas viaj vojoj! Multajn milojn da
+mejloj de Danujo mi estas tie ĉi en duone sovaĝa kaj zorgoplena
+lando; mi iras trans frostitajn riverojn kaj vagas en la neĝo ĝis
+miaj genuoj; sed hejme la arbaro kaj la kamparo surmetis sian verdan
+somer-vestaĵon. Ekster mia malnova ĉambrofenestro staras la pomujo
+plena je floroj, la kanabeno kantas en la grosarbetaĵo, la sturno
+sidas sur la preĝejo kaj flutas sian ĝojan melodion, kaj la alaŭdo
+kantas alte en la nuboj. Tie ĉi blekas vulpoj kaj ursoj; akcipitroj
+kaj korvoj blekas en la nigraj arbaroj. Kie do finiĝos tiu ĉi
+dezerto? Ve! kie finiĝos mia mizera vivo?
+
+
+
+Riga, la 2-an de Septembro 1743.
+
+Ĉu mi unu fojon ĝisvivos la tagon, kiam mi revidos mian
+naskiĝlandon? Dum longaj zorgoplenaj jaroj, dum dudek-kvar vintroj
+mi ĉasadis zibelojn kaj mustelojn en la arbaroj de Siberujo! Kiel
+longe jam tedis min la vivo! Sed pacience mi volas atendi, ĝis kiam
+mia Dio kaj savinto min vokos. Eble li volas, ke miaj lacaj membroj
+ripozu en la tero de mia patrujo --. Ho, mi vidas suprentirita la
+danan flagon, la karan signon de la Kruco kaj de la Savinto! Mia
+animo, gloru la Sinjoron! Ĉio, kio estas en mi, gloru lian sanktan
+nomon.
+
+
+
+Falster, la 23-an de Oktobro 1743.
+
+Mi estas tute proksime de la morto aŭ tre malproksime de ĝi!
+En ventego kaj malbonega vetero mi alproksimiĝis al mia amata
+naskiĝlando. La ondegoj bategis nian ŝipon kaj minacis engluti nin!
+Sed la Sinjoro savis min, lia mano min subtenis --, li ne volas nun
+retiri ĝin de mi, kvankam malriĉa kaj duone nuda mi estas ironta
+inter fremduloj.
+
+
+
+Corselidse, la 2-an de Novembro 1743.
+
+Mi trovis rifuĝejon kontraŭ la ventego de la mondo; pia kaj nobla
+sinjoro, preninte min en sian servon, promesis zorgi pri mi ĝis mia
+morto.
+
+
+
+Corselidse, la 1-an de Majo 1744.
+
+Kiel belega lando estas ja ĉi tiu! Ĉio en plena florado! Verdaj
+arbaroj kaj verdaj herbejoj! Floroj ĉie! En Siberujo estas ankoraŭ
+vintro. Dio estu glorata pro tia interŝanĝo!
+
+Mia sinjoro multe min amas, ofte mi devas sidi multajn horojn kaj
+rakonti al li pri milito kaj pri ĉiuj landoj, kiujn mi travagadis.
+Kaj se li volonte aŭskultas, mi volonte rakontas; ĝojigas min,
+rememorigi al mi miajn multajn suferitajn malfeliĉojn.
+
+
+
+Corselidse, la 2-an de Julio 1744.
+
+Ho, kompatema Dio! tiu maldolĉa pokalo ne estis ankoraŭ
+malplenigita! Ĉu la iama vundo refoje devas esti ŝire malfermata!?
+Jes, ĉar tio plaĉis al vi! -- Mi ŝin revidis -- ŝin? ho ne! ne
+ŝin! falintan anĝelon mi vidis, figuron de la mallumo --; ofte mi
+deziris esti mortinta, sed nun -- mi malamas la vivon -- mi ne povas
+plu skribi -- --
+
+
+
+Corselidse, la 8-an de Aŭgusto 1744.
+
+Ne estas pro plezuro, ke mi reprenis la plumon; sed se iu ekvidos
+tiun ĉi taglibron post mia morto, tiam li vidos, kiel la peko punas
+la pekulon.
+
+Tiun malĝojigan tagon mi distris min per promenado en nia bela
+ĝardeno. Kiam mi preteriris malfermitan kradpordon, tie staris viro,
+kies vizaĝo ŝajnis al mi konata, tamen la densa nigregriza barbo
+kaj malgajega rigardo preskaŭ min timigis.
+
+"Ĉu vi estas ankaŭ tie ĉi?" diris li grimacante. La bastono
+defalis de mia mano, kaj ĉiuj miaj membroj ektremis -- tio estis
+Jens!
+
+"Kara mia Dio!" mi diris; "ĉu vin mi renkontas tie ĉi? Kie estas
+fraŭlino Sofia?"
+
+Li eligis laŭtan blasfemon: "La diablo prenis la fraŭlinon kaj eĉ
+la virinecon; sed ĉu vi volas vidi mian kore amatan edzinon, jen tie
+ŝi estas kaj sarkas. Sofi'!" li ekkriis, "jen estas iama konato!"
+
+Ŝi sin turnis duone -- ŝi estis surgenue tri paŝojn de mi --,
+rigardis min unu momenton kaj denove eksarkis. Mi ekvidis eĉ ne unu
+movon sur ŝia vizaĝo -- tiu vizaĝo! tiu iam tiel belega vizaĝo!
+kiel ĝi ŝanĝiĝis! Paleflava, kovrita je sulkoj; melankolia ĝi
+aspektis, kvazaŭ ĝi ridetis neniam. Larĝborda ĉapelo kun longaj
+ĉifonoj de nigra puntaĵo ĝin faris ankoraŭ pli malhela. Malpuraj
+vestaĵaĉoj, kiuj iam estis elegantaj kaj belegaj, pendis ĉirkaŭ
+ŝia dika, malgracia korpo. Mi sentis, ke mi tuj svenos. Min ekkaptis
+timo, abomeno, kvazaŭ mi subite vidis serpenton. Mi ne povis paroli,
+nek formovi min de tiu loko.
+
+Jens eligis min de tiu stato. Li ekkriis: "Nun ŝi ne estas plu tiel
+bela kiel en tiu nokto, kiam ŝi enŝteliĝis en vian liton!"
+
+Mi ektremis.
+
+"Orumaĵo eluziĝis," li diris plue, "sed la belan haŭton ŝi havas
+ankoraŭ, fiera kaj malica ŝi estas ankoraŭ, kaj la buŝon ŝi
+povas movadi. He! via sinjorina moŝto! Parolu iom kun ni!"
+
+Ŝi silentis kaj ŝajnigis, ke ŝi tion ne aŭdis, kvankam li parolis
+sufiĉe laŭte.
+
+"Nun ŝi ne volas," li diris, "sed post kiam ni rehejmiĝos, ŝia
+buŝo estos kvazaŭ moviĝanta klaketilo. Ĉu vi ne havas ion por mi
+pro memoro al nia iama amikeco, Morten?"
+
+Mi donis al li kelkan monon kaj foriris kvazaŭ en sonĝo en nian
+ĝardenon. Ĉe la ĝardenpordo staris mia sinjoro.
+
+"Ĉu vi konas tiujn homojn?" li demandis.
+
+"Ho ve, vi bona Dio!" mi respondis. "Jes, mi konis ilin antaŭ multaj
+jaroj."
+
+"Ili estas malbonaj homoj," li diris. "Ŝi estas malica kaj ekzilita,
+kaj li drinkas kiel porko. Ili loĝas de antaŭ kelkaj jaroj en domo
+ĉe la marbordo! Li fiŝkaptas kaj dum la labortagoj ŝi laboras en
+la ĝardeno. Ĉu ŝi devenas de honesta popolo?"
+
+Tiam miaj larmoj ekfluis kaj senpezigis mian premitan koron. Mi
+rakontis al li, kiuj ili estas, kaj lia teruro estis tiel granda
+kiel mia malĝojo.
+
+
+
+Corselidse, la 14-an de Septembro 1744.
+
+Mi dubas pri tio, ĉu mi daŭre restos en tiu ĉi loko. Mia loĝado
+tie ĉi tute ne plu plaĉas al mi, de kiam mi scias, ke mi estas en
+ŝia proksimeco, kaj ĉar mi ne ĉiam povas eviti ŝin. Mi ankoraŭ
+ne parolis kun ŝi, ĉar mi ŝin evitas kiel demonon. Jens serĉas
+min kun trudemo, kiu plaĉas nek al mi nek al mia sinjoro. Kiam mi
+flaras lian brandodoran spiradon, tiam estas al mi, kvazaŭ iu
+prezentas al mi venenon por trinki.
+
+Li rakontis al mi sian historion -- ho, kiel terura, kiel abomena ĝi
+estas! En Danujo, en Germanujo ili vagadis de unu urbo al alia -- li
+ludadis la kornon, kaj ŝi kantadis kaj ludadis sur la liuto; per tio
+ili perlaboris sian panon, kaj kiam tio ne sufiĉis plu, ŝi komencis
+metion, kiu disŝiras mian koron, kiam mi pensas pri tio. Fine ankaŭ
+tio devis fini, kaj ili estus pereontaj pro malhavo, se mia sinjoro
+ne estus kompatinta ilin. -- Dio pardonu! Mi povus deziri denove esti
+en Siberujo.
+
+
+
+Corselidse, la 1-an de Majo 1745.
+
+Dio benu mian noblan sinjoron! Li divenis mian deziron morti en mia
+naskiĝloko, kaj tial ekhavigis al mi bonan oficon ĉe nova sinjoro
+en Thiele. Mardon mi forvojaĝos per ŝipo de Stubbekjøbing. Dio
+eterne rekompencu lin pro tio!
+
+
+
+Surŝipe inter Sälland kaj Samsø, la 4-an de Junio 1745.
+
+"Ne timu tiun, kiu mortigas nur la korpon; sed timu tiun, kiu
+ruinigas samtempe korpon kaj animon!"
+
+Mi sentas la forton de tiuj vortoj de Dio.
+
+Kiam mi staris en mia juneco sur tiuj ĉi ondoj antaŭ la kugloj de
+la svedoj, tiam mi sentis min pli bona, ol kiam mi vidis la falintan
+anĝelon de mia juneco en la ĝardeno de Corselidse. Glavoj kaj
+kugloj, batoj kaj pikoj, vundo kaj morto estas nenio kompare kun la
+perdiĝo de la amo kaj kompare kun ruiniĝo de senkulpa animo. Se
+mi estus vidinta tiam disŝirita de sovaĝaj bestoj ŝian belegan
+korpon, tio ne povus tiel premi mian bruston kiel en la tempo, kiam
+mi ŝin revidis insultata, ruinigita, malestimata kaj perdita sen
+savo. Kiam ŝi kuŝis tie kaj sarkadis la teron, ŝajnis al mi,
+kvazaŭ ŝi enterigis mian lastan esperon, mian lastan restaĵon de
+kredo al honoro kaj virto.
+
+Sed mi diros, kiel ĉiam diris en Siberujo mia kunkaptito, la maljuna
+turko, meze de la plej grandaj mizeroj: "Dio estas granda!" Jes, kaj
+kompatema! Li povas kaj volas fari multe pli ol ni kompatindaj homoj
+komprenas.
+
+
+
+Thiele, la 4-an de Julio 1745.
+
+Fine mia ŝipo eniris mian lastan havenon! Dum pli ol tridek jaroj mi
+vagadis ĉirkaŭe sur la sovaĝa haveno de la mondo por fini tie, kie
+mi komencis. Kion mi faris en tiuj jaroj? Kion mi gajnis? Tombon --
+ripozejon ĉe miaj praavoj. Tio estas nenio kaj tamen ne tiel
+malmulte; mi havas amikojn, konatojn sur kaj sub la tero. Tie staras
+ankoraŭ la pomarbo ekster mia fenestro, ĝi estiĝis pli aĝa, sed
+forteco estas en ĝia trunko, uraganoj kurbigis ĝian kapon, kaj
+sur ĝiaj branĉoj kreskas musko kiel grizaj haroj sur la kapo de
+maljunulo. Ĉe la preĝeja muro mi vidas la grandan fraksenon, sub
+kies blanka radiko mi enterigis la kompatindan Vaillant. Tiamaniere
+mi rekonas multajn arbojn, multajn erike-kovritajn altaĵojn kaj eĉ
+la senvivajn ŝtonojn starantajn neŝanĝe dum miljaroj, kaj kiuj
+vidas generacion post generacio kreski kaj velki. La generacio, kiun
+mi konis, ankaŭ malaperis. Nova sinjoro, novaj servistoj -- mi estas
+fremdulo, alilandulo inter ili ĉiuj.
+
+
+
+Thiele, la 2-an de Septembro 1749.
+
+Hodiaŭ forpasis kvindek-ses jaroj, de kiam mi vidis la lumon de la
+mondo! Sinjoro Dio! kie estas tiuj jaroj? tiuj multaj miloj da tagoj?
+Kie estas la ĝojoj de mia juneco? Ili estas ĉe miaj tiamaj amikoj.
+-- Estis en ĉi tiu sezono; ni vere ĝuis la plezurojn de la ĉasado.
+Kiel ĝoje tio okazis, kiam ni eliris en la matenon! La ĉasistoj
+ekkriis, kaj la hundoj bojis, kaj la ĉevaloj piedfrapetadis tiel
+senpacience kiel ni mem. Ni serĉis jen perdrikojn sur la erikejo,
+jen la cervojn en la arbaro --, kun ludado kaj kantado ni iris
+hejmen. Nun ĉio estas tie ĉi silenta kiel en monaĥejo, la sinjoro
+tute ne sin okupas pri ĉasado. Silenteme kaj sole la ĉasisto
+eliras, kaj senparole li revenas: Tiu generacio estas malĝoja kiel
+mi mem.
+
+
+
+Thiele, la 12-an de Januaro 1751.
+
+Estas trankvila belega vintronokto! Ĉio, kion mi vidas, estas blua
+kaj blanka. La luno forpelis antaŭ si la stelojn, ĉar ĝi volas
+lumi sola. Tiel bele ĝi lumis ankaŭ foje -- antaŭ multaj jaroj,
+kiam mi kondukis la veturilon de fraŭlino Sofia. Mia juna amo lumis
+tiel hele kaj ĝoje kiel la luno, kaj ŝia estis ankaŭ pura kaj
+nemakulita kiel la ĵus falinta neĝo. Nun mia amo estas malluma kiel
+la erikejo, kiam vintre la neĝo forfandiĝis, kaj ŝia -- se ŝi
+vivas ankoraŭ -- certe estas simila je valo de Siberujo post
+superakviĝo, plena je mallumaj serpentformaj riveretoj plenŝutitaj
+de altaĵetoj kaj renversitaj arboj.
+
+"Jes, Sinjoro! Sinjoro! Se vi trafas iun per granda puno pro malbonaj
+faroj, tiam vi faras tion, por ke lia mizera korpo forfandiĝu kiel
+tineo; certege! Ĉiuj homoj estas vantaĵo!"
+
+
+
+Føulum, la 12-an de Majo 1753.
+
+Dimanĉon por la unua fojo mi funkciis kiel dekano de Thiele kaj
+Vinge. La favora sinjoro venigis min tien ĉi, kiam li estis
+mortonta. Nun mi loĝas en la domo de mia patro; sed mi loĝas
+tutsola. Ĉiuj amikoj de mia juneco jam delonge mortis; nur mi
+postrestis kiel senfolia arbo sur la erikejo, sed post mallonga tempo
+mi ripozos ĉe ili kaj estos la lasta de mia generacio. Ĉi tiuj
+paĝoj estos miaj postsignoj.
+
+Se iu -- kiam mi estos mortinta kaj for -- legos ilin, tiam li ĝemos
+dirante:
+
+  "Kiel la herbo estas nia vivo,
+  Kiel la flor' staranta sur la kampo
+  En plena belegeco, sed sen forto. --
+  Ĉar kiam vento blovas trans la floron,
+  Rompiĝas la trunket', perdiĝas belegaĵo,
+  Kaj oni eĉ ne scias, kie ĝi iam staris. --
+Sed la kompatemo de Dio estas de eterneco ĝis eterneco."
+
+
+
+
+
+Maksimoj kaj Pensoj.
+
+De Markizo de Maricá.
+
+
+La aŭtoro, Markizo de Maricá (Mariká) estas la plej fama
+brazila moralisto.
+
+  *  *  *  *  *
+
+La bonfarado estas ĉiam feliĉiga kaj ĝustatempa, se la prudento
+ĝin direktas kaj rekomendas.
+
+  *  *  *  *  *
+
+La malŝparemulo povas esti bedaŭrata, sed la avarulo estas preskaŭ
+ĉiam malŝatata.
+
+  *  *  *  *  *
+
+La intereso klarigas la plej malfacilajn kaj malsimplajn fenomenojn
+de la socia vivo.
+
+  *  *  *  *  *
+
+La sensaĝa agemo estas pli ruiniga ol la mallaboremo.
+
+  *  *  *  *  *
+
+Malriĉeco kaj mallaboremo loĝas kune.
+
+  *  *  *  *  *
+
+La fantazio estas la paradizo de l' feliĉuloj kaj la infero de l'
+malfeliĉuloj.
+
+  *  *  *  *  *
+
+Oni povas kunigi ĉiujn virtojn, sed ne kunamasigi ĉiujn malvirtojn.
+
+  *  *  *  *  *
+
+Neniu registaro estas bona por la malbonaj homoj.
+
+  *  *  *  *  *
+
+La avarulo estas la plej lojala kaj fidela gardanto de la havaĵo de
+siaj heredontoj.
+
+  *  *  *  *  *
+
+La sincereco estas multfoje laŭdata, sed neniam enviata.
+
+  *  *  *  *  *
+
+La timo kaj la entuziasmo infektas.
+
+  *  *  *  *  *
+
+Kiu al Dio fidas kaj esperas, tiu neniam malesperas.
+
+  *  *  *  *  *
+
+La ĝentileco instruas: maski por ne ofendi.
+
+  *  *  *  *  *
+
+La homa vivo sen religio estas vojaĝo sen direktilo.
+
+  *  *  *  *  *
+
+Kiu pli multe timas Dion, tiu malpli multe timas la homojn.
+
+  *  *  *  *  *
+
+La modesteco orumas la talentojn, la vanteco ilin senbriligas.
+
+  *  *  *  *  *
+
+Se la popolo ne kredas al la honesteco, la malmoraleco estas ĝenerala.
+
+  *  *  *  *  *
+
+Kiel la spaco enhavas ĉiujn korpojn, tiel la ambicio enhavas ĉiujn
+pasiojn.
+
+  *  *  *  *  *
+
+La homoj plej multe respektataj ne ĉiuokaze estas la plej multe
+respektindaj.
+
+  *  *  *  *  *
+
+El la portugala lingvo tradukis _A. Couto Fernandes_.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Taglibro de Vilaĝ-pedelo, by 
+Steen Steensen Blicher
+
+*** END OF THIS PROJECT GUTENBERG EBOOK TAGLIBRO DE VILAGX-PEDELO ***
+
+***** This file should be named 22901-0.txt or 22901-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/2/9/0/22901/
+
+Produced by Andrew Sly, David Starner and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

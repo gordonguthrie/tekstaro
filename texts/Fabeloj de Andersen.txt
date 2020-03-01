@@ -1,0 +1,1636 @@
+﻿Project Gutenberg's Fabeloj de Andersen, by Hans Christian Andersen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Fabeloj de Andersen
+
+Author: Hans Christian Andersen
+
+Translator: F. Skeel-Giörling
+
+Release Date: January 28, 2009 [EBook #27915]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK FABELOJ DE ANDERSEN ***
+
+
+
+
+Produced by Andrew Sly and the Online Distributed
+Proofreading Team at http://www.pgdp.net Thanks to the
+Toronto Esperanto Circle for providing the original book.
+
+
+
+
+
+
+  La Libroj de la
+  Esperanta Biblioteko Internacia
+  estas riceveblaj en:
+
+Berlin de Esperanto Verlag Möller & Borel, Lindenstrasse 18/19.
+
+Paris de Hachette & Co., 79 Boulevard St. Germain.
+
+London de British Esperanto Association, Museum Station Buildings
+133-6, High Holborn kaj Review of Reviews, Mowbray House,
+Norfolk street.
+
+New York de Fleming H. Revell Comp, 158 Fifth Avenue.
+
+Kjöbenhavn de Andr.-Fred Höst & Sön, Bregade 35.
+
+Barcelona de Jaume Sales Balmes, Serra 13 pral.
+
+Budapest de Lajos Kókai, Károly-Utca 1.
+
+Livorno de R. Giusti, 53 Via Vittorio Emmanuele.
+
+Warszawa de M. Arct, 53 Nowy Swiat.
+
+Bucuresti de Libraria noua Carol P. Segal, Calea Victoriei 78.
+
+  *  *  *  *  *
+
+Ĉiu libreto de la _Esperanta Biblioteko Internacia_ kostas
+_unu spescenton_ (0,10 Sm)=25 centimoj, 20 pfenigoj, 2½ pencoj,
+5 cendoj, 24 heleroj, 10 kopekoj, 10 oeroj.
+
+
+
+
+ESPERANTA BIBLIOTEKO INTERNACIA
+
+  Tradukis
+  F. Skeel-Giörling.
+
+  No. 2.
+  Prezo 0,10 Sm.
+
+
+
+Fabeloj de Andersen
+
+I.
+
+
+BERLIN.
+
+Esperanto Verlag Möller & Borel
+
+  kaj korespondantoj en
+  Paris, London, New-York, Kjöbenhavn, Warszawa, Barcelona,
+  Budapest, Livorno, Bucuresti.
+
+
+
+Al siaj du amataj Filetoj
+
+Preben Skeel-Giörling
+
+kaj
+
+Erik Skeel-Giörling
+
+sincere dediĉas ĉi-tiun tradukaĵon
+
+  La Verkinto.
+
+
+
+
+Hans Christian Andersen.
+
+
+Nia dana verkisto, el kies mondkonataj fabeloj ni havas la plezuron
+prezenti kelke da elektitaj tradukaĵoj en Esperanto, naskiĝis en
+la jaro 1805 en Odense (Danlando) kiel filo de malriĉa ŝuisto.
+Liaj infanaj kaj junulaj jaroj ne estis feliĉaj; la grandaj
+suferadoj kaj seniluziiĝoj, kiujn li travivis dum ĉi-tiu tempo,
+profunde impresis al lia kortuŝante pia, sentema animo kaj poste
+stampis lian tutan produktadon. Dank' al la kunhelpo de kelkaj
+eminentaj viroj li povis fari klasikajn studojn en Kopenhago, kaj
+ankaŭ entrepreni longajn vojaĝojn en la eksterlandon, precipe
+Italujon.
+
+El la plumo de H. C. Andersen troviĝas multe da belaj lirikaj poemoj
+kaj diversaj romanoj, sed plej alte lia talento kaj fantazio atingis
+en la "Fabeloj", kiuj estas tradukitaj en preskaŭ ĉiuj naciaj
+lingvoj. Pri la origino de l' fabeloj — jen seriozaj, jen satiraj
+kaj gajaj — li mem diras: "Mi kaptas ian ideon, kiu povas interesi
+la plenkreskulojn, kaj mi rakontas ĝin por la infanoj, tamen
+memorante ĉiam, ke la gepatroj ofte aŭskultas mian rakontadon,
+kaj al ili mi ja devas doni ion por pripensado."
+
+H. C. Andersen mortis en Kopenhago en 1875, amata de sia
+samtempanaro kaj honorata de siaj admirantoj el la tuta mondo. Sian
+aŭtobiografion li lasis en la romano "Fabelo de mia vivo" (1855). Je
+la 70ª datreveno de lia naskiĝo estas eldonitaj tradukaĵoj en dek
+kvin lingvoj de lia bela fabelo "Rakonto pri patrino", kaj en la jaro
+1905, okaze de la 100-jara festo aranĝita je memoro pri la naskiĝo
+de l' granda poeto, la urbestraro de Odense fondis specialan
+Muzeon kie oni kolektis ĉion — librojn, verkojn, bildojn,
+tradukaĵojn, meblaron k. c. — kio havis signifon por la vivo de
+H. C. Andersen.
+
+Kopenhago, Marto 1909.
+
+  Fr. Skeel-Giörling.
+
+
+
+
+La brava stansoldato.
+
+
+Estis iam dudek kvin stansoldatoj, ili ĉiuj estis fratoj, ĉar ili
+devenis de malnova stankulero. La pafilon ili tenis per la brako, la
+vizaĝo rigardis rekte antaŭen; ruĝa kaj blua, vere bela estis la
+uniformo. La unua parolo, kiun ili aŭdis en ĉi-tiu mondo, kiam
+estis forprenita la kovrilo de l' skatoleto kie ili kuŝis, estis la
+vorto: Stansoldatoj! ĝin kriis knabeto kaj kunfrapis la manojn; li
+donace ricevis la soldatojn, ĉar estis lia naskiĝotago, kaj nun li
+starigis ilin sur la tablo. Ĉiuj soldatoj tute egale aspektis; nur
+unu iomete diferencis de l' aliaj; li havis unu solan piedon, ĉar li
+estis fandita laste, kaj tiam ne restis sufiĉe da stano; tamen li
+staris tiel firme sur unu piedo kiel la aliaj sur du, kaj estas
+precipe li, kiu fariĝis fama.
+
+Sur la tablo, kie ili staris, troviĝis multe da diversaj ludiloj,
+sed la plej rimarkinda estis bela palaco el papero. Tra la
+fenestretoj oni povis rigardi en la salonojn. Ekstere kreskis arbetoj
+ĉirkaŭ speguleto, kiu reprezentis lagon; cignoj el vakso naĝis
+sur ĝi kaj sin spegulis. Ĉio estis ĉarma, sed la plej ĉarma
+tamen estis fraŭlineto, kiu staris en la malfermita pordo de
+l' palaco; ankaŭ ŝi estis farita el papero, sed ŝi havis belan
+jupeton el la plej hela stamino kaj bluan rubandeton kiel mantelon
+ĉirkaŭ la ŝultroj; meze de l' mantelo estis alkudrita brilanta
+ora perlo, kiu estis tiel granda kiel ŝia vizaĝo. La fraŭlineto
+etendis siajn brakojn supren, ĉar ŝi estis dancistino, kaj unu
+piedon ŝi tiel alten levis, ke la stansoldato ne povis ĝin trovi
+kaj kredis, ke ŝi havas nur unu piedon kiel li.
+
+"Certe, ŝi estus vera edzino por mi!" pensis la stansoldato, "sed
+ŝi estas tre nobla, ŝi loĝas en palaco, mi havas nur skatoleton,
+kaj en ĝi ni estas jam dudek kvin, ne estas deca loko por ŝi!
+tamen, mi deziras konatiĝi kun ŝi!" kaj jen li sin kuŝigis, tute
+longa kiel li estis, post flartabakujo, kiu staris sur la tablo; de
+tie li povis bone rigardi la noblan fraŭlineton, kiu senĉese
+staradis sur unu piedo sen malekvilibriĝi.
+
+Kiam fariĝis vespero, oni metis la ceterajn stansoldatojn en la
+skatoleton, kaj la loĝantoj de l' domo kuŝiĝis por dormi. Tuj la
+ludiloj komencis ludi, ricevi gastojn, fari militon kaj aranĝi
+balon; la stansoldatoj kraketis en la skatoleto, ĉar ili volis
+ludi kun la aliaj, sed ili ne povis forpreni la kovrilon. La
+nuksrompilo faris renversojn, kaj la grifelo petoladis sur la
+tabulo; estis tiom da bruego, ke la kanario vekiĝis kaj komencis
+interbabili, kaj tion ĝi faris eĉ verse. La solaj du kiuj tute ne
+moviĝis el sia loko, estis la stansoldato kaj la dancistino; ŝi
+staris tiel rekte sur la piedpintoj, kun ambaŭ brakoj etenditaj,
+kaj li restis egale firma sur unu piedo; eĉ unu momenton li ne
+ĉesis ŝin rigardi.
+
+Nun, el la horloĝo sonoris la dek-dua, kaj klask! jen malfermiĝis
+la kovrilo de la flartabakujo, sed ne estis flartabako en ĝi, tute
+ne, sed nigra koboldo; ĉi-tio estis amuzaĵo.
+
+"Stansoldato!" diris la koboldo; "gardu viajn okulojn, ne uzu ilin
+tiom!" Sed la stansoldato ŝajnigis, kvazaŭ li nenion aŭdus.
+
+"Nu, atendu nur ĝis morgaŭ!" diris la koboldo.
+
+Kiam fariĝis mateno kaj la infanoj leviĝis el lito, la stansoldato
+estis metita sur la fenestrobreton, kaj ĉu estis la koboldo aŭ
+trablovo, oni tion ne scias, sed subite la fenestro malfermiĝis kaj
+la soldato renverse elfalis de la tria etaĝo. Estis terura rapideco,
+li tenis la piedon rekte supren kaj staris sur la ĉapo kun la
+bajoneto inter la pavimŝtonoj.
+
+La servistino kaj la knabeto tuj venis por serĉi lin; sed kvankam
+ili preskaŭ marŝis sur li, ili tamen ne rimarkis lin. Se la
+stansoldato estus kriinta: jen mi estas! ili certe lin estus
+trovintaj, sed ne ŝajnis al li dece tiel laŭte krii, ĉar li portas
+uniformon.
+
+Baldaŭ komencis pluvi, la gutoj falis pli kaj pli dense, kvazaŭ
+rivere; kiam finiĝis la pluvego, alvenis du stratbuboj.
+
+"Rigardu!" diris unu, "jen kuŝas stansoldato! Li devas ŝipveturi!"
+Kaj el malnova gazeto ili faris ŝipeton, starigis en ĝi la
+stansoldaton, kaj jen li navigis tra la pluvakvo de l' defluejo; la
+du knaboj flanke kuris kaj kunfrapis la manojn! Granda Dio! kiaj
+ondoj en tiu defluejo! kaj kia fluo! certe, sed ja pluvegas! La
+paperŝipeto forte balanciĝis, kaj kelkafoje ĝi tute kliniĝis,
+tiel ke la stansoldato estis skuegita, sed li restis firma, ne
+ŝanĝis la mienon, rigardis rekte antaŭen kaj tenis la pafilon per
+la brako.
+
+Subite la ŝipeto ennaĝis sub longan piedbreton de ia defluejo, kie
+fariĝis tiel mallume kvazaŭ li estus en sia skatoleto.
+
+"Kien do nun mi alvenas?" li pensis; "certe, ĉi-tio estas la kulpo
+de l' koboldo! Ho, se nur la fraŭlineto estus ĉi-tie en la ŝipeto,
+tiam sen malagrablaĵo povus esti trifoje pli mallume!"
+
+En la sama momento venis granda rato, kiu loĝis sub la breto.
+
+"Ĉu vi havas pasporton?" demandis la rato, "montru la pasporton!"
+
+Sed la stansoldato restis silenta kaj tenis pli firme la pafilon. La
+ŝipeto rapidege forrapidis kaj post ĝi kuregis la rato. Hu! kiel
+ĝi grincigis la dentojn, kaj ĝi kriis al bastonetoj kaj pajlo:
+
+"Haltigu lin! Haltigu lin! Li ne pagis dogan-imposton! Li ne montris
+pasporton!"
+
+Sed la fluo fariĝis pli kaj pli forta, la stansoldato jam povis vidi
+la helan lumon antaŭe, kie finiĝis la breto, sed li ankaŭ aŭdis
+sonon de muĝado kiu tre bone povus timigi bravulon; imagu nur: kie
+finiĝis la breto, la pluvakvo elverŝiĝis en grandan kanalon, tio
+estis al li same danĝera, kiel estus al ni veturi tra granda
+akvofalo.
+
+Li nun jam tiel alproksimiĝis, ke li ne povis haltiĝi. La ŝipeto
+elsaltis, la stansoldato sin tenis tiel rigida kiel li povis; neniu
+povus diri pri li, ke li eĉ palpebrumas. Tri aŭ kvarfoje la ŝipeto
+renversiĝis kaj ĝi estis plena je akvo ĝis la rando; ĝi nepre
+devis subakviĝi; jam l' akvo atingis la kolon de l' soldato, pli
+kaj pli profunde la ŝipeto subiĝis, kaj la papero sin disvolvis.
+Nun la akvo leviĝis ĝis super la kapo de l' soldato; tiam li pensis
+pri la ĉarma dancistino, kiun neniam plu li revidos, kaj en la
+oreloj de l' stansoldato sonoris la verseto:
+
+  For, for, soldato!
+  For al la morto!
+
+Nun la papero disŝiriĝis, kaj la stansoldato trafalis, — sed tuj
+granda fiŝo lin englutis.
+
+Ho! kia mallumo interne! Estis multe pli malbone ol sub la breto de
+l' defluejo, kaj tiel malvaste! sed la stansoldato restis firma, kaj
+li kuŝis tie kun la pafilo en la brako. —
+
+La fiŝo ĉirkaŭe naĝis, movante sin plej terure; fine ĝi fariĝis
+tute senmova, ekbrilo kvazaŭ fulmo ĝin trakuris, jen brilis tute
+hele kaj iu laŭte kriis: "Stansoldato!" La fiŝo estis kaptita,
+sendita al la vendejo, vendita kaj portita al kuirejo, kie la
+servistino ĝin distranĉis per granda tranĉilo. Per du fingroj ŝi
+prenis la soldaton ĉirkaŭ la korpo kaj portis lin en la ĉambron,
+kie ĉiuj volis vidi tian mirindan personon, kiu vojaĝis en la
+stomako de fiŝo; sed la stansoldato estis tute ne fiera. Ili
+starigis lin sur la tablo, kaj tie — vidu, kiel mirindaj aferoj
+povas okazi en la mondo — la soldato troviĝis en la sama ĉambro,
+kie li antaŭe estis, li vidis la samajn infanojn, kaj la ludiloj
+staris sur la tablo, la bela palaco kun la ĉarma dancistino; ŝi
+staris ankoraŭ sur unu piedo, kaj tenis la alian alte en l' aero,
+ankaŭ ŝi estis firma; tio kortuŝis la stansoldaton, li volonte
+estus plorinta stanlarmojn, sed tio ne decus al li. Li rigardis ŝin,
+kaj ŝi rigardis lin, sed ili diris nenion.
+
+Sed subite unu el la knabetoj ĵetis la stansoldaton en la fornon,
+eĉ sen diri la kaŭzon; sendube la koboldo en la skatoleto estis
+kulpa pri ĉi-tio.
+
+La stansoldato staris hele lumigita, kaj li sentis teruran varmegon,
+sed ĉu ĝi devenis de la fajro aŭ de amo li ne sciis. La kolorojn
+li tute perdis; neniu povus diri, ĉu tio okazis dum la vojaĝo aŭ
+pro doloro. Li rigardis la fraŭlineton, ŝi rigardis lin, kaj li
+sentis, ke li fandiĝas; tamen ankoraŭ li restis firma kun la pafilo
+en la brako. Tiam ia pordo malfermiĝis, la vento forblovis la
+dancistinon, kaj senpeze kiel elfino ŝi flugis en la fornon al
+la stansoldato, ekflamiĝis kaj malaperis; tuj la stansoldato
+fandiĝis kaj fariĝis buleto, kaj kiam la sekvantan tagon la
+servistino elprenis la cindron, ŝi retrovis lin en formo de
+stankoreto; sed el la dancistino restis nur la ora perlo, kaj ĝi
+fariĝis tute nigra en la flamoj.
+
+
+
+
+Rakonto pri patrino.
+
+
+Patrino sidis ĉe sia infaneto, ŝi estis tiel malĝoja, ŝi tiom
+timis, ke ĝi mortos. La infaneto estis pala, ĝiaj okuletoj
+malfermiĝis; nur malforte ĝi spiris, kaj kelkafoje profunde kvazaŭ
+ekĝemante; kaj ankoraŭ pli malĝoje la patrino rigardis sian
+karuleton.
+
+Jen iu frapis la pordon, kaj venis malriĉa, grandaĝa viro,
+envolvita en ĉevala kovrilo, ĉar ĝi varmigas, kaj tion li bezonis;
+estis ja malvarma vintro; ĉio ekstere estis kovrita je glacio kaj
+neĝo, kaj la vento akre blovis tiel ke la vizaĝo doloris.
+
+Ĉar la viro tremis pro malvarmo, kaj la infaneto momenton dormis, la
+patrino verŝis bieron en kruĉon kaj ŝi metis ĝin en la fornon por
+ĝin varmigi por li; sed la viro lulis la infaneton, kaj la patrino
+sidiĝis sur seĝon apud li, rigardante la malsanan infaneton, kiu
+tiel profunde spiris, kaj ŝi levis la maneton.
+
+"Ĉu ne ankaŭ vi kredas, ke mi lin konservos?" ŝi diris, "Dio ne
+forprenos lin de mi!"
+
+Kaj la viro — kiu estis la Morto mem — strange balancis la kapon,
+kaj tio povus signifi jes aŭ ne egale. La patrino malsupren
+rigardis, kaj la larmoj fluis sur ŝiaj vangoj; — ŝia kapo fariĝis
+tiel peza! Tri noktojn kaj tri tagojn ŝi ne fermis la okulojn, kaj
+nun ŝi ekdormis, sed nur unu momenton, tiam ŝi subite suprensaltis,
+tremante pro malvarmo. Kio estas tio! ŝi kriis rigardante ĉirkaŭ
+si, sed la viro estis for, ŝia infaneto malaperis, li estis ĝin
+preninta kun si, kaj en la angulo de la ĉambro senĉese la radaro de
+l' antikva horloĝo zumante turniĝis, la granda plumbopezilo subiris
+rekte ĝis la planko, bum! kaj jen ankaŭ la horloĝo ĉesis funkcii.
+
+Sed la malfeliĉa patrino forkuris el la domo kaj vokis sian
+infaneton.
+
+Ekstere, meze de l' neĝamasoj, sidis virino en longa, nigra
+vestaĵo, kaj ŝi diris: "La Morto estis en via ĉambro; mi vidis, ke
+ĝi rapidege forkuris kun via infaneto; ĝi iras pli rapide ol la
+vento; ĝi neniam reportos kion ĝi prenis!"
+
+"Diru nur, kiun vojon ĝi iris!" petis la patrino, "nomu sole la
+vojon, kaj mi retrovos ĝin!"
+
+"Mi konas la vojon", respondis la virino en la nigra vestaĵo, "sed
+antaŭ ol mi nomos ĝin, vi devas kanti al mi ĉiujn kantetojn,
+kiujn vi kantis al via infaneto; mi ŝatas aŭdi ilin, mi jam ilin
+aŭdis antaŭe; mi estas la nokto, mi vidis vian ploron dum vi kantis!"
+
+"Ĉiujn, ĉiujn mi kantos!" diris la patrino, "sed ne haltigu min,
+tiel ke mi povos ĝin atingi kaj trovi mian infaneton!"
+
+Sed la nokto sidis mute kaj silente; tiam la patrino tordis siajn
+manojn, ŝi kantis kaj ploris, kaj estis multe da kantetoj sed
+ankoraŭ pli multe da larmoj, kaj jen diris la nokto: "Iru dekstren,
+en la malluman abiaron, tien la Morto forportis vian infaneton!"
+
+Profunde en la arbaro la vojoj kruciĝis, kaj ŝi ne sciis plu kiun
+vojon ŝi devas sekvi; tie staris dornarbetaĵo, nek foliojn nek
+florojn ĝi havis, estis ja ankaŭ malvarma vintro, kaj sur la
+branĉoj pendis glaciaj kristaloj.
+
+"Ĉu vi ne vidis la Morton preterpasi kun mia infaneto?"
+
+"Certe", respondis la dornarbetaĵo, "sed mi ne diros, kiun vojon ĝi
+pasis, se vi ne antaŭe min varmigas ĉe via koro; mi mortas pro la
+frosto, mi tute glaciiĝas."
+
+Kaj ŝi premis la dornarbetaĵon al sia koro, tiel firme, por ke ĝi
+bone varmiĝu, kaj la dornoj trapikis ŝian korpon, kaj grandaj
+sangogutoj elfluis, sed en la frosta vintronokto freŝaj verdaj
+folioj kaj floroj ekkreskis, tiel varme estis ĉe la koro de
+l' malĝoja patrino, kaj la dornarbetaĵo montris al ŝi la vojon
+kiun ŝi devas iri.
+
+Ŝi foriris kaj atingis grandan lagon, kie troviĝis nek ŝipo, nek
+boato. La glacio ne estis sufiĉe forta por porti ŝin kaj la lago
+estis tiel profunda ke ŝi ne povus ĝin trapasi, tamen ŝi devis,
+por retrovi sian infaneton; jen ŝi kuŝiĝis por eltrinki la tutan
+akvon de la lago, kaj tio ja estas neebla al homo; sed la malĝoja
+patrino pensis, ke povus okazi ia miraklo.
+
+"Ne, tio neniam prosperos al vi!" diris la lago, "pli bone estos se
+mi povos fari interkonsenton kun vi. Mi amas perlojn, kaj viaj okuloj
+estas la plej brilaj kiujn mi vidis. Ploru ĝis ili elfalos kaj
+donacu ilin al mi; se vi volas tion fari mi rekompence portos vin al
+la granda florujo, kie la Morto loĝas kaj prizorgas florojn kaj
+arbojn; ĉiu el ili estas homa vivo!"
+
+"Ho! ĉion mi donos por veni al mia infaneto!" diris la ploranta
+patrino, kaj ŝi ploregis ankoraŭ pli multe kaj ŝiaj okuloj elfalis
+ĝis la fundo de l' lago kaj fariĝis du multekostaj perloj; sed la
+lago ŝin levis kvazaŭ ŝi estus sidanta en balancilo, kaj ŝi
+flugis al la kontraŭa bordo. Tie staris stranga domo, grandega;
+oni ne sciis, ĉu ĝi estas ia monto kun arbaroj kaj kavaĵoj, aŭ
+ĉu ĝi estas konstruita el ĉarpentaĵo, sed la malfeliĉa patrino
+ne povis tion vidi; ŝi ja estis plorinta ĝis la okuloj elfalis.
+
+"Kie mi povos trovi la Morton, kiu foriris kun mia infaneto?" ŝi
+diris.
+
+"Ĉi-tien ĝi ankoraŭ ne alvenis!" diris la maljuna sarkistino, kiu
+gardis la grandan florujon de l' Morto.
+
+"Kiamaniere do vi povis trovi ĉi-tiun lokon, kaj kiu vin helpis?"
+
+"Dio min helpis!" ŝi respondis. "Li estas kompatema, kaj tia certe
+ankaŭ vi estos! Diru, kie mi povos trovi mian infaneton?"
+
+"Mi ne scias," diris la sarkistino, "kaj vi ja ne povas vidi! Multe
+da floroj kaj arboj velkis ĉi-tiun nokton, la Morto baldaŭ venos
+por ilin replanti! Vi certe scias, ke ĉiu homo posedas sian propran
+vivarbon aŭ floron, kiu estas konforma al ĝia animo; ili aspektas
+kiel aliaj kreskaĵoj sed ili havas koron frapantan; infana koro
+povas ankaŭ frapi! Serĉu laŭ tiu informo, eble vi povos rekoni la
+korfrapon de via infaneto; sed kion vi volas doni al mi se mi diras
+nun, kion plie vi devas fari?"
+
+"Mi ne posedas ion por fordoni", diris la malĝoja patrino, "sed
+mi estas preta iri por vi ĝis la fino de l' mondo."
+
+"Bone, sed tie mi havas nenion por fari," diris la sarkistino; "donu
+al mi viajn longajn, nigrajn harplektojn; vi mem certe scias, ke ili
+estas belaj! Rekompence vi ricevos miajn blankajn, estas io
+almenaŭ!"
+
+"Se vi nur postulas tion de mi," ŝi diris, "mi ĝin fordonos kun
+ĝojo!" Kaj ŝi donis al la sarkistino siajn belajn, nigrajn
+harplektojn kaj ricevis interŝanĝe la blankajn de l' maljunulino.
+
+Tiam ili iris en la grandan florujon de l' Morto, kie floroj kaj
+arboj strange interkreskis. Belaj hiacintoj staris sub vitrokloŝoj,
+kaj grandaj, fortegaj peonioj; oni vidis akvokreskaĵojn; unuj estis
+tute freŝaj, aliaj aspektis malsanete; limakoj rampis sur la folioj,
+kaj nigraj kankroj ĉirkaŭpremis la trunketojn: kreskis ankaŭ
+belegaj palmarboj, kverkoj kaj platanoj, kaj plie petroselo kaj
+floranta timiano; ĉiu arbo, ĉiu floro havis sian nomon, ĉiu estis
+la vivo de iu homo; la homo ankoraŭ estis vivanta, unu en Ĥinujo,
+alia en Grenlando, en ĉiuj lokoj de la mondo. Troviĝis altaj arboj
+kreskantaj en kuvoj malgrandaj; ili aspektis tute premitaj kaj estis
+pretaj por krevigi la kuvon; ankaŭ en multe da aliaj lokoj staris
+malsanaj floretoj en grasa tero, kun musko ĉirkaŭe kaj dorlote
+flegitaj. Sed la malĝoja patrino kliniĝis super ĉiu el la plej
+malgrandaj kreskaĵoj, kaj ŝi aŭdis, kiel frapas la homa koro
+interne de ili. Fine, fine el milionoj da kreskaĵetoj ŝi rekonis
+la koron de sia infaneto.
+
+"Jen ĝi estas!" ŝi kriis etendante la manon super blua krokuseto,
+kiu tute kurbiĝis kontraŭ la tero, malsanete kaj lace.
+
+"Ne tuŝu la floron!" diris la sarkistino, "sed atendu ĉi-tie, kaj
+kiam la Morto venos, vi zorgu ke ĝi ne forŝiru la kreskaĵon;
+minacu ĝin, ke vi forŝiros la aliajn florojn, tiam ĝi ektimiĝos;
+ĝi havas respondecon antaŭ Dio pri ili; neniu el ili povas esti
+forŝirata sen la permeso de Dio!"
+
+Subite glacia vento trablovis la ĝardenon, kaj la blinda patrino
+sentis, ke estas la Morto, kiu venas.
+
+"Kiamaniere vi povis trovi la vojon ĉi-tien?" ĝi demandis, "kiel vi
+povis alveni pli rapide ol mi?"
+
+"Mi estas patrino!" ŝi diris. Kaj la Morto etendis sian longan
+brakon kontraŭ la malsaneta floreto, sed ŝi tenis siajn manojn
+ĉirkaŭ ĝi, tiel firme, kaj tamen zorgante por ne ektuŝi la
+foliojn. Sed la Morto blovis sur ŝiaj manoj, kaj ŝi sentis, ke
+estas akre, pli akre ol la plej malvarma vento, kaj senforte ŝiaj
+manoj subfalis.
+
+"Vi ne povas ion fari kontraŭ mi!" diris la Morto. — "Sed la bona
+Dio povas!" ŝi respondis.
+
+"Mi nur plenumas Lian volon!" diris la Morto. "Mi estas Lia
+ĝardenisto! Mi prenas ĉiujn Liajn florojn kaj arbojn kaj replantas
+ilin en la ĝardenon de l' Paradizo, en la nekonata lando, sed kiel
+ili tie kreskas, kaj kio ili fariĝos, mi ne povas rakonti!"
+
+"Redonu al mi mian infaneton!" diris la patrino, kaj ŝi ploris kaj
+petegis; sed subite per ĉiu mano ŝi ekkaptis du belajn floretojn
+kiuj kreskis en la proksimeco, kaj ŝi kriis al la Morto: "Mi
+forŝiros ĉiujn viajn florojn, ĉar mia koro malesperas!"
+
+"Ne tuŝetu ilin!" diris la Morto. "Vi diras, ke vi estas malfeliĉa,
+kaj nun vi volas, ke alia patrino fariĝu egale malfeliĉa kiel vi!"
+
+"Alia patrino!" ŝi diris lasante la florojn en la sama momento.
+
+"Jen estas viaj okuloj!" diris la Morto, "mi trovis ilin en la lago,
+ili tiel bele brilis: mi ne sciis ke estas la viaj, reprenu ilin, ili
+estas ankoraŭ pli brilaj ol antaŭe. Rigardu nun en la profundan
+puton tie; mi diros al vi la nomojn de la du floroj, kiujn vi volis
+forŝiri, kaj vi vidos ilian tutan estontecon, ilian homan vivon;
+vi vidos, kion vi volis detrui!"
+
+Ŝi rigardis en la puton, kaj ŝi sentis sinceran feliĉon ĉar ŝi
+vidis, kiel la vivo de unu el ili fariĝas granda beno al la mondo:
+ho! kia feliĉo kaj ĝojo! Kaj ŝi vidis la vivon de l' alia; ĝi
+estas plena je mizero, doloro kaj teruro.
+
+"Ambaŭ sortoj estas laŭ la volo de Dio!" diris la Morto.
+
+"Kiu el ili estas la floro de l' mizero, kaj kiu estas tiu de l'
+feliĉo?" ŝi demandis.
+
+"Tion mi ne diras!" respondis la Morto, "sed unu el ili estis la
+floro de via propra infaneto; la sorton, la estontecon de via
+infaneto, vi vidis!"
+
+Terurigite la patrino kriis: "Ho, diru, kiu el ambaŭ estis mia
+infaneto! savu la senkulpan estaĵon, savu ĝin el la mizero!
+forprenu ĝin nur, mi petegas! Ho, konduku ĝin en la regnon de Dio!
+Forgesu mian ploron, mian doloron, ĉion, kion mi faris kaj diris!"
+
+"Mi ne vin komprenas!" diris la Morto. "Ĉu vi volas, ke via infaneto
+revenu al vi, aŭ ĉu mi devas ĝin forpreni kun mi?"
+
+Tiam la patrino tordis siajn manojn kaj genufleksante ŝi preĝis al
+Dio:
+
+"Ne aŭskultu min, se mi postulis ion, kio estas kontraŭ Via volo!
+Vi sola estas superega kaj saĝa! Ne aŭskultu min, ne aŭskultu
+min!"
+
+Kaj ŝi apogis la vizaĝon sur sia genuo, kaj la Morto kondukis la
+infaneton, for, for en la nekonatan landon.
+
+
+
+
+La fajroŝtalo.
+
+
+Soldato iris marŝante sur la vojo: unu, du! unu, du! li forvojaĝis
+kun tornistro sur la dorso kaj glavo ĉe la koksoj, ĉar li revenis
+de la milito, kaj nun li hejmen marŝis. Jen li renkontis maljunan
+sorĉistinon sur la vojo; ŝi estis treege abomeninda, ŝia sublipo
+pendis tute ĝis la brusto. Ŝi diris: "Bonan vesperon, soldato! kian
+belan glavon, kian grandan tornistron vi havas! Vi estas vera
+soldato, kaj nun vi ricevos tiom da mono kiom vi deziras!"
+
+"Multan dankon al vi, sorĉistino!" la soldato respondis.
+
+"Ĉu vi vidas la grandan arbon tie?" diris la sorĉistino montrante
+al li tiun arbon, kiu flanke staris ĉe la vojo. "Interne ĝi estas
+tute kava! Vi rampu nur ĝis la pinto, jen vi vidos truon kaj tra
+ĝi vi povos gliti ĝis vi venos profunde en la arbo. Mi ligas nun
+ŝnuregon ĉirkaŭ vi, kaj tiel mi povos suprentiri vin tuj kiam vi
+min vokos."
+
+"Sed kion mi devas fari en la arbo?" demandis la soldato.
+
+"Alporti monon!" la sorĉistino diris, "ĉar kiam vi venos al la
+fundo de l' arbo, vi troviĝos en granda subtera ĉambro; ĝi estas
+tute luma, ĉar pli ol cent lampoj tie brilas. Jen vi vidos tri
+pordojn, vi povos ilin malfermi, ĉar estas ŝlosilo en ĉiu seruro.
+Irante en la unuan ĉambreton vi vidos grandan keston meze de la
+planko; sur la kesto sidas hundo, ĝi havas okulojn tiel grandajn
+kiel te-tasoj, sed tio ne devas vin timigi! Mi donas al vi mian bluan
+antaŭtukon, vi povos ĝin malfaldi sur la planko: tiam vi rapide iru
+al la hundo, forprenu ĝin, metu ĝin sur la antaŭtukon, malfermu la
+keston kaj prenu tiom da moneroj kiom vi volas. Ili estas ĉiuj el
+kupro; sed se vi preferas havi arĝentajn, vi nur bezonas iri en la
+duan ĉambreton; tie vi vidos ankaŭ hundon; ĝi havas okulojn tiel
+grandajn kiel mueleja rado, sed tio ne devas vin timigi, vi metu ĝin
+trankvile sur la antaŭtukon kaj prenu el la mono! Sed se vi volas
+oran monon, vi povos ankaŭ tian havi, kaj tiel multe kiel vi povas
+porti; vi nur bezonas iri en la trian ĉambreton. Sed la hundo, kiu
+tie sidas sur la kesto, havas du okulojn tiel grandajn kiel la
+"Ronda Turo" en Kopenhago. Ĝi estas vera hundo, vi povas pensi,
+sed tio ne devas vin timigi! Vi nur metu ĝin sur la antaŭtukon,
+tiam ĝi tute nenion malbonan faros al vi, kaj prenu el la kesto tiom
+da oro kiom vi volas!"
+
+"Estas efektive bonege!" diris la soldato. "Sed kion mi devas doni al
+vi, sorĉistino? Ĉar certe vi ankaŭ volas ion havi, mi pensas!"
+
+"Ne!" la sorĉistino diris, "eĉ ne iun monereton mi deziras! Nur
+prenu por mi malnovan fajroŝtalon, kiun forgesis mia avino, kiam ŝi
+laste tie estis!"
+
+"Nu, donu al mi la ŝnuregon!" diris la soldato.
+
+"Jen ĝi estas," respondis la sorĉistino, "kaj jen mia blua
+antaŭtuko!"
+
+Nun la soldato suprenrampis la arbon, glitis tra la truo kaj tuj
+poste li staris en la granda subtera ĉambro, kie brilis pli ol cent
+lampoj.
+
+Li malfermis la unuan pordon. Hu! jen li vidis la hundon kun okuloj
+tiel grandaj kiel te-tasoj, kaj ĝi strange lin rigardis. "Vi estas
+bela bubo!" diris la soldato, kaj li metis la hundon sur la tukon de
+l' sorĉistino, prenis tiom da kupraj moneretoj, kiom li povis havi
+en la poŝo, fermis la keston, remetis la hundon sur ĝin kaj iris
+en la duan ĉambron. Eja! Jen la hundo kun okuloj tiel grandaj kiel
+mueleja rado!
+
+"Ne rigardu min tiel persiste, mi konsilas al vi!" diris la soldato,
+"viaj okuloj povus doloriĝi!" kaj tuj li metis la hundon sur la
+tukon de l' sorĉistino, sed ekvidante la arĝentajn moneretojn en la
+kesto, li forĵetis la kuprajn, kiujn li jam havis, kaj rapide li
+plenigis sian poŝon kaj tornistron je pura arĝento. Fine li iris en
+la trian ĉambreton. Hu! — Estis terure! La hundo tie efektive havis
+du okulojn tiel grandajn kiel la "Ronda Turo", kaj en la kapo ili
+turniĝis kvazaŭ radoj!
+
+"Bonan vesperon!" diris la soldato kaj li salutis militiste per la
+mano, ĉar tian hundon li neniam antaŭe estis vidinta; sed post kiam
+li iomete ĝin rigardis, li pensis ke povas esti sufiĉe. Li metis la
+hundon sur la plankon, kaj malfermis la keston. Ho! granda Dio! kian
+amason da mono! Li ja povus aĉeti la tutan urbon Kopenhago, la
+sukerajn porkidojn de l' kukistinoj, ĉiujn stansoldatojn, vipojn kaj
+ludĉevalojn de la tuta mondo. Jen efektive multego da mono! La
+soldato nun forĵetis ĉiujn arĝentajn monerojn, kiujn li havis en
+la poŝo kaj tornistro, kaj anstataŭe li prenis oron, kaj plenigis
+la poŝojn, la tornistron, la ĉapon kaj la botojn, tiel ke li
+preskaŭ ne povis iri: Nun li havis monon! La hundon li remetis
+sur la keston, la pordon li brue fermis kaj kriis tra la arbo:
+
+"Nun, suprentiru min, sorĉistino!"
+
+"Ĉu vi havas la fajroŝtalon?" ŝi demandis. "Ne," li diris, "estas
+bone, ke vi memorigas min pri tio; mi tute ĝin forgesis!" Kaj li
+denove iris en la fundon de l' arbo kaj prenis la ŝtalon. La
+sorĉistino suprentiris lin, kaj jen li ree staris sur la vojo kun
+poŝoj, tornistro, ĉapo kaj botoj tute plenaj je mono. "Kion vi
+intencas fari per la fajroŝtalo?" demandis la soldato.
+
+"Tio ne koncernas vin!" respondis la sorĉistino, "nun vi ja ricevis
+la monon! Donu vi nur al mi la fajroŝtalon!"
+
+"Tute ne!" la soldato diris, "rakontu tuj por kio vi intencas uzi
+ĝin, alie mi eltiras mian glavon kaj detranĉas vian kapon!"
+
+"Ne, mi ne volas ion diri!" estis la respondo de l' sorĉistino.
+
+Tiam la soldato detranĉis ŝian kapon, kaj jen ŝi kuŝis! Sed la
+monon li kolektis en ŝia antaŭtuko, prenis la pakaĵon sur la
+dorso, metis la fajroŝtalon en sian poŝon kaj marŝis rekte al la
+urbo.
+
+Estis belega urbo, kaj en la plej komforta gastejo li loĝiĝis; tie
+li havis la plej bonajn ĉambrojn kaj delikatan manĝaĵon, ĉar nun
+li estis riĉa, li ja posedis tiom da mono.
+
+La servisto, kiu devis ciri liajn botojn, pensis, ke estas strange,
+ke tia riĉa sinjoro havas nur tiel mirinde malnovajn botojn, sed la
+soldato ankoraŭ ne estis aĉetinta al si novajn; la proksiman tagon
+li ricevis bonajn botojn kaj veston elegantan. Nun la soldato estis
+vere nobla sinjoro, kaj oni rakontis al li pri ĉiuj belaj aferoj de
+la urbo, pri la reĝo kaj lia ĉarma filino, la princino.
+
+"Kie oni povas vidi ŝin?" demandis la soldato.
+
+"Oni tute ne povas vidi ŝin!" ili ĉiuj diris, "ŝi loĝas en granda
+kupropalaco, kiu estas ĉirkaŭata de multaj turoj kaj muroj! Neniu
+krom la reĝo povas iri en la palacon, ĉar estas antaŭdirite, ke
+ŝi iam edziniĝos kun tute simpla soldato, kaj tion la reĝo ne
+volas!"
+
+"Mi tre dezirus vidi ŝin!" pensis la soldato, sed li ja ne povis
+havi la permeson.
+
+Li komencis nun tre gajan vivon, ofte li vizitis la teatron, veturis
+en la ĝardeno de la reĝo kaj donis multe da mono al malriĉaj
+homoj, kaj tio estis bone farita! Li memoris de antaŭaj tagoj,
+kiel mizere estas ne posedi monereton! — Li ja estis riĉa,
+portis belajn vestojn kaj havis baldaŭ multajn amikojn, kaj ili
+ĉiuj diris, ke li estas ĉarma viro, vere nobla Moŝto, kaj tion la
+soldato tre plezure aŭdis. Sed ĉar li ĉiun tagon elspezis multe da
+mono sen havi ian enspezon, li fine nur posedis du denarojn, kaj li
+devis forlasi la belan apartamenton, kie li havis sian loĝejon, kaj
+loĝiĝi en malvasta ĉambreto rekte sub la tegmento. Tie li mem
+devis purigi siajn botojn kaj fliki ilin per kudrilo, kaj neniu el la
+amikoj vizitis lin, ĉar la ŝtuparo estis al ili tro alta.
+
+Estis tute malluma vespero, kaj li povis eĉ ne aĉeti kandelon, sed
+tiam li memoris, ke en la fajroŝtalo, kiun li prenis en la kava
+arbo, kuŝas peceto de kandelo. Li ekprenis la fajroŝtalon kun la
+kandelpeceto, sed en la sama momento kiam li provis ekflamigi kaj
+fajreroj flugis el la siliketo, la pordo subite malfermiĝis, kaj tiu
+hundo kiu havis okulojn tiel grandajn kiel te-tasoj kaj kiun li estis
+vidinta malsupre en la arbo, staris antaŭ li kaj diris: "Kion
+ordonas mia majstro?"
+
+"Kion mi vidas!" diris la soldato, "estas ja stranga fajroŝtalo; ĉu
+mi tiel povos havi kion mi deziras? Nu, bone, havigu al mi iom da
+mono," li diris al la hundo, — kaj tuj ĝi foriĝis! Baldaŭ ĝi
+revenis, tenante en la buŝo grandan sakon da mono.
+
+Nun la soldato komprenis, kian bonegan fajroŝtalon li posedas. Se
+li unufoje flamigos, alvenos la hundo, kiu sidis sur la kesto kun
+kupromono; se li dufoje flamigos, alvenos tiu hundo, kiu havis
+arĝenton, kaj se li trifoje flamigos, alvenos tiu, kiu havis puran
+oron. — Nun la soldato reloĝiĝis en la bela apartamento, denove li
+portis elegantajn vestojn, kaj tuj la amikoj lin rekonis kaj tiel
+multe lin ŝatadis. —
+
+Iam li pensis: Estas vere stranga afero ke oni ne povas vidi la
+princinon! Ili diras, ke ŝi estas tiel belega! Sed kion povas tio
+helpi, se ŝi devas ĉiam sidi en la granda kupropalaco kun la multaj
+turoj. — Ĉu mi do tute ne povos vidi ŝin? — Nu, kie estas mia
+fajroŝtalo? Li flamigis per ĝi, kaj tuj alvenis la hundo kiu havis
+okulojn tiel grandajn kiel te-tasoj.
+
+"Estas meze de la nokto," diris la soldato, "sed mi tre sincere
+deziras vidi la princinon, nur unu minuton!"
+
+Tuj la hundo kuregis tra la pordo kaj antaŭ ol la soldato povis
+pripensi, ĝi revenis kun la princino; ŝi sidis dormante sur
+la dorso de l' hundo, kaj ŝi estis tiel belega, ke ĉiu povus
+vidi ke ŝi estas vera princino; la soldato kisis ŝin, li tute ne
+povis sin deteni, ĉar li estis vera soldato.
+
+La hundo forkuris kun la princino, sed kiam fariĝis mateno kaj la
+gereĝoj trinkis teon, la princino diris, ke ŝi nokte havis tiel
+strangan sonĝon pri hundo kaj soldato. Ŝi rajdis sur la hundo, kaj
+la soldato kisis ŝin.
+
+"Estas ja bela historio, mi devas konfesi!" diris la reĝino, kaj la
+sekvantan nokton maljuna korteganino devis sendorme pasigi apud la
+lito de l' princino por vidi, ĉu reale estus sonĝo aŭ kio povus
+alie esti.
+
+La soldato terure sopiris je la belega princino, kaj denove la hundo
+venis dum la nokto, forprenis ŝin el la lito kaj kuris tiel rapide
+kiel eble, sed la maljuna korteganino surmetis grandajn botojn kaj
+egale rapide ŝi kuradis post ili. Vidante ke ili malaperas en
+grandan domon ŝi pensis: Nun mi scias, kie estas la loko! kaj per
+kreto ŝi desegnis grandan krucon sur la pordego. Tiam ŝi iris domen
+kaj kuŝiĝis, kaj la hundo ankaŭ revenis kun la princino, sed kiam
+ĝi vidis, ke granda kruco estas desegnita sur la pordego de l' domo
+kie loĝas la soldato, ĝi mem prenis kreton kaj desegnis krucojn sur
+ĉiuj pordegoj de la urbo, kaj tio estis saĝe farita, ĉar nun la
+korteganino ja ne povos retrovi la ĝustan pordegon.
+
+Frue, matene venis la reĝo kaj reĝino, la maljuna korteganino kaj
+la oficiroj por vidi la domon, kien la princino estis alportita.
+
+"Jen ĝi estas!" diris la reĝo, kiam li vidis unu pordegon kun
+kruco. "Ne, — estas tie, edzeto!" diris la reĝino, vidante alian
+kun kruco.
+
+"Sed jen estas unu, kaj ankaŭ jen unu!" diris la ceteraj; kien ajn
+ili rigardis, ili trovis krucojn sur la pordegoj: Tiam ili bone povis
+kompreni, ke estas tute senutile plie serĉi.
+
+Tamen la reĝino estis saĝa virino, kiu povis aranĝi multe da
+aferoj. Ŝi prenis sian oran tondilon, distranĉis grandan silkotukon
+kaj kudris el ĝi belan saketon; la saketon ŝi plenigis je
+greneretoj, ŝi fiksis ĝin sur la dorso de l' princino, kaj kiam tio
+estis preta, ŝi faris tre malgrandan truon en la saketo, tiel ke la
+greneretoj povos elŝutiĝi la tutan vojon, kiun sekvos la princino.
+
+En la nokto la hundo revenis, prenis la princinon sur la dorso kaj
+kuregis kun ŝi al la soldato, kiu tiom amis ŝin kaj deziris, ke li
+estu princo por edziĝi kun ŝi.
+
+La hundo tute ne rimarkis ke elŝutiĝis la greneretoj sur la vojo,
+de l' palaco kaj rekte ĝis la fenestro de la soldato. Je la
+mateno la gereĝoj facile vidis, kien la princino estis alportita,
+kaj ili ekkaptis la soldaton kaj metis lin en malliberejon.
+
+Jen li sidis. Hu! kiel mallume kaj enuige estis tie, kaj tiam oni
+diris al li: "Morgaŭ vi estos pendigata!" Ne estis agrable al li
+tion aŭdi, kaj sian fajroŝtalon li estis forgesinta en la gastejo.
+Matene, inter la ferstangoj de l' fenestreto, li povis vidi kiel
+rapidis la popolo el la urbo por ĉeesti la ekzekutadon. Li aŭdis la
+tamburadon kaj vidis marŝi la soldatojn. Ĉiuj homoj forkuris; estis
+inter ili ankaŭ ŝuistlernanto kun leda antaŭtuko kaj pantofloj; li
+tiel rapide trotis, ke li perdis unu pantoflon, kiu falante trafis
+la muron, post kiu sidis la soldato, rigardante el la fenestreto!
+
+"Hej, ŝuisteto! vi ne bezonas tiel rapidegi," diris la soldato,
+"ĉar nenio okazos antaŭ ol alvenos mi; sed, aŭskultu, faru al
+mi serveton: iru en mian loĝejon kaj alportu ĉi-tien mian
+fajroŝtalon, vi havos rekompence dek monerojn! Sed — rapidegu!"
+La ŝuisteto tre volonte deziris la promesitan rekompencon, li
+rapidege kuris por alporti la fajroŝtalon, donis ĝin al la
+soldato, kaj — aŭskultu bone kio nun okazas!
+
+Ekster la urbo estis starigita granda pendigilo; ĉirkaŭe atendis la
+soldatoj kaj multaj miloj da rigardantoj. La reĝo kaj la reĝino
+sidis sur belega trono antaŭ la juĝisto kaj la tuta konsilantaro.
+
+La soldato jam staris supre sur la eŝafodo, sed kiam la ekzekutisto
+komencis meti la pendŝnuregon ĉirkaŭ lia kolo, li diris, ke oni ja
+ĉiam permesas al krimulo esprimi modestan deziron kaj ĝin plenumi.
+Li treege dezirus fumi pipon da tabako; estus ja la lasta pipo, kiun
+li povus fumi en ĉi-tiu mondo.
+
+Tion la reĝo ne volis rifuzi, kaj jen la soldato prenis sian
+fajroŝtalon kaj flamigis: unu, du, tri! tuj alvenis ĉiuj tri
+hundoj, unu kun okuloj tiel grandaj kiel te-tasoj, unu kun okuloj
+kiel mueleja rado kaj unu kun okuloj tiel grandaj kiel la "Ronda
+Turo"!
+
+"Vi helpu min rapide, por ke mi ne estu pendigata!" diris la soldato,
+kaj tuj la hundoj furioze saltegis kontraŭ la juĝisto kaj la tuta
+konsilantaro, unu estas ekprenita ĉe la piedoj, alia ĉe la nazo,
+kaj ĉiuj ĵetitaj alten en la aero, kaj tute frakasitaj ili disfalis
+sur la tero.
+
+"Mi ne volas! Mi ne volas!" kriis la reĝo, sed la plej granda hundo
+prenis lin kaj la reĝinon kaj ilin ĵetis post la ceteraj; eĉ la
+soldatoj teruriĝis kaj la popolo kriegadis: "Kara soldateto, vi
+fariĝu nia reĝo kaj edziĝu kun la belega princino!" Tiam ili sidigis
+la soldaton en la kaleŝo de l' reĝo, la tri hundoj gaje dancis antaŭ
+ĝi, ili kriis Hura! kaj la knaboj fingrefajfis, kaj ĉiuj soldatoj
+salutis. Sed la princino forlasis la kupropalacon kaj fariĝis
+reĝino. La edziĝa festo daŭris ok tagojn, kaj la hundoj ĉeestis
+la festenadon, kaj ili faris grandajn okulojn.
+
+
+
+
+La princino sur pizo.
+
+
+Estis iam princo, kaj li deziris edziĝi kun princino; sed ŝi devus
+esti vera princino. Por trovi tian princinon li faris multajn kaj
+longajn vojaĝojn en la tuta mondo; sed ĉie, kien li venis, li
+renkontis jen unu jen alian malfacilaĵon. Ekzistis certe sufiĉe da
+princinoj, sed ĉu ili estas veraj princinoj, li ne povis tuj ekscii;
+ĉe ĉiu el ili li trovis ion malveran. Fine li revenis domen, kaj li
+tiam estis tre ĉagrena, kion oni povos bone kompreni, ĉar lia plej
+sincera deziro estis ja edziĝi kun vera princino.
+
+Ian vesperon la vetero fariĝis treege malbela; fulmadis kaj tondris
+kaj senĉese falis de la ĉielo pluvegoj. Nun iu frapis la pordegon
+de la kastelo, kaj la maljuna reĝo iris por malfermi.
+
+Ekster la pordego staris princino. Sed, ho ĉielo, kian aspekton ŝi
+havis! De ŝiaj haroj kaj de la vestaĵo gutegis la akvo; ĝi tute
+trafluis ŝiajn ŝuojn kaj elgutadis el la kalkanumo, kaj dum ŝi
+staris ĉi-tie en la pluvego ŝi diris, ke ŝi estas vera princino.
+
+Nu, ĉi-tion ni facile ekscios! pensis la maljuna reĝino; ŝi
+nenion diris sed iris en la dormoĉambron, kaj forpreninte la
+tutan litaĵon ŝi metis pizon sur la fundon de la lito. Ŝi prenis
+nun dudek matracojn, metis ilin sur la pizon, kaj sur la matracojn
+ŝi plie metis dudek kusenegojn, faritajn el la plej mola lanugo, kiu
+ekzistas.
+
+En ĉi-tiu lito la princino devis dormi nokte. Je l' mateno oni ŝin
+demandis, kiel ŝi dormis.
+
+"Ho, malbonege!" la princino respondis, "mi preskaŭ ne ripoziĝis la
+tutan nokton, kaj mi ne komprenas, kio troviĝis en la lito."
+
+"Mi kuŝis sur ia malmolaĵo, kaj mia tuta korpo fariĝis bruna kaj
+blua. Estas tre malagrabla kaj stranga okazo!"
+
+Nun oni povis kun certeco scii, ke ŝi estas vera princino, ĉar la
+pizon ŝi estis eksentinta eĉ malgraŭ la dudek matracoj kaj la
+dudek kusenegoj kun la plej mola lanugo kiu ekzistas. Neniu ol vera
+princino povus posedi tian mirindan sentemecon!
+
+Post ĉi-tio la princo edziĝis kun ŝi, ĉar li ja sciis, ke lia
+edzino estas vera princino, kaj la pizon oni enmetis en la muzeon de
+la reĝo. Tie ĝi troviĝas ankoraŭ nun se neniu ĝin forŝtelis.
+
+
+
+
+La knabineto kun la alumetoj.
+
+
+Estis terure malvarme; neĝis kaj komencis fariĝi malluma vespero;
+estis la lasta vespero de l' jaro, novjara vespero.
+
+En ĉi-tiu malvarmo, en ĉi-tiu mallumo iris en la strato malriĉa
+knabineto kun nuda kapo kaj nudaj piedoj; ŝi ja portis pantoflojn,
+kiam ŝi forlasis la domon, sed por kio povus ili helpi! Estis tre
+grandaj pantofloj, laste ŝia patrino uzis ilin, tiel grandaj ili
+estis. Jen rapidege preterpasis du veturiloj, kaj kurante trans la
+strato, la knabineto perdis la pantoflojn. Unu pantoflon ŝi ne povis
+trovi, kaj knabo forkuris kun la alia; li diris ke li povos uzi ĝin
+kiel lulilon, se li mem havos iam infanetojn. Tie iris nun la
+knabineto kun la nudaj piedetoj, ruĝaj kaj bluaj pro malvarmo;
+en la malnova antaŭtuko ŝi havis amaseton da alumetoj kaj paketon
+ŝi portis en la mano; la tutan tagon neniu aĉetis alumetojn de ŝi,
+nek iu donacis al ŝi monereton; malsata kaj suferante de l' frosto
+ŝi iris kun malĝoja mieno tra la stratoj, kompatinda knabineto!
+La neĝfloketoj falis sur ŝiajn longajn, blondajn harojn, kiuj
+ĉarme bukliĝis ĉirkaŭ la nuko, sed pri ĉi-tiu ornamo ŝi tute ne
+pensis. El ĉiuj fenestroj brilis la kandeloj, kaj en la strato
+odoris bonege ansera rostaĵo; estis novjara vespero, kaj pri tio
+ŝi la tutan tempon pensis.
+
+En anguleto inter du domoj — unu staris iomete pli antaŭe en la
+strato ol la alia — tie ŝi sidiĝis metante la piedetojn sub sin;
+sed nun ŝi sentis la froston ankoraŭ pli multe, kaj domen ŝi ne
+kuraĝis iri, ĉar ŝi ja neniujn alumetojn vendis, nenian monereton
+ŝi ricevis; ŝia patro batus ŝin sendube, kaj estis malvarme ankaŭ
+dome; tie la tegmento kuŝis preskaŭ sur la kapo, kaj la vento fajfe
+muĝis tra la ĉambreto, kvankam oni ŝtopis per pajlo kaj ĉifonoj
+la plej grandajn fendojn.
+
+La manetoj de la knabineto estis preskaŭ tute senvivaj pro malvarmo.
+Ho! alumeto povus fari bone al ŝi. Se ŝi nur kuraĝus eltiri unu
+solan el la paketo, ekbruligi ĝin kontraŭ la muro kaj varmigi la
+fingretojn ĉe la flamo! Ŝi eltiris unu, ritŝ! Kiel ĝi ŝprucetis,
+kiel ĝi brulis! Estis hela, varma flamo — kvazaŭ kandeleto,
+kiam ŝi tenis la maneton ĉirkaŭ ĝi! Kia mirinda lumado! Al la
+knabineto subite ŝajnis, kvazaŭ ŝi estus sidanta antaŭ granda
+ferkameno ornamita per brilaj globetoj kaj cilindro el latuno.
+La fajro tie brulas gaje, ĝi varmigas tiel bone; sed! — kio estas
+do tio! La knabineto jam proksimigis la piedetojn al ĝi por varmigi
+ilin ankaŭ — — sed ho ve! estingiĝis la flamo, la kameno
+malaperis, kaj ŝi sidis tie kun peceto de elbrulinta alumeto en la
+mano.
+
+Ŝi ekbruligis alian alumeton, ĝi brulis, ĝi lumadis, kaj en la
+loko kie la radioj falis sur la domon, la muro fariĝis diafana kiel
+krepo; ŝi rigardis en la salonon, kie staris tablo kovrita de
+brilblanka tuko, kun bela porcelanaĵo, kaj bonege vaporetis ansera
+rostaĵo kun pomoj kaj sekprunoj; kaj jen tio, kio estis ankoraŭ pli
+belega: la ansero saltis el la plado, skuiĝante ĝi iris sur la
+planko, portante en la dorso tranĉilon kaj forketon; ĝi venis rekte
+al la knabineto; — sed tiam estingiĝis la alumeto, kaj nur la dika,
+malvarma muro restis videbla.
+
+La knabineto ekbruligis alian alumeton. Jen ŝi sidis sub la plej
+belega Kristnaska arbo; ĝi estis ankoraŭ pli granda kaj pli riĉe
+ornamita ol tiu, kiun ŝi vidis tra la vitra pordo ĉe la riĉa
+komercisto, la lastan Kristnaskan feston. Miloj da kandeloj brulis
+sur la verdaj branĉoj, kaj multkoloraj bildoj kiel tiuj, kiuj
+ornamas la butikfenestrojn, ŝin rigardis. La knabineto etendis
+ambaŭ manetojn; — tiam estingiĝis la alumeto; la multaj kandeletoj
+de l' Kristnaska arbo leviĝis pli kaj pli alten; ŝi vidis, ke ili
+estas nun brilaj steloj; unu stelo falis lasante sur la ĉielo
+longan fajrostrion.
+
+"En ĉi-tiu momento mortas iu," diris la knabineto, ĉar ŝia
+mortinta avino, la sola persono, kiu faris bonon al ŝi, ofte diris:
+"Kiam stelo falas, animo flugas supren, al Dio!"
+
+Ankoraŭ unu fojon la knabineto ekbruligis alumeton kontraŭ la muro;
+ĝi briladis kaj lumis ĉirkaŭe, kaj en la lumado ŝi vidis sian
+avinon, tiel hela, tiel belega kaj dolĉa.
+
+"Avino!" kriis la knabineto, "ho avino, prenu min kun vi! Mi scias,
+ke vi malaperos for de mi, kiam la alumeto estingiĝos, for de mi
+kiel la varma kameno, kiel la belega ansera rostaĵo, kaj la granda,
+dolĉa Kristnaska-arbo!" — kaj rapidege ŝi ekbruligis ĉiujn
+alumetojn, kiuj restis en la paketo. Ŝi volis nun firme teni la
+avinon, kaj la alumetoj lumis kun tia brilo, ke fariĝis multe pli
+lume ol ĉe la klara tago. Neniam la avino estis tiel belega, tiel
+granda; ŝi levis la knabineton supren sur sian brakon, kaj en brilo
+kaj ĝojego ili forflugis, tiel alten, tiel alten, kaj tie estis
+nenia malvarmo, nenia malsato, nenia timo; — ili estis ĉe Dio.
+
+Sed je la malvarma, frua matenhoro, en la anguleto ĉe la domo, sidis
+la knabineto kun ruĝaj vangoj kaj buŝeto ridanta: — senviva ŝi
+estis, mortigita de l' frosto la lastan vesperon de l' malnova jaro.
+La novjara mateno ekbrilis super la mortinta knabineto, kiu sidis tie
+kun siaj alumetoj, el kiuj unu paketo estis preskaŭ elbruligita.
+"Ŝi volis sin varmigi," oni diris. Sed neniu sciis, kiom da belaĵoj
+ŝi vidis, nek en kia brilo ŝi eniris kun sia kara avino en la
+ĝojegon de la Nova Jaro.
+
+
+
+Enhavo.
+                              paĝo
+  Hans Christian Andersen       3
+  La brava stansoldato          5
+  Rakonto pri patrino          13
+  La fajroŝtalo                23
+  La princino sur pizo         36
+  La knabineto kun la alumetoj 38
+
+
+
+Esperanto Verlag Möller & Borel
+  Berlin SW., Lindenstrasse 18/19.
+
+
+Verkaro de D-ro L. L. Zamenhof.
+
+Fundamento de Esperanto:                                         Sm
+  Eldono Franca, Angla, Germana, Rusa, Pola,            bindita 1,30
+  Eldonoj Greka, Hispana, Itala, Rumana,   ĉiu volumo broŝurita 0,50
+Oni vendas aparte:
+  Ekzercaro (kvinlingva)                                        0,30
+  Universala Vortaro (kvinlingva)                               0,45
+
+Wörterbuch Deutsch-Esperanto                            bindita 1,25
+                                                      broŝurita 1,—
+
+Taschenwörterbuch Deutsch-Esperanto und Esperanto-Deutsch
+                                                        bindita 0,65
+                                                      broŝurita 0,50
+
+Fundamenta Krestomatio                                  bindita 1,80
+                                                      broŝurita 1,40
+
+Georgo Dandin, komedio en tri aktoj de Molière                  0,55
+
+Hamleto, tragedio en kvin aktoj de Shakespeare                  0,80
+
+Ifigenio en Taŭrido, dramo en kvin aktoj de Goethe      bindita 1,15
+                                                      broŝurita 0,90
+
+La Predikanto, libro el "La Biblio"                             0,35
+
+La Psalmaro, libro el "La Biblio"                               1,10
+
+La Rabistoj, dramo en kvin aktoj de Schiller                    0,90
+
+La Revizoro, komedio en kvin aktoj de Gogol                     0,70
+
+La Sentencoj de Salomono, libro el "La Biblio"                  0,70
+
+La Virineto de Maro, fabelo de Andersen,
+  kun ilustraĵoj de Hilda May Brodie                            0,70
+
+
+
+Verkoj de Kabe (D-ro K. Bein).
+
+                                                                 Sm
+Elektitaj Fabeloj de Fratoj Grimm, trad. el germana lingvo      0,75
+
+Unua Legolibro, gradigitaj legaĵoj kun frazlibro kaj
+modeloj de leteroj                                              0,75
+
+La fundo de l' mizero, de Sieroŝevski                           0,35
+
+La interrompita Kanto, trad. el Orzeszko                        0,35
+
+Internacia Krestomatio                                          0,50
+
+Pola Antologio                                                  0,85
+
+La Faraono, trad. el Prus, tri volumoj                       po 0,90
+
+Versaĵoj en Prozo, trad. el Turgenev                            0,40
+
+Bona Sinjorino, trad. el Orzeszko (Esperanta Biblioteko
+Internacia)                                                     0,10
+
+
+
+Kolekto de "La Revuo".
+
+INSTRUA FAKO.
+
+                                                                Sm
+Esperanta Sintakso, laŭ verkoj de D-ro Zamenhof kaj aliaj
+aŭtoroj. En Esperanto verkita de Paul Fruictier                 0,60
+
+Konkordanco de Ekzercaro, ellaboris A. E. Wackrill              0,50
+
+Frazaro, de H. de Coppet                                        0,50
+
+Du mil novaj vortoj ĉerpitaj el la verkaro de D-ro Zamenhof,
+netroveblaj en Universala Vortaro, ellaboris P. Boulet          0,70
+
+
+
+Kolekto de "La Revuo".
+
+LITERATURA FAKO.
+
+
+                                                                 Sm
+Angla lingvo sen profesoro, unuakta komedio de Tristan Bernard,
+tradukita de Gaston Moch                                        0,50
+
+Aspazio, tragedio en kvin aktoj, de A. Svjentoĥovski,
+tradukita de D-ro Leono Zamenhof                                1,—
+
+Bukedo, artikoloj pri literaturaj kaj beletristikaj
+demandoj, de Ch. Lambert                                        0,90
+
+Imenlago, novelo de Theodor Storm, tradukita
+el la germana lingvo de Alfred Bader                            0,35
+
+La Faraono, romano de Prus, tradukita de D-ro Bein.
+Tri volumoj                                               (ĉiu) 0,90
+
+La Reĝo de la montoj, de Ed. About, tradukita de G. Moch.
+Ilustr. de Doré                                                 1,55
+
+La Rompantoj, kvin monologoj kun ilustraĵoj. Originale
+verkitaj de Frederiko Puĵula-Valjes                             0,50
+
+La Tria, Memoraĵoj pri la tria Kongreso, ilustr.                0,75
+
+Laŭroj, kolekto de verkoj premiitaj en la unua literatura
+konkurso de "La Revuo"                                          0,90
+
+Libro de l' Humoraĵo, originale verkita de P. de Lengyel        1,—
+
+Makbeto, dramo en kvin aktoj de Shakespeare, tradukita
+de D-ro H. Lambert                                              0,90
+
+
+
+Literaturaĵoj.
+
+
+Sm
+
+Sub la neĝo. Taglibro de juna loĝanto de la
+Jura montaro de J. J. Porchat, esperantigis J. Borel            0,50
+
+Solvo de la problemo de lingvo internacia,
+de ⁂ kun germana traduko de Profesoro Christaller               0,40
+
+Tri unuaktaj Komedioj: "La malfeliĉuloj" de A. v. Kotzebue
+— "Tie ĉi oni parolas Esperante" de T. Williams — "La Renkonto"
+de M. Hankel                                                    0,40
+
+Ĉu unu lingvo internacia aŭ tri? de Prof. L. Couturat           0,10
+
+Advokato Patelin. Triakta proza komedio, de Brueys kaj
+Palaprat, tradukita de M.-J. Evrot                              0,35
+
+L' Avarulo, de Molière, tradukita de S. Meyer                   0,35
+
+Cikado ĉe Formikoj, Unuakta komedio de Labiche kaj Legouvé      0,30
+
+Ĉu li? Romano originale verkita de D-ro Valienne                1,75
+
+Diversaĵoj. Rakontetoj tradukitaj de Lallemant kaj Beau         0,60
+
+Don Juan, de Molière, trad. de D-ro Boirac, rektoro
+de l' universitato de Dijon (Versaĵoj)                          0,70
+
+Elektitaj fabloj de La Fontaine, esperantigitaj
+de G. Vaillant                                                  0,35
+
+Eneido de Virgilio, tradukita de D-ro Vallienne. (Versaĵoj)     1,30
+
+Esperantaj prozaĵoj "kolekto da tekstoj de plej bonaj aŭtoroj"  1,—
+
+Kastelo de Prelongo, granda romano originale verkita
+de D-ro Vallienne                                               1,75
+
+Kiel ni plibeligos la vivon, originale verkita de Saĝulo        0,25
+
+Kondukanto de l' interparolado kaj korespondado kun aldonita
+Antologio Internacia, ellaboris A. Grabowski                    0,85
+
+La kvar Evangelioj, kunigitaj en unua rakonto kaj tradukitaj
+de la pastro R. Laisney                                         0,75
+
+Monadologio de Leibniz, traduko de D-ro Boirac, rektoro
+de l' universitato de Dijon                                     0,25
+
+Libro de l' Humoraĵo, originale verkita de Paul de Lengyel,
+nova eldono                                                     1,—
+
+La Nevo kiel Onklo, komedio en 3 aktoj de Schiller,
+trad. de Stewart                                                0,50
+
+Vojaĝo interne de mia ĉambro, de X. de Maistre,
+tradukita de S. Meyer                                           0,35
+
+Akvo dormanta, sceno el la Meksikana vivado, trad. Lotus        0,25
+
+Aventuroj de l' lasta Abenceraĝo, de Chateaubriand,
+trad. de R. Deshays                                             0,25
+
+Du rakontoj de D. de Rothau. La blanka Kastelo.
+Esperantista hotelo                                             0,50
+
+Du slavaj rakontoj. La Rakonto de Filip Vasiliĉ
+de M. Gorki. Ĉu li venas de J. Vazov                            0,30
+
+Edziĝo kontraŭvola, unuakta Komedio de Molière,
+trad. de Dufeutrel                                              0,30
+
+El la historio de Esperanto (Letero pri la deveno de
+Esperanto). Paroladoj de D-ro Zamenhof kaj D-ro Bein (Kabe)
+en la Boulogna kongreso                                         0,15
+
+En Svislando, kvin rakontoj el verkoj de svisaj
+aŭtoroj elektis kaj trad. E. Ramo                               1,35
+
+Esperantaj Perleroj el "Lingvo Internacia".
+Aforismoj, Proverboj, Poezioj, 3 Serioj                      po 0,15
+
+Eŭgenino Grandet, scenoj de la vivo de provinco
+de H. de Balzac, trad. E. Gasse                                 0,75
+
+
+
+Ĵurnaloj tute en Esperanto.
+
+
+Oficiala Gazeto Esperantista: Organo de la Lingva Komitato kaj de la
+Konstanta Komitato de la Kongresoj. 51 Rue de Clichy, Paris. 2,— Sm.
+
+Dia regno: Mühlheim (Rhein). P. Hübner, Friedrich-Wilhelm-Strasse 66.
+0,90 Sm.
+
+Esperanto: Genève (Svis.), oficiala organo de Universala
+Esperanto-Asocio, duonmonata. H. Hodler, 8, rue Bovy-Lysberg. 1,90 Sm.
+
+Esperanta Ligilo: Paris (V) (Franc.), monata organo en reliefpunktoj
+por blinduloj. Ĉefredaktoro: Th. Cart, 12. rue Soufflot. 1,20 Sm.
+
+Espero Katolika: Paris, monata. Administracio 23 rue Joubert, Paris.
+Redakcio Claudius Colas, 10 rue Béranger, Paris. 2,— Sm.
+
+Espero Pacifista: Neuilly-sur-Seine (Franc.), monata organo de
+"Pacifisto". G. Moch, 26, rue de Chartres. 2,— Sm.
+
+Hispana Revuo: Madrid (Hisp.), ilustrata monata revuo. Josefo Menendez,
+Strato Echegary 17, I. 1,30 Sm.
+
+Internacia Pedagogia Revuo: Bystrice-Hostyn, Moravio, Aŭstrio.
+Theodor Ĉejka. Membroj 1,— Sm. Nemembroj 1,50 Sm.
+
+Internacia Scienca Revuo: Genève (Svis.), monata R. de Saussure, 8, rue
+de Bovy-Lysberg. 2,75 Sm.
+
+Internacia Socia Revuo: Paris (III) (Franc.), monata. R. Louis (Maison
+Commune), 49 Rue de Bretagne. 1,40 Sm.
+
+Juna Esperantisto: Paris (Franc.), monata gazeto por junuloj,
+instruistoj kaj Esperantolernantoj. Presa Esperant. Societo, 33 rue
+Lacépède. 1,— Sm.
+
+La Bela Mondo: Dresden (Germ.), ilustrata monata gazeto. F. Emil Boden,
+Dresden-A., Bismarckplatz 12. 3,— Sm.
+
+La Revuo: Paris (Franc.), internacia monata literatura gazeto, 48
+paĝoj. Administracio: Librejo Hachette & Co., 79, Boulevard St.
+Germain. 2,75 Sm. Por Germanujo kaj Aŭstrujo ĉe Esperanto Verlag Möller
+& Borel, Berlin S.W. 68, Lindenstr. 18-19.
+
+La Spritulo: Leipzig (Germ.), monata gazeto por ŝerco, humoro kaj
+satiro. Richard Bresch, Körnerstrasse 31, Leipzig. 1,20 Sm.
+
+Lingvo Internacia: Paris (Franc.), monata organo. Kun aldono
+literatura. Presa Esperantista Societo. 33, rue Lacépède. 3,— Sm.
+
+Voĉo de Kuracistoj: Lwów (Galicio). D-ro Stefan Mikolajski, Lwów,
+strato Sniadeckich 6. 1,50 Sm.
+
+
+Presejo de Möller & Borel G. m. b. H., Berlin SW., Lindenstr. 18/19.
+
+
+
+
+
+
+End of Project Gutenberg's Fabeloj de Andersen, by Hans Christian Andersen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK FABELOJ DE ANDERSEN ***
+
+***** This file should be named 27915-0.txt or 27915-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/7/9/1/27915/
+
+Produced by Andrew Sly and the Online Distributed
+Proofreading Team at http://www.pgdp.net Thanks to the
+Toronto Esperanto Circle for providing the original book.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,2646 @@
+﻿The Project Gutenberg EBook of Elektitaj fabloj de J. de La Fontaine, by 
+Jean de La Fontaine
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Elektitaj fabloj de J. de La Fontaine
+
+Author: Jean de La Fontaine
+
+Translator: G. Vaillant
+
+Release Date: April 7, 2016 [EBook #51690]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ELEKTITAJ FABLOJ--J. DE LA FONTAINE ***
+
+
+
+
+Produced by Andrew Sly and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Books project.)
+
+
+
+
+
+
+
+  ELEKTITAJ FABLOJ
+  DE
+  J. DE LA FONTAINE
+
+  ESPERANTIGITAJ
+  DE
+  G. VAILLANT
+
+Profesoro en la liceo de Angulemo.
+
+DUA ELDONO
+
+  PARIS
+  LIBRAIRIE HACHETTE ET Cie
+  79, BOULEVARD SAINT-GERMAIN, 79
+
+1906
+
+Tous droits réservés.
+
+
+
+AL SINJORO L. DE BEAUFRONT
+
+UNUA FRANCA PROTAGONISTO DE ESPERANTO
+
+  KAJ
+  AL SIA SINDONEMA KAJ SIMPATIA KOLEGO
+  CARLO BOURLET
+
+TIUN ĈI VERKETON DANKE DEDIĈIS
+
+G. Vaillant.
+
+
+
+
+TABELO DE LA ENHAVO
+
+  Antaŭparolo                                v
+  Vivo de Ezopo                             11
+  Al lia moŝto la princa                    23
+
+LIBRO UNUA
+
+     I. La cikado kaj la formiko            24
+    II. La korvo kaj la vulpo               25
+   III. La rano kaj la bovo                 25
+    IV. La du muloj                         26
+     V. La lupo kaj la hundo                27
+    VI. La bovino, la kaprino kaj la
+          ŝafino kuniĝitaj kun la leono     28
+   VII. La bissako                          29
+  VIII. La hirundo kaj la birdetoj          30
+    IX. La urbrato kaj la kamprato          32
+     X. La lupo kaj la ŝafido               33
+    XI. La ŝtelistoj kaj l' azeno           34
+   XII. La Morto kaj la malfeliĉulo         35
+  XIII. La Morto kaj la arbohakisto         35
+   XIV. La vulpo kaj la cikonio             36
+    XV. La knabo kaj la instruisto          37
+   XVI. La koko kaj la perlo                38
+  XVII. La burdoj kaj la mielmuŝoj          39
+ XVIII. La kverko kaj la kano               40
+
+LIBRO DUA
+
+     I. Kunsido de ratoj                    42
+    II. La vulpo havanta proceson kontraŭ
+          la vulpo antaŭ la simio           43
+   III. La du bovoviroj kaj la rano         44
+    IV. La hundino kaj ŝia kunulino         44
+     V. La leono kaj la muŝeto              45
+    VI. L' azeno ŝarĝita de spongoj kaj
+          l' azeno ŝarĝita de salo          47
+   VII. La leono kaj la rato                48
+  VIII. La kolombo kaj la formiko           48
+    IX. La leporo kaj la ranoj              49
+     X. La koko kaj la vulpo                50
+    XI. La korvo volanta imiti la aglon     51
+   XII. La pavo plendanta al Junono         52
+  XIII. La leono kaj la azeno ĉasantaj      53
+
+LIBRO TRIA
+
+     I. La muelisto, lia filo kaj l' azeno  55
+    II. La membroj kaj la stomako           57
+   III. La lupo fariĝinta paŝtisto          59
+    IV. La ranoj petantaj reĝon             60
+
+
+
+
+ANTAŬPAROLO
+
+
+Jam multaj tradukoj de la ĉefaj verkoj literaturaj, precipe
+_Hamleto_ de Shakespeare, _Kaino_ de Byron, _Iliado_ de Homero,
+_La Gefratoj_ de Göthe, _La Neĝa Blovado_ de Puŝkin, _Unua
+Brandfaristo_ de Tolstoï, k. t. p., elpruvis en maniero nediskutebla,
+ke Esperanto tre taŭgas por la literaturo. Tia rezultato estas
+gravega. Ĝi efektive plivastigos la kampon kaj la rolon de la nova
+lingvo internacia, kaj altiros pli grandan nombron da adeptoj el tiuj
+personoj, kiuj, ne estante komercistoj nek vojaĝantoj, povas kredi,
+ke malofte ili havos okazon uzadi Esperanton.
+
+Ni do pensis, ke provante esperantigi _La Fablojn_ de La Fontaine
+(_La Fonten_), ni helpos al la plivastigo de la Zamenhofa lingvo
+kaj povos allogi al nia afero kelke da niaj samlandanoj.
+
+Sed nun kiamaniere traduki tiujn ĉi fablojn? Per prozo aŭ per
+versoj rimitaj?
+
+Certe la prozo permesas al la tradukanto sekvi la tekston pli
+laŭvorte kaj forlasi nenian detalon; sed ĝi estas peza, iafoje
+malgracia kaj la plej ofte malresponda al la fabla stilo rapida,
+kvazaŭ flugila, kaj kies indo konsistas ne sole en la vortoj sed
+ankaŭ en la ritmeco.
+
+Per versoj rimitaj? Sed ĉe tia okazo mil malfacilaĵoj, preskaŭ
+nevenkeblaj, kontraŭstaras antaŭ la tradukanto. Oni sciu efektive,
+ke Esperanto kalkulas apenaŭ kvardek aŭ kvindek vortfiniĝojn
+diferencajn, dum la franca lingvo posedas almenaŭ cent kvindek da
+tiuj. Plie en Esperanto la substantivoj preskaŭ solaj havas la
+finiĝojn _o_, _on_, _oj_, _ojn_; la verboj--la finiĝojn _as_,
+_is_, _os_, _us_, k. t. p. Sekve preskaŭ ĉiam ia substantivo
+devas rimiĝi kun alia substantivo; verbo--kun verbo; nominativo,
+akuzativo--kun nominativo, akuzativo; tempo de estanteco--kun tempo
+de estanteco, k. t. p. sed ĉe la lingvo franca, la finiĝoj estas
+tiel multaj, ke ia vorto, kia ajn ĝi estas, povas rimiĝi kun vorto
+el speco la plej diferenca. Fine en Esperanto la rimo ne estas bona
+ĉe la vortoj multsilabaj, se ĝi ne konsistas el du silaboj
+samsonaj. Voli do esperantigi versaĵon francan per versoj rimitaj,
+ĝi estas penadi ludi sur instrumento dukorda pecon muzikan
+aranĝitan por violono kvarkorda.
+
+Sed feliĉe, se Esperanto ne povas batali kun la franca poezio pri la
+rimo, ĝi revenĝe triumfas facile pri unu alia punkto. Ĝi efektive,
+dank' al sia maniero de akcentado de silaboj, povas verki versojn
+ritmigitajn el ritmoj la plej diversaj. Oni povas diri, ke en tiu ĉi
+rilato, ĝia liro posedas tiom da kordoj kiom la liroj greka kaj
+latina. Ĝi ja povas ankaŭ soni harmonie per versoj iambaj,
+troĥeaj, daktilaj, amfibraĥaj, hekzametraj, pentametraj, k. t. p.
+
+Tia diverseco de metroj poeziaj al ni permesis traduki verse la
+fablojn Lafontenajn, ne deviĝante elturmenti la tekston kaj
+dekliniĝi malproksimen de la originalo. Dank' al la fleksebleco de
+tiuj ĉi metroj, ni penadis reprodukti, kiel eble plej multe, la
+mezuritan longecon, tio estas la saman nombron silaban de la versoj
+francaj.
+
+Ni aldonas tie ĉi kelkajn mallongigitajn klarigojn pri la
+versofarado esperanta, por la legontoj de kiuj ĝi ne estas sufiĉe
+konata.
+
+
+Versaĵo estas ĉiu verko skribita laŭ certa _ritmo_. Ritmo en la
+versoj estas harmonia kaj laŭtakta alternado de silaboj akcentitaj
+kaj neakcentitaj[1] en tia maniero, ke de unu akcentita silabo ĝis
+la alia en la elparolado pasas ĉiam egala mezuro da tempo.
+
+Krom ritmo, versaĵo ordinare (kvankam ne ĉiam) havas ankoraŭ
+_rimojn_, t. e. egalsonan finiĝadon de la versoj[2].
+
+Versaĵo povas havi rimojn (versoj rimitaj) aŭ esti sen rimoj
+(versoj blankaj); sed _ritmon_ ĝi _nepre_ devas havi, ĉar rimita
+parolo sen ritmo estas nur rimaĵo, sed ne versaĵo.
+
+La kuniĝo de unu silabo akcentita kun unu aŭ kelkaj silaboj
+neakcentitaj estas nomata _piedo_.
+
+La plej uzataj piedoj estas _troĥeo_[3] ˉ˘, _iambo_ ˘ˉ, _daktilo_
+ˉ˘˘, _amfibraĥo_ ˘ˉ˘, _anapesto_ ˘˘ˉ.
+
+Versaĵo povas esti skribita aŭ per piedoj _unuspecaj_ (ekzemple
+versaĵo iamba, kiu konsistas sole el iamboj, daktila, kiu konsistas
+el daktiloj, k. t. p.), aŭ per piedoj _miksitaj_. (En la lasta okazo,
+en la piedoj malplisilabaj la silaboj estas elparolataj iom pli
+longe, por ke ilia mezurtempo estu egala al la mezurtempo de la
+piedoj plisilabaj).
+
+Ekzemploj de versoj.
+
+1. Troĥeo:
+
+  Su̅r lă | ka̅mpŏ, | fo̅r dĕ l' |mo̅ndŏ,
+  A̅ntaŭ̆ | no̅ktŏ | de̅ sŏ|me̅rŏ,
+  A̅mĭ|ki̅nŏ | e̅n lă | ro̅ndŏ
+  Ka̅ntăs | ka̅ntŏn | pri̅ l' ĕs|pe̅rŏ
+
+(Liro de Esperantistoj, paĝo 10.)
+
+2. Iambo:
+
+  Ĕn ni̅g|ră no̅k|tŏ tu̅|tĕ so̅|lĕ
+  Mĭ sta̅|răs ga̅r|dŏn se̅n|păro|lĕ;
+  Ĕra̅răs fo̅r | lă pe̅n|sŏ mi̅|ă
+  Ăl mi̅|ă do̅|mŏ fa̅|mĭli̅|ă
+
+(Liro p. 20.)
+
+3. Daktilo:
+
+  Sa̅rkăs knă|bi̅nŏ kă|na̅bŏn
+  A̅pŭd ĝăr|de̅nŏ sĭn|jo̅ră;
+  Ŝi̅n ălaŭ̆|de̅tŏ dĕ|ma̅ndăs:
+  «Ki̅ăl vĭ | ti̅ŏm dŏ|lo̅ră?»
+
+(Liro p. 112.)
+
+4. Amfibraĥo:
+
+  Ĕn me̅zŏ | dĕ no̅ktŏ, | ĕn blu̅ă | ĉĭe̅lŏ,
+  Trăflu̅gĭs | kăj ka̅ntĭs | plĕj be̅lă | ănĝe̅lŏ.
+  Kăj nu̅bŏj | kăj ste̅lŏj | kăj lu̅n' ĕn | ĭra̅dŏ
+  Ăte̅ntĭs | kŭn ĝo̅jŏ | jĕ l' sa̅nktă | kănta̅dŏ.
+
+(Liro p. 32.)
+
+5. Anapesto:
+
+  Mĭ răko̅n|tĭs ăl ma̅|rŏ sĕnbo̅r|dă
+  Prĭ lă gra̅n|dăj tŭrme̅n|tŏj ĕn ko̅|rŏ,
+  Kăj pĕr bru̅|ŏ măllaŭ̅|tă dĕ l' o̅n|dŏj
+  Ĝĭ rĕspo̅n|dĭs ăl mi̅ | kŭn făvo̅|rŏ.
+
+(Liro p. 106.)
+
+6. Versoj mikspiedaj:
+
+Ĉar la reciprokaj kombinoj de diversaj piedoj povas esti tre multaj,
+tial ankaŭ la specoj de versoj mikspiedaj estas multaj. Ni donos tie
+ĉi nur kelkajn ekzemplojn:
+
+_a_) Mikspiedaj versoj _tipaj_, en kiuj en la tuta versaĵo la
+kombinoj estas faritaj laŭ severe difinita _ordo_, ekzemple:
+
+  Fo̅rtĕ nĭ | sta̅rŭ|, fra̅tŏj ă|ma̅tăj,
+    Pŏr ni̅ă | sa̅nktă | ăfe̅rŏ!
+  Ni̅ bătă|la̅dŭ | ku̅nĕ tĕ|na̅tăj
+    Pĕr u̅nŭ | be̅lă | ĕspe̅rŏ!
+
+(Liro p. 7.)
+
+  Ĕn vĕspe̅r|ŏ sŏme̅r|ă || vŏjĕvo̅|dŏ kŏle̅|ră
+    Ăl lă he̅j|mă kăste̅|lŏ răpi̅|da̅s;
+  Ăl lă li̅|tŏ ĕdzi̅|nă || kŭn tĕru̅|rŏ sĕnfi̅|nă
+    Lĭ ălve̅|năs,--nĕni̅|ŭn lĭ vi̅|dăs.
+
+(Liro p. 12.)
+
+_b_) Mikspiedaj versoj _sentipaj_. Ekzemple:
+
+  Gu̅tŏ dĕ | plu̅vŏ | ĕnfa̅lĭs | fo̅jĕ
+    Ĕn gra̅ndăn | prŏfu̅ndăn | ma̅rŏn.
+  Ho̅! ĝĭ | fo̅rtĕ | ĕkkri̅ĭs | mălgo̅jĕ,
+    Vĭda̅ntĕ | lă va̅stăn | ăkva̅rŏn.
+
+(Liro p. 70.)
+
+La longeco de versoj povas esti:
+
+_a_) Ĉiam _egala_. Ekzemple:
+
+  Supre staras sur la mondo
+  La silenta kapeleto,
+  En la valo, ĉe la fonto,
+  Ĝoje kantas paŝtisteto.
+
+(Liro p. 22.)
+
+Tie ĉi la tuta versaĵo konsistas el versoj 8-silabaj;
+
+_b_) _Tipe malegala_, se versoj de unu longeco laŭ severe
+difinita tipo alternas kun versoj de alia longeco. Ekzemple:
+
+  Trĕ ĉa̅rmĕ | ĝĭ lu̅mĭs, | lă su̅nŏ | răva̅ntă,
+    Ĕn mi̅ă | dĕ vi̅vŏ | măte̅nŏ;
+  En brusto kuraĝo kaj forto bolanta,
+    Espero kaj kredo en pleno.
+
+(Liro p. 23.)
+
+En tiu ĉi versaĵo post ĉiu verso 12-silaba iras verso 9-silaba.
+
+  Ho, mia kor', ne batu maltrankvile,
+    El mia brusto nun ne saltu for!
+  Jam teni min ne povas mi facile,
+      Ho, mia kor'!
+
+(Liro p. 11.)
+
+En tiu ĉi tuta versaĵo la versoj ripetiĝas ĝis la fino egale en
+la sekvanta ordo: verso 11-silaba, v. 10-silaba, v. 11-silaba, v.
+4-silaba.
+
+_c_) _Sentipe malegala._ Ekzemple:
+
+    I̅ăm lă | kve̅rkŏ | di̅rĭs ăl | ka̅nŏ:           (10 silaboj)
+  «Vĭ ha̅văs | lă ra̅jtŏn | kŭlpi̅gĭ | nătu̅rŏn:   (12 silaboj)
+    Bĭrde̅tŏ | po̅r vĭ | ŝa̅rĝ' ĕstăs | pe̅ză;       (10 silaboj)
+      Vĕnte̅tŏ, | se̅ ĕkblŏ|va̅ntĕ                     (8 silaboj)
+  Ĝĭ nu̅r ĕk|sŭlki̅găs | lă su̅prŏn | dĕ l' a̅kvŏ, (12 silaboj)
+      Lă vi̅ăn | ka̅pŏn | flĕksi̅găs.                  (8 silaboj)
+
+(_Fabloj de La Fontaine, p. 40_)
+
+Angulemo, la 26an de Aŭgusto 1903.
+
+
+[1] En aliaj lingvoj oni distingas silabojn _longajn_ kaj _mallongajn_.
+
+[2] La egalsoneco devas nepre komenciĝi de la _lasta akcentita vokalo_.
+Tiel ekzemple la vorto _kor'_ povas rimiĝi kun _for_, _komenco_ povas
+rimiĝi kun _potenco_, sed oni ne povas rimi ekzemple _veturi_ kun _fari_,
+kvankam ambaŭ finiĝas per _i_ kaj eĉ per _ri_.
+
+[3] Per ˉ ni signifas silabon akcentitan kaj per ˘ silabon neakcentitan.
+En aliaj lingvoj tiuj ĉi signoj montras silabojn longajn kaj mallongajn.
+
+
+
+
+VIVO DE EZOPO FRIGILANDANO[4]
+
+
+... Ezopo estis Frigilandano, el urbeto nomata Armorium. Li naskiĝis
+ĉirkaŭ la kvindeksepa olimpiado, ducent jarojn proksimume post la
+fondo de Romo. Oni ne povas diri ĉu li estis prava danki al la
+naturo, aŭ ĝin kulpigi; ĉar, donante al li tre belan spriton, ĝi
+lin naskis malbelforma kun vizaĝo malplaĉa, apenaŭ havanta homan
+figuron, kaj ĝi eĉ al li rifuzis la uzadon de la parolo. Kun tiaj
+malbonaĵoj, eĉ se li ne estis pro sia naskiĝo difinita por esti
+sklavo, li ne povis ne fariĝi tia. Cetere lia animo ĉiam sin
+montris libera kaj sendependa de la sorto.
+
+Lia unua mastro lin sendis al la kampoj por plugi la teron, ĉu tial
+ke li juĝis lin malkapabla je ia alia laboro, ĉu por formovi for si
+objekton tiel malĉarman. Tiam okazis, ke al ĉi tiu mastro, kiam li
+iris viziti sian kampodomon, kampanaro donis figojn. Li ilin trovis
+belaj kaj ilin tre zorge apartigis, ordonante al sia servanto, nomata
+Agatopus, alporti ilin al li ĉe la foriro de la bano. La hazardo
+volis, ke Ezopo havis aferon en la loĝejo. Tuj kiam li estis
+enirinta, Agatopus uzis la okazon kaj manĝis la figojn kune kun
+kelke da siaj kamaradoj, kaj je tiu ĉi friponaĵo li kulpigis
+Ezopon, ne kredante, ke ĉi tiu povos sin senkulpigi, tiel li
+balbutadis kaj ŝajnis idiota. La punoj kiujn uzadis la antikvuloj
+kontraŭ siaj sklavoj estis kruelegaj, kaj tia kulpo tre puninda. La
+malfeliĉa Ezopo sin ĵetis al la piedoj de sia mastro, kaj,
+parolante per gestoj kiel eble plej klare li povis, li komprenigis,
+ke li kiel favoron petas nur, ke la puno por momento prokrastiĝu.
+Ĉi tiun favoron ricevinte, li iris serĉi akvon varmetan, ĝin
+trinkis antaŭ sia sinjoro, metis siajn fingrojn en la buŝon kaj,
+sin vomiginte, nur ĉi tiun akvon elĵetis. Kiam li estis
+senkulpiginta sin tiamaniere, li konsilis, ke oni devigu la aliajn
+fari tiel. Ĉiuj miris, ĉar ne estis kredeble, ke Ezopo povas
+elpensi tian rimedon. Agatopus kaj liaj kamaradoj ne ŝajnis
+surprizitaj. Ili, kiel la Frigilandano, trinkis akvon kaj metis la
+fingrojn en la buŝon, sed evitis singardeme enigi ilin tro
+profunden. La akvo tamen efikis kaj videbligis la figojn ankoraŭ
+tute krudajn kaj tute ruĝajn. Per tia rimedo Ezopo sin savis, kaj
+liaj kulpigintoj estis duoble punitaj pro sia manĝegemo kaj pro sia
+malboneco. La tagon morgaŭan, kiam la mastro estis foririnta,
+kelkaj vojaĝantoj erariĝintaj--iuj diras, ke ili estis pastroj de
+Diano--petegis, en nomo de Zeŭso gastama, Ezopon, kiu faris sian
+kutiman laboron, montri al ili la vojon por iri al la urbo. Ezopo
+unue devigis ilin ripozi sub la ombro; poste prezentinte al ili
+manĝeton, li volis esti ilia gvidanto kaj lasis ilin nur kiam li
+estis metinta ilin sur la bonan vojon. Apenaŭ Ezopo estis forlasinta
+ilin, kiam pro la varmo kaj la laciĝo li ekdormis. Dum sia dormo, li
+sonĝis, ke la Fortuno, starante antaŭ li, lian langon malligas kaj
+per tia rimedo al li donacas ĉi tiun arton, kies rajte li estas
+nomata elpensinto. Pro tia aventuro ĝojigite, li subite vekiĝis:
+«Kio ĝi estas? li diris vekiĝante; mia voĉo liberiĝis; mi
+elparolas facile _rastilon_, _plugilon_ kaj kion ajn mi volas.»
+El tiu ĉi mirindaĵo okazis, ke li estis aĉetita de alia mastro.
+Efektive, ĉar ia servisto, nomata Zenas, kiu havis la oficon de
+registristo kaj de observisto de la sklavoj, estis batinta unu el
+ili troege pro kulpo kiu ne estis puninda tiel, Ezopo ne povis ne
+riproĉi lin, kaj al li minacis, ke liaj malbonaj agoj fariĝos
+sciataj. Zenas, por deturni la danĝeron kaj venĝi al Ezopo, iris
+diri al la mastro, ke ia miregindaĵo okazis en la domo: la
+Frigilandano retrovis, la parolon, sed la malbonulo ĝin uzadas nur
+por blasfemi kaj por malbone paroli pri sia sinjoro. La mastro ĝin
+kredis kaj eĉ plie faris, ĉar li al Zenas donis Ezopon, kun
+libereco agi kun li laŭ sia volo. Ia komercisto iris viziti Zenason
+revenintan al la kampoj kaj demandis ĉu por mono li volas provizi
+lin je porta besto. «Ne, diris Zenas, mi ne havas rajton fari tion;
+sed se vi volas, al vi mi vendos unu el niaj sklavoj.» Ĉe tiuj ĉi
+vortoj, li venigis Ezopon: «Ĉu, diris la aĉetanto, vi volas
+min moki, proponante al mi aĉeti tiun ĉi personon? Li ŝajnas
+felsako.» Tuj kiam la aĉetanto estis tiel parolinta, li foriris
+duone murmurante, duone ridante pri tiu ĉi bela objekto. Ezopo lin
+revokis kaj diris: «Min aĉetu sentime; mi ne estos senutila al vi.
+Se vi havas infanojn kriemajn kaj malbonemajn, mia vido ilin
+silentigos: oni minacos min al ili kiel beston.» Tiu ĉi mokaĵo
+plaĉis al la aĉetanto. Li do aĉetis nian Frigilandanon por tri
+oboloj, kaj ridante li diris: «Dioj estu laŭdataj! En vero mi ne
+faris grandan akiron, sed ne elpezis grandan monon.»
+
+Inter aliaj komercaĵoj, ĉi tiu komercisto vendadis sklavojn, kaj
+pro tio okazis, ke irante Efezon por ilin ekvendi, li disdonis
+al ili, laŭ ilia ofico kaj iliaj fortoj, kion ili devis portadi
+por la bezonoj de la vojaĝo. Ezopo petis, ke oni atentu lian
+malgrandkreskon; cetere li estas novaveninto kaj oni devas agi
+dolĉe kun li. «Vi nenion portos, se vi volas», al li diris liaj
+kamaradoj. Ezopo, por montri sian kuraĝon, volis porti ŝarĝon kiel
+la aliaj. Oni do lasis lin elekti; li prenis la pankorbon; ĝi
+estis la ŝarĝo la plej peza. Ĉiuj pensis, ke li ĝin prenis pro
+malspriteco; sed tuj ĉe la tagmanĝo la pankorbo estis malplenigita
+kaj tiom malpliiĝis la ŝarĝo de l' Frigilandano. La samo okazis
+la vesperon kaj la morgaŭan tagon, tiel bone ke post du tagoj li
+marŝis senŝarĝe. Oni admiris la saĝon kaj la kalkulon de tia persono.
+
+Siaflanke la komercisto elvendis ĉiujn siajn sklavojn, esceptinte
+gramatikiston, kantiston kaj Ezopon, kiujn li alkondukis Samoson por
+vendi. Antaŭ ol ilin konduki sur la vendoplacon, li vestigis la du
+unuajn kiel eble plej dece, por doni al la komercaĵo, laŭ la kutimo
+de ĉiu vendisto, la plej belan ŝajnon. Kontraŭe Ezopo vestiĝis je
+sako kaj metiĝis inter siaj du kunuloj por doni al ili pli multe da
+brilo. Multaj aĉetantoj sin prezentis, inter aliaj filozofo nomata
+Ksantus. Li demandis la gramatikiston kaj la kantiston kion ili
+scias fari. «Ĉion», ili respondis. Ĝi ridigis la Frigilandanon, oni
+povas imagi en kia maniero. Planudo[5] rakontas, ke la vidantoj
+preskaŭ forkuris, tiel malbele li grimacis. La vendisto postulis por
+sia kantisto mil obolojn, por sia gramatikisto tri mil, kaj promesis,
+se oni aĉetis unu el ili, aldoni Ezopon senpage. La tro granda prezo
+de la gramatikisto kaj de la kantisto maldecidigis Ksantuson, sed
+por ke li ne revenu al hejmo nenion aĉetinte, liaj lernantoj al li
+konsilis aĉeti ĉi tiun duonhometon, kiu estis ridinta en maniero
+tiel ĉarma: lin oni faros timigilo; li amuzos la vidantojn per sia
+mieno. Ksantus lasis sin konvinki kaj aĉetis Ezopon por sesdek
+oboloj. Antaŭ ol lin aĉeti, li demandis lin por kio li taŭgos,
+kiel li estis demandinta liajn kamaradojn. «Por nenio, respondis
+Ezopo, ĉar la du aliaj detenis ĉion por si mem.» La komizoj de la
+limdepagejo liberigis Ksantuson de la limimpostoj kaj donis kvitancon
+senpage.
+
+... Ian tagon de provizvendo, Ksantus, kiu intencis regali siajn
+amikojn, ordonis al Ezopo aĉeti tion, kio estos la plej bona, kaj
+nenion alian. «Mi vin instruos, diris en si mem la Frigilandano,
+precizigi kion vi deziras, ne konfidante al la decido de sklavo.»
+Li do aĉetis nur langojn, kiujn li preparigis kun saŭcoj ĉiuspecaj:
+la unua manĝaĵo, la dua, la tria, ĉiuj konsistis el langoj. La
+invititoj laŭdis unue la elekton de tia manĝaĵo; sed fine ĝi
+tedis al ili. «Ĉu mi ne ordonis al vi, diris Ksantus, aĉeti tion,
+kio estos la plej bona?--Nu! kio estas pli bona ol la lango? rediris
+Ezopo. Ĝi estas la ligilo de la vivo societa, la ŝlosilo de la
+sciencoj, la organo de la vero kaj de la prudento: dank' al ĝi oni
+konstruas kaj malsovaĝigas la urbojn; oni instruas, oni konvinkas,
+oni regas ĉe la kolektiĝoj, oni plenumas la ĉefan el la devoj, kiu
+estas laŭdi la diojn.--Nu! diris Ksantus, kiu intencis lin konfuzi,
+aĉetu morgaŭ tion, kio estas plej malbona: tiuj samaj invititoj
+venos al mi, kaj mi volas alie regali ilin.»
+
+La morgaŭan tagon, Ezopo ankoraŭ aranĝigis nur langojn, dirante,
+ke la lango estas la plej malbona objekto, kiu ekzistas en la mondo.
+Ĝi estas la patrino de ĉiuj disputoj, la nutristino de la procesoj,
+la kaŭzo de la malpacoj kaj de la militoj. Ĝi ja estas la organo de
+la vero, sed same ĝi estas la organo de la eraro, kaj, kio estas pli
+malbona, de la kalumnio. Dank' al ĝi oni detruas la urbojn, oni
+instigas la homojn al malbonaj aferoj. Ĝi vere laŭdas la diojn, sed
+ankaŭ ĝi blasfemas ilian potencon. Iu el la ĉeestantoj diris al
+Ksantus, ke vere tiu ĉi servisto estas tre utila al li; ĉar li
+scias kiel eble plej bone ekzercadi la paciencon de filozofo.
+
+... Cetere, ne sole kun sia mastro, sed ankaŭ kun aliaj, Ezopo
+trovis okazon ridi kaj diri spritaĵojn. Ksantus estis sendita lin en
+ian lokon; sur vojo li renkontis magistratanon, kiu lin demandis,
+kien li iras. Ĉu pro distreco, ĉu pro alia kaŭzo, li respondis, ke
+li ne scias. La magistratano, taksante tian respondon malestimema kaj
+nerespekta, kondukigis lin al la malliberejo. «Ĉu vi ne vidas, li
+diris al la kondukantoj, ke mi bone respondis? Ĉu mi sciis, ke oni
+alkondukos min tien, kien mi iras?» La magistratano lin lasis
+foriri, kaj pensis, ke Ksantus estas feliĉa havante sklavon tiel
+plenspritan.
+
+Ksantus siaflanke per tio vidis, kiel profite estas por li ne
+liberigi Ezopon kaj kiom da honoro donas al li la posedo de tia
+sklavo. Ian tagon, kiam li drinkadis kune kun siaj lernantoj, Ezopo,
+kiu servis ilin, vidis, ke la vinvaporoj jam plivarmigas la cerbojn
+de la instruatoj kaj ankaŭ de la profesoro. «La drinkado, li diris,
+havas tri gradojn: unue la volupton, due la ebriecon, trie la
+furiozon.» Oni mokis lian diron, kaj oni daŭrigis malplenigi la
+vinpotojn. Ksantus tiom eltrinkis, ke li perdis la prudenton kaj
+fanfaronis, ke li eltrinkos la maron. Ĝi ridigis la ĉeestantojn.
+Ksantus ree certigis tion, kion li estis dirinta, kaj vetis je sia
+domo, ke li eltrinkos la tutan maron, kaj kiel garantion pro la veto
+li donis la ringon, kiun li havis sur la fingro.
+
+La tagon sekvantan, kiam la vaporoj vinaj estis forigitaj, Ksantus
+treege miris ne plu trovante sian ringon, kiun li multe ŝatis. Ezopo
+al li diris, ke ĝi estas perdita kaj ankaŭ la domo, dank' al la
+veto, kiun li estis farinta. La filozofo tre maltrankviliĝis; li
+petegis Ezopon trovi rimedon, por eltiri lin el embaraso. Ezopo
+elpensis la jenan:
+
+Kiam alvenis la tago difinita por la plenumo de la veto, la tuta
+popolo de Samos alkuris al la bordo de la maro por apudesti
+al la honto de la filozofo. Tiu el liaj lernantoj, kiu estis
+kontraŭvetinta, jam triumfis. Ksantus diris al la kolektiĝo:
+«Sinjoroj, mi vetis vere, ke mi eltrinkos la tutan maron, sed ne la
+riveregojn kiuj eniras en ĝin; sekve tiu, kiu kontraŭvetis, deturnu
+ilian kuradon kaj mi faros tion, kion mi fanfaronis fari.» Ĉiuj
+miris la rimedon kiun Ksantus trovis por foriri honore el tiel
+malbona afero. La lernanto konfesis, ke li estas venkita, kaj petis
+sian instruiston al li pardoni. Ksantuson oni rekondukis al lia domo
+kun aplaŭdoj.
+
+Kiel rekompencon Ezopo de li petis la liberecon. Ksantus rifuzis ĝin
+al li kaj diris, ke la tempo por lin liberigi ne venis ankoraŭ; se
+tamen la dioj ordonos, li konsentos je tio; sed li, Ezopo, devas
+atenti la unuan antaŭsignon, kiun li rimarkos ĉe la foriro de la
+loĝejo; se li estos feliĉa, se ekzemple du kornikoj antaŭ liaj
+okuloj sin prezentos, li havos liberecon; se li vidos nur unu,
+li restos sklavo. Ezopo tuj foriris. Lia mastro loĝis izole kaj
+kredeble ĉe loko kovrita de grandaj arboj. Apenaŭ foririnte, nia
+Frigilandano ekvidis du kornikojn, kiuj flugis sur la plej altan
+arbon. Li iris raporti pri tio ĉi al sia mastro, kiu volis vidi mem,
+ĉu li diras la veron. Antaŭ ol Ksantus alvenis, unu el la kornikoj
+forflugis. «Ĉu ĉiam vi trompos min? diris la mastro al Ezopo; oni
+lin vergu». Dum la frapado, oni venis inviti Ksantuson al ia
+festeno; li promesis alesti. «Ho ve! ekkriis Ezopo, la antaŭsignoj
+estas tre mensogemaj! Mi, kiu vidis du kornikojn, estas vergata;
+mia mastro, kiu vidis nur unu, estas invitata al edziĝa festeno».
+Tiu ĉi spritaĵo tiel plaĉis al Ksantus, ke li ordonis ĉesi vergi
+Ezopon; sed la liberecon li ne povis decidiĝi al li doni, kvankam li
+promesadis ĉe diversaj okazoj.
+
+... Post kelke da tempo, Krezus, reĝo de Lidilando, anoncigis al la
+Samoslandanoj, ke ili devas fariĝi liaj depagantoj; alie li submetos
+ilin per la armiloj. La plimulto opiniis, ke oni devas obei lin.
+Ezopo al ili diris, ke la Fortuno prezentas du vojojn al la homoj:
+unu de libereco, malglata kaj dorna en la komenco, sed poste tre
+agrabla; la alia de sklaveco, kies komencoj estas pli facilaj
+sed daŭrigo netolerebla. Per tio li sufiĉe klare konsilis al la
+Samoslandanoj defendi sian sendependecon. Ili resendis la ambasadoron
+de Krezus, ne kontentiginte lian peton.
+
+Krezus sin preparis ataki ilin. La ambasadoro al li diris, ke dum ĉi
+tiuj havos kun si Ezopon, li ne facile submetos ilin, pro la konfido,
+kiun ili havas je la saĝo de tiu persono. Krezus al ili alsendis
+postuli lin, kun promeso lasi al ili la liberecon, se ili liveros
+lin al li. La ĉefuloj de la urbo taksis ĉi tiujn kondiĉojn tre
+akcepteblaj kaj ne kredis, ke ilia trankvileco kostos tro kare, se
+ili aĉetos ĝin liverante Ezopon. La Frigilandano ŝanĝigis ilian
+intencon, rakontante, ke la ŝafinoj, farinte pactraktaĵon kun la
+lupoj, donis al ili siajn hundojn kiel garantiulojn. Kiam ili ne
+havis plu defendantojn, la lupoj ilin sufokis kun pli malgranda
+peno ol antaŭe. Ĉi tiu apologo efikis kaj la Samoslandanoj prenis
+decidon tute kontraŭan je tiu, kiun ili estis prenintaj. Ezopo tamen
+volis iri al Krezus, kaj diris, ke li estos pli utila al ili, se li
+ĉeestos ĉe la reĝo, ol se li restos en Samos.
+
+Kiam Krezus vidis lin, li miris, ke persono tiel malforta estis
+tiel malhelpinta al li. «Kio do! jen estas tiu, dank' al kiu oni
+kontraŭstaras miajn volaĵojn!» ekkriis li. Ezopo sin ĵetis al
+liaj piedoj: «Homo ia, li diris, kaptadis akridojn; cikado troviĝis
+sub lia mano. Li estis jam mortigonta ĝin kune kun la akridoj:
+«Kion mi faris al vi? ĝi diris al ĉi tiu homo: mi ne mordetas
+viajn grenojn; mi ne kaŭzas ian domaĝon al vi; ĉe mi vi trovos nur
+la voĉon, kiun mi uzas tre senkulpe.» Granda reĝo, mi estas simila
+al ĉi tiu cikado: nur la voĉon mi havas kaj ĝin mi ne uzis por
+ofendi vin.» Krezus, tuŝite de admiro kaj de kompato, ne sole lin
+pardonis, sed, pro sia ŝato al Ezopo, li ne maltrankviligis la
+Samoslandanojn.
+
+En la tiama tempo, la Frigilandano verkis siajn fablojn, kiujn li
+lasis al la reĝo de Lidilando, kaj li estis sendita de li al la
+Samoslandanoj, kiuj al li donis grandajn honorojn. Al li venis ankaŭ
+la deziro vojaĝi kaj iri tra la mondo, interparolante pri diversaj
+aferoj kun tiuj, kiujn oni nomis filozofoj. En fino li akiris grandan
+influon ĉe Licerus, reĝo de Babilono. La tiamaj reĝoj alsendadis
+unuj al la aliaj problemojn por solvi pri ĉiuspecaj objektoj, kun
+kondiĉo doni tributon aŭ depagon, laŭ tio se oni respondis bone
+aŭ malbone al la demandoj proponitaj. Ĉe tiuj okazoj, Licerus,
+dank' al la helpo de Ezopo, ĉiam venkadis, kaj fariĝis glora inter
+la aliaj, tiel per solvado, tiel per proponado de problemoj.
+
+En tiu tempo, nia Frigilandano edziĝis, kaj, ĉar li ne havis ian
+naskiton, li filigis junulon el nobla naskiĝo, nomatan Enus, kiu lin
+pagis per maldankeco. Ĝin sciiĝinte, Ezopo lin forpelis.
+
+Ĉi tiu, por sin venĝi, falsis leterojn per kiuj ŝajnis, ke Ezopo
+interkomuniĝis kun la reĝoj konkurantoj de Licerus. Tiu ĉi,
+konvinkita per la sigelo kaj la subskribo de ĉi tiuj leteroj,
+ordonis al unu el siaj oficiroj, nomata Hermipus, mortigi la perfidan
+Ezopon, sen serĉado de pli grandaj pruvoj. Tiu ĉi Hermipus, estante
+amiko de la Frigilandano, al li savis la vivon, kaj, nesciate de
+ĉiuj, lin nutris longe en tombo, ĝis Nektenabo, reĝo de Egiptlando,
+konvinkite, ke Ezopo mortis, kredis, ke li povos fari Licerus'on
+sia depaganto. Li kuraĝis lin elvoki al vetbatalo, dirante, ke tiu
+ĉi ne povos alsendi arĥitekturistojn kapablajn konstrui turon
+en la aero, kaj samtempe homon ian pretan respondi al demandoj
+ĉiuspecaj. Licerus leginte la leterojn, ilin konigis al la plej
+lertaj de sia regno, sed ĉiuj staris senrespondaj; tial la reĝo
+bedaŭris Ezopon. Tiam Hermipus al li diris, ke tiu ĉi ne estas
+mortinta, kaj lin venigis. La Frigilandano estis tre bone akceptita,
+sin senkulpigis kaj pardonis al Enus. Pri la letero de la reĝo de
+Egiptujo li nur ridis kaj sciigis, ke li alsendos en printempo
+la arĥitekturistojn kaj la respondonton al ĉiuspecaj demandoj.
+Licerus redonis al Ezopo ĉiujn liajn bienojn kaj al li liverigis
+Enus'on por fari kun li kion li volos. Ezopo lin akceptis kiel
+sian naskiton, kaj, anstataŭ lin puni, al li rekomendis honori la
+diojn kaj la princon; fariĝi terura por la malamikoj; bone agi
+kun sia edzino, tamen ne malkovrante al ŝi siajn sekretojn; paroli
+malmulte kaj forpeli la babilemajn; ne senkuraĝiĝi pro malfeliĉo;
+pripensi pri la estonteco, ĉar pli bone estas riĉigi la malamikojn
+per sia morto, ol ĝeni la amikojn dum sia vivo; precipe ne envii la
+feliĉon nek la virtojn de aliaj, ĉar per tio oni malutilas al si
+mem. Enus, tuŝite de tiaj admonoj kaj de la boneco de Ezopo, kvazaŭ
+ia sago estus eniĝinta en lian koron, mortis post malmulte da tempo.
+
+Rilate al la vetbatalo de Nektenabo, Ezopo elektis aglidojn
+kiujn--ĝi estas malmulte kredebla--li instruis porti aparte en la
+aeron korbon, en kiu kuŝis juna infano. En la printempo sekvanta,
+li foriris Egiptujon kun tiuj ĉi preparaĵoj, alportante grandan
+admiron kaj sciemon pro sia intenco al la popoloj, ĉe kiuj li
+trapasis. Nektenabo, kiu estis alsendita la enigmon, nur tial ke li
+kredis al la morto de Ezopo, treege surpriziĝis de lia alveno. Ĝin
+li ne atendis, kaj ja li neniam estus elvokinta Licerus'on al tia
+vetbatalo, se li estus kredinta, ke vivas Ezopo. Li demandis, ĉu la
+Frigilandano alkondukis la arĥitekturistojn kaj la respondonton.
+Ezopo diris, ke la respondonto estas li mem kaj ke li vidigos la
+arĥitekturistojn, kiam li estos sur la loko. Oni eliris en la
+kamparon, kie la agloj levis aeren la korbojn kun la junaj infanoj
+ekkriantaj, ke oni donu al ili morteron, ŝtonojn kaj lignon. «Vi
+vidas, diris Ezopo al Nektenabo, mi trovis la laboristojn, vi al
+ili liveru materialojn.» Nektenabo konfesis, ke Licerus estas la
+venkinto. Li tamen proponis al Ezopo la jenon: «Mi havas ĉevalinojn
+en Egiptujo, kiuj aŭdas la blekon de la ĉevaloj estantaj apud
+Babilono. Kion vi povas respondi al tio?» La Frigilandano prokrastis
+sian respondon ĝis la morgaŭa tago, kaj kiam li estis reveninta al
+la domo, li ordonis al infanoj kapti katon kaj konduki ĝin tra la
+stratoj, ĝin batante. La Egiptoj, kiuj adoras tiun ĉi beston, estis
+treege skandalitaj de tia maniero agi kun ĝi. Ili ĝin fortiris el
+la manoj de la infanoj, kaj iris plendi al la reĝo. Oni venigis la
+Frigilandanon antaŭ li. «Ĉu vi ne scias, ke tiu ĉi besto estas
+unu el niaj dioj? Kial do vi agas tiel kun ĝi?»--Tial ke ĝi
+ofendis Licerus'on, ĉar, la lastan nokton, ĝi sufokis unu treege
+kuraĝan el liaj kokoj, kiu kantadis je ĉiuj horoj.--Vi mensogas,
+rediris la reĝo; ĉu povas esti, ke tiu ĉi kato faris en tiel
+malmulte da tempo tiel longan vojaĝon?--Kaj ĉu povas esti,
+respondis Ezopo, ke viaj ĉevalinoj aŭdas de tiel malproksime niajn
+ĉevalojn blekantajn?»
+
+Post tio la reĝo venigis el Heliopolis kelkajn personojn
+lertspritajn kaj klerajn pri la enigmaj demandoj. Li al ili donis
+grandan festenon, al kiu li invitis la Frigilandanon. Dum la manĝo,
+ili demandis Ezopon pri diversaj aferoj, kaj inter aliaj pri la
+jena: Estas granda templo apogita sur kolono ĉirkaŭita de dekdu
+urboj; ĉiu el ili havas tridek arkokolonojn, kaj ĉirkaŭ tiuj ĉi
+arkokolonoj promenas unu post la alia du virinoj, la unu blanka kaj
+la alia nigra. «Al tia demando, diris Ezopo, eĉ la malgrandaj
+infanoj povus respondi. La templo estas la mondo; la kolono--la jaro;
+la urboj--la monatoj; kaj la arkokolonoj--la tagoj, ĉirkaŭ kiuj
+promenadas alterne la tago kaj la nokto.»
+
+La tagon morgaŭan, Nektenabo kunvenigis ĉiujn siajn amikojn: «Ĉu
+vi, li diris, toleros, ke duonhomo, ke malbelformulo faros, ke
+Licerus gajnos la premion kaj mi havos la konfuziĝon kiel lotaĵon.»
+Unu el ili havis la ideon peti Ezopon, ke li faru al ili demandojn
+pri aferoj, pri kiuj ili neniam aŭdis.
+
+Ezopo skribis kontrakton, per kiu Nektenabo konfesis ŝuldi du mil
+talentojn al Licerus. La kontrakto estis metita en la manojn de
+Nektenabo tute sigelita. Antaŭ ol oni ĝin malfermis, la amikoj de
+la princo certigis, ke la afero enhavita en ĉi tiu skribaĵo estas
+konita de ili. Kiam oni estis malferminta ĝin, Nektenabo ekkriis:
+«Ĝi estas la plej granda malveraĵo en la mondo; mi prenas kiel
+atestantojn vin ĉiujn tiom, kiom vi estas.--Vere estas, diris ili,
+ke neniam ni aŭdis pri tio.--Mi do, rediris Ezopo, respondis al via
+demando.» Nektenabo lin resendis kun multe da donacoj por li kaj por
+lia mastro.
+
+... El la ĉefaj urboj kie li haltis, Delfo estis unu. La Delfanoj
+lin aŭskultis volonte, sed ne donis honorojn al li. Ezopo, ofendita
+de tia malŝato, ilin komparis al bastono naĝanta sur la ondo; oni
+imagas de malproksime, ke ĝi estas io grandega; de proksime oni
+vidas, ke ĝi estas nenio. La komparon li pagis multekoste. Efektive
+la Delfanoj pro tio sentis tian malamon kaj tian deziron de
+venĝo--aliparte ili timis esti mallaŭditaj de li--ke ili decidis
+forrabi al li la vivon. Por bone sukcesi, ili kaŝis en liajn vestojn
+unu el siaj sanktaj vazoj, konvinkite, ke per tia rimedo ili pruvos,
+ke li estas kulpa je ŝtelo kaj malpiegaĵo, kaj tiamaniere oni lin
+kondamnos al la morto.
+
+Kiam li estis foririnta de Delfo kaj preninta la vojon al Focidlando,
+la Delfanoj alkuris kiel homoj en granda embaraso. Ili kulpigis lin,
+ke li rabis ilian vazon. Ezopo ĝin neis kun ĵuroj; oni serĉis en
+liaj pakaĵoj kaj la vazo estis trovita. Malgraŭ ĉio, kion povis
+diri Ezopo, oni kun li agis kiel kun krimulo malnoblega. Li estis
+rekondukita Delfon, ŝarĝita de katenoj, metita en malliberejon, kaj
+poste kondamnita esti deĵetita de altaĵo. Neniel al li utilis sin
+defendi per siaj kutimaj armiloj kaj rakonti siajn apologojn: la
+Delfanoj ilin mokis.
+
+«La rano, li diris al ili, invitis la raton viziti ĝin. Por ke tiu
+ĉi povu trairi la ondon, la rano aligis ĝin al sia piedo. Tuj kiam
+la rato estis sur la ondo, ĝi volis ĝin altiri funden, kun intenco
+ĝin dronigi kaj el ĝi fari manĝon. Dum la rato baraktis sur la
+ondo, rabobirdo ĝin ekvidis, rapidis sur ĝin kaj forportinte ĝin
+kun la rano, kiu ne povis sin disigi, ĝi manĝis unu kaj la alian.
+Tiamaniere, Delfanoj abomenaj, iu pli potenca ol vi min venĝos: mi
+pereos, sed vi pereos ankaŭ.
+
+Kiam oni kondukis lin al la ekzekuto, li trovis rimedon por forkuri,
+kaj eniris en malgrandan templeton dediĉitan al Apolo. La Delfanoj
+lin eltiris el ĝi: «Vi malrespektas tiun ci rifuĝejon, li diris,
+tial ke ĝi estas malgranda templeto; sed tago venos kiam via
+malboneco ne trovos rifuĝejon sendanĝeran, ne eĉ en la temploj.
+Tiel al vi okazos kiel al la aglo, kiu, spite la petoj de la skarabo,
+forportis leporon kiu estis rifuĝinta ĉe ĝi: la posteularo de la
+aglo pro tio estis punita ĝis ĉe la brusto de Zeŭso.» La Delfanoj,
+malmulte tuŝite de ĉiuj tiuj ekzemploj, lin deĵetis de altaĵo.
+
+Malmulton da tempo post lia morto, pesto fortega multanombre pereigis
+la Delfanojn. Ili demandis la orakolon, ĉu per ia rimedo ili povos
+kvietigi la koleron de la dioj. La orakolo respondis, ke ili ĝin
+kvietigos nur sole se ili elpagos sian krimegon kaj kontentigos la
+ombranimon de Ezopo. Tuj piramido estis konstruita. Ne sole la dioj
+montris kiom tia krimo al ili malplaĉas; sed la homoj ankaŭ venĝis
+la mortigon de sia saĝulo. Efektive la Grekoj alsendis komisarojn
+per serĉadi la mortigintojn kaj ilin punis severege.
+
+
+[4] Oni scias ke tiu ĉi verketo estas teksaĵo da legendoj
+kaj fabeloj pli aŭ malpli verŝajnaj, sed preskaŭ tiel konitaj kiel
+la fabloj mem.
+
+[5] Monaĥo greka kiu verkis la biografion de Ezopo.
+
+
+
+
+FABLOJ
+
+DE
+
+J. DE LA FONTAINE
+
+
+
+
+Al lia moŝto la princa.
+
+  Mi kantas keroulojn kreitajn de Ezopo,
+  De kiuj l' historio, se eĉ nur imagita,
+  Veraĵojn kun utilaj instruoj konigadas.
+  En mia libro ĉio parolas, eĉ la fiŝoj,
+  Kaj tia parolado konvenas al la homoj,
+  Ĉar mi la bestojn uzas por homojn instruadi.
+
+
+
+
+LIBRO I
+
+
+I.--La cikado kaj la formiko.
+
+  Cikado kantadinte
+    Someron tutan,
+  Troviĝis senproviza
+  Ĉe l' veno de l' malvarmo:
+  Nenia plu peceto
+  Da muŝo aŭ vermeto.
+  Ĝi iris tre malsata
+  Proksimen al formiko,
+  Petante, ke ĝi pruntu
+  Grenerojn por vivadi
+  Ĝis nova la somero.
+  «Per mia best-honoro,
+  Ĝi diris, al vi tutan
+  La sumon kun procento
+  Mi pagos post la vintro.»
+  Sed estas ne pruntema
+  Formiko: tio estas
+  Malbono lia sola.
+  «Vi, kion do faradis,
+  Ĝi diris, dum varm' estis?
+  --Tra l' nokto kaj tra l' tago,
+  Kantadis mi senĉese.
+  --Vi kantis! mi tre ĝojas;
+  Nun iru do dancadi.»
+
+
+II.--La korvo kaj la vulpo.
+
+    Sinjoro korv', sur arbo sidante,
+    En sia beko tenis fromaĝon.
+    Per la odoro vulp' allogite,
+      Tiele al li parolis:
+    «Bonegan tagon, moŝto la korva!
+  Ho! kiel gracia kaj bela vi ŝajnas!
+      Mi ne mensogas: se voĉon
+      Al la plumaro similan
+    Vi havas, vere el la loĝantoj
+  De la arbaretoj vi estas Fenikso».
+  Aŭdinte, la korvo tremetas pro ĝojo,
+    Kaj sian belan voĉon por montri,
+    Ĝi larĝe sian bekon malfermas,
+    Kaj lasas fali sian kaptaĵon.
+  La vulpo ĝin prenis kaj diris: «Sinjoro,
+    Eksciu vi, ke vivas flatisto
+  Per helpo de kiu lin volas aŭskulti;
+  Sendube fromaĝon ĉi tio meritas.»
+      Konfuza kaj tre hontanta,
+    Ĵuris la korvo, sed tro malfrue,
+  Ke de nun neniu ĝin trompos tiele.
+
+
+III.--La rano kaj la bovo.
+
+      Raneto bovon ekvidis
+      Ŝajnantan al ĝi belkreska.
+  Ĝi, kiel oveto apenaŭ diketa,
+  Ĵaluze penadas, kaj sin plilarĝigas,
+  Kaj sin plilongigas, por ke la bestegon
+      Dike ĝi povu egali;
+  Kaj poste ĝi diris: «Rigardu, fratino,
+  Ĉu tio sufiĉas? Ĉu mi jam sukcesis?
+  --Ne--Sed nun?--Neniel--Mi fine egalas?
+    --Ne, tute ne.» La besto maldika
+    Ŝvelis tiele, ke ĝi elkrevis.
+
+  Multege da homoj ne estas pli saĝaj:
+  Malriĉa penadas imiti riĉulon;
+    Princo senpova havas kortegon;
+    Volas markizo havi palacon.
+
+
+IV.--La du muloj.
+
+  Du muloj vojiris, la unu avenon,
+  L' alia la monon de l' fisko portante.
+  Ĉi tiu, fiera de ŝarĝ' tiel bela,
+      Marŝis levante la kapon
+    Kaj tintigante sian tintilon.
+      Sed jen rabistoj alvenas,
+    Kiuj, la monon ŝteli volante,
+  Sin tuj sur la mulon de l' fisko surĵetas,
+  Kaj ĝin per la brido haltigas perforte.
+      La mulo sin defendante
+  Bategojn ricevis: ĝi plendas, ĝi ĝemas:
+  «Ĉu tian, ĝi diras, meritis mi sorton?
+    Tiu ĉi mulo, kiu min sekvas,
+    El la danĝero sin mem eltiris,
+  Sed en ĝin mi falas, kaj jam ekpereas,
+    --Amiko, diris ĝia kunulo,
+  Ne ĉiam utilas altrangon okupi;
+      Se, kiel mi, vi mem estus
+      Servinta nur mueliston,
+    Vi nun ne estus tiel malsana.
+
+
+V.--La lupo kaj la hundo.
+
+    Lupo nur ostojn havis kaj felon,
+    Ĉar akurate gardis la hundoj.
+  Jen tiu ĉi lupo renkontas korthundon
+  Tre belan, brilharan kaj ankaŭ tre fortan,
+      Kiu tra kampoj vagadis.
+    Ataki ĝin kaj pece disŝiri
+    Sinjoro lupo tute deziris;
+    Sed bataladi estis necese,
+      Kaj tiel forta kaj granda
+    Estis la besto, ke ĝi tre povis
+      Sentime sin mem defendi.
+    Tial humile sin proksimiĝas
+  La lupo, komencas interparoladon,
+      Kaj laŭdas ĝin pro la ĝia
+    Bonstato kiun ĝi tute miras.
+    «Bela sinjoro, diris la hundo,
+  Vi, kiel mi, grasa fariĝi nun povas.
+    Lasu l' arbarojn, al mi vi kredu;
+    Ĉar tie estas viaj la fratoj
+  Malĝojaj, mizeraj, senhavaj vagistoj,
+    Kiujn atendas mort' pro malsato.
+    Ĉar kio estas certa por lupoj?
+  Neniam facila, sentima festeno;
+      Nenio sen batalado.
+  Min sekvu: vivadon pli bonan vi havos.
+  --Sed, lup' diris, kion faradi mi devos?
+  --Ho! preskaŭ nenion, respondis la hundo;
+  Forpeli la homojn portantajn bastonon
+      Kaj petadantajn almozon,
+  Flatadi domanojn, la mastron karesi,
+      Kaj estos via salajro
+  Multege da bonaj kaj sukaj manĝaĵoj:
+  Restaĵoj de kokoj, restaĵoj de ŝafoj,
+    Kaj ankaŭ multaj dolĉaj karesoj.»
+    Jam feliĉaĵon la lup' imagas
+      Kiu ĝin dolĉe plorigas.
+  Irante, la kolon de l' hundo ĝi vidis
+  Senharan--«Sed kio ĝi estas, ĝi diris?
+    --Nenio--Tamen?--Ho! bagatelo!
+    --Pli klare diru--La ĉirkaŭkolo,
+    Per kiu estas mi alligata,
+    Kion vi vidas eble ekkaŭzis.
+  --Ligata! rediris la lupo, libere
+  Ĉu vi ne kuradas?--Ne, sed ĝi negrava.
+      --Mi tiel grava ĝin taksas,
+  Ke viajn festenojn mi tute ne volas,
+    Kaj pro tiela prezo trezoron
+  Mi certe ne volus.» Ĉe tiuj ĉi vortoj,
+  La lupo forkuris kaj kuras ankoraŭ.
+
+
+VI.--La bovino, la kaprino kaj la ŝafino kuniĝitaj kun la leono.
+
+  Bovino, kaprin' kaj fratino ilia
+    Ŝafin' kuniĝis iam kun forta
+  Leon', grandsinjoro de la ĉirkaŭaĵo,
+  Kaj faris komunaj profitojn kaj perdojn.
+  Jen cervo kaptiĝis en ret' de l' kaprino.
+    Ĝi alvenigis siajn kunulojn.
+  Ĉe l' veno ilia, per l' ungoj kalkulis
+    Tuj la leon' kaj diris: «Ni estas
+  Kvar por partopreni en tiu ĉasaĵo.»
+  Ĝi tiam kvarpece distranĉis la cervon
+  Kaj prenis por sia la moŝto la parton
+  Unuan, dirante: «Ĝi estas por mi mem,
+    Ĉar mi nomata estas leono;
+  Al mi apartenas la dua per rajto
+  De ĉiuj konita, la rajt' de l' plej forta;
+  Estante pli pova mi volas la trian;
+    Se unu el vi tuŝos la kvaran;
+      Mi tuje ĝin mortsufokos.»
+
+
+VII.--La bissako.[6]
+
+    Zeŭs' iam diris: «Antaŭ la mia
+    Moŝto ekstaru ĉiuj vivantoj.
+  Se iu ne estas kontenta je sia
+  Korpformo, li povas ĝin diri sentime;
+    Mi lian korpon aliformigos.
+  Vi venu, simio, ĉar rajt' estas al vi
+  Paroli unue. Ĉi tiujn do bestojn
+  Rigardu; iliajn belformojn kun viaj
+   Komparu; ĉu vi nun estas kontenta?
+  --Mi, kial ne? diris ĝi; ĉu do ne havas
+    Mi kvar piedojn kiel l' aliaj?
+  Neniam kritikis mi mian portreton.
+  Sed frat' mia, l' urso, ja estas fuŝita:
+  Konsilas mi ĝin sin neniam pentrigi.»
+  La urso alpaŝis--sendube ĝi plendis--
+  Kontraŭe: ĝi sian korpformon tre laŭdis,
+  Kaj la elefanton kritikis, dirante,
+    Ke estus bone fari pli longa
+    La ĝian voston, iom eltranĉi
+  El ĝiaj oreloj kaj aliformigi
+  Ĉi tiun masegon malbelan kaj pezan.
+    La elefanto, kvankam prudenta
+    Bestego, ne pli saĝe parolis,
+  Ĝi trovis ke, laŭ opinio la ĝia,
+    Moŝto balena estas tro dika.
+  Formik' mallongecon al pulo riproĉis,
+  Kredante, ke estas ĝi granda koloso.
+  Zeŭs' ilin forsendis je si mem kontentajn
+  Kaj unujn l' aliajn interkritikintajn.
+    Sed pli malsaĝa estis ankoraŭ
+  La gento la homa. Ĉar ĉiuj ni, linkoj
+    Por la aliaj, talpoj por ni mem,
+  Ni ĉion al ni, al aliaj nenion
+    Pardonas. Ne per sama okulo
+      Nin kaj l' aliajn ni vidas.
+    La Mondkreinto kreis nin ĉiujn
+    Bissakportantoj: postan la poŝon
+  Li faris por niaj difektoj, l' antaŭan
+   Por la difektoj de l' homoj aliaj.
+
+
+[6] Bissako (bis-sako) = sako kun du poŝoj.
+
+
+
+VIII.--La hirundo kaj la birdetoj.
+
+  En siaj vojaĝoj hirund' estis multon
+    Lerninta: kiu multon vidadis,
+      Povas pri multo memori.
+    Ĉi tiu sciis antaŭsentadi
+    La fulmotondron eĉ plej malgrandan,
+    Kaj antaŭ ol ĝi estis krevonta,
+    Ĝin ĝi anoncis al la maristoj.
+  Okazis, ke kiam kanabo semiĝas,
+  Ĝi vidis plugiston kovrantan per semo
+  Multege da sulkoj. «Ĝi al mi ne plaĉas,
+  Ekdiris ĝi al la birdetoj; mi povos
+  Forflugi aŭ vivi en lok' malproksima;
+  Sed kion vi faros? Ĉu vidas vi manon
+    Tra la aero travojirantan?
+    Nu! tio, kion ĝi nun disŝutas,
+  Al vi mem tre baldaŭ pereon alportos;
+    Ĉar ĉe l' somera tempo naskiĝos
+      Kaptiloj por vin envolvi,
+      Aŭ retoj por vin ekkapti;
+    Per unu vorto, multaj maŝinoj
+  Por vin ĉu mortigi, ĉu malliberigi.
+  Atentu! minacas la pat' aŭ la kaĝo;
+      Tial do, al mi vi kredu,
+      Ekmanĝu tiun ĉi semon.»
+  La birdoj ĝin mokis, ĉar ili tra l' kampoj
+      Trovis tro bonan paŝtaĵon.
+    Kiam verdiĝis la kanabejo,
+  Hirund' diris: «Herbon post herbo elŝiru
+    Kion produktis tiu ĉi semo
+      La malbenita, alie
+    Certega estas via pereo.»
+  --Malbonaĵ-profeto kaj babilemega!
+    Ĉiuj ekkriis, belan oficon
+    Al ni vi trudas! Pli ol mil birdoj
+    Estus necesaj por senherbigi
+      Tiun ĉi tutan kantonon.»
+    Kiam kanabo plenmaturiĝis,
+  Hirundo aldonis: «Ĝi estas ne bona;
+    Sem' malutila frue grandiĝas.
+  Sed, ĉar ĝis nun oni min kredis neniel,
+  Tuj kiam vi vidos, ke tero de semo
+    Kovriĝos, kaj ke la vilaĝanoj
+  Ne sin okupante je siaj la grenoj,
+    Faros militon al la birdetoj;
+  Tuj kiam kaptiloj kaj retoj ekkaptos
+  La birdojn, de loko al loko ne flugu,
+  Restadu en hejmo, aŭ flugu fremdlanden;
+  Imitu l' anasojn, koturnojn aŭ gruojn;
+      Sed, kiel ni, vi ne povas
+    Transpasi l' ondojn kaj la dezertojn,
+    Nek al aliaj mondoj alflugi.
+  Por vi do rimed' sola estas senriska:
+  En kavon de muro vin mem tuj enfermu.»
+    Jen la birdetoj, lacaj ĝin aŭdi,
+    Ĉiuj ekpepis tiel konfuze
+    Kiel Trojanoj, kiam Kasandro
+      La buŝon nur ekmalfermis.
+    La sama sorto ilin atingis,
+  Ĉar sklavoj fariĝis sennombraj birdetoj.
+
+  Ni sekvas nur niajn la proprajn instinktojn,
+    Kaj la malbonon ni nur atentas
+      Kiam ĝi estas veninta.
+
+
+IX.--La urbrato kaj la kamprato.
+
+  Gastama urborato,
+  En manier' afabla,
+  Invitis kamporaton
+  Al bonaj manĝrestaĵoj.
+
+  Sur Turkan tapiŝeton
+  Metiĝis la manĝaro.
+  Nur Dio scias kiom
+  Elĝojis la du fratoj!
+
+  La manĝo estis bona
+  Kaj granda l' apetito;
+  Sed iu ilin ĝenis,
+  Dum ili ĝoje manĝis.
+
+  Ĉe l' pordo de la ĉambro
+  Ekaŭdis ili bruon.
+  Urbrato tuj forkuras;
+  Amiko ĝia sekvas.
+
+  Sed jen la bruo ĉesas;
+  Revenas tuj la ratoj,
+  Kaj diras la urbano:
+  «Ni finu la rostaĵon.
+
+  --Ne, diris la alia;
+  Vi morgaŭ al mi venu;
+  Vi tie ja ne trovos
+  Festenon tute reĝan;
+
+  Sed ĝenas min nenio;
+  Sentime mi manĝadas.
+  Adiaŭ: for plezuron,
+  Se timo ĝin malhelpas!»
+
+
+X.--La lupo kaj la ŝafido.
+
+  Tro ofte triumfas la vol' de pli forta.
+      Tion per fablo ni pruvos.
+
+  En akvo kuranta ektrinkis ŝafido;
+  Alvenis la lupo, serĉante ĉasaĵon
+    Kaj pro malsato tien allogite.
+    «Kial la akvon ci malpurigas?
+      Kolere diris la besto:
+    Al mi ci pagos cian sentimon.
+    --Sinjoro, diris la ŝafideto,
+    Ne koleriĝu la via moŝto;
+      Sed volu vi konsideri,
+    Ke en la fluo je dudek paŝoj
+  Pli sube ol vi mi min sensoifigas,
+      Kaj sekve vian trinkaĵon
+    Mi malpurigi tute ne povas.
+  --Ĝin ci malpurigas, respondis la lupo,
+  Kaj ci min kritikis la jaron pasintan.
+  --Sed kiel, rediris la ŝafo, ĝin fari
+  Mi povis? Mi tiam ne estis naskita:
+  Mi suĉas ankoraŭ la mian patrinon.
+    --Se ci ne povis, frat' cia faris.
+  --Mi fraton ne havas--El ciaj parencoj
+    Unu do faris, ĉar min ne multe
+  Indulgas vi mem, kaj paŝtitoj kaj hundoj.
+    Nun, kiel oni diris, min venĝi
+  Mi devas.» Tuj ĝi la ŝafidon forportis
+  Kaj manĝis sen ia riproĉ' konscienca.
+
+
+XI.--La ŝtelistoj kaj la azeno.
+
+  Azenon ŝtelinte sin interbatadis
+    Du sentaŭguloj: unu ĝin gardi
+    Volis, l' alia volis ĝin vendi.
+  Dum la pugnobatoj flugetis, kaj penis
+    La du ŝtelistoj sin mem defendi,
+      Alvenas tria rabisto,
+      Kiu la beston forkaptas.
+
+    L' azeno estas ofte provinco,
+    Kiun envias iaj regnestroj,
+  Ĉu Turka, Hungara, ĉu eĉ Transsilvana,
+  Kaj multajn aliajn mi povus elnombri,
+    Tiom da tiaj princoj troviĝas!
+  Sed ofte l' akiro ne estas por ili,
+    Ĉar ilin kvara princo pacigas,
+  Prenante por si mem l' azenon ŝtelitan.
+
+
+XII.--La Morto kaj la malfeliĉulo.
+
+    Senĉese ia malfeliĉulo
+      Al help' alvokis la Morton.
+  «Ho Mort'! kiel bela, li diris, vi ŝajnas!
+    Tuj venu fini mian mizeron.»
+  Venante la Mort' kredis lin kontentigi.
+  Ĝi puŝas la pordon, eniras, sin montras:
+  «Ho! kion mi vidas? for tian objekton!
+  Li diris, ho! kiel ĝi estas malbela,
+  Kaj kiom al mi da terur' ĝi alportas!
+  Ho Mort'! ne alpaŝu! Ho Mort'! tuj foriru!»
+
+      Meceno estis spritega;
+    Li diris: «Faru min unubraka,
+  Senkrura, podagra kaj kripla, se nur mi
+  Vivados, mi estos sufiĉe kontenta.»
+  Ĝin, Morto, aŭskultu kaj venu neniam.
+
+
+XIII.--La Morto kaj la arbohakisto.
+
+  De multaj branĉaĵoj kovrite, sub pezo
+  De ŝarĝ' sia kaj de la jaroj ĝemante
+    Kaj kurbigite, arbohakisto
+  Multpeze marŝadis kaj sian dometon
+  De fum' nigrigitan, penadis atingi.
+  En fino lacega pro pen' kaj doloro,
+  Demetas li sian branĉfaskon kaj plendas
+    Je sia sorto malfeliĉega.
+  «Ĉu unu plezuron mi ĝuis tra l' vivo?
+  Ĉu hom' pli malriĉa sur tero vivadas?
+  Neniam ripozon, ne ĉiam eĉ panon
+  Mi havas! L' edzino, l' infanoj, l' impostoj,
+    La kreditoro kun la servuto
+  Plenigas je zorgoj la mian vivadon.»
+  Li vokas la Morton. Ĉi tiu tuj venas,
+    Kaj ekdemandas, kion li volas:
+    «Al mi, li diris, helpu reŝarĝi
+  Ĉi tiun branĉaron: ĝi estos ne longa.»
+
+    La Mort' ĉesigas ĉian doloron,
+      Sed ĝin neniam alvoku:
+  Toleri suferon prefere ol morton,
+      Estas la homa devizo.
+
+
+XIV.--La vulpo kaj la cikonio.
+
+    Iam la vulpo manĝon preparis
+      Kaj cikonion invitis.
+  La manĝ' estis simpla kaj tute senriĉa:
+  Ĝi havis nur pecon viandan en saŭco
+    Fluida, ĉar ĝi vivis avare.
+    La saŭc' en teleron estis verŝita;
+  Eĉ unu guteton ne povis ekkapti
+    La cikonio; sed la ruzulo
+  Rapide englutis la tutan manĝaĵon.
+    Post kelkaj tagoj, la cikonio,
+  Volante sin venĝi, invitis la vulpon.
+  «Volonte, ĝi diris, ĉar kun la amikoj
+  Mi ĉiam agadas senceremonie.»
+  En horo dirita, ĝi kuris al domo
+    De l' cikonio sia la gasto;
+    La afablecon ĝian tre laŭdis,
+      Kaj trovis la vespermanĝon
+    Tre ĝustatempe elkuirita.
+  Ĝi ĝojis pro la bonodor' de l' viando
+  Pecete hakita kaj ŝajne bongusta;
+    Ĉar--tio estas tute kredebla--
+  Kun grandapetito ĝi estis veninta.
+    La cikonio la hakitaĵon
+  En vazon mallarĝan kaj longan enmetis.
+  La beko de l' bird' en ĝin povis eniri,
+  Sed estis pli dika la buŝo de l' vulpo.
+  Ĝi hejmen malsate revenis, hontante
+  Simile al vulp' de kokino kaptita,
+    Kaj mallevante siajn orelojn
+    Kun sia vosto inter la kruroj.
+
+    Trompantoj, por vi tion mi skribas:
+  Trompinte, vi estos tutsame trompitaj.
+
+
+XV.--La Knabo kaj la instruisto.
+
+  En jena fablo volas mi konigi
+  De malsaĝulo la riproĉojn vanajn.
+
+  Sur bordo de rivero petolante,
+  En l' akvon iam falis juna knabo.
+  Salik', feliĉe por li, tie estis,
+  Kies branĉaĵo, dank' al la ĉielo,
+  Lin savis; ĉar al branĉo de l' arbeto
+  Li sin alkroĉis. Pasas instruisto;
+  La knab' ekkrias: «Helpu, mi pereas!»
+  La lernejestro tiam sin turnante,
+  Malĝustatempe, kun gravega voĉo,
+  Lin ekriproĉas: «Ho! la sentaŭgulo!
+  Li diris, vidu kien lin deĵetis
+  Malsaĝo lia: iru do nun zorgi
+  Friponojn tiajn! Kiel malfeliĉaj
+  Ja estas la gepatroj, kiuj devas
+  Observi ĉiam tiajn petolulojn!
+  Kiom da peno ili havas!» Ĉion
+  Dirinte, li al bord' la knabon portis.
+
+  Ĉi tie multajn homojn mi kritikas,
+  Ĉar en la fablo povas rekoniĝi
+  La babilema, kaj la kritikema,
+  Kaj ankaŭ la pedanta scienculo.
+  Popolon grandan ĉiuj certe faras,
+  Ĉar tiujn rasojn benis la Kreinto.
+  En ĉiuj la aferoj ili serĉas
+  Okazon por ekzerci sian langon.
+  --«Amiko mia! el danĝer' min tiru;
+  Ci poste faros cian paroladon!»
+
+
+XVI.--La koko kaj la perlo.
+
+  Perleton koko trovis
+  Kaj ĝin al juvelisto
+  Najbara ĝi tuj portis.
+  «Mi trovas ĝin belega,
+  Ĝi diris, sed grenero
+  Pli bona estus por mi.»
+
+  Manskribon nesciulo
+  Heredis; ĝin li portis
+  Proksimen al libristo.
+  «Mi trovas ĝin plenscia,
+  Li diris, sed monero
+  Pli bona estus por mi.»
+
+
+XVII.--La burdoj kaj la mielmuŝoj.
+
+  Laŭ sia labor' laboristo taksiĝas.
+
+  Mielaj tavoloj forlase troviĝis.
+    Jen ilin burdoj ekpetis;
+    Sed tuj protestis abeloj,
+  Kaj vespon elektis por juĝi l' aferon.
+  Ne estis facile dekreton eldoni,
+      Ĉar la atestantoj certigis,
+  Ke ĉirkaŭ l' tavoloj bestetoj flugemaj,
+  Zumemaj, longetaj, brunflavaj kaj tiaj
+    Kiel l' abeloj longe vidiĝis.
+    Sed kio? estis signoj similaj
+    Ĉe la burdaro. Embarasite,
+  La vesp' informiĝon denove farigis.
+      Kaj, por sciiĝi pli bone,
+      Ĝi formikaron aŭskultis;
+  Sed la afero ne povis klariĝi.
+  «Por kio, mi petas, ekdiris abelo
+      Tre saĝa, taŭgas ĉi tio?
+    Ekkomencite de ses monatoj,
+    En sama stato staras l' afero,
+  Kaj dume perdiĝas la mieltavoloj.
+  Jam temp' estas ke la juĝisto rapidu;
+    Ĉu l' urson li ne lekis sufiĉe?[7]
+  Sen tiom da vortoj, da kontraŭparoloj,
+      Skribaĵoj kaj transskribaĵoj,
+      Laboru ni kaj la burdoj;
+    Vidiĝos, kiu kun dolĉmielo
+    Povas konstrui ĉelojn artplenajn.»
+  Rifuzis la burdoj, montrante per tio,
+  Ke art' tia scion ilian superas,
+      Kaj la mielajn tavolojn
+    La vesp' aljuĝis al l' abelaro.
+
+    Se nur tiele ĉiuj procesoj
+    Juĝiĝus, laŭ la Turka metodo!
+    La simpla saĝo estus leĝaro,
+    Kaj la elspezoj plimalgrandiĝus.
+  Sed nun daŭrigante procesojn longege,
+  Nin oni ŝteladas, rabadas, senigas;
+  En fin' la juĝisto englutas la ostron,
+  Kaj restas nur ŝeloj por la procesintoj.
+
+
+[7] Esprimo proverba signifanta «daŭrigi tre longe ian proceson».
+
+
+XVIII.--La kverko kaj la kano.
+
+    Iam la kverko diris al kano:
+  «Vi havas la rajton kulpigi naturon:
+    Birdeto por vi ŝarĝ' estas peza;
+      Venteto, se ekblovante
+  Ĝi nur eksulkigas la supron de l' akvo,
+      La vian kapon fleksigas;
+  Dum mia fruntego, al Alpoj simila,
+  Ne sole haltigas la sunajn radiojn,
+    Sed de l' ventego batojn elmokas.
+    Bloveto por vi estas ventego;
+    Blovego ŝajnas al mi zefiro.
+  Se vi nur naskiĝus sub la foliaro
+    Per kiu mi kovras la proksimaĵon,
+      Suferus vi pli malmulte:
+      Mi gardus vin de l' ventego.
+      Sed vi plej ofte naskiĝas
+  Ĉe l' bordoj malsekaj de l' regnoj de l' vento.
+  Por vi tre maljusta do ŝajnas naturo.
+  --La via kompato, respondis l' arbeto,
+  El kor' bona venas; sed estu sentima:
+  La ventoj pli multe vin ol min turmentas;
+      Fleksiĝas mi, ne rompiĝas.
+    Ĝis nun vi venkis batojn iliajn,
+      Sed ni la finon atendu.»
+  Ĉe tiuj ĉi vortoj, alkuras el maro
+  Naskit' la plej forta de l' norda ventego:
+  La arb' kontraŭstaras, flegsiĝas l' arbeto;
+  Kun forto pli granda reblovas la vento,
+      Kaj plifortiĝas tiele,
+    Ke elradikas tute l' arbegon,
+   Kies kapego ĉielon atingis
+  Kaj ĝis la Tartaro aliris piedoj.
+
+
+
+
+LIBRO II
+
+
+I.--Kunsido de ratoj.
+
+    Kato, nomata Lardomanĝulo,
+      Ekstermis tiel la ratojn,
+  Ke preskaŭ neniu el ili vidiĝis,
+    Tiom ĝi estis entombiginta.
+  La supervivantoj, kaŝataj en truoj,
+  Apenaŭ kvarone satigis malsaton,
+  Kaj, ĉe l' malfeliĉa ratar', Lardmanĝulo
+  Taksiĝis ne kato, sed vera diablo.
+  Jen iam la besto ruzega foriris
+  En la ĉirkaŭaĵon por serĉi edzinon.
+    Dum la bruego kiun ĝi faris
+  Kun sia katino, la ratoj kunsidis
+   En unu angulo por konsiliĝi
+    Pri la malbono ilin premanta.
+    La prezidanto, saĝa persono,
+  Tuj ekopiniis, ke estas necese
+  Alligi tintilon al kolo de l' kato,
+    «Ĉar tiel, kiam ĝi ekmilitos,
+  Ni, sonon aŭdante, sub teron forrampos;
+    Ĝi estas sola bona rimedo.»
+    Ĉiuj laŭdegis la prezidanton,
+  Ĉar ŝajnis al ĉiuj nenio pli bona.
+  Sed kiu do volos alligi tintilon?
+  «Ne iros mi, diris la unu, mi tiel
+  Malsaĝa ne estus.--Ne povas mi, diris
+  Alia»; kaj tiel okazis, ke oni
+  Foriris, nenion farinte.--Mi vidis
+  Multegajn kunsidojn tiele senfruktajn,
+  Kunsidojn ne ratajn, sed ja de monaĥoj,
+      Kaj ankaŭ de kanonikoj.
+
+  Se estas necese nur ion decidi,
+    La konsilantoj estas sennombraj;
+  Sed se necesiĝas decidon plenumi,
+      Neniu plu sin proponas.
+
+
+II.--La lupo havanta proceson kontraŭ la vulpo antaŭ la simio.
+
+  Lup' diris, ke ŝtel' ĉe ĝi estis farita,
+  Kaj vulpon najbaran, sufiĉe friponan,
+      Kiel ŝtelinton kulpigis.
+    Antaŭ simion ambaŭ kunvenis,
+  Kaj sen advokato diskutis l' aferon.
+  Neniam Temis', laŭ simia memoro,
+    Juĝis proceson tiel konfuzan.
+    Ŝvitis sur sia seĝ' la juĝanto.
+  La du procesantoj protestis, kriegis,
+  Kontraŭparoladis, sin interinsultis.
+  En fin' la juĝanto ekdiris: «Amikoj,
+  De longe mi konas la vian malicon:
+    Ambaŭ vi pagos monan la punon,
+  Ĉar, lupo, ci plendas nenion perdinte,
+  Kaj, vulpo, ci prenis l' objekton petitan.
+
+  Laŭ nia juĝanto, ne povas erari,
+    Kiu kondamnas la malvirtulon.
+
+
+III.--La du bovoviroj kaj la rano.
+
+    Du bovoviroj kontraŭbatalis
+  Por havi bovinon kun la reĝpotenco.
+      Pro tio rano ĝemadis.
+    «Kial vi plendas? demandis iu
+    El la popolo koakblekanta.
+      --Ĉu vi ne vidas, ĝi diris,
+    Ke ĉe la fino de la batalo,
+      L' unu ekzilos l' alian,
+  Kaj ĝin el la verdaj kamparoj forpelos?
+    Ĝi ne plu reĝos en la herbejoj,
+  Kaj venos reĝadi en marĉajn la kanojn,
+    Kaj sub piedoj siaj nin premos;
+    Unu post unu ni do suferos
+    Pro la batalo pri la bovino.
+
+    Timo tiela estis bonsenca,
+    Ĉar en la marĉojn venis la bovo
+    Sin kaŝi, kie ranojn, po dudek
+    En ĉiu horo ĝi dispremegis.
+    Ho ve! ĝi montras, ke ĉiutempe
+      La malgranduloj elpagas
+    La malsaĝaĵojn de l' potenculoj.
+
+
+IV.--La hundino kaj ŝia kunulino.
+
+    Hundino, baldaŭ idojn naskonte
+    Kaj ne sciante kien demeti
+    Ŝarĝon tiele gravan, fervore
+  Petegis hundinon alian al ŝi tuj
+      Prunti ŝian dometon,
+  Kaj tien l' estonta patrin' sin enfermas.
+  Post kelke da temp' la mastrino revenas;
+  Sed petas l' alia semajnon ankoraŭ:
+  La idoj, ŝi diris, apenaŭ ekmarŝas.
+    La kunulino je ĝi konsentas,
+  Kaj ĉe la limtempo denove ŝi petas
+  La siajn dometon, kameron kaj liton.
+    Jen la hundino montras la dentojn,
+  Kaj diras: «Tuj mi kun la miaj foriros,
+      Se vi nin povos forpeli.»
+    La idoj estis jam tute grandaj.
+
+  Vi ĉiam bedaŭros bonfaron al homo
+  Malbona: por ion pruntitan repreni,
+      Vi devos uzi la batojn,
+  Vi devos procesi, vi devos batali.
+    Lasu lin meti ĉe vi piedon
+    Tre baldaŭ kvar li estos metinta.
+
+
+V.--La leono kaj la muŝeto.
+
+  «Forflugu, insekto senforta, besteto
+  De l' ter' elkraĉita.» Tiele leono
+    Parolis iam al la muŝeto.
+  Ĉi tiu tuj ĝin al batalo elvokis:
+    «Ĉu pensas vi, ĝi diris, ke via
+    La reĝa nomo min tre timigas?
+    Multe pli ol vi bov' estas forta;
+    Mi ĝin laŭ mia volo kondukas.»
+  Tuj ĝi, trumpetisto kaj same heroo,
+      Ekzumas por la atako,
+    Kaj, malantaŭen ekforfluginte,
+    Jen ĝi subite sur la leonon
+    Sin ĵetas kaj ĝin ekfrenezigas;
+    Jam la bestego ŝaŭmon el buŝo,
+  Fajretojn el siaj okuloj elĵetas,
+  Kaj forte blekegas. Jam ĉiuj ĉirkaŭe
+      Forkuras, ĉiuj sin kaŝas,
+    Jam ĉie regas granda teruro,
+  Kaj tian timegon elfaras muŝeto.
+  La muŝ' la leonon centloke atakas,
+  Jen pikas la dorson, jen pikas la buŝon,
+      Jen en la nazon eniras.
+  De l' best' la kolero fariĝas grandega,
+  Dum la malamik' nevidebla triumfas
+    Kaj ridas; ĉar per ungoj kaj dentoj
+  Sin mem la bestego sangade disŝiras,
+    Sur siajn flankojn brue frapadas
+  La voston, kaj vane batadas l' aeron.
+  Sed baldaŭ pro sia koler' kaj laceco
+    Ĝi falas: jen ĝi preskaŭ pereis.
+  Venkinte, l' insekto glorege forfluĝas,
+    Kaj kiel zumis ĝi por l' atako,
+    Tiel ekzumas ĝi pro la venko.
+    Dum ĝin ĝi kuras ĉien anonci,
+  Jen ĝi aranean renkontas kaptilon,
+    Kie ĝi ankaŭ morton renkontas.
+
+  Sed kion instruas la fablo? Unue,
+    La malamikoj la plej malgrandaj
+    Estas tre ofte la plej teruraj,
+  Kaj due, la sin el grava danĝero
+  Tirinta, en ia sengrava pereas.
+
+
+VI.--La azeno ŝarĝita de spongoj kaj la azeno ŝarĝita de salo.
+
+  Azenkondukisto, kun vip' en la mano,
+      Kondukis, kiel princo romana,
+      Du bestojn longegorelajn.
+  La unu, ŝarĝite de spongoj, marŝadis
+  Rapide; l' alia penade vojiris,
+      Kvazaŭ ĝi portus botelojn.
+  Ĝi estis ŝarĝita de salo. Tra montoj,
+  Tra valoj kaj vojoj, ĉi tiuj migrantoj
+  En fin' transirejon riveran alvenis,
+  Kaj en embaraso tre granda sin trovis.
+  La mastr', kiu tien jam estis veninta,
+  Sur la spongportantan azenon sursaltis,
+  Antaŭen pelante la beston alian,
+    Kiu, volante agi laŭvole,
+      En kavon baldaŭ enfalis,
+  Sur l' akvon revenis, kaj fine sin savis;
+    Ĉar ĝi al bordo penis alnaĝi,
+    Kaj tiel bone sin fluidigis
+    La sal', ke tute liberigite,
+  La best' plu nenion eksentis sur ŝultroj.
+    La spongportanta, kiel ŝafido
+  La plej imitema, ĝin volis imiti.
+    Jen ĝis la kolo ĝi en la akvon
+  Eniras, kaj kun si fortiras la mastron
+    Kaj la spongŝarĝon. Ili triope
+    Trinkis multege, ĉar hom' kaj besto
+    Glutis la ondon kiel la spongoj.
+    Tiuj ĉi tiel pezaj fariĝis,
+  Ke l' bordon l' azeno ne povis atingi.
+      Ĝin ĉirkaŭprenis la mastro
+    Kun tim' de morto neevitebla.
+    Al helpo venis iu--ne estas
+    Tre grave diri kiu--sufiĉas,
+    Ke per ĉi tio oni komprenas,
+  Ke sama agad' ne konvenas al ĉiuj.
+    Tiun ĉi punkton volis mi pruvi.
+
+
+VII.--La leono kaj la rato.
+
+VIII.--La kolombo kaj la formiko.
+
+    Laŭ via povo helpu al ĉiuj:
+  Vi ofte bezonos pli ol vi malgrandan.
+      Tion elpruvos du fabloj,
+    Ĉar de ĝi multaj estas la pruvoj.
+
+    Sub la piedojn de la leono
+  El tero malsaĝe eliris la rato.
+  La reĝo de l' bestoj, ĉe tiu okazo,
+  Kompata sin montris kaj lasis ĝin vivi.
+  Ĉi tiu bonfaro ne estis perdita,
+      Kvankam ne ŝajnas kredeble,
+    Ke al leono rat' povas helpi.
+    Sed elirinte el la arbaroj,
+  Ĉi tiu leono kaptiĝis en retoj,
+    Kiujn blekegoj ĝiaj ne povis
+  Disrompi. La rato alkuras, la maŝojn
+  Mordetas kaj tiel penadas, ke fine
+      La beston ĝi liberigas.
+
+    La pacienco kune kun tempo
+  Pli multe prosperas ol fort' kun kolero.
+
+      El pli malgrandaj bestetoj
+      Elvenas pruvo l' alia.
+  Dum trinkis kolombo en ond' de rivero,
+  Okaze formiko enfalis en l' akvon.
+    Kaj en ĉi tiu maro grandega
+  Penadas, sed vane, reveni al bordo.
+  Tuj al ĝi la birdo kompate alflugas,
+  Kaj ĵetas en l' ondon trunketon de herbo,
+  Sur kiun rampante, l' insekto dronanta
+  Sin savas per helpo de tiu ŝipeto.
+  Ĉe tiu momento, plugisto alvenas,
+    Marŝante per la nudaj piedoj.
+      Tiu ĉi havis pafarkon.
+  Tuj kiam li vidas la birdon Venusan,
+  Li volas ĝin havi en sia bolpoto.
+    Dum ĝin mortigi li sin preparas,
+   Jen pikas formiko lian kalkanon.
+    La vilaĝano turnas la kapon;
+  Ekaŭdas la birdo kaj tuje forflugas,
+  Kaj kun ĝi forflugas la manĝo de l' homo;
+      Li sen kolomb' vespermanĝis.
+
+
+IX.--La leporo kaj la ranoj.
+
+    Lepor' en hejmo sia revadis,
+    --Ĉar kion hejme fari, se oni
+  Ne revas?--Ĝi sin per ĉagreno konsumis:
+    Tiu ĉi besto estas malĝoja,
+    Kaj la timego ĝin elmordetas.
+      «La timemuloj, ĝi diris,
+      Ja estas tre malfeliĉaj,
+  Ĉar ili nenion manĝadas profite;
+  Neniam plezuro, senĉese teruroj:
+  Jen estas la mia vivado. Pro timo
+    La malbenita, nur la okulojn
+    Duonfermante povus mi dormi.
+    --Vin mem korektu, diros saĝulo.
+      --Ĉu povas tim' korektiĝi?
+    En ver' mi kredas, ke mem la homoj,
+    Kiel mi, timas.» Tiel rezonis
+    Nia leporo, kaj ĝi samtempe
+    Ĉion spione ĉirkaŭrigardis;
+    Maltrankvilega kaj sendecida
+  Ĝi estis: bloveto, brueto, ombreto,
+    Ĉio ajn ĝin ekfebrigis.
+    Tion ĉi nun pripensante,
+  La besto malĝoja ekaŭdis brueton;
+    Tuj ĝi forkuris al rifuĝejo,
+  Kaj baldaŭ alvenis al bord' de lageto.
+  Jen ranoj ensaltas en l' ondojn, jen ranoj
+   En grotojn siajn profundajn reiras.
+  «Ho! ho! ĝi ekkriis, mi faras ja tion,
+    Kion al mi mem faras aliaj!
+  Mi ekaperante timigas aliajn;
+  Mi al la ranaro alportas teruron!
+  De kie tiela kuraĝ' al mi venas?
+    Ĉu povas esti? bestoj min timas!
+    Ĉu do mi estas militfulmulo?
+  Mi vidas--sur tero timul' ĉiam trovas
+  Timulon ankoraŭ pli ol li timeman.»
+
+
+X.--La koko kaj la vulpo.
+
+    Sur arba branĉo, kiel gardanto,
+    Sidis maljuna koko tre ruza.
+  «Amik', diris vulpo kun dolĉa voĉeto,
+    Inter ni tute ĉesis milito;
+    Ĉie nun regas paco facila;
+    Mi venas al vi tion anonci.
+  Al mi do alflugu, por ke mi vin kisu;
+      Mi petas, vi ne prokrastu,
+  Ĉar longan vojaĝon mi devas hodiaŭ
+    Fari senmanke; vi kun la viaj
+    Povos sentime viajn aferojn
+    Zorgadi: al vi frate ni helpos,
+    Kaj, pro la ĝojo de tia paco,
+  Hodiaŭ vespere fajregojn bruligos.
+      Dume alflugu ricevi
+  La kison amikan de amo la frata.
+  --Amiko, respondis la koko, nenion
+  Mi povis sciiĝi pli bonan ol tiun
+  Anoncon agrablan de paco komuna,
+    Kaj mia ĝojo estas duobla,
+  Ke ĝuste de vi mi pri tio ekscias.
+  Mi vidas du hundojn, sendube senditajn
+    Por ekanonci tiun sciigon;
+    Ili rapidas kaj tuj ĉi tien
+  Alvenos; mi teren deflugas; ni frate
+    Ĉiuj ekpovos nin interkisi.
+      --Adiaŭ, diris la vulpo,
+    Mi devas multajn bestojn viziti,
+  Ni fojon alian elfestos la pacon.»
+    Tuj rapidege ĝi tra la kampoj
+      Forkuras, tre malkontenta
+      Je sia ruzo senfrukta,
+    Kaj en si mem la koko maljuna
+      Ridas pro ĝia timego;
+    Ĉar estas plezuro trompi trompinton.
+
+
+XI.--La korvo volanta imiti la aglon.
+
+    La birdo Zeŭsa iam ŝafidon
+  Aeren forportis. Ĉi tion vidinte,
+  La korv' pli malforta, sed tiom manĝema,
+      Tuje ĝin volis imiti.
+    Ĝi flugas ĉirkaŭ la ŝafidaro
+  Kaj ŝafon elektas plej grasan, plej belan
+    El ĉiuj, ŝafon por diofero,
+    Kaj elnutritan por buŝoj diaj.
+    Ĝin rigardante la korv' ekdiris:
+  «Ne scias mi, kia bonmamo vin nutris,
+  Sed korp' via ŝajnas en stato mirinda;
+    Por mi vi estos bona regalo.»
+    Sur la ŝafidon tuj ĝi deflugas;
+      Sed ŝafa la kreitaĵo
+  Pli pezis ol unu fromaĝo, kaj plie
+    Ĝia ŝaflano estis densega
+    Kaj preskaŭ tiel miksita
+    Kiel la barbo de Polifemo.
+  Ĝi tiel detenis la ungojn de l' korvo,
+  Ke tute ne povis la birdo forflugi.
+  Ĝin prenas paŝtisto, ĝin metas en kaĝon
+  Kaj donas al knaboj, por sin amuzadi.
+
+  Ni devas mezuri la nian fortecon:
+  Pereas ŝtelist' se rabisto fariĝas.
+    La imitado estas trompado:
+    Estas danĝere por tiraneto
+  Se agas li kiel la grandpotenculoj,
+  Kaj kie la vesp' pasas, restas la kulo.
+
+
+XII.--La pavo plendanta al Junono
+
+  Pav' al Junono iris por plendi.
+  «Diin', ĝi diris, ja ne senprave
+    Mi plendas kaj murmuradas.
+  La voĉo, kiun vi al mi donis,
+  Malplaĉas al la tuta naturo,
+  Dum la najtingalo, birdeto senforta,
+  Sonore kaj ĉarme kantadas eĉ nokte,
+    Kaj de l' printempo estas ornamo.»
+      Junon' kolere respondis:
+    «Birdo ĵaluza, kiu silenti
+      Devus, ĉu havas vi rajton
+    Envii voĉon la najtingalan,
+    Vi, kiu portas ĉirkaŭ la kolo
+    La ĉielarkon plej belkoloran,
+  Vi, kiu fiere marŝadas, vi, kiu
+  Malvolvas la voston plej riĉan kaj ŝajnas
+      Butiko de juvelisto?
+    Ĉu estas ia birdo sur tero
+  Pli bone ol vi mem farita por plaĉi.
+    Best' ĉiu ĉiajn indojn ne havas,
+    Al vi ni donis ecojn diversajn.
+  La unuj grandecon kaj forton ricevas;
+  Falk' estas malpeza kaj agl' plenkuraĝa;
+    Korvo utilas por l' antaŭsignoj;
+  Korniko konigas malbonojn venontajn;
+    Ĉiuj je sia voĉ' kontentiĝas.
+  Vi ĉesu do plendi, alie je via
+    Plumaro mi vin pune senigos.»
+
+
+XIII.--La leono kaj la azeno ĉasantaj.
+
+    La reĝ' de l' bestoj iam intencis
+   Ĉasadi: ĝi festis sian nomtagon.
+  Sed ĉasas leon' ne paserojn, sed aprojn
+  Fortegajn, gazelojn kaj cervojn belkreskajn.
+    Por ĝin helpadi ĝi alvenigis
+      L' azenon voĉo-Stentoran.
+  Ĉi tiun ĝi uzis en lok' de ĉaskorno.
+  Ĝin do de branĉaĵoj kovritan postene
+  Ĝi lokis kaj al ĝi ordonis blekegi,
+    Pensante, ke ĉe tia blekego
+  La plej kuraĝegaj forkuros pro timo;
+  Ĉar ili certege ne povos suferi
+      La tondron de ĝia voĉo.
+  L' aero resonis de bruo terura;
+  Timego ekkaptis l' arbarajn logantojn,
+  Kaj ĉiuj forkuris kaj nepre subfalis
+    Ĉiuj sub l' ungojn de la leono.
+    «Ĉu mi ne faris bonan servadon?
+  Ekkriis l' azeno, por si mem prenante
+    Tutan la gloron.--Jes, la leono
+  Respondis; ci ja tre kuraĝe blekegis;
+    Se mi ne konus cin mem kaj cian
+    La rason, mi mem tute timiĝus.»
+    L' azeno, kvankam rajte mokita,
+  Ekvolis koleri, sed ĝi ne kuraĝis;
+  Ĉar kiu do povus suferi azenon
+  Fieran: naturo ne faris ĝin tia.
+
+
+
+
+LIBRO III
+
+
+I.--La muelisto, lia filo kaj la azeno.
+
+  Mi legis, ke naiva muelisto
+  Kaj lia filo, unu jam maljuna,
+  Infan' la dua, ne el plej malgrandaj,
+  Sed kvindekjara knabo, se memoro
+  Min mem ne trompas, iam al foiro
+  Kuniris vendi la azenon sian.
+  Por ke belŝajna kaj pli aĉetinda
+  La besto estu, la piedojn ĝiajn
+  Kunligis ili kaj ĝin alpendigis,
+  Kaj poste ili portis kiel lustron;
+  Malkleraj ambaŭ kaj tutnaivegaj!
+  Per rido eksplodegis la unua
+  Kiu ĝin vidis. «Kian, li ekkriis,
+  Ŝercaĵon tiuj ĉi intencas ludi?
+  El tiuj tri la plej azeno certe
+  Ne estas tiu, kiun oni pensas»
+  Aŭdinte, sian malklerecon vidas
+  La muelisto; sur piedojn ĝiajn
+  Tuj la azenon sian li ekmetas,
+  Kaj ĝin antaŭe marŝi li devigas.
+  La besto, kiu tute ĝojis iri
+  Alie, plendas siamaniere.
+  La muelist' ĉi tion ne atentas,
+  Kaj, la naskiton sian rajdiginte,
+  Li malantaŭe sekvas. Tri vendistoj
+  Alvenas, kiuj ĝin malplaĉa trovas,
+  Kaj tuj la plej maljuna laŭte diras:
+  «Ho ho! desaltu, vi junulo, kiu
+  Vojiras kun lakeo barbogriza:
+  Vi devas sekvi kaj l' alia rajdi.
+  --Sinjoroj, volas mi vin kontentigi,»
+  La patro diris. Lia fil' desaltas,
+  Kaj la maljuna rampas sur la beston.
+  Sed pasas tri fraŭlinoj; unu diras:
+  «Hontinde estas, ke la filo lamas,
+  Dum patro lia, kvazaŭ episkopo
+  Sidante, rajdas tre senzorge kiel
+  Bovido, kaj prudenta esti pensas.
+  --En aĝo mia, diris la rajdanto,
+  Ne estas plu bovidoj. Vian iron
+  Daŭrigu, vi fraŭlino, al mi kredu.»
+  Post multe da mokaĵoj kun pasantoj
+  Interŝanĝitaj, kredis la maljuna,
+  Ke li malprava estas. Sur l' azenon
+  Malantaŭ si la knabon li sidigis.
+  Post tridek paŝoj tion ekkritikas
+  Anaro tria: «Tiuj ĉi rajdantoj,
+  Ekkrias unu, tre malsaĝaj estas:
+  La besto ne plu povas marŝi, baldaŭ
+  Ĝi mortos per iliaj batoj! Fi!
+  Tiele ŝarĝi malfeliĉan beston!
+  Ĉu ili ne kompatas je maljuna
+  Servisto? Nun sendube ili iras
+  Foiron por ekvendi ĝian felon!
+  --Pro Dio, diris la maljuna, kapon
+  Malsaĝan havas kiu ĉiujn homojn
+  Kaj sian patron volas kontentigi!
+  Ni tamen per rimedo ia provu
+  Prosperi.» Tuj desaltas ambaŭ teren,
+  Kaj la azen' trankvile antaŭmarŝas.
+  Renkontas ilin iu kaj li diras:
+  «Ĉu modo estas, ke azeno iru
+  Senĝene, dum la mastro sin mem ĝenas?
+  Sed kiu el du devas sin lacigi,
+  Ĉu l' besto, ĉu la mastro? Mi konsilas,
+  Ke tiuj ĉi en keston multekostan
+  Nun ĝin enmetu. Ambaŭ siajn ŝuojn
+  Eluzas, por pli longe sian beston
+  Konservi. Bela trio da azenoj!
+  --Azen' mi estas, tion mi konfesas,
+  La muelisto diris; sed de nun
+  Ĉu oni min kritikos, ĉu min laŭdos,
+  Ĉu ion, ĉu nenion oni diros,
+  Laŭ mia kapo mi agadi volas.»
+  Li faris tiel, kaj li faris bone.
+
+
+II.--La membroj kaj la stomako.
+
+    Pri kelkaj punktoj reĝa potenco
+  Similas al homa stomako. Se fartas
+  Malbone ĝi, tuta la korpo malsanas.
+
+    Lacaj penadi por ĝi, la membroj
+    Decidis vivi nobelsinjore,
+    Senfare, kiel moŝt' la stomaka.
+    «Ĝi, diris ili, de la aero,
+    Kiel ni, vivu. Ni ĉiuj ŝvitas,
+    Penas simile al portaj bestoj;
+  Por kiu? Por ĝi, sed por ni sen profito.
+  Per nia zorgado ni nutris ĝin solan;
+  Ni ĉesu labori, laŭ ĝia ekzemplo.»
+    Tuj senprokraste ĉesas la manoj
+    Preni, la brakoj agi, la kruroj
+    Marŝadi; ĉiuj al la stomako
+  Ekdiris, ke sian nutraĵon ĝi serĉu.
+    Tian eraron ili tre baldaŭ
+  Bedaŭris, senfortaj tuj ekfariĝante;
+  La sango ne plu renoviĝis en koro;
+  La membroj suferis; fortec' detruiĝis.
+    Per tio vidis la ribelantoj,
+  Ke la senokupa ŝajnanto laboras
+  Pli ol ili por la komuna profito.
+
+  Ĝi povas figuri la reĝan potencon,
+  Ĉar ĝi egalparte ricevas kaj donas.
+    Por ĝi laboras ĉiu kaj el ĝi
+    Ĉiu nutraĵon sian eltiras.
+  Ĝi al laboristoj donigas salajron,
+  Ĝi pagas juĝistojn, riĉigas vendistojn,
+  Defendas plugistojn, elnutras soldatojn,
+  Disdonas milloke donacojn sennombrajn,
+    Provizas sola tutan la regnon.
+  Ĝin Menenio komprenigis.
+    De la senato volis disiĝi
+  La popolamaso, dirante, ke sola
+  Ĉi tiu posedas potencon, trezorojn,
+  Honorojn, dum al ĝi nur restas malbonoj,
+  Tributoj, impostoj, militaj klopodoj.
+    Ekster la muroj staris l' amaso
+  Kaj landon alian intencis serĉadi.
+    Sed Menenio al ĝi elmontris,
+    Ke ĝi similas al homaj membroj,
+  Kaj per apologo de ĉiuj konita,
+    Al ĝia devo ĝin rekondukis.
+
+
+III.--La lupo fariĝinta paŝtisto.
+
+    Kaptante jam nur parton malgrandan
+      Da ŝafoj de l' najbaraĵo,
+    Lup' volis uzi la ruzon vulpan,
+      Kaj novan rolon ludadi.
+  Ĝi, kiel gardist', sur sin metas mantelon,
+  Kaj longan bastonon paŝtistan ekprenas
+      Kune kun fluto duobla.
+    Por sian ruzon tute plenumi,
+  Volonte ĝi skribus sur sian ĉapelon:
+  «Gilo' mi estas, la paŝtisteto
+      De tiu ĉi ŝafidaro»
+      Tiele sin maskinte
+  Kaj siajn piedojn antaŭajn metante
+    Sur la bastonon, Gilo' la falsa
+      Senbrue sin proksimigas.
+    Gilo' la vera sur herb' kuŝante
+      Dormis tiam profunde,
+  Kaj dormis la hundo, kaj ankaŭ la fluto;
+    Tutsame dormis multe da ŝafoj.
+    Ne vekis ilin la hipokritulo
+    Kaj por facile povi la ŝafojn
+      Al sia hejm' alkonduki,
+  Ĝi volis, jam kiel paŝtisto vestite,
+      Ankaŭ paŝtiste paroli.
+      Sed tio ĝin pereigis.
+    Ĉar ĝi ne povis bone imiti
+  La voĉon paŝtistan, sed tutan l' arbaron
+  Plenigis per bruo de sia la voĉo,
+  Kaj tiel konigis la artifikaĵon.
+    Tia bruego ĉiujn ekvekas,
+  La hundon, la ŝafojn kaj la ŝafgardiston.
+  Ĉe tia tumulto la lup' malfeliĉa,
+    Pro la mantelo tute ĝenite,
+  Ne povis forkuri nek sin mem defendi.
+
+    La friponuloj ĉie enfalas
+  En iajn kaptilojn de si preparitajn.
+    Kiu ajn estas lup' agu lupe;
+    Estas ĉi tio pli sendanĝera.
+
+
+IV.--La ranoj petantaj reĝon.
+
+    De l' demokrata stat' lacigite,
+      La ranoj kriis tiele,
+  Ke sub monarkpovon Zeŭs' ilin submetis,
+    Kaj el ĉielo reĝon paceman
+    Alsendis, kiu tiel bruegis
+    Falante, ke la tuta anaro
+      Iris sin kaŝi sub l' ondojn,
+    Ĉu en la junkojn, ĉu en la kanojn,
+  Ĉu en la kavaĵojn de sin la marĉo,
+    Ne kuraĝante dum longa tempo
+  Vizaĝe rigardi ĉi tiun ŝajnantan
+      Al ĝi terura giganto.
+      Ĉi tiu estis trabeto,
+    Kies graveco per tim' plenigis
+    L' unuan, kiu, por ĝin ekvidi,
+   Kuraĝis forlasi sian kavaĵon.
+    Ĝi do analĝis, sed tremegante;
+    Dua, kaj poste tria ĝin sekvis,
+  Kaj baldaŭ alvenis anaro sennombra,
+    Kiu fariĝis tiel senĝena,
+  Ke ĝi sur la ŝultrojn de l' reĝo sursaltis.
+  La bona moŝt' reĝa ĉi tion suferas,
+  Kaj ĉiam kuŝadas senmove. La ranoj
+  Disrompas per plendoj la kapon de Zeŭso;
+    «Al ni alsendu reĝon plenmovan.»
+    La reĝ' de l' dioj gruon alsendis,
+      Kiu tuj ilin buĉadas,
+  Manĝadas kaj glutas laŭ sia plezuro.
+    Jen la ranaro plendas denove.
+  «Sed, diras la dio, ĉu via deziro
+  Nin volas submeti sub siajn la leĝojn?
+    La saĝ' ordonis al vi konservi
+    Vian unuan vivmanieron;
+  Sed ĝin ne farinte, vi devis akcepti
+    Senplende reĝon bonan, kvietan.
+    Estu do je ĉi tiu kontentaj,
+  Timante, ke venos tiran' pli kruela.»
+
+
+
+
+KOLEKTO ESPERANTA APROBITA DE D-o ZAMENHOF
+
+FRANCUJO.--HACHETTE kaj K-o, 79, Boul. St-Germain, Paris
+
+
+LIVRES D'ÉTUDE
+
+  Grammaire et Exercices de la langue Esperanto, par
+    L. de Beaufront.                                            1 50
+  Corrigé de Grammaire et Exercices de la langue Esperanto,
+    par L. de Beaufront.                                        » 75
+  Commentaire sur la grammaire Esperanto, par L. de Beaufront.  2  »
+  Texte synthétique des règles, préfixes, suffixes, expressions
+    de l'Esperanto, traduction française en regard,
+    par L. de Beaufront.                                        » 50
+  Thèmes d'application, Lexicologie, Syntaxe, Formation des
+    mots de l'Esperanto, vocabulaire des mots employés, par
+    L. de Beaufront.                                            2  »
+  Cours commercial d'Esperanto, par Marissiaux.                 1 50
+  Corrigé des exercices du Cours commercial d'Esperanto,
+    par M. Marissiaux.                                          1  »
+  L'Esperanto en dix leçons, par Th. Cart et Pagnier.           » 75
+  Corrigé des Exercices de l'Esperanto en dix leçons,
+    par Th. Cart et M. Procureur.                               » 50
+  Premières leçons d'Esperanto, par Th. Cart.                   » 30
+  Dictionnaire Esperanto-Français, par L. de Beaufront.         1 50
+  Structure du dictionnaire Esperanto. Réponse à beaucoup
+    d'objections. (Teksto esperanta kaj franca),
+    par L. de Beaufront.                                        » 30
+  Vocabulaire Français-Esperanto et Vocabulaire abrégé
+    Esperanto-Français, par Th. Cart, M. Merckens et
+    P. Berthelot.                                               2 50
+  Vocabulaire des mots spéciaux à la philatélie,
+    par R. Lemaître.                                            » 40
+
+TEKSTOJ EN ESPERANTO
+
+  Brueys et Palaprat. _Advokato Patelin_, tradukita de J. Evrot.   » 75
+  Diversaĵoj, rakontetoj tradukitaj de S-oj Lallemant kaj Beau.    1 25
+  Ekzercoj de Aplikado, Leksikologio, Sintakso, Vortfarado
+    Esperantaj, de L. de Beaufront.                                1  »
+  Esperantaj prozaĵoj, de diversaj aŭtoroj. 2 50
+  Fundamenta Krestomatio de la lingvo Esperanto, de D-ro Zamenhof. 3 50
+  Fundamento de Esperanto, de D-ro Zamenhof.                       3  »
+  Godineau. _La Kolorigisto-aerveturanto_.                         » 30
+  Hamleto, dramo de Shakespeare tradukita de D-ro Zamenhof,
+    _nova eldono_.                                                 2  »
+  Komercaj leteroj, de P. Berthelot kaj Ch. Lambert.               » 50
+  Kondukanto de l' interparolado kaj korespondado kun aldonita
+    Antologio Internacia, de Grabowski.                            2  »
+  Kurso tutmonda, de E. Gasse.                                     » 75
+  Labiche et Legouvé. _Cikado ĉe Formikoj_, unuakta komedio.       » 60
+  La Fontaine. _Elektitaj Fabloj_, esperantigitaj de G. Vaillant.  » 75
+  La Komerca sekretario, de Ros Sudria.                            » 50
+  Leibniz. _Monadologio_, tradukita de E. Boirac.                  » 60
+  Maistre (X. de). _Vojaĝo interne de mia Ĉambro_,
+    tradukita de S. Meyer.                                         » 75
+  Matematika terminaro kaj krestomatio, de R. Bricard.             » 75
+  Molière. _L' Avarulo_, tradukita de S. Meyer.                    » 75
+  Orzesko. _La interrompita kanto_, tradukita de Kabe.             »  »
+  Norman. _Poŝlibro Internacia_, por Aferistoj, Turistoj, K. C.    2  »
+  Perrault (Ch.) _Rakontoj pri Feinoj_, tradukitaj de
+    Sinjorino Sarpy.                                               1  »
+  Rakontoj kaj Fabeloj (el Esperantaj Prozaĵoj).                   » 25
+  Sieroŝevski (Vaclav). _La Fundo de l' mizero_,
+    tradukita de Kabe.                                             » 75
+  Virgilio. _Eneido_, kantoj I et II, tradukita de D-ro Vallienne. » 60
+
+
+
+A LA MÊME LIBRAIRIE
+
+
+Tutmonda Jarlibro Esperantista
+
+ENHAVANTA LA
+
+Adresarojn de D-ro ZAMENHOF
+
+1905
+
+Cet annuaire paraît tous les ans dans le courant de mars. Il
+contient: plus de 20 000 adresses d'Espérantistes dans le monde
+entier, les renseignements les plus complets sur les Sociétés de
+propagation, les livres, les journaux, les publications de toute
+nature en Esperanto.
+
+Un volume grand in-16, broché ...... 2 fr. 50
+
+
+Internacia Scienca Revuo
+
+Revue mensuelle scientifique rédigée
+
+EN ESPERANTO
+
+Paraissant depuis le 1er Janvier 1904
+
+
+COMITÉ DE PATRONAGE:
+
+Société française de physique, Société internationale des
+Électriciens, MM. Adelsköld, Appell, d'Arsonval, Baudoin de
+Courtenay, Becquerel, Berthelot, Bouchard, Brouardel, Deslandres,
+G-al Sébert, membres de diverses académies.
+
+  RÉDACTION:
+  P. FRUICTIER
+  27, boulevard Arago,
+  _PARIS_
+
+  ADMINISTRATION:
+  HACHETTE & K-o
+  79, boulevard Saint-Germain,
+  _PARIS_
+
+ABONNEMENT ANNUEL
+
+France ..... 6 fr. 50 | Etranger ..... 7 fr.
+
+UN NUMÉRO: 60 centimes.
+
+
+Dr Helte.--Pri la Teorio de l' Jonoj ...... » 30
+
+Mendelejev.--Provo de Kemia Kompreno de l' Monda Etero ...... » 30
+
+
+
+
+ANGLUJO.--REVIEW of REVIEWS, Norfolk street, LONDON, W. C.
+
+  First lessons in Esperanto. by Th. Cart and J. Rhodes      6 pence.
+  Esperanto: The Student's complete Text-Book, with two
+    vocabularies by J. C. O'Connor Ph. Dr. M. A.                1s 6d
+  Esperanto-English dictionary, by A. Motteau.                  2s 6d
+  English-Esperanto dictionary, by J. C. O'Connor Ph. Dr. M. A. 2s 6d
+  English-Esperanto dictionary, by J. Rhodes and J. Ellis
+    (_in preparation_).
+  Grammar and exercises of the International Language Esperanto,
+    by Richard H. Geoghegan.                                    1s 6d
+  Dickens, Kristnaska sonorado (A Christmas Carol),
+    tradukita de M. Vestcott.                                   1s »
+
+BELGUJO--HOLANDUJO.--A.-J. WITTERYCK-DELPLACE, 4, Nouvelle Promenade,
+BRUGES
+
+  Het Esperanto in tien lessen, door A.-J. Witteryck naar
+    Cart et Pagnier.                                            » 50
+  Paĝoj el la Flandra Literaturo, tradukitaj de D-ro
+    Seynaeve et D-ro Van Melckebeke.                            1 50
+
+BULGARUJO.--KLUBO «STELO», PLOVDIV
+
+  Esperanto en 10 lecionoj, de Cart et Pagnier.                 1  »
+  Unuaj lecionoj, de Cart et Atanasov.                          » 40
+  Propaganda folio.                                             » 10
+
+DANUJO.--ANDR.-FRED. HÖST & SÖN, Bredgade, 35, KJÖBENHAVN
+
+  Esperanto-Dansk-Norsk Ordbog, af F. Skeel-Giörling        Kr. 3 50
+  Grammatik.                                                    »  »
+  Dansk-Esperanto Ordbog.                                       »  »
+
+GERMANUJO.--MÖLLER & BOREL, Prinzenstrasse, 95, BERLIN
+
+  Anfangsgründe der Esperanto-Sprache, von Th. Cart
+    und Hermann Jürgensen.                                    M 0 30
+  Vollständiges Lehrbuch der Esperanto-Sprache, von J. Borel. M 1 20
+  Wörterbuch Deutsch-Esperanto, von Dr Zamenhof.              M 2  »
+  Wörterbuch Esperanto-Deutsch, von H. Jürgensen.             M 1 80
+  Schlüssel zum Lehrbuch der Esperanto-Sprache, von J. Borel. M 0 50
+  Pri unu speco de Kurbaj linioj, von Profesor A. Dombrovski. M 0 50
+  Lernolibro de Esperanta Stenografio, (laŭ sistemo
+    Stolze-Schrey) de F. Schneeberger.                        M 0 80
+
+HISPANUJO.--J. ESPASA, 579, Calle de las Cortes. BARCELONA
+
+  Primeras lecciones de Esperanto de Th. Cart
+    y L. Villanueva.                                          P 0 40
+  Manual y Ejercicios de la lengua internacional Esperanto,
+    por V. Inglada Ors y A. L. Villanueva.                    P 3  »
+  Vocabulario Esperanto-Español y Español-Esperanto, por
+    Inglada Ors y Villanueva.                                 P 6  »
+
+ITALUJO.--RAFFAELLO GIUSTI, 53, Via Vittorio Emanuele, LIVORNO
+
+  Prime lezioni d'Esperanto de Th. Cart e Alb. Gallois.         0 40
+  Grammatica della lingua internazionale Esperanto di
+    L. de Beaufront, tradotta da G. Puccinelli.                 1 50
+  L'Esperanto in dieci lezioni, di Cart e Gallois.              » 75
+  Dizionario Esperanto-Italiano, de J. Puccinelli (_in preparazione_).
+  Dizionario Italiano-Esperanto, de J. Meozzini (_in preparazione_).
+
+POLUJO.--M. ARCT, 53, Nowy Swiat, WARSZAWA
+
+  Esperanto: Czecs I. Gramatyka i ćwiczenia, Dr L. Zamenhof. R. 0 25
+  ---- Czecs II. Slownik                                     R. 0 15
+
+PORTUGALUJO.--BRAZILUJO
+
+  Primeiras liçôes de Esperanto, do professor Th. Cart, trad.
+    portugueza de A.-C. Coutinho, Paris, Hachette.              » 40
+
+SVEDUJO.--Esperantoförening, STOCKHOLM
+
+  Esperanto-Svensk ordbok, de P. Ahlberg.                   Kr: 1 75
+
+OUVRAGES DIVERS
+
+  Tutmonda jarlibro esperantista por 1905                       2 50
+  Couturat (L.) et Leau (L.).--Histoire de la
+    langue universelle.                                        10  »
+  -- Extraits de l'Histoire de la langue universelle.           1  »
+  Lafarge (G.).--Nécessité de l'adoption d'une langue
+    internationale auxiliaire.                                  1  »
+  Sacré (E.).--L'Esperanto.                                     1  »
+  Thiaucourt (C.).--Dernière conférence sur la Langue
+    Internationale Esperanto                                    1  »
+  Premier manuel de la langue auxiliaire Esperanto              » 10
+
+1709-05.--Coulommiers. Imp. Paul BRODARD.--1-06.
+
+
+
+Notoj de transskribinto:
+
+Diversajn preserarojn de la originalo mi senrimarke ĝustigis. Mi
+translokigis la tabelon de enhavo al la komenco de la teksto, kaj
+movis ĉiujn la reklamojn al la fino.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Elektitaj fabloj de J. de La Fontaine, by 
+Jean de La Fontaine
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ELEKTITAJ FABLOJ--J. DE LA FONTAINE ***
+
+***** This file should be named 51690-0.txt or 51690-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/1/6/9/51690/
+
+Produced by Andrew Sly and the Online Distributed
+Proofreading Team at http://www.pgdp.net (This book was
+produced from scanned images of public domain material
+from the Google Books project.)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

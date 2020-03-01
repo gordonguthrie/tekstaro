@@ -1,0 +1,2514 @@
+﻿The Project Gutenberg EBook of La Kantistino, by Wilhelm Hauff
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: La Kantistino
+
+Author: Wilhelm Hauff
+
+Translator: Eugen Wüster
+
+Release Date: March 6, 2008 [EBook #24763]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA KANTISTINO ***
+
+
+
+
+Produced by Andrew Sly and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+Nova Esperanto-Biblioteko
+
+No 8
+
+Vilhelmo Hauff
+
+La Kantistino
+
+Novelo
+
+El la germana originalo tradukis
+
+Eugen Wüster
+
+Berlin 1921
+
+Esperanto-Verlag Friedrich Ellersiek
+
+
+Alle Rechte vorbehalten.
+
+Ĉiuj rajtoj estas rezervitaj.
+
+Copyright 1921 by Friedrich Ellersiek, Berlin.
+
+
+
+
+Antaŭparolo de la tradukinto
+
+
+Iomete atingi tion, kion oni postulas de nacilingva traduko, t. e.
+forgesigi al sperta legonto, ke la originalo ne estas verkita en lia
+patrina lingvo, kaj havigi al li ne nur pensojn, sed ankaŭ
+sentimentojn, estis la celo de mia provo.
+
+Vieno, 1an de jan. 1917.
+
+Antaŭ la preso ankoraŭfoje trarigardante la manuskripton mi
+ŝanĝis diversaĵojn, sed ĝenerale ne volis kontraŭagi la tiaman
+intencon.
+
+Berlino-Charlottenburg, febr. 1921.
+
+E. W.
+
+
+
+
+Vivo kaj verkado de Hauff
+
+
+Vilhelmo Hauff, naskita 29. XI. 1802 en Stuttgart, vizitis la monakan
+lernejon de Blaubeuren kaj en Tübingen studis teologion. Reveninte en
+sian patrourbon, li publicis sian unuan verkon "Fabela almanako por
+la jaro 1826", al kiu sekvis 2a kaj 3a jarkolektoj. La rakontoj
+troviĝintaj en ili estis favore akceptataj kaj atingis sub la titolo
+"Fabeloj" multfojajn represojn. En 1827 aperis la "Komunikoj el la
+memuaroj de l'satano", ne finitaj, kaj en la sama jaro "La viro en la
+luno". Tiu romano unue estis verkita en la ekscentra stilo de la tiam
+moderna H. Clauren, sed laŭ konsilo kelke da strekoj ŝanĝis la
+imiton al karikaturo. Same pri Cl. okupiĝas la sarkasma "Disputa
+prediko pri H. Clauren kaj la viro en la luno, farita al la germana
+publiko". En la daŭro de mallonga tempo plue estis kreata la
+ampleksa historia romano "Lichtenstein", "Fantaziaĵoj en la bremena
+urbdoma kelo" kaj la noveloj "La Almozulino de la ponts des arts",
+"La bildo de l'imperiestro", "Judo Süß" kaj "La Kantistino".
+
+Ankaŭ nombro da poemoj estis fluinta el la plumo de la juna aŭtoro,
+kiam de li, de post januaro redaktisto de "Morgenpost", la morto
+forprenis ĝin 11 tagojn antaŭ lia 25a naskotago.
+
+La 18-an de Novembro kiel lian mortodaton surhavas la monumento
+13 jarojn poste konstruita por glori lin en loko, kiu al lia
+rakontista arto dankas sian propran gloron: ĉe la kastelo
+Lichtenstein.
+
+
+
+
+I.
+
+
+"Tio estas stranga okazaĵo!" la komerca konsilanto[1] _Bolnau_
+diris al konato, kiun li renkontis sur la Larĝa strato en _B_.
+"Konfesu mem, ke ni vivas en malbona tempo."
+
+"Vi pensas pri la afero en la nordo?", la konato respondis. "Ĉu vi
+ricevis komercajn informojn? Ĉu la ministro de l'eksterlandaj aferoj
+pro malnova amikeco diris al vi detalojn?"
+
+"Pa, lasu min trankvila pri politiko kaj ŝtatbiloj; tio neniel
+interesas min. Ne, mi celas la aferon pri _Bianetti_."
+
+"Pri la kantistino? Ĉu ŝi ree estas dungita? Oni ja diris, ke
+okazis malakordo inter ŝi kaj la orkestrestro—"
+
+"Sed pro Dio", la komerca konsilanto ekkriis kaj miregante haltis;
+"en kiuj drinkejaĉoj vi do restadas, ke vi ne scias, kio okazas en
+la urbo? Do vi ne scias, kio fariĝis al Bianetti?"
+
+"Nenian vorton, per mia honoro; kio do okazis pri ŝi?"
+
+"Nu, nenio alia okazis al ŝi, ol ke ŝi hodiaŭ nokte estis
+mortpikata."
+
+La komerca konsilanto inter siaj konatoj estis konsiderata kiel
+ŝercemulo, kiu, matene de la dekunua ĝis tagmezo farante siajn
+promenadojn sur la Larĝa strato, ŝatis haltigi la homojn kaj
+improvize kredigi ion al ili. Tial la konato ne estis tre kortuŝita
+de tiu terura sciigo, sed respondis: "Ion alian vi do hodiaŭ ne scias,
+Bolnau? Vi supozeble estas tute elĉerpinta vian spriton, ke vi
+pentras per tiel akraj koloroj. Cetere, se alian fojon vi ree
+haltigos min sur la Larĝa strato, tiam elpensu ion pli saĝan; alie
+mi estos devigata, iri malrektan vojon, hejmen irante de la
+kancelario."
+
+"Li ree ne kredas ĝin!", la promenanto ekkriis, "Vidu, li ree ne
+kredas ĝin! Se mi estus dirinta, ke la imperiestro de Maroko estas
+mortpikita, vi estus danke akceptinta kaj disvastiginta la sciigon,
+ĉar tie jam okazis similaj aferoj. Sed, se kantistino ĉi tie en B.
+estas mortpikata, neniu volas kredi, ĝis kiam oni vidas la funebran
+irantaron. Sed, karulo, ĉi tiun fojon ĝi estas vera, tiel vera,
+kiel mi estas honesta viro."
+
+"Homo! pripensu, kion vi diras!", la amiko kun teruro ekkriis.
+"Mortinta, vi diris? Bianetti mortpikita?"
+
+"Mortinta antaŭ unu horo ŝi ankoraŭ ne estis, sed ŝi estas
+mortiĝanta, tio almenaŭ estas certa."
+
+"Sed parolu fine, pro Dio! Kiel oni povas mortpiki kantistinon? Ĉu
+ni do vivas en Italujo? Por kio do ekzistas la laŭdinda polico? Kiel
+la afero do fariĝis? Mortpikita?"
+
+"Sed ne kriu tiel surdige", Bolnau kvietigante respondis. "La homoj
+jam elmetas la kapojn el ĉiuj fenestroj por vidi, kie estas la
+strata tumulto. Vi ja povas plendi _sotta voce_[2], kiom ajn vi
+volas. Kiel la afero fariĝis, vi demandas? Jen vidu, pri tio ja
+estas la demando; tion ĝis nun neniu scias. Hieraŭ nokte la bela
+infanino ankoraŭ estis ĉe la maskobalo, tiel aminda, tiel rava kiel
+ĉiam, kaj hodiaŭ nokte je la dekdua la medicina konsilanto[3]
+_Lange_ estas vekata; oni diras, ke _signora_[4] Bianetti estas
+mortiĝanta, ke ŝi havas pikvundon en la koro. La tuta urbo jam
+parolas pri tio, sed kompreneble tute ekstravagance. Troviĝas en
+tio, estas vere, fatalaj cirkonstancoj, tiel ke oni ne povas akiri
+klaron; ekzemple neniu krom la kuracistoj kaj la homoj, kiuj servas
+al ŝi, estas enlasata en la domon. Ankaŭ ĉe la kortego oni jam
+scias pri la afero, kaj venis ordono, ke la gardistaro ne preterpasu
+la domon; la tuta bataliono devis iri la malrektan vojon trans la
+foirejon."
+
+"Kion vi diras! Sed ĉu oni do tute ne scias, kiel okazis? Ĉu oni do
+tute ne havas postsignon?"
+
+"Estas malfacile, tra la diversaj famoj penetri al la vero. Bianetti,
+nedisputeble, estas tre bonmora persono, pri kiu oni neniel povas
+malbone paroli. Sed vi konas la kutimon de l'homoj kaj precipe de la
+virinoj; kiam nun iu ekparolas pri la deca vivmaniero de la
+kompatinda knabino, oni levas la ŝultrojn kaj pretendas, pri ŝia
+antaŭa konduto scii tion kaj tion. Pri ŝia antaŭa konduto! Ŝi
+estas apenaŭ deksepjara kaj ĉi tie jam estas unu jaron kaj duonon.
+Kia antaŭa konduto tio estas?"
+
+"Ne perdu tiom da tempo pri la enkonduko", la konato interrompis lin,
+"sed ekparolu pri la temo. Ĉu oni ne scias, kiu mortpikis ŝin?"
+
+"Nu, ĝuste tion mi ja diras; jen oni ree asertas, ke estis
+malakceptita aŭ ĵaluza amanto, kiu mortigis ŝin. Strangaj ja estas
+la cirkonstancoj. Onidire ŝi hieraŭ ĉe la maskobalo sufiĉe longe
+parolis sola kun maskulo, kiun konis neniu. Ŝi baldaŭ poste
+foriris, kaj kelkaj homoj pretendas, ke ili vidis la saman maskulon
+eniranta en la kaleŝon al ŝi. Super tio neniu scias ion certan; sed
+mi baldaŭ sciiĝos, kiel estas pri la afero."
+
+"Mi scias, ke vi ja havas viajn proprajn sciiĝilojn, kaj certe
+ankaŭ ĉe Bianetti vi havas servistaranon. Estas homoj, kiuj nomas
+vin la urba kroniko."
+
+"Tro da honoro, tro da honoro", la komerca konsilanto ridis kaj
+ŝajne sentis sin iom flatita. "Sed ĉi-foje mi ne havas alian
+spionon, ol la medicinan konsilanton mem. Vi supozeble rimarkis, ke
+mi tute kontraŭ mia kutimo ne promenas sur la tuta strato de unu
+fino al la alia, sed ĉiam restas inter la Karla kaj la Frederika
+stratoj."
+
+"Certe mi tion rimarkis, sed mi pensis, ke vi faras fenestran
+promenon antaŭ la edzino de ŝtatkonsilanto _Baruch_[5]."
+
+"Lasu min trankvila pri ŝi! Ni rompis unu kun la alia antaŭ tri
+tagoj; mia edzino ne ŝatis la rilaton, ĉar tiu sinjorino ludas tiel
+altspeze. Ne, la medicina konsilanto Lange ĉiutage je la dekdua
+pasas tra la Larĝa strato, irante al la kastelo, kaj mi ĉi tie
+embuske atendas, por tuj celi al li, kiam li venas el post la
+stratangulo."
+
+"Tiam mi restos ĉe vi", la amiko diris, "la aferon pri Bianetti mi
+devas aŭdi pli detale. Vi ja permesas tion, Bolnau?"
+
+"Kara sinjoro, neniel lasu ĝeni vin", la alia respondis. Mi scias,
+ke vi manĝas je la dekdua; do zorgu, ke via supo ne malvarmiĝu.
+Plie Lange en via ĉeesto eble hezitos pri la rakontado; prefere post
+la manĝo venu en la kafejon, tie vi aŭdos ĉion.—Cetere foriĝu,
+tie li jam venas el post la stratangulo.
+
+
+
+
+II.
+
+
+"Mi ne konsideras la vundon nepre mortiga", la medicina konsilanto
+Lange diris post la unuaj salutoj; "la piko ŝajne ne estis firme
+direktata. Ŝi jam plene reakiris la konscion, kaj se oni konsideras
+la malfortecon, kaŭzitan de la granda sangoperdo, en ĉi tiu momento
+almenaŭ estas nenia danĝero."
+
+"Tio ĝojigas min", la komerca konsilanto respondis kaj intime
+enbrakigis sin kun la kuracisto. "Mi ankoraŭ akompanos vin kelkajn
+paŝojn ĝis la kastelo, sed, pro Dio, diru al mi detalojn pri tiu
+afero; oni ja neniel povas klarigi al si, kiel ĉio fariĝis."
+
+"Mi povas ĵuri al vi", la alia respondis, "terura mallumo kovras la
+aferon. Mi apenaŭ ekdormis, kiam mia Johano vekis min per la sciigo,
+ke oni vokas min al iu tre danĝere malsana. Mi plej rapide vestis
+min kaj kuras eksteren; en la vestiblo staras knabino, pala kaj
+tremanta, kaj flustris tiel mallaŭte, ke mi apenaŭ aŭdis ĝin, ke
+mi kunprenu mian pansilaron. Jam tio frapas min; mi rapide ensaltas
+en la kaleŝon, igas la palan fraŭlinon sidiĝi sur la veturigista
+loko apud Johano, por ke ŝi montru la vojon, kaj poste for. Mi
+eliras antaŭ malgranda domo kaj demandas la fraŭlinon, kiu do estas
+la malsanulo?"
+
+"Mi povas imagi, kiel vi miregis..."
+
+"Kiel mi miregis, aŭdante, ke estas signora Bianetti! Mi ja konis
+ŝin nur de la teatro, alie apenaŭ du aŭ tri fojojn vidis ŝin; sed
+la mistera maniero, kiel mi estis venigata al ŝi, la pansilaro, kiun
+mi devis kunpreni,—mi konfesas al vi, ke mi estis tre scivola, kio
+do fariĝis al la kantistino. Ni supreniris kelke da ŝtupoj,
+trapasis mallarĝan koridoron. La knabino antaŭiris, dum kelke da
+minutoj atendigis min en la malhelo kaj post tio singultante kaj
+ankoraŭ pli pala ol antaŭe venis renkonten al mi. 'Eniru, sinjor'
+doktoro', ŝi diris, 'ho! vi kredeble venas tro malfrue, kaj ŝi ne
+postvivos tion'. Mi eniris, estis terura vidaĵo."
+
+La medicina konsilanto eksilentis, meditanta kaj malserena; ŝajnis,
+ke trudiĝas al lia animo bildo, kiun li vane klopodas forpuŝi. "Nu,
+kion vi vidis?", lia akompananto ekkriis, malpacienca pro tiu
+interrompo. "Vi ja espereble ne volas min tiel restigi inter martelo
+kaj amboso?"
+
+"Multajn aferojn mi renkontis en mia vivo", rekolektinte siajn
+pensojn la kuracisto daŭrigis, "multajn aferojn kiuj teruris min,
+kiuj min ektimigis, sed nenion, kio tiel fendis mian koron, kiel tiu
+vidaĵo. En nehele lumigita ĉambro pala juna virino kuŝis sur la
+sofo, antaŭ ŝi genuis maljuna servistino kaj premis tukon sur ŝian
+koron. Mi alproksimigis min; blanka kaj rigida kiel busto la kapo de
+la mortantino estis klinita malantaŭen; la nigraj, malleviĝintaj
+haroj, la malhelaj brovoj kaj palpebroharoj de la fermitaj okuloj
+terure kontrastis kun la brila palo de la frunto, de la vizaĝo, de
+la bela kolo. La blankaj multfaldaĵaj vestoj, kiuj kredeble
+apartenis al ŝia masko, estis surverŝitaj per sango, sango estis
+sur la planko, kaj de la koro ŝajne eliris la ruĝa radio—. Ĉio
+ĉi prezentiĝis al mi dum unu momento; estis Bianetti, la
+kantistino."
+
+"Ho, Dio, kiel tio kortuŝas min!", la komerca konsilanto emociite
+diris, eltirante longan silkan tukon, por froti siajn okulojn.
+"Ĝuste tia ankoraŭ la lastan dimanĉon ŝi kuŝis en la opero
+'Otelo', ludante la rolon de Desdemono. Jam tiam la efekto estis tiel
+kruele vera kaj efektive terura, ke oni opiniis, ke la negro fakte
+mortpikis ŝin; kaj nun ĝi vere trafis ŝin. Kiel tio kortuŝas
+min!"
+
+"Ĉu mi ne malpermesis al vi ĉian supermezuran kortuŝon?" la
+kuracisto interrompis lin. "Ĉu vi nepre volas, ke viaj atakoj
+revenu?"
+
+"Vi estas prava", la komerca konsilanto Bolnau diris kaj rapide
+enpoŝigis la tukon: "Vi estas prava, afekcio por mia konstitucio ne
+taŭgas. Sed daŭrigu, mi preterirante nombros la vitraĵojn ĉe la
+milita ministrejo, tio gardas de tiaj atakoj."
+
+"Nu, nombradu, kaj se tio ne efikos, vi povos ankoraŭ aldoni la
+supran etaĝon de la palaco.—La maljuna servistino forprenis la
+tukon, kaj miregante mi ekvidis vundon kiel de tranĉilpiko, tre
+proksime de la koro. Mi ne povis perdi la tempon per demandoj, kiom
+ajn da ili mi estus volinta fari; mi esploris la vundon kaj surmetis
+la bandaĝon. La vunditino dum la tuta operacio montris nenian signon
+de vivo; nur kiam mi sondis la vundon, ŝi dolore ekŝiriĝis. Mi
+lasis ŝin ripozi kaj gardis ŝian dormon."
+
+"Sed la knabino kaj la maljuna servistino, ĉu vi do ne demandis ilin
+pri la deveno de la vundo?"
+
+"Mi do volas ĝin konfesi al vi, komerca konsilanto, ĉar vi estas
+mia malnova amiko; jes, kiam provizore nenio plu devis esti farata
+por la malsanulino, mi sufiĉe decide deklaris, ke mi plue jam neniel
+okupos min pri la sinjorino, se ili ne ĉion konfesos al mi."
+
+"Kaj kion ili diris? Daŭrigu do!"
+
+"Post la dekunua la kantistino estis reveninta, akompanate de granda
+vira maskulo.—Ĉe tiu sciigo mi ebla iom tro dusence rigardis la du
+virinojn, ĉar ili denove ekploris kaj per plej fortaj ĵuroj solene
+certigis, ke mi neniel bezonas malbone pensi pri ilia mastrino; ke
+dum la longa tempo, de kiam ili servas al ŝi, post la kvara vespere
+neniam viro transpaŝis la sojlon; la malpli granda knabino, kredeble
+leginta romanojn, eĉ asertis, ke signora estas anĝelo de pureco."
+
+"Tion mi ankaŭ asertas", la komerca konsilanto diris, kortuŝite
+eknombradante la fenestrovitrojn de la palaco, al kiu ili
+proksimiĝis: "tion ankaŭ mi diras; pri Bianetti oni ne povas
+malbone paroli, ŝi estas aminda, pia infanino; kaj ĉu estas ŝia
+kulpo, ke ŝi estas bela kaj devas perlabori sian vivtenon per
+kantado?"
+
+"Kredu al mi", Lange respondis, "kuracisto pri tio havas neerarigan,
+psikologian juĝilon. Rigardo al la anĝele puraj trajtoj de la
+malfeliĉa knabino min pli konvinkis pri ŝia virteco, ol la ĵuroj
+de ŝiaj ĉambristinoj. Sed aŭskultu plue: la kantistino kun la
+fremdulo eniris en tiun ĉambron kaj elirigis sian servistinon. Tiu,
+eble pro scivolo, kion do signifas tiu nokta vizito, restis proksime
+de la pordo; ŝi aŭdis disputon franclingve okazantan inter ŝia
+mastrino kaj basa, kaveca voĉo de viro; ke signora fine ekploregis,
+ke la viro terure blasfemis; subite ŝi aŭdis sian mastrinon
+akresone ekkrianta, ŝi pro timo jam ne povas deteni sin, abrupte
+malfermas la pordon, kaj en la sama momento la maskulo sin ĵetas
+preter ŝin kaj tra la koridoro al la ŝtuparo. Ŝi sekvis lin kelke
+da paŝoj, antaŭ la ŝtuparo ŝi aŭdis teruran pumpumon; li
+supozeble falegis malsupren. De malsupre leviĝas ĝemado kaj
+plendetado, kiel tiu de mortanto; sed ŝi sentas timegon, ŝi ne
+kuraĝas pluen iri eĉ unu paŝon. Ŝi reiras en la pordon—la
+kantistino kuŝas en sia sango kaj post malmulte da momentoj fermas
+la okulojn. La knabino ne scias helpi al si, ŝi vekas la maljunan
+servistinon, por ke ŝi intertempe helpu al sia mastrino, kaj rapidas
+al mi, por eble ankoraŭ alporti savon al signora."
+
+"Kaj Bianetti ankoraŭ ne diris ion? Ĉu vi ne demandis ŝin?"
+
+"Ni tuj iris al la policejo kaj vekis la direktoron: li ankoraŭ
+noktomeze traserĉigis ĉiujn hotelojn kaj stratodrinkejojn, ĉiujn
+angulojn de la urbo; el la pordego en tiu horo neniu pasis, kaj de
+nun ĉiu estas severe esplorata. La domanoj loĝantaj en la supra
+etaĝo eksciis pri la tuta afero ne pli frue, ol kiam policanoj
+traserĉis la domon; nekompreneble estis, kiel la mortiginto
+povis forkuri, kvankam li supozeble per sia falo forte leziĝis;
+ĉar oni trovis multe da sango malsupre ĉe la ŝtuparo, kaj ne estas
+neverŝajne por mi, ke li falante vundis sin per sia propra ponardo.
+Estas des pli nekompreneble, kiel li forsavis sin, ĉar la dompordo
+estis fermita. Bianetti mem vekiĝis je la deka kaj deklaris por
+protokoli al la policestro, ke ŝi en la plej rigora senco ne scias,
+eĉ ne suspektas, kiu povas esti la maskulo. Ĉiuj kuracistoj kaj
+kirurgoj ricevis la devigan instrukcion, se ili estas vokataj al
+paciento lezita per falo aŭ tranĉila vundo, anonci tion, ĉar oni
+eble tiamaniere povus trovi postsignon de la mortiginto. Jen kiel
+statas la afero. Sed mi estas neŝanceleble konvinkita, ke en tio
+kaŝiĝas profunda sekreto, kiun la kantistino ne volas konigi; ĉar
+Bianetti ne estas tia, ke ŝi lasus sin hejmen akompani de viro tute
+ne konata de ŝi. Tion ŝajne konjektas ankaŭ ŝia servistino,
+ĉeestinta dum la pridemandado. Ĉar kiam ŝi vidis, ke signora ne
+volas sciigi ion, ŝi ne menciis la disputon, kiun ŝi aŭdis; sed
+al mi ŝi rigardis pete, ke mi ne perfidu ŝin. 'Ĝi estas terura
+afero', ŝi diris, poste min akompanante al la ŝtuparo, 'sed nenio
+ajn instigus min perfidi ion, kion signora ne volas sciigi'. Ŝi
+ankoraŭ ion konfesis al mi, kio eble lumigus la tutan aferon."
+
+"Nu, kaj ĉu mi ne ankaŭ povas scii tiun cirkonstancon?", la komerca
+konsilanto demandis. "Vi vidas, kiel streĉita estas mia scivolo;
+malstreĉu, malstreĉu, pro Dio, alie mi facile povus ricevi miajn
+atakojn."
+
+"Aŭdu, Bolnau, pripensu, ĉu ankoraŭ alia Bolnau krom vi vivas en
+ĉi tiu urbo? Ĉu ankoraŭ iu alia ekzistas en la mondo kaj kie,
+diru, kie?"
+
+"Krom mi neniu ajn en ĉi tiu urbo", Bolnau respondis. "Kiam antaŭ
+ok jaroj mi ekloĝis ĉi tie, mi ĝojis, ke mia nomo ne estas _Schwarz_,
+_Weiss_ aŭ _Braun_, ne _Meier_, _Müller_ aŭ _Bauer_[6], ĉar pri
+tiuj nomoj okazas tre malagrablaj intermiksoj. En _Kassel_ mi estis
+la sola viro en mia familio, kaj aliloke en la tuta mondo ne ekzistas
+iu Bolnau, krom mia filo, la malfeliĉa muzikmaniulo, pri kiu oni ne
+plu aŭdis, de kiam li velveturis al Ameriko. Sed kial vi demandas
+pri mia nomo, doktoro?"
+
+"Nu, ĝi ne povas esti vi, komerca konsilanto, kaj via filo estas en
+Ameriko. Sed jam estas kvarono post la dekdua, princidino Sofio estas
+malsana, mi nur tro longe babilis kun vi: adiaŭ, _au revoir_[7]."
+
+"Restu", Bolnau ekkriis kaj retenis lin ĉe la brako, "antaŭe diru
+al mi, kion ankoraŭ diris la knabino."
+
+"Nu do, sed katenu vian langon en la buŝo, Bolnau! Ŝia lasta vorto,
+antaŭ kiam ŝi estis kaptata de tiu profunda sveno, estis
+_Bolnau_."
+
+
+
+
+III.
+
+
+Oni ankoraŭ neniam vidis la komercan konsilanton Bolnau tiel serioza
+kaj malserena ŝteliri kiel tiam, kiam doktoro Lange forlasis lin
+antaŭ la palaco. Alitempe li paŝis gaja kaj vigla, kaj kiam li per
+plej afabla rideto salutis ĉiujn knabinojn kaj virinojn, multe ridis
+kun la viroj kaj rakontis al ili diversajn novaĵojn, tiam oni
+ankoraŭ ne estus aljuĝinta al li sesdek jarojn. Li ŝajnis efektive
+havi sufiĉe da kaŭzo, por esti gaja kaj bonhumora; li spekulaciante
+kolektis ŝatindan posedaĵon, forlasis, kiam ĝi ŝajnis sufiĉa, la
+aferojn, por kun sia edzino ekloĝi en B. kaj nun vivis en ĝojo kaj
+plezuro jaro post jaro. Li estis havinta unu solan filon; tiu la
+maljuna sinjoro volis, ke li trakuru la saman karieron kaj agu kaj
+klopodu en la komerca fako.
+
+Sed la tuta esteco de la filo vivis en la regno de l'sonoj, la muziko
+por li estis ĉio, la komerco kaj negocado de la patro estis al li
+tro trivialaj kaj malnoblaj. La patro estis obstina, la filo ankaŭ,
+la patro facile flamiĝis, la filo ankaŭ, la patro tuj ĉion puŝis
+ĝis la ekstremo, la filo ankaŭ; ne mirige, ke ili ne povis vivi unu
+kun la alia. Kaj kiam la filo finis sian dudekan jaron, la patro
+estis kvindekjara kaj tiam pretiĝis por forlasi la aferojn kaj volis
+transdoni la komercadon al la filo. Efektive ĉio baldaŭ estis
+aranĝita kaj kvietigita, ĉar en bela somera nokto la filo malaperis
+kun kelke da pianaj partituroj, ankaŭ ĝuste alvenis en Anglolando
+kaj sufiĉe amike skribis, ke li iros al Ameriko. La komerca
+konsilanto deziris al li feliĉon por la vojaĝo kaj iris al B.
+
+La penso pri la muzikmaniulo, kiel li nomis sian filon, ja
+malserenigis al li kelkan horon; ĉar li estis petinta lin, neniam
+plu montri sin antaŭ li, kaj oni ne povis atendi, ke la alia
+nevokite revenos; kelkfoje ekŝajnis al li, ke li tamen agis
+malsaĝe, volante, ke la filo nepre estu en la komerca fako; sed la
+tempo, la societo kaj lia serena humoro ne lasis por longe naskiĝi
+tiujn malgajajn pensojn: li vivis en plezuro kaj ĝojo, kaj kiu volis
+lin vidi tre serena, bezonis nur inter la dekunua kaj tagmezo promeni
+tra la Larĝa strato. Se li tie vidis longan, malgrasan viron, kies
+tre moderna vesto, kies tenilaj okulvitroj kaj rajdvipo, kies
+facilmovaj manieroj ne plu akordis kun liaj grizaj haroj; se tiun
+viron li vidis salutanta ĉiuflanken, ĉiumomente haltanta ĉe tiu
+aŭ tiu kaj babilanta kaj gestanta per la brakoj, tiam li povis fidi,
+ke ĝi estis la komerca konsilanto Bolnau.
+
+Sed hodiaŭ ĉio estis tute alia. Se jam antaŭe la afero pri la
+mortigo de la kantistino preskaŭ tro afekciis lin, la lasta vorto de
+la doktoro plene ekskuis liajn nervojn. "Bolnau", ankoraŭ diris
+Bianetti, antaŭ ol senkonsciiĝi. Lian propran honestan nomon ŝi
+elparolis, en tiel suspektigaj cirkonstancoj! Liaj genuoj tremis kaj
+preskaŭ rifuzis obei al li, lia kapo, plena de zorgoj kaj peza de
+pensoj, malleviĝis al la brusto. "Bolnau!" li pensis, "reĝa komerca
+konsilanto! Se ŝi nun mortus, la kantistino, se la knabino poste
+malkaŝus sian sekreton kaj konigus al la polica direktoro la
+detalajn cirkonstancojn de la mortigo kaj la fatalan vorton! Kiom
+lerta juristo povus argumenti, sin apogante sur unu sola vorto,
+precipe kiam lin stimulas la vanto, montri sian sagacon en tia
+_cause célèbre_[8]!" Kun malespera mieno li rigardis tra la
+tenilaj okulvitroj al la pundomo, kies frontono malproksime
+suprenstaris. "Tien, Bolnau, pro tute specialaj favoro kaj konsidero
+al plurjaraj servoj!"
+
+Li pli pene spiris, li levetis la kravaton, sed ektimigite li abrupte
+retiris la manon; ĉu tio ne estis la loko, kie oni ĉirkaŭligas la
+kanaban ĉirkaŭkolon[9], ĉu tio ne estis la loko, kie trapasas la
+malvarma glavo?
+
+Se li renkontis konaton kaj tiu salute balancis la kapon, li pensis:
+"Hola, tiu jam scias pri la afero kaj volas komprenigi al mi, ke li
+estas bone informita." Se alia preteriris ne salutante, nenio ŝajnis
+al li pli certa, ol ke oni ne volas koni lin, por ne makuli sin,
+interrilatante kun mortiginto. Preskaŭ li mem kredis, ke li estas
+kulpa pri la mortigo, kaj ne estis mirige, ke li iris grandan kurbon,
+por eviti la policejon; ĉar ĉu la direktoro ne povus stari ĉe la
+fenestro, lin ekvidi kaj voki supren? "Karulo, ĉu vi ne bonvolus por
+momento veni supren, mi devas iom paroli kun vi." Ĉu li ne jam
+sentis ian tremon, ĉu li ne jam nun sentis siajn trajtojn
+ŝanĝiĝintaj al pentula mieno, nur ĉar oni povus opinii, ke li
+estas tiu, kiun la kantistino kulpigis per sia lasta vorto?
+
+Kaj poste li ree ekpensis, kiel malutila tia emocio estas por lia
+konstitucio; timeme li serĉis fenestrovitrojn, por nombrante
+trankviligi sin. Sed la domoj kaj stratoj dancadis ĉirkaŭ li, la
+sonorilturo ŝajnis sin moke klinanta antaŭ li; freneza teruro
+kaptis lin, li kuradis tra la stratoj, ĝis kiam li elĉerpite
+subfleksiĝis en sia loĝejo; kaj kiam li iom rekonsciiĝis, lia unua
+demando estis, ĉu ne policano demandis pri li.
+
+
+
+
+IV.
+
+
+Kiam proksimiĝe la vesperon la medicina konsilanto Lange venis al
+sia pacientino, li ŝin trovis multe pli bonfarta, ol li estis
+atendinta. Li sidiĝis al ŝia lito kaj interparolis kun ŝi pri tiu
+fatala okazaĵo. Ŝi estis apoginta sian brakon sur la kusenojn, en
+la gracia mano kuŝis ŝia bela kapo. Ŝia vizaĝo ankoraŭ estis tre
+pala, sed eĉ la konsumiteco de ŝiaj fortoj ŝajnis doni al ŝi
+siaspecan allogecon. Ŝia malhelaj okuloj neniom perdis de tiu ardo,
+tiu esprimopleneco, kiu jam pli antaŭe de sur la scenejo allogis la
+kuraciston, kvankam li estis kviete juĝanta viro kaj ne plu havis la
+aĝon, kiam fantazio helpas al la belo. Li devis konfesi al si, ke li
+malofte vidis kapon tiel belan, vizaĝon tiel ĉarman; ŝiaj trajtoj
+neniel estis regulaj, kaj tamen per siaj kuneco kaj harmonio kaŭzis
+ensorĉon, por kiu li longe ne sciis kialon. Sed al la psikologia
+sagaco de la medicina konsilanto tiu kialo ne restis kaŝita; ĝi
+estis tiu puro de l'animo, tiu nobleco de l'naturo, kio per surpriza
+brilo de beleco surverŝis tiujn virgulinajn trajtojn. "Ŝajnas,
+ke vi studas miajn trajtojn, doktoro", la kantistino ridetante diris,
+"vi sidadas tiel silente kaj meditante, streĉe rigardas min kaj
+ŝajne tute forgesas, pri kio mi demandis. Aŭ ĉu tio estas tro
+terura, por ĝin sciigi al mi? Ĉu mi ne povas aŭdi, kion la urbo
+diras pri mia akcidento?"
+
+"Por kio vi volas aŭdi ĉiujn stultajn supozojn, kiujn elpensas kaj
+disvastigas neokupitaj homoj? Mi ĵus meditis pri tio, kiel pura via
+animo sin spegulas sur viaj trajtoj; vi havas pacon en vi, kiom vin
+zorgigas la juĝo de la aliaj homoj?"
+
+"Vi evitas mian demandon", ŝi respondis, "vi volas elturniĝi,
+dirante al mi belajn aferojn. Kaj mi ne zorgu pri la juĝo de
+l'homoj? Kiu honesta junulino povas tiel ignori la societon, en kiu
+ŝi vivadas, ke estas al ŝi indiferente, kion oni parolas pri ŝi?
+Aŭ ĉu vi eble opinias, ke mi neniel konsideras tion, ĉar mi estas
+anino de klaso, pri kiu oni ne havas bonan opinion? Konfesu malkaŝe,
+vi opinias min tre facilanima."
+
+"Ne, certe ne; mi ĉiam nur belaĵojn aŭdis pri vi, fraŭlino
+Bianetti, pri via trankvila, izolita vivado, kaj ke vi staras en la
+mondo kun firma teniĝo, kvankam vi estas tiel soleca kaj elmetita al
+multaj intrigoj. Sed kial vi volas ĝuste scii, kion diras la homoj?
+Kaj se mi kiel kuracisto tiajn novaĵojn ne konsiderus konvenaj?"
+
+"Mi petas, doktoro, mi petas, ne turmentu min tiel longe", ŝi
+ekkriis, "vidu, mi legas en viaj rigardoj, ke oni ne bone parolas pri
+mi. Kial lasi min necerta, kio estas pli danĝera por la trankvilo ol
+la vero mem?"
+
+Tiun lastan argumenton la medicina konsilanto trovis tre ĝusta; kaj
+ĉu dum lia foresto ne povis enpenetri iu babilema virino kaj raporti
+ankoraŭ pli malbonajn aferojn, ol li povis diri? "Vi konas la
+ĉi-tieajn homojn", li respondis, "B. ja estas sufiĉe granda, sed,
+bona Dio, ĉe novaĵo tiaspeca tuj montriĝas, kiel filistra oni
+estas. Estas vere, ke pri vi parolas la tuta urbo, tio ne povas
+mirigi vin; kaj ĉar oni ne scias ion certan, oni—nu, oni elpensas
+ĉiuspecajn strangajn fabelojn. Ekzemple oni diras, ke la vira
+maskulo, kiun oni vidis ĉe la maskobalo interparolanta kun vi, kaj
+kiu sendube estas la sama, kiu faris tiun krimon, estas—"
+
+"Nu, finu do vian frazon", la kantistino kun tre streĉita atento
+petis, "daŭrigu!"
+
+"Oni diras, ke ĝi estis antaŭa amanto, kiu vin amis en—en alia
+urbo kaj volis mortigi vin pro ĵaluzo."
+
+"Pri mi tion! Ho, mi malfeliĉa!", ŝi afliktite ekkriis, kaj larmoj
+brilis en ŝiaj belaj okuloj; "kiel kruelaj estas la homoj kontraŭ
+tiel kompatinda, kompatinda knabino, kiu estas sen ŝirmo kaj helpo!
+Sed rakontu ĝis la fino, doktoro, mi petegas vin! Ankoraŭ mankas
+io, kion vi ne diris al mi. En kiu urbo, la homoj diras, ke mi—"
+
+"Signora, mi estus aljuĝinta al vi pli da forto", Lange diris,
+maltrankvila pro la emocio de sia pacientino. "Vere, mi nun pentas,
+ke mi diris eĉ nur tiom; mi neniam estis farinta tion, se mi ne
+timus, ke aliaj, kies afero tio ne estas, antaŭiĝus al mi."
+
+La kantistino rapide sekigis siajn larmojn. "Mi volas esti
+trankvila", ŝi melankolie ridetante diris, "trankvila mi estos kiel
+infano; mi volas esti gaja, kvazaŭ la homoj nun kondamnantaj min
+milvoĉe estus kriintaj al mi: brave. Sed rakontu plue, kara, bona
+doktoro!"
+
+"Nu, la homoj babilas sensencaĵojn", li kolerete daŭrigis.
+"Ekzemple, kiam antaŭ nelonge vi aktoris en 'Otelo', onidire en unu
+el la loĝioj de l'unua etaĝo estis fremda grafo; tiu pretendas, ke
+li vin rekonis kaj antaŭ du jaroj en Parizo vidis en malbona
+domo.—Sed, mia Dio, vi fariĝas pli kaj pli pala—"
+
+"Estas nenio, la brilo de la lampo nur iom malpli hele lumigis min;
+daŭrigu, daŭrigu!"
+
+"Nu, tiu klaĉo komence restis nur en la unuaj rondoj, sed iom post
+iom ĝi penetris en la publikon, kaj ĉar aldoniĝas tiu okazaĵo,
+oni kombinas ambaŭ kaj lokas vian interrilaton kun via atencinto en
+tiun malbonfaman domon en Parizo."
+
+Sur la esprimoplenaj trajtoj de la malsanulino dum tiuj paroloj la
+intensa palo estis ŝanĝiĝinta en flaman ruĝon. Ŝi estis levinta
+sin pli alten, kvazaŭ por preterlasi neniun vorton de tiu terura
+sciigo, ŝia okulo estis streĉe kaj brule fiksita al la buŝo de la
+kuracisto, ŝi apenaŭ spiris, ŝia koro ŝajne haltis.
+
+"Nun ĉio estas finita", ŝi ekkriis kun dolora rigardo al la ĉielo,
+dum larmoj verŝiĝis el ŝiaj okuloj, "nun ĉio estas elfinita; se
+tion li aŭdis, estis tro por lia ĵaluzo. Kial hieraŭ mi ne mortis,
+ho! tiam mi havus mian bonan patron, kaj mia dolĉa patrino konsolus
+min pri la moko de tiuj kruelaj homoj!"
+
+La kuracisto miregis pri tiuj enigmaj vortoj; li ĵus volis diri al
+ŝi konsolan, trankviligan vorton, kiam la pordo brue kaj abrupte
+malfermiĝis kaj juna granda viro sin ĵetis internen. Lia vizaĝo
+estis okulfrape bela, sed sovaĝa obstino malserenigis liajn
+trajtojn, liaj okuloj ruliĝis, liaj haroj nezorgite pendis ĉirkaŭ
+la frunto. Li havis en la pugno grandan kunrulitan notfolion, kiun li
+kvazaŭ aktorante svingis en la aero, antaŭ ol trovi spiron por
+paroli. Ekvidante lin, la kantistino laŭte ekkriis; la kuracisto
+komence opiniis, ke pro timo, sed ĝi estis pro ĝojo; ĉar ĉarma
+rideto transkuris trans ŝiajn lipojn, ŝia okulo tra larmoj brilis
+renkonten al li. "_Carlo_[10]!", ŝi ekkriis, "Carlo! Fine vi
+vizitas min!"
+
+"Mizerulino!", la juna viro ekkriis, majeste en la direkto al ŝi
+etendante la brakon kun la longa rulpaketo de notoj. "Ĉesigu vian
+sirenan kantadon, mi venas—por juĝi vin!"
+
+"Ho, Carlo!", la kantistino interrompis lin, kaj ŝiaj vortoj sonis
+melodie kaj dolĉe kiel la sonoj de fluto. "Kiel vi povas tiel paroli
+al via _Giuseppa_[11]!"
+
+La juna viro volis respondi kun tragika patoso, sed la kuracisto,
+konsideranta tiun scenon tro ekscita por sia pacientino, intervenis.
+"Plej kara sinjoro Carlo", li diris, proponante al li flartabakon,
+"bonvolu pripensi, ke la fraŭlino estas en stato, en kiu tiaj scenoj
+tro afekcias ŝiajn malfortajn nervojn!"
+
+La alia grandokule rigardis lin kaj turnis la rulpaketon kontraŭ
+lin: "Kiu vi estas, hometaĉo?" per basa, tondra voĉo li ekkriis.
+"Kiu vi estas, ke vi stariĝas inter mi kaj mia kolero?"
+
+"Mi estas la medicina konsilanto Lange", tiu respondis kaj klakfermis
+la skatoleton, "kaj en miaj titoloj nenio troviĝas pri hometaĉo. Mi
+estas estro kaj mastro tiel longe, dum signora estas malsana, kaj mi
+diras al vi pace, for! aŭ modulu vian _presto assai_[12] al deca
+_larghetto_[13]."
+
+"Ho, lasu lin, doktoro!", la malsanulino timeme ekkriis, "lasu lin,
+ne kolerigu lin! Li estas mia amiko, li ne faros malbonaĵon al mi,
+kion ajn la malicaj homoj ree diris al li pri mi."
+
+"Ha! Vi eĉ kuraĝas moki! Sed sciu, fulmobato krevigis la pordojn de
+via sekreto kaj lumigis la nokton, en kiu mi iradis. Do tial vi
+volis, ke mi ne sciu, kio vi estis, de kie vi venis? Tial vi fermis
+mian buŝon per kisoj, kiam mi demandis pri via vivo? Mi stultulo!
+Ke mi lasis min ensorĉi de virina voĉo kaj ne pripensis, ke ĝi
+estas nur mensogo kaj delogo! Nur en la kantado de l'viro troviĝas
+forto kaj vero. _Ciel_[14]! Kiel mi povis lasi min senprudentigi de
+la voĉruladoj de publikulino!"
+
+"Ho, Carlo", flustris la malsanulino, "se vi scius, kiel viaj vortoj
+vundas mian koron, kiel via terura suspekto penetras ankoraŭ pli
+profunden ol la ponardo de la mortigisto!"
+
+"Ĉu ne, kolombeto", kun terura rido li ekkriis, "viaj _amorosi_[15]
+devus esti blindaj; tiam estus oportune, moktrompi ilin? La parizano
+supozeble ja estas bravulo, ke li fine tamen ankoraŭ trovis la
+senpekan kolombeton!"
+
+"Sed nun efektive estas tro, sinjoro", la kuracisto ekkriis kaj
+kaptis la jakon de la furiozanto: "tuj, senprokraste eliru el la
+ĉambro, alie mi vokos la servistojn, por ke ili ekspedu vin."
+
+"Mi jam foriras, hometaĉo, mi foriras", la alia ekkriis kaj repuŝis
+la medicinan konsilanton, ke li sufiĉe komforte sidiĝis en
+brakseĝo; "jes, mi foriras, Giuseppa, por neniam reveni. Adiaŭ,
+fartu bone aŭ prefere mortu, malfeliĉulino, kaŝu vian malgloron
+sub la tero. Sed transe kaŝu vian animon en loko, kie mi neniam
+renkontu vin; mi malbenus la ĉielan feliĉegon, se mi ĝin dividus
+kun vi, ĉar vi ĉi tie per tiel abomeninda trompo senigis min de mia
+amo, de mia vivo." Li tion kriis, ankoraŭ iom svingante la notojn,
+sed liaj sovaĝaj, ruliĝantaj okuloj fandiĝis en larmojn, kiam por
+la lasta fojo li rigardis la amitinon, kaj plorsingultante li elkuris
+el la ĉambro.
+
+"Sekvu, haltigu lin", la kantistino ekkriis, "rekonduku lin, mia
+feliĉego de tio dependas!"
+
+"Neniel, estimata", doktoro Lange respondis, leviĝante el sia
+brakseĝo; "la sceno ne devas esti daŭrigata. Mi volas recepti al vi
+ion kvietigan, de kio vi englutos ĉiuhore du supkulerojn."
+
+La malfeliĉulino reenfalis en siajn kusenojn kaj ŝiaj fortoj estis
+elĉerpitaj, ŝi denove eksvenis.
+
+La kuracisto vokis la servistinon kaj helpate de ŝi klopodis
+rekonsciigi la malsanulinon; sed li ne povis deteni sin, glutigante
+al ŝi la esencojn, dece riproĉi la servistinon. "Ĉu mi ne ordonis,
+ke oni enlasu neniun, tute neniun, kaj nun oni allasas tiun
+frenezulon, kiu preskaŭ duan fojon mortigis vian kompatindan
+fraŭlinon?"
+
+"Mi certe ja neniun alian enlasis", la ĉambristino plorante diris,
+"sed lin mi vere ne povis malakcepti; ŝi min hodiaŭ ja sendis jam
+tri fojojn en lian domon, por petegi lin, ke li venu eĉ nur por
+momenteto; mi ja eĉ devis diri, ke ŝi mortas kaj antaŭe nur
+ankoraŭ unu fojon volas vidi lin!"
+
+"Ĉu vere? kaj kiu do estas tiu—"
+
+La malsanulino malfermis la okulojn. Ŝi rigardis jen la kuraciston,
+jen la servistinon, ŝiaj rigardoj serĉe vagis tra la ĉambro. "Li
+estas for, perdita por ĉiam", ŝi flustris. "Ho, kara doktoro, iru
+al Bolnau."
+
+"Sed, mia Dio, kion vi do deziras de mia malfeliĉa komerca
+konsilanto, li jam sufiĉe ekscitiĝis pri via afero, tiel, ke li
+devas resti en la lito; kiel li povas helpi vin?"
+
+"Ho, mi parole glitis", ŝi respondis, "al la fremda orkestrestro vi
+iru, li havas la nomon _Boloni_ kaj loĝas en la _hotelo de
+Portugalujo_."
+
+"Mi memoras, ke mi aŭdis pri li", la doktoro diris, "sed kion ĉe li
+mi faru?"
+
+"Diru al li, ke mi volas ĉion diri al li, li nur ankoraŭ unu fojon
+venu,—sed ne, mi ne povas ĝin mem diri al li; doktoro, se vi—jes,
+mi konfidas al vi, mi volas al vi ĉion diri, kaj poste vi ĝin
+transdiros al la malfeliĉulo, ĉu ne?"
+
+"Mi estas sub via dispono; kion mi povas fari, por trankviligi vin,
+mi plezure faros."
+
+"Nu, do venu morgaŭ matene, mi hodiaŭ ne plu povas multe paroli.
+Adiaŭ, sinjoro medicina konsilanto; sed ankoraŭ unu vorton;
+_Babette_, donu al sinjoro la doktoro lian tukon."
+
+La servistino malŝlosis ŝrankon kaj prezentis al la kuracisto tukon
+el flava silko, disvastigantan en la ĉambro agrablan odoron.
+
+"La tuko ne apartenas al mi", li diris, "vi eraras; mi uzas nur
+naztukojn el tolo."
+
+"Ne eble", la servistino respondis, "hodiaŭ nokte mi ĝin trovis sur
+la planko; al domano ĝi ne apartenas, kaj iu alia krom vi ankoraŭ
+ne venis ĉi tien."
+
+La kuracisto renkontis la rigardojn de la kantistino, atendeme
+fiksitajn al li. "Ĉu tiu tuko ne povus esti perdita de iu alia?",
+kun firma rigardo al ŝi li demandis.
+
+"Montru ĝin", ŝi timeme respondis, "pri tio mi ankoraŭ ne pensis."
+Ŝi esploris la tukon kaj trovis en la angulo monogramon; ŝi
+paliĝis, ŝi ektremis.
+
+"Ŝajnas, ke vi konas tiun tukon kaj la personon ĝin perdintan",
+Lange plue demandis. "Ĝi povus trovigi postsignon; ĉu vi permesas,
+ke mi ĝin kunprenu kaj utiligu?"
+
+Giuseppa ŝajne batalis kontraŭ si mem; jen ŝi prezentis al li la
+tukon, jen ŝi timeme kaj konvulsie retenis ĝin. "Estu", ŝi fine
+diris; "eĉ se la terura homo venus ankoraŭ unu fojon kaj tiun fojon
+pli bone trafus mian vunditan koron, mi ĝin kuraĝas; jen, prenu,
+doktoro. Mi morgaŭ donos al vi klarigon al tiu tuko."
+
+
+
+
+V.
+
+
+Oni povas imagi, kiel eksklude tiuj okazaĵoj okupis la animon de
+medicina konsilanto Lange. Lia ampleksa klientaro nun same embarasis
+lin, kiel ĝi antaŭe lin ĝojigis; ĉar ĉu la multaj vizitoj al
+malsanuloj, kiujn li devis fari antaŭe, ne malhelpis lin, tre
+baldaŭ en la sekvinta mateno viziti la kantistinon kaj aŭdi la
+klarigojn kaj komentojn, kiujn atendante lia koro malpacience batis?
+Sed por io la vizitoj en tridek ĝis kvardek domoj utilis: li povis,
+kiel li kutimis diri, subaŭskulti, kion oni diras pri Bianetti; eble
+li ankaŭ povis tion aŭ tion ekscii pri ŝia stranga amanto,
+orkestestro Boloni.
+
+Pri la kantistino oni levis la ŝultrojn. Oni des malpli favore
+juĝis pri ŝi, ju pli oni ĉagreniĝis, ke tiel longe nenio oficiala
+kaj certa pri ŝia afero penetras en la publikon. Ŝiaj
+enviantoj—kaj kiu distingiĝa kantistino, krom tio estante bela kaj
+dekokjara, ne havas sufiĉe da tiaj—ŝiaj enviantoj ĉion malenviis
+al ŝi kaj faris malicajn rimarkigojn; la moderuloj diris: tiel
+okazas pri tiaj homoj; al germanino tio ja ne estus fariĝinta. Ŝiaj
+amikoj kompatis ŝin kaj preskaŭ ankoraŭ pli timis pro ŝia
+reputacio, ol pro ŝia sano. La malfeliĉa knabino! Lange pensis kaj
+decidis des pli fervore servi al ŝi.
+
+Pri la orkestrestro oni malmulte sciis, nek ion malbonan, nek ion
+bonan. Proksimume antaŭ tri kvaronjaroj li venis al B., en la hotelo
+de Portugalujo luis subtegmentan ĉambreton kaj vivadis tre izolite
+kaj modere. Li ŝajne perlaboris sian vivtenon per lecionoj pri
+kantado kaj pri muzikaj komponaĵoj. Cetere ĉiuj asertis, ke
+ili rimarkis en li iom da ekscentreco, da malhumilo; kiuj lin pli
+proksime koniĝis, trovis lin tre interesa, kaj jam kelka muzika
+amatoro onidire mendis tablolokon por la vespermanĝo en la hotelo de
+Portugalujo, nur por ĝui lian plezurigan interparolon pri muziko.
+Sed ankaŭ ilia juĝo akordiĝis en tio, ke li estas iom frenezeta,
+ĉar li malatentas, eĉ malŝatas virinan kantadon, dum li ravite
+parolas pri viraj voĉoj, precipe pri viraj ĥoroj; pri lia amrilato
+kun la kantistino Bianetti ŝajne neniu sciis.
+
+La komercan konsilanton Bolnau li trovis ankoraŭ malsaneta kaj en la
+lito; li ŝajnis tre depremita kaj per nefirma, raŭka voĉo diris
+ĉiuspecajn sensencaĵojn pri aferoj, kiuj alitempe kuŝis tute
+ekster lia idearo. Troviĝis ĉirkaŭ li kolekto de famaj procesoj,
+en kiuj li diligente studadis; la edzino de l'komerca konsilanto
+asertis, ke dum la tuta nokto li legis en ili kaj terure plorpepis
+kaj lamentis. Lia legado koncernis precipe la senkulpe ekzekutitajn,
+kaj li diris al la medicina konsilanto, ke verdire por filantropo la
+penso pri la malrapidemo de la germana juĝistaro estas granda
+konsolo; ĉar oni povas atendi, ke la senkulpeco tamen pli facile
+malkovriĝas, se proceso daŭras dekkelke da jaroj, ol se oni hodiaŭ
+estas kaptata kaj morgaŭ pendigata.
+
+La kantistino Bianetti, por kiu al la kuracisto fine restis horeto,
+estis malserena kaj depremita, kvazaŭ surtere ne plu estus espero
+por ŝi. Ŝia okulo estis malgaja, la vundo estis multe pli bonstata,
+ol li atendis; sed en la sama grado, en kiu kreskis ŝia korpa
+bonfarto, ŝajne malaperis la trankvilo kaj sano de ŝia animo. "Mi
+longe meditis pri tio", ŝi diris, "kaj trovis, ke vi, kara doktoro,
+vere plej strange estas implikata en mian sorton. Mi antaŭe ne konis
+vin. Mi konfesas, ke mi apenaŭ sciis, ke en B. ekzistas iu medicina
+konsilanto Lange. Kaj nun, kiam mi subite fariĝis tiel malfeliĉa,
+Dio sendas al mi tiel kunsenteman, patran amikon."
+
+"Fraŭlino Bianetti", Lange respondis, "kuracisto ĉe multaj litoj
+devas fari pli, ol nur palpi la pulson de l'maldekstra mano, bandaĝi
+vundojn kaj recepti miksturojn. Kredu al mi, kiam oni tiel sola sidas
+ĉe malsanulo, kiam oni aŭdas la internan pulson de l'animo
+maltrankvile batanta, kiam oni dezirus bandaĝi vundojn vidatajn de
+neniu, tiam en miriga maniero el la kuracisto fariĝas amiko, kaj la
+mistera interligiteco inter korpo kaj animo ŝajne ankaŭ en tiu
+rilato okulfrape efikas."
+
+"Tiel estas", Giuseppa diris, konfideme kaptante lian manon; "tiel
+estas, kaj ankaŭ mia animo trovis kuraciston. Vi eble devos fari por
+mi multe. Povus esti, ke eĉ antaŭ la juĝistoj vi devos agi en mia
+nomo. Se vi volas fari tiun grandan oferon al kompatinda knabino, kiu
+ne havas alian protekton, mi volas malkaŝi al vi mian situacion."
+
+"Mi volas fari ĝin", la afabla maljunulo diris, premante ŝian
+manon.
+
+"Sed pripensu tion bone; la mondo atakis mian reputacion, ĝi min
+kulpigas, ĝi juĝas, ĝi kondamnas min. Se nun la homoj ankaŭ al vi
+moke montras per la fingroj, ke vi zorgis pri la malbonfama
+kantistino, la sentaŭga italino, ho! pri mi, ĉu vi povos elporti
+tion?"
+
+"Mi volas!" la kuracisto serioze kaj abrupte ekkriis, "Rakontu!"
+
+
+
+
+VI.
+
+
+"Mia patro", la kantistino rakontis, "estis _Antonio_[16]
+Bianetti, fama violonisto, kiu el pasintaj jaroj ne povas esti
+nekonata al vi, ĉar lia famo per la koncertoj, kiujn li faris ĉe
+kortegoj kaj en grandaj urboj, ĉie disvastiĝis. Mi povas lin
+prezenti al mi ankoraŭ nur el mia plej frua juneco, violonantan al
+mi la gamon, kiun jam trijara mi tre ĝuste kante ripetis. Mia
+patrino siatempe estis bonega kantistino kaj kutimis en la koncertoj
+de la patro prezenti kelke da arioj kaj kanzonetoj. Mi estis
+kvarjara, kiam mia patro mortis dum vojaĝo kaj nin postlasis
+malriĉajn. Mia patrino devis decidiĝi, per kantado perlabori nian
+vivtenon. Post unu jaro ŝi edziniĝis kun muzikisto, en la komenco
+onidire tre flatinta ŝin; sed poste montriĝis, ke li edziĝis kun
+ŝi nur, por uzi ŝian voĉon. Li fariĝis muzika direktoro en
+malgranda urbo en Alsaco, kaj tiam des pli komenciĝis nia suferado.
+
+Mia patrino naskis ankoraŭ tri infanojn kaj tiom perdis sian voĉon,
+ke ŝi preskaŭ ne plu povis kanti eĉ unu sonon. Per tio la plej
+granda monfonto de mia duonpatro estis elĉerpiĝinta, ĉar liaj
+koncertoj nur per mia patrino estis brilaj kaj multe vizitataj. Li de
+nun terure ĉikanis ŝin; al mi li nenion plu volis doni por manĝi,
+ĝis kiam li fine elpensis rimedon por utiligi min. Dum tutaj tagoj
+li turmentis min kaj violonante lernigis al mi plej malfacilajn
+pecojn de _Mozart_, _Gluck_, _Rossini_ kaj _Spontini_, kiujn ĉiam
+dimanĉe vespere mi trakantis kun multe da aplaŭdo; la kompatinda
+_Schepperl_[17]—tiel oni kripligis mian nomon Giuseppa—fariĝis
+unu el tiuj malfeliĉaj mirinfanoj, al kiuj la naturo donis belan
+talenton por ilia plej granda malfeliĉo; la kruela homo ĉiutage
+min kantigis, li vipis min, li dum tutaj tagoj nenion donis al mi
+por manĝi, se mi ne ĝuste ekkantis; sed la patrino ne plu longe
+povis elteni la vidon de miaj turmentoj; ŝajnis, ke ŝia vivo
+forfluas en ŝiaj silentaj larmoj; ian printempan matenon ni trovis
+ŝin mortintan. Por kio mi rakontu al vi pri la jaroj de mia nun
+komenciĝinta suferegado? Mi estis dekunujara, mi devis mastrumi,
+eduki la junajn gefratojn kaj krome lerni la kantadon por la
+koncertoj! Ho, estis infera torturo!
+
+En tiu tempo ofte iu sinjoro venis al ni, ĉiam kunportante al la
+patro sakon plenan de kvinfrankaj moneroj. Mi sen hororo ne povas
+pensi pri li. Ĝi estis granda, malgrasa viro de meza aĝo; li havis
+malgrandajn, palpebrumantajn grizajn okulojn, kiuj per sia
+malagrabla, pika esprimo diferencigis lin de ĉiuj homoj, kiujn mi
+iam vidis. Min precipe li ŝajne korfavoris. Kiam li venis, li
+laŭdis mian grandon, mian konvenan konduton, mian vizaĝon, mian
+kantadon. Li min sidigis sur siaj genuoj, kvankam nevola hororo
+forpuŝis min de li; li kisis min malgraŭ mia kriado, li kontente
+diris: 'Ankoraŭ du, tri jaroj, tiam vi estos taŭga, Schepperl!' Kaj
+li kaj mia duonpatro ĉe tiu antaŭdiro eksplodis per sovaĝa rido.
+En mia dekkvina naskotago mia duonpatro al mi diris: 'Aŭdu,
+Schepperl, vi nenion posedas, vi nenio estas, mi nenion donas al vi,
+mi nenion postulas de vi, por mi ankaŭ plene sufiĉas miaj tri
+ceteraj infanaĉoj; _Christel_[18] (mia fratino) nun anstataŭ
+vi fariĝos la mirinfano. Kion vi posedas, vian kantadon—multe ĝi
+ne estas—vi ricevis de mi, per tio vi perlaboros vian vivtenon.
+Cetere la onklo en Parizo pro kompato volas akcepti vin en sian
+domon.'—'La onklo en Parizo?', mi miregante ekkriis, ĉar ĝis nun
+mi ne sciis pri la ekzisto de tia onklo. Jes, la onklo en Parizo, li
+respondis, li povas alveni jam hodiaŭ aŭ morgaŭ.
+
+Vi povas imagi, kiom mi ĝojis! Pasis tri jaroj, sed ankoraŭ hodiaŭ
+la memoro pri tiuj horoj en mi estas tiel viva, kvazaŭ estis
+hieraŭ. La feliĉo, forlasi la domon de mia patro, la feliĉo, havi
+onklon, kiu min kompatas, la feliĉo, veni al Parizo, kie mi imagis
+la centron de eleganteco kaj de feliĉego,—mi estis ebria de tiom
+da feliĉo; ĉiufoje, kiam pasis veturilo, mi rigardis eksteren,
+ĉu ne venas la onklo, por kunpreni min en sian regnon. Fine iun
+vesperon veturilo haltis antaŭ nia domo; mi flugkuris malsupren, mi
+disetendis miajn brakojn renkonten al mia savonto—kruela senreviĝo!
+Estis la viro kun la kvinfrankaj moneroj.
+
+Mi estis preskaŭ senkonscia en tiuj momentoj, sed tamen mi neniam
+forgesos la diablan ĝojon fulme brilantan el liaj grizaj okuloj,
+kiam li vidis min alten kreskinta; ankoraŭ nun mi aŭdis lian grakan
+voĉon: 'Nun vi estas ĝusta, kolombeto, nun mi volas enkonduki vin
+en la grandan mondon.' Li kaptis min per la unu mano, per la alia li
+ĵetis monsakon sur la tablon; la sako malfermiĝis, brila amaso da
+arĝentaj kaj oraj moneroj ruliĝis teren; miaj tri pli junaj
+gefratoj kaj la patro ĝojkriis, sur la planko ŝoviĝis tien kaj
+tien kaj kolektis la monerojn,—ĝi estis—mia aĉetprezo!
+
+Jam la sekvintan tagon ni vojaĝis al Parizo. La malgrasa viro (mi ne
+kapablis, lin nomi onklo) konstante faris al mi predikon pri tio,
+kiel belan rolon mi ludos en liaj salonoj. Mi ne povis ĝoji: angoro,
+neklarigebla korpremo anstataŭis mian ĝojon, mian feliĉon. Antaŭ
+granda, lumigita domo la veturilo haltis: mi estis en Parizo. Dek
+ĝis dekdu belaj, ĉarmegaj knabinoj malsupren saltetis sur la
+larĝaj ŝtuparoj renkonten al ni. Ili karese ĉirkaŭprenis kaj
+kisis min kaj nomis min fratino Giuseppa; mi demandis la malgrasulon:
+'Ĉu tio estas viaj filinoj, sinjoro?'—'_Oui, ce sont des
+filles!_[19]', li ridante ekkriis, kaj la knabinoj kaj la
+multnombra servistaro aliĝis per maldelikata, eksploda rido!
+
+Elegantaj vestoj, luksaj ĉambroj distris min. La sekvintan tagon mi
+estis belege vestata, oni kondukis min en la salonon. La dekdu
+knabinoj, plej elegante vestitaj, sidis ĉe ludotabloj, sur kanapoj,
+ĉe la piano. Ili tre vive interparolis kun junaj kaj malpli junaj
+sinjoroj. Kiam mi eniris, ĉiuj forlasis sian lokon, iris renkonten
+al mi kaj min rigardis. La mastro min kondukis al la piano, mi devis
+kanti; mi ricevis ĝeneralan aprobon. Oni partoprenigis min en la
+interparolado, miaj malkleraj, duone italaj esprimoj estis
+konsiderataj naiveco; oni admiris min, mi ankoraŭ hodiaŭ ruĝiĝas,
+pensante, per kiaj vortoj oni tion diris al mi. Tiel kelke da tagoj
+pasis en ĝojo kaj plezuro. Mi vivis ne embarasate, mi estus povinta
+vivi kontente, se mi ne sentus min plej nekomforte, preskaŭ angoreta
+en tiu domo, en tiu societo; naive senruza mi opiniis, ke tia do
+estas la granda mondo kaj oni devas akomodiĝi al ĝiaj moroj. Sed
+unu afero frapis min: iun vesperon okaze preterirante la ŝtuparon mi
+vidis, ke la sinjoroj vizitantaj nin, donis monon al la pordisto,
+ricevis por ĝi bluajn aŭ ruĝajn kartojn kaj ree transdonis tiajn
+al servisto antaŭ la salono. Juna dando, preterpasanta min, kun
+karesemaj rigardoj montris al mi unu el tiuj ruĝaj kartoj; mi
+ankoraŭ hodiaŭ ne scias, kial mi ruĝiĝis pro tio. Sed aŭskultu
+plue, kio baldaŭ okazis.
+
+Vidu, kara doktoro, jen mi havas malgrandan, sensignife aspektantan
+paperon. Al ĝi mi ŝuldas mian savon. Iumatene mi ĝin trovis sub la
+bulkoj de mia matenmanĝo. Mi ne scias, de kiu favora mano ĝi
+devenis, sed la ĉielo rekompencu la koron, kiu min kompatis. Jen
+ĝia enhavo:
+
+'Fraŭlino!
+
+La domo, en kiu vi loĝas, estas malĉastejo; la sinjorinoj, kiujn
+vi vidas ĉirkaŭ vi, estas publikulinoj; ĉu nia konfido al Giuseppa
+do ne estis prava? Ĉu mallongan fibrilon de feliĉo ŝi volas aĉeti
+per longa pento?'
+
+Ĝi estis terura lumo, ĝi minacis plene blindigi min, ĉar preskaŭ
+tro subite ĝi disŝiris mian senruzan infanan penson kaj la iluzion
+pri senzorga, feliĉa situacio. Kion fari? En mia vivo mi ankoraŭ ne
+lernis fari decidojn. La viro, al kiu apartenis tiu domo, ŝajnis al
+mi terura sorĉisto, povanta legi ĉiun mian penson kaj nepre jam nun
+pri tio informita, kion mi sciiĝis. Kaj tamen mi preferis morti, ol
+ankoraŭ unu minuton resti tie.—Mi estis aŭdinta knabinon rekte
+kontraŭe de mia loĝejo paroli itale; mi ne konis ŝin,—sed ĉu mi
+do konis iun alian en tiu giganta urbo? Tiuj patrolandaj sonoj naskis
+en mi konfidon, mi volis ŝin petegi surgenue, savi min.
+
+Estis la sepa matene: restinte fidela al mia kampara moro, mi ĉiam
+frue leviĝis kaj kutimis tuj poste matenmanĝi, kaj tio savis min.
+En tiu tempo ĉiuj ankoraŭ dormis, eĉ granda parto de la
+servistaro. Nur la pordisto estis timinda. Sed ĉu li povus pensi, ke
+iu forkuros el tiu templo de l'belego? Mi riskis la aferon; mi kovris
+min per mia nigra, malpompa manteleto; miaj genuoj ŝanceliĝis, kiam
+mi preteriris la loĝion de l'pordisto; li ne rimarkis min; tri
+paŝoj, kaj mi estis libera.
+
+Dekstre trans la strato loĝis la itala knabino. Mi salte transpasis
+la larĝan straton; mi frapis al la pordo, servisto malfermis. Mi
+demandis pri la itale parolanta signora kun la nigra bukla kapo. La
+servisto ridis kaj diris, ke mi supozeble celas la malgrandan
+ekscelencon _Seraphina_: 'tiun saman, tiun saman', mi respondis,
+'tuj konduku min al ŝi'. Li komence ŝajnis heziti, ĉar ankoraŭ
+estis frua tago, sed miaj petoj lin decidigis. Li kondukis min en la
+duan etaĝon, diris al mi, ke mi atendu kaj poste vokis ĉambristinon,
+por anonci min al ŝia ekscelenco. Mi pensis, ke la bela itala
+knabino estas de mia klaso; mi hontis malkaŝi mian situacion al iu
+pli altranga, sed oni ne lasis al mi tempon, por pripensi; la
+ĉambristino aperis, por konduki min al la lito de sia mastrino. Jes,
+estis ŝi, estis la bela, juna sinjorino, kiun mi aŭdis parolanta
+itale. Mi ĵetis min teren antaŭ ŝi kaj petegis ŝin pri ŝia
+protekto; mi devis rakonti al ŝi mian tutan historion. Ŝajne
+kortuŝita, ŝi promesis savi min. Ŝi venigis la serviston, kiu
+suprenkondukis min, kaj ordonis al li nepran diskretecon; poste ŝi
+destinis por mi malgrandan ĉambron, kies fenestroj rigardis al la
+korto, donis al mi ion por labori kaj manĝi, kaj tiel mi vivis kelke
+da tagoj en ĝojo pri mia savo, en timo pri mia estonteco.
+
+La domo, en kiu mi estis akceptita, apartenis al la sendito de
+malgranda germana kortego. Ŝia ekscelenca moŝto estis lia nevino,
+naskita italino, kiu estis edukata ĉe li en Parizo. Ŝi estis
+korbona, aminda estaĵo, kies bonfarojn mi neniam forgesos. Ĉiutage
+ŝi venis al mi kaj min konsolis; ŝi diris al mi, ke la ŝtatsendito
+per siaj servistoj informiĝis en la domo de la malica viro. Ke oni
+estas tre konsternita, sed klopodas kaŝi tion. La servistoj transe
+sekretas, ke fraŭlino sin ĵetis el fenestro de la dua etaĝo en la
+kanalon de la _Seine_. Stranga dispono de la providenco! Mia
+ĉambro estis angula ĉambro kaj per la unu flanko rigardis al la
+strato, la alia abrupte malsupreniris en kanalon. Mi memoras, ke en
+tiu mateno mi malfermis fenestron de la kanala flanko; verŝajne ĝi
+restis malfermita, kaj tiel kredeble oni klarigis al si mian
+malaperon. Signora Seraphina en tiu tempo estis revenonta Italujon,
+ŝi bonvolis min kunpreni. Eĉ ankoraŭ pli ŝi utilis al mi; ŝi
+instigis siajn gepatrojn en _Piacenza_, ke ili akceptu min en
+sian domon kvazaŭ sian infanon; ŝi kulturigis mian talenton, al ŝi
+mi dankas la liberecon, la vivon, la arton, ho! eble pli, ol mi
+scias. En Piacenza mi koniĝis kun orkestrestro Boloni, kiu cetere ne
+estas italo; li ŝajnis min ami, sed li tion ne diris al mi. Baldaŭ
+poste mi akceptis la vokon al ĉi-tiea teatro. Oni min ĉi tie
+ŝatis, oni ankaŭ alie bonevolis al mi, mia konduto kaj mia
+reputacio estis neriproĉeblaj; ho, en tiu longa tempo mi neniam
+vidis ĉe mi viron,—krom—tiun belan korligon mi povas sen ruĝiĝo
+konfesi al vi,—krom Boloni, kiu baldaŭ post mi vojaĝis ĉi tien.
+Vi nun aŭdis mian vivon, diru al mi, ĉu mi faris ion, por meriti
+tiel maldolĉan punon? Ĉu mi tiel terure kulpiĝis?"
+
+
+
+
+VII.
+
+
+Kiam la kantistino estis fininta, la medicina konsilanto vive kaptis
+ŝian manon. "Mi gratulas al mi", li diris, "ke mi povas aliĝi al la
+malmultaj bonuloj, kiujn vi trovis sur via vivovojo. Kvankam miaj
+fortoj estas tro malgrandaj, por povi fari por vi, kion faris la
+bravega malgranda ekscelenco, tamen mi volas klopodi helpi en la
+malkonfuzado de via kompatiga sorto; mi volas klopodi, por repacigi
+la flamiĝulon, vian amikon. Sed diru al mi nur, kiu do estas la
+hejmlando de sinjoro Boloni?" "Jen vi demandas tro", estis ŝia
+nerekta respondo. "Mi scias sole, ke li laŭ naskiĝo estas germano
+kaj, se mi ne eraras, pro familiaj cirkonstancoj antaŭ kelke da
+jaroj forlasis sian patrujon. Li restadis en Anglolando kaj Italujo
+kaj antaŭ proksimume tri kvaronjaroj venis ĉi tien."
+
+"Jen kiel, bone; sed kial vi ne jam pli frue al li mem diris, kion vi
+rakontas al mi?"
+
+Giuseppa ĉe tiu demando ruĝiĝis; ŝi mallevis la okulojn kaj
+respondis: "Vi estas mia kuracisto, mia patra amiko; estas al mi,
+kiam mi parolas kun vi, kvazaŭ mi parolus kiel infano al mia
+patro.—Sed ĉu mi do povis rakonti al la juna viro pri tio? Krome mi
+ja konas lian teruran ĵaluzon, lian facile eksciteblan suspektemon;
+mi neniam povis min devigi, diri al li, el kiaj kaptiloj mi forsavis
+min."
+
+"Mi respektas, mi admiras vian senton; vi estas bona infanino; kredu
+al mi, tio karesas la koron de maljuna viro, renkonti tiel decajn
+sentojn el la pasinta tempo; ĉar hodiaŭ oni konsideras bontono,
+flankelasi tiaĵojn. Sed vi ankoraŭ ne rakontis al mi ĉion; la
+vespero ĉe la maskobalo, tiu terura nokto?"
+
+"Estas vere, mi devas rakonti al vi ankoraŭ plue. Ĉiufoje, kiam mi
+meditis pri mia savo, mi laŭdis la providencon, ke oni kredis en tiu
+domo, ke mi memmortigis min; ĉar estis por mi nur tro certe, ke tiu
+terura venus, por repreni sian viktimon aŭ pereigi ĝin, se li eĉ
+nur iomete suspektus min vivanta; ĉar sufiĉe multe da kvinfrankaj
+moneroj li kredeble pagis por mi. Tial mi ne akceptis diversajn
+ŝatindajn proponojn por teatroj tiel longe, kiel mi estis en
+Piacenza, timante publike aktori. Sed kiam mi tie estis proksimume
+unu jaron kaj duonan, iumatene Seraphina alportis al mi parizan
+gazeton, en kiu estis anoncita la morto de la _chevalier de
+Planto_[20]."
+
+"Chevalier de Planto?" la kuracisto interrompis ŝin; "ĉu tio estis
+la nomo de la viro forkondukinta vin el la domo de via duonpatro?"
+
+"Tio estis lia nomo. Mi multe ĝojis, mia lasta timo estis
+malaperinta, kaj jam nenio min malhelpis, ne plu ĝeni miajn
+bonfarantojn. Jam kelke da semajnoj poste mi venis al B. Mi
+antaŭhieraŭ iris al la maskobalo, kaj mi ja volas konfesi al vi, ke
+mi estis tre gajhumora. Boloni ne devis scii, en kiu kostumo mi
+aperos; mi volis inciteti kaj poste surprizi lin. Subite, dum mi sola
+trairis la salonon, voĉo flustris en mian orelon: 'Schepperl, kiel
+fartas via onklo?' Mi estis konsternegita; tiun nomon mi ne plu
+aŭdis, de kiam mi forsavis min el la manoj de tiu terura. Mia onklo!
+Mi ja ne havis onklon, kaj nur unu vivis, kiu antaŭ la
+publiko sin konsiderigis mia onklo, la chevalier de Planto. Mi
+apenaŭ havis sufiĉe da spiritĉeesto, por respondi: 'Vi eraras,
+maskulo!' Mi volis forrapidi, kaŝi min en la svarmanta amaso, sed la
+maskulo enbrakigis sin kun mi kaj min retenis: 'Schepperl!' la
+nekonato diris, 'mi konsilas al vi, kviete iradi apud mi; alie mi
+rakontos al la homoj, en kia societo vi pli antaŭe restadis.' Mi
+estis plene senespera, fariĝis mallumo en mia animo, nur unu penso
+estis forta en mi: la timo pri malhonoro. Kion mi kompatinda,
+senhelpa knabino povis fari, se tiu homo, kiu ajn li estis, pri mi
+sciigos tiajn aferojn? La mondo kredus al li, kaj Carlo! ho, Carlo ne
+la lasta min kondamnus. Mi senvole sekvis al la viro ĉe mia flanko.
+Li flustris al mi plej terurajn aferojn: mian onklon, kiel estis
+nomata de li la chevalier, mi malfeliĉigis, pereigis mian patron,
+mian familion. Mi ne plu povis elteni tion, mi elŝiris min kaj
+vokis, ke alvenu mia fiakro. Sed kiam mi rigardis ĉirkaŭen sur la
+ŝtuparo, la terura figuro estis sekvinta min. 'Mi veturos kun vi
+hejmen, Schepperl', kun terura rido li diris; 'mi ankoraŭ devas
+paroli kun vi kelke da vortoj.' Mi ĉesis vidi kaj aŭdi, mi sentis,
+ke mi senkonsciiĝas; mi revekiĝis ne pli frue ol en la fiakro, la
+maskulo sidis apud mi. Mi eksteriĝis el la veturilo, li sekvis; li
+tuj reekparolis; angorante, ke mi estos perfidata, mi diris al
+_Babette_, ke ŝi eliru.
+
+'Kion vi volas ĉi tie, mizerulo?' mi ekkriis furioza, ke mi vidas
+min tiel ofendita. 'Kion malbonan vi povus diri pri mi? Sen mia volo
+mi venis en tiun domon; mi ĝin forlasis, kiam mi vidis, kio atendas
+min.'
+
+'Schepperl, lasu la ceremoniojn; ekzistas nur du vojoj vin savontaj.
+Aŭ vi tuj pagos dekmil frankojn, ĉu per juveloj, ĉu per oro, aŭ
+vi sekvos min al Parizo; alie morgaŭ la tuta urbo scios pli multe
+pri vi ol vi dezirus.' Mi estis ekster mi. 'Kiu rajtigas vin, de mi
+postuli ion tian?' mi ekkriis. 'Nu bone, diru al la urbo, kion vi
+volas; sed tuj forlasu ĉi tiun domon! Mi alvokos la najbarojn!'
+
+Mi iris kelke da paŝoj al la fenestro, li postkuris min kaj kaptis
+mian brakon. 'Kiu min rajtigas?' li diris, 'via patro, kolombeto, via
+patro'. Diabla rido sonis el lia buŝo, la brilo de la kandelo
+lumigis paron da grizaj, pikaj okuloj, nur tro konataj de mi. En la
+sama momento estis klare al mi, kiu antaŭ mi staras; mi nun sciis,
+ke lia morto nur estis trompo elpensita por ia celo; la malespero
+havigis al mi supernaturan forton, mi kontraŭbaraktante liberigis
+min, mi volis forŝiri lian maskon. 'Mi konas vin, chevalier de
+Planto', mi ekkriis, 'sed oni zorgos, ke vi devu doni al la
+tribunaloj kontentigon pri mi.'—'Tiel niaj aferoj ankoraŭ ne
+statas, kolombeto', li diris, kaj en la sama momento mi sentis lian
+ponardon en mia brusto; mi opiniis, ke mi mortas—."
+
+La kuracisto frostotremis; estis luma tago, kaj tamen li hororis,
+kiel se oni en mallumo parolas pri fantomoj. Li opiniis, ke li vidas
+post la kurtenoj de la lito brilantaj la grizajn pikajn okulojn de
+tiu monstro. "Vi do opinias", li diris post kelke da tempo, "ke la
+chevalier ankoraŭ vivas, ke ĝi estas la sama, kiu volis mortigi
+vin?"
+
+"Lia voĉo, liaj okuloj min konvinkis; la tuko, kiun mi hieraŭ al vi
+donis, tion igis plene certa por mi. Ĝi estas markita per la
+komencliteroj de lia nomo."
+
+"Kaj ĉu vi donas al mi plenpovon, agi por vi? Ĉu vi permesas al mi,
+ĉion de vi diritan sciigi eĉ antaŭ la juĝisto?"
+
+"Ĉion, mi ne povas elekti! Sed, ĉu ne, doktoro, vi iros al Boloni
+kaj al li diros, kion mi diris al vi? Li ĝin kredos al vi, Seraphina
+ja estis ankaŭ de li konata."
+
+"Kaj ĉu mi ne ankaŭ povas ekscii", la medicina konsilanto
+daŭrigis, "la nomon de la ŝtatsendito, en kies domo vi kaŝis vin?"
+
+"Kial ne? Li estis iu barono _Martinow_."
+
+"Ĉu vere?", ĝoje emociite Lange ekkriis. "Barono Martinow? Ĉu li
+ne estas ...a ŝtatoficisto?"
+
+"Jes, ĉu vi konas lin? Li estis sendito de la ...a kortego en Parizo
+kaj poste en Peterburgo."
+
+"Ho, tiam estas bone, tre bone", la medicina konsilanto diris kaj
+ĝoje interfrotis siajn manojn. "Mi konas lin, de post hieraŭ li
+estas ĉi tie; li vokigis min, li loĝas en la hotelo de
+Portugalujo."
+
+Larmoj brilis en la okuloj de la kantistino kaj piaj sentoj ŝajne
+emociis ŝian koron. "Do viro", ŝi diris, "kiu laŭ mia opinio
+forestis multajn centojn da mejloj, devis veni ĉi tien, por konfirmi
+la verecon de mia rakonto! Iru al li; ho, ke ankaŭ Carlo povu
+aŭskulti, kiam li certigos al vi, ke mi diris la veron."
+
+"Li povos, li akompanos min, mi zorgos pri tio Adiaŭ, bona infanino;
+estu tute trankvila, vi devas ankoraŭ prosperi surtere, kaj tre orde
+glutu la miksturon, ĉiuhore du plenkulerojn!" Tiel la kuracisto
+parolis kaj foriris. La kantistino dankis al li per siaj afablaj
+rigardoj. Ŝi estis pli trankvila kaj serena; ŝajnis, ke kun sia
+sekreto ŝi forrulis grandan ŝarĝon. Ŝi havis pli da fido por la
+estonteco, ĉar favora sorto ŝajne ekkompatis la malfeliĉan
+knabinon.
+
+
+
+
+VIII.
+
+
+Barono Martinow, al kiu fari grandan servon Lange pli antaŭe foje
+havis okazon, afable akceptis lin kaj donis al li plej sufiĉajn
+informojn pri la kantistino Bianetti. Li ne nur preskaŭ laŭvorte
+konfirmis ŝian rakonton, li ankaŭ eksplodis per plej vivaj laŭdoj
+pri ŝia karaktero; li eĉ promesis, ĉie, kien li venos en la urbo,
+paroli favore por ŝi kaj malkonfirmi la famojn pri ŝi cirkulantajn.
+Li efektive plenumis sian promeson; ĉar precipe al lia influo kaj al
+la nobla maniero, en kiu li prenis la partion de la italino, ŝiaj
+amikoj aljuĝis, ke la publika opinio pri ŝi en malmultaj tagoj,
+kvazaŭ sorĉe, aliiĝis. La medicina konsilanto Lange siaparte en
+tiu tago, veninte de la sendito, supreniris el la beletaĝo de la
+hotelo de Portugalujo ankoraŭ kelke da ŝtuparoj ĝis la mansardoj;
+oni diris, ke en n-ro 54 loĝas la orkestrestro. Li haltis antaŭ la
+pordo, por spiri; ĉar la krutaj ŝtuparoj afekciis lin. Strangaj
+sonoj el tiu pordo flugis al lia orelo. Ŝajne en ĝi estis homo
+grave malsana, ĉar li aŭdis profundajn ĝemadon kaj plendspiradon,
+ŝajne leviĝantajn el kava brusto. Poste teruraj francaj kaj italaj
+blasfemoj enmiksiĝis, kiel se malpacienco volas malŝarĝi de la
+mizero la koron, kaj raŭka rido de malespero denove formis la
+transiron al tiuj profundaj ĝemoj. La medicina konsilanto
+frostektremis. "Jam hieraŭ mi ja rimarkis iom da frenezo en tiu
+_maestro_[21]", li pensis, "ĉu li eble plene freneziĝis, aŭ ĉu li
+malsaniĝis pro doloro?" Li jam fleksis la fingron por frapi, kiam
+lia rigardo ankoraŭ unufoje trafis la numeron de l'pordo; ĝi estis
+53. Kiel do li povis tiom erari; preskaŭ li estus enirinta al homo
+tute fremda. Malkontenta pri si mem li pluen iris unu pordon; tie
+estis 54; tie do efektive sonis tute alie. Malalta, bela voĉo de
+viro kantis arion, akompanate de piano; la medicina konsilanto
+eniris; estis tiu juna viro, kiun li vidis ĉe la kantistino.
+
+En la ĉambro disĵetite kuŝis notfolioj, gitaroj, violonoj, kordoj
+kaj multo, kion krome muzikisto bezonas, kaj meze inter tiuj
+kvazaŭruinoj staris la orkestrestro en vasta nigra negliĝo, kun
+ruĝa ĉapo sur la kapo kaj rulpaketo de notoj en la mano; la
+kuracisto poste konfesis, ke vidante tion li ekpensis pri _Marius_
+sur la ruinoj de Kartago.
+
+La juna viro ŝajne de hieraŭ lin memoris kaj preskaŭ malserene
+akceptis lin; tamen li estis tiel ĝentila, ke per unu ekpuŝo li de
+seĝo teren ĵetis kolonon da notfolioj, por proponi al sia vizitanto
+sidlokon; li mem per longaj paŝoj marŝadis tra la ĉambro, kaj lia
+flirtanta negliĝo lerte forprenis la polvon de la tabloj kaj libroj.
+
+Li ne lasis ekparoli la medicinan konsilanton, li superkriis lin. "Vi
+venas de ŝi?", li ekkriis. "Ĉu viaj grizaj haroj ne hontas, ke vi
+fariĝas la peristaĉo de tia senhontulino? Mi nenion plu volas
+aŭdi; mi entombigis mian feliĉon, vi vidas min funebranta mian
+feliĉegon; mi surhavas mian nigran negliĝon kaj tio sola, se vi
+estas iomete sperta pri psikologio, devus esti por vi signo, ke,
+koncerne min, mi konsideras tiun personon mortinta. Ho, Giuseppa,
+Giuseppa!"
+
+"Sed, kara sinjoro orkestrestro", la kuracisto interrompis lin,
+"bridu vian senton, antaŭ ol—"
+
+"Senton? Kion vi scias pri sento? Aŭskultu, se vi parolas pri sento;
+mi volas provi, ĉu vi havas sonosenton, maljunulo! Vidu, tio estas
+la virino", li daŭrigis, abrupte malfermante la fortepianon kaj
+ludante tion kaj tion, kio cetere al la kuracisto, ne tre sperta pri
+muziko, ŝajnis kiel alia muziko, "ĉu vi aŭdas tion molan, dolĉe
+sopiran, karese alpremiĝan? Sed ĉu vi ne rimarkas en tiuj pasaĵoj
+la nefidindan, malfundan, senkarakteran estecon de tiuj kreitaĵoj?
+Sed aŭdu plue", li diris kun laŭtigita voĉo kaj kun brila okulo,
+reenskuante la manikojn de la funebra negliĝo, "kie viroj agas,
+estas forto kaj vero; tie nenio nepura povas prosperi, ĝi estas
+sanktaj diaj sonoj!" Li kun granda forto batis sur la klavojn, sed al
+la kuracisto ree ŝajnis, ke tio estas nur tute ordinara muziko.
+
+"Jen vi havas strangan karakterizon pri la homoj", li diris; "ĉar ni
+jam alvenis ĉe tio, ĉu mi povas peti vin, estimata, ke vi iom piane
+prezentu al mi medicinan konsilanton?"
+
+La muzikisto malŝate rigardis lin. "Kiel vi do povas difekti la
+harmonion per malbona, akrepepa _cis_, hometaĉo, kiam miaj
+klavoj sonigas la belegan, radiantan akordumon!"
+
+La respondo de la doktoro estis interrompata per frapado ĉe la
+pordo; malgranda, kreskokripla figuro eniris, riverencis kaj diris:
+"La malsana sinjoro en n-ro 53 plej ĝentile petigas sinjoron la
+orkestrestron, ne tiom terure brui kaj tumulti, tial, ke lia korpa
+aranĝo estas tre malforta kaj lia morto proksima."
+
+"Mi petas, sciigi al la sinjoro mian plej humilan respekton", la juna
+viro respondis, "kaj ke koncerne min li povas forvojaĝi el la mondo,
+kiam li deziras. Sufiĉe ja en ĉiu nokto min teruras liaj lamentado
+kaj ĝemado kaj la plej teruranta por mi estas liaj malpiaj blasfemoj
+kaj lia freneza ridado. Ĉu eble la franco opinias, ke li estas sola
+en la hotelo de Portugalujo? Se li ĝenas min, mi ĝenas lin repage!"
+
+"Sed, pardonu, via sinjora moŝto", la kreskokripla homo diris, "li
+ne plu longe vivos, ĉu vi ne bonvolus dum liaj lastaj momentoj—"
+
+"Ĉu li estas tiom malsana, la sinjoro?", kompateme la medicina
+konsilanto diris. "Kio estas lia malsano? Kiu lin kuracas? Kiu li
+estas?"
+
+"Kiu li estas, mi precize ne scias; mi estas la dungolakeo; mi
+pensas, ke li nomas sin _Lorier_ kaj estas el Franclando;
+antaŭhieraŭ li ankoraŭ bone fartis, sed estis iom melankolia, ĉar
+li tute ne eliris, ankaŭ ne deziris rigardi la rimarkindaĵojn de
+tiu ĉi urbo; sed en la alia mateno mi lin trovis en la lito grave
+malsanan; ŝajnas, ke en la nokto lin trafis apopleksio. Sed li por
+nenio en la mondo volas kuraciston. Li terure blasfemis, kiam mi
+demandis, ĉu mi alkonduku iun. Li mem flegas kaj bandaĝas sin; mi
+opinias, ke li havas ankaŭ malnovan pafvundon el la milito kaj ke
+tiu nun ree malfermiĝis."
+
+En tiu momento oni aŭdis la malsanulon apude ekkrianta kun raŭka
+voĉo kaj eliganta kelke da blasfemoj. La dungolakeo trifoje faris la
+signon de la kruco kaj flugkuris transen.
+
+La kuracisto ankoraŭ unu fojon provis, ĉu liaj paroloj ne estos
+akceptataj de la obstina amanto, kaj efektive tiun fojon ŝajne
+sukcesis. Li tenis en la mano partituron, el kiu li duonlaŭte
+kantetis al si; la kuracisto uzis tiun pli kvietan staton de l'animo
+kaj komencis rakonti al li la vivon de la kantistino. En la komenco
+la orkestrestro ŝajne ne atentis pri tio; li fervore legis en sia
+partituro kaj kondutis, kvazaŭ krom li neniu estus en la ĉambro;
+sed iom post iom li pli atentis, li ĉesis kanti; baldaŭ lia rigardo
+leviĝis de la partituro kaj pasis arde trans la vizaĝon de la
+kuracisto; poste li mallevis la notkajeron kaj firme rigardis la
+rakontanton; lia intereso ŝajne pli kaj pli kreskis, liaj okuloj
+brilis, li pliproksimiĝis, li kaptis la brakon de la medicinisto,
+kaj kiam tiu finis sian rakonton, li tre emociite salte leviĝis kaj
+kuris tien kaj reen en la ĉambro. "Jes", li ekkriis, "estas vero en
+tio, ŝajno de vereco, verŝajneco; estas eble, povas esti, ke simile
+okazis; diablo! ĉu ĝi ne ankaŭ povus esti mensogo?"
+
+"Tion, mi opinias, en via ŝatata arto oni nomas malkresĉende,
+sinjoro orkestrestro; sed kial do ĉe tiu afero malsupreniri de vero
+ĝis mensogo? Se mi nun prezentus garantianton pri la vereco?
+_Maestro_[21], nu, tiam?"
+
+Boloni meditante haltis antaŭ li: "Ha! Kiu povus fari tion, medicina
+konsilanto! Per oro mi volus enkadrigi vin; jam tiu penso meritas
+grandan kaj reĝan rekompencon. Jes! Kiu povus al mi garantii!—Ĉio
+estas tiel malluma—konfuzaj labirintoj—nenia eliro—nenia gvida
+stelo."
+
+"Ŝatata amiko", la kuracisto interrompis lin, "jen mi kaptas vin ĉe
+reminiscenco[22] el la Rabistoj de _Schiller_, kiel konstateble
+en la poŝeldono de _Cotta_ sur paĝo 175[23], se mi ne eraras.
+Tamen mi scias tian garantianton, tian gvidan stelon!"
+
+"Ha! kiu donus al mi tian!", la alia ekkriis. "Li estu mia amiko, mia
+anĝelo, mia Dio,—mi volas adori lin!"
+
+"Kvankam en la citita loko la parolo estas pri glavo, per kiu oni
+volas fari al la vipera gento brulan vundon, mi tamen volas konvinki
+vin. Tiu ŝtatsendito, kiu akceptis la kompatindan Giuseppa en sia
+domo, hazarde loĝas en ĉi tiu domo en n-ro 6; se vi bonvolus
+surmeti frakon kaj koltukon, mi kondukos vin al li; li promesis al
+mi, ke li vin konvinkos!"
+
+La juna viro kortuŝite premis la manon de la kuracisto, sed eĉ nun
+li ne povis kaŝi ian subliman patoson: "Vi estis mia bona genio", li
+diris: "kiom da danko mi ŝuldas al vi por tiu konsilo; mi nur rapide
+surmetos mian frakon kaj tuj sekvos vin al la sendito."
+
+
+
+
+IX.
+
+
+La repaciĝo kun la amanto ŝajne preskaŭ ankoraŭ pli efikis, por
+sanigi la kantistinon, ol la plej lerte kunmetitaj tizanoj de ŝia
+kuracisto. Ŝia farto en la sekvintaj tagoj videble pliboniĝis, kaj
+baldaŭ ŝi estis tiom resanigita, ke ŝi povis ekster la lito
+akcepti la vizitojn de siaj kunsentemaj amikoj. La ŝanĝiĝon de
+ŝia farto supozeble estis ĝisatendinta la polica direktoro, por
+plue esplori la aferon. Li estis viro vidanta ĉion kaj zorganta pri
+ĉio, kaj la famo pri li diris, ke ne facile iu sin forsavis, kiun
+li ekcelis, eĉ se li forestus centkelke da mejloj. La medicina
+konsilanto sciigis al li la historion de la kantistino; poste li
+ankoraŭ plue interkonsiliĝis kun barono Martinow kaj eksciis
+kelkajn aferojn, kiuj ŝajnis al li tre interesaj. La ŝtatsendito
+antaŭ nelonge konfesis al li, ke li uzis la aferon pri la juna
+Bianetti kiel okazon, por raporti al la estraro pri la krima vivado
+de la chevalier de Planto. Li ne preterlasis prezenti en ĝusta lumo
+precipe la cirkonstancon, ke tiu kompatinda infano verdire estis
+vendata. Tiu malbonfama domo baldaŭ poste estis malestablata de la
+polico, kaj la barono tion ŝajne aljuĝis ĉefe al siaj klopodoj pri
+la afero. Ankaŭ li aŭdis pri la morto de la chevalier, sed opiniis
+same kiel la polica direktoro, ke tio estas nur artifiko, por ke li
+povu des pli sendanĝere daŭrigi sian metion; ĉar ambaŭ ne dubis,
+ke la provo mortigi la kantistinon, povas esti farita nur de tiu
+terura homo. Sed kiel malfacile estis, sekvi la postsignaron de tiu
+mortigisto! El la fremduloj tiam restadintaj en B. laŭ la certigo
+de la direktoro ĉiuj estis nesuspektindaj; nur du cirkonstancoj
+povis konduki al ia rezultaĵo: La naztuko trovita en la ĉambro de
+Bianetti povis ebligi la malkovron, se ie oni vidis similan; tial
+plej preciza priskribo de ĝi estis en la manoj de ĉiuj kudristinoj
+kaj lavistinoj, kiuj en B. kutimis zorgi pri la tolaĵo de la
+fremduloj. Plue la direktoro opiniis supozebla pro psikologiaj
+kaŭzoj, ke dua atenco kontraŭ la vivo de la kantistino sekvos,
+nome en la kazo, ke la mortigisto ankoraŭ restadas proksime.
+
+Pro tio la polica direktoro, tuj kiam la kantistino reakiris siajn
+fortojn, akompanis doktoron Lange ĉiufoje, kiam li vizitis ŝin; tie
+oni priparolis kelkajn aranĝojn, kelkaj ŝajnis bonaj, sed ne facile
+efektivigeblaj, kelkaj estis tuj malakceptataj. Giuseppa mem fine
+ekhavis penson, kiu al la du viroj ŝajnis tre taŭga. "La doktoro",
+ŝi diris, "permesis al mi, ree eliri; se li permesas, ĉe la lasta
+maskobalo de la karnavalo mi unue reaperus inter la homoj; estas
+por mi alloge, tie montri min la unuan fojon, tie komenciĝis mia
+malfeliĉo. Se ni zorgos, ke tio fariĝu sufiĉe konata en B., kaj se
+la chevalier ankoraŭ estas ĉi tie, mi estas firmege konvinkita, ke
+sub ia masko li sin ree alŝovos al mi. Li sin ja gardos paroli, li
+per nenio perfidos sin, sed siajn atencojn kontraŭ mia vivo li ne
+ĉesigos, kaj mi pretendas, ke mi povas rekoni lin inter mil aliaj.
+Lia grando, lia figuro, kaj antaŭ ĉio liaj okuloj lin rekonigos al
+mi. Kion vi opinias, sinjoroj?"
+
+La projekto ŝajnis tre taŭga. "Mi volus veti", la direktoro diris,
+"ke sciiĝinte vian venon li ne restos for de la balo, eĉ nur por
+vidi la objekton de sia venĝo kaj doni novan nutraĵon al sia
+furiozo. Cetere mi pensas, ke vi ne metu maskon antaŭ vian vizaĝon,
+li tiam des pli facile rekonos vin, des pli facile proksimiĝos al vi
+kaj enkaptiĝos; mi metos kelke da fortikuloj en domenojn kaj ilin
+donos al vi kiel eskorton; tuj, kiam vi faris signon, la ruzulo estos
+kaptita."
+
+Babette, la ĉambristino de la kantistino dum tiu interparolo estis
+al- kaj reirinta; ŝi estis aŭdinta, ke ŝia mastrino decidis,
+eltrovi la mortigiston aŭ liajn helpantojn, ŝi eĉ opiniis, ke ŝi
+ŝuldas al si mem, laŭ povo kunhelpi por tiu malkovro. Tial ŝi
+ŝtelatendis la direktoron, kuraĝiĝis kaj diris, ke ŝi jam antaŭ
+nelonge atentigis la doktoron pri cirkonstanco, kiu povus konduki al
+malkovro, sed ke li ŝajne neniel atentas pri tio.
+
+"Nenia cirkonstanco ĉe tiaj okazaĵoj estas tro malgrava, karulineto
+mia", la policulo respondis; "se vi scias ion—"
+
+"Mi preskaŭ opinias, ke signora estas tro diskreta kaj iom hezitas
+paroli; kiam ŝi ricevis la pikon kaj svenis en miaj brakoj, ŝia
+lasta ĝemeto estis—Bolnau."
+
+"Ĉu vere?", la direktoro iom kolere kriis, "kaj pri tio oni ĝis nun
+silentis al mi? Pri tiel grava cirkonstanco; ĉu vi do aŭdis ĝuste,
+ĉu Bolnau?"
+
+"Per mia honoro", la knabino diris kaj konfirme metis la manon al la
+koro. "Bolnau, ŝi diris kaj tiel dolore, ke mi ne pensas alie, ol ke
+tio estas la nomo de la atencinto; sed, mi petas, ne perfidu min!"
+
+La direktoro havis la principon, ke neniu homo, kiel ajn honeste li
+aspektas, estas tro bona por krimo. La komerca konsilanto Bolnau, kaj
+alian li ne sciis en tiu urbo, ja estis konata de li kiel bonorda
+viro, sed—ĉu ne ekzistis ekzemploj, ke ĝuste tiaj homoj, kiuj
+antaŭ la publiko ŝajnas neriproĉeblaj, plej klopodigas la
+juĝistaron? Ĉu li ne povis agi konsente kun tiu chevalier de
+Planto? Tiel meditante li iris sian vojon kaj proksimiĝis al la
+Larĝa strato; li ekmemoris, ke en tiu tempo la komerca konsilanto
+kutimas promeni tie, kaj decidis, iom sondi lin. Efektive, jen li
+alvenis sur la strato; li salutis dekstren, li salutis maldekstren,
+li ĉiumomente parolis kun konato, li ridetis al si irante pluen kaj
+ŝajnis gaja kaj bonhumora. Li estis proksimume ankoraŭ kvindek
+paŝojn for de la direktoro, kiam li ekvidis tiun; li paliĝis,
+turnis sin kaj volis eniri flankan straton. "Suspektiga, tre
+suspektiga cirkonstanco!", la direktoro pensis, postkuris lin, kriis
+lian nomon kaj igis lin halti. La komerca konsilanto havis kompatigan
+vidiĝon, per kavaj sonoj li eligis: "_Bon jour, bon jour!_"[24];
+li ŝajne volis rideti, sed la okuloj pleniĝis per larmoj, kaj lia
+vizaĝo konvulsie ŝanĝiĝis; liaj genuoj tremis, liaj dentoj
+aŭdeble klakis.
+
+"Ej, ej, vi nun tre malofte montras vin. Jam de kelke da tagoj mi ne
+vidis vin preteriranta mian fenestron; vi ŝajne ne tute bone
+fartas?", la direktoro kun pika rigardo aldonis. "Vi estas tiel pala,
+ĉu vi estas malsana?"
+
+"Ne—ĝi estas nur malgranda frostotremo—mi efektive dum kelke da
+tagoj estis malsaneta, sed dank' al Dio mi nun pli bone fartas."
+
+"Ĉu vere? Vi estis malsaneta?", la alia plue demandis. "Tion mi
+apenaŭ pensis; mi opiniis, ke ankoraŭ antaŭ kelke da tagoj ĉe la
+maskobalo mi vidis vin tre vigla."
+
+"Jes, estas vere; sed tuj en la sekvinta tago mi devis enlitiĝi;
+revenis miaj atakoj, sed nun mi estas tute resaniĝinta."
+
+"Nu, tiam vi ne preterlasos, viziti la sekvontan maskobalon; ĝi
+estas la lasta kaj onidire fariĝos tre brila; mi esperas, ke mi
+vidos vin tie; intertempe adiaŭ, sinjoro komerca konsilanto!"
+
+
+
+
+X.
+
+
+"Mi ne preterlasos veni!", la komerca konsilanto Bolnau kun mizeraj
+mienoj kriis post li. "Li havas suspekton!", li diris al si. "Li
+scias pri la vorto de la kantistino. Onidire ŝi ja resaniĝis; sed
+ĉu la suspekto ne povas diskreski en la koro de tiu policano? Ĉu li
+ne povas pro suspekto observigi min? La sekreta polico persekutos
+min; ĉiupaŝe mi vidos ruzajn fremdajn vizaĝojn. Mi nenion plu
+povos diri, tuj ĝi estos raportata, signifklarigata; mi fariĝos, ho
+Dio en la ĉielo, mi fariĝos malkvieta, danĝera individuo; kaj
+tamen mi vivis pace kaj senmalice kiel Vilhelmo _Tell_ en la
+kvara akto!"
+
+Tiel la malfeliĉa Bolnau parolis al si mem; lia angoro kreskis, kiam
+li pensis pri la suspektiga demando koncerne la sekvontan maskobalon.
+"Li certe opinias, ke mi ne kuraĝos proksimiĝi al la kantistino,
+pro malpura konscienco; sed mi devas iri tien, mi devas forigi
+lian suspekton! Kaj tamen—ĉu proksime de ŝi ne atakos min
+tremado, ĝuste ĉar li povas pensi, ke mi tremos pro riproĉoj de
+l'konscienco kaj pro timo?" Li turmentis sin per tiuj imagoj, ili
+dum tutaj tagoj okupis lin; li rememoris, ke fama aŭtoro pruvis
+en speciala publikaĵo, ke oni povas timi la timon, kaj ĝuste tio
+ŝajnis al li okazi pri li mem. Sed li sentis, ke li devas kuraĝiĝi
+kaj iri renkonte al la danĝero. Li alportigis de la maskopruntisto
+la luksan veston de la paŝaho de _Janina_; li ĉiutage surmetis ĝin
+kaj sin ekzercis antaŭ granda spegulo, tute egalpeze elrigardi
+el sia masko. El sia negliĝo li faris pupon kaj sidigis ĝin
+sur seĝo; ĝi prezentis kantistinon Bianetti: li kiel paŝaho
+ĉirkaŭiris ŝin, alproksimiĝis kaj diris: "Mi senlime ĝojas, ke
+mi vidas vin tiel laŭdezire bonfarta." En la tria tago li jam povis
+tute sen tremo reciti sian lecionon, tial li taskigis al si ion pli
+malfacilan. Li volis esti tre ĝentila kaj egalpeza kaj proponi al
+ŝi teleron kun bombonoj kaj punĉo. Li ekzercis sin per glaso da
+akvo, kiun li metis sur teleron. En la komenco ĝi terure tintis
+en lia mano; sed ankaŭ tiun malfortecon li venkis, li eĉ provis
+sufiĉe gaje diri ĉe tio: "Estimata, ĉu vi ne deziras iom da punĉo
+kaj kelke da bombonoj?" Li bonege sukcesis; nenia mortemulo lin vidos
+tremanta, li pensis. _Ali_, la paŝaho de Janina, sentis en si
+kuraĝon, malgraŭ sia timo, viziti la maskobalon.
+
+La medicina konsilanto Lange ne cedis al iu alia la rajton, por la
+unua fojo la resaniĝintinon ree konduki inter la homojn. Ŝi volonte
+konsentis; ĉar per sia fidela flegado, per la patra zorgemo, kun kiu
+li klopodis pri ŝi, li ja akiris la rajton pri ŝia plej arda
+dankeco. Do li venis kun ŝi al la balfesto kaj ŝajne ne malmulte
+vantiĝis pri sia loko flanke de la bela, interesa knabino. La
+loĝantoj de B. estas strangaj homoj. En la unuaj tagoj oni malbone
+parolis pri la kantistino, de la plej elegantaj salonoj ĝis
+en la bierejaĉoj; sed kiam gravaj viroj protektis ŝin, kiam
+respektataj sinjorinoj ŝin publike defendis, oni akomodiĝis al la
+cirkonstancoj, kaj la B...anoj kortuŝite de la sorto de l'kompatinda
+infanino vagadis en la stratoj kaj preskaŭ mortis pro raviteco,
+ke ŝi resaniĝis. Kiam ŝi eniris en la ĉambregon, ĉiuj ŝajne
+atendis nur ŝin, kiel la reĝinon de l'festo; oni aklamis ŝin kaj
+ĝojbruis, oni klakfrapis la manojn kaj kriis "brave!", kvazaŭ ĵus
+prosperis al ŝi plej malfacilaj voĉruladoj. Ankaŭ la medicina
+konsilanto ricevis sian parton de la aklamo: "Vidu, jen li", ili
+kriis, "jen lerta viro, tiu savis ŝin."
+
+La kantistino estis ĝoje emociita de tiu aklamo de l'homamaso;
+afekciite de la murmurado de l'gratulantoj ŝi eĉ preskaŭ forgesis,
+ke ankoraŭ pli serioza celo ŝin kondukis en tiun ĉambregon; sed la
+kvar fortikaj domenuloj proksime post ŝi sekvantaj kaj la demandoj
+de la kuracisto, ĉu ŝi ankoraŭ ne ekvidis la grizajn okulojn de la
+chevalier, ree kaj ree memorigis ŝin pri ŝia intenco. Ŝi mem kaj
+la kuracisto ne estis pretervidintaj, ke longa, malgrasa turko (en B.
+oni nomis lian kostumon paŝaho Ali), konstante prempuŝas sin
+proksimen al ŝi; kaj kiom ajn da fojoj la amasa moviĝo de la
+maskuloj forŝiris lin, ĉiam li denove estis ĉe ilia flanko. La
+kantistino puŝetis la kuraciston kaj montris per la okuloj al la
+paŝaho. Li respondis ŝian okulsignon kaj diris: "Mi jam antaŭ
+longe rimarkis lin." La paŝaho proksimiĝis per nefirmaj paŝoj; la
+kantistino pli forte kroĉiĝis al la brako de Lange; li nun estis
+tute proksime—rigidaj, grizaj okuloj elrigardis el la masko kaj
+kava voĉo diris al ŝi: "Mi senlime ĝojas, ke mi vidas vin tiel
+laŭdezire bonfarta." La kantistino timigite deturnis sin kaj ŝajne
+skuetiĝis; ankaŭ la maskulo ĉe tiu vido tremante forturnis sin kaj
+malaperis en la homamaso. "Ĉu tio estas li?", la medicina konsilanto
+ekkriis. "Ekregu vin, nun estas necese, agi trankvile kaj ĉielzorge;
+ĉu vi opinias, ke estas li?" "Ankoraŭ mi tion ne certe scias", ŝi
+respondis, "sed mi opinias, ke mi rekonas liajn okulojn."
+
+La medicina konsilanto ordonis al la kvar domenuloj, ke ili streĉe
+atentu tiun paŝahon, kaj kun la sinjorino iris pluen. Sed apenaŭ li
+faris kelke da paŝoj tra la ĉambrego, kiam reaperis la turko; sed
+li restis malpli proksime, kvazaŭ observante la kantistinon.
+
+La kuracisto kun sia akompanantino aliris al bufedo por recepti
+al ŝi post la sentita teruro tason da teo; li rigardis
+ĉirkaŭen—ankaŭ ĉi tie la turko ree estis, kaj jen, nun li havis
+sur telereto glason da punĉo kaj kelke da bombonoj; li proksimiĝas
+al la kantistino, liaj okuloj brilas, la glaso kun strangaj sonoj
+saltetas kaj tintas sur la tremanta telero; li estas flanke de ŝi,
+li prezentas al ŝi la teleron kaj diras: "Estimata, ĉu vi ne
+deziras iom da punĉo kaj kelke da bombonoj?" La kantistino rigide
+rigardis lin, ŝi paliĝis, repuŝis la teleron kaj ekkriis: "Ha, la
+terura! Estas li, estas li, li volas veneni min!"
+
+La paŝaho de Janina staris muta kaj sen movo, li ŝajne forlasis
+ĉian penson pri defendo; senvole li lasis sin forkonduki de la kvar
+fortikaj domenuloj.
+
+Preskaŭ en la sama momento la nigra mantelo de la kuracisto estis
+forte ektirata. Li rigardis returne; la malgranda, kreskokripla lakeo
+el la hotelo de Portugalujo staris antaŭ li, pala kaj kun vizaĝo
+terurita: "Pro la kompatemo de Dio, sinjor' medicina konsilanto,
+bonvolu veni kun mi al la ĉambro n-ro 53, ĝuste nun la diablo volas
+preni la francan sinjoron."
+
+"Kion vi babilas?", la kuracisto malkontente demandis kaj volis lin
+puŝi flanken, por sekvi la kaptiton al la polica direkcio. "Ĉu
+koncernas min, se lin prenas la satano?"
+
+"Sed mi petas vin", la malgrandulo preskaŭ plorante ekkriis, "li
+eble tamen povas esti savata; via moŝto ja ĉi tie estas urba
+kuracisto kaj havas la devon, veni al la fremduloj en la hotelojn."
+
+La medicina konsilanto subpremis malbenon, kiun li estis preskaŭ
+dironta; li vidis, ke li ne povas eviti tiun malagrablan iron, li
+alvenigis per mansigno la orkestrestron Boloni, transdonis al li la
+kantistinon kaj rapidis kun la malgrandulo al la hotelo de
+Portugalujo.
+
+
+
+
+XI.
+
+
+Estis silente kaj dezerte en la granda gastejo; la noktomezo preskaŭ
+jam pasis, kaj la lampoj en la koridoroj kaj ĉe la ŝtuparoj donis
+malhelan kaj neklaran lumon; la medicina konsilanto sentis hororeton,
+suprenirante al la soleca malsanulo. La lakeo malŝlosis la pordon,
+la kuracisto eniris, sed preskaŭ reenfalis. Ĉar estaĵo, kiu de
+kelke da tagoj senĉese okupis lian fantazion dum dormo kaj maldormo,
+tie vera kaj enkorpiĝinta sidis en la lito. Ĝi estis granda,
+malgrasa, nejuna viro, kiu profunden sur la frunton estis surŝovinta
+pinte suprenstarantan lanan dormoĉapon; lia mallarĝa brusto kaj
+liaj longaj maldikaj brakoj estis kovritaj per flanelo; sub la ĉapo
+granda, pinta nazo elstaris el malgrasa, bruneflava vizaĝo, kiun oni
+opinius jam malviva kaj mortinta, se ne paro da grizaj pikaj okuloj
+ankoraŭ donus al ĝi iom da viveco kaj teruran, hororigan esprimon.
+La longaj, maldikaj fingroj, kun la senkarna manradiko multe
+elstarantaj el la manikoj, estis kunfleksitaj; kun raŭka, freneza
+rido li gratis sur la litkovrilo.
+
+"Vidu, li jam elgratas sian tombon!", la malgrandulo flustris kaj per
+tio vekis la kuraciston de lia fiksa rigardado al la malsanulo. Tia,
+ĝuste tia estis lia imago pri la chevalier de Planto; tiu malica,
+griza okulo, tiuj malbonsignaj trajtoj, tiu malgrasa, fantoma
+figuro—jen ĉio estis kunigita, kion la kantistino diris pri tiu
+terura viro. Sed lia pripenso revenis al la realeco; ĉu li do ne
+ĵus ĉeestis la areston de tiu chevalier? Ĉu ne ankaŭ alia viro
+povas havi grizajn okulojn? Ĉu do estis mirige, ke malsanulo estas
+konsumita kaj pala? La kuracisto mem ridis pri si, pasigis sian manon
+trans la frunton, kvazaŭ volante forviŝi tiujn pensojn kaj aliris
+al la lito.—Sed ankoraŭ neniam dum tiom da jaroj li sentis teruron
+kaj timon ĉe la lito de malsanulo—tie, estis al li preskaŭ
+neklarigeble, lin kaptis korpremo, frosto, tremo, kiujn li vane
+klopodis venki, kaj li nevole posteniĝis, sentante la malsekan,
+senvarman manon en la sia, dum longa tempo vane serĉante la pulson.
+
+"La stultulo", la paciento kun raŭka voĉo kriis, intermiksante jen
+francan parolon, jen malbonan italan kaj kripligitan germanan, "la
+stulta malgrandulo, ŝajnas, alvenigis al mi kuraciston. Vi pardonos
+al mi, mi neniam alte taksis vian arton. La sola, kio povas sanigi
+min, estas la banoj de Ĝenovo; mi jam ordonis al la bruto, ke li
+mendu por mi poŝtoĉevalojn; mi forvojaĝos ankoraŭ hodiaŭ nokte."
+
+"Certe li forvojaĝos", la malgrandulo murmuris, "sed kun ses karbe
+nigraj ĉevaloj, kaj ne al Ĝenovo, kie dronis siatempe Fiesko, sed
+tien, kie estas la plorado kaj la grincado de la dentoj."
+
+La kuracisto vidis, ke oni multe jam ne povas helpi; li opiniis, ke
+li povas legi la antaŭsignojn de la proksima morto en la okuloj, en
+la malkvietaj movoj de la malsanulo; eĉ tiu sopiro vojaĝi foren,
+malproksimen, jam ofte anoncis rapidan finiĝon de l'vivo. Tial la
+kuracisto konsilis al li, kviete kuŝiĝi kaj promesis, ke li
+preparos malvarmigan trinkaĵon.
+
+La malsanulo furioze ridis. "Kuŝi, kviete kuŝi?", li respondis,
+"kiam mi kuŝas, mi ĉesas spiri; mi devas sidi, en la veturilo mi
+devas sidi, for, malproksimen for!—Kion diras la malgrandulo? Ĉu li
+mendis la ĉevalojn? Malgranda hundo, ĉu vi ordis mian pakaĵon?"
+
+"Ho, mia Dio!", la malgrandulo grakis, "nun li pensas pri sia
+pakaĵo; jes, pezan pakon da pekoj li kunprenas, tiu malhomo. Oni ne
+povas skribi sur la ĉielo, kiom li malbenis kaj blasfeme parolis."
+
+La medicina konsilanto ankoraŭ unu fojon kaptis la manon de la
+malsanulo. "Ekfidu al mi", li diris, "eble tamen la arto ankoraŭ
+povos utili al vi; via servisto diras al mi, ke pafvundo al vi
+krevis; lasu min esplori." Murmurante la malsanulo konsentis, li
+montris al sia brusto. La kuracisto forprenis bandaĝon malbone
+surmetitan, li trovis—pikvundon proksime de la koro.—Strange! ĝi
+estis la sama grando, la sama loko, kiel ĉe la vundo de la
+kantistino.
+
+"Tio estas freŝa vundo, piko!", la kuracisto ekkriis kaj suspekteme
+rigardis la malsanulon. "Kie vi ricevis tiun vundon?"
+
+"Ĉu vi pensas, ke mi interbatalis kun iu? Ne, per la diablo! Mi
+havis tranĉilon en la brusta poŝo, malsupren falis ŝtuparon kaj
+min iom gratvundetis."
+
+"Iom gratvundetis!", Lange pensis, "kaj tamen li mortos de tiu
+vundo."
+
+Li dume preparis iom da limonado kaj prezentis ĝin al la malsanulo;
+tiu ĝin albuŝigis per nefirma mano; ĝi ŝajne freŝigis lin; dum
+kelke da minutoj li estis silenta kaj kvieta; sed vidante, ke li
+verŝis kelke da gutoj sur la litkovrilon, li komencis blasfemi kaj
+postulis naztukon. La lakeo flugkuris al kofro, malŝlosis kaj eligis
+tukon—la kuracisto rigardis al ĝi, terura suspekto en li
+naskiĝis—li ree rigardis, ĝi estis la sama koloro, la sama ŝtofo,
+ĝi estis la tuko, trovita ĉe la kantistino. La malgrandulo volis
+transdoni ĝin al la malsanulo; li repuŝis ĝin: "Al la diablo,
+bruto! Kiom ofte mi devas diri tion, heliotropan akvon sur ĝin!" La
+servisto elserĉis malgrandan botelon kaj aspergis la tukon; agrabla
+odoro disvastiĝis en la ĉambro—ĝi estis la sama parfumo, kiun
+surhavis la alia, trovita tuko.
+
+La medicina konsilanto tremis per la tuta korpo; ne plu estis
+dubeble, ke li havas antaŭ si la atencinton de la kantistino
+Bianetti, tiun chevalier de Planto; ĝi estis senhelpa homo,
+malsanulo, mortanto, kiu sidis en la lito, sed al la kuracisto estis,
+kvazaŭ ĉiumomente li povas sin ĵeti el la lito kaj kapti lian
+gorĝon; li prenis sian ĉapelon, la proksimeco de la terura homo
+forpelis lin.
+
+La malgranda lakeo retenis lin per la jako, kiam li vidis lin foriri.
+"Ho, via moŝto!", li ĝemis, "Vi ja ne volas lasi min sola ĉe li?
+Mi ne povas elteni tion, se li nun mortus kaj poste tuj kiel flanela
+fantomo kun la dormoĉapo sur la kranio promenus tien kaj reen en la
+ĉambro! Pro Dio, ne forlasu min!"
+
+La malsanulo terure rikanis kaj intermikse ridis kaj blasfemis, li
+ŝajne volis veni helpi la malgrandulon; li etendis el la lito
+longan, senkarnan kruron, kunfleksante la maldikajn fingrojn li
+minacis al la kuracisto. Sed tiu ne plu povis elteni tion; la frenezo
+ŝajne infektis lin; li repuŝis la malgrandulon kaj forkuris el la
+ĉambro; ankoraŭ sur la plej malsupraj ŝtuparoj li aŭdis la
+teruran ridon de la mortigisto.
+
+
+
+
+XII.
+
+
+En la mateno post tiu nokto bela urba kaleŝo haltis antaŭ la hotelo
+de Portugalujo; eliris tri personoj, vualita sinjorino kaj du nejunaj
+sinjoroj kaj supreniris la ŝtuparon. "Ĉu sinjoro la supera
+tribunala referendario _Pfälle_ jam estas supre?", unu el tiuj
+sinjoroj demandis la kelneron, kiu ilin suprenkondukis. Tiu jesis,
+kaj la sinjoro daŭrigis: "Kaj tamen estas stranga dispono de la
+sorto, ke li malsupren falas la ŝtuparon kaj mem puŝas la ponardon
+en sian bruston, ke li mem malhelpas sin, forkuri, ke ĝuste vi,
+Lange, estas vokata al li!"
+
+"Certe", la vualita sinjorino diris, "sed ĉu vi ne trovas strangan
+fatalon ankaŭ en tiuj naztukoj? La unun li devis lasi ĉe mi, kia
+hazardo! La alian li devis postuli ĝuste en la momento, kiam la
+doktoro ankoraŭ estas ĉe li."
+
+"Tiel devis okazi", la dua sinjoro respondis, "oni ne povas diri ion
+alian, ol ke tio devis fariĝi. Sed en tiu vortico mi preskaŭ
+forgesis ion; diru, kio estas pri la paŝaho de Janina? Signora
+supozeble ja eraris. Ĉu vi ree elliberigis lin? Kiu estis la
+kompatindulo?"
+
+"Neniel kaj male"; la unua diris, "mi konvinkis min, ke li estas
+kunkulpulo de la chevalier, kies postsignojn mi jam de longe sekvis.
+Mi jam alkondukigis lin ĉi tien, li estos kunfruntigata kun la
+atencinto."
+
+"Ĉu efektive?", la sinjorino ekkriis. "Kunkulpulo?"
+
+"Jen ja", la sinjoro diris kun ruza rideto, "mi scias multajn
+aferojn, eĉ se oni ilin ne diris al mi. Sed dank' al Dio, ni alvenis
+supre, tie jam estas n-ro 53. Fraŭlino, bonvolu dume eniri ĉi tie,
+en n-ron 54: la orkestrestro permesis tion kaj ne elpelos vin; tion
+mi garantius. Kiam estos via vico esti pridemandata, mi vokos vin."
+
+Estas superflue por ni diri, ke la tri personoj estis la kantistino,
+la doktoro kaj la direktoro; ili venis por akuzi la kavaliron de
+Planto pri mortigo provita. La direktoro kaj la medicina konsilanto
+eniris; la malsanulo ankoraŭ same sidis en la lito, kiel la
+kuracisto vidis lin en la nokto; nur liaj trajtoj en la taglumo
+ŝajnis ankoraŭ pli teruraj, la esprimo de liaj okuloj, jam
+ekrigidiĝantaj, ankoraŭ pli hororiga. Per senvivaj okuloj li
+rigardis jen la kuraciston, jen la direktoron; poste li ŝajne
+pripensis, kio nun okazas en lia ĉambro, ĉar referendario Pfälle,
+mallonga, juna viro kun ruĝaj vangoj kaj malgrandaj okuletoj, estis
+konvene stariginta tablon, metis antaŭ sin kolonon da paperoj kaj
+tenis en la dekstra mano longan cignoplumon, por protokoli.
+
+"Bruto, kion deziras la sinjoroj?", la malsanulo per malforta voĉo
+kriis al la malgranda lakeo. "Vi ja scias, ke mi ne akceptas
+vizitojn."
+
+La direktoro aliris proksimen antaŭ lin, firme lin rigardis kaj
+diris akcente: "Chevalier de Planto!"
+
+"_Qui vive[25]?_", la malsanulo ekkriis kaj abrupte levis la
+dekstran manon al la dormoĉapo, kvazaŭ volante militiste saluti.
+
+"Sinjoro, vi estas la chevalier de Planto?" la alia daŭrigis.
+
+La grizaj okuloj ekbrilis, li pike ekrigardis la direktoron kaj la
+referendarion, kun moka mieno skuis la kapon kaj respondis: "La
+chevalier jam de longe estas mortinta!"
+
+"Ĉu vere? Kiu do estas vi? Respondu, mi demandas vin en la nomo de
+la reĝo!"
+
+La malsanulo ridis: "Mia nomo estas Lorier; Bruto, donu al la sinjoro
+mian pasporton!"
+
+"Ne estas necese; ĉu vi konas tiun tukon, sinjoro?"
+
+"Kial mi ne konus ĝin? Vi tie forprenis ĝin de mia seĝo; por kio
+la demandoj, por kio la scenoj? Vi ĝenas min, sinjoro!"
+
+"Bonvolu rigardi al via maldekstra mano", la direktoro diris; "tie vi
+ja tenas vian tukon; ĉi tiu estis trovata en la domo de iu Giuseppa
+Bianetti."
+
+La malsanulo furioze ekrigardis la virojn; li pugnigis sian manon kaj
+grincigis la dentojn; li obstine silentadis, kvankam la direktoro
+ripetis siajn demandojn. Tiu nun donis signon al la kuracisto; li
+eliris kaj baldaŭ poste revenis kun la kantistino, la orkestrestro
+Boloni kaj la ...a ŝtatsendito en la ĉambron.
+
+"Sinjoro barono de Martinow", la direktoro sin turnis al ĉi tiu,
+"ĉu vi rekonas tiun viron kiel la saman, kiu en Parizo estis konata
+al vi kiel chevalier de Planto?"
+
+"Mi rekonas lin kiel la saman", la barono respondis, "kaj ripetas
+miajn deklarojn pri li, kiujn mi donis pli antaŭe por protokoli."
+
+"Giuseppa Bianetti, ĉu vi rekonas lin kiel la saman, kiu forkondukis
+vin el la domo de via duonpatro, kunprenis en sian domon en Parizo,
+la sama, kiun vi akuzas pri provita mortigo?"
+
+La kantistino tremis, vidante la teruran viron; ŝi volis respondi,
+sed li mem al ŝi evitigis ĉian konfeson. Li pli alten levis sin,
+lia lana ĉapo ŝajne pli pinta suprenstaris, liaj brakoj estis
+rigidaj, li ŝajne kun peno movis ilin, sed liaj fingroj konvulsie
+dis- kaj kunfleksiĝis; lia voĉo jam nur mallaŭte kaj raŭke
+suprenrampis el la brusto; eĉ lia rido kaj liaj blasfemoj preskaŭ
+fariĝis flustrado: "Ĉu vi venas, viziti min, Schepperl?", li diris.
+"Jen vi bele agas. Ĉu ne, mia vidiĝo vin tre plezurigas! Mi vere
+bedaŭras, ke mi ne pli bone vin trafis, per tio mi estus evitiginta
+al vi, vidi vian onklon antaŭ lia forvojaĝo mokata de tiuj germanaj
+brutoj!"
+
+"Por kio ni ankoraŭ bezonas atestojn?", la direktoro interrompis
+lin. "Sinjoro referendario Pfälle, skribu arestordonon kontraŭ—"
+
+"Kion vi faras?", la kuracisto ekkriis, "ĉu vi do ne vidas, ke la
+morto jam minacas lian koron? Li ne plu vivos kvaronhoron. Rapidu, se
+vi ankoraŭ devas demandi pri io."
+
+La direktoro ordonis al la lakeo, voki la juĝejajn servistojn, ili
+suprenkonduku la kaptiton; la malsanulo pli kaj pli kadukiĝis, liaj
+okuloj ŝajne haltis, ili havis nur unu direkton, al la kantistino;
+sed ankaŭ nun ŝajne ankoraŭ fulmobrilis el ili furiozo kaj kolero:
+"Schepperl", li ree diris, "vi malfeliĉigis, pereigis min, tial vi
+meritus la morton; vi pereigis vian patron, ili kondamnis lin al la
+galeroj, ĉar li vendis vin al mi por mono; li min petegis, kadavrigi
+vin; mi bedaŭras, ke mi tremis. Malbenitaj estu tiuj manoj, eĉ ne
+plu povintaj firme puŝi!" Liaj abomenindaj blasfemoj, kiujn li
+eligis pri si kaj Giuseppa, estis interrompataj per nova aperaĵo. Du
+juĝejaj servistoj alkondukis viron turke vestitan; estis la
+malfeliĉa Ali, la paŝaho de Janina—la turbano kovris la kompatigan
+kapon de la konsilanto Bolnau. Ĉiuj miregis pri tiu vidaĵo kaj
+precipe la orkestrestro ŝajnis konsternita; li iĝis pala kaj ruĝa
+kaj deturnis sian vizaĝon. "_Monsieur_[26] de Planto", la
+direktoro diris, "ĉu vi konas tiun viron?" La malsanulo estis
+ferminta la okulojn; li pene disigis la palpebrojn kaj diris: "Al
+la diabloj, mi ne konas lin!"
+
+La turko kun afliktita mieno rigardis la ĉirkaŭstarantojn. "Mi ja
+sciis, ke tiel okazos", li diris en plorema tono, "mi jam longe
+antaŭsentis tion. Sed fraŭlino Bianetti, kiel vi do povis tiom
+malfeliĉigi senkulpan homon?"
+
+"Kio do estas pri tiu sinjoro?" la kantistino diris. "Mi ne konas
+lin. Sinjoro direktoro, kion do faris tiu?"
+
+"Signora", la direktoro diris kun profunda seriozo, "antaŭ la
+tribunalo nenia pardonemo aŭ indulgo valoras, vi devas koni tiun
+sinjoron; ĝi estas la komerca konsilanto Bolnau. Via propra
+ĉambristino konfesis, ke vi kriis lian nomon ĉe la atenco."
+
+"Certe", la paŝaho plendis—"diris mian nomon en tiel suspektigaj
+cirkonstancoj."
+
+La kantistino ekmiris, intensa ruĝo pasis trans ŝian belan
+vizaĝon, tre emociite ŝi kaptis la manon de la orkestrestro;
+"Carlo", ŝi ekkriis, "nun mi devas paroli, mi ne povas silenti pri
+tio; jes, sinjoro direktoro, mi supozeble diris tiun karan nomon, sed
+mi ne celis tiun sinjoron, sed—"
+
+"Min", la orkestrestro diris kaj paŝis antaŭen. "Mia nomo estas, se
+mia kara patro, tie staranta, permesas, _Karl_[27] Bolnau!"
+
+"Karlo! Muzikisto! Amerikano!" la turko kriis kaj ĉirkaŭprenis lin.
+"Tio estas la unua saĝa vorto en via vivo, vi liberigis min el
+granda mizero."
+
+"Se estas tiel", la direktoro diris, "vi estas libera, kaj ni bezonas
+en ĉi tiu afero okupi nin nur pri la ĉeestanta sinjoro chevalier de
+Planto." Li sin turnis posten al la lito; tie staris la kuracisto kaj
+tenis la manon de la mortigisto en la sia. Li serioze kaj kviete
+metis ĝin sur la litkovrilon kaj fermis liajn rigidajn okulojn.
+"Direktoro", li diris, "tiu nun respondas al pli alta juĝisto."
+
+Oni komprenis lin; ili eliris el la ĉambro de la terura mortinto kaj
+eniris transe ĉe la orkestrestro, la feliĉa, retrovita filo de la
+paŝaho; la kantistino kaŝis sian vizaĝon sur la brusto de la
+amato, ŝiaj larmoj torente verŝiĝis, sed ili estis la lastaj,
+kiujn ŝi ploris pri sia malfeliĉa sorto; ĉar la paŝaho ridetante
+ĉirkaŭiris la belegan paron, li ŝajne ellaboris grandan decidon;
+li sekrete interkonsiliĝis kun la medicina konsilanto kaj de tiu
+aliris al sia filo kaj la kantistino. "Plej kara fraŭlino", li
+diris, "pro vi mi suferis multe, vi tiel suspektige diris mian nomon,
+ke mi petas vin, interŝanĝi ĝin kun la via. Vi hieraŭ malakceptis
+mian teleron kun punĉo, ĉu vi ree forpuŝos min, se mi prezentas al
+vi la ĉeestantan sinjoron Karlo Bolnau, mian muzikeman filon,
+petante, ke vi prenu lin kiel edzon?"
+
+Ŝi ne rifuzis; kun larmoj de ĝojo ŝi kisis lian manon, la
+orkestrestro ravite ĉirkaŭprenis ŝin kaj ĉi-foje ŝajne tute
+forgesis sian subliman patoson. La komerca konsilanto siaparte kaptis
+la manon de la kuracisto: "Lange, diru, ĉu mi povis pensi, ke tiel
+okazos, kiam vi timigis min ĝis ekstremo, kiam mi nombris la
+fenestrovitrojn de la palaco, kaj vi diris al mi: Ŝia lasta vorto
+estis Bolnau?"
+
+"Nu, kion vi volas ankoraŭ!" ridetante respondis la medicina
+konsilanto. "Ja estis bone, ke mi tiam ĝin diris al vi; mi ne scias,
+ĉu ĉio estus okazinta same sen la lasta vorto de la kantistino."
+
+
+
+
+Klarigaj notoj de la tradukinto.
+
+
+[1] germane _Kommerzienrat_, titolo, kiun povis ricevi
+ŝatata komercisto aŭ industriulo.
+
+[2] (itala) = kun subpremata voĉo.
+
+[3] germane _Medizinalrat_. Precipe en Pruslando
+oficiala titolo de kuracisto, kiu estas teknika referatisto de la
+distrikta registaro.
+
+[4] (it.) = sinjorino.
+
+[5] pron. Baruĥ.
+
+[6] laŭvorte: nigra, blanka, bruna, farmbienulo, muelisto,
+kampulo (nomoj en Germanlando tre oftaj).
+
+[7] (franca) = ĝis la revido.
+
+[8] (franca) = fama juĝafero.
+
+[9] = pendigan ŝnuron.
+
+[10] (itala formo de) Karlo.
+
+[11] (it. f. d.) Jozefino.
+
+[12] (itala muzika termino) = sufiĉe rapide.
+
+[13] (it. muz. term.) = iom modere.
+
+[14] (franca) = ĉielo!
+
+[15] (itala) = amantoj.
+
+[16] (akc. António, itala formo de) Antono.
+
+[17] pron. Ŝeperl.
+
+[18] (germ.) mallongigaĵo de Kristino.
+
+[19] (franca) = Jes, tio estas filinoj (aŭ publikulinoj,
+laŭ alia senco de la franca vorto).
+
+[20] (franca) = kavaliro de _Planto_.
+
+[21] (itala) = majstro.
+
+[22] [AFGR] Tia ideo kaj precipe esprimo de ideo aŭ sento
+kiu estas (senkonscie) pasigita de la memoro, sed prezentas sin kiel
+nove estiĝintan.
+
+[23] en la IIa volumo de _La Revuo_ sur paĝo 70 (Rab: IV, 5).
+
+[24] (franca) = bonan tagon, bonan tagon!
+
+[25] (franca) = jen kiu?
+
+[26] (franca) = Sinjoro.
+
+[27] (germana formo de) Karlo.
+
+
+
+
+
+Esperanto-Verlag Friedrich Ellersiek Berlin S 59
+
+_Nova Esperanto-Biblioteko No. 5:_
+
+Pro kio?
+
+Internacia kriminal-romano orginale verkita de Argus
+
+Prezo: bele kart. 9.— M. (al eksterlando kun altigoj
+laŭ E-Katalogo) Sendkostoj 80 Pf. (eksterlanden 1.20 M.)
+
+Kompetenta juĝo pri la verko:
+
+En la nuna tempo, kiam oni, bedaŭrinde pli ol dezirite,
+devas kutimigi sin al ĉiutagaj kriminalaĵoj, akriĝas ankaŭ
+la sento pri elpensita kriminalromano. Mi legis la verkon
+"Pro kio" kun ĝojo kaj ĝuo, ĉar la dissolvo de la komplikaĵoj
+estas lerta, la streĉeco de l'atento de la leganto estas
+restigata ĝis la lasta momento, kaj la lingvo estas majstra.
+Ĝuste ĉi tio ŝajnas al mi grava, ĉar ĝi denove pruvas la
+kapablecon de Esperanto kiel konversacia lingvo kaj ĉarme
+kaj efike enkondukas la komencantan Esperantiston en la
+modernan ĉiutagan vivon. Pro ĉi tiuj kaŭzoj mi volonte
+donas al "Pro kio?" mian varman rekomendon por ĝia vojo
+kaj deziras al ĝi plenan sukceson.
+
+  _Dro Albert Steche_,
+  prezidanto de Germana Esperanto-Asocio.
+
+
+
+_Nova Esperanto-Biblioteko No. 6:_
+
+Elektitaj poemoj de Heinrich Heine
+
+Tradukitaj de Friedrich Pillath
+
+Dua, kompletigita eldono
+
+Prezo: bele kart. 4.— M. (al eksterlando kun altigoj
+laŭ E-Katalogo) Sendkostoj 40 Pf. (eksterlanden 80 Pf.)
+
+Unu el la plej belaj verkoj de la Esperanto-Literaturo!
+S-ino _Marie Hankel_, prezidantino de Esperantista Literatura
+Asocio, juĝas pri ĝi jene: "La Elektitaj Poemoj (nova eldono)
+estas vera trezoro kaj la plej efika pruvo por la beleco
+de nia lingvo."
+
+
+
+Esperanto-Verlag Friedrich Ellersiek Berlin S 59
+
+_Nova Esperanto-Biblioteko No. 7:_
+
+P. William
+
+Legolibro
+
+Unua volumo:
+
+Internacia Anekdotaro
+
+Prezo: 6.— M. (al eksterlando kun altigoj laŭ
+E-Katalogo) Sendkostoj 40 Pf. (eksterlanden 80 Pf.)
+
+Ĉi tiu libro bonege taŭgas kiel legaĵo en kursoj kaj en
+ekzercaj rondoj. Ĝia modelstila enhavo pritraktas la plej
+diversajn aferojn de la homa vivo, kaj tial la libro prezentas
+grandan provizon de vortoj kaj riĉecon de gramatikaj formoj
+konscie uzitaj.
+
+
+
+Dokumentoj de Esperanto
+
+  Informilo pri la historio kaj organizo
+  de la Esperanta movado
+
+Kunmetita de
+
+Dro A. Möbusz, Lübeck
+
+Prezo: kart. 25.— M. (al eksterlando kun altigoj laŭ
+E-Katalogo) Sendkostoj 1.— M. (eksterlanden 2.40 M.)
+
+Ĉiu Esperantano, kiu volas informi sin pri la historio kaj
+scienca bazo de la Lingvo Internacia, pri la Esperanto-movado
+kaj pri la organizo de la Esperantistaro, nepre devas posedi
+ĉi tiun fundamentan verkon. La libro enhavas i. a. ĉiujn
+kongresparoladojn de Dro Zamenhof kaj multajn aliajn gravajn
+dokumentojn.
+
+
+Buchdruckerei für fremde Sprachen Max Schmersow, Kirchhain N.-L.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of La Kantistino, by Wilhelm Hauff
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA KANTISTINO ***
+
+***** This file should be named 24763-0.txt or 24763-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/7/6/24763/
+
+Produced by Andrew Sly and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,7089 @@
+﻿The Project Gutenberg EBook of Rosmersholm, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Rosmersholm
+       Dramo en kvar aktoj
+
+Author: Henrik Ibsen
+
+Translator: Odd Tangerud
+
+Release Date: January 18, 2008 [EBook #24355]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ROSMERSHOLM ***
+
+
+
+
+Produced by Andrew Sly
+
+
+
+
+
+
+HENRIK IBSEN
+
+ROSMERSHOLM
+
+Dramo en kvar aktoj
+
+(Rosmersholm)
+
+(1886)
+
+  Tradukis:
+  Odd Tangerud
+
+Eldonejo: Jec Scandinavia a/s
+
+Postboks 54 N - 3401 Lier
+Tlf. 32 85 50 03. Fax. 32 85 50 82
+
+
+
+ROSMERSHOLM
+
+
+ROLOJ:
+
+
+  JOHANNES ROSMER, posedanto de Rosmersholm, antaŭa pastro.
+  REBEKKA WEST, en la domo de ROSMER.
+  REKTORO KROLL, bofrato de ROSMER.
+  ULRIK BRENDEL.
+  PEDER MORENSGÅRD.
+  SINJORINO HELSETH, dommastrino en Rosmersholm.
+
+
+La litero å / Å prononciĝas kiel longa “o” kiel en la
+vorto sinj_o_r_o_.
+
+Finnmark = laplej norda regiono (fylke) en Norvegio.
+
+(La intrigo okazas en _Rosmersholm_, malnova grandbieno en la
+najbarejo de malgranda urbo ĉe fjordo en okcidenta _Norvegio_.)
+
+
+
+
+UNUA AKTO
+
+
+(La sidĉambro en _Rosmersholm_; spaca, antikveca kaj hejmeca.
+Antaŭe ĉe la muro dekstre estas kahelforno ornamita per freŝaj
+branĉoj de betulo, kaj per kampofloroj. Pli malantaŭe estas pordo.
+Sur la fona muro estas duflugila pordo al la antaŭĉambro. Sur la
+muro maldekstre estas fenestro, kaj antaŭ ĝi ornamvazo kun floroj
+kaj plantoj. Apud la forno estas tablo kun sofo kaj apogseĝoj. Sur
+la muroj pendas malnovaj kaj ankaŭ kelkaj iom pli novaj portretoj de
+pastroj, oficiroj kaj ŝtataj oficistoj en uniformo. La fenestro
+estas malferma. Same la pordo al la antaŭĉambro kaj la ekstera
+pordo de la domo. Ekstere oni vidas grandajn, maljunajn arbojn en
+aleo kondukanta al la biendomo. Somera vespero. La suno subiĝis.)
+
+(_Rebekka West_ sidas en apogseĝo apud la fenestro kroĉetante sur
+granda, blanka lanŝalo, preskaŭ finkroĉita. Foje ŝi ekrigardas
+eksteren inter la floroj. Iom poste _sinjorino Helseth_ envenas de
+dekstre.)
+
+SINJORINO HELSETH
+
+Eble estas tempo, ke mi komencu pretigi la vespertablon, fraŭlino.
+
+REBEKKA WEST
+
+Jes, faru. La pastro ja certe baldaŭ venos.
+
+SINJORINO HELSETH
+
+Ĉu ne estas trablovo, _tie_ kie la fraŭlino sidas?
+
+REBEKKA
+
+Jes iomete. Bonvolu fermi.
+
+(Sinjorino Helseth aliras kaj fermas la antaŭĉambran pordon; poste
+ŝi iras al la fenestro.)
+
+SINJORINO HELSETH
+
+(volas fermi, sed elrigardas) Sed ĉu ne estas la pastro, kiu iras
+tie?
+
+REBEKKA
+
+(rapide) Kie? (ekstaras) Jes, estas li. (malantaŭ la kurteno) Iru
+flanken. Ke li ne ekvidu nin.
+
+SINJORINO HELSETH
+
+(meze sur la planko) Ĉu pensi, fraŭlino, — li denove komencas iri
+la muelejvojon.
+
+REBEKKA
+
+Li ankaŭ iris la muelejvojon antaŭhieraŭ. (rigardetas inter la
+kurteno kaj la fenestrokadro) Sed nun ni vidu —
+
+SINJORINO HELSETH
+
+Ĉu li kuraĝas transiri la ponteton?
+
+REBEKKA
+
+Estas tio, kion mi volas vidi. (iom poste) Ne. Li turnas sin. Iras
+supre ankaŭ hodiaŭ. (iras for de la fenestro) Longa ĉirkaŭvojo.
+
+SINJORINO HELSETH
+
+Bona Dio, jes. Certe estas preme por la pastro transpaŝi sur _tiu_
+ponteto. _Tie_, kie tiaĵo okazis, _tie_ —
+
+REBEKKA
+
+(kunmetas la kroĉaĵon) Ili longe ligiĝas al siaj mortintoj en
+Rosmersholm.
+
+SINJORINO HELSETH
+
+Mi kredas _tion_, mi, fraŭlino, ke estas la mortintoj, kiuj ligas
+sin tiel longe al Rosmersholm.
+
+REBEKKA
+
+(rigardas ŝin) La mortintoj?
+
+SINJORINO HELSETH
+
+Jes, mi dirus, ke aspekte ili ne kapablas fortiri sin de tiuj, kiuj
+restas.
+
+REBEKKA
+
+Kial vi tiel pensas?
+
+SINJORINO HELSETH
+
+Jes, ĉar alie ne venus tiu blanka ĉevalo, mi opinias.
+
+REBEKKA
+
+Kio vere estas tio, ĉi tio pri tiu blanka ĉevalo, sinjorino
+Helseth?
+
+SINJORINO HELSETH
+
+Ho, ne estas priparolinda. Pri tiaĵo ankaŭ vi ja ne kredas.
+
+REBEKKA
+
+Ĉu _vi_ do kredas pri tiaĵo?
+
+SINJORINO HELSETH
+
+(aliras kaj fermas la fenestron) Ho, mi ne volas esti ridindulino por
+la fraŭlino. (elrigardas) Ho — ĉu ne la pastro estas denove tie
+sur la mueleja vojo —?
+
+REBEKKA
+
+(elrigardas) _Jena_ viro? (iras al la fenestro) Estas ja la rektoro!
+
+SINJORINO HELSETH
+
+Jes, ĝuste, estas la rektoro.
+
+REBEKKA
+
+Ho, estas ĝojige! Ĉar vi vidos, ke li intencas viziti nin.
+
+SINJORINO HELSETH
+
+Li iras rekte trans la ponton, li. Spite al tio ke ŝi estis lia
+samsanga fratino. Nu, mi do eniru por pretigi la vespertablon,
+fraŭlino! (Ŝi eliras dekstren.)
+
+(_Rebekka_ staras momenton apud la fenestro; jen ŝi salutas, ridetas
+kaj kapsignas eksteren.)
+
+(Malheliĝas.)
+
+REBEKKA
+
+(aliras kaj parolas tra la pordo dekstre) Ho, kara sinjorino Helseth,
+vi do metu ion bonan sur la tablon. Vi ja scias, kion la rektoro
+pleje ŝatas.
+
+SINJORINO HELSETH
+
+(de ekstere) Bone, fraŭlino, mi faros.
+
+REBEKKA
+
+(malfermas la pordon al la antaŭĉambro) Nu, fine do —! Kore
+bonvena, kara rektoro!
+
+REKTORO KROLL
+
+(en la antaŭĉambro, formetas sian bastonon) Dankon.
+Mi do ne venas ĝenante?
+
+REBEKKA
+
+Vi? Honto al vi —!
+
+KROLL
+
+(envenas) Ĉiam afabla. (ĉirkaŭrigardas) Rosmer, ĉu en sia
+ĉambro?
+
+REBEKKA
+
+Ne, li promenas. Li forestas iom pli longe ol kutime. Sed nun li
+baldaŭ venos. (montras al la sofo) Bonvolu sidi dume.
+
+KROLL
+
+(demetas la ĉapelon) Multan dankon. (eksidas kaj ĉirkaŭrigardas)
+Ho kiel bela kaj ŝatinda vi farigis la malnovan ĉambron. Floroj
+alte kaj malalte.
+
+REBEKKA
+
+Rosmer multe ŝatas freŝajn florojn ĉirkaŭ si.
+
+KROLL
+
+Ankaŭ vi, mi opinias.
+
+REBEKKA
+
+Jes. Ŝajnas al mi, ke ili agrable lulas niajn sentojn. Antaŭe ni
+devis ja rezigni pri tiu ĝuo.
+
+KROLL
+
+(kapsignas peze) Kompatinda Beate ne toleris la odoron.
+
+REBEKKA
+
+Eĉ ne la kolorojn. Ŝi kvazaŭ konfuziĝis —
+
+KROLL
+
+Mi bone memoras. (en pli malpeza tono) Nu, kiel do statas ĉi tie?
+
+REBEKKA
+
+Jes, ĉio iras laŭ la ebeno. Unu tagon kiel la alian. — Kaj ĉe vi?
+Via edzino —?
+
+KROLL
+
+Ho, kara fraŭlino West, ni ne parolu pri la mia. En familio ĉiam
+estas io aŭ alia kio kontraŭas. Precipe en tiaj tempoj, kiajn ni
+nun havas.
+
+REBEKKA
+
+(iomete poste, eksidas en apogseĝon apud la sofo) Kial vi eĉ ne
+vizitis nin unu solan fojon dum ĉiuj la lernejaj feritagoj?
+
+KROLL
+
+Nu, oni ja ne devas alkuri la pordojn de homoj —
+
+REBEKKA
+
+Se vi scius, kiom ni sopiris viziton de vi —
+
+KROLL
+
+— kaj krome mi ja forvojaĝis —
+
+REBEKKA
+
+Jes, tiujn du semajnojn. Vi ja ĉirkaŭiris al popolaj kunvenoj?
+
+KROLL
+
+(kapsignas) Kaj kion vi diras al tio? Ĉu vi imagus, ke mi en miaj
+tagoj de maljuneco fariĝus agitanto? Ĉu?
+
+REBEKKA
+
+(ridetas) Iomete vi ja ĉiam agitis, rektoro Kroll.
+
+KROLL
+
+Nu jes, tiel por mia privata ĝuo. Sed de nun fariĝos vera
+sincereco. — Ĉu vi foje legas tiujn radikalajn gazetojn?
+
+REBEKKA
+
+Jes, kara rektoro, mi ne neas ke —
+
+KROLL
+
+Kara fraŭlino West, nenio hontinda estas en tio. Ne por vi.
+
+REBEKKA
+
+Ne, tiel ankaŭ mi opinias. Mi devas ja informiĝi. Scii pri la
+aferoj —
+
+KROLL
+
+Nu, ĉiuokaze mi ja ne postulas de vi, kiel virino, ke vi decidu pri
+partio en la civitana malunueco, civitana milito mi povus diri, kiu
+furoras ĉi tie. — Sed vi do legis kiel tiuj sinjoroj el la
+“popolo” permesis al si riproĉaĉi min? Kiaj malicaj krudaĵoj
+ili kuraĝis permesi al si.
+
+REBEKKA
+
+Jes, sed ŝajnas al mi, ke vi tre forte kontraŭmordis.
+
+KROLL
+
+Mi faris. Mi povas mem diri. Ĉar nun mi gustumas sangon. Kaj ili
+spertos, ke mi ne estas tia viro, kiu libervole nudigas sian dorson
+—. (interrompas) Sed aŭskultu nun, — ni ne adoptu tiun
+bedaŭrindan kaj ŝirantan temon ĉi-vespere.
+
+REBEKKA
+
+Ne, ni ne faru, kara rektoro.
+
+KROLL
+
+Prefere diru kiel vi nun vere fartas ĉi tie en Rosmersholm, nun post
+kiam vi fariĝis sola? Post kiam nia kompatinda Beate —?
+
+REBEKKA
+
+Jes, dankon; mi fartas sufiĉe bone ĉi tie. Granda malpleneco estas
+ja post ŝi multmaniere. Kaj ankaŭ sopiro kaj aflikto, —
+kompreneble. Sed alie ja —
+
+KROLL
+
+Ĉu vi intencas resti ĉi tie? Daŭre, mi pensas.
+
+REBEKKA
+
+Ho, kara rektoro, mi ne pensas pri io decide en tiu rilato. Mi ja nun
+kutimiĝis, aparteni al la domo, ankaŭ mi.
+
+KROLL
+
+Jes _vi_. Tion mi ja opinius.
+
+REBEKKA
+
+Kaj tiom longe kiom sinjoro Rosmer trovas, ke mi povas esti al ia
+hejmeco kaj utileco por li, — mi do certe restos, mi pensas.
+
+KROLL
+
+(rigardas ŝin senteme) Sciu, — estas io granda en tio ĉi, por
+virino, tiel trapasi sian tutan junecon en sindonemo por aliuloj.
+
+REBEKKA
+
+Ho, por kio mi alie vivus?
+
+KROLL
+
+Unue vi subiĝis al tiu eterna peno por via lama, postulema propatro
+—
+
+REBEKKA
+
+Ne pensu, ke doktoro West estis postulema tie norde en Finnmark.
+Estis la teruraj marvojaĝoj, kiuj rompis lin. Sed kiam ni
+transloĝiĝis ĉi-suden, — jes, tiam venis iuj severaj jaroj,
+antaŭ ol li finluktis.
+
+KROLL
+
+Ĉu ili ne fariĝis ankoraŭ pli severaj por vi, la jaroj, kiuj
+sekvis?
+
+REBEKKA
+
+Ne, kiel vi parolas! Mi, kiu tiel intime amis Beate —. Kaj kiel
+dolorige ŝi, la kompatindulino, bezonis flegadon kaj indulgan
+vartadon.
+
+KROLL
+
+Dankon al vi, ĉar vi memoras ŝin kun indulgo.
+
+REBEKKA
+
+(proksimigas sin) Kara rektoro, vi diras tion tiel bele kaj
+sentoplene, ke mi certas, ke neniu missento kuŝas sube.
+
+KROLL
+
+Missento? Kion vi aludas per tio?
+
+REBEKKA
+
+Nu, ne estus ja strange, se estus por vi ĝene vidi min, fremda homo,
+disponadi ĉi tie en Rosmersholm.
+
+KROLL
+
+Ne, sed kiel vi —!
+
+REBEKKA
+
+Sed tiel vi do ne pensas (etendas al li la manon) Dankon, kara
+rektoro! Dankon, dankon pro tio.
+
+KROLL
+
+Sed kiel vi do povis ekhavi tian ideon?
+
+REBEKKA
+
+Mi komencis timiĝi, ĉar vi malofte vizitetis nin.
+
+KROLL
+
+Jen vi iris strangan erarvojon, fraŭlino West. Kaj krome, — nenio
+estas ja vere ŝanĝita. Estas ja vi, — kaj sole vi, — kiu
+mastrumis ĉi tie eĉ dum la lasta malfeliĉa tempo de kompatinda
+Beate.
+
+REBEKKA
+
+Estis ja pli ia regenteco en la nomo de la sinjorino.
+
+KROLL
+
+Sed kiaj ajn la aferoj —. Sciu, fraŭlino West, — laŭ mi ne estus
+kontraŭinde, se vi —, tamen eble tiaĵo ne estas dirinda.
+
+REBEKKA
+
+Kion vi aludas?
+
+KROLL
+
+Se povus fariĝi, ke vi prenus la vakan lokon —
+
+REBEKKA
+
+Mi havas la lokon, kiun mi deziras, sinjoro rektoro.
+
+KROLL
+
+En ago, jes; sed ne en —
+
+REBEKKA
+
+(interrompante serioze) Honto al vi, rektoro Kroll. Kiel vi povas
+ŝerci pri tiaĵo?
+
+KROLL
+
+Ho jes, iel nia bona Johannes Rosmer eble opinias, ke li havis pli ol
+sufiĉe da edzeco. Sed tamen —
+
+REBEKKA
+
+Aŭdu, — mi preskaŭ devas priridi vin.
+
+KROLL
+
+Tamen —. Diru, fraŭlino West —. Se permesiĝas la demando —. Kiom
+aĝa vere estas vi?
+
+REBEKKA
+
+Honte dirite mi ja plenumis mian dudeknaŭan, sinjoro rektoro. Mi
+estas nun en mia trideka.
+
+KROLL
+
+Nu-ja. Kaj Rosmer, — kiom aĝa estas li? Mi pripensu. Li havas kvin
+jarojn malpli ol mi. Do li plenumis la kvardektrian. Ŝajnas al mi,
+ke bone konvenus.
+
+REBEKKA
+
+(ekstaras) Certe, certe. Bone konvenus. — Ĉu vi trinkos teon kune
+kun ni ĉi-vespere?
+
+KROLL
+
+Jes, dankon. Mi intencis iomete resti. Ĉar estas afero, kiun mi
+devas priparoli kun nia bona amiko. — Kaj, fraŭlino West, por ke vi
+ne ekhavu malĝustajn pensojn denove, mi ofte vizitetos vin, — kiel
+pasinte.
+
+REBEKKA
+
+Ho jes, faru. (agitas liajn manojn) Dankon, dankon! Vi tamen vere
+estas afabla.
+
+KROLL
+
+(murmuras) Ĉu? Jen pli ol kion mi aŭdas hejme.
+
+(_Johannes Rosmer_ envenas tra la pordo dekstre.)
+
+REBEKKA
+
+Sinjoro Rosmer, — ĉu vi vidas kiu sidas tie?
+
+JOHANNES ROSMER
+
+Sinjorino Helseth diris.
+
+(_Rektoro Kroll_ ekstaris.)
+
+ROSMER
+
+(milde kaj mallaŭte, premas liajn manojn) Bonvenon denove al la
+domo, kara Kroll. (metas la manojn sur liajn ŝultrojn kaj rigardas
+lin en la okulojn) Vi kara, bona amiko! Mi ja sciis, ke iam fine
+fariĝus inter ni kiel antaŭe.
+
+KROLL
+
+Sed bona homo, — ĉu ankaŭ vi enteksiĝis en tiun frenezan
+imagaĵon, ke io misestus!
+
+REBEKKA
+
+(al _Rosmer_) Jes, imagu, — kiel bonege estas, ke nur estis
+imagaĵo.
+
+ROSMER
+
+Ĉu vere estis, Kroll? Sed kial vi tiel tute retiris vin de ni?
+
+KROLL
+
+(sincere kaj mallaŭte) Ĉar mi ne volis reaperanti kiel memoro pri
+viaj malfeliĉaj jaroj — kaj pri ŝi, — kiu trovis finon en la
+mueleja akvofalo.
+
+ROSMER
+
+Estis ja bela penso de vi. Vi ĉiam estas indulga. Sed vi
+tute ne bezonis teni vin fore pro tiu kaŭzo. — Venu; ni eksidu en
+la sofon. (ili eksidas) Ne aspektas por mi dolore pensi pri Beate.
+Ĉiun tagon ni parolas pri ŝi. Ŝi ja daŭre apartenas al la domo,
+ni trovas.
+
+KROLL
+
+Ĉu vere?
+
+REBEKKA
+
+(eklumigas la lampon) Jes, ni vere faras.
+
+ROSMER
+
+Estas ja senĝene. Ni ambaŭ amis ŝin kore. Kaj ambaŭ ni, Rebek—
+fraŭlino West kaj mi, ni scias en ni mem, ke ni faris ĉion eblan
+por la kompatinda suferantino. Estas nenio por riproĉi nin. — Ial,
+mi trovas, ke estas io milda kaj dolĉa en la penso pri Beate nun.
+
+KROLL
+
+Vi karaj bonaj homoj! De nun mi venos vizite ĉiun tagon.
+
+REBEKKA
+
+(eksidas en apogseĝon) Jes, ke ni vidu, ke vi tenu vian vorton.
+
+ROSMER
+
+(iomete hezite) Vi Kroll, — mi ege dezirus, ke nia interrilato
+neniam estus interrompita. Vi ja estis, la memkomprenebla konsilanto
+por mi tiom longe kiom ni interkonatiĝis. Ekde kiam mi fariĝis
+studento.
+
+KROLL
+
+Nu ja; kaj tion mi alte estimas. Ĉu estas io aparta —?
+
+ROSMER
+
+Pri multo kaj multe mi dezirus senĝene paroli kun vi. Iel intime el
+la koro.
+
+REBEKKA
+
+Jes, ĉu ne, sinjoro Rosmer? Ŝajnas al mi, ke estus bone — inter
+malnovaj amikoj —
+
+KROLL
+
+Ho, sciu, ke mi havas eĉ pli por priparoli kun vi. Ĉar nun mi
+fariĝis aktiva politikisto, kiel vi certe scias.
+
+ROSMER
+
+Jes, vi ja fariĝis. Kiel tio efektive okazis?
+
+KROLL
+
+Mi devis. Devis, kvankam senvola mi estis. Ne eblas nun stari kiel
+sencela rigardanto. Nun, kiam la radikaluloj bedaŭrinde prenis la
+potencon, — nun jam urĝas —. Tial mi ja igis nian etan rondon de
+amikoj en la urbo unuiĝi pli dense. Ja urĝas, mi diras!
+
+REBEKKA
+
+(kun rideto) Ĉu vere ne estas iom malfrue?
+
+KROLL
+
+Sendube estus pli avantaĝe, se ni estus haltiginta la evoluon je pli
+frua tempopunkto. Sed kiu povus antaŭvidi tion, kio venus? Almenaŭ
+mi ne. (ekstaras kaj paŝadas sur la planko) Jes, nun mi efektive
+malfermis la okulojn. Ĉar nun la ribela spirito eĉ penetris en la
+lernejon.
+
+ROSMER
+
+En la lernejon? Do ne en vian lernejon?
+
+KROLL
+
+Ĝuste tiel. En mian propran lernejon. Kion vi pensas! Mi malkovris,
+ke la knaboj en la plej supera klaso, — nu, kelkaj el la knaboj, —
+dum duona jaro ili havas sekretan asocion, kaj en ĝi ili abonas la
+gazeton de Mortensgård!
+
+REBEKKA
+
+Nu, “La Lumturon”.
+
+KROLL
+
+Jes, ĉu ne ŝajnas al vi, ke estas saniga animnutraĵo por estontaj
+publikaj oficistoj, ĉu? Sed la plej bedaŭrinda en la afero estas,
+ke estas la plej naturdotitaj knaboj en la klaso kiuj konspiris kaj
+faris tiun komploton kontraŭ mi. Estas nur la fuŝuloj kaj la
+postrestantoj, kiuj detenis sin.
+
+REBEKKA
+
+Ĉu tio tuŝas vin tiel forte, rektoro?
+
+KROLL
+
+Ĉu tuŝas min! Tiel vidi min malhelpata kaj kontraŭlaborata en mia
+vivoverko. (pli mallaŭte) sed mi povus diri, ke _tio_ povus esti
+kiel estas. Sed nun venas la plej malbona (ĉirkaŭrigardas) Ĉu
+estas iu kiu ŝtelaŭskultas ĉe la pordoj?
+
+REBEKKA
+
+Ho, tute ne.
+
+KROLL
+
+Do sciu, ke la malakordo kaj ribelo penetris en mian propran domon.
+En mian propran, trankvilan hejmon. Maltrankviligis por mi la hejman
+pacon.
+
+ROSMER
+
+(ekstaras) Kion vi diras! Hejme ĉe vi —?
+
+REBEKKA
+
+(iras al la rektoro) Sed kara, kio do okazis?
+
+KROLL
+
+Imagu, ke miaj propraj infanoj —. Mallonge, — estas Laŭrits, kiu
+estras la lernejan komploton. Kaj Hilda brodis ruĝan dokumentujon
+por stoki “La Lumturon”.
+
+ROSMER
+
+Tion mi eĉ neniam sonĝus, — ke ĉe vi, — en via domo —
+
+KROLL
+
+Ne, kiu sonĝus pri tiaĵo? En mia domo, kie ĉiam regis obeemo kaj
+ordo, — kie ĝis nun regis unu sola samopinia volo —
+
+REBEKKA
+
+Kiel traktas via edzino tion ĉi?
+
+KROLL
+
+Nu vidu, tio estas la plej nekredebla el ĉio. Ŝi, kiu ĉiujn siajn
+tagojn — en aferoj gravaj kaj malgravaj — samopiniis kun mi kaj
+akceptis miajn vidpunktojn, ŝi ne ĝenas sin klini al la flanko de
+la infanoj en multaj rilatoj. Kaj krome ŝi kulpigas _min_ pro la
+okazaĵoj. Ŝi diras, ke mi subpremas la junulojn. Eĉ se ja necesus,
+ke —. Nu, tiel la malpaco regas hejme. Sed tion mi priparolas plej
+eble malmulte, kompreneble. Tiaĵon oni ja prefere silentigu.
+(paŝadas) Nu ja, nu ja, nu ja. (Li haltas ĉe la fenestro kun la
+manoj surdorse kaj elrigardas.)
+
+REBEKKA
+
+(proksimiĝis al _Rosmer_ kaj diras mallaŭte kaj nerimarkate de la
+_rektoro_) Faru!
+
+ROSMER
+
+(sammaniere) Ne ĉi-vespere!
+
+REBEKKA
+
+(kiel antaŭe) Jes, ĝuste nun. (Ŝi prenas lokon apud la lampo.)
+
+KROLL
+
+(paŝas antaŭen) Jes, mia kara Rosmer, nun vi do scias, kiel la
+moderna spirito ĵetis siajn ombrojn en mian hejman vivon kiel sur
+mian oficialan laboron. Kaj tiun koruptan, degenerigan spiriton, ĉu
+mi ne kontraŭbatalu ĝin per ĉiuj armiloj ekhaveblaj? Ho jes, tion
+mi intencas. Kaj en skribo kaj en parolo.
+
+ROSMER
+
+Ĉu vi ankaŭ esperas ion atingi tiel?
+
+KROLL
+
+Mi almenaŭ servu mian ŝtatanecan devigan servon. Kaj mi opinias, ke
+estas la devo de ĉiu patriamanto kaj por ĉiu, kiu havas zorgon por
+la bona tasko, fari la samon. Vidu, — pro tio mi ja venis ĉi tien al
+vi ĉi-vespere.
+
+ROSMER
+
+Sed kara, al kio vi aludas —? Kion mi povas —?
+
+KROLL
+
+Vi helpu viajn malnovajn amikojn. Faru kiel ni aliuloj. Asistu kiel
+vi plej eble povas.
+
+REBEKKA
+
+Sed rektoro Kroll, vi ja scias pri la malemo de sinjoro Rosmer
+partopreni en tiaĵo.
+
+KROLL
+
+Tiun malemon li devas venki nun. — Vi ne sufiĉe informiĝas,
+Rosmer. Vi sidas ĉi tie inter muroj kun viaj historiaj kolektaĵoj.
+Bona Dio, — respekto por genealogio kaj ĉio apartenanta al ĝi. Sed
+la tempo ne estas por tiaj okupoj — bedaŭrinde. Vi ne imagas, kiel
+estas la stato ekstere en la socio. Turniĝis preskaŭ ĉiuj
+konceptoj. Bezoniĝas giganta laboro por ree forigi ĉiujn tiujn
+erarojn.
+
+ROSMER
+
+Mi ja kredas. Sed tia laboro ne konvenas al mi.
+
+REBEKKA
+
+Kaj mi ankaŭ opinias, ke sinjoro Rosmer atingis al nova vido sur la
+aferoj en la vivo, kaj vidas per pli malfermaj okuloj ol antaŭe.
+
+KROLL
+
+(en surprizo) Pli malfermaj?
+
+REBEKKA
+
+Jes, aŭ pli liberaj do. Pli senantaŭjuĝaj.
+
+KROLL
+
+Kion tio signifas? Rosmer, — vi do ne estas tiel malforta, ke vi
+lasus vin logi de tia hazarda okazaĵo, kiam la amas-estrantoj gajnis
+tempan venkon!
+
+ROSMER
+
+Kara, vi ja scias, kiel malmulte mi komprenas la politikon. Tamen
+ŝajnas al mi, ke en la lastaj jaroj penetriĝis iom pli da
+sendependeco en la pensojn de la unuopuloj.
+
+KROLL
+
+Nu, — kaj tion vi estimas tiel senpere kiel bonon? Cetere vi grave
+eraras, mia amiko. Informiĝu pri la opinioj, kiuj valoras inter la
+radikaluloj, kaj ĉi tie kaj en la urbo. Ne estas snufo alia ol la
+saĝo predikata en “La Lumturo”.
+
+REBEKKA
+
+Jes, Mortensgård potencas super multuloj en la najbareco.
+
+KROLL
+
+Jes, imagu! Viro kun tia kotigita pasinteco. Homo, kiu pro maldeca
+rilato estas forkondamnita de sia instruista posteno —! Tia ulo
+komencas roli kiel popola gvidanto! Kaj li sukcesas! Li efektive
+sukcesas! Nun li volas pliampleksigi sian gazeton, mi aŭdas. Mi
+scias de fidinda fonto, ke li serĉas taŭgan kunlaboranton.
+
+REBEKKA
+
+Ŝajnas al mi strange, ke vi kaj viaj amikoj ne starigas ion kontraŭ
+lin.
+
+KROLL
+
+Estas ĝuste, kion ni nun volas fari. Hodiaŭ ni aĉetis “La
+Gubernian Gazeton”. La aĉetsumo ne prezentis malfacilaĵon. Sed
+— (turnas sin al Rosmer) Jes, nun mi venas al mia vera misio al vi.
+Estas la estrado, — la ĵurnalista estrado, kiu mankas al ni,
+komprenu. — Diru, Rosmer, — ĉu ne vi pro la bona afero sentus vin
+vokata por transpreni ĝin?
+
+ROSMER
+
+(preskaŭ terurigata) Mi!
+
+REBEKKA
+
+Sed kiel povas vi pensi tiaĵon?
+
+KROLL
+
+Ke vi timas la popolajn kunvenojn, kaj ne volas nudigi vin al la
+traktado, kiu _tie_ prezentiĝas, estas ja sufiĉe kompreneble. Sed
+la pli retirita agado de redaktoro, aŭ, por pli ĝuste diri —
+
+ROSMER
+
+Ne, ne, kara amiko, ne petu min pri tio ĉi.
+
+KROLL
+
+Mi mem volonte ŝatus eksperimenti ankaŭ en _tiu_ flanko. Sed estus
+tute nefareble por mi. Mi estas jam antaŭe tiom ŝarĝita de
+sennombraj farendaĵoj —. Vi, kontraŭe, kiu ne plu premiĝas de iu
+publika ofica laboro, — Ni aliuloj kompreneble helpos vin laŭ
+ebleco.
+
+ROSMER
+
+Mi ne povas, Kroll. Mi ne taŭgas al tio.
+
+KROLL
+
+Ne taŭgas? La sama vi diris, kiam via patro havigis al vi la
+pastorecon —
+
+ROSMER
+
+Mi pravis. Tial mi ja forlasis ĝin.
+
+KROLL
+
+Ho, se vi fariĝos same bona redaktoro, kiel vi estis pastro, ni
+estos kontentaj.
+
+ROSMER
+
+Kara Kroll, — mi nun diras al vi fojon finan, — mi ne faros.
+
+KROLL
+
+Nu, sed vian nomon vi tamen pruntedonu al ni?
+
+ROSMER
+
+Mian nomon?
+
+KROLL
+
+Jes, eĉ nur la nomo Johannes Rosmer estos gajno por la gazeto. Ni
+aliuloj ja nur valoras kiel tipaj partianoj. Mi mem estas eĉ
+elkriita kiel aĉa fanatikulo, mi aŭdas. Tial ni ne povas esperi,
+sub propra nomo, havigi al la gazeto akcepton inter la misgviditaj
+amasoj. Vi, kontraŭe, — vi ĉiam tenis vin ekster la lukto. Via
+milda, honesta animo, — via alta pensmaniero, — via senriproĉa
+honesteco estas konata kaj taksata de ĉiuj en niaj rondoj. Kaj la
+estimo kaj respekto, kiujn via antaŭa pastra ofico donas al vi! Kaj
+fine la honorinda familia nomo!
+
+ROSMER
+
+Ho la familia nomo —
+
+KROLL
+
+(montras al la portretoj) Rosmeroj de Rosmersholm, pastroj kaj
+oficiroj. Alte konfiditaj publikaj oficistoj. Seneraraj honestuloj
+ĉiuj, — familio, kiu nun baldaŭ du jarcentojn sidas ĉi tie kiel
+la plej eminenta en la distrikto. (metas la manon sur lian ŝultron)
+Rosmer, — vi devas al vi mem kaj al la tradicioj de via parencaro
+kuniri kaj defendi tion, kio estas ĝis nun akceptita en nia socio.
+(turnas sin) Jes, kion _vi_ diras, fraŭlino West?
+
+REBEKKA
+
+(kun silenta rido) Kara rektoro, — por mi tio ĉi aspektas nedireble
+ridinde.
+
+KROLL
+
+Kio! Ridinde?
+
+REBEKKA
+
+Jes, ĉar nun mi volas diri al vi tute malkaŝe —
+
+ROSMER
+
+(rapide) Ne, ne, — ne faru! Ne nun!
+
+KROLL
+
+(rigardas ilin laŭvice) Sed kio do, je la granda mondo, karaj amikoj
+—? (interrompas) Hm! (_Sinjorino Helseth_ venas en la pordo
+dekstre.)
+
+SINJORINO HELSETH
+
+Jen estas viro en la kuireja koridoro. Li diras, ke li volas saluti
+la pastoron.
+
+ROSMER
+
+(malpezigita) Ho nu. Jes petu lin bonvole enveni.
+
+SINJORINO HELSETH
+
+Ĉi tien en la sidĉambron?
+
+ROSMER
+
+Jes ja.
+
+SINJORINO HELSETH
+
+Sed li ne aspektas tiel, ke oni povas inviti lin en la sidĉambron.
+
+REBEKKA
+
+Kiel li do aspektas, sinjorino Helseth?
+
+SINJORINO HELSETH
+
+Ho, ne estas vere bele, fraŭlino.
+
+ROSMER
+
+Li ne diris kiel li nomiĝas, ĉu?
+
+SINJORINO HELSETH
+
+Jes, ŝajnas al mi, ke li nomas sin Hekman aŭ ion tian.
+
+ROSMER
+
+Mi konas neniun kun tiu nomo.
+
+SINJORINO HELSETH
+
+Kaj li ankaŭ diris, ke li nomiĝas Ulrik.
+
+ROSMER
+
+(mire) Ulrik Hetman! Ĉu tiel?
+
+SINJORINO HELSETH
+
+Jes, Hetman li diris.
+
+KROLL
+
+Tiun nomon mi ja antaŭe aŭdis —
+
+REBEKKA
+
+Estas ja sub tiu nomo ke li skribis, li, tiu strangulo —
+
+ROSMER
+
+(al _Kroll_) Estas la pseŭdonimo de Ulrik Brendel.
+
+KROLL
+
+La pereulo Ulrik Brendel. Ĝuste.
+
+REBEKKA
+
+Nu, do li daŭre vivas.
+
+ROSMER
+
+Li ĉirkaŭveturis kun teatra asocio, mi opiniis.
+
+KROLL
+
+La lasta kion mi aŭdis pri li, estis ke li sidas en punlaborejo.
+
+ROSMER
+
+Petu lin enveni, sinjorino Helseth.
+
+SINJORINO HELSETH
+
+Jes, jes. (Ŝi eliras.)
+
+KROLL
+
+Ĉu vi vere volas toleri tiun homon en via salono?
+
+ROSMER
+
+Ho, vi ja scias, ke li estis mia instruisto dum ioma tempo.
+
+KROLL
+
+Jes, mi scias ke li vizitadis ĉi tie ŝtopante vian kapon per
+revoluciaj opinioj, kaj ke via patro forpelis lin per sia rajdvipo.
+
+ROSMER
+
+(iomete amare) Patro estis majoro ankaŭ hejme en sia domo.
+
+KROLL
+
+Vi danku lin pro tio en lia tombo, mia kara Rosmer. Nu!
+
+(_Sinjorino Helseth_ malfermas la pordon dekstre por _Ulrik Brendel_,
+eliras kaj fermas la pordon post li. Li havas imponan staturon, sed
+estas iom malgrasa tamen vigla, kaj kun grizaj haroj kaj barbo.
+Cetere vestita kiel ordinara vagabondo. Eluzita surtuto; malbonaj
+ŝuoj, ĉemizo ne vidiĝas. Malnovaj nigraj gantoj; mola malpura
+ĉapelo kunpremita sub la brako kaj promena bastono en la mano.)
+
+ULRIK BRENDEL
+
+(unue necerta, iras rapide al la rektoro kaj etendas al li la manon)
+Bonan vesperon, Johannes!
+
+KROLL
+
+Pardonu —
+
+BRENDEL
+
+Ĉu vi ne atendis revidi min? Kaj inter ĉi tiuj malbenitaj muroj?
+
+KROLL
+
+Pardonu —. (montras) _Tie_ —
+
+BRENDEL
+
+(turnas sin) Ĝuste. Jen li estas. Johannes, — mia knabo, — vi,
+kiun mi pleje amis —!
+
+ROSMER
+
+(etendas al li la manon) Mia antaŭa instruisto.
+
+BRENDEL
+
+Spite al certaj memoraĵoj mi tamen ne volis preterpasi Rosmersholm
+sen fari rapidan viziteton.
+
+ROSMER
+
+Nun vi ja estas kore bonvena, sciu.
+
+BRENDEL
+
+Ah, tiu alloga sinjorino —? (kapklinas) La provostino kompreneble.
+
+ROSMER
+
+Fraŭlino West.
+
+BRENDEL
+
+Supozeble proksima parencino. Kaj tiu nekonato —? Publika, ofica
+frato, mi vidas.
+
+ROSMER
+
+Rektoro Kroll.
+
+BRENDEL
+
+Kroll? Kroll? Atendu iomete. Ĉu vi studis filologion en viaj junaj
+tagoj?
+
+KROLL
+
+Jes, kompreneble.
+
+BRENDEL
+
+Sed _Donnerwetter_, do mi ja konis vin!
+
+KROLL
+
+Pardonu —
+
+BRENDEL
+
+Ĉu vi ne estis —
+
+KROLL
+
+Pardonu —
+
+BRENDEL
+
+— unu el tiuj trabantoj por dececo, kiuj eksigis min el la
+diskutasocio?
+
+KROLL
+
+Eblas. Sed mi protestas kontraŭ ĉiu ajn konateco proksima.
+
+BRENDEL
+
+Nu-nu! _Nach Belieben_, sinjoro doktoro. Estas por mi egale. Ulrik
+Brendel tamen restos la sama viro.
+
+REBEKKA
+
+Vi intencas iri al la urbo, ĉu, sinjoro Brendel?
+
+BRENDEL
+
+Sinjorino pastorino pravas. Kun certaj interspacoj mi devas lukti por
+la ekzistado. Mi ne volonte faras; sed — _enfin_ — la prema neceso —
+
+ROSMER
+
+Ho, kara sinjoro Brendel, permesu al mi helpi vin pri io, ĉu? Iel,
+mi pensas —
+
+BRENDEL
+
+Ha, tia propono! Ĉu vi volus makuli la ligilon kiu kunligas nin?
+Neniam, Johannes, — neniam!
+
+ROSMER
+
+Sed kion vi do intencas fari en la urbo? Sciu, ke ne estos facile por
+vi —
+
+BRENDEL
+
+Lasu tion al mi, mia knabo. La ĵetkubo rulis. Kiel mi nun staras
+antaŭ vi, mi estas faranta ampleksan vojaĝon. Pli ampleksan ol
+ĉiujn miajn antaŭajn ekskursojn entute. (al rektoro Kroll) Ĉu mi
+kuraĝus demandi la profesoron — _unter uns_ —, ĉu troviĝas iu
+iom deca, respektinda kaj spaca kunvenejo en via respektinda urbo?
+
+KROLL
+
+La plej spaca estas la ĉambrego de la laborista asocio.
+
+BRENDEL
+
+Ĉu la docento havas iun kvalifikan influon en tiu certe tre utila
+asocio?
+
+KROLL
+
+Mi ne miksiĝas en tiun asocion.
+
+REBEKKA
+
+(al Brendel) Vi devas turni vin al Peder Mortensgård.
+
+BRENDEL
+
+Pardonu, _madame_, — kia stultulo estas li?
+
+ROSMER
+
+Kial vi absolute kredu, ke li estas stultulo?
+
+BRENDEL
+
+Ĉu vi ne tuj aŭdas el lia nomo, ke ĝin portas plebano?
+
+KROLL
+
+Tiun respondon mi ne estus atendinta.
+
+BRENDEL
+
+Sed mi volas venki mian antaŭjuĝon. Nenio alia eblas. Kiam oni, —
+tiel kiel mi, — staras ĉe turnopunkto en mia vivo —. Decidite. Mi
+kontaktos la personon, — malfermos rektajn intertraktadojn —
+
+ROSMER
+
+Ĉu vi vere staras sur turnopunkto?
+
+BRENDEL
+
+Ĉu mia knabo ne scias, ke tie kie Ulrik Brendel staras, tie li ĉiam
+staras en sincereco? — Jes aŭdu, nun mi volas vesti min per nova
+homeco. Elpaŝi el la modesta retenemeco, kiun mi ĝis nun observis.
+
+ROSMER
+
+Kiel —?
+
+BRENDEL
+
+Mi volas estri la vivon per agema mano. Ekstari. Ekiri. Ni nun spiras
+en ŝtormo de turniĝa tempo. Nun mi volas meti mian obolon sur la
+altaron de la libereco.
+
+KROLL
+
+Ĉu ankaŭ _vi_ —?
+
+BRENDEL
+
+(al ĉiuj) Ĉu la publiko ĉi tie iom proksime konas miajn diversajn
+skribaĵojn?
+
+KROLL
+
+Ne, mi devas sincere konfesi, ke —
+
+REBEKKA
+
+Mi legis multe. Ĉar mia propatro posedis ilin.
+
+BRENDEL
+
+Bela dommastrino, — tiuokaze vi forludis vian tempon. Ĉar estas ja
+nur babilaĵo, mi diras.
+
+REBEKKA
+
+Nu?
+
+BRENDEL
+
+Tio kion vi legis, jes. Miajn gravajn verkojn nek viro nek virino
+konas. Neniu — krom mi mem.
+
+REBEKKA
+
+Kiel do _tio_?
+
+BRENDEL
+
+Ĉar ili ne estas skribitaj.
+
+ROSMER
+
+Sed kara sinjoro Brendel —
+
+BRENDEL
+
+Vi scias, mia Johannes, ke mi iome estas sibarito. _Feinschmecker_.
+Tia mi estis ĉiujn miajn tagojn. Mi ŝatas ĝui en soleco. Ĉar tiam
+mi ĝuas duoble. Dek fojojn duoble. Vidu, — kiam orumitaj revoj
+malsupreniĝis sur min, — ĉirkaŭnebuligis min, — kiam novaj,
+vertiĝigaj, vastatingaj pensoj naskiĝis en mi, — ĉirkaŭflagris
+min per flugportantaj flugiloj, — tiam mi ĉion formis en verkoj, en
+vizioj, en bildoj. Nu, tiel en grandskizaj konturoj, vi ja komprenas.
+
+ROSMER
+
+Jes ja.
+
+BRENDEL
+
+Ho, kiom mi ĝuis kaj glutis dum miaj tagoj! La enigma feliĉego de
+formado, — nu, tiel en grandskizaj konturoj, kiel dirite, — la
+aplaŭdon, la dankon, la famon, la laŭrokronon, — ĉion mi
+enkaŝigis per plenaj, ĝojotremantaj manoj. Satigis min en mia
+sekretaj imagoj kun ĝojego, — ho, vertiĝige granda —!
+
+KROLL
+
+Hm —.
+
+ROSMER
+
+Sed neniam ion skribis?
+
+BRENDEL
+
+Eĉ ne vorton. Tiu banala skribadmetio ĉiam vekis en mi naŭzan
+malemon. Kaj kial profanigi miajn proprajn idealojn, kiam mi povis
+ĝui ilin en pureco sola? Sed nun ili oferiĝos. Vere, — mi havas
+senton kiel patrino, kiu metas junajn filinojn en la brakojn de
+edzoj. Sed mi tamen oferos ilin, — oferos ilin sur la altaro de
+liberigo. Vico de bone formitaj prelegoj — tra la tuta lando —!
+
+REBEKKA
+
+(vigle) Estas granda faro de vi, sinjoro Brendel! Vi donas vian plej
+valoran posedaĵon.
+
+ROSMER
+
+La solan.
+
+REBEKKA
+
+(rigardas al Rosmer signifoplene) Kiom da homoj faras tion? Kiuj
+_kuraĝas_.
+
+ROSMER
+
+(reciprokas la rigardon) Kiu scias?
+
+BRENDEL
+
+La asembleo estas kortuŝata. Tio revivigas mian koron — fortigas
+la volon. Kaj mi do paŝos al ago. Tamen unu afero —. (al la
+rektoro) Bonvolu diri ĉu troviĝas en la urbo abstina societo?
+Totalabstinenca societo? Kompreneble troviĝas.
+
+KROLL
+
+Jes, je via servo. Mi mem estas estro.
+
+BRENDEL
+
+Vere vi ja tiel aspektas! Nu, do eblas ke mi venu hejmen al vi por
+enskribi min por semajno.
+
+KROLL
+
+Pardonu, — ni ne akceptas membrojn semajnajn.
+
+BRENDEL
+
+_À la bonheur_, sinjoro pedagogo. Ulrik Brendel neniam kuradis la
+pordojn de tiaj societoj. (turnas sin) Sed mi ne kuraĝas daŭrigi
+mian restadon en tiu ĉi domo, tiel riĉa pri memoroj. Mi devas iri
+al la urbo por elekti konvenan loĝejon. Troviĝas certe deca hotelo,
+mi esperas.
+
+REBEKKA
+
+Ĉu vi ne volas trinki ion varman, antaŭ ol vi foriros?
+
+BRENDEL
+
+Kian varman, sinjorina Moŝto?
+
+REBEKKA
+
+Tason da teo aŭ —
+
+BRENDEL
+
+Mi dankas la malavaran mastrinon. Sed mi ne volonte okupas la
+privatan gastemon. (mansalutas) Fartu bone, gesinjoroj! (iras al la
+pordo, sed returnas) Ho, jen mi memoras —. Johannes, — pastoro
+Rosmer, — ĉu vi bonvolas fari al via iama instruisto servon pro
+multjara amikeco?
+
+ROSMER
+
+Jes, kore.
+
+BRENDEL
+
+Bone. Pruntedonu al mi — por tago aŭ du — gladitan manumĉemizon.
+
+ROSMER
+
+Nur tion!
+
+BRENDEL
+
+Ĉar, vidu, mi vojaĝas piede — ĉi tiun fojon. Mia valizo sendiĝas
+poste.
+
+ROSMER
+
+Jes bone. Sed ĉu ne estas io alia?
+
+BRENDEL
+
+Jes, pripense, — vi povus eble malhavi malnovetan, uzitan
+somersurtuton?
+
+ROSMER
+
+Jes, jes, certe mi povas.
+
+BRENDEL
+
+Kaj se al la surtuto apartenas paro da konvenaj ŝuoj —
+
+ROSMER
+
+Certe eblos. Tuj kiam ni scios vian adreson, ni sendos al vi la
+aĵojn.
+
+BRENDEL
+
+Neniel. Neniu ĝeno pro mi! Mi kunprenu tiujn bagatelaĵojn.
+
+ROSMER
+
+Bone, bone. Do sekvu min supren.
+
+REBEKKA
+
+Prefere mi faru. Lasu al sinjorino Helseth kaj mi prizorgi tion.
+
+BRENDEL
+
+Neniam mi permesas al ĉi tiu alte distingita sinjorino —!
+
+REBEKKA
+
+Nu do! Venu vi, sinjoro Brendel. (Ŝi eliras dekstre.)
+
+ROSMER
+
+(retenas lin) Diru, — ĉu ne estas io alia, per kio mi povus servi
+vin?
+
+BRENDEL
+
+Mi vere ne scias kio _tio_ estus. Jes, morto kaj infero, — kiam mi
+pripensas —! Johannes, — ĉu vi hazarde havas ok kronojn en la
+poŝo?
+
+ROSMER
+
+Nun ni vidu. (malfermas la monujon) Jen du dekkronaj biletoj.
+
+BRENDEL
+
+Jes, jes, taŭgas. Mi povas preni ilin. Povos certe ŝanĝi en la
+urbo. Dankon ĝis poste. Memoru, ke estas du dekkronaj biletoj, kiujn
+mi ricevis. Bonan nokton, vi, mia plej kara knabo! Bonan nokton
+estimata sinjoro!
+
+
+(Li eliras dekstre, kie _Rosmer_ adiaŭas kaj fermas la pordon post li.)
+
+KROLL
+
+Kompatema Dio, — _tio_ do estas tiu Ulrik Brendel, pri kiu la homoj
+kredis, ke li fariĝus io alta en la mondo.
+
+ROSMER
+
+(silente) Li tamen kuraĝis vivi la vivon laŭ sia propra intenco.
+Ŝajnas al mi, ke _tio_ tamen ne estas eta.
+
+KROLL
+
+Ĉu? Vivo kiel la lia! Preskaŭ aspektas ke li estas viro kapabla por
+konfuzi viajn ideojn ankoraŭfoje.
+
+ROSMER
+
+Ho ne. Mi nun atingis al kompreno de la problemoj.
+
+KROLL
+
+Ke estus tiel bone, kara Rosmer. Ĉar vi ja estas tre sentema por
+influo de ekstere.
+
+ROSMER
+
+Ni eksidu. Kaj mi volas paroli kun vi.
+
+KROLL
+
+Jes, ni faru. (Ili eksidas sur la sofon.)
+
+ROSMER
+
+(post iom) Ĉu ne ŝajnas al vi, ke estas bone kaj hejmece ĉe ni?
+
+KROLL
+
+Jes, fariĝis bone kaj hejmece — kaj pace. Jes, vi ekhavis hejmon,
+vi, Rosmer. Kaj mi perdis la mian.
+
+ROSMER
+
+Kara, ne tiel parolu. Kio nun estas disigita, denove kunfandiĝos.
+
+KROLL
+
+Neniam. Neniam. La dorno restas. Neniam fariĝos kiel antaŭe.
+
+ROSMER
+
+Aŭdu nun, Kroll. Ni du ja staris proksime unu al la alia dum multaj,
+multaj jaroj. Ĉu vi imagas, ke nia amikeco disrompiĝus?
+
+KROLL
+
+Mi ne imagas ion ajn en la mondo, kio povus disrompi nian rilaton.
+Kiel vi ekhavis tian ideon?
+
+ROSMER
+
+Ĉar vi tiel forte insistas pri samopinieco en ideoj kaj konceptoj.
+
+KROLL
+
+Nu jes; sed ni du ja grandskale samopinias. Almenaŭ en la altaj,
+kernaj ideoj.
+
+ROSMER
+
+(pli mallaŭte) Ne. Ne plu.
+
+KROLL
+
+(volas eksalti) Kion tio signifas!
+
+ROSMER
+
+(tenas lin) Ne, vi sidu. Mi petas vin, Kroll.
+
+KROLL
+
+Kio estas? Mi ne komprenas vin. Parolu klare!
+
+ROSMER
+
+Venis nova somero en mian animon. Nova junula vizio. Kaj tial mi nun
+staras _tie_ —
+
+KROLL
+
+Kie, — kie vi staras?
+
+ROSMER
+
+Kie viaj infanoj staras!
+
+KROLL
+
+Vi? Vi! Neeblas! Kie vi staras, vi diras?
+
+ROSMER
+
+Ĉe la flanko de Laŭrits kaj Hilda.
+
+KROLL
+
+(klinas la kapon) Apostato. Johannes Rosmer apostato.
+
+ROSMER
+
+Mi sentus min ĝoja, — korege ĝoja esti tio, kion vi nomas
+apostato. Sed mi tamen suferis. Ĉar mi ja sciis, ke kaŭzus al vi
+amaran ĉagrenon.
+
+KROLL
+
+Rosmer, — Rosmer! Tion ĉi mi neniam trapasos. (rigardas lin
+pezmiene) Ho, ĉu ankaŭ vi volas etendi manon al la degeneriganta
+kaj detruanta agado en tiu ĉi malfeliĉa lando.
+
+ROSMER
+
+Estas agado por libereco, al kiu mi volas aliĝi.
+
+KROLL
+
+Jes, mi ja scias. Tiel ĝi nomiĝas kaj de la delogantoj kaj de la
+delogitoj. Sed ĉu vi opinias, ke estas libereco atendinda el tiu
+spirito, kiu nun venenigadas nian tutan socian vivon?
+
+ROSMER
+
+Mi ne aliĝas al tiu spirito, kiu regas. Ne al kiu ajn el la
+luktantoj. Mi volas provi unuigi la homojn el ĉiuj flankoj. Tiom
+multaj kaj tiel intime kiel mi kapablas. Mi volas vivi kaj uzi ĉiujn
+fortojn en mia vivo por tio sola, — krei la veran popolan arĥion en
+la lando.
+
+KROLL
+
+Vi do opinias, ke _ni_ ne havas sufiĉan popolan arĥion! Laŭ mi ni
+estas survoje tiriĝi malsupren en la koto, kie cetere la plebanoj
+sentadas sin komforte.
+
+ROSMER
+
+Ĝuste tial mi montre levos la sinceran taskon de la popola arĥio.
+
+KROLL
+
+Kiun taskon?
+
+ROSMER
+
+Fari el ĉiuj homoj en la lando nobelojn.
+
+KROLL
+
+Ĉiuj homoj —!
+
+ROSMER
+
+Almenaŭ tiom multaj kiom eblas.
+
+KROLL
+
+Per kio?
+
+ROSMER
+
+Liberigante la animojn kaj purigante la volojn, mi intencas.
+
+KROLL
+
+Vi estas revanto, Rosmer. Ĉu _vi_ volas liberigi ilin? Ĉu _vi_
+volas purigi ilin?
+
+ROSMER
+
+Ne, kara, — mi nur volas veki ilin. Realigi, — ili devas mem.
+
+KROLL
+
+Kaj vi kredas, ke ili kapablas?
+
+ROSMER
+
+Jes.
+
+KROLL
+
+Per propra forto do?
+
+ROSMER
+
+Jes, ĝuste per propra forto. Ekzistas neniu alia.
+
+KROLL
+
+(ekstaras) Ĉu tio estas paroli, kiel decas al pastro?
+
+ROSMER
+
+Mi ne plu estas pastro.
+
+KROLL
+
+Jes, sed — via infana kredo —?
+
+ROSMER
+
+Mi ne plu havas ĝin.
+
+KROLL
+
+Vi ne havas —!
+
+ROSMER
+
+(ekstaras) Mi forlasis ĝin. Mi _devis_ forlasi ĝin, Kroll.
+
+KROLL
+
+(skuita sed sinrega) Nu ja. — Ja, ja, ja. Unu rezulto do sekvas la
+alian. — Ĉu eble tial vi eliris el la servo de la eklezio?
+
+ROSMER
+
+Jes. Kiam mi komprenis min mem, — kiam mi atingis al plena certeco,
+ke ne estis nura pasanta anima malkvieto, sed estis io de kio mi
+neniam plu povus min liberigi, — tiam mi eliris.
+
+KROLL
+
+Tiom longe ĝi do fermentis en vi. Kaj ni, — viaj amikoj, nenion
+sciis pri ĝi. Rosmer, Rosmer, — kiel povis vi kaŝi tiun
+bedaŭrindan veron por ni!
+
+ROSMER
+
+Ĉar mi opiniis, ke estas afero, kiu nur rilatas al mi mem. Kaj mi ja
+ne volis kaŭzi al vi kaj al la aliaj amikoj nenecesan ĉagrenon. Mi
+pensis, ke mi povus daŭre vivi ĉi tie kiel antaŭe, trankvila kaj
+ĝoja kaj feliĉa. Mi volis legi kaj penetri profunden en la verkojn,
+kiuj antaŭe estis fermitaj libroj por mi. Vere kore enpenetri en la
+grandan mondon de la vero kaj la libereco, kiu nun malkaŝiĝis por
+mi.
+
+KROLL
+
+Apostato. Ĉiu vorto atestas pri tio. Sed kial vi tamen konfesas tiun
+vian sekretan perfidon? Kaj kial ĝuste nun?
+
+ROSMER
+
+Vi mem devigis min, Kroll.
+
+KROLL
+
+Mi? Ĉu mi devigis vin —?
+
+ROSMER
+
+Kiam mi aŭdis pri viaj senbridaj atakoj dum la kunvenoj, — kiam mi
+legis pri la senkora parolo, kiun vi _tie_ faris, — pri ĉiuj viaj
+malamoplenaj atakoj kontraŭ tiuj, kiuj staras ĉe la alia flanko, —
+via mokanta kondamno de la kontraŭuloj —. Ho, Kroll, — ke vi, ke
+vi povus fariĝi tia! Tiam staris sen rifuzo antaŭ mi la devo. La
+homoj fariĝas malbonaj dum la nuna luktado. Devas eniĝi en la
+animojn trankvilo kaj ĝojo kaj repaciĝo. Tial mi nun alpaŝos kaj
+prezentos min malkaŝe _tia_ kia mi estas. Kaj nun mi volas provi
+miajn fortojn, ankaŭ mi. Ĉu vi — de via flanko — povus aliĝi,
+Kroll?
+
+KROLL
+
+Neniam en mia vivo mi kompromisos kun la ruinigantaj fortoj en la
+socio.
+
+ROSMER
+
+Lasu nin tamen lukti per noblaj armiloj, — se ni nepre devas.
+
+KROLL
+
+Kiu ne sekvas min en la decidaj vivkonceptoj, lin mi ne plu konas.
+Kaj al li mi ne ŝuldas indulgon.
+
+ROSMER
+
+Ĉu tio validas ankaŭ por mi?
+
+KROLL
+
+Vi mem rompis kun mi, Rosmer.
+
+ROSMER
+
+Sed ĉu tio ĉi do _estas_ rompo!
+
+KROLL
+
+Tio ĉi! Estas rompo kun ĉiuj tiuj, kiuj ĝis nun staris proksime al
+vi. Vi nun ricevu la sekvojn.
+
+(_Rebekka West_ envenas de dekstre kaj larĝe malfermas la pordon.)
+
+REBEKKA
+
+Jen do; nun li estas survoje al sia granda oferfesto. Kaj nun ni
+povas iri al la tablo. Bonvolu, sinjoro rektoro.
+
+KROLL
+
+(prenas sian ĉapelon) Bonan nokton, fraŭlino West. Ĉi tie mi ne
+plu havas iun mision.
+
+REBEKKA
+
+(ekscitite) Kio estas? (fermas la pordon kaj proksimiĝas) Ĉu vi
+parolis —?
+
+ROSMER
+
+Nun li scias.
+
+KROLL
+
+Ni ne lasos vin el la manoj, Rosmer. Ni devigos vin reveni al ni.
+
+ROSMER
+
+Tien mi neniam revenos.
+
+KROLL
+
+Ni vidos. Vi ne estas viro por stari sola.
+
+ROSMER
+
+Mi tamen ne restos tute sola. — Ni estas du, por porti la solecon
+ĉi tie.
+
+KROLL
+
+Ah —! (suspekto suprenpafiĝas en li) Ankaŭ tio! La vortoj de Beate
+—!
+
+ROSMER
+
+Beate —?
+
+KROLL
+
+(forpuŝas la penson) Ne, ne, — malbele —. Pardonu min.
+
+ROSMER
+
+Kion? Kiel?
+
+KROLL
+
+Ne pli pri tio. Fi! Pardonu min. Adiaŭ! (Li iras al la
+antaŭĉambra pordo.)
+
+ROSMER
+
+(sekvas lin) Kroll! Tiel ne estu fino inter ni. Morgaŭ mi venos al
+vi.
+
+KROLL
+
+(en la antaŭĉambro, turnas sin) Eĉ ne per via piedo en mian domon!
+
+(Li prenas sian bastonon kaj foriras. _Rosmer_ staras momenton en la
+malferma pordo; poste li fermas ĝin kaj iras al la tablo.)
+
+ROSMER
+
+Ne gravas, Rebekka. Ni tamen eltenos. Ni du fidelaj geamikoj. Vi kaj
+mi.
+
+REBEKKA
+
+Pri kio li pensis, laŭ vi, dirante: Fi?
+
+ROSMER
+
+Kara, ne ĝenu vin pri tio. Li eĉ ne mem kredis kion li pensis. Sed
+morgaŭ mi iros al li. Bonan nokton!
+
+REBEKKA
+
+Ĉu vi enlitiĝos tiel frue ankaŭ ĉi-vespere? Post tio ĉi?
+
+ROSMER
+
+Ĉi-vespere kiel kutime. Mi sentas malpeziĝon post la malferma
+klarigo. Vi vidas, — ke mi estas tute trankvila, kara Rebekka.
+Ankaŭ vi estu trankvila. Bonan nokton!
+
+REBEKKA
+
+Bonan nokton, kara amiko! Kaj dormu bone.
+
+(_Rosmer_ eliras tra la antaŭĉambra pordo; poste oni aŭdas lin
+supreniri ŝtuparon. _Rebekka_ aliras kaj tiras sonorilan ŝnuron
+apud la forno. Post iom envenas _sinjorino Helseth_ de dekstre.)
+
+REBEKKA
+
+Vi povas depreni de la tablo, sinjorino Helseth. Ĉar la pastoro
+volas nenion havi, — kaj la rektoro iris hejmen.
+
+SINJORINO HELSETH
+
+Ĉu la rektoro foriris? Kio do estis al la rektoro?
+
+REBEKKA
+
+(prenas sian kroĉaĵon) Li antaŭdiris, ke fariĝos ventego —
+
+SINJORINO HELSETH
+
+Strange. Ĉar ne estas nubeto videbla ĉi-vespere.
+
+REBEKKA
+
+Ke li ne renkontu la blankan ĉevalon. Ĉar mi timas, ke ni baldaŭ
+aŭdos pri tiaj reaperantoj.
+
+SINJORINO HELSETH
+
+Dio pardonu al vi, fraŭlino! Ne parolu tiel timige.
+
+REBEKKA
+
+Nu, nu, nu —
+
+SINJORINO HELSETH
+
+(pli mallaŭte) Ĉu la fraŭlino vere kredas, ke estas iu, kiu
+baldaŭ forpasos?
+
+REBEKKA
+
+Tute ne. Sed estas multspecaj blankaj ĉevaloj en la mondo, sinjorino
+Helseth. — Jes, bonan nokton do. Nun mi iros en mian ĉambron.
+
+SINJORINO HELSETH
+
+Bonan nokton, fraŭlino.
+
+(Rebekka eliras kun sia kroĉaĵo dekstre.)
+
+SINJORINO HELSETH
+
+(malŝraŭbas la lampon, agitas la kapon kaj murmuras al si mem)
+Jeĉjo, — Jeĉjo. Tiu fraŭlino West. Tiel kiel ŝi foje povas
+paroli.
+
+
+
+
+DUA AKTO
+
+
+(Laborĉambro de _Johannes Rosmer_. Enirpordo en la muro maldekstre.
+En la fono estas pordaperturo kun flankentirita kurteno kondukanta al
+la dormoĉambro. Fenestro dekstre, kaj antaŭ ĝi la skribotablo,
+kovrata de libroj kaj paperoj. Librobretoj kaj ŝrankoj ĉe la muroj.
+Simplaj mebloj. Antikva kanapo kun tablo dekstre antaŭe.)
+
+(_Johannes Rosmer_, en hejma surtuto, sidas sur altedorsa seĝo ĉe
+la skribotablo. Li tranĉas foliojn kaj foliumas magazinon, kaj
+rigardas tie ĉi kaj tie.)
+
+(Frapiĝas sur la pordo maldekstre.)
+
+ROSMER
+
+(sen sin turni) Envenu.
+
+(_Rebekka West_ en matena robo envenas.)
+
+REBEKKA
+
+Bonan matenon.
+
+ROSMER
+
+(foliumas la magazinon) Bonan matenon, kara. Ĉu vi ion volas?
+
+REBEKKA
+
+Mi nur volas scii ĉu vi bone dormis?
+
+ROSMER
+
+Ho, mi dormis senzorge kaj ĝuinde. Neniujn sonĝojn —. (turnas sin)
+Kaj vi?
+
+REBEKKA
+
+Ho, dankon. Je matenveno —.
+
+ROSMER
+
+Mi ne memoras, ke mi iam sentis min tiel malpeza en la koro kiel nun.
+Ho, estas vera bono, ke mi povis malkaŝe diri miajn pensojn.
+
+REBEKKA
+
+Jes, vi ne estus devinta silenti tiel longe, Rosmer.
+
+ROSMER
+
+Mi ne mem komprenas, ke mi povis esti tiel malkuraĝa.
+
+REBEKKA
+
+Nu, ne estis do vere malkuraĝo —
+
+ROSMER
+
+Jes, jes, — kiam mi ĝisfunde pripensas, estis ioma malkuraĝo en
+ĝi.
+
+REBEKKA
+
+Des pli kuraĝe ke vi rompis. — (eksidas ĉe li sur seĝo apud la
+skribotablo.) Sed nun mi volas rakonti al vi pri io kion mi faris, —
+kaj espereble vi ne ĉagreniĝu.
+
+ROSMER
+
+Ĉagreniĝu? Kara, kiel vi pensas —?
+
+REBEKKA
+
+Jes, ĉar estis iom memdecide de mi, sed —
+
+ROSMER
+
+Nu, do aŭdigu.
+
+REBEKKA
+
+Hieraŭ vespere, kiam tiu Ulrik Brendel estis forironta, — mi sendis
+kun li du — tri liniojn al Mortensgård.
+
+ROSMER
+
+(iom malkvieta) Sed, kara Rebekka —. Nu, kion vi do skribis?
+
+REBEKKA
+
+Mi skribis, ke li farus al vi bonan servon, se li iomete zorgus pri
+la malfeliĉulo kaj helpus lin per kio eblus.
+
+ROSMER
+
+Kara, tion vi ne estus devinta fari. Vi nur malhelpis al Brendel per
+tio. Kaj Mortensgård estas ja homo, kiun mi deziras teni je distanco
+de mi. Vi ja konas la iaman malagrablaĵon inter ni.
+
+REBEKKA
+
+Sed ĉu vi ne pensas, ke estus avantaĝe, denove ekhavi bonajn
+rilatojn kun li?
+
+ROSMER
+
+Mi? Kun Mortensgård? Kial vi tiel pensas?
+
+REBEKKA
+
+Jes, ĉar vere sekura vi ja ne povas esti nun, — ĉar venis tio ĉi
+inter vi kaj viaj amikoj.
+
+ROSMER
+
+(rigardas ŝin kaj kapskuas) Ĉu vi vere imagis, ke Kroll aŭ iu el
+la aliuloj volus venĝi sin —? Ke ili kapablus —?
+
+REBEKKA
+
+En la unua kolero, kara —. Neniu povas scii certe. Ŝajnas al mi,
+laŭ la konduto de la rektoro —
+
+ROSMER
+
+Ho, vi devus koni lin pli bone ol tiel. Kroll estas honestulo trae.
+Posttagmeze mi iros al la urbo por paroli kun li. Mi volas paroli kun
+ĉiuj. Ho, vi vidos, kiel glate ĉio iros —
+
+(_Sinjorino Helseth_ venas ĉe la pordo maldekstre.)
+
+REBEKKA
+
+(ekstaras) Kio estas, sinjorino Helseth?
+
+SINJORINO HELSETH
+
+Rektoro Kroll staras malsupre en la antaŭĉambro.
+
+ROSMER
+
+(ekstaras rapide) Kroll!
+
+REBEKKA
+
+La rektoro! Ĉu, imagu —!
+
+SINJORINO HELSETH
+
+Li demandas ĉu li povas suprenveni por paroli kun la pastoro.
+
+ROSMER
+
+(al _Rebekka_) Kion mi diris! Jes certe li povas. (iras al la pordo
+kaj vokas malsupren la ŝtuparon) Venu supren, kara amiko! Kore
+bonvena vi estu!
+
+(_Rosmer_ tenas la pordon malferma. — _Sinjorino Helseth_ eliras. —
+_Rebekka_ tiras la kurtenon antaŭ la pordaperturon. Ŝi ordigas ion
+aŭ alian.)
+
+ROSMER
+
+(silente, kortuŝite) Mi ja sciis ke ne estas la lasta fojo —
+
+KROLL
+
+Hodiaŭ mi vidas la aferojn en tute alia lumo ol hieraŭ.
+
+ROSMER
+
+Jes, ĉu ne, Kroll? Vi faras? Nun, kiam vi estas pripensinta —
+
+KROLL
+
+Vi komplete miskomprenas. (metas sian ĉapelon sur la tablon ĉe la
+kanapo) Gravas por mi paroli kun vi sub kvar okuloj.
+
+ROSMER
+
+Kial fraŭlino West ne povas —?
+
+REBEKKA
+
+Ne, ne, sinjoro Rosmer. Mi eliros.
+
+KROLL
+
+(rigardas ŝin de supre malsupren) Kaj mi devas peti la fraŭlinon
+pardoni ĉar mi venas tiel frue en la tago. Ke mi surprizas vin,
+antaŭ ol vi havis tempon por —
+
+REBEKKA
+
+(ekmiras) Kiel do? Ĉu vi trovas, ke ne konvenas ke ĉi-hejme mi
+surmetas matenan robon?
+
+KROLL
+
+Ho, mi petas! Mi ja tute ne scias kio fariĝis kutimo kaj uzo en
+Rosmersholm.
+
+ROSMER
+
+Sed Kroll, — vi ja aspektas tute ŝanĝita hodiaŭ!
+
+REBEKKA
+
+Mi retiras min, sinjoro rektoro. (Ŝi eliras dekstre.)
+
+KROLL
+
+Kun via permeso — (Li eksidas sur la kanapon.)
+
+ROSMER
+
+Jes, kara, lasu nin konfide sidi kaj paroli kune.
+
+(Li eksidas sur seĝon antaŭ la _rektoro_.)
+
+KROLL
+
+Mi ne fermis okulon de post hieraŭ. Mi kuŝis pensante la tutan
+nokton.
+
+ROSMER
+
+Kaj kion vi do diras hodiaŭ?
+
+KROLL
+
+Fariĝos longe, Rosmer. Mi faru ioman enkondukon. Mi povas rakonti al
+vi ion pri Ulrik Brendel.
+
+ROSMER
+
+Li estis ĉe vi, ĉu?
+
+KROLL
+
+Ne. Li vizitis fian drinkejon. En la plej fia kompanio kompreneble.
+Drinkis kaj regalis tiom longe kiom li ion havis. Poste li insultis
+la tutan kanajlaron por esti pleba popolaĉo. Pri tio li ja pravis.
+Sed rezultis en bastonado, kaj li ĵetiĝis en la defluilon.
+
+ROSMER
+
+Do li tamen estas neplibonigebla.
+
+KROLL
+
+La surtuton li lombardis. Sed ĝi repreniĝis por li. Divenu de kiu!
+
+ROSMER
+
+De vi eble?
+
+KROLL
+
+Ne. De tiu nobla sinjoro Mortensgård.
+
+ROSMER
+
+Nu do.
+
+KROLL
+
+Mi informiĝis, ke la unua vizito de sinjoro Brendel estis al tiu
+idioto kaj plebano.
+
+ROSMER
+
+Estis ja feliĉe por li —.
+
+KROLL
+
+Vere estis. (klinas sin super la tablon, iom pli proksimen al Rosmer)
+Sed nun ni estas en afero, pri kiu mi pro nia malnova — nia antaŭa
+amikeco devas averti vin.
+
+ROSMER
+
+Kara, kio do estas _tio_?
+
+KROLL
+
+Estas _tio_, ke en tiu ĉi domo iu ludas malantaŭ via dorso.
+
+ROSMER
+
+Kiel vi tion kredas. Ĉu estas Reb— Ĉu estas fraŭlino West, al kiu
+vi aludas?
+
+KROLL
+
+Jes, ĝuste. Mi bone komprenas tion de ŝia flanko. Ŝi ja tiom longe
+kutimiĝis esti la regantino ĉi tie. Sed tamen —
+
+ROSMER
+
+Kara Kroll, vi tute miskomprenas. Ŝi kaj mi, — ni nenion kaŝas unu
+por la alia.
+
+KROLL
+
+Ĉu ŝi ankaŭ konfidis por vi, ke ŝi eniris en korespondadon kun la
+redaktoro de “La Lumturo”?
+
+ROSMER
+
+Ho, vi aludas al tiu paro da linioj, kiun ŝi donis al Ulrik Brendel.
+
+KROLL
+
+Vi do eltrovis tion. Kaj ĉu vi konsentas, ke ŝi tiel iniciatas
+rilaton kun tiu skandalskribisto, kiu ĉiun semajnon provas ridindigi
+min kaj en mia lerneja laboro kaj en mia publika agado?
+
+ROSMER
+
+Kara, tiun flankon de la afero ŝi certe ne pripensis. Kaj cetere ŝi
+libere agas, kiel ankaŭ mi.
+
+KROLL
+
+Nu? Jes, tio eble apartenas al la nova direkto, en kiun vi nun venis.
+Ĉar kie vi staras, tie kompreneble ankaŭ fraŭlino West staras?
+
+ROSMER
+
+Ŝi faras. Ni du kune fidele laborigis nin antaŭen.
+
+KROLL
+
+(rigardas lin kaj malrapide skuas la kapon) Ho vi blinda, delogita
+viro!
+
+ROSMER
+
+Mi? Kiel vi havas tian penson?
+
+KROLL
+
+Ĉar mi ne kuraĝas — ne _volas_ pensi la plej fian. Ne, ne; lasu
+min finparoli. — Vi ja vere alte taksas mian amikecon, Rosmer? Kaj
+ankaŭ mian estimon? Ĉu ne?
+
+ROSMER
+
+Tiun demandon mi ja ne bezonas respondi.
+
+KROLL
+
+Nu, sed estas aliaj aferoj, kiuj postulas respondon, — plena klarigo
+de via flanko. — Ĉu vi akceptas, ke mi faru ian ekzamenadon —?
+
+ROSMER
+
+Ekzamenadon?
+
+KROLL
+
+Jes, ke mi demandas vin pri io kaj alia, kio eble estus embarase por
+vi memori. Vidu, — tio pri via apostateco, — nu via libereco, kiel
+vi nomas ĝin, — tio dependas de multaj aliaj aferoj, kiujn vi pro
+vi mem devas klarigi por mi.
+
+ROSMER
+
+Kara, demandu pri kio ajn. Mi havas nenion kaŝindan.
+
+KROLL
+
+Do diru al mi, — kio laŭ vi estis la vere profunda kialo por la
+memmortigo de Beate?
+
+ROSMER
+
+Ĉu vi dubas pri tio? Aŭ pli ĝuste, ĉu oni povas demandi pri
+kialoj por tio, kion malfeliĉa, malsana, nerespondeculino faras?
+
+KROLL
+
+Ĉu vi estas certa, ke Beate estis tute nerespodeca? La kuracistoj
+almenaŭ opiniis, ke tio eble ne estas certa.
+
+ROSMER
+
+Se la kuracistoj estus ŝin vidinta tia, kia mi vidis ŝin multajn
+fojojn, ili ne dubus.
+
+KROLL
+
+Ankaŭ mi ne dubis tiam.
+
+ROSMER
+
+Ho ne, bedaŭrinde ne eblis dubi. Mi ja rakontis al vi pri ŝia
+senrega, sovaĝa pasio, — kiun ŝi postulis, ke mi reciproku. Ho la
+teruro kiun ŝi enigis en min! Kaj ankaŭ ŝiaj senkialaj ĉagrenigaj
+memriproĉoj la lastajn jarojn.
+
+KROLL
+
+Jes, kiam ŝi informiĝis, ke ŝi la tutan vivon restus seninfana.
+
+ROSMER
+
+Nu, pensu do mem —. Tia pelanta, terura suferego pri io tute ekster
+ŝia kulpo —! Kaj ŝi estus respondeckapabla?
+
+KROLL
+
+Hm —. Ĉu vi memoras, ĉu vi tiam havis librojn en la domo, kiuj
+temis pri la celo de geedzeco — laŭ nia moderna, progresa koncepto?
+
+ROSMER
+
+Mi memoras, ke fraŭlino West pruntedonis al mi iun tian verkon. Ĉar
+ŝi ja heredis la libraron de la doktoro, kiel vi scias. Sed kara
+Kroll, vi do ne opinias, ke ni estis tiel senatentaj por inici la
+malsanulinon en tiaj aferoj? Mi povas certigi al vi laŭte kaj kore,
+ke ni pro nenio kulpas. Estis ŝiaj propraj konfuzitaj cerbaj nervoj,
+kiuj pelis ŝin sur la vojojn de deliro.
+
+KROLL
+
+Unu aferon mi tamen povas rakonti al vi nun. Kaj tio estas, ke la
+bedaŭrinda, turmentita kaj konfuzita Beate finis sian propran vivon,
+por ke vi vivu feliĉe, — vivu libere kaj — laŭ via deziro.
+
+ROSMER
+
+(duone ekstaras de la seĝo) Kion vi aludas per tio?
+
+KROLL
+
+Aŭskultu min nun trankvile, Rosmer. Ĉar nun mi povas priparoli
+tion. En sia lasta vivojaro ŝi vizitis min du fojojn por plendi pri
+sia timo kaj sia malespero.
+
+ROSMER
+
+Pro la sama.
+
+KROLL
+
+Ne. La unuan fojon ŝi diris aserte, ke vi estas sur la vojo de
+apostatado. Ke vi volis rompi kun la kredo de viaj patroj —
+
+ROSMER
+
+(vigle) Kion vi jen diras ne eblas, Kroll! Tute neeblas! Vi eraras en
+tio ĉi.
+
+KROLL
+
+Kial?
+
+ROSMER
+
+Jes, ĉar tiom longe kiom Beate vivis, mi ankoraŭ luktis en dubo kun
+mi mem. Kaj tiun lukton mi elluktis sola kaj en kompleta silento. Mi
+pensas, ke eĉ ne Rebekka —
+
+KROLL
+
+Rebekka?
+
+ROSMER
+
+Nu ja, — fraŭlino West. Mi nomas ŝin tiel pro facileco.
+
+KROLL
+
+Mi rimarkis tion.
+
+ROSMER
+
+Tial ne estas kompreneble, kiel Beate estus povinta ekhavi tiun
+ideon. Kaj kial ŝi ne al mi mem tion priparolis? Kaj tion ŝi neniam
+faris. Neniam eĉ ne per unu sola vorto.
+
+KROLL
+
+Kompatindulino, — ŝi petegis al mi, ke mi parolu.
+
+ROSMER
+
+Kaj kial vi ne faris?
+
+KROLL
+
+Ĉu mi tiam momenton povus dubi, ke ŝi estis mense malsana? Tia
+akuzo kontraŭ homo kiel vi! — Kaj ŝi revenis, — iom pli ol
+monaton poste. Tiam ŝi aspektis pli trankvile. Sed elirante ŝi
+diris: Ili povas nun baldaŭ atendi la blankan ĉevalon en
+Rosmersholm.
+
+ROSMER
+
+Nu, nu. La blanka ĉevalo, — ĝin ŝi ofte menciis.
+
+KROLL
+
+Kaj kiam mi provis deturni ŝin de tiuj malĝojaj pensoj, ŝi nur
+respondis: “Ne restas longa tempo por mi. Ĉar nun Johannes
+devas baldaŭ edzinigi Rebekka”.
+
+ROSMER
+
+(preskaŭ konsternita) Kion vi diras —! Mi edzinigi —!
+
+KROLL
+
+Okazis ĵaŭdon posttagmeze. — Sabaton vespere ŝi ĵetis sin de la
+ponteto kaj en la muelejan akvofalon.
+
+ROSMER
+
+Kaj vi, kiu ne avertis nin —!
+
+KROLL
+
+Vi ja mem scias kiom da fojoj ŝi aludis, ke baldaŭ ŝi devus morti.
+
+ROSMER
+
+Mi ja scias. Sed tamen; — vi _estus devinta_ averti nin!
+
+KROLL
+
+Mi intencis. Sed tiam estis tro malfrue.
+
+ROSMER
+
+Sed kial vi ne poste —? Kial vi prisilentis tion?
+
+KROLL
+
+Por kio turmentadi kaj korŝiradi vin ankoraŭ pli? Mi ja konsideris
+ĉion kiel nuraj senfundaj, konfuzaj fantaziaĵoj. — Ĝis hieraŭ
+vespere.
+
+ROSMER
+
+Do nun ne plu?
+
+KROLL
+
+Ĉu Beate ne vidis klare, kiam ŝi diris, ke vi estis forlasonta vian
+infanan kredon?
+
+ROSMER
+
+(fiksrigardas rekte antaŭen) Jes, tion mi ne komprenas. Estas la
+plej nekomprenebla en la mondo.
+
+KROLL
+
+Nekomprenebla aŭ ne, — tamen tiel estas. Kaj nun mi demandas al vi,
+Rosmer, — kiom da vero troviĝas en ŝia alia kulpigo? En la lasta,
+mi aludas.
+
+ROSMER
+
+Kulpigo? Ĉu _tio_ estis kulpigo?
+
+KROLL
+
+Vi eble notis, kiel venis ŝiaj vortoj. Ŝi volis foriri, diris ŝi
+—. Kial? Nu?
+
+ROSMER
+
+Jes, por ke mi edzinigu Rebekka —.
+
+KROLL
+
+La vortoj ne ĝuste tiel venis. Beate esprimis sin alimaniere. Ŝi
+diris: Ne restas por mi longa tempo. Ĉar nun Johannes devas
+_baldaŭ_ edzinigi Rebekka.
+
+ROSMER
+
+(rigardas lin momenton; kaj li ekstaras) Nun mi komprenas vin, Kroll.
+
+KROLL
+
+Kaj jen? Kia via respondo?
+
+ROSMER
+
+(ĉiam silente sinrega) Al io tiel absurda —? La sola ĝusta
+respondo estus montri al la pordo.
+
+KROLL
+
+(ekstaras) Perfekte.
+
+ROSMER
+
+(starigas sin antaŭ lin) Aŭskultu. Jarlonge, — ekde kiam Beate
+forpasis, — Rebekka West kaj mi vivas solaj ĉi tie en Rosmersholm.
+Dum tiu longa tempo vi konas la kulpigon de Beate kontraŭ ni. Sed
+neniam momenton mi rimarkis, ke vi ofendiĝis, ke Rebekka kaj mi
+vivas kune ĉi tie.
+
+KROLL
+
+Mi ne sciis antaŭ hieraŭ, ke estas apostato kaj — liberigita
+virino, kiuj havas tiun kunvivon.
+
+ROSMER
+
+Ah —! Vi do opinias, ke ne troviĝas puraj animoj en apostatoj kaj
+liberigitulinoj. Vi ne kredas, ke ili havas postulon al dececo en si
+mem kiel naturan bezonon!
+
+KROLL
+
+Mi ne bazigas ion sur tian dececon, kiu ne havas sian radikon en la
+kredo de la eklezio.
+
+ROSMER
+
+Kaj tion vi validigas ankaŭ por Rebekka kaj mi? Pri la rilato inter
+ŝi kaj mi —?
+
+KROLL
+
+Mi ne povas, favore al vi du, flankenigi la opinion, ke ne estas
+profunda fendego inter la libera penso kaj — hm.
+
+ROSMER
+
+Kaj kio —?
+
+KROLL
+
+— kaj la libera amo, ĉar vi nepre volas tion aŭdi.
+
+ROSMER
+
+(malrapide) Kaj vi ne hontas diri tiaĵon al mi! Vi, kiu konas min
+ekde mia plej frua juneco.
+
+KROLL
+
+Ĝuste tial. Mi scias, kiel facile vi lasas vin influi de la homoj al
+kiuj vi interrilatas. Kaj tiu via Rebekka —. Nu, tiu fraŭlino West,
+— ŝin ni ja vere ne sufiĉe konas. Mallonge, Rosmer, — mi ne
+malkaptas vin. Kaj vi mem, — vi devas savi vin en ĝusta tempo.
+
+ROSMER
+
+Savi min? Kiel —?
+
+(_Sinjorino Helseth_ enrigardas tra la pordo maldekstre.)
+
+ROSMER
+
+Kion vi volas?
+
+SINJORINO HELSETH
+
+Mi petus la fraŭlinon veni malsupren.
+
+ROSMER
+
+La fraŭlino ne estas ĉi-supre.
+
+SINJORINO HELSETH
+
+Nu? (ĉirkaŭrigardas) Strange. (Ŝi eliras.)
+
+ROSMER
+
+Vi diris —?
+
+KROLL
+
+Aŭdu nun. Kio ĉi tie okazis sekrete dum Beate vivis, — kaj kio
+daŭre okazas, — tion mi ne volas pli profunde esplori. Vi estis ja
+vere malfeliĉa en via geedzeco. Kaj tio parolu por via senkulpiĝo —
+
+ROSMER
+
+Ho, kiel malprofunde vi efektive konas min.
+
+KROLL
+
+Ne interrompu min. _Tion_ mi volas diri, — ke se tiu kuna vivo kun
+fraŭlino West daŭru, estas absolute necese, ke vi silentigu la
+ŝanĝon, — la bedaŭrindan apostatadon, — al kiu ŝi logis vin.
+Lasu min paroli! Lasu min paroli! Mi diras, ke se malbone estu, do en
+la nomo de Dio, pensu kaj opiniu kaj kredu kion ajn, kion vi volas —
+en kiu ajn direkto. Sed tenu viajn opiniojn por vi mem. Tio ĉi estas
+ja pure persona afero. Ne necesiĝas elkriadi tiaĵon super la tutan
+landon.
+
+ROSMER
+
+Necesas por mi veni el falsa kaj dubinda situacio.
+
+KROLL
+
+Sed vi havas devon al la tradicioj de via parencaro, Rosmer! Memoru
+tion! Ekde transmemoraj tempoj Rosmersholm estis hejmo por deco kaj
+ordo, — por respektinda estimo antaŭ ĉio alte tenata kaj sankciita
+de la plej bonaj homoj en la socio. La tuta regiono stampiĝis de
+Rosmersholm. Kaŭziĝos fatala, neriparebla konfuzo, se kuros
+onidiro, ke vi mem rompis kion mi volas nomi la rosmeran familian
+idealon.
+
+ROSMER
+
+Kara Kroll, — mi ne vidas la aferon tiel. Ŝajnas al mi, ke estas
+mia nerifuzebla devo fari iom da lumo kaj ĝojo ĉi tie, kie la
+parencaro Rosmer kreis sombron kaj pezon tra longaj, longaj tempoj.
+
+KROLL
+
+(rigardas lin severe) Jes, estus meritinda ago de viro, per kiu la
+parencara vico forpasas. Lasu tian penson kuŝi nun. Ne estas konvena
+laboro por vi. Vi estas kreita por vivi kiel la silenta esploristo.
+
+ROSMER
+
+Eble tiel estas. Sed mi tamen unu fojon volas partopreni en la
+vivolukto, ankaŭ mi.
+
+KROLL
+
+Tiu vivolukto, — ĉu vi scias kia ĝi fariĝos por vi? Fariĝos
+lukto por vivo kaj morto kun ĉiuj viaj amikoj.
+
+ROSMER
+
+(silente) Ili do certe ne estas same fanatikaj kiel vi.
+
+KROLL
+
+Vi estas naiva animo, Rosmer. Sensperta animo vi estas. Vi ne
+suspektas, kiel frakase la ŝtormo ruliĝos super vin.
+
+(_Sinjorino Helseth_ malfermetas la pordon maldekstre.)
+
+SINJORINO HELSETH
+
+Mi demandus de la fraŭlino —
+
+ROSMER
+
+Kio estas?
+
+SINJORINO HELSETH
+
+Estas iu malsupre, kiu volus paroli momenton kun la pastoro.
+
+ROSMER
+
+Ĉu estas li, kiu vizitetis hieraŭ vespere?
+
+SINJORINO HELSETH
+
+Ne, estas tiu sinjoro Mortensgård.
+
+ROSMER
+
+Mortensgård!
+
+KROLL
+
+Aha! Al tio do! Al tio jam!
+
+ROSMER
+
+Kion li volas al mi? Kial vi ne petis lin foriri?
+
+SINJORINO HELSETH
+
+La fraŭlino diris, ke mi demandu ĉu li povus suprenveni.
+
+ROSMER
+
+Diru al li, ke iu jam ĉeestas —
+
+KROLL
+
+(al _sinjorino Helseth_) Vi permesu al li suprenveni, sinjorino.
+
+(_Sinjorino Helseth_ eliras.)
+
+KROLL
+
+(prenas sian ĉapelon) Mi cedas la kampon — ĝis plue. Sed la ĉefa
+batalo ankoraŭ ne luktiĝis.
+
+ROSMER
+
+Je mia vivo, Kroll, — mi havas nenion kune kun Mortensgård.
+
+KROLL
+
+Mi ne plu kredas vin. Je neniu punkto. En neniu rilato mi plu kredos
+vin de nun. Nun estos lukto per akraj armiloj. Ni volas provi fari
+vin nedanĝera.
+
+ROSMER
+
+Ho, Kroll, — kiel profunde, — kiel abisme profunde vi nun staras!
+
+KROLL
+
+Mi? Kaj tion diras iu kiel vi! Memoru Beate!
+
+ROSMER
+
+Ĉu al _tio_ vi revenas!
+
+KROLL
+
+Ne. La enigmo de la mueleja akvofalo vi devas solvi laŭ via
+konscienco, — se vi daŭre tiaĵon havas.
+
+(_Peder Mortensgård_ envenas malrapide kaj silente tra la pordo
+maldekstre. Li estas malalta, maldika viro kun maldensa ruĝeta
+hararo kaj barbo.)
+
+KROLL
+
+(kun malama okulĵeto) Nu, “La Lumturo” do —. Ekbruligita
+en Rosmersholm. (butonumas sian surtuton) Jes, mi do ne bezonas dubi
+pri la direkto stiri.
+
+MORTENSGÅRD
+
+(malsovaĝe) “La Lumturo” ĉiam lumos por ĝvidi la
+rektoron hejmen.
+
+KROLL
+
+Jes, vi longe montris vian bonan volon. Ekzistas ja ordono, ke ni ne
+faru falsan ateston kontraŭ nian proksimulo —
+
+MORTENSGÅRD
+
+La rektoro ne bezonas instrui min pri la ordonoj.
+
+KROLL
+
+Eĉ ne pri la sesa?
+
+ROSMER
+
+Kroll —!
+
+MORTENSGÅRD
+
+Se bezoniĝus, la pastoro do estus la plej proksima.
+
+KROLL
+
+(kun subpremata moko) La pastoro? Jes, sendiskute pastoro Rosmer
+estas la plej proksima viro en _tiu_ rilato. — Bonan profiton, miaj
+sinjoroj!
+
+(Li eliras kaj frapas la pordon post si.)
+
+ROSMER
+
+(restas rigardanta al la pordo kaj diras al si mem) Nu ja, do estu
+tiel. (turnas sin) Diru al mi, sinjoro Mortensgård, kio kondukas vin
+ĉi tien al mi?
+
+MORTENSGÅRD
+
+Vere estis sinjorino West, kiun mi serĉis. Mi pensis, ke mi devas
+danki ŝin pro la bona letero, kiun mi ricevis de ŝi hieraŭ.
+
+ROSMER
+
+Mi scias, ke ŝi skribis al vi. Ĉu vi parolis kun ŝi?
+
+MORTENSGÅRD
+
+Iomete. (kun eta rideto) Mi aŭdas, ke la konceptoj iel ŝanĝiĝis
+ĉi tie en Rosmersholm.
+
+ROSMER
+
+Miaj konceptoj ŝanĝiĝis multe. Mi povas preskaŭ diri — en ĉio.
+
+MORTENSGÅRD
+
+Ŝi tion diris, la fraŭlino. Tial ŝi opiniis, ke mi devus supreniri
+por paroli kun la pastoro.
+
+ROSMER
+
+Pri kio, sinjoro Mortensgård?
+
+MORTENSGÅRD
+
+Ĉu mi rajtas rakonti en “La Lumturo”, ke vi adoptis aliajn
+ideojn, — kaj ke vi aliĝas al la ideoj pri libereco kaj progreso?
+
+ROSMER
+
+Bonvole. Mi eĉ petas vin rakonti tion.
+
+MORTENSGÅRD
+
+Do presiĝos morgaŭ matene. Estos granda kaj grava novaĵo, ke
+pastoro Rosmer en Rosmersholm intencas lukti por la afero de lumo
+ankaŭ en _tiu_ senco.
+
+ROSMER
+
+Mi ne vere komprenas vin.
+
+MORTENSGÅRD
+
+Mi diras, ke por nia partio estas forta morala apogo ĉiun fojon,
+kiam ni gajnas seriozan, kristanan apoganton.
+
+ROSMER
+
+(iomete surprizata) Vi do ne scias —? Ĉu fraŭlino West ne rakontis
+al vi ankaŭ _tion_?
+
+MORTENSGÅRD
+
+Kion, sinjoro pastoro? Io urĝis por la fraŭlino. Ŝi diris, ke mi
+supreniru por aŭdi pli de vi mem.
+
+ROSMER
+
+Nu, mi do volas diri al vi, ke mi liberigis min komplete. Al ĉiuj
+flankoj. Mi staras nun sen iu ajn rilato al la doktrino de la
+eklezio. De hodiaŭ tiuj aferoj tute ne rilatas al mi.
+
+MORTENSGÅRD
+
+(rigardas lin konfuzite) Ne, — eĉ se la luno falis teren, mi ne
+fariĝus —! Eĉ la pastoro liberigas sin —!
+
+ROSMER
+
+Jes, mi nun staras tie, kie vi mem estas starinta dum longa tempo.
+Pri tio vi do povas informi en “La Lumturo” morgaŭ.
+
+MORTENSGÅRD
+
+Ankaŭ tio. Ne, kara pastoro —. Pardonu min, — sed tiun flankon de
+la afero ni ne devas tuŝi.
+
+ROSMER
+
+Ne tuŝi tion ĉi?
+
+MORTENSGÅRD
+
+Ne intertempe, mi pensas.
+
+ROSMER
+
+Sed mi ne komprenas —.
+
+MORTENSGÅRD
+
+Jes, vidu, sinjoro pastoro —. Vi ja ne estas tiel sperta pri la
+cirkonstancoj kiel mi, mi opinias. Sed ĉar vi nun aliĝis al la
+libereca movado, — kaj ĉar vi, — kiel diris fraŭlino West, —
+volas partopreni en la movado, — vi certe tion faras por esti kiel
+eble plej utila kaj al la direkto kaj al la movado.
+
+ROSMER
+
+Jes, tion mi ege bonvolas.
+
+MORTENSGÅRD
+
+Nu; sed jen mi volas sciigi al vi, sinjoro pastoro, ke se vi malkaŝe
+elpaŝos kun tio ĉi pri via apostatado de la eklezio, vi ligos viajn
+proprajn manojn surloke.
+
+ROSMER
+
+Vi opinias, ĉu?
+
+MORTENSGÅRD
+
+Jes, vi estu certa, ke tiam restos ne multe por vi fari en ĉi tiu
+regiono. Kaj cetere, — el libereculoj ni havas sufiĉan nombron
+antaŭe, sinjoro pastoro. Mi dirus, — ni havas tro multajn tiajn
+ulojn. Kion la partio bezonas, estas kristanaj elementoj, — ion,
+kion ĉiuj povas respekti. _Jen_ kio mankas al ni tiel grave. Tial
+estas plej konsilinde, ke vi ne malkaŝu tiaĵon, kiu ne koncernas la
+publikon. Jen mia opinio.
+
+ROSMER
+
+Nu tiel. Vi do ne kuraĝas ekrilati kun mi, se mi konfesas mian
+apostatadon?
+
+MORTENSGÅRD
+
+(agitas la kapon) Mi nevolonte kuraĝas, sinjoro pastoro. Lastatempe
+mi sekvis la regulon, neniam apogi ion aŭ iun, kiuj atakas la
+ekleziajn aferojn.
+
+ROSMER
+
+Ĉu vi mem do lastatempe returnis al la kredo?
+
+MORTENSGÅRD
+
+Tio estas aparta afero.
+
+ROSMER
+
+Nu, tiel do. Nun mi komprenas vin.
+
+MORTENSGÅRD
+
+Sinjoro pastoro, — vi devus memori, ke mi, — precipe mi, — ne
+havas plenan liberecon por agi.
+
+ROSMER
+
+Kio do ligas vin?
+
+MORTENSGÅRD
+
+Tio ligas min, ke mi estas stampita viro.
+
+ROSMER
+
+Ah, nu tiel.
+
+MORTENSGÅRD
+
+Stampita viro, sinjoro pastoro. Tion precipe vi devus memori. Ĉar
+estis ja vi unue, kiu stampis min.
+
+ROSMER
+
+Se tiam mi estus starinta kie mi nun staras, mi traktus vian pekon
+per pli indulgaj manoj.
+
+MORTENSGÅRD
+
+Tion pensas ankaŭ mi. Sed nun estas tro malfrue. Vi stampis min unu
+fojon por ĉiam. Stampis min por la tuta vivo. Nu, vi eble ne plene
+komprenas, kio al tio sekvas. Sed nun vi eble baldaŭ spertos tiun
+bruldoloron mem, sinjoro pastoro.
+
+ROSMER
+
+Mi?
+
+MORTENSGÅRD
+
+Jes. Ĉar vi do ne kredas, ke rektoro Kroll kaj lia rondo donos
+absolvon por tia rompo, kiel la via? Kaj “La Gubernia Gazeto”
+certe fariĝos iom sanga laŭdire. Povas okazi, ke ankaŭ vi
+fariĝos stampita viro.
+
+ROSMER
+
+Mi sentas min nevundebla en ĉiuj personaj rilatoj, sinjoro
+Mortensgård. Mia konduto ne estas pridubebla.
+
+MORTENSGÅRD
+
+(kun afableta rideto) Estas fiera vorto, tio, sinjoro pastoro.
+
+ROSMER
+
+Povas esti. Sed mi rajtas uzi tian vorton.
+
+MORTENSGÅRD
+
+Eĉ se vi esplorus vian konduton tiel profunde, kiel vi iam esploris
+la mian?
+
+ROSMER
+
+Vi parolas tiel strange. Al kio vi aludas? Ĉu al io difinita?
+
+MORTENSGÅRD
+
+Jes, estas difinita afero. Nur unu sola. Sed _tiu_ eblus fariĝi
+sufiĉe malagrabla, se malicaj kontraŭuloj informiĝus pri ĝi.
+
+ROSMER
+
+Vi bonvole sciigu, kio tio estus.
+
+MORTENSGÅRD
+
+Ĉu la pastoro ne povas mem diveni?
+
+ROSMER
+
+Ne, tute ne. Neniel.
+
+MORTENSGÅRD
+
+Nu ja, mi devas do malligi la sakon. — Mi havas en mia zorgo
+strangan leteron skribita ĉi tie en Rosmersholm.
+
+ROSMER
+
+La leteron de fraŭlino West, vi aludas? Ĉu ĝi estas tiom stranga?
+
+MORTENSGÅRD
+
+Ne, tiu letero ne estas stranga. Sed mi iam ricevis alian leteron de
+ĉi tiu domo.
+
+ROSMER
+
+Ankaŭ de fraŭlino West?
+
+MORTENSGÅRD
+
+Ne, sinjoro pastoro.
+
+ROSMER
+
+Nu, de kiu do? De kiu?
+
+MORTENSGÅRD
+
+De karmemora sinjorino.
+
+ROSMER
+
+De mia edzino! Vi ricevis leteron de mia edzino, ĉu?
+
+MORTENSGÅRD
+
+Jes, mi havas ĝin.
+
+ROSMER
+
+Kiam?
+
+MORTENSGÅRD
+
+Estis en la lasta vivotempo de la karmemora sinjorino. Povas nun esti
+antaŭ jaro kaj duono. Kaj tiu letero estas stranga.
+
+ROSMER
+
+Vi certe scias, ke mia edzino estis mense malsana tiun tempon.
+
+MORTENSGÅRD
+
+Jes, mi scias, ke multaj opiniis tion. Sed ŝajnas al mi, ke oni ne
+povas ion tian rimarki el la letero. Kiam mi diras, ke la letero
+estas stranga, tio estas pro alia kaŭzo.
+
+ROSMER
+
+Kaj, je la mondo, kion elpensis mia bedaŭrinda edzino por skribi al
+vi?
+
+MORTENSGÅRD
+
+Mi havas la leteron hejme. Ŝi komencas proksimume tiel, ke ŝi vivas
+en timo kaj teruro. Ĉar ĉi tie estas tiom da malbonaj homoj. Kaj
+tiuj homoj vivas nur por malutili al vi.
+
+ROSMER
+
+Mi?
+
+MORTENSGÅRD
+
+Jes, tiel ŝi skribas. Kaj jen la plej stranga. Ĉu mi tion menciu,
+sinjoro pastoro?
+
+ROSMER
+
+Jes certe! Ĉion. Senrezerve.
+
+MORTENSGÅRD
+
+La karmemora sinjorino petegas min esti grandanima. Ŝi scias,
+skribas ŝi, ke estas la pastoro, kiu eksigis min de mia instruista
+posteno. Kaj ŝi kore petas, ke mi ne venĝu min.
+
+ROSMER
+
+Kiel ŝi pensis, ke vi povus venĝi vin?
+
+MORTENSGÅRD
+
+Ŝi skribis en la letero, ke se mi aŭdus onidirojn, ke pekoj okazus
+en Rosmersholm, mi ne devus fidi tiaĵojn, ĉar estas nur malicaj
+homoj, kiuj disvastigis tiajn onidirojn por igi vin malfeliĉa.
+
+ROSMER
+
+Ĉu tio estas en la letero?
+
+MORTENSGÅRD
+
+La pastoro povas mem legi ĝin je okazo.
+
+ROSMER
+
+Sed mi ne komprenas —! Kion ŝi do imagis, kion tiaj onidiroj
+aludus?
+
+MORTENSGÅRD
+
+Unue ke la pastoro forlasis sian infanecan kredon. Tion la sinjorino
+definitive neis — tiam. Kaj poste — hm —
+
+ROSMER
+
+Poste?
+
+MORTENSGÅRD
+
+Poste ŝi skribas, — kaj tio estas tre konfuza, — ke ŝi ne konas
+iun pekan rilaton en Rosmersholm. Ke neniam fariĝis maljusteco
+kontraŭ ŝin. Kaj se onidiroj pri tiaĵoj disvastiĝus, ŝi petegas
+min ne tuŝi tion en “La Lumturo”.
+
+ROSMER
+
+Neniu nomo menciiĝas?
+
+MORTENSGÅRD
+
+Ne.
+
+ROSMER
+
+Kiu portis al vi tiun leteron?
+
+MORTENSGÅRD
+
+Mi promesis ne diri. Ĝi portiĝis al mi iun vesperon en krepusko.
+
+ROSMER
+
+Se vi estus tuj demandinta, vi informiĝus, ke mia bedaŭrinda,
+malfeliĉa edzino ne estis tute respondeckapabla.
+
+MORTENSGÅRD
+
+Mi ja demandis, sinjoro pastoro. Sed mi devas diri, ke mi ne ĝuste
+ricevis _tiun_ impreson.
+
+ROSMER
+
+Ĉu ne? — Sed kial vi vere informas min pri tiu malnova, konfuza
+letero?
+
+MORTENSGÅRD
+
+Por konsili vin esti ekstreme singardema, pastoro Rosmer.
+
+ROSMER
+
+En mia vivo, vi aludas?
+
+MORTENSGÅRD
+
+Jes. Memoru, ke de nun vi ne estas protektata viro.
+
+ROSMER
+
+Vi do subtenas la kredon, ke estas io kaŝinda?
+
+MORTENSGÅRD
+
+Mi ne scias, kial libereca viro ne vivus la vivon plej eble plene.
+Sed, kiel dirite, estu singardema post ĉi tiu tago. Se io onidirus
+kontraŭe al la antaŭjuĝoj, estu certa, ke la tuta libera spirita
+movado kulpiĝus pro ĝi. — Adiaŭ, pastoro Rosmer.
+
+ROSMER
+
+Adiaŭ.
+
+MORTENSGÅRD
+
+Kaj nun mi iros rekte al la presejo por presi la grandan novaĵon en
+“La Lumturo”.
+
+ROSMER
+
+Presu ĉion.
+
+MORTENSGÅRD
+
+Mi presas ĉion, kion la publiko bezonas scii.
+
+(Li salutas kaj eliras. _Rosmer_ restas staranta apud la pordo, dum
+_Mortensgård_ malsupreniras la ŝtuparon. Oni aŭdas la eksteran
+pordon fermiĝi.)
+
+ROSMER
+
+(ĉe la pordo, vokas mallaŭte) Rebekka! Re—. Hm. (laŭte)
+Sinjorino Helseth, ĉu fraŭlino West ne estas tie malsupre?
+
+SINJORINO HELSETH
+
+(aŭdiĝas malsupre en la antaŭĉambro) Ne, sinjoro pastoro, ĉi tie
+ŝi ne estas.
+
+(La kurteno en la fono flankentiriĝas. _Rebekka_ aperas en la
+pordaperturo.)
+
+REBEKKA
+
+Rosmer!
+
+ROSMER
+
+(turnas sin) Kio! Ĉu vi estis en mia dormoĉambro! Kara, kion vi tie
+faris?
+
+REBEKKA
+
+(iras al li) Mi ŝtelaŭskultis.
+
+ROSMER
+
+Tamen, Rebekka, kiel vi do povis!
+
+REBEKKA
+
+Jes, mi povis. Li tiel malbele vortumis, — tion pri la matena robo
+—
+
+ROSMER
+
+Ah, vi do estis tie, kiam Kroll —?
+
+REBEKKA
+
+Jes. Mi volis scii, kio kaŝiĝis inside en li.
+
+ROSMER
+
+Mi ja estus rakontonta.
+
+REBEKKA
+
+Vi apenaŭ rakontus ĉion. Kaj certe ne per liaj propraj vortoj.
+
+ROSMER
+
+Vi ĉion aŭdis, ĉu?
+
+REBEKKA
+
+La plimulton, mi pensas. Mi devis tempeton malsupreniri, kiam
+Mortensgård venis.
+
+ROSMER
+
+Kaj ree supren —
+
+REBEKKA
+
+Ne lasu vin ĝeni, kara amiko.
+
+ROSMER
+
+Faru ĉion, kion vi mem trovas justa kaj ĝusta. Vi ja havas vian
+plenan liberecon. — Sed kion vi sekve diras, Rebekka —? Ho, ŝajnas
+al mi, ke neniam antaŭe mi bezonis vin tiel forte kiel nun.
+
+REBEKKA
+
+Ni ambaŭ ja antaŭsciis kio foje venus.
+
+ROSMER
+
+Ne, ne, — ne tio ĉi.
+
+REBEKKA
+
+Ne tio ĉi?
+
+ROSMER
+
+Mi ja pensis, ke frue aŭ malfrue nia bela amikeco estus ĵetmakulata
+kaj suspektindigata. Sed ne de Kroll. De li mi neniam imagis tiaĵon.
+Sed de tiu svarmo kun krudaj animoj kaj malnoblaj okuloj. Ho jes, —
+mi ja havis kaŭzon por tio, kiam mi tiel gardeme per vualo kovris
+nian ligon. Estis danĝera sekreto.
+
+REBEKKA
+
+Ho, ĉu estas ĝeninda, la juĝo de aliuloj! Ni ja scias en ni mem,
+ke ni estas senkulpaj.
+
+ROSMER
+
+Mi? Senkulpa? Jes, tion mi efektive opiniis — eĉ ĝis ĉi tiu tago.
+Sed nun, — nun, Rebekka —
+
+REBEKKA
+
+Jes, kio nun?
+
+ROSMER
+
+Kiel mi klarigu por mi la teruran akuzon de Beate?
+
+REBEKKA
+
+(en ekscito) Ho, ne parolu plu pri Beate! Ne pensu plu pri Beate! Vi
+ja nun liberiĝis de ŝi, kiu estas morta.
+
+ROSMER
+
+Depost mi sciiĝis pri tio ĉi, ŝi refariĝis terure vivanta.
+
+REBEKKA
+
+Ho ne, — vi ne devas, Rosmer! Vi ne devas!
+
+ROSMER
+
+Jes, mi diras. Ni devas veni al la fundo de tio ĉi. Kiel povis ŝi
+erarvojiĝi en tiun fatalan miskomprenon?
+
+REBEKKA
+
+Vi do ne mem komencas dubi, ke ŝi estis proksima al mensa malsano?
+
+ROSMER
+
+Nu do, — estas pri tio, ke mi ne plu povas esti tute certa. Kaj
+cetere — se tiel estus —
+
+REBEKKA
+
+Se tiel estus? Jes, kio do?
+
+ROSMER
+
+Mi aludas, — kie ni serĉu la plej proksiman kaŭzon, ke ŝia
+malsana animo transiris al frenezeco?
+
+REBEKKA
+
+Kaj al kio utilas, ke vi perdigadas vin en tiaj cerbumadoj!
+
+ROSMER
+
+Mi ne povas eviti, Rebekka. Mi ne povas eviti tiun mordantan dubon,
+eĉ se mi arde volus.
+
+REBEKKA
+
+Ho, sed povas esti danĝere — tiel konstante turniĝi ĉirkaŭ tio
+sola kaj peza.
+
+ROSMER
+
+(paŝadas maltrankvile kaj penseme ĉirkaŭe) Mi iel estus min
+malkaŝinta. Ŝi eble estas rimarkinta, kiel feliĉa mi sentiĝis
+depost vi venis al ni.
+
+REBEKKA
+
+Jes, sed, kara, se tiel tamen estus —!
+
+ROSMER
+
+Eblas, — ke ne eskapis ŝian atenton, ke ni legis la samajn librojn.
+Ke ni serĉis unu la alian kaj priparolis la novajn aferojn. Sed mi
+tute ne komprenas! Ĉar mi estis ja ĉiam zorgema por ŝirmi ŝin.
+Kiam mi pripensas, aspektas ke mi ekstreme provis teni ŝin ekster
+tio nia. Aŭ ĉu ne, Rebekka?
+
+REBEKKA
+
+Jes, jes, vi faris.
+
+ROSMER
+
+Kaj ankaŭ vi. Kaj tamen —! Ho tio ĉi estas terure pripensi! Ŝi do
+pensadis, ŝi, — en sia malsana amo, — silentis kaj silentis, —
+observis nin, — rimarkis ĉion, kaj, — kaj misinterpretis ĉion.
+
+REBEKKA
+
+(premas la manojn) Ho, mi estus neniam veninta al Rosmersholm.
+
+ROSMER
+
+Ho, imagu kiel ŝi suferis en silento! La malbonon, kiun ŝi kredis
+kaj en sia malsana cerbo konstruis kaj kunmetis pri ni. — Ĉu ŝi
+neniam parolis al vi pri io, kio povus doni al vi iun spuron?
+
+REBEKKA
+
+(kvazaŭ ekscitita) Al mi! Ĉu vi kredas, ke mi tiaokaze restus ĉi
+tie tagon pli longe.
+
+ROSMER
+
+Ne, ne, mi komprenas. — Ho, la lukto, kiun ŝi luktis. Kaj luktis
+sola, Rebekka. Malespera kaj tute sola. — Kaj fine tiu emociiga —
+akuzanta venko — en la mueleja akvofalo.
+
+(Li ĵetas sin en la seĝon ĉe la skribotablo, apogas la brakojn sur
+la tablon kaj kovras la vizaĝon per la manoj.)
+
+REBEKKA
+
+(singardeme proksimiĝas al li de malantaŭe) Aŭskultu nun, Rosmer.
+Se estus en via potenco revoki Beate — al vi — al Rosmersholm, —
+ĉu vi volus?
+
+ROSMER
+
+Ho, kion scias mi fari aŭ ne fari. Mi nur havas penson pri tio sola,
+— kio estas nerevokebla.
+
+REBEKKA
+
+Vi estus ja nun komenconta vivi, Rosmer. Vi jam _estis_ komencinta.
+Vi estis vin tute liberiginta — al ĉiuj flankoj. Vi sentis vin
+ĝoja kaj liberanima —
+
+ROSMER
+
+Ho jes, — mi faris. — Sed jen venas tiu peza premo.
+
+REBEKKA
+
+(malantaŭ li kun la manoj sur la seĝodorso) Kiel rave estis, kiam
+ni sidis en la sidĉambro en la krepusko. Kaj ni helpis unu la alian
+fari planon por nova vivo. Vi volis preni lokon en la vivanta vivo,
+— en la vivo de la ĉiutago, — kiel vi esprimis vin. Vi volis iri
+kiel liberiganta gasto de hejmo al hejmo. Gajni la animojn kaj la
+volojn por vi. Krei nobelajn homojn ĉirkaŭe, — en pli kaj pli
+vastaj rondoj. Nobelojn.
+
+ROSMER
+
+Ĝojajn nobelojn.
+
+REBEKKA
+
+Jes — ĝojajn.
+
+ROSMER
+
+Ĉar estas la ĝojo, kiu nobeligas la animojn, Rebekka.
+
+REBEKKA
+
+Ĉu vi ne kredas, — ke ankaŭ la sufero? La granda sufero?
+
+ROSMER
+
+Jes, — se oni povus trapasi ĝin. Trans ĝin. Supere trans ĝin.
+
+REBEKKA
+
+_Tion_ vi devas.
+
+ROSMER
+
+(peze skuas la kapon) Trans tio ĉi mi neniam venos — tute. Ĉiam
+restos dubo. Demando. Mi neniam plu estos glutanta _tion_, kio faras
+la vivon mirinde ĝuinda por vivi.
+
+REBEKKA
+
+(super la seĝodorso, pli mallaŭte) Al kio vi aludas, Rosmer?
+
+ROSMER
+
+(rigardas supren al ŝi) Al la trankvila, ĝoja senkulpeco.
+
+REBEKKA
+
+(paŝon malantaŭen) Jes.
+Senkulpeco. (mallonga paŭzo)
+
+ROSMER
+
+(kun la kubutoj sur la tablo, apogante la kapon en la mano kaj
+antaŭenrigardante) Kaj kiel ŝi komprenis kombini. Kiel sisteme ŝi
+ĉion kunmetis. Unue ŝi komencas dubi pri mia ortodoksa kredo —.
+Kiel povis ŝi ekpensi _tion_ tiam? Sed ŝi ekhavis la ideon. Kaj ĝi
+kreskis al certeco. Kaj jen, — jes jen estis ja facile por ŝi
+akcepti ĉion imageblan. (streĉas sin en la seĝo kaj puŝas la
+manojn tra la hararo) Ho, ĉiuj tiuj frenezaj imagaĵoj! Neniam povas
+mi forigi ilin. Mi sentas. Mi scias. Senaverte ili venos ĵetante sin
+antaŭen memorigante pri la mortinto.
+
+REBEKKA
+
+Kiel la blanka ĉevalo en Rosmersholm.
+
+ROSMER
+
+Jes, tiel. Ĉasante antaŭen en la mallumo. En la silento.
+
+REBEKKA
+
+Kaj por tiu malbeata cerba ŝpino vi volas malkapti la vivantan
+vivon, kiun vi estis preta ĉirkaŭbraki.
+
+ROSMER
+
+Vi pravas, ke estas peze. Peze, Rebekka. Sed por mi ne estas elekto.
+Kiel mi do saviĝus el tio ĉi!
+
+REBEKKA
+
+(malantaŭ la seĝo) Kreante novajn rilatojn.
+
+ROSMER
+
+(ekmiras, suprenrigardas) Novajn rilatojn?
+
+REBEKKA
+
+Jes, novajn rilatojn al la ekstera mondo. Vivi, agi, trakti. Ne sidi
+ĉi tie cerbumante kaj kovante super nesolveblaj enigmoj.
+
+ROSMER
+
+(ekstaras) Novaj rilatoj? (paŝas trans la plankon, haltas apud la
+pordo kaj revenas) Mi ekhavis demandon. Ĉu ne ankaŭ vi faris al vi
+jenan demandon, Rebekka?
+
+REBEKKA
+
+(spiras peze) Lasu min — scii — kiu ĝi estas.
+
+ROSMER
+
+Kia kredas vi ke _nia_ rilato fariĝos post ĉi tiu tago?
+
+REBEKKA
+
+Mi pensas, ke nia amikeco eltenos — kio ajn kio venos.
+
+ROSMER
+
+Ne estas ĝuste tiel, ke mi pensis. Sed tio, kio unue kondukis nin
+unu al la alia, — kio kunligas nin tiel intime, — nia komuna kredo
+pri pura kunvivado inter viro kaj virino —
+
+REBEKKA
+
+Jes, jes, — kio pri tio?
+
+ROSMER
+
+Mi pensas, ke tia rilato, — nome kia la nia, — ĉu ĝi ne konvenas
+al vivo en trankvila, feliĉa paco —?
+
+REBEKKA
+
+Kaj sekve!
+
+ROSMER
+
+Sed nun malfermiĝas por mi vivo en lukto kaj malpaco kaj kun fortaj
+animstatoj. Ĉar mi _volas_ vivi mian vivon, Rebekka! Mi ne lasas
+min frapiĝi al la teron de teruraj eblecoj. Mi ne lasas al mi
+preskribi mian viviron, nek de vivanto nek de — de iu alia.
+
+REBEKKA
+
+Ne, ne, vi ne cedu! Estu tute libera viro, Rosmer!
+
+ROSMER
+
+Sed ĉu vi scias, kion nun mi pripensas? Vi ne scias? Vi ne scias,
+kiel mi povas liberiĝi de ĉiuj mordantaj memoroj, — de la tuta
+malgaja pasinteco?
+
+REBEKKA
+
+Nu!
+
+ROSMER
+
+Metante kontraŭ ĝin novan, vivantan realecon.
+
+REBEKKA
+
+(palpante la seĝodorson) Vivantan —? Kio estas — tio?
+
+ROSMER
+
+(pli proksime) Rebekka, — se mi nun demandus vin, — ĉu vi volas
+fariĝi mia dua edzino?
+
+REBEKKA
+
+(momenton muta, ekkrias en ĝojo) Via edzino! Via —! Mi!
+
+ROSMER
+
+Bone. Ni provu. Ni du volas esti unu. Neniu malplena loko kuŝu nun
+post la mortinto.
+
+REBEKKA
+
+Mi — en la loko de Beate —!
+
+ROSMER
+
+Kaj ŝi estos for el la sagao. Tute for. Por ĉiam kaj eterne.
+
+REBEKKA
+
+(mallaŭte kaj treme) Ĉu vi tion kredas, Rosmer?
+
+ROSMER
+
+Devas okazi! Devas! Mi ne povas, — mi ne volas trairi la vivon kun
+kadavro sur la dorso. Helpu min forĵeti ĝin, Rebekka? Kaj ni
+sufoku ĉiujn memorojn en libereco, en ĝojego, en pasio. Vi estu por
+mi la sola edzino, kiun mi iam havis.
+
+REBEKKA
+
+(sinrege) Ne plu menciu tion. Mi neniam fariĝos via edzino.
+
+ROSMER
+
+Kio! Neniam! Ho, ĉu vi ne kredas, ke vi amus min? Ĉu ne jam estas
+ero da amo en nia amikeco!
+
+REBEKKA
+
+(kovras la orelojn kvazaŭ en timo) Ne parolu tiel, Rosmer! Ne diru
+tiaĵon!
+
+ROSMER
+
+(kaptas ŝian brakon) Jes, jes, — _estas_ ĝermanta ebleco en nia
+rilato. Ho, mi povas vidi, ke vi sentas la samon. Ĉu ne, Rebekka?
+
+REBEKKA
+
+(denove firme kaj sinrege) Aŭskultu nun. Mi al vi diras, — ke se vi
+daŭrigos, mi forlasos Rosmersholm.
+
+ROSMER
+
+Forlasos! Vi! Vi ne povas. Neeblas.
+
+REBEKKA
+
+Pli neeble estas, ke mi fariĝu via edzino. Neniam en ĉi mondo povos
+mi tio fariĝi.
+
+ROSMER
+
+(rigardas ŝin mire) Vi diras “povos”. Kaj tiel strange.
+Kial vi ne povos?
+
+REBEKKA
+
+(kaptas ambaŭ liajn manojn) Kara amiko, — pro vi mem kaj ankaŭ pro
+mi, — ne demandu kial. (malkaptas lin) Jen do, Rosmer.
+
+(Ŝi iras al la pordo maldekstre.)
+
+ROSMER
+
+De nun mi havas neniun alian demandon ol tiu sola — kial?
+
+REBEKKA
+
+(turnas sin kaj rigardas lin) Jen estos finite.
+
+ROSMER
+
+Inter vi kaj mi?
+
+REBEKKA
+
+Jes.
+
+ROSMER
+
+Neniam fariĝos finite inter ni du. Neniam vi forvojaĝos de
+Rosmersholm.
+
+REBEKKA
+
+(kun la mano sur la anso) Ne, mi ja ne faros. Sed se vi pli ofte
+demandos min, — estos tamen finite.
+
+ROSMER
+
+Tamen finite? Kiel —?
+
+REBEKKA
+
+Jes, ĉar tiam mi iros la saman vojon, kian Beate iris. Nun vi scias,
+Rosmer.
+
+ROSMER
+
+Rebekka —!
+
+REBEKKA
+
+(ĉe la pordo, kapsignas malrapide) Nun vi scias. (Ŝi eliras.)
+
+ROSMER
+
+(fiksrigardas kvazaŭ perdita al la fermita pordo, kaj diras al si
+mem) Kio — estas — jeno?
+
+
+
+
+TRIA AKTO
+
+
+(La sidĉambro en _Rosmersholm_. La fenestroj kaj la antaŭĉambra
+pordo estas malfermitaj. La antaŭtagmeza suno brilas ekstere.)
+
+(_Rebekka West_, vestita kiel en la unua akto, staras apud la
+fenestro. Ŝi akvumas la plantojn kaj ordigas. Ŝia kroĉaĵo kuŝas
+sur la apogseĝo. _Sinjorino Helseth_ paŝadas kun plumbroso en la
+mano malpolvante la meblojn.)
+
+REBEKKA
+
+(Post ioma paŭzo) Estas strange, ke la pastoro restas tiom longe
+supre hodiaŭ.
+
+SINJORINO HELSETH
+
+Ho, tion li ja ofte faras. Sed nun li baldaŭ malsupren venos, mi
+opinias.
+
+REBEKKA
+
+Vi vidis lin, ĉu?
+
+SINJORINO HELSETH
+
+Nur pase. Kiam mi supren portis la kafon, li paŝadis en la
+dormoĉambro finvestante sin.
+
+REBEKKA
+
+Mi demandas, ĉar hieraŭ li ne estis tute sanaspekta.
+
+SINJORINO HELSETH
+
+Ne, li ja tiel aspektis. Kaj mi imagas, ĉu ne estas io inter li kaj
+lia bofrato.
+
+REBEKKA
+
+Kio tio do estus, vi pensas?
+
+SINJORINO HELSETH
+
+Mi ne povas scii. Eble estas tiu Mortensgård, kiu incitis ilin unu al
+la alia.
+
+REBEKKA
+
+Eblas. — Ĉu vi scias ion pri tiu Mortensgård?
+
+SINJORINO HELSETH
+
+Ne ne. Kiel povas la fraŭlino tiel pensi? Tia ulo kia li estas!
+
+REBEKKA
+
+Vi aludas ĉar li eldonas tiun fian gazeton?
+
+SINJORINO HELSETH
+
+Ho, ne estas nur pro _tio_. — La fraŭlino certe aŭdis, ke li
+ricevis infanon kun edziniĝinta virino, de kiu la edzo estis
+forkurinta?
+
+REBEKKA
+
+Mi aŭdis tion onidire. Sed tio estis longe antaŭ ol mi alvenis.
+
+SINJORINO HELSETH
+
+Jes Dio, li tiam estis tute juna. Kaj ŝi estus devinta havi pli
+bonan prudenton ol li. Edzinigi ŝin li ja ankaŭ volis. Sed tio ne
+permesiĝis. Kaj pro tio li ja akre suferis. — Sed poste tiu
+Mortensgård prosperis, li. Estas multaj, kiuj serĉas _tiun_ viron.
+
+REBEKKA
+
+La plimulto de malaltstataj homoj turnas sin prefere al li, kiam io
+okazas.
+
+SINJORINO HELSETH
+
+Ho, povus esti ankaŭ aliuloj ol tiuj malaltstataj —
+
+REBEKKA
+
+(ekrigardas ŝin kaŝe) Ĉu?
+
+SINJORINO HELSETH
+
+(apud la sofo, malpolvigas kaj balaas vigle) Povus esti tiaj homoj,
+pri kiuj oni ne unue pensis tion, fraŭlino.
+
+REBEKKA
+
+(ordigas la florojn) Nu, tio estas io kion vi nur kredas, sinjorino
+Helseth. Ĉar _vi_ ja ne povas scii tiaĵon tiel decide.
+
+SINJORINO HELSETH
+
+La fraŭlino opinias, ke mi ne povas scii, ĉu? Jes, certe mi povas.
+Ĉar, — se mi fine eldiru, — mi mem foje portis leteron al
+Mortensgård.
+
+REBEKKA
+
+(turnas sin) Ne, — ĉu vi!
+
+SINJORINO HELSETH
+
+Jes, mi efektive faris. Kaj tiu letero estis eĉ skribita ĉi tie en
+Rosmersholm.
+
+REBEKKA
+
+Vere, sinjorino Helseth?
+
+SINJORINO HELSETH
+
+Jes, je mia fido, ĝi estis. Kaj sur bela papero ĝi estis skribita.
+Kaj bela ruĝa sigelvakso estis metita ekstere.
+
+REBEKKA
+
+Kaj _vi_ konfidiĝis porti ĝin? Jes, kara sinjorino Helseth, ne
+estas malfacile diveni de kiu ĝi estis.
+
+SINJORINO HELSETH
+
+Nu?
+
+REBEKKA
+
+Kompreneble de sinjorino Rosmer en ŝia malsaneco —
+
+SINJORINO HELSETH
+
+Estas fraŭlino West, kiu _tion_ diras, kaj ne mi.
+
+REBEKKA
+
+Sed kio estis skribita en tiu letero? Nu, ja, — tion vi ne povas
+scii.
+
+SINJORINO HELSETH
+
+Hm, povus esti, ke mi tamen scias.
+
+REBEKKA
+
+Ĉu ŝi diris al vi, kion ŝi skribis?
+
+SINJORINO HELSETH
+
+Ne, ne ĝuste tiel. Sed kiam Mortensgård estis ĝin leginta, li
+komencis pridemandi min kaj profunde kaj longe, kaj tiel mi komprenis
+kio estis en ĝi.
+
+REBEKKA
+
+Kion vi kredas ke estis en ĝi? Ho kara, bona sinjorino Helseth, diru
+al mi!
+
+SINJORINO HELSETH
+
+Ne, fraŭlino. Ne por ĉio en la mondo.
+
+REBEKKA
+
+Ho, al mi vi povas ja paroli. Ni estas ja tiaj bonaj amikinoj.
+
+SINJORINO HELSETH
+
+Dio gardu min por ion diri al vi pri _tio_, fraŭlino. Mi ne povas
+ion alian diri, ol ke estis io malbela, kion ili estis kredigintaj al
+la bedaŭrinda malsana sinjorino.
+
+REBEKKA
+
+Kiu kredigis tion al ŝi?
+
+SINJORINO HELSETH
+
+Malbonaj homoj, fraŭlino West. Malbonaj homoj.
+
+REBEKKA
+
+Malbonaj —?
+
+SINJORINO HELSETH
+
+Jes, tion mi dufoje diras. Vere malbonaj homoj ili estus estintaj.
+
+REBEKKA
+
+Kaj ĉu vi divenas kiuj ili estis?
+
+SINJORINO HELSETH
+
+Ho, mi ja scias kion mi kredas. Sed Dio gardu _mian_ buŝon. Tamen
+ĉirkaŭiras en la urbo iu sinjorino — hm!
+
+REBEKKA
+
+Mi vidas je vi, ke estas sinjorino Kroll.
+
+SINJORINO HELSETH
+
+Jes, ŝi estas io aparta, ŝi. Al mi ŝi ja ĉiam tenis sin altece.
+Kaj al vi ŝi neniam havis simpatian okulon.
+
+REBEKKA
+
+Ĉu vi opinias, ke sinjorino Rosmer estis mense plene sana, kiam ŝi
+skribis tiun leteron al Mortensgård?
+
+SINJORINO HELSETH
+
+Estas strange pri la prudento, fraŭlino. Tute freneza mi opinias,
+ke ŝi ne estis.
+
+REBEKKA
+
+Sed ŝi ja fariĝis freneza, kiam ŝi sciiĝis, ke ŝi ne povis naski
+infanojn. Estis _tiam_ ke la malsano erupciis.
+
+SINJORINO HELSETH
+
+Jes _tio_ frapis ŝin tre forte, la bedaŭrinda sinjorino.
+
+REBEKKA
+
+(prenas la kroĉaĵon kaj eksidas apud la fenestro) Cetere, — ĉu ne
+ankaŭ vi opinias, ke _tio_ funde estis bona por la pastro, sinjorino
+Helseth?
+
+SINJORINO HELSETH
+
+Kio, fraŭlino.
+
+REBEKKA
+
+Ke ne venis infanoj. Ĉu?
+
+SINJORINO HELSETH
+
+Hm, mi ne vere scias, kion al tio diri.
+
+REBEKKA
+
+Jes, kredu min. Estis la pli bona por li. Por pastoro Rosmer ne
+konvenas aŭskultadi infankriadon.
+
+SINJORINO HELSETH
+
+Infanetoj ne krias en Rosmersholm, fraŭlino.
+
+REBEKKA
+
+(rigardas ŝin) Ili ne krias, ĉu?
+
+SINJORINO HELSETH
+
+Ne. En ĉi tiu bieno la infanetoj neniam kriis, tiom longe kiom homoj
+memoras.
+
+REBEKKA
+
+Vere strange.
+
+SINJORINO HELSETH
+
+Jes, ĉu ne strange. Sed estas eco en la parencaro. Kaj aldone estas
+alia stranga afero. Kiam ili fariĝas pli grandaj, ili neniam ridas.
+Neniam ridas tiom longe kiom ili vivas.
+
+REBEKKA
+
+Estus vere strange —
+
+SINJORINO HELSETH
+
+Ĉu la fraŭlino unu solan fojon vidis aŭ aŭdis la pastoron ridi?
+
+REBEKKA
+
+Ne, — kiam mi pripensas, mi preskaŭ samopinias, ke vi pravas. Sed
+ŝajnas al mi, ke la homoj ja ne multe ridas en ĉi tiu distrikto.
+
+SINJORINO HELSETH
+
+Ili ne faras. Tio komencis en Rosmersholm, laŭdire. Kaj eble
+disvastiĝis kvazaŭ iu infekto, ankaŭ tio, mi opinias.
+
+REBEKKA
+
+Vi estas pensema virino, vi, sinjorino Helseth.
+
+SINJORINO HELSETH
+
+Ho, la fraŭlino ne moku min —. (aŭskultas) Tŝ, tŝ, — la pastoro
+malsuprenvenas. Li ne ŝatas vidi la balailon ĉi tie. (Ŝi eliras
+tra la pordo dekstre.)
+
+(_Johannes Rosmer_, kun bastono kaj ĉapelo en la mano, venas de la
+antaŭĉambro.)
+
+ROSMER
+
+Bonan matenon, Rebekka.
+
+REBEKKA
+
+Bonan matenon, kara. (iom poste; kroĉas) Vi eliros, ĉu?
+
+ROSMER
+
+Jes.
+
+REBEKKA
+
+La vetero estas ja bela.
+
+ROSMER
+
+Vi ne venis al mi ĉi-matene.
+
+REBEKKA
+
+Ne, — mi ne faris. Ne hodiaŭ.
+
+ROSMER
+
+Ĉu ankaŭ poste vi ne faros?
+
+REBEKKA
+
+Ho, mi ankoraŭ ne scias.
+
+ROSMER
+
+Ĉu estas io poŝte por mi?
+
+REBEKKA
+
+“La Gubernia Gazeto” venis.
+
+ROSMER
+
+“La Gubernia Gazeto” —!
+
+REBEKKA
+
+Ĝi kuŝas tie sur la tablo.
+
+ROSMER
+
+(metas ĉapelon kaj bastonon flanken) Ĉu estas io —?
+
+REBEKKA
+
+Jes.
+
+ROSMER
+
+Kaj vi ne sendis ĝin supren —
+
+REBEKKA
+
+Vi sufiĉe frue legos ĝin.
+
+ROSMER
+
+Nu tiel. (prenas la gazeton kaj legas starante apud la tablo) — Ĉu!
+— — “ne povas sufiĉe averti kontraŭ senkarakteraj dizertuloj” —.
+(rigardas ŝin) Ili nomas min dizertulo, Rebekka.
+
+REBEKKA
+
+Ili ne mencias nomon.
+
+ROSMER
+
+Estas ja la sama. (legas pluen) “kaŝitaj perfiduloj kontraŭ la
+bona tasko” —. — “Judasnaturoj, kiuj senhonte konfesas
+sian defalon, tuj kiam ili opinias, ke la avantaĝa kaj plej profita
+momento venis”. “Senrespekta atenco al la memoro de honorindaj
+antaŭuloj” —. — “dum atendo ke la potenculoj de la momento ne
+forgesas konvenan rekompencon”. (metas la gazeton sur la tablon)
+Kaj tiel ili skribas pri mi. Tiuj, kiuj konas min de post longe kaj
+intime. Tion kion ili mem ne kredas. Tion en kio ili scias ke ne
+ekzistas vera vorto, — ili tamen skribas.
+
+REBEKKA
+
+Estas ankoraŭ pli.
+
+ROSMER
+
+(denove prenas la gazeton) — “pardonon pro nesperta
+juĝpovo” —. — “korupta influo, — eble ankaŭ etendita
+al aferoj, kiujn ni ne volas fari temon por publika priparolo aŭ
+plendo” —. (rigardas ŝin) Kion tio aludas?
+
+REBEKKA
+
+Ili celas min, komprenu.
+
+ROSMER
+
+(formetas la gazeton) Rebekka, — tio ĉi estas konduto de
+malhonestuloj.
+
+REBEKKA
+
+Jes, ŝajnas al mi, ke ili ne rajtas mokriproĉi Mortensgård.
+
+ROSMER
+
+(paŝadas sur la planko) Savo estas necesa. Ĉio bona en la homo
+pereas, se tio ĉi permesiĝas daŭri. Sed ĝi ne faru! Ho, kiom
+ĝoja, — kiom ĝoja mi sentus min, se mi kapablus iomete lumigi en
+tiu suspektinda abomeneco.
+
+REBEKKA
+
+(ekstaras) Jes, ĉu ne? En tio ĉi vi povas vivi por io granda kaj
+glora.
+
+ROSMER
+
+Imagu, se mi povus veki ilin al memrekono. Igi ilin penti kaj honti
+pri si mem. Proksimigi ilin unu al la alia neofendeme, — en amo,
+Rebekka.
+
+REBEKKA
+
+Jes, metu ĉiujn viajn kapablojn en tion, kaj vidu ke vi gajnos.
+
+ROSMER
+
+Ŝajnas al mi, ke mi devus sukcesi. Ho, kia feliĉego estus vivi la
+vivon. Ne plu malamika lukto. Nur konkurado. Ĉiuj okuloj rigardante
+la saman celon. Ĉiuj voloj, ĉiuj animoj progresantaj, — supren, —
+ĉiu laŭ sia propra naturdonita vojo. Feliĉo por ĉiuj, — kreita
+per ĉiuj. (ekrigardas eksteren, skuiĝas kaj diras peze) Ah! Ne per
+mi.
+
+REBEKKA
+
+Ne —? Ne per vi?
+
+ROSMER
+
+Eĉ ne _por_ mi.
+
+REBEKKA
+
+Ho, Rosmer, ne lasu la dubon preni vin.
+
+ROSMER
+
+Feliĉo, — kara Rebekka, — feliĉo estas unue la trankvila, ĝoja,
+sekura sento de senkulpeco.
+
+REBEKKA
+
+(rigardas antaŭen) Jes, tio pri kulpo —.
+
+ROSMER
+
+Ho, pri tio vi ne povas juĝi. Sed mi —
+
+REBEKKA
+
+Neniel vi!
+
+ROSMER
+
+(montras tra la fenestro) La akvofalo.
+
+REBEKKA
+
+Ho Rosmer —!
+
+(_Sinjorino Helseth_ enrigardas tra la pordo dekstre.)
+
+SINJORINO HELSETH
+
+Fraŭlino!
+
+REBEKKA
+
+Poste, poste. Ne nun.
+
+SINJORINO HELSETH
+
+Nur unu vorto, fraŭlino.
+
+(_Rebekka_ iras al la pordo. _Sinjorino Helseth_ diras ion al ŝi.
+Momenton ili parolas flustre kune. _Sinjorino Helseth_ kapsignas kaj
+eliras.)
+
+ROSMER
+
+(maltrankvila) Ĉu estis io por mi?
+
+REBEKKA
+
+Ne, nur dommastrinaj aferoj. — Nun vi devus eliri en la freŝan
+aeron, kara Rosmer. Iri vere longe, vi devus.
+
+ROSMER
+
+(prenas la ĉapelon) Jes, venu. Kaj ni iru kune.
+
+REBEKKA
+
+Ne, kara, mi ne povas nun. Iru sola. Sed forĵetu tiujn pezajn
+pensojn. Promesu al mi.
+
+ROSMER
+
+Tiujn mi neniam povos forĵeti de mi, — mi timas.
+
+REBEKKA
+
+Ho, ĉu io tiel senbaza povu kapti vin tiel forte —!
+
+ROSMER
+
+Bedaŭrinde, — ĝi ne estas senbaza. Mi kuŝis pensadante la tutan
+nokton. Beate eble tamen ĝuste vidis.
+
+REBEKKA
+
+Kiel do?
+
+ROSMER
+
+Ĝuste vidis, kiam ŝi kredis, ke mi amas vin, Rebekka.
+
+REBEKKA
+
+Ĝuste vidis en _tio_?
+
+ROSMER
+
+(metas la ĉapelon sur la tablon) Mi pensadas pri tiu demando, — ĉu
+ni du la tutan tempon ruzis nin mem — kiam ni nomis nian rilaton
+amikecon.
+
+REBEKKA
+
+Ĉu vi aludas, ke ĝi same ĝuste povus nomiĝi —?
+
+ROSMER
+
+— amo. Jes, mi pensas tion. Eĉ dum kiam Beate vivis, estis vi, al
+kiu mi donis miajn pensojn. Estis sole vi al kiu mi sopiris. Estis
+ĉe vi, ke mi sentis tiun trankvilan, ĝojan, senavidan feliĉon.
+Kiam ni vere pripensas, Rebekka, — nia kuna vivo komencis kiel
+dolĉa, sekreta infana enamiĝo. Sen postuloj kaj sen revoj. Ĉu ne
+ankaŭ vi sentis tiel? Diru!
+
+REBEKKA
+
+(luktas kun si mem) Ho, — mi ne scias kion respondi.
+
+ROSMER
+
+Kaj estas tiu intima vivo, kunaj unu al la alia kaj por ni reciproka,
+kiun ni prenis por amikeco. Ne, kara, — nia rilato estis spirita
+geedzeco — eble tuj post la unuaj tagoj. Tial estas kulpo en mi. Mi
+ne rajtis, — ne rajtis pro Beate.
+
+REBEKKA
+
+Ne rajtis vivi feliĉe? Ĉu vi tion kredas, Rosmer?
+
+ROSMER
+
+Ŝi rigardis nian rilaton per la okuloj de _ŝia_ amo. Juĝis nian
+rilaton laŭ la speco de _ŝia_ amo. Kompreneble. Beate ne povis
+juĝi alimaniere ol ŝi faris.
+
+REBEKKA
+
+Sed kiel vi povas kulpigi vin mem pro la iluzioj de Beate?
+
+ROSMER
+
+Pro amo al mi, — _sia_maniere, — ŝi ĵetis sin en la akvofalon.
+Tiu fakto staras firma, Rebekka. El ĝi mi neniam liberiĝos.
+
+REBEKKA
+
+Ho, ne pensu pri io alia ol la granda, bela tasko, por kiu vi oferis
+vian vivon!
+
+ROSMER
+
+(skuas la kapon) Ĝi neniam estos realigebla. Ne de mi. Ne post tio,
+kion mi nun scias.
+
+REBEKKA
+
+Kial ne de vi?
+
+ROSMER
+
+Ĉar neniam gajnos afero, kiu fontis en kulpo.
+
+REBEKKA
+
+(ekdire) Ho tiu hereda dubo, — hereda timo, — heredaj skrupuloj.
+Ili parolas ĉi tie pri mortuloj, kiuj reaperas kiel kuregantaj,
+blankaj ĉevaloj. Ŝajnas al mi, ke tio ĉi estas io tia.
+
+ROSMER
+
+Estu tio, kiel tio estu. Kion tio helpus, kiam mi ne povas kvitigi
+min je tio? Kaj kredu min, Rebekka. Estas kiel mi diras. Afero kiu
+gajnu daŭran venkon, — tiu estu antaŭen portata de ĝoja kaj
+senkulpa homo.
+
+REBEKKA
+
+Ĉu la ĝojo por _vi_ do estas tute ne malhavebla, Rosmer?
+
+ROSMER
+
+La ĝojo? Jes, kara, — ĝi estas.
+
+REBEKKA
+
+Por vi, kiu neniam povas ridi?
+
+ROSMER
+
+Tamen. Kredu, ke mi havas grandan talenton por esti ĝoja.
+
+REBEKKA
+
+Nun vi promenadu, kara. Longe, — tre longe. Ĉu vi aŭdas? — Jen
+via ĉapelo. Kaj jen via bastono.
+
+ROSMER
+
+(prenas ambaŭ) Dankon. Kaj vi akompanos?
+
+REBEKKA
+
+Ne, ne, mi ne povas nun.
+
+ROSMER
+
+Nu ja. Vi tamen estas kun mi.
+
+(Li eliras tra la antaŭĉambro. Iom poste _Rebekka_ ekrigardas de
+malantaŭ la malfermita pordo. Poste ŝi iras al la pordo dekstre.)
+
+REBEKKA
+
+(malfermas kaj diras duonlaŭte) Nun jen, sinjorino Helseth. Nun vi
+povas enlasi lin. (Ŝi iras al la fenestro.)
+
+(Mallonge poste _rektoro Kroll_ envenas de dekstre. Li salutas
+silente kaj formale kaj tenas la ĉapelon en la mano.)
+
+KROLL
+
+Li do eliris?
+
+REBEKKA
+
+Jes.
+
+KROLL
+
+Ĉu li kutimas promeni longe?
+
+REBEKKA
+
+Ho jes. Sed hodiaŭ mi ne certas. Kaj se vi ne volas renkonti lin —
+
+KROLL
+
+Ne, ne. Estas vi al kiu mi volas paroli. Kaj nur duope.
+
+REBEKKA
+
+Do urĝas uzi la tempon. Eksidu, sinjoro rektoro.
+
+(Ŝi eksidas en la apogseĝon ĉe la fenestro. _Rektoro Kroll_
+eksidas sur seĝon apud ŝi.)
+
+KROLL
+
+Fraŭlino West, — vi apenaŭ povas percepti, kiom profunde kaj
+dolore tuŝas mian koron — tiu ŝanĝo, kiu okazis en Johannes
+Rosmer.
+
+REBEKKA
+
+Ni estis pretaj, ke tiaĵo okazus — en la komenco.
+
+KROLL
+
+Nur en la komenco?
+
+REBEKKA
+
+Rosmer havis la certan esperon, ke frue aŭ malfrue vi irus kun li.
+
+KROLL
+
+Mi!
+
+REBEKKA
+
+Kaj vi kaj ĉiuj liaj aliaj amikoj.
+
+KROLL
+
+Jen vidu! Tiel malforta estas lia juĝkapablo, kiam temas pri homoj
+kaj rilatoj en la vivo.
+
+REBEKKA
+
+Cetere, — kiam li nun sentas devige liberigi sin al ĉiuj flankoj —
+
+KROLL
+
+Jes, sed vidu, — estas ĝuste _tio_, kion mi ne kredas.
+
+REBEKKA
+
+Kion vi do kredas?
+
+KROLL
+
+Mi kredas, ke estas _vi_, kiu staras malantaŭ ĉio.
+
+REBEKKA
+
+Tion kredigis al vi via edzino, rektoro Kroll.
+
+KROLL
+
+Ne gravas de kiu mi havas la ideon. Sed certe estas, ke mi portas
+fortan dubon, — ege fortan dubon, mi diras, — kiam mi pripensas kaj
+analizas vian tutan konduton ekde via alveno ĉi tien.
+
+REBEKKA
+
+(rigardas lin) Ŝvebas en mia memoro, ke estis tempo, kiam vi portis
+fortan fidon al mi, kara rektoro. Varman fidon mi dirus.
+
+KROLL
+
+(mallaŭte) Kiun viron vi ne povus sorĉi, — kiam vi celus?
+
+REBEKKA
+
+Ĉu mi celis —!
+
+KROLL
+
+Jes, vi celis. Tiel stulta mi ne plu estas, ke mi imagas al mi, ke
+estis iu sento en la ludo. Vi nepre volis aranĝi por vi eniron en
+Rosmersholm. Fikse lokigi vin ĉi tie. Pri tio mi helpus vin. Nun mi
+vidas.
+
+REBEKKA
+
+Vi do tute forgesis, ke estas Beate, kiu petegis al mi translokiĝi
+ĉi tien.
+
+KROLL
+
+Jes, kiam vi estis ankaŭ ŝin sorĉinta. Aŭ ĉu povas nomiĝi
+amikeco, kion ŝi sentis por vi? Ĝi ŝanĝiĝis al diigo, — al
+adoro. Ĝi ekscesiĝis al, — kion nomi ĝin? — al ia desperata
+enamiĝo. Jes, tiu estas la ĝusta vorto.
+
+REBEKKA
+
+Vi devas nepre memori la staton de via fratino. Pri mi, mi certas, ke
+oni ne povas diri, ke mi iel estas ekzaltita.
+
+KROLL
+
+Certe ne. Sed des pli danĝera vi fariĝas por la homoj, kiujn vi
+volas superpotenci. Vi facile agas intence kaj laŭ difinita planado,
+— ĝuste ĉar vi portas fridan koron.
+
+REBEKKA
+
+Fridan? Ĉu vi certas?
+
+KROLL
+
+Nun mi tute certas. Alie vi ne estus povinta restadi ĉi tie jaron
+post jaro sekvante vian celon tiel neskueble. Nu jes, — vi atingis,
+kion vi volis. Vi prenis lin kaj la tuton en vian potencon. Sed por
+realigi tion, vi ne detenis vin fari lin malfeliĉa.
+
+REBEKKA
+
+Ne estas vero. Ne estas mi. Estas vi mem, kiu faris lin malfeliĉa.
+
+KROLL
+
+Mi, ĉu!
+
+REBEKKA
+
+Jes, kiam vi puŝis lin en la imagon, ke li estas kulpa pri la terura
+fino de Beate.
+
+KROLL
+
+Nu, tio do tuŝis lin tiel profunde?
+
+REBEKKA
+
+Tion vi do povas imagi. Tiel mola animo kiel la lia —
+
+KROLL
+
+Mi pensis, ke tielnomata liberigita viro scius malrespekti ĉiujn
+skrupulojn. — Sed jen tiel do estas! Ho jes, — funde mi ja tion
+sciis. La posteulo de tiuj viroj, kiuj ĉi tie el la portretoj
+rigardas nin, — li evitos eltiri sin de tio, kio nevendeble pasis
+kiel heredaĵo de generacio al generacio.
+
+REBEKKA
+
+(rigardas penseme antaŭen) Johannes Rosmer havas profundajn radikojn
+en la parencaro. Certe kaj vere.
+
+KROLL
+
+Jes, kaj tion vi devus respekti, se vi havus bonkorecon por li. Sed
+kompreneble vi ne povis atenti tiajn konsiderojn. Viaj kondiĉoj
+estas ja grandege malsimilaj al la liaj.
+
+REBEKKA
+
+Al kiaj kondiĉoj vi aludas?
+
+KROLL
+
+Mi pensas pri la kondiĉoj en la komenco. En la origino, — fraŭlino
+West.
+
+REBEKKA
+
+Nu tiel. Jes, vere — mi venis el tre malriĉaj kondiĉoj. Sed tamen
+—
+
+KROLL
+
+Ne estas stato kaj pozicio, al kiuj mi aludas. Mi pensas pri la
+moralaj kondiĉoj.
+
+REBEKKA
+
+Kondiĉoj —? Por kio?
+
+KROLL
+
+Ke vi entute koncipiĝis
+
+REBEKKA
+
+Kion vi jen do diras!
+
+KROLL
+
+Mi tion diras nur, ĉar ĝi klarigas vian tutan konduton.
+
+REBEKKA
+
+Tion mi ne komprenas. Mi volas ĉion scii!
+
+KROLL
+
+Mi vere opiniis, ke vi jam ĉion scias. Alie estus strange, ke vi
+lasis vin adopti de doktoro West —
+
+REBEKKA
+
+(ekstaras) Ah, tiel! Nun mi komprenas.
+
+KROLL
+
+— ke vi prenis lian nomon. La nomo de via patrino estis Gamvik.
+
+REBEKKA
+
+(paŝas sur la planko) Mia patra nomo estis Gamvik, sinjoro rektoro.
+
+KROLL
+
+La okupo de via patrino devis ja ofte meti ŝin en rilaton kun la
+distrikta kuracisto.
+
+REBEKKA
+
+Vi pravas.
+
+KROLL
+
+Kaj li prenas vin al si, — tuj kiam via patrino mortis. Li traktas
+vin severe. Sed tamen vi restas ĉe li. Vi scias, ke li postlasos al
+vi eĉ ne ŝilingon. Vi ricevis ja nur keston da libroj. Kaj tamen vi
+persistas ĉe li. Indulgas lin. Vartas lin eĉ al la fino.
+
+REBEKKA
+
+(ĉe la pordo, rigardas lin moke) Kaj ĉar mi ĉion tion faris, —
+tion vi klarigas per kredo, ke estis io malĉasta, — io krima en mia
+ekesto!
+
+KROLL
+
+Kion vi faris por li, mi deduktas el senpera filina instinkto. Vian
+tutan vivadon ceteran mi rigardas kiel sekvon de via origino.
+
+REBEKKA
+
+(impete) Sed ne troviĝas vera vorto en tio, kion vi diras! Kaj mi
+povas pruvi! Ĉar doktoro West ne estis veninta al Finnmark, kiam mi
+naskiĝis.
+
+KROLL
+
+Pardonu, — fraŭlino. Li alvenis la jaron antaŭe. Tion mi esploris.
+
+REBEKKA
+
+Vi eraras, mi diras! Vi tute eraras!
+
+KROLL
+
+Vi diris antaŭhieraŭ, ke vi havas dudek naŭ jarojn. Estas en la
+trideka.
+
+REBEKKA
+
+Ĉu? Ĉu mi diris?
+
+KROLL
+
+Jes. Vi faris. Kaj el tio mi povas kalkuli —
+
+REBEKKA
+
+Haltu! Ne helpas kalkuli. Ĉar mi povas same bone tuj diri al vi: Mi
+estas unu jaron pli aĝa ol mi ŝajnigas.
+
+KROLL
+
+(ridetas dubeme) Vere? Jen io nova. Kiel tio okazis?
+
+REBEKKA
+
+Kiam mi plenumis la dudek-kvinan, ŝajnis al mi, — senedza kia mi
+estis, — ke mi fariĝis tro maljuna. Kaj mi decidis mensogi pri unu
+jaro.
+
+KROLL
+
+Vi? Liberigita virino. Ĉu vi havas antaŭjuĝojn rilate al geedziĝa
+aĝo?
+
+REBEKKA
+
+Jes, estis ege stulte, — kaj ankaŭ ridinde. Sed ĉiam alpendiĝas
+io aŭ alia, de kio oni ne povas liberigi sin. Ni ja estas tiaj.
+
+KROLL
+
+Jen do pri tio. Sed la kalkulo tamen povas esti ĝusta. Ĉar doktoro
+West faris rapidan viziton tie la jaron antaŭ ol li dungiĝis.
+
+REBEKKA
+
+(ekkrias) Ne estas vero!
+
+KROLL
+
+Ĉu ne vero?
+
+REBEKKA
+
+Ne. Ĉar tion patrino neniam menciis.
+
+KROLL
+
+Ĉu ŝi ne faris?
+
+REBEKKA
+
+Ne, neniam. Kaj ankaŭ ne doktoro West. Neniam per sola vorto.
+
+KROLL
+
+Ĉu ne estus, ĉar ili ambaŭ havis kaŭzojn por transsalti jaron?
+Kiel _vi_ faris, fraŭlino West. Estas eble karakterizaĵo en la
+parencaro.
+
+REBEKKA
+
+(paŝadas ĉirkaŭe, pugnigas kaj tordas la manojn) Ne eblas. Estas
+nur io, kion vi volas kredigi al mi. Neniam je la mondo ke tio ĉi
+estas vero. Ne povas esti vero! Neniam je la mondo —!
+
+KROLL
+
+(ekstaras) Sed kara, — kial je Dio vi ekscitiĝas? Vi vere
+konsternas min! Kion mi kredu kaj pensu —!
+
+REBEKKA
+
+Nenion. Vi nek kredu nek pensu ion ajn.
+
+KROLL
+
+Do vi vere devas klarigi al mi, kial vi pri tiu ebleco, — tiel forte
+reagas.
+
+REBEKKA
+
+(regas sin) Estas ja tute simple, rektoro Kroll. Mi ne volas esti
+traktata kiel nelegitima naskiĝinto.
+
+KROLL
+
+Nu tiel. Nu ja, ni nur notu tiun klarigon — ĝis plue. Sed vi do
+konservis iun — antaŭjuĝon ankaŭ je tiu punkto.
+
+REBEKKA
+
+Jes, eble mi do faris.
+
+KROLL
+
+Nu, mi opinias, ke estas same pri la plimulto de tio, kion vi nomas
+vian liberecon. Vi legis kaj kaptis aron da novaj ideoj. Vi sciiĝis
+pri esploro en diversaj regionoj, — esploroj, kiuj aspekte renversas
+grandan parton de tio ĉe ni ĝis nun nerenversebla kaj neatakebla.
+Sed ĉio tio restas nur scio en vi, fraŭlino West. Nur scio. Ĝi ne
+eniris vian sangon.
+
+REBEKKA
+
+(dubeme) Eble vi pravas.
+
+KROLL
+
+Jes, nur provu vin mem, kaj vi vidos! Kaj kiam tiel estas pri vi, oni
+ja komprenas kiel statas pri Johannes Rosmer. Estas ja pura, klara
+frenezaĵo, — tiel ĵeti sin ĝuste en la pereon, kiam _li_ volas
+malkaŝe ekstari kaj konfesi sin apostato! Imagu, — li kun tiu
+timemo en la animo! Imagu _lin_ elpelita, — persekutata de la rondo
+al kiu li ĝis nun apartenis. Elmetata al senkonsideraj atakoj de la
+elstaraj altuloj en la socio. Neniam en sia vivo li estos viro por
+kontraŭstari tion.
+
+REBEKKA
+
+Li _devas_ kontraŭstari! Nun estas tro malfrue por retiri sin.
+
+KROLL
+
+Ne tro malfrue. Neniel. Kio okazis, ni povas silentigi, — aŭ estas
+almenaŭ klarigebla kiel nura pasinta, eĉ se bedaŭrinda, eraro. Sed
+— unu dispozicio tamen estas ja nepre necesa.
+
+REBEKKA
+
+Kaj kiu estas ĝi?
+
+KROLL
+
+Vi devas konvinki lin leĝigi la rilaton, fraŭlino West.
+
+REBEKKA
+
+La rilaton al mi?
+
+KROLL
+
+Jes. Vi devas konvinki lin tiel.
+
+REBEKKA
+
+Vi do absolute ne povas liberigi vin de la opinio, ke nia rilato
+bezonas — esti leĝiĝinta, kiel vi diras?
+
+KROLL
+
+Mi ne volas ekrilati pli proksime en la aferon mem. Sed vere mi
+opinias esti observinta, ke _tie_ kie estas plej facile rompi ĉiujn
+tielnomatajn antaŭjuĝojn, estas en — hm —
+
+REBEKKA
+
+— en la rilato inter viro kaj virino, vi aludas?
+
+KROLL
+
+Jes, — sincere dirite, — tion mi opinias.
+
+REBEKKA
+
+(paŝadas sur la planko kaj rigardas tra la fenestro) Mi estus
+dirinta, — ke tiel estus ke vi pravus, rektoro Kroll.
+
+KROLL
+
+Kion vi per tio aludas? Vi esprimas vin tiel strange.
+
+REBEKKA
+
+Ĉu! Sed ni ne parolu pli pri tiuj aferoj. — Ah, — jen li venas.
+
+KROLL
+
+Jam nun! Mi do foriros.
+
+REBEKKA
+
+(al li) Ne, — restu. Ĉar nun vi ion aŭdos.
+
+KROLL
+
+Ne nun. Ŝajnas al mi ke mi ne toleras vidi lin.
+
+REBEKKA
+
+Mi petas, — restu. Faru. Aŭ vi pentos poste. Estas la lasta fojo,
+ke mi petas al vi pri io.
+
+KROLL
+
+(rigardas ŝin surprize kaj demetas la ĉapelon) Nu do, fraŭlino
+West. Tiel do estu.
+
+(Silente dum momento. _Johannes Rosmer_ envenas de la antaŭĉambro.)
+
+ROSMER
+
+(vidas la _rektoron_, haltas ĉe la pordo) Ĉu! — _Vi_ ĉi tie!
+
+REBEKKA
+
+Li preferus ne renkonti vin, kara.
+
+KROLL
+
+(aŭtomate) Kara!
+
+REBEKKA
+
+Jes, sinjoro rektoro. Rosmer kaj mi — ni amike parolas unu al la
+alia. La rilato inter ni kondukis al tio.
+
+KROLL
+
+Ĉu _tio_ estas, kion vi promesis, ke mi aŭdu?
+
+REBEKKA
+
+Kaj _tion_ — kaj ion pli.
+
+ROSMER
+
+(proksimas) Kion celas la vizito hodiaŭ?
+
+KROLL
+
+Mi volis ankoraŭfoje provi haltigi vin kaj gajni vin reen.
+
+ROSMER
+
+(montras al la gazeto) Post tio kio estas skribita _tie_?
+
+KROLL
+
+Mi ne skribis tion.
+
+ROSMER
+
+Ĉu vi faris elpaŝon por reteni tion?
+
+KROLL
+
+Tio estus nepravigebla al la afero, kiun mi servas. Cetere ĝi ne
+estis en mia povo.
+
+REBEKKA
+
+(ŝiras la gazeton en pecojn, kunĉifas ilin kaj ĵetas ilin
+malantaŭ la fornon.) Jen. Nun ĝi estas el la vido. Kaj ke ĝi
+ankaŭ estu el la animo. Ĉar ne venos pli el tiaĵo, Rosmer.
+
+KROLL
+
+Ho, se vi tion povus _tiel_ ordigi.
+
+REBEKKA
+
+Venu, kaj ni eksidu karaj. Ĉiuj tri. Kaj mi diros ĉion.
+
+ROSMER
+
+(eksidas aŭtomate) Kio estas al vi, Rebekka! Tiu sinistra trankvilo
+—. Kio estas?
+
+REBEKKA
+
+La trankvilo de la decido. (eksidas) Eksidu ankaŭ vi, rektoro.
+
+(_Rektoro Kroll_ prenas lokon en la sofo.)
+
+ROSMER
+
+Decido, vi diras? Kiu decido?
+
+REBEKKA
+
+Mi volas redoni al vi, kion vi bezonas por vivi la vivon. Vi rericevu
+vian ĝojan senkulpecon, kara amiko.
+
+ROSMER
+
+Sed kion tio signifas!
+
+REBEKKA
+
+Mi volas nur rakonti. Nenio alia bezoniĝas.
+
+ROSMER
+
+Nu!
+
+REBEKKA
+
+Kiam mi venis ĉi tien el Finnmark — kune kun doktoro West, —
+ŝajnis al mi, ke kvazaŭ malfermiĝis por mi nova, granda, vasta
+mondo. La doktoro estis al mi instruinta iom el ĉio. Ĉiujn scietojn
+miajn pri la vivo tiam. (luktante kaj apenaŭ aŭdeble) Kaj jen —
+
+KROLL
+
+Kaj jen?
+
+ROSMER
+
+Sed, Rebekka, — tion ĉi mi ja scias.
+
+REBEKKA
+
+(fortigas sin) Jes, ja, — vi pravas. Vi scias _sufiĉe_ pri tio.
+
+KROLL
+
+(rigardas ŝin fikse) Eble mi foriru.
+
+REBEKKA
+
+Ne, sidu, kara rektoro. (al Rosmer) Estis ja _tio_, vidu, — ke mi
+volis partopreni en la nova tempo, kiu rompis al si vojon. Partopreni
+en la novaj ideoj. — Rektoro Kroll iun fojon rakontis al mi, ke
+Ulrik Brendel dum tempo havis grandan potencon super vi, dum vi
+ankoraŭ estis knabo. Ŝajnis al mi, ke mi povus denove revivigi
+tion.
+
+ROSMER
+
+Ĉu vi venis ĉi tien kun kaŝa intenco —?
+
+REBEKKA
+
+Mi deziris, ke ni du iru kune antaŭen en libereco. Ĉiam antaŭen.
+Ĉiam plu antaŭen. — Sed staris ja tiu sombra, netransirebla muro
+inter vi kaj la tuta, plena liberiĝo.
+
+ROSMER
+
+Kiun muron vi aludas?
+
+REBEKKA
+
+Mi pensas, Rosmer, ke vi ne povis libere kreski, krom en la klara
+sunbrilo. Kaj vi malfortiĝadis kaj defaladis ĉi tie en la sombro de
+tia geedzeco.
+
+ROSMER
+
+Neniam antaŭe vi parolis al mi pri mia geedzeco _tia_maniere.
+
+REBEKKA
+
+Ne, mi ne kuraĝis, ĉar tiaokaze mi estus vin timiginta.
+
+KROLL
+
+(kapsignas al Rosmer) Ĉu vi aŭdas _tion_?
+
+REBEKKA
+
+(daŭrigas) Sed mi bone komprenis kie estas via savo. La sola savo.
+Kaj jen mi agis.
+
+ROSMER
+
+Al kiuj agoj vi aludas?
+
+KROLL
+
+Ĉu per tio vi volas diri, ke —!
+
+REBEKKA
+
+Nu, Rosmer, —. (ekstaras) Restu sidanta ankaŭ vi, rektoro Kroll.
+Sed nun mi malkaŝigu. Ne estis vi, Rosmer. Vi estas senkulpa. Estis_
+mi_, kiu logis —, kiu kaŭzis, ke Beate logiĝis sur la vojojn de
+deliro —
+
+ROSMER
+
+(eksaltas) Rebekka!
+
+KROLL
+
+(ekstaras de la sofo) — sur la vojojn de deliro!
+
+REBEKKA
+
+Sur la vojojn, — kiuj kondukis al la akvofalo. Nun vi ambaŭ scias.
+
+ROSMER
+
+(kvazaŭ paralizita) Sed mi ne komprenas —. Kion ŝi estas diranta?
+Mi komprenas eĉ ne vorton —!
+
+KROLL
+
+Ho jes. Mi komencas kompreni.
+
+ROSMER
+
+Sed kion vi do faris! Kion vi do povis diri al ŝi? Estas ja nenio.
+Tute nenio!
+
+REBEKKA
+
+Ŝi eksciis, ke vi estis vin laboriganta el la malnovaj antaŭjuĝoj.
+
+ROSMER
+
+Jes, sed tion mi ja ne tiam faris.
+
+REBEKKA
+
+Mi sciis, ke vi baldaŭ farus.
+
+KROLL
+
+(kapklinas al _Rosmer_) Aha!
+
+ROSMER
+
+Kaj jen? Kio pli? Nun mi volas scii ankaŭ la reston.
+
+REBEKKA
+
+Iom poste — mi petegis al ŝi permeson foriri de Rosmersholm.
+
+ROSMER
+
+Kial vi volis foriri — tiam?
+
+REBEKKA
+
+Mi ne volis foriri. Mi volis resti, kie mi estis. Sed mi diris al
+ŝi, ke estus la pli bona por ni ĉiuj — se mi malaperus entempe. Mi
+komprenigis al ŝi, ke se mi restus pli longe, — povus, — povus
+okazi, — kio ajn.
+
+ROSMER
+
+Tio do estas, kion vi diris kaj faris.
+
+REBEKKA
+
+Jes, Rosmer.
+
+ROSMER
+
+Estas _tio_, kion vi nomis agi.
+
+REBEKKA
+
+(kun rompita voĉo) Mi nomis ĝin tiel, jes.
+
+ROSMER
+
+(iom poste) Ĉu vi nun konfesis ĉion, Rebekka?
+
+REBEKKA
+
+Jes.
+
+KROLL
+
+Ne ĉion.
+
+REBEKKA
+
+(rigardas lin timigite) Kio plia estus?
+
+KROLL
+
+Ĉu vi ne fine kredigis al Beate, ke estis necese, — ne nur ke estis
+pli bone, — sed estis necese, pro vi kaj Rosmer, ke vi forirus
+aliloken — plej eble frue? — Nu?
+
+REBEKKA
+
+(malrapide kaj malklare) Eble mi ankaŭ diris tion.
+
+ROSMER
+
+(falas en la apogseĝon apud la fenestro) Kaj tiu araneaĵo el
+mensogo kaj trompo ŝi, — la malfeliĉa malsanulino, kredadis!
+Kredis plene kaj fide! Tiel neŝanceleble! (rigardas al _Rebekka_)
+Kaj neniam ŝi turnis sin al mi. Neniam per unu vorto! Ho, Rebekka,
+— mi vidas en vi, — tion _vi_ malkonsilis al ŝi!
+
+REBEKKA
+
+Ŝi estis ja enkapiginta, ke ŝi, — kia edzino seninfana, ne rajtis
+esti ĉi tie. Kaj ŝi imagis, ke estas ŝia devo al vi cedi la lokon.
+
+ROSMER
+
+Kaj vi, — vi faris nenion por tiri ŝin el tiu imagaĵo?
+
+REBEKKA
+
+Ne.
+
+KROLL
+
+Vi plifortigis ĝin, ĉu? Respondu! Ĉu vi ne faris?
+
+REBEKKA
+
+Ŝi eble komprenis min tiel, mi pensas.
+
+ROSMER
+
+Nu ja, — kaj por via volo ŝi klinis sin en ĉiuj aferoj. Kaj ŝi
+cedis la lokon. (eksaltas) Kiel povis — kiel povis vi daŭrigi tiun
+teruran ludon!
+
+REBEKKA
+
+Mi opiniis, ke estas elekto inter du vivoj, Rosmer.
+
+KROLL
+
+(severe kaj aŭtoritate) Vi ne rajtis fari tian elekton!
+
+REBEKKA
+
+(impete) Sed ĉu vi opinias, ke mi agadis kun malvarma, ruza animo!
+Mi ne estis tia, en tiu tempo, kiel nun, rakontante kio okazis. Kaj
+estas ja du specoj de volo en homo, mi pensas! Mi volis forigi Beate.
+Iel. Sed mi neniam kredis, ke okazus. Ĉe ĉiu paŝo, kiun mi
+kuraĝis fari antaŭen, estis kvazaŭ io kriis en mia interno: Nun ne
+pluen! Eĉ ne paŝon pluen! — Kaj tamen mi ne _povis_ ĉesi. Mi
+_devis_ provi iometon ankoraŭ. Nur iometon. Kaj iomete pli — kaj
+ĉiam iomete pli. Kaj fine _okazis_. — Estas tiel, ke tiaĵo okazas.
+(mallonga paŭzo)
+
+ROSMER
+
+(al Rebekka) Kiel vi opinias, ke poste okazos por _vi_? Post tio ĉi?
+
+REBEKKA
+
+Por mi povos okazi kio ajn. Ne multe gravas.
+
+KROLL
+
+Neniu vorto indikante penton. Vi eble neniun sentas?
+
+REBEKKA
+
+(malvarme, repuŝante) Pardonu, sinjoro rektoro, — tio estas afero,
+kiu ne rilatas al aliuloj. Ĝin mi prizorgos mem.
+
+KROLL
+
+(al _Rosmer_) Kaj kun tiu virino vi vivas sub la sama tegmento. En
+intima rilato. (rigardas al la portretoj) Ho, — tiuj, kiuj forpasis,
+— nun ili estus vidantaj!
+
+ROSMER
+
+Vi iros al la urbo, ĉu?
+
+KROLL
+
+(prenas sian ĉapelon) Jes. Plej eble frue.
+
+ROSMER
+
+(ankaŭ li prenas sian ĉapelon) Mi do akompanos vin.
+
+KROLL
+
+Vi volas! Jes mi pensis, ke ni ne estus vin tute perdintaj.
+
+ROSMER
+
+Venu do, Kroll! Venu do!
+
+(Ambaŭ eliras tra la antaŭĉambro sen rigardi al _Rebekka_. Iom
+poste _Rebekka_ iras singardeme al la fenestro kaj elrigardas inter
+la floroj.)
+
+REBEKKA
+
+(parolas duonlaŭte al si mem) Ne trans la ponton, eĉ ne hodiaŭ.
+Iras supre. Neniam transvenas la akvofalon. Neniam. (iras de la
+fenestro) Nu ja! (aliras kaj tiras la sonorilŝnuron)
+
+(Post iom _sinjorino Helseth_ envenas de dekstre.)
+
+SINJORINO HELSETH
+
+Kio estas, fraŭlino?
+
+REBEKKA
+
+Sinjorino Helseth, bonvolu serĉi mian valizon de la subtegmento.
+
+SINJORINO HELSETH
+
+La valizon?
+
+REBEKKA
+
+Jes, la bruna valizo el foka felo, kiel vi scias.
+
+SINJORINO HELSETH
+
+Nu ja. Sed Dio gardu min, — ĉu la fraŭlino volas vojaĝi?
+
+REBEKKA
+
+Jes, — nun mi volas vojaĝi, sinjorino Helseth.
+
+SINJORINO HELSETH
+
+Kaj tiel subite kaj tuje!
+
+REBEKKA
+
+Tuj kiam mi pakis.
+
+SINJORINO HELSETH
+
+Nun mi neniam aŭdis tiaĵon! Sed la fraŭlino certe revenos, mi
+scias?
+
+REBEKKA
+
+Mi neniam plu revenos.
+
+SINJORINO HELSETH
+
+Neniam! Sed, bona Dio, kiel estos ĉi tie en Rosmersholm, kiam
+fraŭlino West ne plu ĉeestas? Nun estis ja tiel bone kaj afable por
+la pastoro.
+
+REBEKKA
+
+Jes, sed hodiaŭ mi timiĝis, sinjorino Helseth.
+
+SINJORINO HELSETH
+
+Timiĝis! Jeĉjo, pro kio?
+
+REBEKKA
+
+Jes, aspekte mi kaptis videton de blankaj ĉevaloj.
+
+SINJORINO HELSETH
+
+De blankaj ĉevaloj! Meze en taglumo!
+
+REBEKKA
+
+Ho, ili elkuras kaj frue kaj malfrue, — la blankaj ĉevaloj en
+Rosmersholm. (ŝanĝas temon) Nu, — do pri la valizo, sinjorino
+Helseth.
+
+SINJORINO HELSETH
+
+Jes ja. La valizo.
+
+(Ambaŭ eliras dekstre.)
+
+
+
+
+KVARA AKTO
+
+
+(La sidĉambro en _Rosmersholm_. Estas malfrua vespero. Lampo kun
+ŝirmilo super lumas sur la tablo. _Rebekka West_ staras apud la
+tablo pakante kelkajn aĵetojn en valizon. Ŝiaj mantelo, ĉapelo kaj
+la blanka kroĉaĵo pendas super la dorso de la sofo. _Sinjorino
+Helseth_ envenas de dekstre.)
+
+SINJORINO HELSETH
+
+(parolas mallaŭte kaj aspektas rezerveme) Jes, nun ĉiuj aĵoj estas
+portitaj elen, fraŭlino. Ili staras en la kuireja koridoro.
+
+REBEKKA
+
+Bone. La veturigisto estas mendita, ĉu?
+
+SINJORINO HELSETH
+
+Jes. Li demandas, kiam li estu ĉi tie kun la ĉaro.
+
+REBEKKA
+
+Mi opinias, ke ĉirkaŭ la dekunua horo. La vaporŝipo foriros je
+noktomezo.
+
+SINJORINO HELSETH
+
+(iom hezitanta) Sed pri la pastoro? Se li ne revenos hejmen ĝis
+tiam?
+
+REBEKKA
+
+Mi tamen forvojaĝos. Se mi ne vidos lin, diru, ke mi skribos. Longan
+leteron. Diru tion.
+
+SINJORINO HELSETH
+
+Jes, povas esti bone skribi. Sed bedaŭrinda fraŭlino, — mi tamen
+opinias, ke vi devus provi paroli kun li ankoraŭfoje.
+
+REBEKKA
+
+Eble tio. Aŭ eble tamen ne.
+
+SINJORINO HELSETH
+
+Ne, — imagu ke mi travivu tion ĉi, — tion mi neniam imagis!
+
+REBEKKA
+
+Kion vi do imagis, sinjorino Helseth?
+
+SINJORINO HELSETH
+
+Ho, mi pensis, ke pastoro Rosmer estus pli fidinda viro ol tio ĉi.
+
+REBEKKA
+
+Pli fidinda?
+
+SINJORINO HELSETH
+
+Jes tion mi efektive diras.
+
+REBEKKA
+
+Sed, kara, kion vi per tio aludas?
+
+SINJORINO HELSETH
+
+Mi pensas, kiel vere kaj ĝuste estas, fraŭlino. Li ne liberigus sin
+el tio en _tia_ maniero, ne.
+
+REBEKKA
+
+(rigardas ŝin) Aŭskultu nun, sinjorino Helseth. Diru al mi honeste
+kaj sincere, — kial, pensas vi, ke mi forvojaĝos?
+
+SINJORINO HELSETH
+
+Je Dio, certe estas necese, fraŭlino. Nu ja, nu ja! Sed mi opinias,
+ke ne estas ĝentile farita de la pastoro. Mortensgård havis ja
+ekskuzon, li. Ĉar ŝi havis ja edzon en vivo. Kaj _tiuj_ du ne
+povis geedziĝi, spite al iu volo. Sed vidu la pastoron, li — hm!
+
+REBEKKA
+
+(kun rideto) Ĉu vi imagus tiaĵon inter mi kaj pastoro Rosmer?
+
+SINJORINO HELSETH
+
+Neniam je la mondo. Nu, mi pensas, — ne antaŭ hodiaŭ.
+
+REBEKKA
+
+Sed hodiaŭ do —?
+
+SINJORINO HELSETH
+
+Nu, — post ĉiuj infamaĵoj, kiujn homoj diras, ke estas pri la
+pastoro en la gazetoj, mi —
+
+REBEKKA
+
+Aha!
+
+SINJORINO HELSETH
+
+Ĉar estas mia opinio, ke tiu viro, kiu povas transiri al la religio
+de Mortensgård, li estas, je Dio, kredinda al kio ajn.
+
+REBEKKA
+
+Nu, povas esti. Sed mi do? Kion vi diras pri mi?
+
+SINJORINO HELSETH
+
+Ho tamen, fraŭlino, — pri vi ne estas multe direnda. Certe ne estas
+facile por soleca virino kontraŭstari, mi pensas. — Ni estas ja
+ĉiuj homoj, — fraŭlino West.
+
+REBEKKA
+
+Vera vorto, sinjorino Helseth. Ĉiuj estas ni homoj. — Por kio vi
+aŭskultas?
+
+SINJORINO HELSETH
+
+(mallaŭte) Ho, Jeĉjo, — jen mi pensas ke li venas ĝuste precize.
+
+REBEKKA
+
+(skuiĝas) Do tamen —! (decide) Nu jes. Do tiel estu.
+
+(_Johannes Rosmer_ envenas de la antaŭĉambro.)
+
+ROSMER
+
+(vidas la vojaĝvestaĵojn, turnas sin al _Rebekka_ kaj demandas)
+Kion tio ĉi signifas?
+
+REBEKKA
+
+Mi forvojaĝos.
+
+ROSMER
+
+Tuj?
+
+REBEKKA
+
+Jes. (al sinjorino _Helseth_) Do je la dekunua.
+
+SINJORINO HELSETH
+
+Bone, fraŭlino. (ŝi eliras dekstre)
+
+ROSMER
+
+(post mallonga paŭzo) Kien vi forvojaĝos, Rebekka?
+
+REBEKKA
+
+Norden per la vaporŝipo.
+
+ROSMER
+
+Norden? Kion vi faros tie norde?
+
+REBEKKA
+
+Mi ja venis de tie.
+
+ROSMER
+
+Sed tie norde vi ja havas nenion por fari nun.
+
+REBEKKA
+
+Eĉ ne ĉi tie.
+
+ROSMER
+
+Kion vi pensas entrepreni?
+
+REBEKKA
+
+Mi ne scias. Mi nur volas fari finon al la afero.
+
+ROSMER
+
+Fari finon?
+
+REBEKKA
+
+Rosmersholm rompis min.
+
+ROSMER
+
+(atentiĝas) Vi diras —?
+
+REBEKKA
+
+Rompis min en pecojn. — Mi havis fortan, kuraĝan volon, kiam mi
+venis ĉi tien. Nun mi estas subjugita sub fremdan leĝon. — De nun
+mi ne kredas, ke mi ion pli kuraĝos fari.
+
+ROSMER
+
+Kial ne? Kia leĝo estas tiu, pri kiu vi diras, ke —?
+
+REBEKKA
+
+Kara, ni ne parolu pri _tio_ nun. — Kio do okazis inter vi kaj la
+rektoro?
+
+ROSMER
+
+Ni repaciĝis.
+
+REBEKKA
+
+Nu do. Rezultis do en tio.
+
+ROSMER
+
+Li kolektis nian tutan rondon amikaran ĉe si. Ili evidentigis por
+mi, ke la laboro por nobligi la animojn, — tute ne konvenas al mi.
+— Kaj estas ja en si mem senespera. — Mi lasas tion kuŝi.
+
+REBEKKA
+
+Nu jes, — eble estas pli bone tiel.
+
+ROSMER
+
+Ĉu vi nun _tion_ diras? Ĉu vi _nun_ havas _tiun_ opinion?
+
+REBEKKA
+
+Mi venis al tiu opinio. Dum la lastaj kelkaj tagoj.
+
+ROSMER
+
+Vi mensogas, Rebekka.
+
+REBEKKA
+
+Mensogas —!
+
+ROSMER
+
+Jes, vi mensogas. Vi neniam kredis pri mi. Neniam vi kredis, ke mi
+estus viro por lukte konduki la aferon al venko.
+
+REBEKKA
+
+Mi kredis, ke ni du kune kapablus.
+
+ROSMER
+
+Ne vere. Vi kredis, ke vi mem povus fari ion grandan en la vivo. Ke
+vi povus uzi min por tio, kion vi volis ebligi. Ke mi povus servi al
+viaj celoj. _Jen_ kion vi kredis.
+
+REBEKKA
+
+Aŭskultu nun, Rosmer —
+
+ROSMER
+
+(eksidas peze en la sofon) Ho lasu! Mi nun vidas la fundon de ĉio.
+Mi estis kiel ganto en viaj manoj.
+
+REBEKKA
+
+Aŭskultu nun, Rosmer. Ni priparolu tion. Estas la lasta fojo.
+(eksidas sur seĝon apud la sofo) Mi intencis skribi al vi pri ĉio,
+— kiam mi estus reveninta norden. Sed eble estas pli bone, ke vi
+aŭdu tuj.
+
+ROSMER
+
+Ĉu vi havas ankoraŭ pli por konfesi?
+
+REBEKKA
+
+La granda restas.
+
+ROSMER
+
+Kio granda?
+
+REBEKKA
+
+Tio, kion vi neniam komprenetis. Tio, kio donas kaj lumon kaj ombron
+al ĉio cetera.
+
+ROSMER
+
+(skuas la kapon) Mi nenion komprenas el tio.
+
+REBEKKA
+
+Estas vero, ke mi elĵetis miajn retojn por gajni akceson ĉi tie en
+Rosmersholm. Ĉar mi pensis tiel, ke mi certe sukcesus ĉi tie. Iel
+— komprenu.
+
+ROSMER
+
+Vi ja sukcesis okazigi, kion vi volis.
+
+REBEKKA
+
+Mi kredas, ke mi povus okazigi kion ajn — tiam. Ĉar tiam mi
+ankoraŭ havis mian kuraĝan, liberan volon. Mi ne atentis
+konsiderojn. Ne rilatojn por kiuj elvojiĝi. — Sed jen venis la
+komenco de _tio_, kiu rompis mian volon — kaj timigis min tiel
+bedaŭrinde por la tuta vivo.
+
+ROSMER
+
+Kio venis? Parolu, por ke mi komprenu.
+
+REBEKKA
+
+Tiam obsedis min, — tiu sovaĝa, nesubigebla avido —. Ho, Rosmer
+—!
+
+ROSMER
+
+Avido? Vi —! Al kio?
+
+REBEKKA
+
+Al vi.
+
+ROSMER
+
+(volas eksalti) Kio estas!
+
+REBEKKA
+
+(haltigas lin) Restu sidanta, kara. Nun vi aŭdu pli.
+
+ROSMER
+
+Kaj vi volas diri — ke vi amis min — tiel!
+
+REBEKKA
+
+Ŝajnis al mi, ke devus nomiĝi ami — tiam. Ŝajnis al mi, ke tio
+estis amo. Sed ne estis. Estis kiel mi nun al vi diras. Estis
+sovaĝa, nesubigebla avido.
+
+ROSMER
+
+(pene) Rebekka, — ĉu vere estas vi mem, — vi — vi, pri kiu vi
+sidas rakontante!
+
+REBEKKA
+
+Jes, kion vi imagas, Rosmer!
+
+ROSMER
+
+El tio, — sub la potenco de tio vi do — vi do _agis_, kiel vi tion
+nomas.
+
+REBEKKA
+
+Estis super mi kiel ventego ĉe la maro. Estis kiel unu el la
+ventegoj, kiujn ni dumvintre havas tie norde. Ĝi prenas vin, — kaj
+portas vin kun si, — kien ajn longe. Neniu ideo pri kontraŭstaro.
+
+ROSMER
+
+Kaj ĝi forblovis la bedaŭrindan Beate en la akvofalon.
+
+REBEKKA
+
+Jes, ĉar tiam estis kvazaŭ lukto sur la boatkilo inter Beate kaj
+mi.
+
+ROSMER
+
+Vi vere estis la plej forta en Rosmersholm. Pli forta ol Beate kaj mi
+kune.
+
+REBEKKA
+
+Mi konis vin tiom, ke mi sciis, — al vi neniu vojo estis pasebla,
+antaŭ ol vi estus liberiĝinta kaj en rilatoj — kaj en spirito.
+
+ROSMER
+
+Sed mi ne komprenas vin, Rebekka. Vi — vi mem, — via tuta konduto
+estas por mi nesolvebla enigmo. Nun mi ja estas libera, — kaj en
+spirito kaj en rilatoj. Vi nun staras ĉe la celo, kiun vi unue metis
+antaŭ vin. Kaj nun tamen —!
+
+REBEKKA
+
+Neniam mi estis pli fora de la celo ol nun.
+
+ROSMER
+
+— kaj tamen, mi diras, — kiam hieraŭ mi demandis vin, — petis
+vin: fariĝu mia edzino, — tiam vi kriis en teruro, ke povus neniam
+okazi.
+
+REBEKKA
+
+Mi ekkriis en malespero.
+
+ROSMER
+
+Kial? Ĉar Rosmersholm ŝtelis miajn fortojn. Ĉi tie mia kuraĝa
+volo tondiĝis. Kaj kripliĝis! Tiu tempo nun forpasis por mi, kiam
+mi riskus kuraĝi kion ajn. Mi perdis la kapablon agi, Rosmer.
+
+ROSMER
+
+Diru do kiel tio venis.
+
+REBEKKA
+
+Venis per la vivo kune kun vi.
+
+ROSMER
+
+Sed kiel? Kiel?
+
+REBEKKA
+
+Kiam mi sidis sola kun vi ĉi tie, — kaj vi fariĝis vi mem —
+
+ROSMER
+
+Jes, jes?
+
+REBEKKA
+
+— ĉar vi neniam plene estis vi mem dum Beate vivis —
+
+ROSMER
+
+Bedaŭrinde, vi pravas.
+
+REBEKKA
+
+Sed kiam mi povis vivi kune kun vi ĉi tie, — en silento, — en
+soleco, — kiam vi senpere donis al mi ĉiujn viajn pensojn, — ĉiun
+animstaton, tiel dolĉe kaj bele, kiel vi sentis ĝin, — _tiam_ la
+granda ŝanĝo okazis. Iom post iom, — komprenu. Preskaŭ
+nerimarkeble, — sed fine tiel superfortige. Ĝuste al la fundo de
+mia animo.
+
+ROSMER
+
+Ho, kion do tio signifas, Rebekka!
+
+REBEKKA
+
+Ĉio alia, — tiu malbela, sensoebria avido, ĝi foriĝis tre foren,
+tre foren de mi. Ĉiuj tiuj ekzaltitaj potencoj rezignis silente.
+Malleviĝis anima ripozo super min, — silento kvazaŭ de birdroko
+sub la meznokta suno norde ĉe ni.
+
+ROSMER
+
+Diru pli. Ĉion kion vi scias diri.
+
+REBEKKA
+
+Ne estas multe pli. Estas nur _tio_, ke amo burĝonis en mi. La
+granda, rezignanta amo, kiu kontentiĝas de la kunvivo, tia kia ĝi
+estis inter ni du.
+
+ROSMER
+
+Ho, se mi nur scietis eron de tio!
+
+REBEKKA
+
+Plej bone kiel estas. Hieraŭ, — kiam vi demandis min, ĉu mi volus
+fariĝi via edzino, — mi ĝojkriis —
+
+ROSMER
+
+Jes, ĉu ne, Rebekka! Tiel ŝajnis al mi.
+
+REBEKKA
+
+Momenton, jes. En memforgeso. Ĉar estis mia antaŭa brava volo, kiu
+estis sin denove liberiganta. Sed nun ĝi ne plu havas potencon, —
+kun la tempo, ne.
+
+ROSMER
+
+Kiel vi klarigas tion, kio okazis en vi?
+
+REBEKKA
+
+Estas la vivkoncepto de la Rosmer-parencaro, — aŭ almenaŭ _via_
+vivkoncepto, — kiu infektis mian volon.
+
+ROSMER
+
+Infektis?
+
+REBEKKA
+
+Kaj malsanigis ĝin. Sklave ligis ĝin sub leĝoj, kiuj ne validis
+por mi. Vi, — la vivo kune kun vi, — nobeligis mian animon —
+
+ROSMER
+
+Ho, ĉu tion mi kuraĝus kredi!
+
+REBEKKA
+
+Senriske vi povas tion kredi. La rosmera vivkoncepto nobeligas. Sed
+— (skuas la kapon) — sed, — sed —
+
+ROSMER
+
+Sed? Nu?
+
+REBEKKA
+
+— sed ĝi mortigas la feliĉon.
+
+ROSMER
+
+Ĉu jenon vi diras, Rebekka?
+
+REBEKKA
+
+Almenaŭ por mi.
+
+ROSMER
+
+Jes, sed ĉu vi _tion_ tiel certe scias. Se mi nun denove demandus
+vin —? Petegus vin —
+
+REBEKKA
+
+Ho, kara, — neniam plu parolu pri tio! Neeblas —! Jes, ĉar _sciu_,
+Rosmer, ke mi havas — pasintecon malantaŭ mi.
+
+ROSMER
+
+Ion pli ol vi jam rakontis?
+
+REBEKKA
+
+Jes. Ion alian kaj pli gravan.
+
+ROSMER
+
+(kun rideto) Ĉu ne estas strange, Rebekka. Imagu, ke suspekto de
+tiaĵo foje tanĝis min.
+
+REBEKKA
+
+Ĉu! Kaj tamen —? Tamen? —
+
+ROSMER
+
+Mi neniam fidis ĝin. Mi nur ludis kun ĝi, — tiel en la imago,
+komprenu.
+
+REBEKKA
+
+Se vi postulas, mi tuj diros ankaŭ tion.
+
+ROSMER
+
+(deturnante) Ne, ne! Eĉ ne vorton volas mi scii. Kio ajn kio ĝi
+estas, — mi havas forgeson por ĝi.
+
+REBEKKA
+
+Sed mi ne.
+
+ROSMER
+
+Ho, Rebekka —!
+
+REBEKKA
+
+Jes, kara, — _tio_ estas ja la teruraĵo, ke nun, kiam ofertiĝas al
+mi la feliĉon de la vivo per plenaj manoj, — nun mi fariĝis tia,
+ke mia propra pasinteco baras min.
+
+ROSMER
+
+Via pasinteco estas morta, Rebekka. Ĝi ne plu tenas prenon sur vi,
+— neniun konekson kun vi, — tia kia vi _nun_ estas.
+
+REBEKKA
+
+Ho, kara, estas ja nuraj parolturniĝoj. Ĉu pri la senkulpeco? De
+kie mi prenu _ĝin_?
+
+ROSMER
+
+(peze) Jes, jes, — la senkulpeco.
+
+REBEKKA
+
+La senkulpeco, jes. En ĝi estas la feliĉo kaj la ĝojo. Estas ja
+_tiu_ dogmo, kiun vi volis vivigi en ĉiuj tiuj estontaj nobelaj
+homoj —
+
+ROSMER
+
+Ho, ne memorigu min pri _tio_. Estis ja nur duono de revo, Rebekka.
+Tro rapida ideo, pri kiu mi mem ne plu kredas. — La homoj ne lasas
+sin nobeligi de ekstere.
+
+REBEKKA
+
+(mallaŭte) Ne tra la silenta amo, ĉu?
+
+ROSMER
+
+(penseme) Jes, — estas ja _tio_ kio estus la granda, la plej belega
+en la tuta vivo, mi pensas. — Se tiel estus. (tordas sin en
+maltrankvilo) Sed kiel mi scios pri tio? Ĝisfunde?
+
+REBEKKA
+
+Vi ne kredas min, Rosmer, ĉu?
+
+ROSMER
+
+Ho, Rebekka, kiel _povas_ mi plene kredi vin? Vin, kiu kaŝadis kaj
+sekretigis tiom ege! — Nun vi malkaŝigas tion kroman. Ĉu kuŝas
+celo sube, — diru malkaŝe. Ĉu vi eble volas tiel ion gajni. Mi
+deziras ja fari por vi, kion mi povas.
+
+REBEKKA
+
+(tordas la manojn) Ho, tiu mortiga dubo —! Rosmer, — Rosmer —!
+
+ROSMER
+
+Jes, ĉu ne terure? Sed mi ne povas malhelpi. Neniam mi transvenos
+por liberigi min de la dubo. Neniam scios certe, ke mi havas vin en
+plena kaj pura amo.
+
+REBEKKA
+
+Sed ĉu ne estas io interne en vi mem, kiu atestas, ke okazis
+transformo! Kaj ke la transformo okazis pere de vi, — pere de vi
+sole!
+
+ROSMER
+
+Ho, kara, — mi ne plu kredas pri mia kapablo transformi homojn. Mi
+ne plu kredas je mi mem en kiu ajn afero. Mi nek kredas je mi nek je
+vi.
+
+REBEKKA
+
+(rigardas lin sombre) Kiel vi do povas vivi la vivon.
+
+ROSMER
+
+Mi ne mem komprenas. Mi ne komprenas. Mi kredas, ke mi ne _povas_
+vivi. — Kaj mi ja ankaŭ ne scias pri tiu afero en la mondo por kiu
+valorus vivi.
+
+REBEKKA
+
+Ho, la vivo, — ĝi renoviĝas. Ni tenu nin al tio, kara. — Sufiĉe
+frue ni eliros.
+
+ROSMER
+
+(eksaltas maltrankvila) Do redonu al mi la kredon! La kredon je _vi_,
+Rebekka! La kredon je via amo! Ateston! Ateston mi volas havi!
+
+REBEKKA
+
+Ateston? Kiel mi donu al vi ateston —!
+
+ROSMER
+
+Vi _devas_! (iras trans la plankon) Mi ne eltenas tiun solecan, —
+tiun teruran malplenecon, — tiun, — tiun —
+
+(Oni frapas forte sur la antaŭĉambra pordo.)
+
+REBEKKA
+
+(eksaltas el la seĝo) Ah, — ĉu vi aŭdis!
+
+(La pordo malfermiĝas. _Ulrik Brendel_ envenas. Li surhavas
+manumĉemizon, nigran surtuton kaj bonajn botojn ekstere de la
+pantalono. Cetere li estas vestita kiel la antaŭan fojon. Li
+aspektas konfuze.)
+
+ROSMER
+
+Ho, ĉu estas vi, sinjoro Brendel!
+
+BRENDEL
+
+Johannes, mia knabo, — mi salutas vin — adiaŭ!
+
+ROSMER
+
+Kien vi iros tiel malfrue?
+
+BRENDEL
+
+Malsupren la deklivon.
+
+ROSMER
+
+Kiel —?
+
+BRENDEL
+
+Nun mi iros hejmen, mia karega lernanto. Mi spertas hejmveon post la
+granda nenio.
+
+ROSMER
+
+Io okazis al vi, sinjoro Brendel! Kio estas?
+
+BRENDEL
+
+Vi do observas la transformon? Jes, — vi ja povas. Kiam mi lastfoje
+metis la piedon en tiun ĉi salonon, — mi staris antaŭ vi kiel
+bonhavulo kaj frapis mian brustpoŝon.
+
+ROSMER
+
+Nu! Mi ne tute komprenas —
+
+BRENDEL
+
+Sed tia, kia vi vidas min ĉi tiun nokton, mi estas detronigita reĝo
+sur la cindroamaso de mia brulita kastelo.
+
+ROSMER
+
+Se estas io, per kio _mi_ povas helpi vin —
+
+BRENDEL
+
+Vi konservis vian infankoron, Johannes. Ĉu vi povas doni al mi
+pruntaĵon?
+
+ROSMER
+
+Jes, jes, bonvole.
+
+BRENDEL
+
+Ĉu vi povas doni dispone idealon aŭ du?
+
+ROSMER
+
+Kion vi diras?
+
+BRENDEL
+
+Demetitan idealon aŭ du. Kaj vi faros bonan agon. Ĉar nun mi
+senestas, mia kara knabo. Tute senhava.
+
+REBEKKA
+
+Ĉu vi ne faris vian prelegon?
+
+BRENDEL
+
+Ne, vi loganta sinjorino. Imagu! Ĝuste kiam mi pretigas min elverŝi
+el la korno de abundeco, mi faras la embarasan malkovron, ke mi
+bankrotis.
+
+REBEKKA
+
+Sed ĉiuj viaj neskribitaj verkoj?
+
+BRENDEL
+
+Dum dudek kvin jaroj mi sidis, kiel avarulo sur ŝlosita monkesto.
+Kaj hieraŭ, — kiam mi malfermas kaj volas serĉi la trezoron, —
+jen estas nenio. La dento de la tempo mordis ĝin al polvo. Estis
+_nichts_ kaj nenio en la tuta afero.
+
+ROSMER
+
+Sed ĉu vi do certe tion scias?
+
+BRENDEL
+
+Ne estas loko por dubo, mia favorato. La prezidento konvinkis min pri
+tio.
+
+ROSMER
+
+Prezidento?
+
+BRENDEL
+
+Nu ja, — la ekscelenco do. _Ganz nach Belieben_.
+
+ROSMER
+
+Jes, kiu?
+
+BRENDEL
+
+Peder Mortensgård kompreneble.
+
+ROSMER
+
+Ĉu!
+
+BRENDEL
+
+(mistere) Tŝ, tŝ, tŝ! Peder Mortensgård estas la estro kaj reganto
+de la estonteco. Neniam mi lokiĝis antaŭ la vizaĝo de iu pli
+granda. Peder Mortensgård havas en si la ĉiopovan kapablon. Li povas
+fari ĉion, kion li volas.
+
+ROSMER
+
+Ho, ne kredu tion.
+
+BRENDEL
+
+Jes, mia knabo! Ĉar Peder Mortensgård neniam volas pli ol li povas!
+Peder Mortensgård kapablas vivi la vivon sen idealoj. Kaj _tio_, —
+vidu, — _tio_ estas ĝuste la sekreto de la ago kaj la venko. Tio
+estas la sumo de ĉiu saĝo en la mondo. Jen sufiĉe!
+
+ROSMER
+
+(mallaŭte) Nun mi komprenas, — ke vi foriras pli malriĉa ol kiam
+vi venis.
+
+BRENDEL
+
+_Bien_! Prenu nun _Beispiel_ de via antaŭa instruisto. Forstreku
+ĉion, kio enpresadis en vin. Ne konstruu vian kastelon sur cedanta
+sablo. Kaj esploru, kaj provu, — antaŭ ol vi konstruos sur tiu
+belega kreaĵo, kiu ĉi tie dolĉigas vian vivon.
+
+REBEKKA
+
+Ĉu al mi vi aludas?
+
+BRENDEL
+
+Jes, mia alloga marvirino
+
+REBEKKA
+
+Kial ne estus konstruinde sur mi?
+
+BRENDEL
+
+(paŝon pli proksimen) Mi sciiĝis, ke mia antaŭa lernanto havas
+vivkoncepton por konduki al venko.
+
+REBEKKA
+
+Kaj sekve —?
+
+BRENDEL
+
+La venko estas certa. Sed, — notu, — je nepra kondiĉo.
+
+REBEKKA
+
+Kiu?
+
+BRENDEL
+
+(prenas gardeme ŝian manartikon) Ke la virino, kiu amas lin, ĝoje
+iras en la kuirejon, kaj ĝoje forhakas sian delikatan rozoblankan
+malgrandan fingron, — _tie_, — ĝuste _tie_ ĉe la meza artiko.
+_Item_ ke la menciita amanta virino — same ĝoje — fortranĉas de si
+la senegale formitan maldekstran orelon. (malkaptas ŝin kaj turnas
+sin al _Rosmer_) Adiaŭ, mia venkanta Johannes.
+
+ROSMER
+
+Ĉu vi foriros nun? En sombra nokto?
+
+BRENDEL
+
+La sombra nokto estas la pli bona. Pacon al vi. (Li foriras.)
+
+(Momenton estas silente en la ĉambro.)
+
+REBEKKA
+
+(spiras peze) Ho, kiel naŭze kaj preme estas!
+
+(Ŝi iras al la fenestro, malfermas ĝin kaj restas tie staranta.)
+
+ROSMER
+
+(eksidas en la apogseĝon apud la forno) Ne estas alia solvo,
+Rebekka. Mi vidas nun. Vi _devas_ forvojaĝi.
+
+REBEKKA
+
+Jes, mi ne vidas elekton.
+
+ROSMER
+
+Ni profitu de la lasta tempeto. Venu, kaj eksidu ĉe mi.
+
+REBEKKA
+
+(aliras kaj eksidas sur la sofon) Kion vi do volas al mi, Rosmer?
+
+ROSMER
+
+Unue mi _tion_ diras al vi, ke vi ne bezonas havi zorgojn pro via
+estonteco.
+
+REBEKKA
+
+(ridetas) Hm. _Mia_ estonteco.
+
+ROSMER
+
+Mi antaŭvidis ĉiujn eblecojn. Antaŭ longe. Kio ajn kio okazos, por
+vi estas zorgita.
+
+REBEKKA
+
+Ankaŭ tio, vi kara.
+
+ROSMER
+
+Tion vi devus mem kompreni.
+
+REBEKKA
+
+Pasis jaroj de kiam mi pensis pri tiaĵoj.
+
+ROSMER
+
+Nu ja, — vi certe opiniis, ke neniam povus ŝanĝiĝi inter ni du.
+
+REBEKKA
+
+Jes, mi pensis tiel.
+
+ROSMER
+
+Ankaŭ mi. Sed se okazus, ke mi forpasus —
+
+REBEKKA
+
+Ho, Rosmer, — vi vivos pli longe ol mi.
+
+ROSMER
+
+Pri la bedaŭrinda vivo estas ja en mia propra potenco decidi.
+
+REBEKKA
+
+Kio estas! Vi do ne intencas —!
+
+ROSMER
+
+Ĉu aspektas al vi tiel strange? Post la mizere kompatinda malvenko,
+kiun mi suferis! Mi, kiu volis konduki mian vivotaskon al venko —.
+Kaj jen mi fuĝis de la tuto, — eĉ antaŭ ol la batalo komencis!
+
+REBEKKA
+
+Rekomencu la lukton, Rosmer! Provu, — kaj vi vidos la venkon. Vi
+nobeligos centojn, — vi nobeligos milojn da animoj. Provu!
+
+ROSMER
+
+Ho Rebekka, — mi, kiu nun eĉ ne kredas je mia propra vivotasko.
+
+REBEKKA
+
+Sed via tasko jam eltenis sian provon. Unu homon vi almenaŭ
+nobeligis. Min, tiom longe kiom mi vivos.
+
+ROSMER
+
+Jes, — se mi povus kredi vin en tio ĉi.
+
+REBEKKA
+
+(premas la manojn) Ho, sed Rosmer, ĉu vi ne scias ion, — ion, kiu
+povus igi vin kredi?
+
+ROSMER
+
+(skuiĝas kiel en timo) Ne ekpensu pri tio nun! Ne pluen, Rebekka!
+Eĉ ne vorto plu!
+
+REBEKKA
+
+Jes, ĝuste tion ni devas pripensi. Ĉu vi ion scias, kiu povus
+sufoki la dubon? Ĉar mi eĉ nenion scias.
+
+ROSMER
+
+Plej bone por vi, ke vi ne scias. — Plej bone por ambaŭ.
+
+REBEKKA
+
+Ne, ne, ne, — mi ne kontentiĝas pri tio! Se vi ion scias, kiu povus
+absolvi min en viaj okuloj, mi postulas de vi kiel mian rajton, ke vi
+menciu ĝin.
+
+ROSMER
+
+(kvazaŭ senpere puŝata kontraŭ sia volo) Ni do vidu.
+Vi diras, ke la granda amo estas en vi. Ke tra mi via animo nobeliĝis.
+Ĉu tiel estas? Ĉu vi ĝuste kalkulis? Ĉu ni faru provon
+pri la kalkulo? Ĉu?
+
+REBEKKA
+
+Mi estas preta.
+
+ROSMER
+
+Kiam ajn?
+
+REBEKKA
+
+Kiam ajn. Ju pli frue, des pli bone.
+
+ROSMER
+
+Ni do vidu, Rebekka, — se vi, — pro mi, — jam en ĉi tiu vespero.
+— (interrompas) Ho, ne, ne, ne!
+
+REBEKKA
+
+Jes, Rosmer! Jes, jes! Diru, kaj vi vidos.
+
+ROSMER
+
+Ĉu vi kuraĝas, — ĉu vole, — ĝoje, kiel diris Ulrik Brendel, —
+pro mi, nun ĉi tiun nokton, — ĝoje, — iri la saman vojon, kiun
+Beate iris?
+
+REBEKKA
+
+(Levas sin malrapide de la sofo kaj diras preskaŭ senvoĉe) Rosmer
+—!
+
+ROSMER
+
+Jes, kara, — tiu estas la demando de kiu mi neniam povas min
+liberigi, — kiam vi estos forvojaĝinta. Ĉiun opan horon dum la
+tago mi revenos al la sama. Ho, mi kvazaŭ vidas vin tute viva en mia
+imagaĵo. Vi staras sur la ponteto. Meze sur ĝi. Vi klinas vin super
+la manrelon! Kapturniĝas en logo al la torento! Ne. Vi retiras vin.
+Ne kuraĝas, — kion _ŝi_ kuraĝis.
+
+REBEKKA
+
+Sed se mi tamen havus la kuraĝon? Kaj la ĝojan volon? Kio do?
+
+ROSMER
+
+Mi do devus kredi vin. Mi do devus regajni la kredon je mia
+vivotasko. La kredo pri mia kapablo nobeligi homajn animojn. La kredo
+pri la kapablo de la homa animo nobeliĝi.
+
+REBEKKA
+
+(prenas malrapide sian ŝalon, metas ĝin sur sian kapon kaj diras
+sinrege) Vi rericevu vian fidon.
+
+ROSMER
+
+Ĉu vi kuraĝas kaj volas — tion, Rebekka?
+
+REBEKKA
+
+Juĝu morgaŭ, — aŭ poste, — kiam ili fiŝkaptas min.
+
+ROSMER
+
+(metas la manon al la frunto) Estas alloga teruro en tio ĉi —!
+
+REBEKKA
+
+Ĉar mi ne volas resti kuŝanta tie. Ne pli longe ol necese. Oni
+devas prizorgi por retrovi min.
+
+ROSMER
+
+(eksaltas) Sed tio ĉi, — estas ja freneza. Forvojaĝu, — aŭ
+restu! Mi kredas vin je via nura vorto ankaŭ tiun ĉi fojon.
+
+REBEKKA
+
+Parolturniĝoj, Rosmer. Neniu malkuraĝo kaj fuĝo denove! Kiel povas
+vi kredi min je mia nura vorto post tiu ĉi tago?
+
+ROSMER
+
+Sed mi ne volas vidi vian malvenkon, Rebekka!
+
+REBEKKA
+
+Ne okazos malvenko.
+
+ROSMER
+
+Okazos. Neniam vi havos animon por iri la vojon de Beate.
+
+REBEKKA
+
+Vi ne kredas?
+
+ROSMER
+
+Neniam. Vi ne estas kiel Beate. Vi ne estas sub la potenco de
+misgvidita vivkoncepto.
+
+REBEKKA
+
+Sed mi estas sub la vivkoncepto de Rosmersholm — _nun._ Pro kio mi
+kulpis, — mi devas pentofari.
+
+ROSMER
+
+(rigardas ŝin fikse) Ĉu _jen_ vi staras?
+
+REBEKKA
+
+Jes.
+
+ROSMER
+
+(decide) Nu bone. Kaj _mi_ estas sub nia liberigita vivkoncepto,
+Rebekka. Ne estas juĝisto super ni. Tial ni devas juĝi mem.
+
+REBEKKA
+
+(misinterpretas lin) Ankaŭ tio. Ankaŭ tio. Mia foriro savos la plej
+bonan en vi.
+
+ROSMER
+
+Ho, en mi ne plu estas io savinda.
+
+REBEKKA
+
+Estas. Sed mi, — mi estus de nun nur ia marfantomo, kiu alpendiĝis
+kaj retenis la ŝipon, sur kiu vi velus antaŭen. Mi estas ĵetenda
+maren. Aŭ ĉu mi iradus en la mondo travivante kripligitan vivon?
+Pensadi kaj cerbumi pri feliĉo, kiun mia pasinteco forĵetus por mi?
+Mi devas eliĝi el la ludo, Rosmer.
+
+ROSMER
+
+Se vi iros, — mi iros kune.
+
+REBEKKA
+
+(ridetas preskaŭ nerimarkeble, rigardas lin kaj diras pli malrapide)
+Jes, venu, vi, — kaj estu atestanto —
+
+ROSMER
+
+Mi kuniras, diras mi.
+
+REBEKKA
+
+Al la ponteto, jes. Ĝin vi ja neniam kuraĝas suriri.
+
+ROSMER
+
+Vi tion rimarkis, ĉu?
+
+REBEKKA
+
+(peze kaj rompite) Jes. — Estas tio, kio igis mian amon senespera.
+
+ROSMER
+
+Rebekka, — mi nun metas mian manon sur vian kapon. (faras kion li
+diras) Kaj prenas vin geedze kiel mian veran edzinon.
+
+REBEKKA
+
+(kaptas ambaŭ liajn manojn kaj klinas la kapon al lia brusto)
+Dankon, Rosmer. (malkaptas lin) Kaj nun mi iros — ĝoja.
+
+ROSMER
+
+Edzo kaj edzino devas kune iri.
+
+REBEKKA
+
+Nur al la ponteto, Rosmer.
+
+ROSMER
+
+Ankaŭ sur ĝin. Tiel longe kiel vi iros, — tiel longe mi akompanos
+vin. Ĉar nun mi kuraĝas.
+
+REBEKKA
+
+Ĉu vi vere certe scias — ke ĉi tiu vojo estas la plej bona por vi?
+
+ROSMER
+
+Mi scias, ke ĝi estas la sola.
+
+REBEKKA
+
+Se vi perfidis vin mem en tio? Se estus nur iluzio? Unu el tiuj
+blankaj ĉevaloj en Rosmersholm.
+
+ROSMER
+
+Povus esti. De ili ni neniam liberiĝos, — ni, en ĉi tiu bieno.
+
+REBEKKA
+
+Do restu, Rosmer!
+
+ROSMER
+
+La edzo akompanas sian edzinon, kiel la edzino akompanas sian edzon.
+
+REBEKKA
+
+Jes, sed diru al mi unue. Ĉu estas vi, kiu akompanas min? Aŭ mi kiu
+akompanas vin?
+
+ROSMER
+
+Tion ni neniam ĝisfunde elpensos.
+
+REBEKKA
+
+Mi volus scii.
+
+ROSMER
+
+Ni du akompanos unu la alian, Rebekka. Mi vin kaj vi min.
+
+REBEKKA
+
+Tion ankaŭ mi pensetas.
+
+ROSMER
+
+Ĉar nun ni estas unu. Venu! Kaj ni iru ĝoje.
+
+(Ili iras manon en mano tra la antaŭĉambro, kaj vidiĝas turni
+maldekstren. La pordo restas malfermita post ili. La sidĉambro
+restas momenton malplena. Jen _sinjorino Helseth_ malfermas la pordon
+dekstre.)
+
+SINJORINO HELSETH
+
+Fraŭlino, — nun la ĉaro — (ĉirkaŭrigardas) Ne interne? Eksteraj
+kune je tiu ĉi tempo? Nu do, — jen io —! Hm! (iras en la
+antaŭĉambron, ĉirkaŭrigardas kaj revenas.) Ne sur la benko. Ho
+ne, ne. (iras al la fenestro kaj elrigardas) Jeĉjo do! La blanka
+_tie_ —! — Je mia savo, ĉu ne ambaŭ staras sur la ponteto! Dio
+pardonu la pekajn homojn! Ĉu ili ne ĉirkaŭbrakas unu la alian!
+(ekkrias laŭte) Ho, — elen — ambaŭ! En la akvofalon. Helpo!
+Helpo! (tremas la genuoj; skuita ŝi tenas la seĝodorson, kaj
+preskaŭ ne kapablas eligi la vortojn) Ne. Ne helpo ĉi tie. — La
+karmemora sinjorino prenis ilin.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Rosmersholm, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ROSMERSHOLM ***
+
+***** This file should be named 24355-0.txt or 24355-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/3/5/24355/
+
+Produced by Andrew Sly
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

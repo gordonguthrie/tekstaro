@@ -1,0 +1,4769 @@
+﻿Project Gutenberg's Paghoj el la Flandra Literaturo, by Maurice Seynaeve
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Paghoj el la Flandra Literaturo
+
+Author: Maurice Seynaeve
+
+Editor: Maurice Seynaeve
+        Raymond Van Melckebeke
+
+Release Date: January 20, 2015 [EBook #48033]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PAGHOJ EL LA FLANDRA LITERATURO ***
+
+
+
+
+Produced by Andrew Sly, Brenda Lewis and the Online
+Distributed Proofreading Team at http://www.pgdp.net.
+Thanks to the Esperanto-Fondajho Cesar Vanbiervliet for
+providing the original book.
+
+
+
+
+
+
+
+KOLEKTO ESPERANTA APROBITA DE D-O ZAMENHOF
+
+  PAĜOJ
+  EL LA
+  FLANDRA LITERATURO
+
+  _Kolektitaj kaj tradukitaj_
+  DE
+  D-ro Maurice SEYNAEVE
+  kaj
+  D-ro Raym. VAN MELCKEBEKE.
+
+  BRUĜO (Belgujo),
+  _Eldonisto: A.-J. WITTERYCK_
+  Nouvelle Promenade, 4.
+
+
+
+
+  AL
+  Nia Majstro D-ro L. ZAMENHOF,
+  AL
+  S-oj de BEAUFRONT kaj
+  Komandanto Ch. LEMAIRE,
+  APOSTOLOJ DE ESPERANTO,
+  LA JENAN VERKON NI DANKEME DEDIĈAS.
+
+
+
+
+ANTAŬPAROLO.
+
+
+La Belga Literaturo, ĉar Belgujo dividiĝas en francan kaj flandran
+partojn, konsistas el francaj kaj flandraj verkoj.
+
+La interrilatojn de la flandraj kaj holandaj verkistoj kiuj kune,
+uzante la saman lingvon, donas la Nederlandan Literaturon, oni vidos
+sur la sekvantaj paĝoj.
+
+Prezentante la jenan libron al la Esperantistaro, ni celas konigi al
+ĝi en maniero iom plena la konindan flandran literaturon. Jam, el
+diversaj flankoj kaj precipe en la nuna tempo, oni presigis tradukaĵojn
+el apartaj verkistoj sed, neniam ĝis nun, oni publikigis aron da
+fragmentoj el samnaciaj literaturistoj, aron kapablan konigi, kion ne
+povis fari apartaj tradukaĵoj, la esencon, la emojn, la ecojn de ia
+nacia literaturo.
+
+_Nia verko neniel celas montri plenan vidaĵon de la flandra
+literaturo_, neniel celas prezenti ĉiujn konindajn verkistojn, eĉ
+neniel celas prezenti ĉiujn plej bonajn: ĝi elektis ĉiuspecajn
+verkistojn, precipe inter tiuj kies famon jam firmigis la kritiko kaj
+la tempo, sed ankaŭ inter la nunaj plej junaj literaturistoj.
+
+La tradukintoj plej zorge klopodis por traduki kiel eble plej laŭvorte
+la flandrajn fragmentojn, tiel prozajn kiel poeziajn.
+
+La Esperanta versofarado povas uzi ĉiuspecajn taktojn de la ritmo kaj,
+en ĉi tiu rilato, ĝi alproksimiĝas plej multe al la plej harmoniaj
+lingvoj; sed, pro la esenco mem de nia lingvo, ĝi multe pli malfacile,
+precipe en la tradukado, povas uzi la rimojn: tio estas tute sengrava
+ĉar la ritmo treege superas la rimon kaj neniel bezonas ĝin.
+
+En ĉi tiu libro, la versaĵoj estas ĝenerale verkitaj laŭ ritmo simila,
+eĉ kelkafoje tute identa al la ritmo de la originalo sed, nur en kelkaj
+versaĵoj, oni entute aŭ duone uzis la rimon.
+
+La literaturistoj, kies verkojn ni ĉi tie tradukis, akceptu nian
+sinceran dankon tial ke ili afable permesis al ni la tradukon de siaj
+verkoj.
+
+Ankaŭ ni plezure esprimas niajn plej korajn danksentojn al ĉiuj kiuj
+helpis nin por la kolektado de ĉi tiuj paĝoj. Speciale ni dankas
+sinjorojn A. Cassiers, L. Cogen, J. Goorieckx, L. Lucas, A. kaj D-ro
+W. Van der Biest, W. Van Eeckhout, O. Van Schoor, kiuj ageme kunlaboris.
+
+Ni esperas ke, laŭ nia unua ekzemplo, fremdlandaj samideanoj donacos la
+esperantistaron per similaj kolektoj el malmulte konataj literaturoj.
+
+Se nia verko povus diskonigi en la fremdaj landoj nian belan Flandran
+Literaturon kaj ankaŭ klare montri tiel en Belgujo kiel eksterlande
+kiom multe utilos en la literaturo nia lingvo internacia, niaj
+kunlaborantoj kaj ni estus certe atingintaj tre kontentigan rezultaton.
+
+    D-ro M. Seynaeve
+  D-ro Raym. Van Melckebeke.
+
+La 1an de Aŭgusto 1904.
+
+
+
+
+  RAPIDA ĈIRKAŬRIGARDO
+  DE LA
+  _Nederlanda Literaturo en Flandro_.
+
+
+La deveno de la Nederlanda Literaturo, kies mallongan priskribon ni
+intencas ĉi tie verki, datumiĝas je la XIIa jarcento.
+
+En niaj flandraj provincoj ĝi komence malvolviĝas en formo de epopeo aŭ
+de kavalirtempa romano kaj poste de fabelo.
+
+La XIVa jarcento alportis al ni siajn rapsodojn kiuj sonigis la amajn
+kantojn ĉe l' princaj palacoj kaj ĉe la landsinjoraj kasteloj.
+
+Alvenis la Burgundia epoko: estas la jarcento kiam la komercaj
+interrilatoj prezentas al la homa agemo novan laborejon; rapide la
+Flandranoj ekkaptas la komercadon; Antverpeno baldaŭ fariĝas centro por
+la internaciaj rilatoj kaj, ĉe la Bruĝa vendoplaco, sin interrenkontas
+ĉiuj Eŭropaj popoloj: estas granda, poste grandega riĉeco en niaj
+provincoj.
+
+Sed tiun prosperecon ne ĝuis ĉiuj laŭ sama mezuro: la homaj klasoj
+pli multe, pli malkonfuze disiĝis: el tio devenis afektado, montrado
+de sciencaj konoj per kiuj la riĉaj klasoj celis, en la literaturo,
+diferenci de la popolo kaj kiuj malebligas ĉian naturan, simplan kaj
+originalan verkon; estas la tempo de l' «Retorikaj Societoj[1]» kiuj,
+pretekstante plipurigon de la lingvo, longatempe sufokis ĉian poezian
+inspiraĵon, kunliginte la naturan emon per siaj senraciaj kaj mallarĝaj
+reguloj.
+
+Ĝis nun la Nederlanda Literaturo havis sian ĉefan sidejon en niaj
+flandraj provincoj; sed, je l' mezo de l' XVIa jarcento, sekve de l'
+religiaj militoj, multo da literaturaj eminentuloj migris al la Nordo,
+dezirante pli da sendanĝereco kaj da libereco: la literatura centro
+alilokiĝis. Cetere, la komerco ŝajnis laŭiri la saman vojon: Amsterdamo
+riĉiĝis malprofite de Antverpeno; al tio oni aldonu la tiaman naskiĝon
+de tiu nepereema skolo de holandaj pentristoj kies nekompareblajn
+majstraĵojn ĉiu konas, kaj oni prezentos al si tiun epokon gloregan
+por Holando, dum kiu ĝi definitive forĵetis la hispanan dependecon kaj
+humiligis la arogantan Albion'on per tiel egaj surmaraj venkoj. De tiu
+momento, Holando siavice regis la Nederlandan Literaturon.
+
+La Nordaj provincoj estis disiĝintaj de la Sudaj: en la Nordaj
+ekkreskis originala, freŝa, sendependa literaturo, dum la Sudaj dum du
+jarcentoj elportos la fremdulan aŭtoritaton.
+
+Ĉu nia literaturo eliris, difektita, el tiu longa dependeco: pri
+tio oni ne povas dubi! La francaj civilizacio kaj literaturo kune
+transiris niajn limojn: ilin gajkore akceptis la riĉa burĝaro ĉar ĝi
+estis blindigita de l' tiama gloro de tiu granda Nacio kaj tiel celis
+distingiĝi de l' malpli altranga klaso.
+
+La popolo, kontraŭe, ne forĵetis la gepatran lingvon: la franca
+influo ne tiel profunde enpenetris kaj tiamaniere, kiam Willems, je
+l' komenciĝo de la XIXa jarcento, faris alvokon por veki la nacian
+senton, ĉi tiun li trovis ankoraŭ vivoplenan ĉe la popolo sed
+dormetantan ĉe la riĉaj klasoj.
+
+Kiam, en 1815, la frataj provincoj denove unuiĝis sub la aŭtoritato
+de Wilhelmo IIIa, ili certe memoris pri sia parenceco, sed longa
+dujarcenta disiĝo, dum kiu ili al malsamaj flankoj direktis sian
+civilizacion kaj sian spiritan malvolviĝadon, naskis inter ili
+profundan malsamecon.
+
+Tial, oni povas paroli pri Flandra literaturo kaj pri Holanda
+literaturo: tiuj ambaŭ literaturoj fundamente kuniĝas en unu solan:
+la Nederlandan literaturon, sed ĉi tiu lasta, de la XIXa jarcento,
+reprezentas du malsamajn civilizaciojn: el kio devenas malgrandaj
+diferencoj en la esprimado kaj frazkonstruado, kiuj tuj distingigas en
+tiu literaturo du branĉojn: la branĉon flandran kaj la branĉon holandan.
+
+De tiu unuiĝo, la animo de Flandro vekiĝis el sia longa dormado sub
+la alvokoj de Willems, de Ledeganck, de Conscience kaj nia literaturo
+povis libere moviĝi kaj atingi sian plenan kreskon antaŭ dudeko da
+jaroj. Ĝis tiam, esceptinte kelkajn eminentulojn, ni devas konsideri
+niajn literaturistojn nur kiel barilojn kontraŭ la francaj influoj
+pli kaj pli enpenetrantaj; sed de tiu tempo aperis vico da junaj sed
+kelkafoje plej indaj literaturistoj.
+
+Antaŭ ĉiuj, ni citu la grandan poeton okcidentflandran: Guido Gezelle,
+kiun tuta Nederlando alsalutis kiel sian plej grandan lirikan poeton
+kaj kiu certe povas sin trovi inter la plej grandaj lirikaj poetoj el
+ĉiuj landoj kaj tempoj. Stijn Streuvels, nevo de Guido Gezelle, tute
+nekonata antaŭ ses jaroj, subite ekaperis en nefama okcidentflandra
+angulo kaj nun estas ŝatata kiel la plej granda flandra prozverkisto.
+
+Oni trovos pli da detaloj en la malgrandaj biografioj, kiujn enhavas ĉi
+tiu verko.
+
+Ni nur diru ke tiun junan aron karakterizas pli granda deziro de vereco
+kaj sincereco, la forlaso de l' malnovaj «retorikaj» rezonoj, la
+reveno al la naturo rekte influanta sur impresiĝeman karakteron kaj en
+ĝi naskanta sentojn ĝuste kaj sincere esprimotajn.
+
+Tiuj belaj flandraj verkoj estas do esence flandraj: ili portas la
+markon de la flandra naturo, de la ideoj, antaŭjuĝoj, moroj de l'
+flandra popolo. Tio ne malhelpas ke niaj flandraj literaturistoj ĉiam
+intime rilatas al la holanda literaturo, kaj tiel same niaj verkistoj
+de longatempe transiris la «Moerdijk»[2] kaj en Holando estas ŝatataj
+tiel multe kiel la tieaj literaturistoj. Tiu literatura kuniĝo de l'
+du partoj de l' Nederlanda popolo, ĉiutage pli kaj pli kreskanta, por
+ĉiuj havos tre efikan rezultaton: Flandro donos la varmecon de siaj
+sentoj kune kun la simpleco kaj naiveco de sia poezio al Holando, kies
+literaturo tro pripensita kaj tro prilaborita suferas pro supermezura
+delikateco; aliparte, la Norda lando riĉigos la Sudan per altaj ideoj
+kaj donacos ĝin per pura kaj firmigita lingvaĵo. Tiele, ne unuiĝante,
+ambaŭ partoj de Nederlando klopodas por daŭrigi sian spiritan kuniĝon
+plejfavore por ĉiu el ili: jen estas la direkto de la nuna literaturo
+kaj ni opinias ke ĝi ebligas aliri plej konfideme al la estonteco.
+
+  Willem Van Eeckhout.
+
+  tradukis
+  Maurice Seynaeve.
+
+Piednoto [1] Literaturaj Societoj.
+
+Piednoto [2] Limo inter Holando kaj Belgujo.
+
+
+
+
+J. B. DAVID
+
+1801-1866.
+
+
+Kanoniko Jan-Baptist David estis profesoro en la Antverpena Ateneo,
+estro de Mehlena kolegio kaj poste profesoro ĉe la Lovena Universitato.
+Ĉiam li incitadis ĉe siaj lernantoj amon al la patrujo kaj al la
+gepatra lingvo kaj tiel li tre helpis la revivigon de l' Flandra
+Literaturo.
+
+Li estas precipe ŝatata kiel filologo, kritikisto kaj skribisto de
+historiaj verkoj.
+
+En la ĵurnalo «De Middelaar» (la Perilo) kiun li fondis li iafoje
+montris ke ia ŝerco ne maldecas ĉe la studo de la Historio.
+
+La jena rakonteto estas specimeno de lia humoraĵa stilo.
+
+
+Duko Filipo kaj la drinkulo.
+
+La sekvanta rakonteto estas en Belgujo ĉie konata; la tradicio
+transdiris ĝin de generacio al generacio, kaj ankoraŭ nun oni trovus
+neniun kiu ne aŭdis ĝin. Kvankam la cirkonstancoj ne restis ĉiam
+nedifektitaj, kvankam oni preterlasis aŭ aldonis ion, tamen la ĉefa
+okazintaĵo ĉiam restas la sama. Nur oni ne konas plu tre precize ĝian
+devenon. La popolo kiu el la nomoj de la belgaj regintoj rememoriĝas
+nur unu: tiun de Imperiestro Karolo[3], alskribis ankaŭ al li tiun
+historion des pli facile ke ĉiuj scias ke tiu fama Gentano sin ofte per
+petolaĵoj amuzis. Tamen la okazintaĵo estas pli malnova: ĝi okazis dum
+la regno de Duko Filipo la Bona, kaj ĝi estas rakontita en la leteroj
+de Ludoviko Vives preskaŭ tiamaniere:
+
+Filipo la Bona loĝis nenie kun pli granda plezuro ol en sia urbo
+Bruĝo. Tie li ĝuis la ĝojojn de l' paco, tie li vivis senzorge laŭ la
+fantazioj de sia gajemeco, tie li pasigis la tempon per tiuj amuzaĵoj
+kiuj ripozigas plej bone la lacan spiriton: interparoladoj kaj ludadoj,
+ŝercoj, spritaĵoj ĉiuspecaj sed sen malico.
+
+Iam, sidinte kun siaj plej fidelaj amikoj pli longe ol kutime
+je l' manĝotablo, kaj ne sentante dormemon, kvankam la meznokto
+alproksimiĝis, li proponis al siaj kunuloj ke ĉiuj kune faru
+promenadeton tra la urbo. Tio nature estis aprobita de ĉiuj ĉar, se
+eble iu el la gastoj estis trinkinta troan pokalon kaj estis pro
+tio pli dormema ol amuziĝema, li tamen tion ne aperigis; plie oni
+antaŭsciis ke oni ridos, ĉar la duko kiam li estas ekscitita ĉiam
+elpensas ian ŝercaĵon.
+
+La kunularo eliris do ŝercante kaj unu avertadis la alian ke ĉiu sin
+gardu pri nokta bruado por ke ili ne estu arestitaj de la policanoj kaj
+ne alvenu tiamaniere kune kun la duko en la malliberejon.
+
+Trapromeninte kelkajn stratojn ili alvenis sur la placon, kaj jen!
+tie kuŝas viro kiu ŝajnas malaltranga, estas ebria kvazaŭ skolopo kaj
+ronkas kiel Turko. Neniu timas ĉar la drinkulo tre laŭte sciigas ke li
+ne estas oferaĵo de krimulo sed nur de tro seka hepato. Tamen li ne
+povis resti tie kuŝanta ĉar eble tio estus danĝera por li; sed ĉu oni
+skuis lin, ĉu oni tiris aŭ trenis lin oni ne sukcesis veki ĉe li ian
+signon de sento aŭ de movo.
+
+Unu el la sinjoroj memorigis kiel dum la interparoladoj ĉe l' tablo
+ili komparis la homan vivon kun sonĝo, kaj li proponis provi la verecon
+de tiu diro per ĉi tiu viro pro ebrieco nesentema. Tio plaĉis al la
+duko kiu tuj vokis kelkajn lakeojn, kiuj de malproksime sekvis la
+promenantojn, kaj ordonis ke ili forportu la drinkulon al la palaco.
+Tio fariĝis.
+
+La servistoj prenis lin sur la ŝultrojn dum li eĉ ne malfermis okulon
+kaj ili paŝetadis al la palaco kie ili, laŭ ordono de l' duko kuŝigis
+lin sur ia princa luksa lito en riĉe meblita dormoĉambro.
+
+La drinkulo dormegadis. La servistoj metis sur lian kapon kufon kun ora
+glano, forŝiris liajn ĉifitajn kaj kotajn vestaĵojn, kaj tiujn ĉi iom
+puriginte per bonodoraĵoj, ili vestis lin per neĝblanka batista ĉemizo,
+per silka nokta surtuto kun grandaj floroj, ĉirkaŭis la kolon per
+atlasa koltuko kaj lasis lin ripozantan. Ĉiam dormegadis la drinkulo...
+
+Lia nedeca ronkado estis ja iafoje interrompata aŭ anstataŭata
+per profunda sopiro; sed cetere li estis ĉiam sub la influo de la
+biervaporoj same kiel antaŭ unu horo sur la placo de Bruĝo.
+
+Jam de longe venis la mateno antaŭ ol la ebrieco elvaporiĝis. La
+dormado fariĝis pli malprofunda. La almozulo ekmalkvietiĝis, kaj post
+ĉirkaŭ unu horo li malfermis duonan okulon. Nun ankoraŭ longan tempon
+li oscedis kaj dormetis antaŭ ol li rekonsciiĝis, kaj konstatis ke la
+taglumo estas reveninta. La viro miregis, rigardis ĉirkaŭaĵon kaj sin
+mem, ekkaptis sian nazon kaj pensis ke li ankoraŭ sonĝas. Interne li
+klare sentas ke li estas si mem sed ekstere li sin ne rekonas plu kaj
+ne sukcesas per tuta sia prudento certiĝi pri sia memeco.
+
+Oni ne rakontas ĉu li iom bruetis dum ekvekiĝo sed tio estas kredebla
+ĉar tuj alkuris multaj servistoj kaj ĉambristoj por demandi ĉu plaĉas
+al Lia Moŝto (kiel ili kutimis nomi la dukon de Burgundio) sin levi kaj
+kian vestaĵon li deziras vesti la hodiaŭan tagon.
+
+La viro malfermis okulojn kvazaŭ ia falko sed nesciis eldiri unu vorton
+kaj pinĉis en sian brakon por certiĝi ĉu li efektive estas vekiĝinta.
+Estis ja neeble ke pri tio li pli longe dubu. Li ne dormas plu sed li
+ne estas sufiĉe sagaca por ion kompreni pri la cetero. En lia kapo
+flugetis konfuza rememoro pri diboĉadoj dum la pasinta vespero, li
+konsciis ke Johano aŭ Nikolao (aŭ kiel li estis nomata) kiu hieraŭ tre
+soifis ekzistas ankoraŭ en si, sed li vidis antaŭ siaj okuloj ke tamen
+io estas ŝanĝita, kvankam li ne ĝuste scias kio, kiel aŭ kiam. Malgraŭ
+ĉio li ne povis malkonfesi ke la ŝanĝo fariĝis laŭ bona flanko kaj
+dum lia mirego, eĉ lia konfuzo, li ĝuis ja ian senton de kontenteco.
+Unuvorte, ŝajnis ke io diris en li mem: se devas esti tiel, estu! Kiam
+la servistoj, kiuj faris paŝon malantaŭen mordetante siajn lipojn, ree
+alproksimiĝis kaj ree demandis kian robon kaj kian kapuĉon li deziris,
+li senĝene respondis: «La plej bonan!»
+
+Nun la ĉambristoj rapidis kaj kuregis por alporti ĉion por la vestado
+kaj la tualeto de la ensorĉita duko. Ĉi tiu estis tiel lavita, tondita,
+ŝmirita, pudrita ke li brilis kiel ŝinko kaj bonodoris kiel floraro.
+Tiamaniere ornamita li eliris el la dormoĉambro kiam la korteguloj
+alkuris renkonten, deziris al li bonan matenon kaj, post kelkaj aliaj
+komplimentoj kiuj ŝajnis plaĉi sufiĉe al la naivulo, ili kondukis lin
+al la palaca kapelo por plenumi liajn kristanajn devojn. Kvankam la
+ŝerco ne tiel bone decis, tamen ĉio simple kaj kredeble senskandale
+pasis. Li ĉeestis do en la Diservo, preĝis kiel eble plej atente sur
+siaj fingroj ĉar legi en la preĝaro kiu kuŝis sur lia seĝo, tio ne
+estis tiel rapide lernebla. Poste li estis sanktfumaĵita, oni prezentis
+al li la kisotan Evangelion, li ricevis la «Pax tecum»[4] kaj tiel
+plu, kiel kutimis la Duko de Burgundio. Ja pli longe tio daŭris, des
+pli la ŝajna duko akceptis ĉion serioze; kaj kiam li eliris el la
+kapelo li portis la kapon jam pli rekte kaj paradis kiel koko.
+
+Nun venis la horo por la tagmanĝo. La pordoj de la festa salono
+malfermiĝis kaj tie la tablo estis preparita kaj ŝarĝita per ĉio kion
+la tri tiam konataj terpartoj povis liveri plej bongustan kaj plej
+multekostan. La ŝajna mastro kiu laŭ la bonodoroj jam antaŭgustumis la
+festenon eksidiĝas en veluran apogseĝon, kaj korteguloj ĉirkaŭas lin,
+la tranĉisto refaldas siajn manikojn, ĉien kuradas aro da servistoj
+en solena livreo vestitaj kaj portantaj kukaĵojn po plenaj manoj.
+Paĝio servas lian moŝton kiu bedaŭrinde ne kutimis manĝi tian strangan
+nutraĵon kaj penadis engluti la pecojn. Pokalo da hipokraso[5] kaj
+glaso da vino ĉiam malplenigitaj kaj tuj replenigitaj helpis lin por
+forigi postgustumon kaj pli gravan malfeliĉon.
+
+Unuvorte, la festeno pasis sufiĉe bone kaj la nova duko pensis: eble
+tio ankoraŭ pliboniĝos.
+
+Nun la ĉambristo alportis la ludkartojn kaj starigis grandan amason da
+oraj ŝildmoneroj[6] je dekstra flanko de l' duko kiu kun siaj nobelaj
+gastoj gaje ekludis, kaj uzis la kartojn eble pli lerte ol kuleron aŭ
+forkon.
+
+Iom post iom la novulo pli kutimis kaj la vivmaniero ekplaĉis al li.
+Ĉirkaŭ la kvara aŭ kvina horo li faris promenadon tra la ĝardeno; poste
+li iris kun sia kunularo al la leporejo por ĝui la ĉason, kaj li finis
+la tagon per birdkaptado.
+
+Je l' vespero, novaj festoj!
+
+Riĉa festeno allogis ĉiujn gastojn al la manĝosalono; la amuzaĵoj dum
+posttagmanĝo estis ekscitintaj la stomakojn kaj precipe elvokintaj
+soifon. La manĝaĵoj, kvazaŭ ili havas guston malpli strangan ol ĉe
+l' tagmanĝo, malaperis kiel fumo; la Malvazio[7], la bonega Bon'a
+aŭ Romane'a vinoj[8] ŝajnis forflugantaj el la glasoj kaj tiom
+refortigantaj por la koro kaj la spirito ke jam la vido mem de la
+festeno donus veran ĝuon.
+
+Dum la vespermanĝo oni alpendigis ankoraŭ novajn lumigilojn kun
+vakskandeloj. Nun eniris la muzikistoj; ilin sekvis, kun gajaj vizaĝoj,
+gedancontoj, ĉiuj gefiloj de la plej nobelaj familioj de l' urbo. Oni
+kantis, ludis kaj dancis; la sinjoroj deklamis versaĵojn laŭ la kutimo
+de la Retorikejanoj[9], la sinjorinoj kantadis kvazaŭ ili volus hontigi
+la najtingalojn; ĉiuj kune prezentis spritajn ludaĵojn versitajn de la
+anoj de la Bruĝa Retorikejo «la tri Sanktulinoj.»
+
+Unuvorte, en la tera Paradizo neniam okazis tia festo: ĝi forgesigus la
+ĉielon. La horoj forflugis kvazaŭ oni per vipoj forpelas ilin, kaj kiam
+la horloĝo sonoris dekdu frapojn ĉiu pensis ke ĝi eraras kaj mensogas
+almenaŭ pri tri horoj. Nun ankoraŭ oni trinkis je reaj bonfartoj;
+grandega pokalo plena je muskatvino rondiris kaj ĝi estis ĝis la fundo
+malplenigota de ĉiuj gastoj, komencante de l' duko.
+
+La duko drinkis senmezure, senkalkule; falis ja plengorĝo sur la
+apogilojn de lia seĝo, sed oni ne atentis je tio, ĉar tiun ĉi fojon,
+pro lia persono oni ne fiksis monpunon. Tiu gajega trinko finis la
+feston kaj estis ja tempo!
+
+La ŝerco finiĝis; la feliĉa duko ne povis plu multe rakonti sed
+oscedis des pli laŭte, kaj fine sin dediĉis al la dolĉa nokta ripozo,
+kiu forpelas ĉian zorgon kaj sanigas ĉian vundon; la dormemo fermas
+liajn okulojn, li ekdormas; kaj, se post kelkaj minutoj la mondo estus
+detruiĝanta, li certe ne vekiĝus nek scius la okazintaĵon.
+
+Ĝis tiu punkto estis daŭronta la ludo. Duko Filipo, kiu en fremdaj
+vestaĵoj ĉion ĉeestis kaj bonege sin amuzis, nun malensorĉigis la viron.
+
+Oni forprenis la riĉe ornamitan robon, forportis la multekostan, nun
+iom ĉifitan, kapuĉon kaj ĉion kiun oni estis uzinta, kaj anstataŭe oni
+alportis la laboristan vestaĵon per kiu oni revestis la mizerulon: oni
+alligis lian eluzitan malbonodoran tolan pantalonon, oni metis liajn
+ŝtrumpetojn kaj lignajn ŝuojn kaj poste, vestitan kiel li estis la
+hieraŭan vesperon, oni reportis lin en la saman lokon kie oni kunprenis
+lin.
+
+Ree kuŝis tie la drinkulo dormanta; eble ne tiel mole kiel sur la luksa
+lito en la palaco, sed kiel li ne ŝatis la lanugan matracon tiel li ne
+sentis nun la malmolecon de la ŝtona kapkuseno aŭ de la malglata pavimo
+sur kiu ripozis lia korpo.
+
+Kredeble li vekiĝis iom pli frue ol la lastan matenon; sed nun li
+ĉirkaŭrigardis ne malpli miregante kiam li kvazaŭ kontuzita sidiĝis en
+la strata defluilo. Lia propra memeco ne kaŭzis tiun ĉi fojon dubon
+aŭ miron: li eĉ ne pensis pri tio; ĉar sen ia pripensado li sentis
+sin mem laŭ internaĵo kaj eksteraĵo la sama kiel li ĉiam konis sin.
+Tamen dum li frotis siajn dolorantajn kaj rigidajn membrojn, ĉio kio
+okazis la lastan tagon traflugis lian spiriton: tiu bela vestaĵo,
+tiuj korteguloj, tiuj respektaj salutoj, tiuj ceremonioj en preĝejo,
+tiu tagmanĝo, tiuj promenadoj, tiu ĉasado, tiu birdkaptado, tiu
+vespera festeno, tiuj bongustaj vinoj, tiu ludado, kantado, dancado de
+sinjoroj, sinjorinoj, gejunuloj, kaj tiu lukso, kaj tiu riĉeco de...
+li ne scias ĉu kies, ĉu kie? Tamen li ne dormis plu, ne, li estis
+vekiĝinta; li leviĝis laca, rigida kaj kun kapo peza kiel muelilŝtono.
+Kio do estis okazinta? Ĉu li ne estis reĝo, aŭ duko, aŭ io simila?
+Ĉu li ne sidis en apogseĝo? Ĉu li ne vidis centon da servistoj
+ĉirkaŭirantaj, ĉu li ne manĝis el ornamitaj teleroj kaj trinkis el
+kristalaj pokaloj? Jes, tion li memoris tiel vivoplene kvazaŭ tio
+okazas en la nuna momento. Sed, ĉu eble li estas sonĝinta? Li efektive
+sonĝis iam pri aferoj tiel neeblaj kiel fariĝi reĝo. Tio tamen estis
+malfacile kredebla, ĉar ĉio tiel longe daŭradis, li tiel bone aŭdis
+kaj vidis tion, kaj ĉio estis tiel belega, tiel mirinda kaj ankaŭ tiel
+agrabla?
+
+Per tiaj pensoj li vane turmentis sian cerbon; ju pli li pripensis kaj
+pripensadis, des pli ĉio fariĝis pli malklara. Dume li trapaŝis la
+placon kaj aldirektiĝis al strateto kie li jam de longaj jaroj loĝas.
+
+Dum la irado la rememoroj ĉirkaŭflugis lian spiriton kaj fine,
+konsiderinte ĉion, li konkludis ke li nur sonĝis.
+
+Nun li rakontis kun ia elokventeco al sia edzino, al siaj infanoj, al
+genajbaroj la miregan sonĝon kun ĉiuj ĝiaj detaloj, kaj ĉiuj aŭdintoj
+unuvoĉe ekkriis: «Ho! kia bela sonĝo! sed sonĝo estas trompiĝo!»
+
+  _Tradukis_
+  Raym. Van Melckebeke.
+
+Piednoto [3] Karolo Va (Charles-Quint) 1500-1558.
+
+Piednoto [4] En solenaj Diservoj la pastro diris al la diakono, metante
+la manojn sur liajn ŝultrojn, «Pax tecum» (Pacon al vi). Same oni agis
+kontraŭ la duka moŝto.
+
+Piednoto [5] Vino kun cinamo kaj sukero, trinkaĵo tre ŝatata dum la
+Mezepoko.
+
+Piednoto [6] Moneroj sur kiuj estas gravurita ŝildo.
+
+Piednoto [7] Delikata vino el la ĉirkaŭaĵo de Greka urbo _Napoli de
+Malvasia_.
+
+Piednoto [8] Burgundvinoj de _Beaune_ kaj _Romanée_.
+
+Piednoto [9] _Rederykkamer_, _Chambre de Réthorique_, Retorikejo, tiel
+oni nomis en Nederlando la literaturajn societojn kiuj sin okupis
+precipe pri la versfarado.
+
+
+
+
+K. L. LEDEGANCK
+
+1805-1847.
+
+
+Ledeganck naskiĝis en Eekloo (Eklo) en 1805 kaj mortis en Gento en
+1847. Li estis dum longaj jaroj kaj estas ankoraŭ nune la plej amata
+flandra poeto. Liaj versaĵoj estas plenaj je ĉarmega harmonio kaj
+senafekta amindeco; li per simpla, dolĉa, popola lingvaĵo priskribas
+plej amindajn subjektojn kaj li ludis vere en la flandra poezio la
+rolon kiun ludis H. Conscience en la proza literaturo: ambaŭ estis
+popolaj verkistoj. Ledeganck mortis tro juna, antaŭ ol li povis
+efektivigi kion esperigis liaj unuaj verkoj.
+
+Lia majstraĵo estas: «La tri fratinaj urboj», en kiu li prikantas
+la devenon kaj la estontecon de la tri gloraj flandraj urboj: Bruĝo,
+Gento, Antverpeno. Jen estas la parto kiu prikantas Bruĝon: en ĝi la
+verkinto plendas pri la iama gloro de Bruĝo, kies morton kaŭzis la
+alpreno de la francaj lingvo kaj moroj; poste, vidinte ke Bruĝo estis
+baldaŭ starigonta kun granda festo statuon de unu el siaj plej gloraj
+idoj: Simon Stevin, tre fama matematikisto, li antaŭsentas la estontan
+reviviĝon kaj gloriĝon de tiu urbo.
+
+
+Al Bruĝo.
+
+(_Aan Brugge_).
+
+          «Kiu virgulinon senvivan
+          Iam vidis, ĵus post la morto,
+      Antaŭ ol Fingro de l' Neniigo
+      Trajtojn difektis belajn kaj ĉastajn,
+  Tiu ekmiris kiel anĝele kaj dolĉe,
+  Sur la vizaĝo, montras sin paco senfina;
+  Kaj se okulon tiun senbrilan, senmovan,
+  Kaj se la vangon per la funebro kovritan
+  Li ne ekvidus, de la doloro premate,
+  Longe li dubus. Tiel kvieta kaj duba
+  Ŝajnas la morto kun la ekstero de l' vivo:
+          Kaj tiel vidiĝas tiu marbordo!»
+
+          Tiel kantis l' Angla Rapsodo[10]
+          Kiam, sub la suno Hellada,
+      Akre plendante gloron pasintan,
+      Li Grekolandon vidis senviva.
+  Tiel malĝoja, tiel ploranta kantado
+  Premas min kiam murojn la viajn mi vidas,
+  Ho vi, de longe, urbo plej multe glorita!
+  Signojn ankoraŭ de nobeleco vi portas,
+  Brilon de glor' antikva vi havas ankoraŭ,
+  Sed vin premegas forte la mano de l' morto:
+  Kaj ĉe vi Bruĝon belan mi vidas ankoraŭ,
+          Sed Bruĝon vivantan mi plu ne trovas!
+
+          Kial kuŝas vi nun ankoraŭ
+          En la glora flandra ĝardeno,
+      Dum, la majestan kronon perdinte,
+      Vi belulino ŝajnas lasita?
+  Kion utilas ke, nun ankoraŭ, vi Maron
+  Vidas, se ŝipoj fremdaj vin plu ne salutas?
+  Kion utilas stratoj riĉegaj kaj larĝaj,
+  Se jam de longe ilin forlasis la vivo,
+  Kaj se la herbo ilin jam tute kovradas?
+  Kion utilas viaj belegaj domegoj,
+  Se malfermiĝas ties pordegoj neniam
+          Ho, kvazaŭ en ĉiu estus mortinto!
+
+          Kial staras temploj riĉegaj,
+          Kiam viaj grafaj geedzoj
+      Tie en kupraj tomboj kuŝadas[11]
+      Kvazaŭ glorante vian pereon?
+  Kion utilas ke vi plej artajn trezorojn
+  Montras, dum vin de longe forlasis la Arto?
+  Kion utilas fama belec' de virinoj
+  Viaj, dum ili fremdan vantecon kaj fremdajn
+  Gestojn al amindeco flandrana preferas?
+  Kion utilas ke de la lipoj ankoraŭ
+  Ili fluigas dolĉe la lingvon gepatran,
+          Dum ili preferas fremdan lingvaĵon?
+
+          Ho, reĝurbo tiel falinta,
+          Antaŭ ol mi en vin alvenis,
+      Nur la gloregon de vi mi konis:
+      En la mallum' antikva vi brilis
+  Kiel steleto, poste tagruĝo, eĉ suno
+  El la nubar' rampanta kaj Nokton pelanta.
+  Tiam mi vidis viajn Kristanajn armeojn
+  Brave aliri Sanktan Tombejon de Kristo,
+  Tien la famon porti de l' flandra standardo
+  Kaj diskonigi vojon al via haveno.
+  Tuta Eŭropo vian agemon laŭdegis,
+          Kaj tiam vin nomis Tyr'o alia.
+
+          L' orientan lukson en viajn
+          Murojn alportitan mi vidis
+      Kun la sciencoj, kiujn de longe
+      En Oriento oni gardadis.
+  La laboremon, fonton de la komercado,
+  Ĉe vi mi vidis grandan estigi prosperon.
+  La kreopovon, fonton de l' artoj, mi vidis
+  Tiun prosperon die mirinde briligi;
+  Kion kuraĝis via idaro mi miris;
+  Kaj eĉ reĝinon ekkolerantan mi vidis,
+  Ĉar en la sekvantaro de viaj virinoj
+          Ŝi nur da reĝinoj aron ekvidis!
+
+          Sed la kaŭz' de l' ĝojo plej granda
+          Por mi estas via braveco;
+      La liberecon, kiel la ĉastan
+      Lingvon patrujan, ĉiam vi amis:
+  Ĉia insulto, unu el ili frapanta,
+  Tuj en armeon aliformigis l' idaron;
+  Tie mi vidas kiel du flandraj paroloj,
+  Kiuj sonegis tondre por la malamikoj,
+  Estis signalo de la plej glora milito;
+  Tie mi vidas kiel ekkrio por venĝo
+  La militamon naskis en la Kortrejkkampoj[12]
+          Kaj ĵetis al tombo francan potencon.
+
+          Tiam oni vin gloregadis
+          Kiel flandran floron plej belan;
+      Tiam, de ĉiuj urboj reĝino,
+      Kronon majestan vian vi portis,
+  Kaj komercurboj ĉiuj en Mondo-Malnova
+  Al vi alportis sian gefratan saluton.
+  L' urbo de l' Doĝoj, la fianĉino de l' ondoj,
+  Sola kuraĝis vian prosperon imiti.
+  Tiam vi trovis fonton de gloro en vi mem;
+  Tiam vi pruvis ke ĉe ni Lumo naskiĝi
+  Povas; kun ĉiuj reĝe vi tiam rilatis;
+          Vi estis, ho Bruĝo, granda!--sed nune!
+
+          Nun, ho nun vi estas plorinda!
+          Tion korpremate mi diras:
+      Akraj sen ploroj povas neniu
+      Vera Flandrano vin rigardadi,
+  Ĉar vi, de tiam, ombro ridinda fariĝis.
+  Kio do kaŭzis tiun malĝojan ekziston?
+  Vin ne deĵetis ia terura milito,
+  Vin ne deĵetis bato de l' dia kolero,
+  Sed, ve! la senton de memstareco kaj vian
+  Flandran esencon vi senatente forpelis
+  Kaj al brilaĵoj fremdaj vi ĉion oferis;--
+          Kaj tial vi estas vere plorinda!
+
+          Tial via regno perdiĝis,
+          Kiel fruktoriĉa kamparo,
+      Kiun vivigis beno ĉiela
+      Dum la kampestro mem ĝin kulturis,
+  Sed kiun fremda semo kaj lolo mortigis,
+  Kiam zorgadon lian ĝi ne plu ricevis.
+  Tial la dormo de la mortintoj vin premas
+  Kiel fraŭlinon kiun premadas ornamoj
+  Fremdaj, pelantaj de ŝi la florojn de l' vivo.
+  Ho, se ebliĝus dubo! se tiu teruro
+  De l' ĉirkaŭanta tombo fariĝus verŝajna,
+          Ne vera! ho, se dormanta vi estus!
+
+          Eble tio estas kredebla,
+          Ĉar tra Flandro kuris novaĵo
+      Gaja: ĝi diris ke vi, aŭdinte
+      Nomojn de filoj por vi gloregaj,
+  Vi, virgulino reviviĝanta, ektremis
+  Kaj ke la eĥo de la glorkanto al ili
+  Ĵus dediĉita, vekis l' animon de vi kaj
+  Vivoradion naskis en viaj okuloj;
+  Ke vi nun prepariĝas al festoj belegaj
+  Por malzorgitan devon nun fine elpagi;
+  Ke vi honoros l' ombron de unu[13] el ili
+          Per glora la ŝtono de l' senmorteco!
+
+          Ho, doloron tio dolĉigas!
+          Ho, animon tio ĝojigas!
+      Vin do ornamu laŭ la antikva
+      Gloro; per floroj tute vin kovru!
+  Pendu al domoj viajn riĉegajn tapiŝojn!
+  Lasu la «gildojn»[14] iri festege tra l' urbo
+  Kun la blazonoj, kun la trofeoj kaj flagoj!
+  Venkan sonadon kriu trumpetoj kaj harpoj!
+  Venkan sonadon bruu la sonorilaro!
+  Ankaŭ kuniru tondra la militilaro!
+  Voku la landon tutan por ke ĝi vin povu
+          Admiri en via gloro restanta!
+
+          Sed, en tiu festo belega,
+          Ankaŭ vidu la lecionon,
+      Ho, vi el dormo ĵus vekiĝinta!
+      Vidu la filon kiun vi festas,
+  Kaj pripensadu ke nur la flandra naturo
+  Klare al li montradis la vojon de l' gloro;
+  Ke pri genio li la fremdulojn ne petis;
+  Ke nur l' animo flandra direktis spiriton
+  Lian, ke tiu fonto neniam sekiĝis;--
+  Ke por la flandra glor' li senĉese fervoris
+  Kaj ke li sian lingvon neniam malŝatis,
+          Eĉ kiam li alparolis la mondon!
+
+          Se vi ne atentus je tio,
+          Ho, rapide tiam vi mortus!
+      Via ekbrilo estus radio
+      Lasta de l' suno tuj kuŝiĝonta,
+  Kaj vi fremdulo en la patrujo fariĝus,
+  Kiel malriĉa kampo en flandraj paŝtejoj.
+  Sed ne......, vidinte kiel agadis la avoj,
+  Via idaro tiun genion imitos,
+  Celos per sia virto natura la gloron
+  Kaj vin briligos per nemortonta brilado;
+  Tiam ĝi vidos Bruĝon ne sole belegan
+          Sed ankaŭ, denove, Bruĝon vivantan!
+
+  _Tradukis_
+  Maurice SEYNAEVE.
+
+Piednoto [10] Vidu «Giaour» de Lord Byron.
+
+Piednoto [11] Aludo al la belegaj kupraj tomboj de
+«Charles-le-Téméraire» kaj «Marie de Bourgogne» en la ĉefpreĝejo de
+Bruĝo.
+
+Piednoto [12] Aludo al la sanga «Batalo de l' Oraj Spronoj» kiu okazis
+ĉe la kamparo de Kortrejko (Courtrai).
+
+Piednoto [13] Aludo al la statuo de Simon Stevin, fama matematikisto,
+naskiĝinta en Bruĝo en 1571.
+
+Piednoto [14] «Gildo» = flandre kaj france: _gilde_; tiel oni nomis la
+antikvajn societojn da samprofesianoj.
+
+
+
+
+HENDRIK CONSCIENCE
+
+1812-1883.
+
+
+Hendrik Conscience estas rajte ŝatata kiel la restariginto de la proza
+literaturo en nia Flandro. Li sukcesegas en skizado de scenoj el
+popola vivo. Li pentras la naturon kun mirindaj ĝusteco kaj simpleco
+per helaj kaj lumaj koloroj; tamen li apartenas pli al la idealista
+romanverkistaro ol al la realista: liaj herooj restas ĉiam iom super la
+reala proza vivo.
+
+Per la esprimo, eĉ naiva, de la plej altaj kaj puraj sentoj, li ofte
+eligas larmon el okulo de la leganto. Liaj verkoj estas himno al
+kampara vivo; li enigis senton al boneco, al idealo, en la animon de l'
+popolamaso kaj altiris kaj ravis ĝin. La Flandranoj sincere amas sian
+Conscience.
+
+Malgraŭ la jaroj liaj verkoj restas ĉiam legataj kaj gazetoj ankoraŭ
+nun sukcese publikigas liajn romanojn kiel folietonojn.
+
+Se ia romanverkisto--en kia ajn lingvo aŭ ĉe kia ajn popolo li
+skribis--estas rekomendinda al la gejunuloj, estas certe nia
+Conscience.
+
+
+La letero al la rekruto.
+
+Apud la Zoersela arbaro staris, flanko ĉe flanko, du argilaj dometoj,
+izolitaj kaj nerimarkataj.
+
+En unu el ili loĝis malriĉa vidvino kun sia filino; ili posedis, kiel
+solan bienon sur la tero, nur unu bovinon. En la alia dometo loĝis
+ankaŭ vidvino kun sia maljunega patro kaj du filoj el kiuj nur unu
+estis jam junulo.
+
+Ili estis pli riĉaj ol iliaj najbaroj ĉar ili posedis bovon kaj
+bovinon, kaj ili farmluis pli vastan kampon. Tamen la loĝantoj de la du
+dometoj ŝajnis de longaj jaroj nur unu familio, amantaj unu la alian
+kaj donantaj al si laŭ bezono riciprokan helpon. Johano kaj lia bovo
+laboris ofte sur la kampo de la malriĉa vidvino; Katarino, siaflanke,
+kolektis herbaĵon por la bovo, kaj ŝi elsarkis la malutilajn kreskaĵojn
+ĉe siaj najbaroj, kaj helpis ilin dum la rikolto; kaj neniam tiuj
+kamparanoj ekpensis kalkuli kiu el ili pli helpis la alian.
+
+Simplaj, nesciantaj ĉion kio okazas ekstere inter la laboradanta
+homaro, ili vivadis kontentaj je la peco da sekala pano donacita de
+Dio. Ilia mondo havis mallarĝajn limojn: unuflanke la vilaĝo kun ĝia
+humila preĝejeto, aliflanke la senfina erikejo, kaj super ĉio la
+senlima ĉielarkaĵo.
+
+Kaj tamen ĉio ridis kaj kantis en kaj ĉirkaŭ la izolita loĝejo: tie
+ĉeestis plenmezure ĝojo kaj ĝuo, kaj neniu el tiuj malriĉuloj ekvolus
+interŝangi sian sorton kontraŭ alia ŝajne pli bona.
+
+  * * * * * * *
+
+...Sed tiu ĉi kvieta, feliĉa vivado estis interrompita per la foriro
+de la rekrutoj. Johano ankaŭ devis foriri kun la aliaj junuloj. Li
+ofte skribadis al sia familio sed subite la korespondado ĉesis. La
+loĝantoj de la du dometoj pli kaj pli malkvietiĝis kaj tiam Katarino
+prenis la heroan decidon skribi leteron al Johano. Ŝi ja de longe estis
+forgesinta la lecionojn pri skribarto kiujn ŝi ricevis, sed ŝi reprenis
+siajn kajerojn el la malnova kesto kaj relernis la skribadon.
+
+Poste ŝi aĉetis en la vilaĝo leterpaperon, inkon kaj plumon...
+
+  * * * * * * *
+
+La du vidvinoj sidis apud la tablo, senpacience atendante la revenon
+de Katarino. La maljuna avo suferanta pro malvarmo kuŝis en la lito en
+la alkovo kaj montris la kapon el la kurtenoj por ĉeesti, almenaŭ per
+okuloj kaj oreloj, ĉe la grava ekfarota laboro.
+
+Tuj kiam la filino sin montris sur la sojlo, la virinoj rapidege
+kolektis la diversajn objektojn kuŝantajn sur la tablo, kiun ili per
+antaŭtuko purigis.
+
+«Venu, Katarino» diris la patrino de Johano «sidiĝu sur la seĝon de la
+avo; ĝi estas pli komforta.»
+
+La junulino silente eksidiĝis apud la tablo, kuŝigis la paperfoliojn
+antaŭ si kaj, revanta, ŝi metis la pinton de la anserplumo inter siajn
+lipojn...
+
+Dume la virinoj kaj la avo sciame alrigardis la pripensantan junulinon.
+La frateto estis apoginta la brakojn sur la tablo kaj mire rigardis ŝin
+por observi tion kion ŝi estas faronta per la plumo.
+
+Sed Katarino sin levis kaj, ĉiam silente, prenis el la ŝranko taseton,
+verŝis en ĝin la inkon el la boteleto kaj residiĝis apud la tablo, kie
+ŝi multfoje turnis kaj returnis la paperon.
+
+Fine ŝi glitigis la plumon en la inkon kaj kliniĝis kvazaŭ ŝi estis
+ekskribonta. Post momento ŝi levis la kapon kaj demandis:
+
+«Nu, diru nun kion mi devas skribi?»
+
+La du vidvinoj demande rigardis unu la alian kaj sin turnis al la
+malsana avo, kiu, streĉinta la kolon el la kurtenoj, fiksis nun la
+rigardon sur la manon de Katarino.
+
+«Nu, skribu ke ni ĉiuj bone fartas...» diris la maljunulo tusante
+«letero ĉiam tiel komenciĝas.»
+
+La junulino rimarkigis kun dolora rideto:
+
+«Ho! kion vi volas! skribi ke ni ĉiuj bone fartas... kaj vi kuŝas tie
+malsana jam de dekkvin tagoj.»
+
+«Sed vi povas tamen diri tion en la fino de la letero, Katarino.»
+
+«Ne, filino, jen kiel vi devas fari» diris la patrino de Johano
+«komencu, demandante kiel li fartas. Kiam tio estos skribita, ni
+aldonos iom post iom aliajn novaĵojn.»
+
+«Ne, infano mia,» diris la alia vidvino «skribu unue ke per la mano
+vi prenas la plumon por peti informojn pri lia saneco. Tiamaniere
+komenciĝis ankaŭ la letero de Baptisto, la filo de Petro-Johano, kiun
+hieraŭ mi aŭdis legatan ĉe la muelisto.»
+
+«Tiel ja konsilis al mi Katarino, la filino de la ŝuisto, sed mi neniel
+faros tion ĉar tio estas tro ridinda infanaĵo,» senpacience diris la
+junulino «Johano nature scias ke mi ne povas skribi per la piedoj!»
+
+«Skribu nun unue lian nomon supre sur la papero» diris la avo.
+
+«Kian nomon? _Braems?_»
+
+«Tute ne: _Johano!_»
+
+«Vi estas prava, patro» respondis la junulino. «For, Paŭĉjo! formetu
+viajn brakojn de la tablo, kaj vi, patrino, sidiĝu iom malantaŭe, ĉar
+mi konvinkiĝas ke vi puŝos min.»
+
+Ŝi direktis la plumon al la papero kaj, elektante la lokon kie ŝi
+ekskribos, ŝi mallaŭte silabis la nomon de la forestanta amiko.
+
+La patrino de Johano subite stariĝis kaj kaptis la manon de la junulino
+dirante:
+
+«Atendu iom, Katarino, ĉu vi ne opinias ke _Johano_ tutsole ne taŭgas?
+Estas tiel mallonge; oni devus aldoni ion. Ĉu vi ne skribus prefere:
+_Amata filo_ aŭ _Kara infano_?»
+
+Katarino preskaŭ ne aŭdis tiujn vortojn; ŝi okupadis sin lekante la
+paperon,--kaj ŝi kriis iom kolere:
+
+«Nu, jen estas la rezultato: grandega makulo sur la papero! kaj la
+lekado ne utilas: ĝi tamen ne malaperas. Mi uzos do alian folion.»
+
+«Nu, kion vi diras pri tio: _Amata filo?_ Ĉu tio ne estas multe pli
+bela?»
+
+«Ne, tion ankaŭ mi ne volas skribi» murmuris malkontente Katarino. «Ĉu
+mi do skribus al Johano kvazaŭ mi estas lia patrino?»
+
+«Sed kion vi skribos do?»
+
+Ia rozkoloro aperis sur la vangoj de la junulino dum ŝi respondis:
+
+«Se mi skribus: _Kara Amiko?_ Ĉu tio ne ŝajnas al vi la plej bona
+esprimo?»
+
+«Miaflanke mi ne volas tion» diris ŝia patrino «diru tiam prefere nur
+_Johano_.»
+
+«_Kara Johano?_» demandis la junulino.
+
+«Jes, tiel estas bone!» respondis ĉiuj kune, kvazaŭ ili estas ĝojaj pro
+la solvo de tiu malfacila problemo.
+
+«Nun! ne tuŝu la tablon» kriis la junulino «kaj tenu Paŭĉjon por ke li
+ne puŝu min!»
+
+Katarino eklaboris. Post unu minuto ŝvitgutetoj ekbrilis jam sur ŝia
+frunto; ŝi haltigis la spiradon kaj ŝia vizaĝo varmiĝis. Ŝi profunde
+ekspiris kaj, kvazaŭ liberigita de peza ŝarĝo, ŝi gaje ekkriis:
+
+«Uf! Tiu _K_ estas vere la plej malfacila letero el ĉiuj! Sed tamen ĝi
+kuŝas tie kun sia longa buklo!»
+
+La ambaŭ virinoj leviĝis kaj mirantaj rigardis la literon, kiu estis
+almenaŭ tiel granda kiel fingroparto.
+
+«Tio estas stranga!» kriis la patrino de Johano «ĝi estas objekto kiel
+vespo; kaj tio signifas _Kara Johano_! Skribi estas tamen mirinda scio;
+oni dirus preskaŭ ke tio estas sorĉaĵo!»
+
+«Nu, nu, lasu min daŭrigi» diris Katarino kun kuraĝo «mi atingos la
+celon. Se tiu plumo ne tiel ŝprucigus!....»
+
+Katarino, spiregante kaj ŝvitante, ree laboradis. Dume la avo tusetis,
+la virinoj silentis kaj ne kuraĝis movetiĝi; la frateto sin amuzis
+metante sian fingron en la inkon kaj punktante per nigraj makuloj sian
+nudan braketon.
+
+Kiam, post kelka tempo, la unua linio estis plenskribita per grandaj
+literoj, la junulino haltis en sia laboro.
+
+«Diru, Katarino, ĝis kie vi jam alvenis?» demandis la patrino de Johano
+«Vi legu do al ni ĉion kion vi jam skribis sur la papero.»
+
+«Kiel vi rapidas!» ekkriis Katarino «Sur la papero sin trovas nur
+_Kara Johano_. Tio ŝajnas jam multe al mi. Vidu nur kiel la ŝvito
+ekelspruĉas! Mi preferas elpreni la sterkon el la stalo! Ĉu vi do
+pensas ke la skribado ne estas laboro?--Paŭĉjo, ne tuŝu plu la inkon,
+aŭ tuj vi elverŝos la taseton.»
+
+«Sed vi daŭrigu nun, filino» rimarkigis la avo aŭ la letero ne estos
+skribita la proksiman semajnon.»
+
+«Jes, mi scias tion» respondis Katarino «sed vi diru kion mi devas
+skribi.»
+
+«Nu, demandu unue kiel li fartas.»
+
+La junulino ree skribis dum kelka tempo, elviŝis du aŭ tri erarajn
+literojn per la fingro, ege klopodis por ekkapti ian hareton el sia
+plumo, murmuris kontraŭ la vendisto pro la tro malfluida inko kaj tiam
+laŭte legis:
+
+«_Kara Johano_, kiel vi fartas nun?»
+
+«Tiel estas bone;» diris la patrino «skribu nun ke ni, ĉiuj, homoj kaj
+brutoj, bone fartas, kaj ke ni salutas lin.»
+
+Katarino iom pripensis kaj daŭrigis sian skribadon. Kiam ŝi estis
+fininta, ŝi legis:
+
+«Dank' al Dio ni ĉiuj ankoraŭ bone fartas kaj la bovo kaj la bovino
+ankaŭ, esceptinte tamen la avon, kiu estas malsana, kaj ni ĉiuj ni
+deziras al vi bonan tagon.»
+
+«Sed, ho, ĉielo!» kriis ŝia patrino «Katarino, infano mia, kie vi
+lernis tion? La instruisto........»
+
+«Ne alparolu al mi» interrompis la junulino «aŭ vi igas min ĉion
+forgesi. Nu, mi sentas ke nun la laboro akurate antaŭeniros.»
+
+Dum duonhoro ĉiuj silentadis. Ŝajnis ke la laboro pli facile daŭriĝas,
+ĉar la junulino iafoje ridetis dum sia skribado.
+
+Ŝin nur distris Paŭĉjo, kiu estis kolorinta sian tutan brakon nigra
+kaj metis nun siajn kvin fingrojn samtempe en la inkon. Jam dekfoje
+Katarino glitigis la taseton de unu al alia rando de l' tablo, sed la
+knabeto estis tiel allogata de la inko ke estis neeble forteni lin de
+ĝi.
+
+Tamen la du unuaj paĝoj de la papero estis plenskribitaj. Cedante al la
+postuloj de la virinoj, Katarino kun ia fiereco eklegis sian skribaĵon,
+kiu estis la jena:
+
+_Kara Johano._
+
+«Kiel vi fartas nun? Dank' al Dio ni ĉiuj ankoraŭ bone fartas kaj la
+bovo kaj la bovino ankaŭ, esceptinte tamen la avon, kiu estas malsana,
+kaj ni ĉiuj ni deziras al vi bonan tagon. Jam de ses monatoj ni nenion
+aŭdis pri vi. Sciigu do al ni, ĉu vi vivas ankoraŭ. Viaflanke ne estas
+ĝentile ke vi forgesas nin, kiuj tiel amis vin ke via patrino dum
+tuta la tago parolas pri vi, kaj ke mi ĉiunokte pri vi sonĝas ke vi
+estas malfeliĉa--kaj tiam mi aŭdas vian voĉon vokantan: _Katarino,
+Katarino_, tiel forte ke mi eksaltas en mia dormado... kaj la
+kompatinda bovo, kiu ĉiam el la stalo rigardas kaj tiel sopiras ke oni
+preskaŭ ekverŝus larmojn! kaj estas ega malĝojo tial ke neniu el ni
+ion scias pri vi: vi devas kompati je ni, Johano, ĉar via bona patrino
+pro tio certe ekmalsaniĝos; kiam la kompatinda malfeliĉulino aŭdas eĉ
+nur vian nomon, ŝi ekĝemas kaj tiel ploras ke mia koro disrompiĝas...»
+
+Dum la legado de ĉi tiuj linioj, la okuloj de la aŭskultantoj iom post
+iom malsekiĝis; sed, ĉe la malĝoja tono de la lastaj vortoj, neniu
+povis kontraŭstari la kortuŝecon; kaj la junulino estis haltigita de la
+laŭtaj ĝemspirado kaj plorado.
+
+La avo reklinis sian kapon sur la kapkusenon por kaŝi siajn larmojn, la
+patrino de Johano, troege kortrafita por venki siajn sentojn, eksaltis
+de sia seĝo kaj silente ĉirkaŭprenis la junulinon, kiu mirante rigardis
+la efikon de sia skribaĵo.
+
+«Katanjo, Katanjo, kie vi ĉerpas la vortojn?» kriis la alia vidvino
+«Ho! ili estis kvazaŭ tranĉiloj, kiuj traboras la koron! Sed estas
+tamen belege!»
+
+«Ho! tio estas nur la vero» ĝemis la patrino de Johano. «Ha! se li
+scius kion mi suferas en mia koro!... Daŭrigu vian legadon, kara
+Katarino; mi miregas pro tio kion vi skribis: neniam io simila estis
+aŭdata; viaj manoj estas certe tro lertaj por melki la bovinon aŭ
+labori en la kampo; sed Dio toleras multe en la mondo!...»
+
+Gaja pro tiuj laŭdoj la junulino diris kun fiera rideto:
+
+«Se la skribarto estus nur tio! Ĉiu ajn venu: mi skribos pli bone ol
+iu! Nun mi trovis la bonan vojon. Nu, aŭskultu, mia letero ne estas
+ankoraŭ finita:
+
+«Ho! Johano, se vi scius tion, tuj vi donus al ni sciigojn! La
+trifolioj malsukcesis pro la malbona semo kaj plie tial ke ili estas
+frostitaj; sed nia spergulo[15] alridetas al vi: ĝi estas tiel mola
+kiel butero; kaj la sekalo suferis iom pro la sekeco, sed Nia Sinjoro
+donacis al ni belan herbaĵon kaj multe da frumaturaj terpomoj. Kaj la
+kampogardisto edziĝis kun vilaĝanino el Pulderbosch: ŝi estas straba
+sed posedas multe da mono. Francisko la masonisto falis de la tegmento
+de la bierfaristo sur la dorson de nia maljuna forĝisto, kaj la
+forĝisto estis preskaŭ mortigita, malfeliĉe!»
+
+La junulino silentis.
+
+«Ĉu tio estas ĉio?» demandis la patrino malĝoje. «Ĉu vi ne sciigus al
+li ke la bovino naskis idon?»
+
+«Ho jes! tion mi forgesis... Jen, tio sin trovas jam sur la papero:
+
+«Nia flavruĝa bovino naskis idon; ĉio bone sukcesis, kaj la bovido
+estas jam vendita.»
+
+«Ĉu vi ne dirus ion pri niaj kunikloj, Katarino?» demandis la avo.
+
+Post la ĉeso de sia skribado, la junulino legis:
+
+«La avo konstruis kuniklejon en la stalo; ili estas tiel grasaj kiel
+marmotoj, sed la pli dika kuniklino devas vivadi ĝis kiam vi estos
+reveninta, Johano, tiam ni frande festenos!»
+
+Ĉiuj gaje ekridis; la knabeto, vidante la komunan ĝojon kaj trafita per
+la vorto _festeni_, bruege ekaplaŭdis. Sed malfeliĉe lia maneto trafis
+tiel forte la taseton ke ĝi ruliĝis sur la tablo, elverŝante la inkon
+kiel nigran riveron sur la belan leteron.
+
+La rido tuj malaperis de ĉiuj vizaĝoj; unu rigardis la alian timeme kaj
+silente; oni levis la okulojn ĉielen dum Paŭĉjo, timegante la baton,
+jam ekploregis kaj kriis tiel forte ke la oreloj estis surdigitaj.
+
+Dum longa tempo oni riproĉis la knabeton kaj oni plendis malĝojege pri
+la katastrofo, ĝis kiam oni konkludis per la demando:
+
+«Dio! kion ni faros nun?»
+
+«Nu, nu,» diris Katarino kun decideco «la malfeliĉo ne estas tiel
+grava; mi intencis tamen reskribi la leteron, ĉar en la komenco la
+afero ne bone prosperis; la literoj estis tro grandaj kaj la skribaĵo
+estis tro malrekta. Nun mi faros tion pli bone, mi ja ekkuraĝiĝis. Lasu
+min rapide kuri al la vilaĝo por aĉeti paperon kaj inkon, kaj por ke
+oni ree tranĉu mian anserplumon ĉar ĝi fariĝis multe tro fleksebla.»
+
+«Nun, tuj foriru, infano mia,» respondis la patrino «jen estas la
+kvinfranka monero de la bovido: vi ŝanĝigu ĝin ĉe la instruisto, ĉar mi
+devos kredeble sendi al mia kompatinda Johano almenaŭ du frankojn.
+
+--Paŭĉjo, for! el la domo! kaj ne kuraĝu reveni antaŭ la vespero!»
+
+Katarino, kun kontenta rideto sur la vizaĝo, elpaŝis rapide el la
+pordo, sin direktante al la vilaĝo. La triumfo kiun ŝi akiris, la
+konvinko ke de nun ŝi povos skribi al Johano kaj precipe ia fiereco pro
+sia scienco, plenigis ŝian koron je dolĉa ĝojo.
+
+El «De Loteling» (La Rekruto.)
+
+  _Tradukis_
+  Raym. Van Melckebeke.
+
+Piednoto [15] _Spergula arvensis_, furaĝa kreskaĵo.
+
+
+En vilaĝa tombejo.
+
+La kursoj en la vilaĝa lernejo finiĝis.
+
+Jen hejmen iras Manjo, la aminda blonda knabino, portante sub brako
+sian skribardezon. La nigra buklhara Janko de la najbaraĵo ŝin sekvas.
+
+Vojirante, ili deŝiras bluajn cejanojn kaj ruĝajn papavojn el la
+sekalaj kampoj...
+
+Sur la ŝtona ŝtupo, apud la enirejo de la tombejo, ili kunsidas. Janko
+kunplektas kronon el la floroj. Ŝajnas al la knabino, ke tio tro longe
+daŭras, kaj ŝi aperigas sian malpaciencon por posedi la kronon.
+
+Sed Janko laboradas kun fervora agemeco. Nesciante tion kio lin
+incitas, li ordigas, li interŝanĝas la florojn, li serĉas la harmonion
+de l' koloroj, kaj diversfoje li mezuras la kronon sur la kapo de sia
+dolĉa kunulino. Ĉu ia amika aŭ ama sento tiel frue faris tiun knabon
+artisto?
+
+Proksime de ĉi tiuj naivaj ludoj sin etendas la kampo de eterna dormado
+kun sia neinterrompita silento, kun siaj verdantaj tomboj kaj siaj
+falintaj krucetoj. Alte staras sur la kampo de la morto la humila
+preĝejeto: ĝia malnova turo, masiva kaj sengracia je sia malsupro,
+similas al maljunulo malgajanta pro la morto de infanoj; sed je la
+supro ĝiaj formoj maldikiĝas kaj ĝia pintforma tegmento, kvazaŭ sago,
+supreniras al la ĉielo kaj aperigas la oran esperan stelon, brilegantan
+super la mortintoj, kiuj dormas sub la verda herbaĵo.
+
+La suno disverŝas sian gajigan lumon sur la tombejon; floroj balanciĝas
+sur la tomboj pro la varmeta venteto; birdoj kantas sur la tilioj
+superombrantaj la sanktan herbaron; diverskoloraj papilioj flirtas
+ĉirkaŭ la lignaj krucetoj.... sed nenio rompas la impresan silentadon
+aŭ la kortuŝantan solecon de la mortkampo.
+
+Janko finis sian laboradon. Sur la kapo de Manjo paradas nun la
+ruĝablua krono, kiun li kunplektis por ŝi.
+
+Ambaŭ eniras en la vojeton zigzagantan tra la tombejo.
+
+Janko ekvidas floron de Sankta Johano[16] briletantan sur ia tombo kiel
+arĝenta stelo. Li flanken saltas, deŝiras la floron de ĝia trunketo kaj
+fiksas ĝin sur la frunton de sia amikineto.
+
+Ĝi estas la centra juvelo en la diademo de reĝino, kies komenciĝanta
+regno estas la vivo, kies sceptro estas la beleco, kies trezoro estas
+la simpleco kaj la kredo.
+
+Manjo ĝojante marŝas antaŭen; en ŝiaj bluaj okuloj brilas infana
+fiereco, kaj ili miksas sian dolĉan helon kun tiu de beletaj cejanoj
+balanciĝantaj sur ŝia frunto.
+
+Sed ŝi haltas en la tombejo kaj ekrigardas ridetante lignan kruceton,
+kies freŝa florkrono montras tombon antaŭ nelonge plenŝutitan.
+
+--«La krono, kiun vi portas, estas multe pli bela!» diras Janko.
+
+--«Tie kuŝas entombigita Karolinjo de la ĉarfaristo» murmuras la
+revanta knabino.
+
+--«Malfeliĉa Karolinjo» kompatas la knabeto «nun ŝi ne povos iri plu
+kun ni en la lernejon».
+
+--«Ĉar ŝi estas, ĉu ne vere, en la ĉielo?»
+
+--«Jes, ŝi estas en la ĉielo, domaĝe!»
+
+--«Kial do vi estas malgaja, ĉar Karolinjo estas en la ĉielo?» demandas
+la knabino mirante «En la ĉielo estas tamen tiel bone! Tie oni povas
+promenadi de lama teno ĝis la vespero kun la karaj anĝeletoj! Tie oni
+ricevas sukeraĵojn po plenaj antaŭtukoj; tie ĉiu tago estas dimanĉo
+kaj oni ludadas kaj kantadas ĉiam;--kaj kiam oni laciĝis de ludado,
+tiam la bona Dio nin sidigas sur siajn genuojn kaj kisas nin ĝis
+ekdormo.»
+
+--«Jes, jes, estos nepre bonege en la ĉielo!» sopirante murmuras Janko.
+
+--«Mi vidis Karolinjon, kiam ŝi fariĝis jam anĝeleto kaj ŝi ankoraŭ
+dormis longan dormadon antaŭ ol ŝi estis flugonta al la ĉielo.»
+Reparolas Manjo «Ha! kiel bela ŝi estis! Vestita ŝi estis per
+freŝa blanka robeto, kaj ŝia vizaĝo kaj ŝiaj manetoj estis eĉ pli
+blankaj ol la robeto;--kaj sur sia kapo ŝi portis kronon el oraj kaj
+arĝentaj floroj kun steletoj kaj perloj, kiel la infaneto Jesuo en la
+preĝejo;--kaj Karolinjo ridetis tiel dolĉe dum sia dormado kvazaŭ ŝi
+jam sonĝis pri la ĉielo. Mi ne vidis ŝiajn flugilojn; sed mia patrino
+klarigis al mi, ke ili estas falditaj sub ŝia dorso, por ke ili ripozu
+por la longa vojaĝo.... Ĉar la ĉielo estas tre malproksime de ĉi tie,
+Janko.»
+
+--«Venu, Manjo» murmuretas la knabeto, forigante ŝin de la tombeto «Mi
+tamen ne dezirus jam morti, ĉar tiam mi ne povus plu ludi kun vi....»
+
+El «Het ijzeren graf» (La fera tombo.)
+
+  _Tradukis_
+  Raym. Van Melckebeke.
+
+Piednoto [16] Popola nomo de la lekanto.
+
+
+Mortigo de Jakobo Van Artevelde.
+
+En la unua etaĝo de la domo de Jakobo Van Artevelde fenestro estas
+malfermata.
+
+Tie aperas nun la Saĝa Viro mem, apoganta sin sur la fera
+balkonbalustrado kaj faranta signon per mano ke li tuj ekparolos.
+Tial ke li estas hele lumata de la fajrbrilo de l' torĉoj oni povus
+facile distingi sur lia vizaĝo kortuŝecon eĉ plej malgrandan. Sed nenia
+korpremeco, nenia timo estas sur ĝi videbla; ĝi atestas nur trankvilan
+ĉagrenon kaj sinceran kompaton.
+
+En la komenco estis neeble ke li parolu sufiĉe laŭte por ke li estu
+komprenata; ĉar la popolamaso el ĉiuj flankoj kriegante alproksimiĝis,
+kaj levis minace torĉojn kaj armilojn.
+
+Fine la bruegado ĉesas kaj Van Artevelde ekparolas:
+
+«Kunuloj, kion vi deziras de mi? Kial vi estas tiel incititaj kontraŭ
+mi? Diru kion mi eble malbonfaris, mi rebonigos tion laŭ mia povo.»
+
+«Ni postulas kalkulraporton pri la granda Flandra trezoro kiun vi
+rabis!» tumulte kriis ĉiuflanke la ribelantoj.
+
+«Oni vin trompas, kunuloj,» respondis Van Artevelde, «el la Flandra
+trezoro mi neniam forŝtelis la plej malgrandan moneron. Returne iru
+hejmen kviete; mi petas vin, revenu morgaŭ dum la tago: por via
+kontentigo mi senkulpigos min pri ĉio kion vi povas deziri.--Vi
+konstatos ke oni vin trompis.»
+
+«Ne, ne!» ekkriis Gerardo Denys, minacante Artevelde kaj perfide
+ridante, «ni volas tuj ricevi klarigojn! Ni scias ke vi ŝtelis la
+trezoron, kaj, kiel malnobla fripono, ĝin forsendis en Anglujon. Ni ne
+permesos ke vi forkuru! Vi devas morti, landperfidulo!»
+
+«Li devas morti!» rekriegis la partianoj de Gerardo. «Malsupreniru kaj
+ne parolu plu de tiu altaĵo, tirano!» kriis brute alia ribelanta bando.
+
+Artevelde, plifortigante kaj pliakcentante sian voĉon, reparolis:
+
+«Ho, kunuloj, vi postulas mian morton! Ĉu vi ne memoras do plu, ke mi
+oferadis mian ripozon, mian bienon kaj mian vivon por la liberigo de
+Flandro kaj por via prospereco? Ĉu vi ne scias plu ke sur tiu ĉi sama
+placo, kie nun vi volas verŝi mian sangon, vi ĵuris defendi kaj helpi
+min ĝis la morto? Ĉu ne estas vi, kiuj petegis min, kun levitaj brakoj,
+doni al vi liberecon kaj negocon? Ho, atestu almenaŭ, kunuloj, ke mi
+plenumis mian promeson! Mi savis Flandron de la malsatego, mi liberigis
+ĝin el la sklaveco, mi revivigis kaj brilegis ĝin en prospero, en gloro
+kaj en grandeco...
+
+«Ĉu vi volus nun maljuste mortigi min, trempi viajn manojn en sangon de
+senkulpulo?
+
+«Malĝoja rekompenco de l' bono kiun mi penadis fari, kaj kiun mi
+plenumis dank' al Dia helpo!
+
+«Disponi je mia vivo vi povas, ĉar mi estas tute sola kontraŭ ĉiuj: sed
+mi petegas vin, kunuloj, antaŭ ol malhonori vin per tia krimo, pripensu
+kies ilo vi estas; atestu ke la malamikoj de nia libereco vin trompas,
+por interne disigi nian karan Flandron, por ke ĝi falu senforta kaj
+ke ĝi neniigita kurbiĝu sub la plej hontinda jugo. Ĉu vi ne estas do
+plu idoj de Flandro? Ĉu Gento ne enhavis viajn lulilojn? Kial do vi
+forĵuras patrujon, liberecon kaj gloron por amuzi vin verŝante fratan
+sangon?
+
+«Ne, ne, vi ankoraŭ aŭskultos min; la kriego de mortanta Flandro el
+mia buŝo ankoraŭ resonos en viaj koroj. Ĝi fortiregos de viaj okuloj
+blindigintan vualon kaj al vi rememorigos la plej sanktan devosenton.
+
+«Ve! Ve! por ni, kunuloj, se surdaj vi estas por tiu ĉi solena voko...»
+
+Jam la elokventa parolado de Van Artevelde ekkaptis la atenton de l'
+aŭskultantoj kaj potence ekkvietigis la pasiojn.
+
+Envia bedaŭro kovris la vizaĝon de Gerardo Denys, kiu, kolerege,
+rimarkis ke lia ofero foriĝos.
+
+Denys kun siaj konspirantoj, nerimarkite, alproksimiĝis al la malantaŭa
+pordo de l' Artevelda domo, kaj tie ili ekbruegis kaj ekatakis la
+malfortikan pordon per marteloj kaj hakiloj.
+
+En ĉambro, kies pordo troviĝis flanke de l' strateto nomata:
+«Paddenhoek» (angulo de la bufoj), la Arteveldaj amikoj atendis tenante
+armilon en pugno, kaj decidinte morti por lia defendo.
+
+Atentege kaj sin incitante reciproke al kuraĝo, ili aŭdis la fortegajn
+martelbatojn kaj la kriegojn, kiuj tiel minace resonis antaŭ la
+eksterpordo de l' Paddenhoek.
+
+Fine la mortigontoj dispecigis la pordon kaj triumfe ensaltegis la
+koridoron. Nun ili ekatakis per siaj marteloj la pordon de l' ĉambro
+kaj ĝin eligis el la hokoj. Post malmultaj momentoj la malforta
+barikado falis sur la pargeton, donante trairejon al la furiozaj
+atakantoj.
+
+La glavo de Ghelnot[17] tendis la kapon de l' unua, la ponardo de
+Lieven[17] traboris la bruston de l' dua. Tuj ĉiu el iliaj amikoj
+elektis mortigoton: preskaŭ samtempe kvin aŭ ses ribelantoj falis teren
+en sango.
+
+Vidante tion, la aliaj rapide ekiris returnen. Ĉar la atakantoj povis
+enpaŝi nur duope aŭ triope la mallarĝan koridoron, ili estis trafotaj
+antaŭ ol ili povos uzi siajn armilojn; ili do bone komprenis ke nur
+malmultaj penetros en la ĉambron, kaj ke ili renkonten iras al certa
+morto, volante alveni ĝis Artevelde per tiu vojo. Sekve ili volis
+reeliri..... sed, plimalproksime en la koridoro, bruegis antaŭenpuŝanta
+maso, kiu kun nevenkebla penado enpuŝis la plejantaŭestantojn en la
+ĉambron, kiel faleganta fluo.
+
+Kvankam Ghelnot kaj liaj amikoj furioze faligis teren la unuajn
+malamikojn kaj per glavoj fendis iliajn kapojn aŭ per ponardoj traboris
+iliajn brustojn, la atakantoj estis tro multnombraj, por ke la amikoj
+de Van Artevelde kontraŭstaru la puŝon de l' korpoj: ili devis paŝi
+malantaŭen kaj lasi sian favoran lokon.
+
+Baldaŭ la ĉambro estis plenigita de mortigantoj. Ghelnot kaj liaj
+kunbatalantoj ĉirkaŭataj ĉiuflanke, venkataj kaj puŝataj kontraŭ la
+muron, sin defendis kiel leonoj, kaj frapadis kaj tranĉadis kvankam la
+sango disfluis el vundoj multnombraj.
+
+  * * * * * * *
+
+Kelkaj partianoj kaj servistoj de Artevelde, vidante ke la aliaj estas
+blokitaj, atakis la ribelantojn je l' posta flanko.
+
+Sed malgraŭ ĉiuj kuraĝaj kaj heroaj miregindaĵoj, kiujn ili faris,
+ili ne povis havi la plej malgrandan esperon pri la venko. Ili devis
+kontraŭbatali tro multe da malamikoj.
+
+Gerardo Denys kun triumfa ĝojo rimarkis ke la ŝtuparo fariĝis alirebla.
+
+Lasante la batalon, li marŝis al tiu direkto kaj ekkriis:
+
+«Ni supreniru! ni supreniru!»
+
+Li antaŭiris antaŭ siaj kunuloj sur la ŝtuparon.
+
+Enirante la ĉambron, li vidis Artevelde'n ankoraŭ parolantan al la
+popolo.
+
+En lia gorĝo stertoris kriego simila al blekado de tigro, kiu sentas
+sangadantan tremantan kaptaĵon sub siaj piedegoj; furioza rido, kiel
+tiu de demono, iluminis lian vizaĝon per infera brilo. Triumfante
+li saltis al Artevelde, kaj frapis lin per sia hakilo tiel forte, ke
+Jakobo falis, kun fendita kapo, sur la balustradon.
+
+La senkulpa sango, elfluanta el larĝa vundo, ŝprucis sur la
+aŭskultantan popolamason.
+
+«Popolo!... Gento!... Flandro!...» tia estis la lasta ĝemo de l' Saĝa
+Viro!
+
+El «Jacob Van Artevelde.»
+
+  _Tradukis_
+  E. Lucas.
+
+Piednoto [17] Amiko de Artevelde.
+
+
+
+
+RENIER SNIEDERS.
+
+1812-1888.
+
+
+Doktoro Renier Snieders estis kuracisto en Turnhout (en la Antverpena
+provinco). Liaj grandnombraj rakontoj, ĉiuj bonmoraj kaj interesaj,
+estas skribitaj en pura flandra lingvo, kaj la plimulto el ili estas
+kalkulindaj inter la bonaj produktaĵoj de nia literaturo. Precipe en la
+priskribo de la vivo de vilaĝanoj li ofte proksimiĝas al Conscience.
+
+
+Bruselaj veturigistoj.
+
+Dum kelkaj minutoj tien kaj tien ĉi kurinte, mi subite ekvidis sur ia
+larĝa, vasta placo du lueblajn kaleŝojn. Mi estis tro rapide kurinta
+por ke mi povu laŭte kriegi, tial mi ekfajfis per miaj du fingroj (kiam
+mi estis knabo mi estis ĉiam amanto de la fingrofajfado) kaj per mia
+deprenita ĉapelo mi alvokis unu el la veturigistoj.
+
+Ŝajnis ke ili bone komprenis mian signalon, ĉar mi vidis ke tuj la du
+veturigistoj alprenas rapide la falintajn bridojn, sursaltas sur la
+seĝon kaj algalopas al mi.
+
+«Mi bezonas nur unu kaleŝon!» alkriis mi jam de malproksime.
+
+La veturigistoj vipis la ĉevalojn kaj kriegis kiel frenezuloj por ke la
+bestoj pli rapide kuru. Ambaŭ haltis samtempe antaŭ mi.
+
+«Eniru, sinjoro,» diris unu, kiu portis sur la kapo grizan ĉifitan
+feltan ĉapelon, kaj li desaltis de la seĝo kaj malfermis la pordeton.
+
+«Min la sinjoro alvokis!» kriis la alia, ia malĝentila viro vestita per
+velkita verda livreo.
+
+«Ne! min li alvokis!» rekriegis la alia.
+
+«Cetere mi alvenis la unua» aldonis la livrevestito.
+
+«Vi kun via lama besto!» ŝercis la felta ĉapelo.
+
+«Kion vi scias pri mia ĉevalo? vi, kiu per malsato mortigas vian
+maljunan eluzitan beston» kontraŭŝercis la alia «kaj ree: mi alvenis
+la unua. Sinjoro, kiun vi alvokis? kaj kiu alvenis la unua al vi?»
+demandis la alia, iom pli malrektigante sian ĉifitan ĉapelon.
+
+Mi estis devigita respondi per ŝultromovo.
+
+«Enpaŝu nur, sinjoro» diris al mi la felta ĉapelo delikate min puŝante
+al la pordeto de sia kaleŝo.
+
+«Malbonulo!» ekkriis lia kontraŭulo «Ĉu vi ne lasos la sinjoron libera?»
+
+«Ne, vi mem estas malbonulo!» kriis la felta ĉapelo «Eniru do, sinjoro.»
+
+Dum mi eniris la veturilon, mi aŭdis ke unu vipas la alian. La atakito
+rebatis per la pugno kaj, kriante ĉiuspecajn malbenojn kaj alnomojn,
+ili forĵetis la reciprokajn ĉapelojn, frapis la okulojn bluaj kaj fine
+teren ruliĝis sub la ĉevalojn.
+
+La ĉifita ĉapelo, kiu estis la pli malgranda sed ankaŭ la pli vigla,
+forrampis inter la radoj kaj eksaltis sur la seĝon de sia veturilo en
+kiu mi iom timema sidis rigardante la iradon de la batalo.
+
+«Kaj tamen vi ne veturos!» kriis la per verda livreo vestita
+veturigisto, tuj distranĉante per rapidega movo unu el la tirŝnuroj.
+
+La ĉifita ĉapelo blekegante kiel sovaĝa besto, desaltis de la seĝo,
+ekkaptis je la gorĝo sian kontraŭulon: tiam la batalo fariĝis tiel
+furioza kvazaŭ oni interbatalus ĝis morto.
+
+«Mi pagos al vi ambaŭ, sed pro l' amo al ĉielo, ne sufoku unu la
+alian!» ekkriis mi, saltante el la veturilo.
+
+Mi pagis al ĉiu la salajron difinitan laŭ la urba regularo, kaj
+aldirektis min al la alia veturilo.
+
+«Antaŭe vi pagos mian tirŝnuron!» kriis la ĉifita ĉapelo, kaj li prenis
+sian kontraŭulon je la brako.
+
+«Forveturu senprokraste, ĉar tre urĝas!» kriis mi el la veturilo.
+«Forveturu! Al la Ekspozicio!»
+
+«Unue vi pagos mian tirŝnuron!» rekriegis la ĉifita ĉapelo.
+
+«For!» mi ordone komandis «tre urĝas!»
+
+«Ne, unue pagi!» kriis la ĉifita ĉapelo: li elprenis sian tranĉilon kaj
+siavice kaptis unu el la ŝnuroj por ĝin detranĉi.
+
+«Ne tuŝu mian jungaĵon» kriis la livrevestito, dum li minace svingis
+sian tranĉilon...
+
+«Pagu mian tirŝnuron!...» kriegis obstinege la alia...
+
+Ĉar mi klare vidis ke la malamikaĵoj rekomencis, mi saltis el la kaleŝo
+kaj intermetis min kiel arbitracionto inter la du veturigistoj.
+
+«Nu,» diris mi al la ĉifita ĉapelo «kiom kostas tiu tirŝnuro?»
+
+«Kvar frankojn» respondis li «sed, ĉar mi povas rebonigi mian jungaĵon,
+mi kontentiĝas per du frankoj.»
+
+«Du frankoj!» mokis la alia «la tuta via jungaĵo ne valoras kvinfrankan
+moneron!»
+
+«Ĉu iam vi surmetis sur vian ĉevalon alian ol ŝtelitan jungaĵon?»
+riproĉis la alia.
+
+«Li forkuru al la luno! sinjoro, ne permesu ke li vin tiel trompu!...
+aŭ ĉu eble ia ligotubero plia difektos lian jungaĵon?»
+
+«Mi ne toleros tion pli longe!» kriegis la ĉifita ĉapelo, ruĝa je
+kolerego.
+
+Vidante la monujon kiun mi prenis el mia poŝo, li ekkvietiĝis.
+
+«Jen estas du frankoj» mi diris «kaj nun forveturigu min rapidege!»
+
+La viro tuj sin montris tiel ĝentila ke li deprenis sian ĉapelon antaŭ
+mi, malfermis la pordeton kaj, kiam mi sidis, refermis ĝin. Ambaŭ estis
+paciĝintaj kaj fine mi povis forveturi.
+
+«Ĉu mi renkontos vin hodiaŭ vespere ĉe la vespermanĝo?» demandis la
+ĉifita ĉapelo, kvazaŭ nenio malagrabla okazis.
+
+«Ĉu vi gajnis la veton?» sciame demandis la alia.
+
+«Certe! Vi zorgu ke vi frue ĉeestu!»
+
+«Konfidu je tio!»
+
+«Atendu iom por ke mi alligu la ĉeneton de via brido.--Nu, antaŭen
+veturu!»
+
+«Ĝis hodiaŭ vespere!»
+
+La kaleŝo ekruliĝis.
+
+La amikaj paroloj, kiujn la du veturigistoj interŝanĝis je l' disiro,
+treege mirigis min. Antaŭ du minutoj la agado de tiuj maldelikatuloj
+estis tiel minaca, ke mi jam ektimis malfeliĉojn; apenaŭ ili
+interpaciĝis, kaj tuj ĉio ŝajnas forgesita kaj la interparolado
+refariĝis ordinara kaj konfida--kaj tamen mi devis konfesi ke la
+veturigistoj agis nur tiel kiel la potenculoj, kies agadon ni ĉiutage
+malsprite admiras. Unu reĝo distranĉas la tirŝnuron de la ŝtatveturilo
+de la alia, zorge batas lin kaj la sekvantan tagon nomas lin tre amike:
+«Mia frata Moŝto! Mia kuza Moŝto!» Ĉu ne tiel la regantoj sin nomas
+reciproke?
+
+  _Tradukis_
+  Raym. Van Melckebeke.
+
+
+
+
+JAN VAN RIJSWIJCK.
+
+1814-1869.
+
+
+Tiu ĉi verkisto estis precipe popola kantisto. Se liaj versoj estas
+iafoje nepoluritaj kaj malglataj laŭ vidpunkto de la gramatiko, ili
+estas ĉiam naturaj kaj vivoplenaj.
+
+Liaj kantoj enhavas ofte pikemajn ŝercojn kontraŭ tiuj, kiuj malŝatas
+sian gepatran lingvon; tiel li incitis la popolon al revivigo kaj
+glorigo de l' Flandra lingvo.
+
+
+Johano Senpatrujo.
+
+(Jan Zonderland).
+
+  _Johano Senpatrujo_ hejmon
+  Ne havis, sed li volis tamen
+  Ekloĝi ialoke. Li
+  Pripensis longe por ekscii
+  En kiu lando oni vivas
+  Trankvile kiel eble plej.
+
+  Dum pensis li kaj pripensadis,
+  Venantan viron li ekvidis,
+  Kun longa barbo kaj bastono
+  Kaj preĝetantan en l' arbombro.
+
+  _L' Israelid' Vaganta_ estis
+  La alvenanto. Proksimiĝis
+  Johano kaj demandis lin:
+  --«Amiko, kien iras vi?
+  Mi serĉas patrolandon. Diru,
+  Ĉu vi ne povus montri ian
+  Al mi? Konsilu min, mi petas.
+
+  Ĉu mi ne irus Italujon,
+  En tiun sanigantan landon,
+  En la ĝardenon de Eŭropo?
+  Mi ĉiam aŭdis priparoli
+  Pri tiu lando ĉi kun laŭdo...»
+
+  --«Ho!» diris la alia, «kara
+  Johano! mi de tie venas.
+  Malsprita estas la popolo,
+  Malbona, fanatika ankaŭ.
+  Kaj tie, kiam iu ŝtelis,
+  Fajrigis aŭ mortigis, li
+  Pardonas tuj sin mem, preĝante
+  Nur «_Mi salutas vin, Mario_»
+  Aŭ eĉ farante krucosignon!»
+
+  --«_Corpo di Bacco!_ mi ne iros!»
+  Johan' respondis, «mi elektos
+  Do Hispanujon; tie estas
+  Agrabla la vetero; eĉ
+  Je l' vintro oni promenadas,
+  En tiu lando, sen ĉapelo.
+  La _Senorinoj_ havas brunajn
+  Harligojn kaj beletajn trajtojn:
+  Mi amas la virinojn brunajn
+  Kaj tie eĉ edziĝus eble!»
+
+  --«Ho!» estis la respond', «amiko,
+  Mi iris tien ankaŭ jam,
+  Sed kia danĝerplena lando!
+  Eksciu, ke por kelkaj _duroj_
+  Tra via haŭto oni pikas
+  Ponardon, ĉu vi estas kulpa
+  Ĉu ne! Kaj la virinoj, kara,
+  Mortigas sian edzon... Nu,
+  Ĉu vi intencas iri tien?
+
+  --«_Caramba_, ne!» Johano diris,
+  «Mi iros en Anglujon; tie
+  Mi manĝos _beafsteak_ ĉiutage....»
+
+  --«Ho, kio! ĉe _John Bull!_ ĉu amas
+  Vi politikajn perfidaĵojn?
+  Vi sciu, ke la riĉaj _lordoj_
+  Vivadas en palacoj, dum
+  La Iroj restas malsategaj!»
+
+  --«_Stop, stop!_ mi ŝatas egalecon...
+  Vivadi ĉe la Angloj! Ne!
+  Sed kie? Ni pripensu! Eble
+  Francujo estus bona lando:
+  Nenion kostas tie vino;
+  Mi ĝuus tre agrablan vivon!»
+
+  --«Francujo! ĉu vi freneziĝas?
+  Forĵetu tiun malspritaĵon;
+  Ne iru tien, ne, neniam!
+  La Francoj estas ĉarlatanoj
+  Kaj arlekenoj. Plie, ili
+  Neniam estas pacaj; ĉiam
+  La stratlanternojn ili rompas
+  Kaj faras ŝtonajn _barikadojn_!»
+
+  --«_Ah! zut alors!_ Sed kie trovos
+  Mi patrolandon! Ho! mi scias!
+  Mi iros en Holandon. Tie
+  La Libereco sidas sur
+  Fromaĝa trono, la komerco
+  Prosperas, la loĝantoj
+  Parolas sian propran lingvon...»
+
+  --«Holando estas kiel la
+  Aliaj landoj. Oni estas
+  Ankoraŭ riĉa, sed ne plu
+  Libera! Multekosta estas
+  La vivo tie; la estraro
+  Malkontentigas la loĝantojn;
+  La gejunuloj imitadas
+  La francajn uzojn; inter kvindek
+  Junuloj oni trovas kvardek
+  Simiojn... Plie, religiaj
+  Disputoj estas ĉiutagaj.»
+
+  --«_God sta me bij_...[18] Sed en Ruslando
+  Mi trovos mian idealon.
+  Ĝi estas pli malvarma, sed
+  Mi portos felojn...»
+
+              --«Kio! Vi
+  Ne konas tiun landon. Tie
+  Mortiga estas la malvarmo!
+  Vagadas lupoj kaj eĉ ursoj!
+  Tuj kiam oni ekparolas
+  Pri libereco, oni estas
+  Ĵetata en malliberejon,
+  _Knutata_ ĝis la sango fluas
+  Kaj forsendata Siberujon
+  En minojn kiuj malsanigas!
+
+  --«_Mordjuzikof!_ Mi dankas vin!
+  Mi trovos do neniam!.... Sed
+  Aŭskultu... Estas feliĉega
+  Landeto, kie oni plantis
+  Liberecarbojn: se mi irus
+  Belgujon?»
+
+          --«Frenezul', silentu!
+  La Belgoj min ridigas... Tie
+  Vi vidus francajn parazitojn,
+  Pelitajn el ilia lando,
+  Kaj francflatantojn hipokritajn.
+  Eĉ, kiu vivas bonkondute
+  Ankoraŭ estas malhelpata
+  De tiuj sentaŭguloj ĉiam.
+  Ve! la Valonoj[19] regas jam
+  De multaj jaroj, kaj, nature,
+  Plenigas siajn poŝojn dume.
+  L' aliaj devas silentadi
+  Kaj... ĉiam pagi. Kiu skribas
+  En flandra lingvo, legas aŭ
+  Parolas, estas vilaĝano,
+  Malsprita besto. Flandra lingvo
+  Eĉ ne ekzistas. Jen la idoj
+  De _Zannekin_ kaj _Artevelde_!...
+  Kaj ĉiam oni priparolas
+  Pri politiko! Liberaloj
+  Kaj Katolikoj disputadas!
+  Sed vi ne serĉu konvinkiĝon:
+  Neniu havas ĝin. Se iu
+  Kuraĝus havi opinion,
+  Li restus sola kaj mokata!»
+
+  --«Ho, tondro! tio estas troa!»
+  Johano diris, «volas mi
+  Nenian landon! Kiel nun,
+  Mi restos ĉiam sen patrujo!
+  Adiaŭ!»
+
+             La Vagulo tiam
+  Salutis mane lin, foriris,
+  Kaj malaperis en l' arbombro.
+
+  _Tradukis_
+  D-ro W. Van der Biest.
+
+Piednoto [18] T. e.: «Min helpu Dio!»
+
+Piednoto [19] _Les Wallons_, kiuj parolas francajn dialektojn.
+
+
+
+
+JAN VAN BEERS.
+
+1821-1889.
+
+
+Jan Van Beers estas unu el la plej gloraj poetoj kaj verkistoj de
+flandra lando. Liaj versoj estas simplaj, graciaj kaj belsonaj. Tre
+ofte li pentras la simplan vivon de vilaĝanoj, iom poetigitan; sed ĉiam
+eĉ en la plej vivoplenaj rakontoj aperas io revema, io dolĉe malgajeta.
+La verkoj de Van Beers estas tre legataj en Belgujo kaj en Holando.
+
+
+La malsana junulo.
+
+(De zieke jongeling).
+
+Fojnigita jam estis la herbo, kaj rikoltita la greno; la aŭtuna
+suno per festa helo brilis: estis festtago en la vilaĝo; la blondaj
+vilaĝaninoj akompanis al la danco la gajegajn junulojn.
+
+Kaj tie, ĉe la fenestro, sidis malfeliĉa je ftizo malsana junulo, kiu
+de Kristnasko ne eliris plu. Apud li patrino lia preĝis rozarion,
+kviete rigardante jen sian filon, jen la ĉielan arkaĵon, kaj ŝi ploris.
+
+La junulo ekparolis, dum sur liaj palaj lipoj aperis ia malĝoja rideto:
+«Ho! kia bela tago, patrineto! Rigardu: kiel blua estas la ĉielo, kiel
+varma la sunbrilo! Estas vera festtago! Rigardu, kiel gajaj ili tie
+estas, kiel ili ĉirkaŭ la budoj ĉirkaŭiradas! Jen komencas jam la
+danco!--Ha! tio estas bela!--Ĉu estas vere, patrineto, ke mi estas jam
+mortonta?»
+
+Kaj ŝi ekĝemis, la malfeliĉa patrino: «Henriĉjo, mia kara, ne parolu
+tiel. Dio estas bona kaj ĉiozorganta. Efektiviĝu lia sankta volo!...»
+
+  Sub la tilioj tie grincadas
+  La violonoj, bruas tamburoj,
+  Tie turniĝas kaj balanciĝas
+  La gaja rondo; ĉie saltanta
+  Popolamaso brue moviĝas.
+  --Sed pri la morto aŭ suferado
+  Tie ĉe l' danco, pensas neniu!...
+
+Kaj la junulo reparolis: «Patrineto, jes, la Dia boneco ĉion ordigas;
+sed tamen ne kredigu min, ke mi ankoraŭ resaniĝos! Rigardu miajn
+manojn, kiel malgrasaj, kiel diafanaj ili estas!--Ha! mi sentas, ke mi
+malrapide, malrapide formortadas, dum mi sidas en mia seĝo, ĉar... mi
+havas ftizon, patrineto! kaj tamen... mi estas nur dudekjara;--kaj, la
+pasintan jaron, rememoru, je la sama tago, estis ankaŭ festtago,--tie
+mi ankaŭ partoprenis en la danco, gaja kaj freŝkolora, kantema,
+dancema, plena je espero kaj kuraĝo;--kaj nun... Ha! tiuj laŭtaj
+ĝojkriadoj, kaj tiu dancado premas kaj vundas mian koron, patrineto,
+kiel kruela ŝerco!»
+
+Kaj ŝi ploris, la malfeliĉa patrino: «Henriĉjo, silentu, mi petas, ne
+malbenu! Pensu ke Dio tion volas! Efektiviĝu lia sankta volo!»
+
+  Sub la tilioj tie grincadas
+  La violonoj, bruas tamburoj,
+  Tie turniĝas kaj balanciĝas
+  La gaja rondo; ĉie saltanta
+  Popolamaso brue moviĝas.
+  --Sed pri la morto aŭ suferado,
+  Tie ĉe l' danco, pensas neniu!...
+
+Kaj li reparolis: «Jes, mi devus peni plikvietiĝi, vi estas prava.
+Sed, dum ĉi tiu festtago ĉiam mi pensas pri tiu de la lasta jaro:
+kaj,--neniam, patrineto, mi kuraĝis tion al vi diri--sed, ĉu vi ne
+konas Rozinjon, la plej junan filinon de la muelisto? Ĉu jes?...
+Nu, mi nur kun ŝi ĉiam dancis; sed kiam alproksimiĝis la nokto, ŝi
+diris: «Henriĉjo, mi devas reiri hejmen» kaj mi ŝin kondukis. Ni
+ambaŭ iris silente. Ho! mi volus ekparoli, sed mi ne povis, ĉar mia
+koro tiel forte batis! Fine, kiam ni alvenis tien apud la kapelo de
+la Sankta Virgulino en la arbaro: «Henriĉjo,» ŝi diris, «nun adiaŭ!»
+Sed mi ĉiam premis ŝiajn manojn kaj mi petege alrigardis ŝin, kaj
+ŝi ekruĝiĝis;--kaj niaj du koroj unu la alian subite komprenis. Ni
+amis... kaj nun, patrineto, kiam mi estos mortinta, ĉu vi tiam Rozinjon
+konsolos? Ĉu vi fariĝos ŝia patrino?»
+
+  Sub la tilioj tie grincadas
+  La violonoj, bruas tamburoj,
+  Tie turniĝas kaj balanciĝas
+  La gaja rondo; ĉie saltanta
+  Popolamaso brue moviĝas.
+  --Sed pri la morto aŭ suferado
+  Tie ĉe l' danco, pensas neniu!...
+
+Kaj li reparolis: «Ho! kiu scias, ĉu eble ŝi ne sidas sola revante
+pri la pasinta jaro, ĉu tie ŝi ne ploras kaj preĝas en la kapelo de
+la Sankta Virgulino, kaj kiu scias ankaŭ, ĉu eble ŝi ne forgesis
+min!--Sed, ho ĉielo! ne, tio ne, neniam! ĉar ŝi..... sed..... vidu
+tien! patrino, patrineto, ĉu tie ne partoprenas ŝi en la danco? Ha!...
+forgesita antaŭ ol mi estas mortinta..... Dio!... lasu min morti nun!»
+
+Kaj lia kapo svene falis posten en lia apogseĝo, kaj lia patrino ĝemis:
+«Henriĉjo, Henriĉjo!... Dio!... li ne parolas plu!...»
+
+  Sub la tilioj kie grincadas
+  La violonoj, bruas tamburoj,
+  Tie ĉeestas ankaŭ Rozinjo,
+  Tie turniĝas kaj balanciĝas
+  Ŝi kun la gaja popolamaso.
+  --Sed pri mortanta aŭ suferanta
+  Henriĉjo sia ne pensas ŝi plu!...
+
+Estis je l' vespero;--kviete kaj majeste la luno en la orienta arkaĵo
+leviĝis, dolĉe superlumante la tutan vilaĝeton per arĝenta magia brilo.
+Kaj ankaŭ tien tra la vitretoj de la mallarĝa fenestro, kie sidis
+Henriko kun sia patrino, eniĝis ĝia melankolia lumo, malvarma kaj hela;
+kaj se iu, reirante de la festado, ekstarus tie, li povus ekvidi certe
+korŝirantan vidaĵon.
+
+Jen kuŝas Henriko pala kaj senmova sur la malriĉa lito; kaj tie sur la
+tero genufleksas, ankaŭ senmova, lia patrino, kaj nenio eĉ bruetas en
+la ĉambro, kien la luno direktas siajn lumradiojn, nur iafoje voĉo:
+«Dio!... Mia filo!... Mia filo mortis!...»
+
+  En la vilaĝo ĉiam grincadas
+  La violonoj, bruas tamburoj,
+  Tie dancadas ĉiam ankoraŭ
+  La gaja rondo; popolamaso
+  Jen disiĝas, jen kuniras.
+  --Sed pri la morto aŭ suferado
+  Tie ĉe l' danco, pensas neniu...
+
+  _Tradukis_
+  Raym. Van Melckebeke.
+
+
+La Merlonesto.
+
+(Van 't Merelnestje).
+
+  La suno sendis tra l' fenestro
+  La plej varmigajn lumradiojn
+  Dum Paŭlo kaj Johano sidis
+  Sur la genuoj de l' avino.
+
+  Rakonti, ĉiam rakontadi!
+  Avino estis jam senspira,
+  Sed la petolaj krispharuloj
+  Al ŝi neniun tempon lasis.
+
+  Feliĉe aliaĵo tiris
+  Al si l' atenton de l' infanoj:
+  --«Jen granda birdo, vidu, vidu,
+  Ekstere, en la florĝardeno!»
+
+  --«Jes, infanetoj, estas merlo.
+  Ĝi fajfas ĉiutage, kiam
+  Vi kuŝas en la lit' ankoraŭ
+  Kaj malfermetas la okulojn.»
+
+  --«Ĝi fajfas, tiu merlo! Ho,
+  Karega avineto, diru
+  Al ni nun ion pri la merlo!
+  Ni tenos nin trankvile ĉiam!»
+
+  --«Nu, vidu, kiel ĝi saltetas
+  De arb' al arbo, teren, ĉie;
+  Ĝi serĉas muskon kaj pajlerojn,
+  Foliojn kaj malgrandajn branĉojn.
+
+  Ĝi prenas ilin en la bekon
+  Kaj ĉiufoje portas ilin
+  Sur la ĝardenan muron, tie,
+  Sub la folioj de l' hedero.
+
+  Ĝi faras tie sian neston,
+  Kaj baldaŭ venas la merlino,
+  Demetas siajn ovojn, kaj
+  Kun patrinamo ilin kovas.
+
+  La merloviro dume sidas
+  Sur branĉo, kantas kaj fajfadas.
+  Post iu tempo, la patrino
+  Ekliberigas la idetojn.
+
+  Sed povas tiuj ĉi nek flugi
+  Nek kuri; ili kuŝas tie
+  Tutnudaj... Baldaŭ pro malvarmo
+  Kaj pro malsato ili mortus,
+
+  Se ne patrino sub flugiloj
+  La idojn tenus kaj zorgadus,
+  Kaj se la patro ne elflugus
+  Kaj ne alportus la manĝaĵojn.
+
+  Kaj tiel kreskas la birdetoj,
+  Akiras plumojn, rampas supren
+  Kaj ekrigardas tuj sentime
+  La senlimaĵon ĉirkaŭ si.
+
+  La ido plej kuraĝa, fine,
+  Malfermas la flugilojn kaj
+  Elflugas... Baldaŭ ĉiuj nun
+  Forlasas la gepatrojn solaj.
+
+  Kaj tiuj ĉi malfeliĉuloj
+  Malĝoje flugas ĉirkaŭ nesto
+  Serĉante la idetojn ĉie
+  Sed vane... ne revenas iu!»
+
+  Avino silentiĝis. Larmoj
+  Ekfalis el okuloj ŝiaj
+  Kaj la infanoj ankaŭ time
+  Kaj laŭte ekploregis kune.
+
+  Sed ŝi, viŝante siajn larmojn:
+  --«Ho! anĝeletoj, vi ne ploru
+  Ĉar kelkafoje la avinon
+  Vi vidas iom kortuŝata...
+
+  Mi pensis nur: ĉe l' homoj ĉio
+  Okazas kiel ĉe la birdoj.
+  Unue domo estas plena
+  Je infanetoj, ridoj, vivo;
+
+  Sed la infanoj kreskas. Kaj
+  Tro baldaŭ, unu post alia
+  Forlasas neston... Kaj silente,
+  Malĝoje restas la gepatroj.
+
+  Jes, tiel iris via patro
+  Kaj viaj onkloj kaj onklinoj,
+  Dum ni...»--Sed Paŭlo diris tuj:
+  «Avino, ne, ne estas vere!
+
+  Ĉar ili baldaŭ ja aĉetas
+  Infanojn, kiuj venas al
+  L' avino por kunludi kune;
+  Kaj la infanoj... estas ni!»
+
+  Kaj ambaŭ tuj ĉirkaŭis kolon
+  De la avin' per siaj brakoj
+  Kaj kisis kaj karesis ŝin,
+  Ho! tiel longe, tiel ame!
+
+  Kaj ŝajnis, ke neniam suno
+  Pli brilajn lumradiojn sendis
+  Ol tiuj, kiuj la avinon
+  Kaj ŝiajn nepojn ĉirkaŭdancis.
+
+  _Tradukis_
+  D-ro W. Van der Biest.
+
+
+
+
+GUIDO GEZELLE.
+
+1830-1899.
+
+
+Abato Guido Gezelle estas la plej rimarkinda poeto kiun posedis Flandro
+dum ĉi tiuj lastaj jaroj; li estis ankaŭ renoviganto de la poezia
+literaturo kaj fondis skolon kiun gloradas aliĝantoj ĉiutage pli
+grandnombraj. Li estis juna profesoro de la Poezia Klaso ĉe la Kolegio
+de Ruslaro[20] kiam li publikigis siajn unuajn verkojn: forlasinte la
+principojn ĝis tiam instruitajn kaj devigantajn priskribi per severa
+kaj streĉa lingvo klasikajn subjektojn, li kuraĝis prikanti per sia
+gepatra lingvo: la idiomo okcidentaflandra, ĉiujn subjektojn, kiujn la
+naturo, ne fremda aŭ neklara naturo sed la flandra naturo, prezentis
+antaŭ liaj okuloj. Sed tiu maltimo, kiun montris ankaŭ liaj lecionoj,
+malplaĉis al liaj estroj, kiuj lin forsendis en Kortrejkon[21] por
+tie plenumi sengloran funkciadon. Dum dekoj da jaroj, li tie vivadis
+silente, akre suferante ĉar li ne estis komprenata, konsoliĝante apud
+kelkaj fidelaj amikoj kaj per malavareco kiun ankoraŭ ne forgesis la
+Kortrejkaj malriĉuloj. Kiom da fojoj mi lin renkontis, jam maljunan,
+malĝoje laŭirantan la gajan bordon de la Lejo[22] kiun li tiel
+ofte gloris en siaj kantoj. Sed, je l' fino de lia vivo, li denove
+publikigis verkojn skribitajn per lingvo matura, nekonsumeble riĉa kaj
+kiu disvastigis lian famon. Li mortis en 1899 kaj, jam en 1903, liaj
+samlandanoj feste starigis lian statuon en Kortrejko. Ĉiuj verkoj de
+Gezelle preskaŭ tute konsistas el sola glorado de la naturo, en kiu
+senĉese li serĉas kaj gloras la manon de sia Dio. Li amegis la florojn,
+la birdojn kaj ĉiujn aliajn estaĵojn kaj pri ili li verkis admirindajn
+poeziojn, ankoraŭ ne sufiĉe konatajn eĉ en Flandro.
+
+La unuaj poezioj sube presitaj devenas de la unua periodo de lia
+literatura vivo, la lastaj devenas de la dua.
+
+Piednoto [20] Ruslaro = france: Roulers, flandre: Rousselaere.
+
+Piednoto [21] Kortrejko = france: Courtrai, flandre: Kortrijk.
+
+Piednoto [22] Lejo = rivero trairanta Kortrejkon; flandre = Leij,
+france = Lys.
+
+
+Fragmento el «Tombejaj Floroj».
+
+(_Uit: Kerkhofbloemen_).
+
+Sur la unuaj paĝoj de tiu libro, la verkisto priskribas la enterigon,
+en flandra vilaĝo, de unu el siaj lernantoj, je la tempo kiam li estis
+Kolegia profesoro. Kune kun siaj lernantoj, li alestis tiun enterigon
+kaj en kortuŝanta maniero ĝin poste rakontis. Jen fragmento el tiu
+rakonto: tiu parto komenciĝas per la momento kiam ili de la stacio
+aliras la kamparan domon de la mortinto:
+
+  Estis la horo kiam l' alaŭdo dolĉa
+  Volas ekiri en la aeron altan
+      Kaj, surtere serĉinte
+  Sian manĝaĵon, sen prokrastado kanton
+  Ree sonigas, belajn flugilojn levas
+      Kaj alflugas ĉielon.
+
+  Estis la horo kiam la voĉo via
+  Kantas kaj krias, ridas kaj fajfas laŭte,
+      Najtingalo ĝojiga,
+  Ho muzikilo, kiun, en la kamparo
+  Dolĉe bruanta, certe mi amas pli ol
+      Ĉiajn kantojn aliajn.
+
+  Estis la horo kiam vekiĝas vento
+  Kaj la moveman kampon karesas longe
+      Kaj brueti ĝin igas;
+  Kiam la fruktoriĉaj herbaĵoj pelas
+  Tiun aeron kiu enigas vivon
+      En la sangon rapidan.
+
+  Estis la horo kiam kampano venas
+  Kaj tuj alĵetas, krucosigninte sin mem,
+      Krucosignon sur kampon;
+  Kaj paŝadante preĝas, suferas, semas
+  Kion alia eble rikolti povos
+      Kaj deportos ridante.
+
+  Semo, ho semo! dia majstraĵo kiun,
+  Eĉ se duoble forta li estus, homo
+      Fari povus neniam:
+  Kiu pereos antaŭ ol reviviĝi,
+  Kiu revivos kie ĝi mortis iam
+      Kaj, mortante, vivadas!
+
+  Ankaŭ ni estis gloran semon ĵetontaj:
+  Korpon de nia kara kolego, ĉiuj
+      Gajaj kvankam plorantaj,
+  Estis ĵetontaj ankaŭ en teron sanktan,
+  Kiu, en grava tago fiksita certe,
+      Frukton ĝin revivigos!
+
+Iom post iom, ni alproksimiĝis al la domo de l' mortinto. La suno
+bataladis kontraŭ la nokta nebulo kaj ŝajnis al ni ne klare ĉu ĝi
+povos venke sin montri; sed la saĝaj kamparanoj, kiuj de sur sia
+kampo rigardadis nin pasantajn kaj interŝanĝis kun ni «al ĉiu bonan
+tagon», tre konvinkite certigis al ni, pro sia ĉiutaga kunvivado kun
+la ventoj kaj vetero de Dio, ke Nia Sinjoro donacos al la laboremulo
+belan tagon. Tio okazis. Dume, en la duba mallumo de la nebulo, al
+ni ekaperis la farmodomo kaj ni jam vidis la blankan kovrilon de l'
+veturilo, kiu estis preta por, laŭ antikva flandra kutimo, alveturigi
+al la preĝejo, la mortinton kune kun ĝia ploranta kaj preĝanta familio.
+
+  Malrapide ruliĝadas
+  La funebra veturilo,
+  Kaj nur plendojn, kaj nur plorojn
+  Oni aŭdas sub kovrilo.
+
+  Malrapide kaj senbrue
+  La ĉevaloj paŝetadas,
+  Ofte sin al mastro turnas
+  Malĝojege kaj... sensaĝe,
+
+  Mastro kiu je l' mateno
+  Ĵus al kara ĉevalparo,
+  Ilin dum li zorge kombis,
+  Dolĉe diris la novaĵon:
+
+  «Baj'», li diris, «Baj' kaj Bleso,
+  Al funebro... ne moviĝu!
+  Ni hodiaŭ iri devas
+  Kun mortinto, Bles' kaj Bajo».
+
+  Kaj, la manon eniginte
+  En sanktakvon, li pieme
+  Benis la du altajn kapojn
+  De l' ĉevaloj neatentaj;
+
+  Kaj, kisinte ilin ambaŭ,
+  «Vi», li diris, «Bles' kaj Bajo,
+  Devas iri al tombejo
+  Kun mortinto, Baj' kaj Bleso.
+
+  Ho, terure vi penadus,
+  Kaj vi falus se novaĵon
+  Tiun mi ne dirus kaj se
+  Krucosignon mi ne donus.»
+
+  Kaj sin mem li krucosignas,
+  Antaŭ ol li jungas ilin,
+  Per sanktakvo alpendanta
+  Al mizera lito sia,
+
+  Ĉar li dormas apud karaj
+  Siaj bestoj, pli zorgema
+  Je l' karuloj ol patrino
+  Je l' idaro povus esti;
+
+  Kaj per sankta buksobranĉo
+  Li ĉevalojn krucosignas
+  Por forigi de l' funebro
+  Malfeliĉon kaj malbenon
+
+  Malrapide, malĝojege
+  Ruliĝadas blanka ĉaro,
+  Kaj nur plendojn, kaj nur plorojn
+  Oni aŭdas sub kovrilo;
+
+  Paŝ' post paŝo paŝetadas,
+  Kapon ofte returnante,
+  Paŝ' post paŝo la ĉevaloj,
+  Malĝojege kaj... sensaĝe!
+
+
+La Skribisteto.[23]
+
+(Het Schrijverke).
+
+  Ho, moviĝadanta akvobesteto
+        Kun via nigra vesteto,
+  Mi amas kapeton vian glitantan
+        Sur l' akvaj ondoj skribante!
+  Vi kuras, moviĝas tiel rapide
+        Sen kruroj iaj nek brakoj;
+  Vi konas la vojon tiel bonege
+        Sen ia, vere, okulo.
+  Sed kio vi estas, estis aŭ estos?
+        Klarigu tion kaj diru!
+  Ho, brila aĵeto, nelaciĝebla
+        Por skribi, kio vi estas?
+  Vi kuras sur l' akvo hela kaj freŝa,
+        Kaj ĝi ne pli movetiĝas
+  Ne pli ol se estus dolĉa venteto
+        Sur l' ondo dolĉe glitanta.
+  Skribistoj, skribistoj, al mi do diru,
+        --Vi estas, ja, dudekope
+  Kaj ĉu do neniu tion klarigos--
+        Vi kion tie skribadas?
+  Vi skribas, sed akvo tion ne montras;
+        Vi skribas: jam ĝi foriĝas;
+  Neniu kristano tion komprenas;
+        Ho, skribisteto, klarigu!
+  Ĉu do pri fiŝetoj skribi vi devas?
+        Aŭ ankaŭ pri herbaĵetoj?
+  Ĉu do pri ŝtonetoj, floroj, folioj,
+        Pri akvo kie vi kuras?
+  Ĉu do pri birdetoj dolĉe kantantaj,
+        Aŭ pri la blua ĉielo
+  Profunde brilanta super kaj sub vi,
+        Aŭ, skribistet', ĉu pri vi mem?»
+  --Kaj la turniĝema lerta besteto
+        Kun sia nigra kapoto,
+  Jen ĝi fierete levis l' orelojn,
+        Momenton unu ĝi haltis:
+  «Ni skribas», ĝi diris, «turniĝadante,
+        Nur kion iam la Majstro,
+  Kreante kaj instruante, ordonis:
+        Nur unu, ja, lecionon;
+  Ni skribas..... sed ĉu vi tion ne legas?
+        Vi estas tiel neklera?
+  Ni skribas, reskribas, ĉiam reskribas
+        La sanktan nomon de Dio!
+
+Piednoto [23] Flandra nomo de malgranda nigra besteto: _Gyrinus
+natans_, kiu per tre rapidaj movoj ĉiuflanken glitadas sur la akvo.
+
+Birdoj, forflugu!
+
+(_Uit Tijdkrans: Dollemaand_)
+
+  Birdoj, forflugu!
+  Estas malvarme
+    Kaj malgaje.
+  Flugu, ho birdoj,
+  For de l' malvarmo,
+  For de la homoj,
+    Ĉar la homo
+    Vin ne amas.
+
+  Flugu: li volas
+  Per la pafilo
+    Vin mortigi:
+  Tion li revas.
+  Ho! vi forflugu
+  Kie ne povos
+    Vin atingi
+    La saĝulo!
+
+  Flugu altegen
+  Kaj ripozadu
+    Nur vidante
+  Landon senhoman;
+  Flugu: dufoje
+  Vi ne aliru
+    Al malbona
+    Tiu homo.
+
+  Al li vi donis,
+  Dum via vivo
+    Longa aŭ ne,
+  Karaj birdetoj,
+  Ĉion vi donis
+  Kion vi havis:
+    Ĉu dankema
+    Estas li? Ne!
+
+  Li vin spionas,
+  Karaj bestetoj,
+    La mortigan
+  Ilon tenante:
+  De la bestaro
+  Ho, kiel granda,
+    Kiel granda
+    La reganto!
+
+
+Unuaj folioj.
+
+(_Uit Tijdkrans: Wonnemaand_).
+
+  Flaveverdaj kaj sennombraj
+  Soldataroj, vi folioj
+  Forte alligitaj, kiel
+  Sur la arbojn vi alvenis?
+
+  Gaje du printempajn sunojn
+  Ĵus la mondo eksalutis,
+  Kaj kalkuli kiu povus
+  La armeon jam kreskintan?
+
+  Laboremaj, dum vin lulas
+  La fortegaj matenventoj,
+  Sur betuloj, sur tremoloj,
+  Militire vi ordiĝas.
+
+  Bruas ĉie fortaj voĉoj
+  Kaj milita kriegado,
+  Kuregante tra la valoj,
+  Silentigas voĉojn ĉiujn.
+
+  Vi de kie, tiel gaje
+  Alvestitaj, vi alvenis?
+  Kiu povas nutri tiel
+  Potencegan soldataron?
+
+  Ĉu vi el aer' konsistas?
+  Ĉu vi estas sunradioj
+  Kaj el lumo kunteksitaj,
+  Ho, vi miloj da folioj?
+
+  Ĉu vi estas arba sango,
+  Arba cerbo, aŭ alia
+  Io, kio devas ŝpruci
+  Kiam ĝi la sunon vidas?
+
+  Ĉu... Sennombraj viaj bandoj
+  Alsimilas al armeo,
+  Batalante forpreninta
+  La palacon de la Vintro:
+
+  Vane la mizera lando
+  Longe atendadis helpon:
+  Vi, alkuru kaj mortigu
+  La falintan malamikon;
+
+  Frapu ĉefojn, fortikaĵojn;
+  Ŝiru flagojn; bruu tiel
+  Ke plej malproksimaj kampoj
+  Pro l' kriegoj tremos; venku!
+
+  Ĝi forkuru; kaj venkita,
+  Senarmila, nuda tien
+  Ĝi aliru kie kuŝas
+  Ĝiaj glaciiĝaj urboj!
+
+  Nun, bruegu, soldataroj;
+  Kantu, kriu, ĉar vi venkis,
+  Ho, someraj foliaroj:
+  Morgaŭ malaperos Vintro!
+
+
+La ventoj.
+
+(De winden).
+
+  Maro, maro ne bruegas
+  Tiel forte kiel arboj,
+  Kiam ventoj furioze
+  Kaj senbride trarajdegas.
+
+  Tie ekkriegas miloj,
+  Milionoj da folioj,
+  Kvazaŭ estus milionoj
+  Da kriantaj frenezuloj.
+
+  Pluvo ronkas, defluegas,
+  Frapegante ĉiuflanken;
+  Arboj devas sin kurbigi,
+  Kaj kriegas, kaj plendegas.
+
+  Aŭdu: ree en l' arbaro
+  Ekbruegas kaj ekmuĝas
+  La frenezaj ventoj;
+  Ĝi ronkegas kiel maro.
+
+  Ĉiam daŭras!... Ekforflugas
+  Birdoj,... trarompiĝas branĉoj;
+  Voĉo mia foriĝinta
+  Estas!--Ventoj sin aŭdigas.
+
+
+Vintromuŝetoj.
+
+(Wintermuggen).
+
+  Vintromuŝetoj flirtadas,
+  Intermiksitaj kaj blankaj
+  Kiel muela faruno,
+  Kiel laktaĵa flokaro.
+
+  Altaj en ondo forflua
+  Kaj en alflua malaltaj,
+  Ili balance teksadas
+  Blankan la vintroteksaĵon.
+
+  Tiu ĉi vintroteksaĵo,
+  Nemakulata tukego,
+  Ĉastan la bruston de nia
+  Tera patrino surkovras.
+
+  Tie ŝi[24] kuŝas dormante:
+  Kaj ŝi sonĝadas la dolĉan,
+  La virgulinan sonĝadon
+  Novaj pri rozoj printempaj;
+
+  Tie ŝi kuŝas dormante:
+  Kaj ŝi sonĝadas la belan,
+  La ĉarmoplenan sonĝadon
+  Pri la kantistoj someraj;
+
+  Tie ŝi kuŝas sonĝante,
+  Sonĝas pri riĉa vivado,
+  Sonĝas pri vera feliĉo,
+  Ĉie, por homoj kaj bestoj.
+
+  Ho, ŝin ne veku; ne lasu
+  Ian brueton ŝin igi
+  Tiel rapide vekiĝi
+  El la dolĉega dormado!
+
+  Tie ŝi dorme ripozas;
+  Kaj blankan litokovrilon
+  Sur ŝi etendas silente
+  Tie la vintromuŝetoj:
+
+  Ili flirtadas, dancadas
+  Supren, malsupren kaj ree,
+  Kiel farunaj kaj laktaj,
+  Kaj laktoflokaj blankaĵoj!
+
+  _Tradukis_
+  Maurice Seynaeve.
+
+Piednoto [24] Tero personigata.
+
+
+
+
+FR. DE CORT.
+
+1834-1878.
+
+
+Frans De Cort sin dediĉis pli al la ĵurnalismo ol al la literaturo; li
+estis ĉefredaktoro de diversaj gazetoj; la ĉiutagaj artikoloj ensorbis
+preskaŭ tute lian tempon. Li ne skribis grandampleksajn verkojn sed nur
+mallongajn versaĵojn, precipe en la formo de kantetoj.
+
+Kvankam li ne estas granda poeto, liaj kantoj estas tamen ŝatataj kiel
+skribitaj en facila kaj pura lingvo.
+
+
+La maljuna kantistino.
+
+(De oude zangster).
+
+  Plena je bruo kaj fumo estas la vasta ĉambrego.
+  Sin trenadante enpaŝas maljunulino kun harpo:
+  Ŝian animon plenigas penso pri riĉa almozo,
+  Ĉar, nun ankoraŭ, ŝi devas gajni vesperan panpecon;
+  Raŭka aŭdiĝas la voĉo, ...kiel funebro eksonas
+  Tiu gajiga trinkkanto de ŝi... ho! mizerulino!
+
+  Kiel la tuta kunveno mokas la maljunulinon!
+  «For, for!» ekkrias ĉi tiu, «for, for!» rekrias alia;
+  Ŝia mizera vivado naskas nenies kompaton
+  Kaj al la grizharulino donas neniu moneron,
+  Ve! kaj neniu ekvidas ke ŝi defalas ĉe l' pordo,
+  Kiun kun brua perforto oni post ŝi ĵus reĵetis.
+
+  Aŭdu! nun tie ekkantas juna, beleta knabino
+  Kiu kunigas la ĉarmon de l' violon' kaj de l' voĉo.
+  Tiel ŝi ankaŭ, ja, estis: kronon brilegan de gloro
+  Ĉirkaŭ la ora hararo tiam kunplektis la Arto.
+  Kiam ŝi, die belega, sur la scenejo montriĝis,
+  La aŭdantaro senspire ŝian aŭskultis kantaĵon.
+
+  Tio de longe forpasis... Ho! ŝi suferas akrege!
+  Sed la okulo de Dio gardas la mizerulinon.
+  Vidu do: jen genufleksas apud ŝi la kantistino,
+  Kiu per sia kantado tutan kunvenon ĉarmegis,
+  «Al vi mi donas» ŝi diras dolĉe «la mian akiron:
+  Kiel vi nune montriĝas, eble mi baldaŭ fariĝos!»
+
+  _Tradukis_
+  Maurice Seynaeve.
+
+
+
+
+TONY BERGMANN.
+
+1835-1874.
+
+
+Tony Bergmann, advokato en Liero, dediĉis sian libertempon al la
+literaturo, skizante figurojn kaj scenojn el la ĉirkaŭanta vivado. Lia
+ĉefverko «Ernest Staas» estas nek romano nek poeziigita rakonto,
+sed ĝi konsistas el pentraĵoj aŭ rememoroj el liaj junaj jaroj. Ili
+estas tiel nature, tiel simple rakontitaj, kun tiu respekto kiun ni
+sentas por antikvaĵoj, ke ĉiu leganto plezure retrovas en ili ion el
+sia pasinta juneco. Tio eble kaŭzis la sukceson de tiu verko, ĉar ni
+ordinare rimarkas tiujn simplajn, ĉiutagajn okazintaĵojn nur kiam ili
+jam de longe estas pasintaj kaj sin montras al ni kun la sorĉigaj
+koloroj de l' forfluginta feliĉo.
+
+
+La unuaj klientoj.
+
+...Dume, mia provtempo proksimiĝis al sia fino, kaj kiam mi reiris
+Bruselon, mi devis ekloĝiĝi kiel _Majstro Staas, advokato_.
+
+Mi elektis ĉambraron je l' angulo de l' Imperiestrostrato, ĉe _Monsieur
+Lefinaud, tailleur de Paris_, naskiĝinta en Schaarbeek[25], kiu sin
+vestadis kvazaŭ ambasadoro, kaj akceptadis siajn klientojn en salono
+kun tapiŝoj, orumitaj speguloj kaj veluraj seĝoj.
+
+En la unua etaĝo li havis ĉambraron lueblan, konsistantan el du grandaj
+apudaj ĉambroj, flanke de la strato, kaj malgranda ĉambreto, je l' alia
+flanko.
+
+Tiu ĉi divido estis bonege farita. La unua ĉambro, havanta amerikledajn
+meblojn, tapetita per bruna papero kaj malhelaj kurtenoj, estos la
+parolejo. En la duan ĉambron oni povas meti bibliotekon kaj, meze,
+skribotablon: tiu ĉi estos la studoĉambro de l' advokato, kiu dormos en
+la ĉambreto.
+
+Je l' unua ekvido mi estis venkita.
+
+_Monsieur Lefinaud_ tuj vidis tion.
+
+--«Vi ne povus loĝi plibone, Sinjoro,» li diris tiel konvinke, ke li
+permesis nenian kontraŭdiron. «Via Sinjora Moŝto diris al mi, ke Li
+estas advokato. Nu, bonvolu nur elvidi tra tiu ĉi fenestro: la marmoraj
+kolonoj, kiujn vi vidas tie, estas la enirejo en la juĝejon. Ĉiu,
+kiu havas ian rilaton kun la juĝistaro, devas antaŭpasi tie ĉi, kaj,
+kompreneble, sonorigas ĉe l' unua leĝisto, kiun li renkontas sur sia
+vojo.»
+
+Ĉu tio estas tiel klare komprenebla, estas alia demando, sed la
+argumento faris impreson sur mian onklinon, kiu entreprenis, por mia
+ekloĝiĝo, la grandan vojaĝon al Bruselo. Ŝi kuraĝis fari nur malgrandan
+rimarkon pri la prezo. Ŝi devis marĉandi, kiel ĉiuj virinoj.
+
+_Monsieur Lefinaud_ metis siajn dikfingrojn sub la brakojn kaj ekludis
+per la aliaj fingroj galopon sur sia fajroruĝa veŝto.
+
+--«Sed la situacio, Sinjorino!» li ekkriis. «Mi diras al vi nur tiun ĉi
+unu vorton: la situacio! Tio estas ĉio en granda urbo. Bona situacio:
+riĉeco;--malbona: malriĉiĝo kaj bank...roto!»--Kaj la tajloro, fiera,
+ĉar li konas tiajn sonorajn vortojn, kiel eble plej multe longigis la
+vorton.
+
+--«Kaj bankroto!» li diris denove, dum liaj fingroj reekludis sian
+dancon sur la ruĝa veŝto.
+
+Mia onklino ŝanceliĝis; la prezo superis ŝiajn kalkulaĵojn; kaj ŝi
+ekrigardis ĉirkaŭ si, por vidi ĉu nenio estas kritikebla aŭ mallaŭdebla.
+
+_Monsieur Lefinaud_ vidis ke la momento venis por frapi grandan frapon.
+
+--«Sinjorino», li diris grave, levante siajn fingrojn kaj ĉesigante
+ĉian malseriozan movon, «nur por via profito mi ja parolas. Luigi mian
+ĉambraron mi povas centfoje, se mi volas. Sed tio estus bedaŭrinda.
+Tiuj ĉi ĉambroj estas kvazaŭ faritaj por leĝisto. Antaŭe, ankaŭ nova
+advokato loĝis tie ĉi. Li estis nekonata kaj devis atendi klientaron,
+sed li estis laborema kaj lerta kiel Via Moŝto,--kaj ĉiu, kiu konas
+la ĉefurbon, povos diri al vi, kia fama advokato S-ro Duruisseau
+fariĝis, kiu humile komencis tie ĉi.»
+
+Tiu ĉi argumento estis decidiga.
+
+Tie, kie Majstro Duruisseau fariĝis fama, kial ne sukcesus Ernest
+Staas? Mia onklino konsentis: la nova advokato ekloĝiĝis.
+
+Apud la muro estis metita la biblioteko, en la mezo de l' ĉambro la
+skribotablo, kaj malantaŭ ĝi en larĝa apogseĝo la leĝisto, havanta la
+plumon sur la orelo, la leĝolibron en la mano, preta por doni avizojn,
+skribi aktojn, fari procesojn, redakti konkludojn kontraŭ ĉiu.
+
+Nur mankis al li... aferoj kaj klientoj.
+
+Certe, la situacio estis bonega.
+
+Li vidis la kolonojn de l' juĝejo, li vidis la pli maljunajn kunfratojn
+suprenirantajn la ŝtupojn, kliniĝante sub la pezo de la procesaktoj; li
+vidis eĉ la procesantojn... preterpasantajn lian domon; sed tio estis
+ĉio: neniu frapis ĉe lia pordo.
+
+La kvaronjaro proksimiĝis al sia fino.
+
+_Monsieur Lefinaud_ alportis sian kalkulon, sed devis ankoraŭ anonci la
+unuan vizitanton.
+
+--«Eble la situacio ne estas tiom bona kiom vi pensis», mi rimarkis.
+
+--«Ho, _Monsieur_!» respondis la tajloro.
+
+--«La klientoj tamen ne ŝajnas koni la tien kondukantan vojon», mi
+diris ridetante.
+
+--«Tio ne povas veni tiel rapide,» rediris la dommastro, «sed se Via
+Moŝto ĝin permesas al mi--estas nur demando--ĉu Via Moŝto ne tenas
+sin tro humile, tro trankvile? En granda urbo oni bezonas iom da
+bruo, iom da orumaĵo, da pligrandigo. Vidu, Sinjoro, kiam mi tie ĉi
+komence loĝiĝis, okazis al mi samaĵo kiel al vi. Ŝajnas al mi, ke dum
+dek-kvar tagoj mi ne prenis mezuron eĉ por du personoj, mi, kiu havis
+en Schaarbeek tiajn bonajn klientojn...» kaj _Monsieur Lefinaud_ ĉarme
+ekludis kun sia metra rubando, kiu ĉiam pendis ĉirkaŭ lia kolo.
+
+--«Sed, amiko Lefinaud,» diris al mi unu el ili, «mi eraris almenaŭ
+trifoje, antaŭ ol trovi vian domon. Kiu, ĉielo! povas diveni, ke vi
+loĝas tie ĉi?»
+
+«Tiu ĉi rimarko estis por mi lumradio.»
+
+«La sekvantan tagon, ĉiuj fenestroj estis plenaj je modfiguroj kaj sur
+mia pordo brilis kupra lado kun la vortoj: _Tajloro por civiluloj kaj
+militistoj_... kaj de tiu tago mi igis alpentri ankoraŭ multon germane
+kaj angle,» diris ridante la tajloro.
+
+--«Mi tamen ne povas anonci _Advokato por civiluloj kaj militistoj_,»
+mi rimarkis.
+
+--«Tion ja mi scias, Sinjoro, io simila estas bona por nia metio.
+Advokato devas agi pli diskrete, kaj lado ŝajnus tro komerca. Sed
+vi pentrigus ekzemple per malgrandaj literoj vian nomon ĉirkaŭ la
+sonorileto aŭ sur la pordfosto, tiel ke tio ŝajnus pli averto por
+personoj, kiuj povus erari, ol alvoko al la publiko. Se Via Moŝto
+volas?...»
+
+Mi iom kontraŭparolis, sed _Monsieur Lefinaud_ opiniis, ke li povas
+preterpasi, kaj la sekvantan tagon oni legis, ĉirkaŭ la domsonorileto,
+en skribitaj literoj: _Sonorigu dufoje por S-ro E. Staas, Advokato_.
+
+Du horoj ne estis pasintaj, kiam mi aŭdis la sonorileton tinti dufoje,
+kaj ĉe la ŝtuparo eksonis la voĉo de _Monsieur Lefinaud_: «Sinjoro
+Advokato, en la unua etaĝo.»
+
+Mi sidiĝis rapide malantaŭ mia skribotablo, malfermis multepezan Roman
+leĝolibron kaj metis la manojn en la hararon, kiu, malordigita kaj
+interplektita, atestis zorgadon kaj studon.
+
+Ia sinjoro, kun granda paperujo sub la brako, alproksimiĝis, tenante
+sian ĉapelon en la mano.
+
+Mi stariĝis duone el la apogseĝo kaj petis mian vizitanton ke li sidiĝu
+kaj klarigu al mi sian aferon.
+
+--«Sinjoro,» li diris iom time, «mi estas la riprezentanto de l' firmo
+_Raibaud kaj K-io_, el Parizo, kiu eble estas konata de vi.»
+
+«Bonege!» mi pensis, «Pariza firmo kiel unua kliento, tio faros min
+konata de ĉiu.»
+
+--«Certe,» mi aprobis, «tiu ĉi nomo ne estas nekonata de mi,» kvankam
+mi sciis nenion pli pri la firmo Raibaud, ol se ĝi estus sur la luno.
+
+--«Ni havas,» li daŭrigis, «ĉiujn verkojn pri la leĝoscienco kaj estas
+la ĉefaj vendantoj de l' granda _Enciklopedio de la Leĝoscienco_, la
+ĝenerala leĝa vortaro, kiun ĉiu advokato, ĉiu juĝisto, eĉ ĉiu juĝa
+persekutisto bezonas» kaj li ekrigardis ironie mian bibliotekon, en kiu
+kelke da verketoj maldikaj kaj malnoviĝintaj havis pli ol la necesan
+spacon.
+
+Mi ne volis nei la utilon de l' _Enciklopedio_, sed en la tiama momento
+mi opiniis, ke mi ne tiom bezonas ĝin.
+
+Kiel ĉiuj verkoj pri leĝoscienco, la Enciklopedio estis treege
+multekosta. Tiu sinjoro estis sufiĉe senhonta por proponi ĝin al mi
+por okcent frankoj. Okcent frankoj! kaj mia onklino faris tiom da
+malfacilaj oferoj por aĉeti miajn mebletojn!
+
+--«Se vi ne prenas la Enciklopedion, vi sendube bezonas la _Novan
+Komentarion pri la civila leĝaro_?»
+
+--«Senutile,» mi respondis.
+
+--«Binditan, kun ĉiuj notoj?»
+
+--«Ankaŭ ne.»
+
+--«Almenaŭ la _Klarigojn pri la punleĝaro_ kun ĉiuj raportoj... aŭ la
+_Verkojn pri la propreco_... aŭ ĉiuokaze la _Novan Hipotekleĝon_ kun
+ĉiuj paroladoj kaj diskutoj... aŭ...»
+
+Mi ĉiam kape neis; sed li ne tiel facile ĉesis, kaj mi estis devigata
+aŭdi ankoraŭ la titolojn de dudeko da verkoj, ĉiuj necesegaj por
+advokatoj kaj juĝistoj, notarioj kaj juĝaj persekutistoj, binditaj kaj
+ne binditaj, kun kaj sen notoj, antaŭ ol li kolektis siajn paperojn kaj
+foriris, lasante sur mia tablo dekon da prospektoj.
+
+--«Nu?»--Kaj _Monsieur Lefinaud_ pasigis sian buklharan kapon tra
+la pordofendo.--«Kion mi diris al vi? Ĉu la literoj ne faras sian
+impreson?»
+
+Li frotis siajn manojn kaj ridante paŝis tra la ĉambro.
+
+--«Jes, sen bruo, sen reklamo,» li daŭrigis, «oni restas forgesita,
+perdita en la mondo. La anonco estas la reĝo de nia centjaro kaj la
+ladeto estas lia ĉefministro!» Kaj Sinjoro Lefinaud fine haltis,
+atendante ke mi festos kun li la venkon de la nompentrigo.
+
+Estis tre malagrable por mi, ke mi devis forpreni la iluzion de la
+ravita viro.
+
+Kaj kiam mi klarigis al li, ke la sinjoro, kiun li anoncis tiel brue,
+estis nur librovendisto, kiu volis perlabori ion--akurate kiel mi,--lia
+entuziasmo subite falis kaj li ne sciis, kion li devas eltrovi por ke
+mi daŭrigu mian konfidon al liaj rimedoj.
+
+Tiaj klientoj ne mankis plu al mi.
+
+Pianistoj kiuj organizas koncerton, verkistoj kiuj presigas sian
+unuan libron, Flamingantoj[26] kun monoferlisto, Izraelidoj kun nova
+eltrovaĵo, vinvendistoj ĵus alvenintaj el Bordeaux, malfeliĉuloj
+kiuj nur sincere petas almozon, malriĉuloj kiuj tiras je ĉiu
+sonorileto,--neniu el ili preterpasis la Imperiestrostraton, ne
+sonorigante dufoje al _S-ro E. Staas, Advokato_.
+
+El _Ernest Staas_.
+
+  _Tradukis_
+  A. Van der Biest-Andelhof.
+
+Piednoto [25] Antaŭurbo de Bruselo.
+
+Piednoto [26] t. e. Flandramuloj, kiuj defendas la rajtojn de l'
+flandra lingvo.
+
+
+
+
+ROSALIE kaj VIRGINIE LOVELING.
+
+Estas neeble en biografia skizo apartigi tiujn du fratinojn kiuj dum
+la tuta vivo havis samajn emojn, saman vivmanieron, saman celon. La
+subjektoj, pri kiuj ili ambaŭ verkis, ne multe diferencas kaj la stilo
+estas ankaŭ preskaŭ la sama.
+
+Kutime la poetinoj delikate priskribas scenojn el ordinara vivo.
+Simpleco kaj freŝeco estas la ĉefa karaktero de iliaj verkoj.
+Bedaŭrinde ia religia aŭ supreniga sento preskaŭ tute mankas: tial
+iliaj verkoj ne estas ĉiuj legindaj.
+
+
+ROSALIE LOVELING.
+
+1834-1875.
+
+La donaco.
+
+(Het geschenk).
+
+  La tirkesteton li malfermis
+  Dum staris apud li knabeto
+  La poŝhorloĝon rigardanta
+  «Ho! donu ĝin al mi, aveto!»
+
+  «Al vi mi ĝin donacos iam,
+  En la proksima jaro eble,
+  Kondiĉe ke vi bone lernu.»
+  Al li la maljunul' parolis.
+
+  «Proksima jaro!» knabo diris,
+  «Aveto mia, eble estas
+  Ke tiam estos vi mortinta;
+  Vi estas tiom ja maljuna!»
+
+  La maljunulo ekpripensis
+  Kaj al si diris: estas vere!
+  Dum liaj fingroj karesadis
+  La buklhararon de l' knabeto.
+
+  Li prenis tuj la poŝhorloĝon
+  Kun peza ĉeno kaj, en manojn
+  Avidajn ĝin metante, diris:
+  «De via patro tio venas.»
+
+  * * * * * * *
+
+  Tombeto estas nun fosita;
+  La lernejanoj ĉirkaŭstaras,
+  Kaj maljunulo pene fleksas
+  Genuon unu sur la teron.
+
+  La malvarmeta matenvento
+  Tra liaj haroj dolĉe blovas;
+  Ĉerketo flava teren glitas.
+  Knabeto, kiu pensis tion?
+
+  Kaj hejmen la maljuna avo
+  Reiras kaj plorante metas
+  L' arĝentan poŝhorloĝon ree
+  En la malnovan tirkesteton.
+
+  _Tradukis_
+  Raym. Van Melckebeke.
+
+
+La orfa knabo.
+
+(Het Weeskind).
+
+  Tie li kuris per nudaj piedoj
+  Antaŭ fenestro sur sablo varmega,
+  Hundo saltadis sur lian vesteton
+  Kaj la maneton karese lekadis.
+
+  Li al la maljunulino ridetis:
+  Lia knabkoro batadis varmete,
+  Tiel kaprica kaj lerta li estis,
+  Tiel malgranda sed tiel malriĉa.
+
+  Ĝis la okuloj surpendis la haroj,
+  Suno bruladis la nudajn braketojn;
+  «Ho, li min amas korege», ŝi diris,
+  «Li tiel saĝa kaj tiel, jam, granda!»
+
+  * * * * * * *
+
+  Hejme la maljunulino teksadas...
+  Antaŭ fajrejo sin streĉas la hundo...
+  Ruĝe la flamo lumigas la domon
+  Kaj sur la verda vitraĵo rebrilas.
+
+  Hundo senbrue alrampas al ŝi, kaj
+  Ŝin rigardante la voston ekmovas
+  «Jes, li foriris», ŝi diras plendante
+  Brila kun larm' en l' okulo malbrila.
+
+  «Nun li fariĝis anĝelo ĉiela;
+  Vi, mizerulo, jes vi min komprenas»
+  Diras ŝi dum la tre glatan hararon
+  Ŝi per la fingroj malĝoje karesas.
+
+  _Tradukis_
+  Maurice Seynaeve.
+
+
+VIRGINIE LOVELING.
+
+1836.
+
+La portreto de l' avino.
+
+(Grootmoeders portret).
+
+  En ĉambro de l' avino
+  Jen pendas la portreto
+  El ŝiaj junaj jaroj
+  Kun buŝo ridetanta
+  Kun perlokulo brila
+  Kaj bruna buklhararo.
+
+  L' infanoj miregantaj
+  Admiras ĝin dum unu
+  Al la alia diras:
+  «Se estus nun ĉi tie
+  La bela infaneto,
+  Ni tiam kune ludus.»
+
+  Kaj la maljunulino
+  En la seĝeg' sidanta
+  Rigardis al l' infanoj:
+  «Divenu: kiu estas
+  La bela knabineto?
+  Vi ĉiam kun ŝi ludas.»
+
+  _Tradukis_
+  Raym. Van Melckebeke.
+
+
+La tutkora donaco.
+
+(Het geschenk des harte.)
+
+Ian belan posttagmezon en komenco de l' septembra monato ili traveturis
+la arbaron, sidante en malkovrita veturilo: la riĉa orfino apud sia
+zorganto, kaj kontraŭ ili la franca oficiro, ŝia fianĉo.
+
+De kelkaj jaroj ŝi pasigis la libertempajn tagojn en la domo de sia
+zorganto, kaj tiamaniere, de la morto de ŝia patro, ŝi eĉ ne vizitis
+plu la gepatran kastelon.
+
+Nun ili veturis tra la arbaro kun ĝiaj altaj kverktrunkoj, ĝia densa
+arbetaro kaj ĝiaj larĝaj aleoj. Jen ili rigardis la ombron kaj la
+sunlumon sur la verda je l' vojrando kreskanta herbaro, kiu, tie
+ĉi en septembro, estas dolĉa kiel veluro; jen ili vidis la pigojn
+forflugantajn el la altaj arboj kaj la leporojn triope aŭ kvarope
+saltantajn ĉe la flankaj aleoj aŭ, kun stariĝintaj oreloj, sidantajn
+sur la sablo.
+
+La ĉevaloj paŝe marŝadis.
+
+La junulino estis ravata: «Ho» ŝi diris, «kiom da fojoj, kiam mi estis
+malgranda, tie ĉi mi rajdis sur mia ĉevaleto laŭlonge la aleoj ĝis la
+domo de l' arbaristo!... Rigardu», kaj ŝi montras per fingro malgrandan
+ruiniĝantan loĝejon, kiu staris je kelkaj paŝoj pli malproksime, inter
+la densa ombro ĉe la vojrando, kie la tero fariĝis ondema, kaj kie
+komencis la malhelaj abiaroj, «Rigardu, tie ĝi staras, kaj ŝajnas al mi
+ke la maljuna Tomas'o ankoraŭ sidas ĉe la pordo kiel antaŭe».
+
+Ĝi estis li mem... Eble li estis vidinta la alvenantan veturilon, kaj
+apenaŭ ŝi eksilentis, kiam la maljunulo kun sia ĉapeto en la mano
+proksimiĝinte al la veturila pordeto goje ekkriis:
+
+«Bonvenon! Bonvenon!» kaj kvazaŭ propramove la veturigisto haltigis la
+ĉevalojn, kaj la juna oficiro elsaltis el la veturilo kaj helpis sian
+fianĉinon kaj ŝian onklon por la elpaŝo.
+
+«Kiom vi grandiĝis, mia juna kara mastrino» diris la arbaristo tute
+kortuŝita, kaj ŝi pensis. «Kompatinda viro! kiom vi ŝajnas maljuna kaj
+malfortiĝinta».
+
+«Ho», li daŭrigis, «mi ja sciis ke vi intencis veni tien ĉi, de l'
+momento kiam la gardisto al mi diris ke vi intencas viziti hodiaŭ la
+kastelon post via longa forestado. Al tiu ĉi malgranda bubo mi ankoraŭ
+diris antaŭ duonhoro ke vi ne forgesis Tomas'on», kaj ĉe tiuj vortoj
+li, ridante, skuegis per lia ŝultro sian okjaran nepon, kiu miregis ke
+lia avo alitempe ĉiam tiom silenta, nun estas tiom vivega kaj bruema.
+
+«Ne, ne, Tomas'o», diris la junulino, afable ridante, «mi certe ne
+forgesis tion, kiel vi bone scias», kaj ŝi elparolis tiun ĝentilan
+mensogon kun sincera memriproĉo, ĉar ŝi ektimis pensante ke nur okazo
+kondukis ŝin tien ĉi, kaj ŝi preskaŭ forgesis la bonan viron, kiu
+plenumis nur malgrandan rolon ĉe la memoraĵoj el ŝia infaneco kaj kiu
+tamen estis tiom sindonema por ŝi.
+
+La franca oficiro kiu ne komprenis tion kion ili diris, sed rimarkis
+la amikan manieron per kiu ŝi parolis al la arbaristo, tuŝetis lian
+ŝultron kaj prezentis al li cigaron.
+
+«Li estas ŝia fianĉo», diris la zorganto.
+
+«Jes, mi jam pensis tion, mi aŭdis pri tio», diris la maljunulo kun
+ruza rideto, kvazaŭ li volis montri ke ĉiuj novaĵoj koncerne ŝin
+penetris ĝis li; kaj sin turnante al ŝi, li daŭrigis:
+
+«Rakontu do al li kiel vi venis tien ĉi, kiam vi ankoraŭ estis
+veturigata per via malgranda ĉareto, kaj kiel vi rajdis sur miaj
+genuoj, kaj kiel Tomas'o tiam ĉerpis por vi glason da akvo el la
+fonto... Jes, ekrakontu tion al li...»
+
+«La fonto», interrompis la junulino, kaj kelkaj duonforgesitaj
+okazintaĵoj el ŝia infana vivo klarege reviviĝis en ŝia memoro, «Ho,
+jes, Tomas'o, la fonton mi volas vidi», kaj tiam, sekvata de ĉiuj
+aliaj, per ŝi faris kelkajn paŝojn malantaŭ la domon ĝis malgranda
+lageto ombraĵita per branĉaĵoj, kaj el kiu la klara akvo defluis de la
+ŝtona bordo kovrita per musko, kaj riverete forfluis tra l' abiaro.
+
+«Kie estas la buksarbeto? Kie estas _mia_ buksarbeto?» demandis la
+junulino, «ĉar ŝi memoris ke, iam, tie kreskis granda buksarbeto, kiun
+la arbaristo nomis la ŝia, ĉar ŝi tiel amis ĝin.
+
+«La bukso estas sekiĝinta kaj elterigita», diris la maljunulo, «sed
+atendu momenton», kaj per rapidaj, faletantaj paŝoj li eniris la domon
+tra la malantaŭa pordo.
+
+Tuj li revenis, tenante en sia mano malgrandan, dubeflavan, lignan
+pokaleton. «Tio», li diris, «estas eltranĉita el la buksa ligno, kaj ĝi
+estas por vi».
+
+Kaj kiam la junulino volis danki lin kaj esprimis sian plezuron pri
+la donaco, li diris: «Jes, eble vi pensis ke Tomas'o ne povas fari
+ion belan?» kaj memkontente li frotis siajn manojn. «Rigardu», kaj li
+montris kelkajn literojn senarte entranĉitajn en la pokaleto «tio estas
+via nomo, mia kara juna mastrino».
+
+Poste li subakvigis la pokaleton en la fonton, ĝin tenis dum unu
+momento en la mano antaŭ ol prezenti ĝin al ŝi kaj diris: «Trinku tion,
+mia kara infano, je via feliĉa edziniĝo, via longdaŭronta vivo, kaj nia
+malnova amikeco!»
+
+Kaj eble neniam ia elokventa tosto estis elparolata kun pli granda
+bonkoreco, kaj eble ankaŭ ia glaso da vino multekosta neniam estis
+prezentata kun pli da grandanimo, ol la plengorĝo da fontakvo de l'
+malriĉa arbaristo!
+
+La juna fianĉino ankoraŭ tenis la pokaleton en sia mano kiam ili diris
+adiaŭ, kaj ree sidiĝis en la veturilon.
+
+«Tio estas donaco de l' bona maljunulo», elparolis ŝia fianĉo, kaj
+afable ŝi respondis:
+
+«Jes, vere tutkora donaco!»
+
+Pro sia edziniĝo la riĉa orfino estis sufiĉege dotigita per donacoj:
+luksaj aĵoj malavare donacitaj de onkloj kaj onklinoj, donacoj de
+gravegaj amikoj kun fiereco elmontritaj de ŝia zorganto, donacoj pro
+humana respekto kaj sociala devigo prezentitaj kun kaŝita kontraŭvolo
+kaj ŝajna koreco kaj akceptitaj kun kaŝita embaraso, kaj eĉ ankaŭ
+donacoj kaj donacetoj pro amemo de amikinoj, sed el ĉiuj eble troviĝis
+neniu kiu estis prezentita al ŝi el pli sincera korsento kaj kiun ŝi
+akceptis kun pli dankema surprizo, ol la buksligna pokaleto el la manoj
+de l' malriĉulo!
+
+  Tradukis
+  A. Cassiers.
+
+
+
+
+G. T. ANTHEUNIS.
+
+1840.
+
+
+G. Th. Antheunis, nune honora pacjuĝisto en Bruselo, estas unu el la
+plej bonaj «lirikaj» poetoj en la Nederlanda Literaturo. Li inter aliaj
+verkis aron da amaj kantoj kaj da familiaj pentraĵetoj, kompareblaj
+kun la plej bonaj tiaspecaj versaĵoj de l' aliaj lingvoj; ankaŭ liaj
+infanaj kantoj plejmulte estas brilaj majstraĵoj. Per sia edziĝo, li
+fariĝis la bofilo de la fama flandra verkisto, H. Conscience.
+
+
+Apud la lulilo.
+
+(Bij de wieg).
+
+  Helege briladis la steloj
+  Kaj la najtingalo triladis.......
+  Interne de l' paca dometo
+  La blanka lulil' moviĝadis.
+
+  Li diris: «Ho, kiom malfruas!
+  Ĵus batis la horo dekdua.
+  Nu, kara edzino, sufiĉe
+  Ni lulis: ni ankaŭ ekdormu».
+
+  Tuj ili sen bru' la lulilon
+  Proksimen de l' lito altiris.
+  «Rigardu», ŝi diris montrante
+  L' infanon, «ĝi, vere, ridetas».
+
+  Ĝi dormis kaj ridis dolĉege,
+  --Ĝin oni, ja, povus forŝteli--
+  Kun unu braketo malkaŝe
+  Kaj kun la alia ĉe l' kapo.
+
+  La dolĉa spirado similis
+  Al vesperpreĝado murmura,
+  La mano kun etaj malŝveloj
+  Al io, laŭ ŝajno, streĉiĝis.
+
+  Ŝi ĝin rigardadis feliĉe,
+  Je ĝuo pleniĝis la koro
+  Kaj, antaŭ ol tion ŝi pensis,
+  Ŝi estis kisinta l' infanon.
+
+  «Vi vekas ĝin! Kion vi faras?»
+  Riproĉis li sian edzinon,
+  Kaj........., ankaŭ klininte sin, ankaŭ
+  Li kisis rapide l' etulon;
+
+  Kaj ŝin li rigardis: belete
+  Ŝi ridis dum larmoj briletis;
+  Li ĝoje ŝin kisis kaj supren
+  Li levis dankeman okulon.
+
+
+La Neĝo.
+
+(De sneeuw).
+
+      Neĝo, neĝo, blanka neĝo,
+      De kie vi alflugas?
+      Neĝo, neĝo, ĉasta neĝo,
+      En nia sanga, ŝlima jarcento,
+      Ĉu via blankeco ne estas mensogo?
+
+          Kie vagas ankoraŭ aera peceto
+  Kiun la homaj blasfemo kaj ploro kaj plendo
+          En ĉiu tago ne enspiris?
+          Kie kuŝas ankoraŭ, en tuta la mondo,
+              Iom da tero
+          Kiun ne tuŝis sango,
+          Sur kiu ne restas peco
+  Da homaj korpoj traboritaj, distranĉitaj,
+  Da homaj koroj de l' doloro rompitaj?
+
+      Tamen vi falas tra blasfemoj kaj dankoj,
+      Tamen vi falas, tiel virga kaj blanka,
+      Ĉiujn sur vojojn, sur malbonon kaj bonon;
+      Kaj sur la tero, laciĝinta kaj nuda,
+      Vi etendiĝas kaj ĝin tute kovradas
+      Kaj sur ĝi, kiel Dia beno, vi kuŝas.
+
+      Kiam la brulo la ruinojn dissemis,
+      Kiam la morto la soldatojn deĵetis,
+      Kiam infanoj mortis apud patrinoj,
+      Tiam vi venas, kiel vesto ĉiela,
+      Kovras la sangon, la ruinojn, la larmojn
+      Kaj silentigas neprelastan la ploron.
+
+      Jen estas batalkamp'...... plibone jen estis!
+      Jen falis viroj kunĵetitaj amase;
+      Tie la pafilegojn, ŝarĝon pezegan,
+      Oni trenadis tra la korpoj tremantaj.....
+      Jen estas batalkamp'...... plibone jen estis!
+
+  Nun ĉio silentas;..... ĝis kie l' okuloj vidas
+  Ĉio estas senmova kaj blanka,.... sen ia ŝanĝo;
+  Kelkfoje la tero ŝveliĝas aŭ piedo kontraŭpaŝas ion,
+  Sed ne haltu: ĉar vi ne povos veki la senvivulojn.
+
+          Neĝas; dense faladas la neĝeroj;
+      Foriru, vi, kiu vivas ankoraŭ,
+              Ne movu tion kio kuŝas tie
+          Kaj lasu la blankan neĝon de Dio
+              Surkovri la fratmortigon!
+
+  _Tradukis_
+  Maurice Seynaeve.
+
+
+
+
+D-ro E. VAN OYE.
+
+1840.
+
+
+D-ro E. Van Oye (loĝas en Ostendo) publikigis pasintatempe kelkajn
+bonegajn poeziajn verkojn, rimarkindajn pro la belsoneco de l' versoj
+kaj la ĉarmo de l' priskribitaj subjektoj. Li prefere malvolvas la
+dolorajn kaj amajn sentojn.
+
+
+Sekreta Vivado.
+
+(Heimelijk leven).
+
+  Multaj floretoj vivas kaŝate
+      En la herbo de l' kampo;
+  Multaj perletoj restas lasate
+      Sur la fundo de l' maro.
+
+  Vagas sennombraj miloj da sunoj
+      En ĉielo vastega,
+  Neekvideblaj kaj senradiaj
+      Por l' okul' senfortega.
+
+  Kiom da floroj estas florantaj
+      Mute mia en brusto;
+  Kiom da perloj estas fluantaj
+      En la mia korsango!
+
+  Ne, vi neniam sunon ekvidos,
+      Floroj de la doloro....
+  Oni neniam povos ekpreni
+      Tiujn perlojn de l' maro....
+
+  Tamen vin, kantojn, florojn, mi amas,
+      Perlojn de la sentemo,
+  Plendon, vin kiun eĉ mi ne nomas,
+      Stelmoviĝon sekretan!
+
+  Vin mi salutas, vin nevideblajn,
+      Ĉar vin Dio estigas,
+  Ĉar vi altege, vi malaltege,
+      Steloj, perloj brilegas!
+
+  Via Kreinto, nur Li, vin konas,
+      Noktajn stelojn, ho kantojn
+  Kiuj neniam lipojn alvenas,
+      En la koro droninte!
+
+  Floroj kaŝitaj for de l' okuloj
+      Kaj vi, plendoj silentaj,
+  Estas vivantaj en ĉiopova
+      Dio--kaj Lin dankantaj!
+
+
+El «Noktoj Senstelaj.»
+
+(Uit: Sterrelooze nachten).
+
+  Malakre muĝas griza maro sian
+  Plendadon plenan je potenca ĉarmo;
+  Animo mia plendas dezirante
+  Kantadon malĝojegan kiel ĝia.
+
+  Ho maro, ho grandega maro!--Larĝa
+  Kaj tiel profundega, kiel via
+  La fundo, estas la doloro mia
+  Akrega, kiu teren min deĵetas!
+
+  Kaj ve! Nenio.... Nek parol', nek plendo
+  Lumigas, ho doloro! al l' animo!
+  Ho maro! kial la sufero mia
+  Ne havas vian potencegan voĉon?
+
+  _Tradukis_
+  Maurice Seynaeve.
+
+
+
+
+HUGO VERRIEST.
+
+1840.
+
+
+Naskiĝis en Deerlijk; estas fama paroladanto, tre ŝatata en Holando
+kaj Flandro. Li publikigis nur malmultajn verkojn sed ĉi tiuj montras
+la samajn ecojn kiel liaj paroladoj: lia stilo estas tute speciala,
+karakteriza, originala kaj eĉ stranga, plena je vivo kaj brilo; li
+plejsukcese priskribas la pejzaĝojn kaj la kamparajn strangulojn.
+
+
+Vagantaj Ombrorandoj[27].
+
+(Dolende Schaduwboorden).
+
+Ĉu vi konas tiun maljunuleton, kiu, de tiom da jaroj, en la daŭro de
+preskaŭ sia tuta vivo, en ĉiuj tagoj trapaŝadas la ĉirkaŭaĵon kaj ĉie
+petadas pri almozo.
+
+Ronda ĉapeleto, kiu falas ĝis sur lian nukon kaj surkovras liajn
+okulojn; malstreĉa kravato, kiu pendas aŭ balanciĝas sur lia brusto aŭ
+liaj ŝultroj; ia longmanika jako; moviĝanta kaj iom dika pantalono, tro
+longa, tro larĝa, kaj malpura kie ĉio alia; truitaj treniĝantaj ŝuoj.
+
+Sur siaj kurbiĝantaj ŝultroj, li portas grandan sakon kutime duone
+plenan je terpomoj, pano, napoj kaj ĉio ajn imagebla.
+
+La vireton, tiun vireton oni ne renkontas, ne rimarkante lin. Sub
+tiu ĉapeleto kaŝiĝas dika, ronda vizaĝo, streĉa kaj tamen sulkita,
+griza, bruna, kun ruĝaj makuloj. Du malgrandaj okuloj briletas duone
+malfermitaj, kaj dikaj lipoj murmuradas. El l' ekstremo de l' manikoj
+aperas malgrandaj, grasaj, sulkitaj manoj: bufomanoj. «Li englutis la
+straton»[28].
+
+Li estas maljuna, tre maljuna.
+
+Li paŝadas balanciĝante kaj dolĉe kapmovetante, kaj malrigidiĝas liaj
+kruroj kaj genuoj. Li babiletas kaj murmuras mallaŭte en si mem, kaj
+haltas unu momenton de tempo al tempo, bonhumore, kaj pensas, kaj
+paroletas.
+
+Kiam li ricevas bierglason aŭ prefere brandglaseton, li facile ebriiĝas
+kaj iradas kun kvazaŭ eklumiĝo ĉirkaŭ la kapo kaj varmego en sia
+brusto. Se tiam li renkontas min, li levas la kapon flanken, rigardas
+min per palpebrumantaj okuloj, haltas, ĵetas eksteren la manon ĝis la
+ĉapeleto kaj diras iom salutante: _Serviteur, Mesieur, Serviteur!_[29]
+Li reekbabiletas, foriras, levas per rigida brako la bastonon en la
+aeron, ĝin subtenas sur alteco de l' kapo per premanta pugno, kaj
+ŝajnas laŭ muzikludo per pugno kaj bastono sekvi ian takton kaj ritmon.
+
+Stranga vireto!
+
+Li havas konstantan loĝejon ĉe malriĉaj laboristoj, je l' malsupro de
+l' monto. Sed kutime li dormas en la garbejoj; li vagas, vagadas ĉie,
+kaj lin minacas la danĝero ke ian matenon oni lin trovos mortintan en
+fosaĵo laŭlonge de l' strato.
+
+La malsaton li suferas kelkafoje, ne ofte; sed li manĝas modere, tre
+modere. Soifanta li estas kaj deziranta bierglason kaj prefere ankoraŭ
+brandglaseton, ĉiam; sed li ne trinkas tro multege. Malbonajn vestojn
+li portas dum la varmo kaj malvarmo.
+
+Vagista vivado!
+
+--Ĉu li ne povus eniri maljunulejon?
+
+--Tie li trovus komforton kaj bonajn zorgojn.
+
+Por nenio en la mondo li tion ĉi konsentus.
+
+«Li englutis la straton» kaj kreskis en kaj laŭ tiu vivado.
+
+Tiuj longaj ŝtonvojoj estas alligitaj al liaj okuloj. Tiuj stratoj kaj
+vojetoj, kun maldeklivoj kaj deklivoj, alkreskis al liaj piedoj. Tiuj
+arboj, tiuj trunkoj, tiuj branĉobariloj, tiuj kampoj fariĝis parto de
+lia korpo, kaj koro, kaj animo.
+
+La somersuno lin devas bruligi; la vintra malvarmo lin tremigi; la
+vento sibli ĉirkaŭ lia kapo, lia ĉapelo kaj tra liaj vestoj; la pluvo
+devas lin akvumi; se ne, li estas en senkomforto.
+
+Kiam de rondvagado en la somervarmego li estas laca, li deziras ke li
+povu sidi, pendigante la krurojn en la fosaĵon sub la alnotrunkoj,
+malfermi sian sakon kaj malrapide tramordi buterpanon.
+
+Dum vintraj tempoj, kiam ventas, kaj pluvas, kaj neĝas, li devas
+ankoraŭ vagadi, dorlote vestita en siaj ĉifonaĵoj. Li nek serĉas,
+nek deziras ŝirmilon aŭ protekton, sed, vespere, li eniras kamparan
+farmodometon, kie li povas sidi en la angulo de l' fajrejo kaj dormi
+sur la fojno.
+
+Li estas timema, timema, timema ke iu penetrus en lian vivadon, kaj
+volus aranĝi, aŭ reguligi, aŭ ŝanĝi ion de lia farado aŭ nefarado, de
+lia bon- aŭ malbonfarto, de lia irado aŭ ripozado, de lia parolado aŭ
+murmurado, de lia dormado aŭ maldormado, de lia pureco aŭ malpureco.
+
+Li vivadas sola, sola, sola, kaj tamen ne sola, ĉie en la mondo, sur
+la stratoj, apud la domoj, kaj en la popolo: «_Serviteur, Mesieur,
+Serviteur!_»
+
+Sed li foriras kiam kaj kiel li volas; aŭ plibone, kiam nekonata
+interna naturo lin premas, aŭ devigas, aŭ kiam ekstera naturo
+signodonas, aŭ lin alvokas.
+
+Kiel li en tiu naturo kreskis?
+
+Kiel li en tiu malriĉeco kreskis?
+
+Kiel li en tiu vivado kreskis?
+
+Li portas kun si kaj en si mem la aeron supran, la malproksimaĵojn, la
+ebenaĵojn, la montetojn kaj valojn.
+
+Enŝlosiĝi aŭ vivadi sub tegmento estus malliberejo aŭ tombejo.
+
+Li portas en si la kampojn kun iliaj verdaĵoj, kaj herbejoj, kaj
+branĉobariloj, kaj anguloj;
+
+La arbarojn, la arbojn, kaj arbetojn;
+
+La birdojn, la kornikojn, kaj pigojn, kaj paserojn, kaj la tutan
+kantantan kaj krietantan flugantaron;
+
+La katojn kaj hundojn de la tuta regiono, ĉio estas por li konato kaj
+amiko.
+
+Tra la kampoj li vagas, laŭlonge de l' stratoj kaj vojetoj: li konas
+kaj alparolas ĉion: Al sekalo, kaj tritiko, kaj aveno kiu kliniĝas kaj
+kies spikoj frapas lian vizaĝon, li ĝemas: «Tro da pluvo, tro da pluvo,
+ĉu ne?» Sian bastonon li trenas tra la terpomkampoj «Tro malseke, ne
+vere?» La nigra korniko krias al li «Ŝparu» kaj tra la ruĝa nazo li
+nazkrias gajkore «Ŝparu vi mem, vi nigra korniko!» La pigon kiu laŭte
+krias en la arboj je l' maldekstra flanko de la strato, kaj antaŭdiras
+malbonan tagon, li malamas: «Ho, vi malbela sorĉistino!»
+
+La kato estas lia amiko: «Ho, vi beleta besteto, ruza Katcĵo!» Kaj la
+hundon, kiu bojas kaj kriegas, li alparolas: «Sst, sst, ĉu vi mordus
+do? Sst, sst, Barono? Sst, sst, trankvile!»
+
+Li portas en sia kapo kaj koro la domojn kaj farmobienojn, kaj stalojn
+kaj garbejojn, kaj la almozojn, kaj monerojn kaj pantranĉaĵojn, kaj la
+bonan parolon, la murmuron kaj la malfavoran «Vin Dio konservu»[30].
+
+Tio estas pli multe ol lia vestaĵo;
+
+Estas pli ol lia haŭto;
+
+Estas lia karno, kaj ostoj, kaj cerbo.
+
+Li sentas per ĝi, kaj ĉion-ĉi aŭ parton de tio forpreni, estus lin
+senhaŭtigi, estus lin dissekci, kaj tute distranĉi.
+
+Al kio estas li fiksita?
+
+En tiu grandega, nemezurebla mondo ĉio estas kunligita, ĉio havas
+sian lokon, kaj estas direktata kaj regata de potencoj kaj leĝoj. Ĉio
+balanciĝas kaj moviĝas egalpeze «_in pondere et mensura_»: la irantaj
+sunoj, la flugantaj nuboj kaj la polvero en la aero; sed tie ĉi aŭ tie
+kuras, je la plej malproksimaj limoj de l' universaj potencoj, vaganta
+stelo aŭ ŝtono.
+
+En nia komuneco kaj societo, ĉio vivadas kune kaj solidare, ĝuste
+almezurita, subtenata kaj apogata, libera kaj interligita, harmonie kaj
+egalpeze «_in pondere et mensura_», en bonfarto kaj feliĉo aŭ en penado
+kaj doloroj, laŭ rajta mezuro aŭ malrajta perforte superanta premado.
+Sed ĉi-tie aŭ tie, je l' ekstrema rando de l' regantaj potencoj, estaĵo
+vagadas interne kaj ekstere de l' komuneco. Ĝi ŝajnas aparteni al
+nenio, kaj estas al nenio fiksita.
+
+«--Vidu lin! Tie li min renkontas ree antaŭ la monaĥejeto: _Serviteur,
+Mesieur, Serviteur!_»
+
+Li murmuras, kaj foriras iom malrapide sur la deklivo.
+
+Mi rigardas posten.--Li tenas ree la bastonon supre, kaj turnas
+kaj returnas la streĉan pugnon laŭ la takto de muzikaĵo kiu, el la
+malproksimo de lia juneco, en lia memoro zumas.
+
+Li staras sur la supro, kaj desegniĝas nigre, kiel nigra aranea
+moviĝado, sur la ruĝa brilo de la kuŝiĝanta suno.
+
+  _Tradukis_
+  J. Goorieckx.
+
+Piednoto [27] El la libro: _Regenboog_ (Ĉielarko). En tiu verko, H.
+Verriest priskribas diversajn kamparanajn pentraĵetojn, kies titoloj
+estas, rilate al la naturo de l' priskribo, unu el la koloroj aŭ
+nuancoj de la ĉielarko.
+
+Piednoto [28] Engluti ion: = flandra imaga esprimo signifanta: tre ami
+ion, france: _être entiché de...._
+
+Piednoto [29] = Via servisto, sinjoro, servisto.
+
+Piednoto [30] Flandra esprimo kiun oni uzas kiam oni rifuzas almozon al
+malriĉulo.
+
+
+
+
+ALBRECHT RODENBACH.
+
+1856-1880.
+
+
+Albrecht Rodenbach gloris la plej gravajn agojn de la historio de
+Flandro, en versaĵoj kies stilo estas brilanta kaj energia. Li skribis
+ankaŭ versaĵetojn diversajn tre poezioplenajn.
+
+Lia precipa verko estas historia dramo en versoj: «Gudrun». Tiu ĉi
+tre promesoplena poeto, kiu dum sia tuta vivo laboris por revivigi
+Flandron, naskiĝis en Roeselare (Roulers) kaj mortis bedaŭrinde en la
+24a jaro de sia ekzisto.
+
+Li estas la kuzo de la franclingva verkisto belga, ankaŭ jam inter la
+mortintoj: Georges Rodenbach.
+
+
+Fantazio.
+
+  Preterflugas vataj nubetoj
+  Tralumataj de sunaj radioj.
+  Ilin vidas preterflugantajn
+          Revanta junulo....
+  Kaj senkonscie, post ĉiu nubeto
+    Dolĉe flugas for fantazio;
+  Jen en la spaco ambaŭ foriĝas
+              For, for,
+              Forege.
+
+  Preterflugas blankaj veletoj
+  Kie tuŝas ĉielon la maro.
+  Ilin vidas preterflugantajn
+          Revanta junulo....
+  Kaj senkonscie, post ĉiu ŝipeto
+    Dolĉe flugas for fantazio;
+  Jen trans la maro ambaŭ foriĝas
+              For, for,
+              Forege.
+
+  Preterflugas miraj figuroj
+  Posedantaj la forton de sorĉo.
+  Ilin vidas preterflugantajn
+          Revanta junulo....
+  Kaj post brilanta post ĉiu figuro
+    Vive flugas for fantazio;
+  Sed al la Leto ambaŭ rapidas
+              For, for,
+              Forege.
+
+
+O Nokto.
+
+  Nokto, o nokto, bela vi nokto!
+  Malsupreniris en radiaro
+  Ruĝa la suno kaj malaperis
+  En la brilado de l' horizonto...
+  Kaj jen subite venis la nokto!
+
+  Kiel de l' nokt' reĝino, la luno
+  En la sennuba, pura ĉielo,
+  Naĝas en mezo de la stelaroj,
+  Siaj gvardioj palpebrumantaj.
+
+  Kaj la ĉielo, kie ridetas
+  Luno, rebrilas en riveretoj,
+  Kiuj videblaj hele fariĝas
+  Tra la mallumo de l' Nokto.
+
+  Kaj intertempe, dolĉe, tre dolĉe,
+  Supre, en altaj pintoj de l' arboj
+  Venas brueti tremaj ventetoj
+  En la silento de l' Nokto.
+
+  Tuj silentiĝas ĉio atente
+  Kaj tra l' silento voĉoj mirindaj
+  Flugas al Dio: estas la kanto
+  De la kantisto de l' Nokto.
+
+  Vi najtingalo, dolĉa venteto,
+  Vi rivereto, pura ĉielo,
+  Lunolumado, stelmoviĝado,
+  Estas vi laŭdo, Di' al potenca.
+
+
+La lasta Ventego.
+
+  Je la malnova ŝipo ludas la maro, muĝante.
+  Energie, kviete la grizhara maristo
+  Kun la ventego batalas. Sed ĉiuflanke fendiĝas
+  La rompiĝema kilo malnova, terure krakante.
+  Pale, tremante, la maristoj ronde rigardas
+  Jen la krakantan ŝipkonstruaĵon, jen la ŝipestron.
+  Li ordonas: «Boatojn en maron, kaj savu l' virinojn!»
+  La boatoj balanciĝas kaj dancas en la ventego!
+  Maltrankvile rapidas la aro en la boatojn,
+  Sole staras sur ŝipo la maljuna maristo.
+  «Plena!» ekĝemas li, «Fartu bone, vin savu, ŝipanoj!»
+  Tra la ventego jen nun foriĝas liaj boatoj!
+  Je l' fendiĝanta ŝipo ludas la maro, muĝante.
+  Dolĉe, kviete, preĝas la grizhara maristo
+  Ĉirkaŭpreninte maston. Kaj tiel longe vojaĝis
+  Ŝipo kaj maristo kune tra la ventego!
+  Griza ĝi fariĝis la kapo de la maristo!
+  Eluzita, krakanta, la fortika ŝipego!....
+  O la vento, la maro kaj la lasta ventego!
+  La sovaĝaj ondegoj, ŝaŭmante, bruante atingas
+  Liajn piedojn! Krakante, disrompiĝante la ŝipo
+  Enturniĝas en la terurajn akvoturniĝojn.
+  Kune subiĝas, englutataj, ŝipo kaj viro!
+  Muĝas potence la maro, impresema, senhoma!...
+
+  _Tradukis_
+  L. Cogen.
+
+
+
+
+POL DE MONT.
+
+1857.
+
+
+Pol de Mont, profesoro ĉe la Antverpena Ateneo estas talenta poeto
+havanta vivan imagon kaj rimarkindan facilecon por la versfarado. Li
+verkas prefere mallongajn versaĵojn, scenojn el ordinara vivo, en kies
+priskribo li ofte uzas la infanajn aŭ popolajn naivajn esprimojn. Tio
+okazas precipe en liaj ĉarmaj junecaj versaĵoj, kiuj estas plenaj je
+poezio kaj belete verkitaj.
+
+Iuj riproĉas al liaj verkoj, almenaŭ al la lastaj ke ili ne ĉiam
+suprenigas la koron aŭ la spiriton kaj estas sencelaj priskriboj.
+
+
+Krepusko.
+
+(Valavond).
+
+    Nesenteble, post l' abioj, mortas tago.....
+  Kiel ĝi flavruĝe brilas, l' _erikejo!_
+  Per pli pala rido radiadas suno
+  Al purpuraj floroj kaj maldensaj herboj.
+
+    Vasta ebenaĵo. Kaj nubetoj kiel
+  Blankaj tukoj suprenrampas okcidente.
+  Arboj kelkaj, alten almontrantaj, levas
+  Rozkoloran pro l' sunbrilo altan pinton.
+
+    Ne spiradu! Aŭdu! Eĉ nenia bruo
+  En la branĉoj kie revas paseretoj.
+  Jen grincetas grilo sub kreskaĵ' maldensa....
+  Dolĉe, kvazaŭ en dormado, zumas arboj.
+
+    Ĉio tre silentas......--Kvazaŭ ŝi marŝadi
+  Timus, muta kiel l' erikejo, paŝas
+  Bovingardistin' malgranda, kun brutaro
+  Ŝin sekvanta, hejmen, en la vesperbrilo.
+
+
+Neĝa tago.
+
+(Sneeuwdag).
+
+  Netravideble malluma aer' etendiĝas,
+  Supre kovrita senlime de griza nubaro.
+  De la tagiĝo ne unu peceto da bluo!
+  --Neĝo, de frue, faladas per dikaj neĝeroj.
+
+  Nun la nordvento ekĝemas. Kaj arboj sur pezaj
+  Trunkoj skuiĝas. Dolora plendado agitas
+  Supron ilian, kaj akra malvarmo traboras
+  Jakon kaj jupon mizerajn de l' almozulino.
+
+  Tamen, ŝi vagas kviete tra ventoj kaj neĝo
+  Kun kapuŝeto sur kapo kaj korbo je l' brako,
+  Dolĉe pensante pri l' kara kaj paca dometo!
+
+  Tie lamulo gardadas lulante infanon,
+  Kies vizaĝo remontras l' edzinan mienon.......
+  Spiron detenas, silente kaj....... kiel museto!
+
+  _Tradukis_
+  Maurice Seynaeve.
+
+
+
+
+HILDA RAM.
+
+1858-1901.
+
+
+Per tiu nomo estas konata la Antverpena poetino Mathilda Ramboux. Tiu
+talenta verkistino donacis al la flandra literaturo aron da delikataj
+poezioj, plenaj je delikatkoloraj pentraĵoj kaj suprenigaj sentoj; ŝiaj
+prozaj noveletoj diferencas nur de ili laŭ la formo. La temoj de ŝiaj
+verkoj estas ĉerpitaj precipe el la vivo de infanoj. Hilda Ram pentras
+tial ke nature ŝi estas pentristino: ŝi pentras eĉ kiam ŝi rakontas.
+
+
+La Grenmakleristo.
+
+(De Graanmakelaar).
+
+La makleristo _Holdings_, kruciginte la brakojn, sidiĝis pripensanta
+en la domo de _Schrikkel_, en lia specimenĉambro. Li pripensadis kaj
+tio ne ofte okazis. Kutime li ne havis tempon por pensi. Komercisto li
+estis, grenkomercisto, kaj ĝis antaŭ kelkaj monatoj en tuta la mondo
+estis nur unu afero, kiu posedis la eblecon interesi lin, kaj tiu afero
+estis _greno_. Li estis ĉirkaŭata per la _greno_ ĝis super la oreloj;
+nur _grenon_ li konis; la mondo por li estis _greno_.
+
+_Greno_, _greno_, ĉiam _greno_. Ne nur lia specimenĉambro sed lia
+skribotablo, liaj ŝrankoj kaj tabuletoj estis superŝutitaj per ĝi; la
+_greno_ estis dissemita tra lia ĉambro; ĝis en lia kuŝejo oni trovis
+_grenon_. Kiam li elpoŝigis sian naztukon, la _greno_ ekpluvis; kiam li
+forprenis sian ĉapelon, la _greneroj_ falis el la ĉapelbordoj, kaj la
+servistino, kiu brosis liajn ŝuojn, kutimis zorge skui ĉiun ŝuon antaŭ
+ol meti la manon en ĝin kaj ekbrosi. Ĉu do estas mirige ke ankaŭ en lia
+kapo restis loko nur por greno? Lia malgrasa, seka, pergamena vizaĝo
+estis por la komercistoj, kiuj kun li interrilatis, pli bona sciigilo
+ol ĉiaj eblaj komercaj telegramoj kaj borsaj avizoj. Sur lia vizaĝo,
+ĉia plikariĝo aŭ malplikariĝo estis legebla kiel nigre sur blanke;
+efektive, lia pinta mentono iris supren aŭ malsupren laŭ la _greno_,
+kaj mallongigis aŭ plilongigis lian vizaĝon, tiel farante ĝin pli aŭ
+malpli severa, ĉar serioze streĉita ĝi restis ĉiam.
+
+Kaj tamen, tiu homo estis ankoraŭ en la floreco de la jaroj, en la
+tempo kiun la aliaj homoj uzas por la plezuroj, por nehaltigebla ĉaso
+al diversaj kontentiĝoj kaj vanaĵoj. Li estis apenaŭ tridekjara. Sed,
+de liaj plejjunaj jaroj, la _greno_ senigis lin je ĉia vivoĝojo.
+Li estis unu el tiuj homoj kiuj povas vivi nur por unu afero, kies
+spiritakreco ne estas sufiĉe forta por atingi larĝan horizonton; li
+konis nur unu aferon: _Greno_, _greno_. Tiu viro sin trovis do en
+la ĉambro kaj pripensadis. Kaj tiufoje ne pri greno li pensis; li
+pensis pri virino! Pri virino jes! Li estis edziĝonta, li devis edziĝi,
+li ne povis fari alie.
+
+Antaŭ kelkaj monatoj lia patrino estis mortinta. Kiam ŝi sentis ke la
+fino alproksimiĝas, ŝi alvokis sian filon kaj diris al li:
+
+«Antonio, mia filo, mi baldaŭ lasos vin sola sed aŭskultu mian konsilon
+kaj sekvu ĝin. Ne lasu ekspluati vin de fremduloj: via nescieco pri
+mastraĵaj aferoj povos kaŭzi tro da malprofito al vi. Serĉu seriozan,
+fervoran edzinon, ne tro junan, ne tro superegan al via rango; virinon
+kiu okupas sin tute pri sia mastraĵo. En la trovo de tia virino, mia
+filo, sin trovos por vi la feliĉo.»
+
+Kaj Holdings, kiel bona filo, akceptis la patrinan konsilon, kaj nun li
+estis baldaŭ plenumonta ŝian deziron. Unue li ne sciis kiel entrepreni
+la aferon. Li ja renkontis tie aŭ tie ĉi fraŭlinojn kiuj ŝajnis plenumi
+ĉiajn postulojn, sed kiamaniere akiri certecon? Holdings, kiel ĉiu
+honesta komercisto, ne amis spekulaciojn. Edziĝi kun iu ajn, je l'
+trafo, tio tute ne allogis lin. Cetere, li estis timema rilate la
+virinojn. Li ne sciis kiel alproksimiĝi al ili, kiel ekinterrilati. Tio
+estis malagrabla tempo por Holdings: por la unua fojo vekiĝis en li la
+konscio ke ekzistas en la mondo io alia krom _greno_.
+
+  _Tradukis_
+  O. Van Schoor.
+
+  El «De Familie Schrikkel.»
+  (La familio Sĥrikel.)
+
+
+Sankta Nikolao[31].
+
+(Sinter Klaas).
+
+  «Patrineto, korbon mian malplena
+      Trovis mi en la kameno!
+  Kial Sankta Niĉjo por mi ne volis
+      Nun alporti sukeraĵojn?»
+
+  «Mi zorgadis ke mi estu pli saĝa
+      Ol la knaboj de l' najbaro;
+  Tamen kukojn kaj ludilojn ricevis
+      Ili, kaj mi ve! nenion....»
+
+  «Patro estas en ĉielo, vi diras;
+      Kial li ne zorgas por mi?
+  Ĉu li Sanktan Niĉjon peti ne povis:
+      «Ho! ĝojigu filineton!»
+
+  «Ĉu li karulinon eble forgesis?
+      Tio estus ne ĝentila!
+  Diru, patrineto, kial vi ploras?
+      Kiom plende sonas voĉo!»
+
+  «Ho! mi ŝmacu vin, en brakojn min premu!
+      Malgajecon ni forgesos!
+  Gaja tuj mi estos kaj mi neniam
+      Plendos... se nur vi min amas!»
+
+  Dolĉe en la brakoj de l' patrineto
+      La knabino endormiĝis.
+  Kaj sur lit'--malmola pajla kuseno--
+      Nun kviete ŝi ripozas.
+
+  Estas la sabato: kudraĵlaboro
+      Je l' vespero estas liverota.
+  De l' semajno la senhalta penado
+      Kelkan monon nun havigos.
+
+  Ha! Malmulte estas! Eĉ tro malmulte
+      Por la karboj kaj la pano....
+  Savi devas ĝi patrinon kaj idon
+      De malvarmo kaj malsato!
+
+  Sed ho! tion eĉ ne pensis vidvino.
+      Gaje batis ŝia koro
+  Kiam ŝi en la butiko aĉetis
+      Sukeraĵojn kaj kuketojn.
+
+  Kaj, morgaŭan tagon, en la ĉambreto
+      Estis festo, rava ĝojo,
+  Kiu post la suferado sanigis
+      Korojn de l' mizerulinoj.
+
+  Vere estas ke dum tuta semajno
+      La patrin' apenaŭ manĝis.
+  Ŝi plu ne malsatas, dolĉe ŝi diris,
+      Dum ŝi provis ekrideti.
+
+  _Tradukis_
+  Raym. Van Melckebeke.
+
+Piednoto [31] Laŭ legendo Sankta Nikolao, dum la nokto de la 6a
+Decembro, traflugas l' aeron kaj ĵetas en la kamentubojn donacojn por
+la bonkondutaj infanoj, kiuj metas ŝuon aŭ korbon en la kameno; al la
+malbonaj li donas vergojn.
+
+
+
+
+J. NOTERDAEME.
+
+1862.
+
+
+J. Noterdaeme (loĝas en Bruĝo) presigis kelkajn poeziajn verkojn, kiuj
+ĉarmas la spiriton per la freŝeco kaj amindeco de la ideoj kaj la ecoj
+de l' versoj.
+
+
+Kion vi deziras?
+
+(Wat wilt gij?)
+
+  Kion, ho rivereto,
+  Kion do vi deziras?
+  Kial tie sen halto
+  Vi plendante forkuras?
+  --«Ke de mia la brusto,
+  Ke la ŝlimo foriĝu!»
+
+  Kion kaj vi, rozeto,
+  De l' abel' amatino?
+  Kial via kapeto
+  Pro malĝojo kliniĝas?
+  --«Ke l' vespero proksima
+  Kaj la nokto foriĝu!»
+
+  Kaj vi, steloj kaj suno,
+  Kion ankaŭ vi petas?
+  Via brila mieno
+  Ŝajnas tiel malgaja.
+  --«Ke nebuloj kaj nuboj
+  De l' ĉielo foriĝu!»
+
+  Vi, Flandrano el Flandro,
+  Ĉu vi ion deziras?
+  Kial kapon vi klinas
+  Kial tiel malĝoje?
+  --«Mia Flandro revivu
+  Kaj glorega fariĝu!»
+
+  _Tradukis_
+  Maurice Seynaeve.
+
+
+
+
+STIJN STREUVELS.
+
+1871.
+
+
+Frank Lateur, pseŭdonome Stijn Streuvels, estas juna panisto loĝanta en
+la malgranda urbeto: Avelghem, ĉe la bordo de l' Skeldo[32]. Li estas
+la nevo de G. Gezelle, glora flandra poeto. De kvin aŭ ses jaroj, li
+publikigas prozajn verkojn kiuj ĝuas entuziasman sukceson, precipe en
+Holando. Kaj, efektive, la verkoj de tiu miriga panisto meritas tiun
+sukceson: liaj rakontoj estas skribitaj per lingvo tre riĉa je impresaj
+vortoj kaj figuroj, ĉarmoplena kaj belsona. Li sekvas en la proza
+literaturo la vojon, kiun majstre montris por la poezio G. Gezelle, sed
+li tute ne imitas la religian idealismon de sia glora parenco: kelkaj
+eĉ jam riproĉis al li liajn materialistajn emojn. Ŝajnas ke oni povos
+konsideri lin kiel iniciatoron de nova, vivoplena kaj glora skolo en la
+proza flandra literaturo.
+
+
+Fragmento el «La Rikolto».
+
+En la verko «La Rikolto», Stijn Streuvels priskribas la vojiradon kaj
+teruran laboradon de l' flandraj laboristoj kiuj, ĉiujare, piedire
+iras Francujon por tie, dum varmegaj longaj tagoj, fari la rikolton
+de l' vastegaj francaj kampoj. Sendube, la Esperantistoj de Norda
+Francujo memoras pri tiuj grupoj da rapidantaj homoj kiuj, ĉirkaŭ
+la jarmezo, ŝarĝitaj per pakaĵoj kaj rikoltiloj, sentime marŝas al
+nekonata lando celante perlabori la necesan monon por travivi, en
+siaj vilaĝoj, la longajn vintrojn. Nuntempe, plimulto da ili uzas la
+vagonarojn.
+
+Sur la unuaj paĝoj de la verko, la aŭtoro priskribas la enamiĝon de
+timema junulo: Rik, al Lida, fratino de lia amiko: Wies[33]. Poste
+Rik, kvankam tro juna kaj tro senforta, obstinas akompani Wies'on
+kaj grupon da vilaĝanoj, direktataj de Krauwel[34], al Francujo. La
+virinoj akompanas la grupon ĝis la limoj de l' vilaĝo kaj tie, post
+longaj adiaŭaĵoj, lasas la forirantojn:
+
+«Tiele, ili kuraĝe paŝadis el sia vilaĝo en alian, ĉiam antaŭen dum
+la tuta tago ĝis kiam, vespere kaj jam en nekonata lando, ili petis
+fremdan farmulon pri loko por dormi.
+
+Rik sentis kun teruro kiel la interspaco ĝis lia hejmo pligrandiĝas;
+li plejofte paŝadis mute kaj premite kune kun la grupo, pensante pri
+la fremda lando kien li venis kaj pri ĉiuj ĝiaj teruraĵoj, kiujn liaj
+kunuloj sentime priparolis; tiam ree li sonĝis pri la hejmo kaj pri
+ĉio kio nun vivadis tie dum lia forestado. Tio ŝajnis nun al li tiel
+kvieta, feliĉa loko, en kiu li dum la lasta mallonga antaŭsomero
+travivis sian tutan feliĉon. Tiujn vesperojn ĉiujn li sentis kun ilia
+feliĉiga dolĉeco, kaj ĉi tie, en la nekonata senhoma lando, atakis
+lin granda ĉagreno pro tiu pasinta ĝuado.--«Kion ili faros al mi?» li
+pensis, kaj la grandaj okazontaĵoj de l' malfacila somero, kun ĝia
+terura brulego, ekaperis antaŭ li. Boele[35] estis rakontinta al li
+timigajn aferojn pri la sundancado sur la grenkampo! Sed poste, li
+trovis ree novan kuraĝon pro la forta konfido de l' kunuloj kiuj apud
+li marŝadis. «Ha, ha!» ekridis Wies, «ni estas la du plej junaj, ili
+iom indulgos nin kaj kiam ni ne povos plue elporti, ni faligos nin kaj
+ŝajnigos nin mortintaj dum duono da tago!»
+
+La aliaj paŝadis, antaŭenpuŝataj de l' deziro komenci la laboron.
+
+--«Tie ni povos fine doni liberecon al la brakoj! Ĉi tie ĉiujn
+grenkampojn ni alrigardas kaj, antaŭ ol komenciĝus la ludo, ĉio estus
+jam rikoltita! Tie estas io alia,--greno, ĉie greno vaste kiel maro!»
+
+Rik mirigita rigardis tiujn virojn en iliajn okulojn: ili ĉiuj nun
+fariĝis liaj grandaj fratoj kaj de ili li esperis grandan helpadon.
+Unu longan vojirtagon sekvis alia: ili mallongigis la noktojn kaj frue
+rapidis, ĉiam puŝataj malproksimen al Sudo. Sur la ebena erika vojo,
+ili ŝajnis nigra moviĝo de homoj, forpelitaj vagistoj ĉasantaj la
+feliĉon. Ili laciĝis fine, kaj bruoj kaj kantoj jam ĉesis de longe;
+ili paŝadis nerigardante kaj malofte parolis. Post ĉiuj tiuj tagoj
+de irado, ili vidis dekstre kaj maldekstre, flanke de l' larĝa vojo,
+senlimon da neriĉaj fruktokampoj kaj en ili, ĉi tie kaj tie dislokitaj,
+ĉie samajn preĝejturojn altiĝantajn el aro da malaltaj domoj. Pli
+malproksime, la spacoj estis malplenaj kaj la horizonto etendiĝis
+super nemezureblaj riĉaj kampoj kaj marĉejoj. Ili iradis, en ĉiuj
+intersekvaj tagoj, laŭ la sama direkto, ne haltante, manĝis je fiksitaj
+horoj sur la vojo kaj dormis en grenejo aŭ sub la ĉielo. Tage la suno
+fariĝis timinde varma, la noktoj fariĝis nemalvarmaj kaj, pli kaj pli,
+ili sentis ke la Sudalando jam ne kuŝis malproksime. Je l' tagiĝo de
+ia tago, ili vidis la turojn de urbo tra la nebulo;--laŭ la diro de
+Krauwel, ili devas ĝin lasi je l' maldekstra flanko, poste ili devos
+trairi alian pli grandan kaj, post ĝi, kuŝis la kampoj kie ili estas
+falĉontaj kaj rikoltontaj.
+
+Kun granda sciamo, la rikoltistoj eniris tiun urbon; per grandegaj
+okuloj ili rigardis tiujn riĉajn stratojn, ne povis plu spiradi meze
+de ĉiuj tiuj homoj kaj domoj. Ili volus ĉi tie restadi longatempe
+kaj ĉiujn tiujn mirindaĵojn ĉiel rigardadi, sed la laboro atendis
+pli malproksime kaj Krauwel ordonis ne disiĝi por ke neniu perdiĝu.
+Post la urbo, ili eniris novan landon; la bluaĵo de l' ĉielo pendis
+ŝajne pli alte super spacego plena je fruktoj: larĝaj gren-, aven-
+kaj horde-kampoj kaj herbejoj, ne limigitaj per vojetoj aŭ limfostoj,
+dekstre kaj maldekstre de la larĝa vojo kiun borderis kvar vicoj da
+arbegoj: ili ŝajnis marŝadi sub la navo de grandega preĝejo kaj, inter
+la trunkoj, staris la altaj fenestrofostoj, post kiuj kuŝis tiu tuta
+sunplena mondo.
+
+Je l' fino de l' tago, ili alvenis al farmodomo.
+
+--«Ĉi tie,» diris Krauwel, «ni komencas la unuan laboron» kaj li
+rakontis multe da detaloj pri la farmulo kun kiu preskaŭ ĉiuj estis
+konatiĝontaj».
+
+(Tiam la aŭtoro priskribas la falĉadon de kampoj de trifolioj; poste
+la grupo aliras alian farmodomon kie ĝi komencos la veran rikoltadon.)
+
+«Estis ankoraŭ meze en la nokto kiam ili, leviĝinte, ree staris ekster
+la dormotendo, tute pretaj por la laboro, vestitaj per sia larĝa
+mallonga pantalono kaj blua lana kamizolo, kiu la larĝan bruston
+senpreme ĉirkaŭprenis kaj ĝin kun la rondaj brakoj lasis nudaj.
+
+Ĉi tie kaj tie, iu frotis la dormodeziron for el l' okuloj kaj demande
+rigardis al la ĉielo. La lastaj steloj ankoraŭ montriĝis kaj ankaŭ
+senlaca luno, en la vasta palebluaĵo super iliaj kapoj.
+
+--«Rapide, viroj, ekkaptu viajn rikoltilojn, ni ekiras.»
+
+Freŝeta blankaĵo etendiĝis super la kampoj kaj ne unu grena ŝtipeto
+moviĝis; kelkafoje grilo ekgrincis kaj en la malproksimo kriis
+arbarstrigo.
+
+--«Ni estas ĉi tie tute solaj», diris Kretse[36].
+
+--«Jes, kaj en nian aron venos tuj la suna moŝto», moke ekridis
+Sneyer[36], «ĉu vi vidas tie kiel ĝia pordo malfermiĝas?»
+
+Li montris la ruĝiĝan brilon kiu, simila al altiĝanta polvofumo, en la
+Oriento kolorigis la ĉielon.
+
+--«Mi unua!» diris Boele, kaj lia rikoltilo deĵetis plenbrakon da
+grenŝtipetoj.
+
+Tio estis la signalo: ĉiu faris krucosignon por bona komenco, kraĉis en
+la manojn kaj jen komenciĝis la ĉiea batalado de l' rikoltilo kaj de l'
+zumanta deĵetata greno. La viroj staris laŭ longa vico, tre malproksime
+unu de la alia, tiel ke ili apenaŭ povis sin reciproke vidi,
+kliniĝantaj al sia laboro en senĉesa korpa balanciĝo. La taglumo jam
+suprenrampis super iliaj dorsoj, dum ili ne aliigis la rigardon aŭ la
+spiradon. Malrapide alvenis la suno kiu ensorbis la matenfreŝeton kaj
+la varmego baldaŭ komencis pezi sur iliaj korpoj. Kun la elŝpruco de la
+ŝvito, la rikoltistoj unuafoje sentis la alvenon de sia tuta forto; ili
+firmigis la krurojn, tenis la kapon rekta super la kurbigita korpo kaj
+de nun la ŝvito povis facile deflui de ili; neniaj varmofortoj povis
+ĝin difekti. Ili balancegis la brakojn movitajn de potenca ekmovo:
+la maldekstra hokis la ondefluantan grenon, dum la dekstra ĵetis la
+rikoltilon per fulma movo supren, kaj kun subita zumo malsupren, tiel
+ke la tuta plenhoko detranĉita zumante defalis teren. Bestojn similis
+ili, tiel starantaj, kvarpiede moviĝantaj en sia libera lerta agado,
+ekscitataj kaj superŝutataj de la turmentanta brulego de l' suno, ĉiam
+antaŭenrampantaj kaj frapantaj, terure frapantaj sen ia plej mallonga
+ĉeso, ĝis la rikoltilo malakriĝis. Tiam ili ĝin batis per la martelo,
+akrege bruigis la ŝtalon per la akrigilo kaj rekomencis per reakrigita
+ilo.
+
+Dum la posttagmezoj, estis terure. La tuta kampo estis trabrulegata
+de krieganta suno, kiu nun kiel brulanta fajro rekte defalis de la
+ĉielo. La plej junaj rikoltistoj ĉiufoje sentis timan korpremon, kiam
+ili devis aliri al tiu brulego kaj ekataki tiun varmegon kaj la grenan
+forton. La aliaj nenion pripensis kaj kviete iris antaŭen; ili tiris
+la randon de l' ĉapelo antaŭ la okulojn kaj, kun klinita kapo, ili
+sin ĵetis antaŭen kaj per la hoko kaptis la grenon, por pligrandigi
+la breŝon en la dika muro de fojnŝtipoj, kiu, kun homa alto kaj ĉiam
+netravidebla, tie antaŭ ili staradis.
+
+--«Kie vi preferus nun vin trovi, Kretse,» mokante demandis Sneyer,
+«flanke de via Karolinjo kun freŝa bierglaso en la «Herbeja Floro[37]»
+aŭ ludante en la Skeldaj ondoj, vespere, apud la hejmo?»
+
+Neniu havis sufiĉe da kuraĝo por ridi pro la ŝerco de Sneyer;--la suno
+ĉi tie fajlis tiel terure, ilia gorĝo fariĝis tiel seka ke ili ne
+povis plu spiradi, kaj la ŝvito degutis fluante el la haŭto. Kiu estis
+la sensaĝulo kiu nun ekparolis pri biero, pri tiu bona, malvarmeta,
+ŝaŭmanta biero el la freŝa kelo de la «Herbeja Floro» kaj pri la dolĉaj
+Skeldaj ondoj en la vespero! Dio de l' ĉielo! Vidu kiel ili penas por
+ne fali.
+
+Rik spiregis kiel kuradinta hundo, li ne sentis plu la teron sub siaj
+piedoj; liaj okuloj ne vidis la brilan lumon de l' tago kaj lia korpo
+estis tute rostata. Liaj brakoj senĉese balanciĝadis, sed li ne sciis
+kiu movas ilin. De tempo al tempo, li viŝis per la ĉemizmanikoj la
+tedan ŝviton el la okuloj kaj rigardis dekstren kaj maldekstren, por
+vidi ĉu apud li neniu kunulo falis mortinta.
+
+--«Ĉu neniam pluvas en ĉi tiu lando?» li mallaŭte diris al Labbe[38]
+kiu, simila al vivanta diablo, je lia dekstra flanko svingegis la
+brakojn.
+
+--«Jes, pluvi, knabo, povas ĉi tie pluvegi dum kvin semajnoj, tiel same
+kiel hejme, sen ĉeso, kaj tiam ni povas nin etendi en la tendo kaj
+konsumi nian tutan monon. La vetero estas bona, knabo, iom akra sed kun
+la tempo vi certe kutimos je ĝi».
+
+--«Pluvi, ho, se pluvus nur unu tagon!» deziris Rik, «mi ne scias kiom
+multe mi donus por unu guto da akvo el la ĉielo aŭ fragmento da nubo
+antaŭ la suno».
+
+Sed la brulegantaj radioj akre kriegis kiel insultkria turmentado.
+
+La junulo tamen estis konsolita de Labbe kaj li ekhavis novan kuraĝon
+ĉar li esperis ke, post iom da tempo, li hardiĝos kontraŭ tiu suferego
+de l' varmo kaj ke li povos facile laboradi kiel la aliaj rikoltistoj.
+
+Lida, la hejmo kaj lia tuta amo, ĉio jam estis ennebuliĝinta, duone
+droninta en netuŝebla malproksima pasinteco; li jam ne trovis ian
+momenton aŭ plezuron por pripensi tiajn objektojn; la tagoj estis ne
+nur varmaj kaj lacigaj sed tiel ege longaj: la tutan tagon ili devis
+labori kaj, post kelka tempo, li fariĝis tiel lacega kaj lamigita ke li
+ekmiris ke la kruroj sub lia korpo ne malfirmiĝis; li estis turmentata
+de grandega dormodeziro kaj jam petis nenion alian ol ripozon; krom tio
+ĉio montriĝis vana kaj senracia: dormi, dormi, dormadi! fariĝis lia
+sola deziro. «Metu min ien sub arbo aŭ sur la sterkamason, por ke mi
+mortu, sed ripozi, ho ripozadi mi povu!» li pensis, sed nenion diris,
+ĉar li volis, kiel la aliaj, montri sin forta.
+
+--«Ĉu la suno nun jam dancis?» li demandis Wies'on. Ŝajnis al li neeble
+ke pli varme fariĝos. Eĉ nokte ili ne trovis plu la sanigan freŝecon;
+neniu guto da akvo falis plu el la polvoplena aero. Estis kvazaŭ tempo
+sen tagoj: longa daŭro de brulega sunbrilado sen vespero aŭ matendolĉo.
+La mallumo kaj la steloj, kiuj antaŭe tiel bone povis estingi la
+varmegfajron, nun sulfuriĝis kaj la ĉielo malfermiĝis kaj refermiĝis,
+ŝirita de timigaj fulmosagoj. Antaŭ la tago kaj la lumo, ree alvenis
+la nova varmo, kiu nenie trovis venton aŭ truon por esti forblovita kaj
+ĉiam amasiĝis, kiel en hejtata forno. Kiam alvenos liberigo aŭ freŝeco?
+aŭ ĉu ni ĉiuj bruliĝos ĉi tie, Dio mia? Kaj nenie ia ĉeso aŭ fino; ili
+restis ĉiam enŝlositaj per tiu terura ĉirkaŭbarilo de l' greno: ŝajnis
+ke ĝi senĉese el la tero kreskadis, dum ili antaŭ si ĝin deĵetis.
+
+Neniu rikoltisto ankoraŭ parolis aŭ rakontis dum la laborado: ili
+timis tiun potencan supran malamikon kaj mute daŭrigis labori, dum ili
+timante atendis ĝis unu el tiuj radioj alportos la morton.
+
+Rik sentis, ĉi tiun tagon, ke li malsaniĝis kaj ke granda malforto lin
+subpremis. Vespere, li malrapide sekvis la grupon al la pajla tendo kaj
+tie falis senforta sur sian liton.
+
+--«Mi povu longe restadi ĉi tie ne vidante denove la tagan lumon», li
+deziris.
+
+Tiuj malmultaj horoj estis por li tiel strangaj: li ne sciis plu ĉu lia
+estado estis dormo aŭ maldormo. Li loĝis denove en sia vilaĝo sed ne
+kuraĝis tion kredi.
+
+Mirinde: tie, apud la tilio, li estis atendanta Lida'n. Li vidis ŝin
+alvenantan en la blanka, hela sunlumo kaj rimarkis tiel klare la
+kliniĝon de ŝia talio kaj la moviĝadon de ŝiaj vestaĵoj dum la marŝo.
+Majeste blovis ĉi tie la vento tra la nova printempo; estis saniga
+freŝeco en la ombro sub la verdaj folioj.
+
+Vento kaj ombro! ĉu de longe ĉio tio ne neniiĝis? Lida staris kaj
+ekzamenis lin per siaj mirinde profundaj okuloj, demandantaj lin kion
+li estas dironta. Ŝi ne estis plu tiu Lida, la kaprica knabino, kiu
+kelkfoje lin malhumile alrigardis, sed la bona aldonita fratino, kiu
+konsentis doni al li ĉion kion li deziris, Lida kiu lin amis ekstreme
+kaj, dum lia tuta vivo, estis lin intime koninta. Li serĉis apogon sur
+ŝi kaj ĉirkaŭprenis per sia brako tiun gracian talion. Tie ili nun
+staris, vizaĝo ĉe vizaĝo, tiel ke li sentis ŝian frunton kiu premis
+lian. Ŝiaj du manoj tenis liajn ŝultrojn kaj li fermis la okulojn, ĉar
+li ne povis elporti nek sorbi ŝian fortan rigardon nek ĝian bonecon.
+Sento de amemo freŝigis lian internaĵon: estis la multekosta plengorĝo
+da akvo--kiel freŝa!--post tiu longa soifiga tago.
+
+--«Lida, Lida, kiel bona por mi vi estas! dum tiu varmega somero, mi
+estis sufokiĝanta for de vi».
+
+Nun, kiam li estis satigita, li malfermis la brakojn kaj ŝi murmuris ĉe
+lia orelo:
+
+--«Rik, kial de longe vi ne diris al mi ke vi suferis pro soifo: mi
+atendis por trinkigi vin».
+
+Tie ili ambaŭ sidis kune sur la benko. Lida sin klinis posten kaj
+krucigis la manojn sur sia levigita genuo, kiu ĉarme montriĝis sub la
+faldoj de ŝia vestaĵo. Tie ili estis tute solaj; someris ekstere sed
+ĉi tie pendis la saniga someraero kaj ili sentis la certiĝon, ke neniu
+ĝenus ilin dum ilia kunestado.
+
+--«Tio treege plaĉas al mi» pensis Rik, «kaj ni longatempe restados ĉi
+tie».
+
+Multefoje li aŭdis, el la malproksimo, la voĉon de Wies kiu lin
+alvokis, sed:
+
+--«Ni lasos lin krii kaj ni ne aŭskultos lin, ĉu ne, Lida?»
+
+Lida jesis kaj nun li vidis ŝiajn belajn okulojn, plenajn je sufero.
+
+Li frotis la restantan dormodeziron kaj tutan la feliĉon el siaj okuloj
+kaj, anstataŭ Lida, Wies staris antaŭ li, lin skuante kaj kriante:
+
+--«Nu, knabo! la kamaradoj jam de longe ekiris al la kampo».
+
+Dum la unua momento de ektimiĝo, li preferus esti mortinta por povi
+vivadi en sia sonĝa mondo. Tamen li volonte akompanis kaj sekvis
+Wies'on. Senĉese li sentis en sia korpo la sanigon kaj freŝecon de
+tiu granda feliĉo, kaj esperis ke hodiaŭ li elportos pli facile la
+varmegon, ĉar li certiĝis pri la granda aldoniteco de Lida al li.
+
+--«Ĉu vi restis por atendi la sunon?» mokis Sieper[39].
+
+Rik diris nenion; li kaptis rapide sian rikoltilon kaj kuraĝe ekfrapis
+por kompensi la malfruon.
+
+--«Vidu, tie ĝi ekmontras sin», diris Boele, «ĝi brilis tiel ruĝe ĉi
+tiun matenon; ĝi dancos hodiaŭ; fortaj fariĝu, viroj! ĝi portas sian
+oreborderitan kufon, vidu ĝin!»
+
+Flamsimile blanka estis la aero kaj tie, inter la ondefluanta herbaro,
+ekbrilis duona suno, ĉirkaŭita de pura ora hararo. Kaj ĝi rapide kaj
+videble kreskis, ĝi tute eniris la malplenan ĉielon kaj plenigis ĝin
+per akraj sagoj.
+
+--«Nun certe fariĝos gajige», kriis Sneyer. «Mi kontraŭ la suno! unu
+kontraŭ unu; vespere ni vidos kiu gajnis kaj meritis premion; lasu ĝin
+premadi: ni des pli forte frapados!»
+
+Kaj la suno fortege ekpremis, sed la rikoltistoj ne malfortiĝis. Ili
+sentis ĝin piki tra la malpezaj, larĝaj vestaĵoj kaj mordi iliajn
+kapojn, sed tamen ili kontraŭstaris; ili klinis la kapon kaj la
+rikoltilo, supren kaj malsupren ĵetita, ĉe ĉiu frapo fulmebrilis.
+Kun la kreskanta varmego eniĝis furiozeco en iliajn brakojn, kaj ili
+streĉis la membrojn. Ankoraŭ pli malalte ili kliniĝis al la tero,
+kunpremis la dentojn kaj lasis la ŝviton libere deflui. Unu fojon Rik
+kuraĝis levi la kapon sed li ektimegis pro tio kion vidis liaj okuloj.
+La suno estis ne plu la mordanta ronda fajrbulo ĉe ia punkto de la
+ĉielo sed la tuta granda ĉielkupolo estis flamanta: nenio alia ol ĉielo
+kaj fajro! Ne pluvis varmego: estis rekte desegnitaj flamoj kiuj, en la
+alto, moviĝis kaj malsupreniris por ludi inter la greno, ĉirkaŭ kaj
+apud li kaj super la tuta tondita kampo.
+
+La viroj, Sieper kaj Boele kaj la aliaj, ĉie kien li rigardis sur la
+tuta vico, ili frapis laboreme kaj kriis sian kanton per raŭka gorĝo.
+Ilia ilo batis timeginde, ili naĝis en sia ŝvito, sed la brakoj des pli
+rapide balanciĝis, dum la flamoj ĉirkaŭprenis ilian korpon.
+
+--«Nun dancas la suno», pensis Rik, «kio mi nun fariĝos?!»
+
+Forta vento alvenis kaj disĵetis tiujn flamojn: ili bukliĝis kaj
+treniĝante turniĝis supren! alte eksplodantaj en akrajn fulmosagojn,
+fortaj kiel festa fajro.
+
+Li profunde kaŝis la kapon en la grenon kiu, kiel mirinde! tie en la
+flamoj netuŝite balanciĝadis.--Li eĉ ne sciis plu ĉu li ankoraŭ laboris
+aŭ ĉu de longe li deĵetita ripozadis. La kanto de l' viroj ĉiam terure
+sonadis kaj, kiam li ree ĉirkaŭrigardis, li vidis ilin laborantajn,
+senvestiĝintajn, kun nudaj kruroj kiuj alte dancadis laŭ la takto de l'
+rikoltilo. Ĉio ŝajne movetiĝis ĉirkaŭ li, ekmovita de l' potenca vento
+kun ĝiaj, kelkfoje, tremebruantaj batoj. Tiu kruromoviĝado kaj kantado
+fariĝis tiel sensaĝaj, tiel mirindaj en tiu terurega brulado, kiu
+per akrekrieganta fulmolumo surŝutis la tutan mondon. Li provis voki
+al Wies, al Boele, al Krauwel por esti helpata kaj kuraĝigata en sia
+timego, sed la kunuloj staris malproksime je mejloj de li kaj ne aŭdis
+lian voĉon. La tero formoviĝis de liaj piedoj kaj liaj oreloj rompiĝis
+pro timinda bruego. Jen estis la granda sunofesto, la somerdancado,
+la interfrapego de l' mondo kaj de l' suno kiu, tie proksimege
+ĉirkaŭflamigis la grenon.
+
+Rik sentis ke ĉio tuj finiĝos en lia vivo; fajrosago ekfrapegis lin
+kaj, fulmotuŝite, li falis posten--tiam, nenio plu.
+
+  _Tradukis_
+  Maurice Seynaeve.
+
+(Uit «De Oogst».)
+
+Piednoto [32] Skeldo = riverego; flandre = Schelde, france = Escaut.
+
+Piednoto [33] Elparolu: Ŭis.
+
+Piednoto [34] Elparolu: Kraŭèl.
+
+Piednoto [35] Elparolu: Bulè.
+
+Piednoto [36] Elp.: Kretsè, Snejèr.
+
+Piednoto [37] Trinkejo.
+
+Piednoto [38] Elp. Labè.
+
+Piednoto [39] Elp.: Sipèr.
+
+
+
+
+RENÉ DE CLERCQ.
+
+1877.
+
+
+Juna poeto kies jam eldonitaj verkoj pravigas gravan esperon por
+la estonteco. Li plej bone priskribas la kamparajn vidaĵojn kaj la
+kamparanan vivadon. Lia stilo, iafoje iom triviala, same bonege sin
+almezuras al ideala sentado kaj popola dirado aŭ farado. Li tamen kun
+speciala lerteco verkas popolajn ĉu energiajn kamparanajn ĉu ĉarmajn
+knabinajn kantojn. Li nune ĝuas grandan sukceson en sia lando.
+
+Jen du fragmentoj el unu el liaj lastaj kaj plej rimarkindaj verkoj:
+«La Linkampo» (_De Vlasgaard_).
+
+  * * * * * * *
+
+  Vespero fluas kiel beno
+              Sur arbojn kaj herbejojn,
+  Kaj ĉiuj vojoj konfuziĝas
+              Kun kampoj samkoloraj.
+
+  Alvenas griza malproksimo
+              Kviete, pace, dolĉe;
+  En dubebluan foliaron
+              Eniĝas noktopaco.
+
+  Ĉielo teron ĉirkaŭprenis
+              Karese kaj senbrue,
+  Kaj kun volupto ŝin kisadas,
+              Silenta en soleco.
+
+  * * * * * * *
+
+  La lino estas floranta
+              Verde kaj blue,
+  Venteto ĉirkaŭfluganta
+              Ame, senbrue.
+
+  Trunketoj lerte altigas
+              Molajn pintetojn,
+  Maldekstren, dekstren kurbigas
+              Siajn kapetojn;
+
+  Sensaĝaj kaj malhumilaj
+              Pro la flagetoj,
+  Al blua silko similaj
+              Sur verd-ŝtipetoj!
+
+  Abelo tie mordetas.....
+              Vidu do tien:
+  Insekto blanka saltetas
+              Nun for, nun reen!
+
+  Ĝis kie tiu bluaĵo,
+              Kiu verdiĝas,
+  Al grena cindra-grizaĵo
+              Vage perdiĝas,
+
+  Ĝis la okulo vidadas
+              Plilarĝiĝante,
+  La lino ĉie floradas
+              Balanciĝante.
+
+  _Tradukis_
+  Maurice Seynaeve.
+
+
+
+
+HERMAN BROECKAERT.
+
+1878.
+
+
+Juna pentristo el Derdermond'o; kiel li poete pentras per peniko, tiel
+ankaŭ li pentras per la plumo la kampajn aŭ vilaĝajn scenojn en kies
+mezo li vivas.
+
+
+Pluvetado.
+
+(Stille regen).
+
+  Longan straton de l' vilaĝo pluvnebulo kovras
+  Dum bruete elgutadas el ĉiuj defluiloj.
+  Gutoj de l' tegmentoj ĉie saltas en lagetojn:
+  Soldatetoj en vicaro ĝoje forrajdantaj.
+          Pluvetadas, kaj la domoj
+          Ĉiam restas nun fermitaj.
+          Malproksime grincas orgeneto:
+          Ĝi postulas monereton
+          Kaj peceton por maljuna
+          Kaj malriĉa mizerulo.
+          Ĉirkaŭ preĝejeto paŝas
+          Virineto kurbiĝanta.
+  Mallaŭtete eksonoras vespersonorilo,
+      La preĝeja pordo malfermiĝas...
+
+  _Tradukis_
+  Raym. Van Melckebeke.
+
+
+
+
+ĈEFAJ REGULOJ DE LA ESPERANTA VERSOFARADO.
+
+
+La ritmon oni ricevas en Esperanto per la harmonia alternado de silaboj
+akcentitaj kaj neakcentitaj, kunigitaj en «_piedojn_».
+
+La kuniĝo de unu silabo akcentita (ˉ) kun unu aŭ kelkaj silaboj
+neakcentitaj (˘) estas nomata «piedo».
+
+La plej uzataj piedoj estas: troĥeo ˉ ˘, iambo ˘ ˉ, daktilo ˉ ˘ ˘,
+amfibraĥo ˘ ˉ ˘, anapesto ˘ ˘ ˉ.
+
+
+Versaĵo povas esti skribita aŭ per piedoj unuspecaj (ĉiuj piedoj estas
+samspecaj) aŭ per piedoj miksitaj (la piedoj estas diversaspecaj): ĉi
+tie sennombraj kombinoj estas eblaj.
+
+La antaŭlasta silabo de la vortoj estas ĉiam akcentita: Ekz.: vo̅rto,
+paro̅l'.
+
+Estas ĉiam neakcentitaj la silaboj kiuj kuŝas antaŭ aŭ post akcentita
+silabo. Ekz.: ărba̅rŏ.
+
+En vortoj havantaj pli ol 3 silabojn, la silaboj (krom la 3 lastaj)
+estas akcentataj laŭvole; sed ĉiam staras la ĝenerala regulo:
+ke ne povas esti akcentitaj la silaboj kiuj kuŝas antaŭ aŭ post
+akcentita silabo. Ekz.: oni povas uzi: so̅nŏri̅lŏ kaj sŏnŏri̅lŏ.
+
+La unusilabaj vortoj estas akcentataj aŭ neakcentataj laŭvole.
+
+Kiam unusilaba vorto antaŭiras dusilaban, la akcento de la dusilaba
+vorto povas esti forportata sur la unusilaban vorton. Ekz.:
+
+  Fŏr, fo̅r lĭă sce̅ptro kăj tro̅nŏ.....
+  Ăl vi̅ mĭă so̅lĕ ăma̅tă.
+
+  (D-ro Zamenhof--En sonĝo).
+
+Tiu ĉi lasta regulo, laŭ nia opinio, devas esti rigardata kiel poezia
+permeso, kiun oni devas uzi kiel eble plej malofte kaj nur kiam la
+senco de la frazo aljuĝas gravan signifon al la unusilaba vorto.
+
+_Ekzemploj._
+
+a/ Versaĵo unuspeca: nur troĥeoj (ˉ ˘); ĉiuj versoj estas similaj:
+
+  Ma̅rŏ, ma̅rŏ ne̅ brŭe̅găs
+  Ti̅ĕl fo̅rtĕ ki̅ĕl a̅rbŏj
+  Ki̅ăm ve̅ntŏj fu̅rĭo̅zĕ
+  Ka̅j sĕnbri̅dĕ tra̅răjde̅găs!
+
+  (Paĝoj el fl. literat.; paĝo 72).
+
+b/ Versaĵo mikspieda: 2 daktiloj (ˉ ˘ ˘) kaj 1 troĥeo (ˉ ˘).
+Ĉiuj versoj estas similaj:
+
+  Vi̅ntrŏmŭŝe̅tŏj flĭrta̅dăs
+  I̅ntĕrmĭksi̅tăj kăj bla̅nkăj
+  Ki̅ĕl mŭe̅lă făru̅nŏ, k. c. k. c.
+
+  (Paĝoj el fl. literat.; paĝo 73).
+
+c/ Versaĵo mikspieda kun versoj regule malsimilaj: estas similaj la
+versoj 1 + 3 (: 1 amfibraĥo ˘ ˉ ˘, 1 daktilo ˉ ˘ ˘ kaj 1 troĥeo ˉ ˘)
+kaj la versoj 2 + 4 (: 1 daktilo kaj 1 troĥeo).
+
+  Lă li̅nŏ e̅stăs flŏra̅ntă
+     Ve̅rdĕ kăj blu̅ĕ,
+  Vĕnte̅tŏ ĉi̅rkaŭ̆flŭga̅ntă
+     A̅mĕ, sĕnbru̅ĕ.
+
+  (Paĝoj el fl. literat.; paĝo 129).
+
+K. c., k. c.[40].
+
+Piednoto [40] Tiuj ĉi reguloj estas ĉerpitaj el la verkoj de D-ro
+Zamenhof; ankaŭ el la regularo proponita de S-ro Vaillant en
+«Elektitaj Fabloj de Lafontaine».
+
+
+
+
+TABELO DE LA ENHAVO.
+
+
+                                                     Paĝo
+Antaŭparolo                                            5
+
+Rapida ĉirkaŭrigardo de la Nederlanda Literaturo
+  en Flandro, W. Van Eeckhout                          7
+
+J.-B. David (1801-1866).
+  Duko Filipo kaj la drinkulo, R. Van Melckebeke      11
+
+K. Ledeganck (1805-1847).
+  Al Bruĝo, M. Seynaeve                               19
+
+H. Conscience (1812-1883).
+  La letero al la rekruto, R. Van Melckebeke          27
+  En vilaĝa tombejo, R. Van Melckebeke                36
+  La mortigo de Van Artevelde, E. Lucas               39
+
+R. Snieders (1812-1888).
+  La Bruselaj veturigistoj, R. Van Melckebeke         44
+
+Jan Van Ryswyck (1814-1869).
+  Johano Senpatrujo, W. Van der Biest                 48
+
+Jan Van Beers (1821-1889).
+  La malsana junulo, R. Van Melckebeke                54
+  La merlonesto, W. Van der Biest                     58
+
+Guido Gezelle (1830-1899).
+  El «Tombejaj Floroj», M. Seynaeve                   63
+  La skribisteto, M. Seynaeve                         67
+  Birdoj, forflugu! M. Seynaeve                       68
+  Unuaj folioj, M. Seynaeve                           70
+  La ventoj, M. Seynaeve                              72
+  Vintromuŝetoj, M. Seynaeve                          73
+
+F. De Cort (1834-1878).
+  La maljuna kantistino, M. Seynaeve                  75
+
+Tony Bergmann (1835-1874).
+  La unuaj klientoj, A. Van der Biest                 77
+
+R. Loveling (1834-1875).
+  La donaco, R. Van Melckebeke                        84
+  La orfa knabo, M. Seynaeve                          86
+
+V. Loveling (1836).
+  La portreto de l' avino, R. Van Melckebeke          87
+  La tutkora donaco, A. Cassiers                      88
+
+G. Antheunis (1840).
+  Apud la lulilo, M. Seynaeve                         92
+  La neĝo, M. Seynaeve                                94
+
+E. Van Oye (1840).
+  Sekreta vivado, M. Seynaeve                         96
+  El «Noktoj Senstelaj», M. Seynaeve                  98
+
+Hugo Verriest (1840).
+  Vagantaj ombrorandoj, J. Goorieckx                  99
+
+A. Rodenbach (1856-1880).
+  Fantazio, L. Cogen                                 105
+  Ho, nokto! L. Cogen                                107
+  La lasta ventego, L. Cogen                         108
+
+Pol de Mont (1857).
+  Krepusko, M. Seynaeve                              109
+  Neĝa tago, M. Seynaeve                             110
+
+Hilda Ram (1858-1901).
+  La grenmakleristo, O. Van Schoor                   111
+  Sankta Nikolao, R. Van Melckebeke                  114
+
+J. Noterdaeme (1862).
+  Kion vi deziras, M. Seynaeve                       116
+
+Stijn Streuvels (1871).
+  Fragmentoj el «La Rikolto», M. Seynaeve            118
+
+R. De Clercq (1877).
+  Fragmentoj el «La Linkampo», M. Seynaeve           129
+
+H. Broeckaert (1878).
+  Pluvetado, R. Van Melckebeke                       131
+
+_Aldono pri la Esperanta Versofarado._
+
+
+
+
+Noto de transskribinto:
+
+Diversajn mispresaĵojn de la originalo mi senrimarke ĝustigis.
+
+
+
+
+
+End of the Project Gutenberg EBook of Paghoj el la Flandra Literaturo, by 
+Maurice Seynaeve
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PAGHOJ EL LA FLANDRA LITERATURO ***
+
+***** This file should be named 48033-0.txt or 48033-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/8/0/3/48033/
+
+Produced by Andrew Sly, Brenda Lewis and the Online
+Distributed Proofreading Team at http://www.pgdp.net.
+Thanks to the Esperanto-Fondajho Cesar Vanbiervliet for
+providing the original book.
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

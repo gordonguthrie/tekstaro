@@ -1,0 +1,6678 @@
+﻿The Project Gutenberg EBook of Verkaro de V. N. Devjatnin, Libro Unua, by 
+Vasilij N. Devjatnin
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Verkaro de V. N. Devjatnin, Libro Unua
+
+Author: Vasilij N. Devjatnin
+
+Release Date: July 14, 2016 [EBook #52577]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK VERKARO DE V. N. DEVJATNIN ***
+
+
+
+
+Produced by Andrew Sly, Brenda Lewis and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+  VERKARO
+  DE
+  V. N. DEVJATNIN
+
+(RUSA ESPERANTISTO)
+
+LIBRO UNUA
+
+  PARIS
+  LIBRAIRIE HACHETTE ET Cie
+  79, BOULEVARD SAINT-GERMAIN, 79
+
+1906
+
+Tous droits réservés.
+
+
+
+
+ANTAŬPAROLO DE AŬTORO
+
+
+En unu feliĉa Maja tago de 1892a jaro mi iris sur «Granda» strato
+de Vilno kaj tute okaze ekvidis en fenestro de unu librovendejo tre
+modestan malgrandan libreton sub titolo «lernolibro de lingvo
+internacia «Esperanto». Ankoraŭ pli frue mi sciis pri ekzistado de
+lingvo internacia (?) «Volapük», kiu estis senfine malfacila por
+ellernado,--tial mi estis interesigita je nova provo de artefarita
+lingvo internacia, kaj aĉetis tiun-ĉi libreton, kiu kostis nur 10
+kop.--Libreto estis skribita ruse, ĉar aŭtoro difinis ĝin escepte
+por rusoj. Traleginte tre atente malgrandetan lernolibron, mi estis
+tute frapita per simpleco kaj komprenebleco de ĝia enhavo, kaj tuj
+mem komencis ellernadi novan lingvon internacian. Post kelkaj
+tagoj mi jam sufiĉe bone konatiĝis kun «Esperanto», tiom bone,
+ke mi jam povis skribi al ĝia genia aŭtoro leteron, kiun li
+baldaŭ respondis, kaj inter ni de tiu tempo komenciĝis tre viva
+korespondado. Poste S-ro Zamenhof elsendis al mi plenan vortaron
+ruse-esperantan, «Duan libron», gazeton «Esperantisto» (ĝi
+eliradis en Nurenbergo) kaj ankoraŭ kelkajn libretojn esperantajn.
+(Literaturo esperanta tiam estis ankoraŭ tre malriĉa!) Ankoraŭ
+post kelka tempo mi estis enskribita en nombron de esperantistoj
+(en «adresaro» de D-ro Zamenhof), kaj de tiam mi komencis tre
+fervore laboradi pro nia karega lingvo. Tiun-ĉi laboradon multe
+helpis mia konatiĝo--proksimume en tiu sama tempo--kun kelkaj
+esperantistoj, kiuj loĝis tiam en Vilno; unuaj samideanoj, kiujn
+mi ekkonis, estis sinjoroj Lojko, Nauman kaj Zambrĵickij, kiuj
+konatiĝis kun Esperanto iom pli frue, ol mi. (S-ro Lojko estis iam
+varmega Volapükisto kaj eĉ havis de ĝia aŭtoro ian diplomon, por
+kiu li pagis, ŝajnas al mi, 15. rublojn!). Kune kun tiuj-ĉi miaj
+unuaj amikoj--esperantistoj ni laboradis pro utilo de nia sankta
+afero sufiĉe fruktoporte kaj varbis kelkajn novajn adeptojn de
+Esperanto. Dank' al senĉesa influo de tiuj-ĉi miaj amikoj, mi estis
+en tiu tempo plej laborema kaj, krom propagando de Esperanto,
+mi komencis mian verkadon: plej frue mi tradukadis rakontojn
+de grafo Tolstoj (unuaj estis: «Per kio homoj estas vivaj» kaj
+«Du maljunuloj»), poste mi provis poezion, kaj en Junio de 1892a
+jaro tradukis unuan versaĵan--«Anĝelo» (el Lermontov), kiu estis
+presita en n-o 9a de «Esperantisto» por 1892 j.; tio-ĉi estis mia
+unua provo, kiu, afable akceptita de nia estimata majstro, estis
+komenco de tuta mia postea verkado.
+
+Proksimume en tiu sama tempo mi konatiĝis per korespondado kun
+S-ro Grabovskij, kun fraŭlino Manjkovskaja (ĉu ŝi memoras
+ankoraŭ tiun someron, kiam ŝi gastadis ĉe mi en Gedrojci?), kun
+D-ro Ostrovskij, kun S-ro L. de Beaufront, L. Lemaire kaj kun
+multaj aliaj geesperantistoj rusaj kaj alilandaj (el tiuj-ĉi
+lastaj mi aparte longe korespondadis kun S-ro Riĉard Geoghegan
+el «Ist Zound de nord-amerikaj unuigitaj ŝtatoj», kiu eĉ
+ellernadis lingvon rusan). Ĉiuj tiuj-ĉi amikoj miaj ankaŭ bone min
+influis,--kaj mi tradukadis kaj verkadis senhalte: unu post alia
+aperis miaj originalaj kaj tradukitaj verkoj: «Ludilo de Sorto»,
+«Nevola mortiginto», «Demono», «Boris Godunow», «Arturo»,
+«Edziĝo» kaj multe da diversaj malgrandaj versaĵoj...
+
+Sed post granda bruado ĉiam venas silento,--tiel same fariĝis
+ankaŭ kun mi: ĉiuj miaj amikoj forveturis el Vilno en diversajn
+lokojn de nia Grandega Rusujo, mi mem, laŭ volo de sorto, estis
+transmetita ian sovaĝan vilaĝon, kie preskaŭ tute forestis eĉ ia
+similaĵo je civilizita homaro, kaj mi restis tute sola; mia familio
+pligrandiĝis, miaj infanoj jam bezonis edukadon, kaj mi devis
+pli multe pensi pri miaj devoj familiaj kaj servaj, ol pri
+Esperanto,--tial mi preskaŭ tute forlasis mian laboradon sur kampo
+de nia kara afero, aliaj interesoj de vivo min okupis, iom post iom
+mi komencis tute nerimarkeble forgesadi eĉ pri ekzistado mem de
+lingvo Esperanto, kaj, fine, mi preskaŭ tute ekdormis...
+
+El tiuj-ĉi teruraj brakoj de bruta dormado min elŝiris mia malnova
+amiko-esperantisto D-ro A. G. Naŭman: per sia laŭta, kuraĝa kaj
+bonfavora voĉo li vekigis min kaj igis ree laboradi!... Tielan
+efektive amikan agon oni neniam forgesas!... Kaj jen mi vekiĝis,
+renaskiĝis por Esperanto,--kaj nun mi volas ree labori, ree batali
+kaj aŭ venki aŭ morti kun batalilo en manoj, por ke oni min pardonu
+por mia kontraŭvola perfido je nia sankta afero!...
+
+Por komenco mi decidis eldoni unuan libron de mia plena verkaro, en
+kiu mi lokigas preskaŭ trionon da tio, kion mi skribis esperante en
+daŭro de lastaj 13 jaroj.
+
+Eldonon de mia plena verkaro afable prenis sur sin estimata Pariza
+firmo «Hachette et Cie», kiun mi korege dankas por tio-ĉi, ĉar
+alie, dank' al multaj malfacilaj cirkonstancoj, mondo esperantista
+neniam ekvidus miajn verkojn.
+
+Post kelka tempo, se nur nenio min malhelpos, mi intencas eldoni duan
+libron, en kiu multaj el miaj malnovaj amikoj inter aliaj trovos
+kelkajn konatajn por ili verkojn.
+
+Kun komprenebla sento de timemo mi prezentas nun al juĝo de tutmonda
+esperantistaro unuan libron de mia plena verkaro: ĝi ja estas unua
+provo en tiu-ĉi direkto, ĝis nun en nia ankoraŭ juna literaturo
+esperanta forestis tielaj kolektoj,--kaj mi deziras el tuta mia koro,
+ke tiu-ĉi mia laboro estu feliĉa komenco (_nur komenco!_), ke aliaj
+geesperantistoj sekvu min kaj en plej mallonga tempo riĉigu nian
+junan literaturon, por ke ni ĉiuj povu diri, ke nia kara Esperanto
+havas propran literaturon eĉ pli grandan, ol ia nacia lingvo...
+Donu, Dio, ke tiu-ĉi deziro plej baldaŭ efektiviĝu!
+
+Oni min kritiku, oni min insultu, aŭ laŭdu,--por mi persone ĝi
+estas tute egala: komenco estas farita, kaj mi el tuta mia animo
+invitas ĉiujn geesperantistojn sekvi mian ekzemplon! Ni laboru kaj
+esperu! Vivu nia karega Esperanto kaj ĝia genia kreinto!...
+
+V. Devjatnin.
+
+
+
+
+VERKARO
+
+
+
+
+VERSAĴOJ
+
+
+1. ESPERO
+
+(El Ŝiller.)
+
+  Tre multe homar' kun espero en koro
+    Pri vivo estonta revadas,
+  Kaj ĉiam al celo feliĉa kaj ora
+    Aliri ĝi baldaŭ voladas.
+  Jen mondo ekvelkas, jen ree disfloras,--
+  Sed homo esperon senĉese odoras.
+
+  Espero kun ni senaparte vivadas:
+    Ĝi knabon dorlotas, junulon
+  Per sorĉa radio ĝi gaje logadas,
+    Konsolas ĉe tomb' maljunulon:
+  Li, trolacigita per vojo de tero,
+  Foriras en tombon kun dolĉa espero.
+
+  Ho, ne! ĝi ne estas elpenso malvera,
+    Per revoj malsaĝaj naskita!
+  Ni scias, ni sentas kun kredo sincera,
+    Ke estos esper' plenumita.
+  Kaj tiu-ĉi sento ĉu estas kapabla
+  Nin trompi en nia revaĵo agrabla?
+
+
+2. KVAR JARTEMPOJ
+
+I.
+  Ridetas gajege kaj hele naturo:
+  Ĝin vestas smeralda verdaĵo,
+  Ĉirkaŭe vidiĝas de vivo plezuro
+  Kaj ĝojo en ĉiu kreskaĵo.
+
+  Kaj suno favore, amike etendas
+  Al ĉio brilantan radion,
+  Al ĉio feliĉon, konsolon ĝi sendas,
+  Vivigas, varmigas ĝi ĉion.
+
+II.
+  Naturo jam estas en luksa disfloro,
+  Je vivo matura pleniĝas,
+  Kaj suno simila je globo de oro
+  En blua ĉielo ruliĝas.
+
+  Sed ĝi tro varmege bruligas aeron:
+  Arbaroj jam pluvon avidas,
+  Kaj herbo flaviĝas kaj falas sur teron,
+  De suno sin kaŝi rapidas...
+
+III.
+  Ĉesiĝis jam tute varmego somera,
+  Naturo malgaje forfloras,--
+  Kaj ofte en sia malĝojo sincera
+  Per pluvo senhalta ĝi ploras!
+
+  Nur vento ribela, trapike fajfante,
+  Ŝancelas foliojn kun bruo,
+  Kaj ilin forpelas, de arboj ŝirante...
+  Ĉagreno, sopiro, enuo!...
+
+IV.
+  Blankiĝas naturo, en neĝo vestita,
+  Kaj kiel arĝento ĝi brilas;
+  Per prujno lanuga kaj griza kovrita,
+  Ĝi je maljunulo similas.
+
+  Sed morto severa vidiĝas en ĉio,--
+  Ĝin forta eĉ frost' ne forigas...
+  Malvarmo, silento... Kaj suna radio
+  Nur lumas, sed jam ne vivigas!...
+
+
+3. ŜI ESTAS GAJA
+
+  Ŝi estas ankoraŭ malgranda infano,
+  Ŝin ĉiuj dorlotas kaj amas;
+  En ŝia vizaĝo, floranta per sano
+  Gajeco senzorga nur flamas.
+
+  Jen jaroj forpasas. Ŝi lukse disfloras,
+  Ŝin sorto renkontas afable;
+  Ŝi estas tre gaja, neniam ŝi ploras,
+  Kaj vivon pasigas agrable.
+
+  Rigardu: jen rajdas en cirka areno
+  Konata al vi belulino,--
+  Ŝi saltas, ŝi dancas sen deva konveno,
+  Ĉar estas ŝi gaja fraŭlino!
+
+  Kaj ĉiuj laŭtege kriante ŝin laŭdas,
+  Je ŝia talio admiras,
+  Ŝin multe elvokas, senfine aplaŭdas,
+  Al ŝi ornamejon eniras...
+
+  Jen domo gajega. En ĝia salono
+  Belegaj virinoj promenas...
+  En tiun-ĉi domon pro vino kaj mono
+  Tre multaj fraŭlinoj alvenas...
+
+  Jen vidu: ekfalas sur molan kanapon,
+  En brakoj de iu sinjoro,
+  Belega fraŭlino... Jen levis ŝi kapon
+  Kaj ridas en bona humoro....
+
+  Ĉu vi ŝin ekkonis? Tre gaja fraŭlino!...
+  Pasie ŝin kisas sinjoro,
+  Karesas kaj donas pokalon da vino,--
+  Ŝi trinkas kaj... ridas el koro!...
+
+  Post tio forflugas apenaŭ nur jaro,
+  Kaj ŝin mi denove ekvidis,--
+  Sed kie? Sur kota drinkeja ŝtuparo
+  Ĝi staris malsobra kaj ridis....
+
+  Foriĝis jam ŝia beleco vizaĝa,
+  Nenio antaŭa jam restis...
+  Ŝi min ekrigardis kun vido malsaĝa
+  Kaj kvazaŭ kontenta ŝi estis.
+
+  «Vi eble per brando regali min volas?»
+  Demandis ŝi min arogante:
+  «Ĉar vidu... hodiaŭ... mi... iom petolas!...»
+  Kaj ŝi ŝanceliĝis ridante...
+
+  Kaj ĉiam ridanta, kaj ĉiam kontenta,
+  Vivanta pro mono kaj vino,
+  Senzorga, senhonta, sensaĝa, sensenta,--
+  Jen vivo de gaja virino!...
+
+
+4. MALLIBERULO
+
+  Ne besto sovaĝa, fermita en kaĝo,
+  De ĉeno fortika sin ŝiras,
+  Ne gaja birdeto, kaptita per reto,
+  Pri freŝa aero sopiras,--
+
+  De ĉeno sin ŝiras, senfine sopiras
+  Junulo tre bela, tre brava!...
+  Predikis li veron, justecon, liberon,
+  Kaj pensis, ke estas li prava....
+
+  Revanto ne vidis, ke ĉiuj nur ridis
+  Je lia parolo sovaĝa:
+  Sin amo inspiris, sed ĉiuj rediris,
+  Ke estas li homo malsaĝa!...
+
+  Li multe suferis, li multe esperis,
+  Li kredis, ke venos libero,--
+  Kaj ree kun flamo predikis pri amo,
+  Pri paco tutmonda, pri vero....
+
+  Ho, kia eraro! Neniam homaro
+  Resonos al voko predika:
+  Homaro--prudenta, kaj estas sensenta
+  Al voko malforta amika!
+
+  Sed li ne silentis: li pensis, li sentis,
+  Ke homoj lin fine komprenos,
+  Ke liaj amikoj al liaj predikoj
+  De ĉie kun ĝojo alvenos....
+
+  Kaj jen rezultato: li en kazemato
+  En ŝarĝaj katenoj nun sidas,
+  De ĉeno sin ŝiras, senfine sopiras,
+  Kaj vane liberon avidas.--
+
+
+5. PRINTEMPO
+
+  Printempo venas! Vivon donas
+  Al ĉio belulina veno:
+  Varmega suno jam proponas
+  Radiojn siajn, kaj mateno
+  Vizaĝon belan kun rideto
+  Al ĉiuj montras; jam de montoj
+  Kun bruo fluas rivereto,
+  Kaj detruataj estas pontoj....
+
+  Denove ĉio reviviĝas,
+  Kantadas venon de printempo....
+  Por mi nur daŭras, ne finiĝas
+  Malbona, malvarmega tempo!
+  Por mi forestas suna lumo,
+  Kaj de printempo bela veno
+  Nenion donas... Nur mallumo,
+  Mallumo sola kaj ĉagreno!...
+
+
+6. AL LABORISTO
+
+(El Foss.)
+
+  Ho, frato! Dum vi laboradi
+  Ankoraŭ povas sen ripozo,
+  Ne volu manon etendadi
+  Al bonaj homoj pro almozo.
+
+  Sed kiam de kruela sorto,
+  Ho, mia mizerega frato,
+  Foriĝas tuta via forto,--
+  Vi vin mortigu per malsato.
+
+
+7. INFANO DE ZORGO
+
+(El Gerder.)
+
+  Finiĝis varmega jam tago,
+  Kaj nokto agrabla fariĝis,
+  Sub ombra cipreso, ĉe lago
+  Diino de Zorgo sidiĝis.
+
+  El ruĝa argilo Diino
+  Malgaje figuron skulptadis,--
+  Kaj luno, de nokto reĝino,
+  De blua ĉiel' rigardadis.
+
+  Jen Zeŭso al bela Diino
+  Parolis kun dia favoro:
+  «Rakontu, malgaja knabino,
+  Pri via doloro en koro.»
+
+  «Ho, Zeŭso, Diino rediras:
+  Alportu al mi vi plezuron!
+  De vi mi nur solan deziras:
+  Vivigu vi mian figuron!»
+
+  --Volonte! Mi vin kontentigos:
+  Viviĝas figuro jam via!...
+  Sed tamen de nun mi devigos,
+  Ke estu eterne ĝi mia!--
+
+  «Ho, ne! Al li Zorgo parolas:
+  Figuron mi longe skulptadis,
+  Al vi mi ĝin cedi ne volas,
+  Ĉar ĝin mi por mi preparadis!
+
+  Por mi ĝin restigu!» korege
+  Ŝi Zeŭson potencan admonis.
+  --Ho, ne! mi ĝin amas varmege,
+  Al ĝi ĉar animon mi donis!--
+
+  «Pro kio disputon vi tenas?»
+  Subite la Ter' al li diras:
+  «Al mi ĝi sen dub' apartenas,
+  Ĉar tera en teron foriras!»
+
+  Kaj dioj disputis senfine,
+  Ĉar cedi neniu deziris
+  Figuron argilan,--sed fine
+  Al Kron' ili ĉiuj ekiris.
+
+  «Ĉar unu al dua ne volis
+  Figuron vi tiun-ĉi cedi,--»
+  Grizhara Saturn' elparolis:
+  «Vi kune ĝin povas posedi.»
+
+  «Aŭskultu-do, dioj: nur kiam
+  Ĝi mortos, anim' apartenos
+  Al Zeŭso potenca,--kaj tiam
+  Jam Ter' ĝian korpon alprenos.
+
+  Kaj vi, ho, de Zorgo Diino,
+  Ĝin povas posedi ĝis morto!...»
+  Mi pensas, ke tia difino
+  Similas al homa la sorto?...
+
+
+8. DEKTRIA NUMERO
+
+  Li estas krimulo!... Mallevis li kapon,
+  Pri vivo pasinta pensante,
+  Malsupren al brovoj surŝovis li ĉapon,
+  Kaj iras, per ĉenoj sonante....
+
+  Vi pensas, kredeble, ke estas li homo?
+  Ho, vane! ĝi estas malvero:
+  Li estas nur ia vivaĵo sen nomo,
+  Cifero, «dektria numero»...
+
+  Piedojn kaj manojn katenoj turmentas,
+  Animon plenigas doloro,
+  En korpo malsana malvarmon li sentas,
+  Sopiron grandegan en koro.
+
+  Li forte laciĝis, ripozi li volas,
+  Kaj jen li sidiĝas sur tero...
+  «He, vi!... sonas krio: vi ree petolas?!...
+  Vin levu, «dektria numero»!
+
+  Kaj ree li paŝas, per ĉenoj sonante,
+  Kaj ree sopiras sen fino,
+  Pri celo de sia vojaĝo pensante,
+  Pri domo, infanoj, edzino....
+
+  Rapide traflugas en lia memoro
+  Pentraĵoj de vivo mizera...
+  Kaj ree en korpon penetras doloro,
+  En koron--turmenta infera!...
+
+  En malliberejo malluma, malpura,
+  Senkulpe ŝlosita li estis,--
+  Kaj tie en stato malbona, terura
+  Kvin jarojn longegajn li restis!
+
+  Li jam humiliĝis al juĝo malvera,
+  Kaj nur liberiĝon avidis,--
+  Sed vane: subite lin sorto severa
+  Denove kruele jeridis...
+
+  En malliberejo fariĝis ribelo,--
+  Al ĝi ankaŭ lin oni igis...
+  Sed oni neniom aliris ol celo,
+  Por ĉiam nur sin pereigis....
+
+  Kaj jen rezultato!... Mallevis li kapon,
+  Pri vivo pasinta pensante,
+  Malsupren al brovoj surŝovis li ĉapon,
+  Kaj paŝas, per ĉenoj sonante.
+
+  Vi kredas sendube, ke estas li homo?
+  Ne kredu,--ĝi estas malvero:
+  Li estas nur ia vivaĵo sen nomo,
+  Cifero, «dektria numero»...
+
+
+9. HETMANO (suĵeto estas pruntita).
+
+(Poemo.)
+
+  En senviva arbaro vivas brava anaro
+  Da rabistoj kun sia hetmano.
+  Li, ankoraŭ junulo, estas glora bravulo
+  Kaj jam tenas potencon en mano.
+
+  Ĉiuj multe lin timas, lian saĝon estimas,
+  Lian vivon zorgeme prigardas,
+  Li-do estas severa, malkontenta, kolera,
+  Kaj rabistojn fiere rigardas.
+
+  En pasinta somero li kun muta kolero
+  Patran domon forlasis por ĉiam,
+  Kredi veron li ĉesis, sanktan Dion forgesis,
+  Kaj rabisto fariĝis de tiam.
+
+  Li el mondo forkuris kaj solene li ĵuris
+  Senkompate forvenĝi homaron,
+  Kaj kun tiu-ĉi ĵuro kruelega, terura,
+  Li foriris senvivan arbaron.
+
+  En arbaro sur fundo de kavego profunda
+  Lin okaze rabistoj renkontis:
+  Forkurinto mizera kun konfido sincera
+  Lian sorton al ili rakontis.
+
+  Lin rabistoj komprenis kaj tuj mem lin alprenis,
+  Kiel membron de bando ilia,
+  Sed tre baldaŭ bandano mem fariĝis hetmano,
+  Komandanto de aro malpia.
+
+  Li, kruela, kuraĝa, kvazaŭ besto sovaĝa,
+  Al pasantoj kuradis renkonte,
+  Kaj, kaptante oferon, ĝin ĵetadis sur teron
+  Senkompate, senkore, senhonte.
+
+  Eĉ rabistoj malvarmaj iafoje kun larmoj
+  Kruelecon hetmanan rigardis,
+  Sed, ĉe vido de brilo sur lakita tranĉilo,
+  Ion diri al estro sin gardis.
+
+  Foje unu bandano pri senkulpa infano
+  Senkompatan hetmanon ekpetis,
+  Sed per propra lin mano tuj mortigis hetmano
+  Kaj al hundoj por manĝo forĵetis...
+
+  Lin jam serĉis polico, kaj kun lerta malico,
+  Grandan monon promesis al tiu,
+  Kiu vivan lin trovos, aŭ mortigi nur povos,
+  Sed lin trovis, mortigis neniu.
+
+  Longe vagis sen baroj en senvivaj arbaroj
+  Nekaptebla hetmano kuraĝa,
+  Kaj mokeme nur ridis, kiam aŭdis aŭ vidis,
+  Ke lin serĉas polico sensaĝa.
+
+  Unu fojon lin trovis kaj mortigi eĉ provis
+  Du tro lertaj, kuraĝaj soldatoj,
+  Sed hetman' ilin ligis kaj kun si veturigis
+  En tendaron de siaj kunfratoj.
+
+  Malfeliĉaj kaptitoj estis forte vergitaj
+  De hetmano en densa arbaro,
+  Kaj post tiam bandanoj kun katenoj sur manoj
+  Ilin sendis kun rid' al estraro.
+
+  Kaj estraro kolora en indigno sincera
+  Nepre kapti krimulon intencis:
+  Kun decido tiela kontraŭ bando ribela
+  Ĝi regulan militon komencis.
+
+  Kaj subite arbaro, ĉirkaŭita per baro
+  El soldatoj tre bone armitaj,
+  Estis tute simila je grandega kaptilo
+  Kun bestegoj en ĝi enŝlositaj.
+
+  Al rabistoj kaptitaj venis spertaj senditoj
+  Kun propono de plena pardono,
+  Se nur ili sen vorto humiliĝos al sorto
+  Kaj hetmanon fordonos pro mono....
+
+  --Nu, amikoj-kunfratoj, nin ĉirkaŭis soldatoj,
+  Diris brava hetmano fiera:
+  --Humiliĝu al sorto, ĉar minacas vin morto,--
+  Mi ĝin diras el koro sincera!
+
+  --Mi konsilas vin cedi, ĉar ne povas mi kredi,
+  Ke vi estas kapablaj al grando...
+  Ekrigardu, kunfratoj: en arbaro soldatoj
+  Nin ĉirkaŭis de rando ĝis rando.
+
+  --Vin soldatoj mortigos, aŭ po unu kunligos
+  Kaj eltrenos el via arbaro,
+  Sed se vi nur deziros, vi liberaj eliros
+  Kaj kun mono el tiu-ĉi baro....
+
+  --Nu, malpiaj bandanoj, jen al vi miaj manoj
+  Senarmitaj kaj jam sendanĝeraj:
+  Ligu ilin sen timo, kaj kun gaja animo
+  Iru for el arbaro liberaj!...
+
+  Lin respondis neniu,--sed en brusto de ĉiu
+  Frapis koro per sento kolera....
+  --Vi obstine silentas? Ĉu kun mi vi konsentas?--
+  Diris ree hetmano fiera.
+
+  Kaj tuj mem sonis krio: «nin devigos nenio
+  De hetmano foriri perfide!
+  Ni hetmanon estimas, ni danĝeron ne timas!
+  Ni batalon deziras avide!...»
+
+  Kaj senditoj kaptitaj estis tuj disŝiritaj
+  De rabistoj kun krio sovaĝa...
+  Tiam juna hetmano kun tranĉilo en mano
+  Proksimiĝis al bando kuraĝa.
+
+  Jen li ĉapon formetis, ĝin sur teron li ĵetis
+  Kaj per brusto ondanta enspiris:
+  Kaj memfide, kun vido de kuraĝa decido,
+  Al rabistoj solene li diris:
+
+  --Venis tempo fatala de kruela batalo:
+  Ni atendas aŭ venkon, aŭ morton,
+  Nin danĝero minacas, kaj al vi mi donacas
+  Mian kapon, kaj koron, kaj forton!
+
+  --Sed mi kredas, kolegoj, ke eĉ grandaj nubegoj
+  Da soldatoj kun trafaj pafiloj
+  Nun disflugos por ĉiam kaj batalos neniam
+  Kontraŭ niaj brilantaj tranĉiloj!...
+
+  Kun konfido anima kaj kun ĝojo senlima
+  Lin salutis rabistoj--kunfratoj:
+  «Vivu estr' estiminda! Vivu frato aminda!
+  Forpereu malnoblaj soldatoj!...»
+
+  Kaj en nokto senstela tuta bando ribela
+  Sian neston malluman forlasas....
+  Rampas ventre kunfratoj, kaj simile je katoj
+  Ili mute, senbrue trapasas....
+
+  Jen ekpafo trasonis... bando tuj ĝin ekkonis:
+  Por komenco ĝi estas signalo...
+  Kaj rabistoj atakas: pafas, tranĉas kaj hakas...
+  Komenciĝis kruela batalo!..
+
+  Kiel iaj demonoj saltas lertaj friponoj,
+  Eksvingante per akraj tranĉiloj....
+  Kaj batalon bruantan, homan sangon fluantan
+  Kaŝas nokto sub nigraj flugiloj...
+
+  En mateno-do frua estis ĉio senbrua,
+  Hele suno suriris brilanta...
+  Sed ĝi sangon ekvidis, kaj foriri rapidis
+  Sin kovrinte per nubo fluganta...
+
+  Kaj en tuta ĉielo tuj fariĝis ribelo:
+  Fulmotondro eksonis kolere,
+  Nigraj nuboj ekbruis kaj pluvego ekfluis,
+  Pri mortintoj plorante sincere...
+
+  Kaj per larmoj naturaj homaj agoj teruraj
+  Estas iom post iom lavataj...
+  Nur sur loko fatala, kie estis batalo,
+  Restos longe skeletoj soldataj....
+
+  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *
+
+  Multaj jaroj forpasis. Jam hetmano forlasis
+  Sian bandon kaj sian metion.
+  Li senfine sopiris, en dezerton foriris,
+  Kaj en ĝi rememoris li Dion.
+
+  Lia vivo sencela, malprudenta, ribela
+  Elpentriĝis en lia memoro:
+  Ĉiam vivis li krima kun malpura animo,
+  Sen espero, sen kredo en koro.
+
+  Nun malpia krimulo jam ne estas junulo,--
+  Baldaŭ venos jam morto severa,
+  Poste--juĝo de Dio... Lin pravigos nenio,
+  Ĉar ne kredis li, vermo fiera!...
+
+  En senlima sopiro lin vizitis deziro
+  Formortigi sin mem, kiel hundon...
+  Kun decido tiela en animo ribela
+  Li eniris kavegon profundan.
+
+  Lia mano tremanta kun tranĉilo brilanta,
+  Jam sin levis al gorĝo sulkita...
+  Unu movo de mano--kaj por brava hetmano
+  Estus ĉio por ĉiam finita!...
+
+  Sed subite formetis li tranĉilon kaj ĵetis
+  Ĝin rapide kun forto sur teron:
+  Li eksentis kun ĝojo je unua nur fojo
+  En mizera animo esperon...
+
+  Li de ĝojo ekploris, ĉar li tuj rememoris,
+  Ke li povas formorti kun gloro:
+  Lia vivo rompita estas alte taksita
+  De estraro per multo da oro...
+
+  Li ekĝemis facile, al ĉielo humile
+  Siajn manojn li pie etendis,
+  Kaj kun kredo kreskanta al Potenca Juĝanto
+  Sian preĝon unuan li sendis.
+
+  Tiu preĝo sincera por hetmano fiera
+  Estis ĝusta saniga balzamo:
+  Nun, anstataŭ sopiro, lin vizitis deziro
+  De reveno al bono, al amo...
+
+  Kaj terura rabisto al malriĉa botisto
+  Venas nokte kun stranga propono:
+  «Vi fortike min ligu kaj en urbon venigu,
+  Kaj ricevos vi multe da mono.»
+
+  Malriĉulo ekmiris: «ĉu ne estas, li diris,
+  Vi freneza, amiko amata?!»
+  --Ne, mi estas en sano,--sed mi estas hetmano
+  De rabistoj, krimulo sciata....
+
+  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *
+
+  .... Jen en mezo de placo, kiel morta minaco
+  Por senkoraj scivolaj vidantoj,
+  Staras alta Pendingo, ĉirkaŭita per ringo
+  De senmovaj policaj gardantoj.
+
+  Kaj subite murmuro de nevola teruro
+  Sonis brue en popolamaso:
+  Sur pendinga submeto kun feliĉa rideto
+  Maljunulo aperis malgrasa....
+
+  Jen per mano tremanta kun kateno sonanta
+  Sanktan signon de kruco li faris,
+  Kaj kun vido trankvila en vizaĝo humila
+  Sin al morto kruela preparis.
+
+  Oni donis signalon... Kaj en maŝon fatalan
+  Estas kapo grizhara metita....
+  Kelkaj movoj malfortaj, konvulsioj postmortaj,
+  Kaj spektaklo jam estas finita!...
+
+  El bluaĵo ĉiela lumas suno tre hela
+  Per radioj varmegaj brilantaj...
+  Ĉio estas silenta, ĉio estas kontenta,
+  Kaj senbrue disiras vidantoj...
+
+
+10. SUR STRATO
+
+(Sceno el efektiva vivo.)
+
+  Sur strato promenas gravega sinjoro:
+  Li ĵus fortagmanĝis, kaj iras kontenta,
+  Kun plena ventrego, kun ĝojo en koro,
+  Senzorga, trankvila, fiera, sensenta.
+
+    Subite al li knabineto aliras.
+    Malgrasa ŝi estas, en vesto malriĉa,--
+    Plorante, ŝi manon etendas kaj diras:
+    «Ho, donu almozon al mi, malfeliĉa!»
+
+  --For, for, abomena, senhonta knabino!
+  Labori vi devas, almozon ne petu!...
+  Vin sendis, kredeble, malĉasta patrino
+  Por ke je almozo vi brandon aĉetu?
+
+    «Ho, ne, estimata, aminda sinjoro!
+    Patrino... ho, mia karega patrino!
+    Ŝi, eble, jam mortis en tiu-ĉi horo,...
+    Malsana ŝi estas... --Ne, truda knabino,
+
+  Foriru, foriru! Al via rakonto
+  Ne kredas mi tute: ĝi estas malvera.
+  For, for! ne mensogu! Al vi estas honto
+  Pasantojn trompadi per vido mizera!...»
+
+    Kaj ree promenas gravega sinjoro
+    Kun plena ventrego, kun vido kontenta,
+    Kun nigra animo, kun ĝojo en koro,
+    Feliĉa, trankvila, fiera, sensenta....
+
+
+11. NAJTINGALO
+
+(Malgrandrusa kanto.)
+
+  Ne pepadu, najtingalo,
+  En mateno frue,
+  Ne pepadu, malgrandeta,
+  Sub fenestr' proksime...
+
+    Via kanto estas bela,
+    Vi bone kantadas,
+    Vi, feliĉa, jepariĝis
+    Kaj nesteton havas.
+
+  Mi, mizera, malfeliĉa,
+  Sen nesto, sen paro,--
+  Kaj ne povis mi en mondo
+  Kun ĝojo kantadi.
+
+    Flugu, kantu vi al tiuj,
+    Kiuj bone vivas:
+    Ili de kantado via
+    Multe amuziĝus.
+
+  Sed al mi kantado via
+  Bruston nur disŝiras.
+  Koron pikas, kaj animon
+  Turmentas senfine!...
+
+    Strigo--birdo por mi restu:
+    Ĝi ploras, ne kantas....
+    Ploru, strigo, kaj ĝemegu,
+    Morton al mi voku!...
+
+
+12. FROSTETO
+
+(Rusa kanteto.)
+
+  Ho, frosteto kara,
+  Rusa vi bravulo!
+  Iras vi en gantoj
+  Kaj en fela ĉapo!
+  Ho, frosteto kara
+  Kun vangetoj ruĝaj!
+  Korpon vi frostigas,
+  Sed anim' varmiĝas!
+  Ĉu frostet' memoras,
+  Kiam kun knabino
+  Sur glitveturilo,
+  Kvazaŭ birdo, flugis
+  Mi en nokt' malluma?
+  Kaj al mi mallaŭte
+  Ŝi kun am' murmuris:
+  «Vi frostiĝis, kara?
+  Apud mi kuŝiĝu,
+  Mi vin tuj varmigos!...»
+  Pelton ŝi malfermas,--
+  Kaj ĉe blanka brusto
+  Bone mi varmiĝas!...
+  Ŝiaj okuletoj
+  Fajreretojn ŝutas,
+  Kaj vangetoj ŝiaj
+  Kvazaŭ flamo brulas,--
+  Mia fajra koro
+  Ankaŭ ekbruliĝas....
+  Ho, frosteto kara,
+  Rusa vi bravulo,
+  Ja por mi vi ĉiam
+  Estis frat' aminda!
+
+
+13. FASTANTOJ
+
+(Fablo.)
+
+  Profite en urbo sekalon vendinte
+  Kaj monon por ĝi ricevinte,
+    Antono reiris kun ĝojo
+    Al hejmo. Subite sur vojo
+
+  Rabistoj duope al li alŝteliĝis...
+  De ili forkuri rapide li penis,
+  Sed ili lin kaptis, kaj monon deprenis,
+  Kaj poste, lin mem mortiginte, foriĝis.
+
+    Lasinte arbaran densejon,
+    Rabistoj eniris drinkejon.
+    Al ili mastro brandon donas,
+    Kolbason, ŝinkon li proponas...
+
+  Sed unu rabisto al mastro rediras:
+  «Vi estas sendube tre granda pekulo,--
+  Je via propono senfine mi miras!...
+  Forgesis pri tio vi, senprudentulo,
+
+    Ke fasto hodiaŭ ja estas,--
+    Ĝi sankta por ni ĉiam restas....»
+    *  *  *  *  *  *  *
+    Ĉu ne ekkonas vi, legantoj,
+    Vin mem en tiuj-ĉi fastantoj?
+
+
+14. HUSARO
+
+(El Puŝkin.)
+
+  Ĉevalon sian li purigis,
+  Estante forte kolerega,
+  Kaj diris: «min diabl' devigis
+  En loko loĝi malbonega!
+
+    Ni ĉiam tie-ĉi restadas
+    En turka kvazaŭ batalado:
+    Nur solan supon ni manĝadas
+    Kaj eĉ ne pensas pri drinkado.
+
+  Kaj mastro tie-ĉi malbona,
+  Malbonan havas li edzinon...
+  Nek via skurĝ', nek vorto bona
+  Admonas tie-ĉi virinon!..
+
+    Jen urbo Kiev! lando kia!
+    En buŝon falas mem buletoj,
+    Kaj vinon havas domo ĉia,--
+    Kaj kiaj tie virinetoj!...
+
+  Ne estas eĉ domaĝ', je Dio,
+  Sin mem pro ili pereigi!...
+  Malbone estas nur per tio....»
+  --Per kio? Volu min sciigi!--
+
+    Kaj li komencis plibonigi
+    Lipharon. «Eble ne timulo--
+    Li diris--estas vi, sed igi
+    Vin miri povas mi--spertulo.»
+
+  «Aŭskultu: regimento nia
+  Ĉe Dnepro larĝa enlokiĝis.
+  Mastrino estis bona mia,
+  Kaj tombon ŝia edz' foriĝis.
+
+    Kun ŝi mi baldaŭ amikiĝis;
+    Ni vivis pace, tute bone,
+    Al mi Mario humiliĝis,
+    Ne diris vorton eĉ malbone.
+
+  Se mi malsobra estis tute,
+  Ŝi mem min zorge kuŝigadis;
+  Ŝi ĉiam pace, sendispute
+  Je ĉio tuj mem konsentadis
+
+    Feliĉan vivon mi pasigis,
+    Kaj longe tiel vivus eble,--
+    Sed jen subite ĵaluzigis
+    Min io,--mem diabl' kredeble.
+
+  Mi pensis: kial baptanino
+  Sin levas nokte? Kiu volas?
+  Tre juna estas ŝi virino
+  Kaj tial, eble, ŝi petolas!...
+
+    Mi observadi ŝin intencis.
+    Jen foj' ne dormis mi (en korto
+    Jam estis nokto, kaj komencis
+    Bruegi vent' kun granda forto).
+
+  Kaj vidas mi: ŝi forrampetis
+  De forno, prenis ŝi karbeton,
+  Min tre facile pripalpetis
+  Disblovis apud forn' fajreton;
+
+    Ŝi ekbruligis kandeleton,
+    Kun ĝi angulon ŝi foriĝis,
+    De tie prenis boteleton,
+    Sur balailon ŝi sidiĝis,
+
+  Ŝi senvestiĝis, kaj sorbinte
+  El boteleto, ŝi tra tubo,
+  Sur balailo sidiĝinte,
+  Tuj malaperis, kvazaŭ nubo!
+
+    «Ŝi eble estas sorĉistino»,
+    Mi pensis, kaj de forn' rapidas,
+    Por vidi sorĉon de virino;
+    Kaj jen mi boteleton vidas.
+
+  Mi flaris: ia acidaĵo...
+  Mi plankon verŝis el botelo:
+  Forflugis--kia mirindaĵo!--
+  Kaj forna forko kaj sitelo!
+
+    Sub benko katon mi ekvidis,
+    Sur ĝin mi ŝprucis el botelo:
+    Ĝi ternis tuj kaj ekrapidis
+    Subite fornon post sitelo.
+
+  Sur ĉion ŝprucis sen kompato
+  Jam mi per tuta forto mia,--
+  Kaj ĉio: tablo, benko, pato
+  Forflugis unu post alia.
+
+    Al ili mi ne volis cedi,--
+    Kaj trinkis mem per unu fojo
+    Restaĵon... Ĉu vi povas kredi?
+    Mi ekaperis tuj en vojo:
+
+  Mi flugis,--kien? mem ne sciis,
+  Kun forto tranĉis nur aeron,
+  Al steloj mi: «pli dekstren» kriis...
+  Kaj jen ekfalis mi sur teron.
+
+    Jen mont'. Sur ĝi kaldronoj bolas.
+    Kaj oni faras ian ludon:
+    Kantadas, fajfas kaj petolas,
+    Kun granda ran' edzigas judon.
+
+  Mi kraĉis... Flugas jen Mario:
+  «For! hejmen kuru, petolulo!
+  Vin oni tuj formanĝos!..»--Kio?!
+  --Nu, mi ne estas timemulo:
+
+    Vi ne kriegu! Kie vojo
+    Al hejmo estas?--«Jen sidiĝu
+    Sur fornan feron,--kun malĝojo
+    Respondis ŝi,--kaj tuj foriĝu!...»
+
+  --Vi volas, ke husar' sidiĝu
+  Sur fornan feron?! Baptanino,
+  Mi petas vin, ne freneziĝu,
+  Ne estu vi malsaĝulino!...
+
+    --Ĉevalon!... «Prenu, malsaĝulo!»
+    Ŝi efektive diris veron:
+    Jen antaŭ mi ĉeval'-bravulo
+    Per hufo forte batas teron.
+
+  Sidiĝas mi kun brava vido
+  Sur ĝin kaj trovi bridon penas,
+  Sed vane! Rajdas mi sen brido--
+  Kaj tuj.. al forno mi alvenas.
+
+    Kaj jen mi tion saman vidas...
+    Ĉevalo tute jam forestas,
+    Kaj mi sur benko rajde sidas:
+    Jen kia strang' okazo estas!»
+
+  Kaj li daŭrigis plibonigi
+  Lipharon. «Eble ne timulo,--
+  Li diris,--estas vi, sed igi
+  Vin miri povas mi--spertulo.»
+
+
+15. GARANTIO
+
+(El Ŝiller.)
+
+  Damon' unu fojon mallaŭte trairis
+  Kun akra tranĉilo sub bask' al tirano--
+  Al Dionisio,--sed unu gardano
+  Lin kaptis subite. Tiran' al li diris:
+  «Pro kio al mi vi, bastardo, aliris?»
+  --Mi sanktan promeson ekvolis plenumi...--
+  «Krimulo! mi tuj vin ordonos krucumi!»
+
+  --Jam longe al morto mi estas pretita,
+  Kaj, kredu, ne diros mi eĉ unu vorton
+  Pro mia pardono, ĉar havas mi forton,
+  Por morti sur kruco; sed se inklinita
+  Vi estas al bono,--ho, estu donita
+  Al mi kelka tempo, por fraton edzigi,--
+  Ĉe vi--do mi povas amikon restigi.--
+
+  Kruele ekbrilis tirana rigardo,
+  Kaj jen li eldiris post kelka silento:
+  «Tre bone, kun tio mi estas konsenta;
+  Sed bone vi tamen memoru, bastardo,
+  Ke vian amikon mi tenos sub gardo
+  Ne pli, ol tri tagojn,--kaj poste li mortos,
+  Al vi li per tio pardonon alportos.»
+
+  Al sia amiko Damono alvenis
+  Kaj diris: «tiran' min aljuĝis krucumi,
+  Ĉar volis mi sanktan promeson plenumi...
+  Kaj mi nur tri tagojn ricevi elpenis
+  Por fraton edzigi...» Kaj li ĉirkaŭprenis
+  Amikon kaj petas: «Ho, restu, karulo,
+  Vi por garantio ĉe malbonegulo!»
+
+  Amiko volonte konsentis, kaj restis
+  En malliberejo li por garantio,
+  Kaj tuj liberigis Damonon per tio....
+  Damono edziĝon de frato forfestis,
+  En tria mateno tre frue sin vestis
+  Kaj vojon rapidas, malfrui timante
+  Kaj ĉiam pri sia amiko pensante...
+
+  Subite tre forta ventego fariĝis,
+  Kaj tondro, kaj fulmo, kaj granda pluvego;
+  Pli forte, pli brue koleras ventego,--
+  Kaj jen riveretoj de mont' ekruliĝis,
+  Riveron plenigis, kaj ĝi ekondiĝis....
+  Damono al ponto rapidas de monto,--
+  Kaj vidas, ke estas rompita jam ponto.
+
+  Li vagas sub pluvo sur bord' de rivero,
+  Kaj tre malproksime li vidas dometon;
+  Li krias, li vokas, li petas ŝipeton,
+  Sed vane,--neniu ĉar kun malespero
+  Ekvolos batali kun brua rivero....
+  Kaj baldaŭ rivero jam aliformiĝis:
+  Je maro ĝi larĝa simila fariĝis.
+
+  Kaj jen lian koron plenigis doloro--
+  Li ploras, antaŭen li manojn etendas,
+  Kaj preĝon varmegan al Zeŭso li sendas:
+  «Kompatu!--li petas kun granda fervoro--
+  Kaj min ekrigardu kun dia favoro!
+  Se al Sirakuzoj vi min ne alportos,
+  Ho! mia amiko senkulpe ja mortos!»
+
+  Sed vane kompaton de Zeŭso li petas:
+  Ventego, kaj ondoj, kaj pluv' ne ĉesiĝas,
+  Sed ĉiam pli fortaj, teruraj fariĝas,--
+  Kaj tempo forpasas... Damono formetas
+  De si sian veston, kuraĝe sin ĵetas
+  En bruan riveron kaj naĝas, tranĉante
+  Per brusto nur ondon, kun mort' batalante...
+
+  Kaj jen li jam estas sur bordo,--elŝiris
+  Sin mem li el brakoj teruraj de morto,
+  Kaj multe dankem' al favoro de sorto
+  Rapidas li plu.... Sed subite eliris
+  El granda arbaro rabistoj. Aliris
+  Al ili Damono,--kaj ili malpace
+  Ĉirkaŭis lin tute, rigardas minace.
+
+  «Ho, kion vi volas, krimuloj?--li diris--
+  Ankoraŭ ne scias, friponoj, vi tion,
+  Ke, krom ŝarĝa vivo, mi havas nenion,--
+  Sed vivo ne estas jam mia!» Li iris
+  Al ili, de unu bastonon elŝiris,
+  Per ĝi li eksvingis, kaj tri formortigis,
+  Aliajn--do ĉiujn facile forigis.
+
+  Sed suno post pluvo varmege bruligis
+  Migranton, kaj tute li perdis jam forton,
+  Kun granda teruro atendis li morton,--
+  Kaj preĝis li Zeŭson: «vi min liberigis
+  El ondoj bruegaj, de mi vi forigis
+  Rabistojn,--ĉu tie-ĉi devas suferi
+  Mi vane kaj morti, amikon oferi?!...»
+
+  Kaj--kio-do?--ŝajnas al li, murmuretas
+  Ne tre malproksime malgranda rivero:
+  Rapide sin turnas al ĝi kun espero
+  Damono--kaj vidas, ke fonto fluetas.
+  Al ĝi superforte li tuje vagetas,
+  Soifon brulegan kun ĝoj' kvietigas
+  Kaj korpon malsanan en ĝi refreŝigas
+
+  Jam suno varmega majeste subiras
+  Kaj ombroj longegaj kuŝiĝas sur tero:
+  Tre baldaŭ jam venos trankvila vespero.
+  Sur vojo al urb' du migrantoj jen iras,
+  Damono--do ilin sur voj' preteriras.
+  Migrantoj parolas, Damono aŭskultas
+  Kaj aŭdas: «nun lin oni jam ekzekutas!...»
+
+  Tumulto piedojn al li flugiligas,--
+  En lia animo--senfinaj teruroj....
+  Kaj jen Sirakuzoj! Nur suprojn de turoj
+  Malalta jam suno facile origas:
+  Jam estas vespero!... Kaj li rapidigas
+  Ankoraŭ pli paŝojn,--kaj vidas--en strato
+  Renkontas lin lia servant' Filostrato.
+
+  --Revenu, ĉar ĉio jam estas finita!
+  Li diris malgaje:--en urbon ne iru,
+  Mi petas vin, el Sirakuzoj foriru!
+  Li estas jam al ekzekuto metita.
+  Li kredis ĝis fin', ke li estos trompita
+  Neniam de sia amik', kaj nenio
+  Lin povis devigi ne kredi je tio...--
+
+  «Ho, se jam malfrui al mi estas sorto,
+  Kaj se mi ne povas de mort' liberigi
+  Amikon, mi devas min ankaŭ mortigi:
+  Tirano ne diru, ke kuris de morto
+  Mi nur dank' al mia anima malforto!
+  Al vi mian vivon volonte mi cedas,
+  Sed sciu, ke homoj kaj amas, kaj kredas!...»
+
+  Vespere Damon' Sirakuzojn eniras
+  Kaj vidas, ke kruco sur placo jam staras,
+  Kaj oni jam tute amikon preparas,
+  Por lin ekzekuti... Kun forto traŝiras
+  Amason popolan Damono kaj diras:
+  «Mi morton deziris de Dionisio,--
+  Mi estas krimulo, li--nur garantio!»
+
+  En granda mirego popol' silentiĝas...
+  En ĝojo amikoj tuj sin ĉirkaŭprenas,
+  Kaj ploras,--pri kio--neniu komprenas,
+  Sed larmoj el ĉiuj okuloj ruliĝas....
+  ... Minaca tirano pri ĉio sciiĝas;
+  Li je amikeco tiela tre miras
+  Kaj verajn amikojn li vidi deziras.
+
+  Kaj jen ili venas. Kun vido afabla
+  Tirano renkontas amikojn kaj diras:
+  «Vi tute min venkis, senfine mi miras!...
+  Mi estas ankoraŭ por amo kapabla,
+  Kaj se mi ne tute al vi malagrabla,
+  Permesu al mi, ke en ligo mi via,
+  Amikoj varmegaj, por vi estu tria!»
+
+
+
+
+NEVOLA MORTIGINTO
+
+(Rakonto.)
+
+
+I.
+  Varmega tago jam finiĝis,
+  Tre bela sun' adiaŭ diris
+  Al tero, kaj alproksimiĝis
+  Trankvila nokto. Mi reiris
+  Al domo mia kaj koleris,
+  Ĉar tutan tagon mi ĉasadis,
+  Kaj mia ĉaso ne prosperis:
+  Mi eĉ ĉasaĵon ne vidadis.
+  Sur mia voj' en unu loko
+  Al lago venis mi, kaj vidas
+  Sur ĝia bordo kun fiŝhoko
+  Konata maljunulo sidas.
+  Mi lin salutis: «helpu Dio!»
+  --Mi dankas,--maljunulo diras.
+  «Nu, eble, vi, pro kompanio,
+  Kun mi jam hejmen kune iras?»
+  --Ho, ne, sinjoro! mi intencas
+  Tre longe sidi,--dankas kore;
+  Vi finis ĉason, mi komencas,--
+  Nenion kaptis mi ankoraŭ.
+  Sed eble vi malmulte provos
+  Fiŝetojn kapti? Mi fiŝhokon
+  Provizan havas, tial povos
+  Al vi mi servi,--prenu lokon.--
+
+    Mi tuj konsentis, ĉar laciĝis
+  Mi kaj apenaŭ mi iradis,--
+  Fiŝhokon prenis kaj sidiĝis
+  Sur laga bord'. Ni paroladis
+  Pri mia ĉaso malprospera.
+  Al maljunulo mi rakontis
+  Kun fajro forta kaj sincera
+  Pri tio, kion mi renkontis
+  En ĉaso, li do tre atente
+  Rakonton mian aŭskultadis
+  Kaj nur korkaĵon diligente
+  Sur akvsupraĵo observadis.--
+
+II.
+  Mi eksilentis. Maljunulo
+  Fiŝhokon sian plibonigis
+  Kaj diris: «kiam mi junulo
+  Ankoraŭ estis, mi pasigis
+  En ĉaso tutan tempon mian.
+  Sed nun mi ĉasi tute ĉesis,
+  Forĵetis eĉ pafilon mian,
+  Kaj kiel teni ĝin--forgesis.»
+  Je tio miris mi kaj petis,
+  Ke li sciigu min, pro kio
+  Pafilon, ĉason li forĵetis?
+  «Tre longa estas historio!»
+  Al mi malgaje li rediris,
+  Per griza kapo balancante,
+  Kaj li subite eksopiris,
+  Rakonti, ŝajne, ne volante.
+  Sed jen silenton li ĉesigas
+  Kaj, cigareton ekfumante,
+  Komencis: «eble vi devigas
+  Min rakontadi, atendante
+  Ekaŭdi ĝojan historion?
+  Se tiel estas, mi certigi
+  Vin devas, ke al vi nenion
+  Tre gajan povas mi sciigi!»
+  --Vi vane tiel opinias,--
+  Rediris mi al maljunulo.
+  «Ne vane, ĉar mi bone scias,
+  Pri kio pensas eĉ junulo!»
+  Kaj ree li eksilentinte,
+  Fiŝhokon sian plibonigis;
+  Sed post momento, ekĝeminte,
+  Li jam sen halto ekdaŭrigis.
+
+III.
+    «Aŭskultu. Antaŭ dudek jaroj
+  Mi ofte kun pafil' ĉasadis,
+  Kaj jen en tiuj ĉi arbaroj
+  Mi multajn tagojn pasigadis.
+  Ankoraŭ tiam troviĝadis
+  Multego da sovaĝaj kaproj,
+  Kaj en arbar' sin renkontadis
+  Eĉ ursoj kaj teruraj aproj.
+
+    Jen iam vintre en mateno
+  Sur kampo, apud mem arbaro
+  Ĉasistoj estis en kunveno.
+  Mi ankaŭ estis. Jam hundaro
+  De ĉeno forte sin ŝiradis
+  Kaj, ne havante paciencon,
+  Aeron frostan nur flaradis,
+  Sentante baldaŭ jam komencon.
+  Ni ankaŭ, ĉason atendante,
+  Malpaciencaj jam fariĝis,
+  Kaj, tre mallaŭte parolante,
+  En ĉeno ĉiuj ni stariĝis...
+
+IV.
+    Subite en densejo sonis
+  Trumpeto forta,--mi ektremis:
+  Per tio ĝi signalon donis,
+  Ke estas ursoj... Mi ekpremis
+  Pafilon mian kaj instinkte
+  Nevole ĉirkaŭ ekrigardis:
+  De mi proksime, sin arminte
+  Tre bone, oficiro staris.
+  En manoj tenis li pafilon,
+  Ĉe zono larĝa kaj lakita
+  Pistolon havis kaj tranĉilon.
+  Mi estis tute konvinkita,
+  Ke tiel brava militisto
+  Sendube estas kuraĝulo,
+  Ke vera estas li ĉasisto
+  Kaj tial estos ne timulo;
+  Sed bedaŭrinde mi eraris!...
+  Mi tamen devas plu rakonti...
+  ... Mi ĉe arbara rando staris
+  Kaj urson tie ĉi renkonti
+  Mi tre esperis, ĉar mi scias
+  Kutimojn ursajn... Jen mi aŭdas,--
+  Al mi «vin gardu» iu krias...
+  Antaŭen bone mi rigardas
+  Kaj,--kia granda mirindaĵo!--
+  Subite mi proksime vidas
+  Ursegon: ĝi en arbetaĵo
+  Senmove kaj silente sidas
+  Kaj kvazaŭ pensas, kien devas
+  Ĝi kuri? ĉie estas baro...
+  Jen multepeze ĝi sin levas
+  Kaj tuj eliras el arbaro.
+
+V.
+    Mi kelkajn paŝojn posten faris,
+  Min al pafilo jam almetis,
+  Kaj urson pafi min preparis,
+  Sed... ho, teruro! mi faletis
+  Je ŝtipo kaj subite teron
+  Mi tute falis kaj... ekpafis...
+  Por mi ekvidis mi danĝeron
+  Grandegan: urson mi ne trafis!
+  Ĝi tre rapide kun kriego
+  Sur min sin ĵetis kaj kun forto
+  Min premis, ŝiris per ungego...
+  Jam tre proksime estis morto!...
+  Mi oficiron ekrigardis--
+  Kaj kun teruro mi ekvidis,
+  Ke li sin mem nur bone gardis,
+  Ĉar li jam kuri for rapidis...
+  Tranĉilon preni mi intencis,--
+  Ne povis, ĉar min urso premis...
+  Mi fortojn perdi jam komencis
+  Kaj de doloro mi nur ĝemis...
+
+VI.
+    Subite pafo!... Urso saltis
+  De mi tuj, tute min lasinte,
+  Kaj ĝi de mi proksime haltis.--
+  Jen liberecon eksentinte,
+  Min levis mi kun malfacilo,
+  Al urso mem mi alŝteliĝis
+  Kaj ĝin ekbatis per tranĉilo:
+  En gorĝon rekte ĝi eniĝis...
+  Mi bone trafis,--urso mortis.
+  Ĉasistoj ĉiuj tuj kunvenis,--
+  Sed mi malforton ne elportis
+  Kaj falis... Ili min subtenis
+  Kaj portis al glitveturilo...
+  Subite vidas mi--aliris
+  Kun sia bela batalilo
+  Jen oficiro; li ekmiris:
+  «Ho, kio tie ĉi fariĝis?
+  Mi estas tute ekfrapita!
+  Sinjoro, vi ekmalsaniĝis?»
+  Per tio ĉi indignigita,
+  Ekkriis mi: «arogantulo!
+  Vi ĉion tute bone vidis,
+  Sed vi, malnobla timemulo,
+  De mi forkuri ekrapidis!»
+  Kaj en incito mi minuta
+  Min levis el glitveturilo
+  Kaj lin kun mia forto tuta
+  Mi tuj ekbatis per tranĉilo...
+  Mi vidis sangon, aŭdis krion,
+  Sed mi nenion jam komprenis,
+  Ĉar tute perdis mi konscion...
+  Mi falis.--iu min subtenis....
+
+VII.
+  Mi sen konscio longe restis,
+  Kaj kiam mi ekkonsciiĝis,--
+  En malsanejo mi jam estis.
+  Vespero jam alproksimiĝis...
+  Nenion tute mi komprenis...
+  Tre longe kuŝis mi silente
+  Kaj ion rememori penis...
+  Jen venis iu. Tre atente
+  Li ekrigardis min kaj diris:
+  «Nu, ĉu pli bone vi vin sentas?»
+  Li tute ĝis mi mem aliris,
+  Murmuris: «bone, mi kontentas...»
+  Proksime li de mi sidiĝis
+  Kaj ekparolis: «nu, ĉasisto,
+  Vi eble jam ekprudentiĝis?
+  Respondos jam al esploristo?»
+  Je tio ĉi mi tre ekmiris
+  Kaj ne respondis; li daŭrigis:
+  «Al mi pli frue vi ja diris,
+  Ke lin sendube vi mortigis...»
+  Subite ĉion mi komprenis...
+  Ekkriis laŭte mi, ekpenis
+  Min levi,--kaj denove svenis:
+  Malsana korpo ne eltenis!...
+
+VIII.
+  Terure tempon mi pasigis!
+  Kaj mia korpo kaj animo
+  Suferis... ho, de viv' senigis
+  Mi homon!... Kun senfina timo,
+  Malpacience mi atendis
+  Severan juĝon,--mi ploradis,
+  Al Dio mi petegojn sendis,
+  Mi ĝemis, mi freneziĝadis!
+  Sed baldaŭ tute mi saniĝis,
+  Suferojn parte mi eltenis
+  Kaj nun pli forta mi fariĝis.
+  Kaj jen terura tago venis:
+  Nun mi, anstataŭ malsanejo,
+  Kun malmodera tremo vidis,
+  Ke en majesta mi juĝejo
+  Sur benko de juĝatoj sidis.
+  Min puno tute ne timigus,
+  Mi ĝin eĉ volis en animo,
+  Ĉar sole ĝi min liberigus
+  De min preminta ŝarĝa krimo...
+  Sed mi timegis, ke ĵurintoj
+  Min sen bedaŭro ekkulpigos
+  Kaj de aliaj mortigintoj
+  Min tute ne diferencigos.
+  Ho, Dio! mi, honesta homo,
+  Eterne estos kondamnita
+  Kaj mia senmakula nomo
+  De ĉiuj estos mallaŭdita!...
+
+IX.
+  Jen ekparolis prokuroro;
+  Mi tre atente aŭskultadis,--
+  Sed frapis forte mia koro,
+  Kaj mi nenion komprenadis...
+  Li finis; advokat' komencis
+  Pravigi min,--li multe penis;
+  Kaj lin kompreni mi intencis,
+  Sed vane: ree ne komprenis!...
+  Nur tion bone mi sciiĝis,
+  Ke nun mi estas en juĝejo,
+  Ke malbonulo mi fariĝis
+  Kaj estos en malliberejo...
+
+X.
+  Ĵurintoj iris konsiliĝi,
+  Post ili ankaŭ nun juĝantoj
+  Eliris,--eble por nutriĝi...
+  Mi restis sola kun gardantoj.
+  Duono pasis nur da horo,
+  Ĵurintoj dum konsiliĝadis,
+  Sed mia malfeliĉa koro
+  Centjaron kvazaŭ suferadis!
+  Priskribi, kio min turmentis
+  En tiu temp'--ne estas eble,
+  Kaj kion tiam mi trasentis,
+  Por mi eĉ mem ne kompreneble!
+  Se povas vi vin mem prezenti
+  Starantan antaŭ pafilego,
+  Ekpafi preta,--kion senti
+  Vi devus,--mia jam timego,
+  Kredeble, estos komprenita;
+  Alie--tute kun nenio
+  Ĝi povas esti komparita!
+  Esperis sole mi je Dio...
+  Subite pordo malfermiĝis:
+  Ĵurintoj kaj juĝantoj venis...
+  Al mi kapturno komenciĝis,
+  Mi ŝanceliĝis kaj eksvenis...
+
+XI.
+  Konsciiĝinte, mi min trovis
+  Sur lito, hejme; min domanoj
+  Ĉirkaŭis,--mi do movi povis
+  Nek per piedoj, nek per manoj,
+  Ĉar tute mi ekmalfortiĝis...
+  De ŝarĝa krimo pravigita,
+  Honesta ree mi fariĝis,
+  Sed longe estis mi premita
+  Per tio, ke animo mia
+  De krimo estas pravigita
+  Per juĝo homa, sed ne Dia!
+  De tiu tempo mi forlasis
+  Jam tute ĉason kun pafilo,
+  Kaj, krom fiŝhoko nur, mi ĉasis
+  Jam kun nenia batalilo...»
+  Li eksilentis. Jam finiĝis.
+  Malluma nokto, kun rideto
+  Mateno roza proksimiĝis,
+  Nebulo flugis sur lageto....
+  Kaj jen, levinte nin, de lago
+  Ni kun akiro nun foriris.
+  Nur kiam venis hela tago,
+  Al domo mia mi aliris.
+
+
+
+
+BORIS GODUNOV
+
+(Dramo de A. Puŝkin.)
+
+
+Ĉambro en Kremlo (20 Februaro 1598).
+
+Princoj ŜUJSKIJ kaj VOROTINSKIJ.
+
+Vorotinskij.
+  Ni estas rajtigitaj urbon gardi,
+  Sed, ŝajne, ni nenion havas fari:
+  Malplena--Moskvo, ĉar post patriarko
+  Al monaĥejo eĉ popol' ekiris.
+  Per kio, pensas vi, finiĝos ĉio?
+
+Ŝujskij.
+  Per kio? Tre facile estas scii:
+  Popolo krios kaj ankoraŭ ploros,
+  Boris ankoraŭ, kvazaŭ malsobrulo
+  Ĉe brando, eksulkiĝos tre malmulte,
+  Kaj, fine, dank' nur al favoro sia,
+  Humile preni kronon li konsentos,
+  Kaj poste--poste li komencos regi
+  Denove, ree.
+
+Vorotinskij.
+               Sed monat' jam pasis,
+  Dum li en monaĥejo kun fratino
+  Forlasis tute, ŝajne, mondan vivon.
+  Nek patriarko, nek bojaroj noblaj
+  Ĝis nun lin kun sukceso konvinkadis;
+  Aŭskultas li nek larmajn admonadojn,
+  Nek varmajn petojn, nek ploregojn Moskvajn,
+  Nek voĉon eĉ de Granda Konsiliĝo.
+  Fratinon lian oni vane petis,
+  Ke ŝi Boris'on benu por reĝado;
+  Je li simile, monaĥin'-reĝino
+  Fortika estas kaj neelpetebla.
+  Boris, videble, ŝin al tio igis.
+  Nu, kio estos, se reganto vere,
+  De zorgoj regnaj forte lacigita,
+  Ne prenos tute tronon senpotencan?
+  Vi kion diros?
+
+Ŝujskij.
+                 Diros mi, ke vane
+  Verŝiĝis sango de infan'-reĝido,--
+  Kaj diros, ke Dimitrij povus vivi.
+
+Vorotinskij.
+  Terura estas krimo!... Sed ĉu vere
+  Boriso pereigis lin?
+
+Ŝujskij.
+                        Sed kiu?
+  Sed kiu Ĉepĉugov'on subaĉetis?
+  Kaj kiu ankaŭ sendis Bitjagovskij'n
+  Kun Kaĉalov? Ugliĉon tuj sendita
+  Sur lok' esplori tiun ĉi aferon,
+  Postsignojn freŝajn tie mi eltrovis:
+  Ja, tuta urbo estis atestanto,
+  Urbanoj ĉiuj tre konsente diris;
+  Kaj, reveninte, mi per unu vorto
+  Krimulon povus tute pereigi.
+
+Vorotinskij.
+  Kaj kial do vi lin ne pereigis?
+
+Ŝujskij.
+  Li, mi konfesas, tiam min konfuzis
+  Per sia aroganta trankvileco;
+  Li min rigardis tiam kvazaŭ prava:
+  Min pri detaloj multe li demandis,--
+  Kaj jen al li ripetis sensencaĵon
+  Mi tiun saman, kiun li deziris.
+
+Vorotinskij.
+  Malbone, princo.
+
+Ŝujskij.
+                  Kion do mi farus?
+  Al Teodoro ĉion dirus eble?
+  Sed ĉiam ĉion aŭdis li kaj vidis
+  Per aŭdo kaj rigardo Godunova:
+  Se tute mi certigus lin je ĉio,--
+  Boriso lin je mala ekcertigus,
+  Kaj poste oni, eble, min forsendus
+  Kaj tiam, kiel ankaŭ mian onklon,
+  Min eĉ sufokus en malliberejo.
+  Ne fanfaronas mi, sed se okazus,
+  Nenia ekzekuto min timigus;
+  Mi--ne timulo, sed--ne malsaĝulo,
+  Kaj mi ne volas vane preni maŝon.
+
+Vorotinskij.
+  Terura estis krimo!... Sed kredeble
+  Jam pento turmentadas mortiginton,--
+  Kaj certe sango de infan' senkulpa
+  Malhelpas lin, ke tronon li alprenu.
+
+Ŝujskij.
+  Transpaŝos; li ne estas tre timema!...
+  Honoro granda estos por Rusujo!
+  Tataro, sklav', bofrato de Maluto,
+  Krimulo, en anim' ekzekutisto,
+  Akceptos kronon, sceptron Monomaĥan!...
+
+Vorotinskij.
+  Ne glora estas li,--ni--multe pli!...
+
+Ŝujskij.
+  Mi pensas, jes.
+
+Vorotinskij.
+                 Ja Ŝujskij, Vorotinskij....
+  Ĉu scias vi? naturaj estas princoj.
+
+Ŝujskij.
+  Naturaj, kaj devenas de Rjuriko.
+
+Vorotinskij.
+  Aŭskultu, princo,--ni ja havas rajton
+  Heredi Teodoron.
+
+Ŝujskij.
+                   Eĉ pli multe,
+  Ol Godunov.
+
+Vorotinskij.
+             Ja efektive!
+
+Ŝujskij.
+                          Vidu:
+  Se Godunov ruzadi ne forlasos,
+  Komencu ni popolon ekscitigi,
+  Foriru ili tute de Boriso:
+  Da princoj propraj ili multe havas
+  Kaj tial povas kiun ajn elekti.
+
+Vorotinskij.
+  Ni estas multaj, idoj de Rjuriko,
+  Sed estas van' batali kun Boriso!
+  De ni popolo tute malkutimis,
+  Forgesis, ke ni estas Rjurikidoj,
+  Ĉar longe ni jam restas sen provincoj
+  Kaj longe nur al reĝoj ni servadas,--
+  Sed li popolon tutan jam ensorĉis
+  Per amo, per timigo kaj per gloro.
+
+Ŝujskij (rigardas fenestron).
+  Kuraĝos li, sed ni... Silentu! Vidu:
+  Popolo iras reen en senordo,--
+  Ni kuru, kaj sciiĝu, ĉu jam fino?...
+
+
+Ruĝa Placo.
+
+Popolo.
+
+Unua.
+  Neelpetebla! Li de si forpelis
+  Bojarojn ĉiujn, pastrojn, patriarkon.
+  Malsupren ili tute vane falis;
+  Brilanta trono forte lin timigas.
+
+Dua.
+  Ho, Dio mia! Kiu nin regados?
+  Malĝojo estas!
+
+Tria.
+                  Jen sekretario,
+  Eldiros li decidon magistratan.
+
+Popolo.
+  Silentu! Jen sekretario diras;
+  Aŭskultu!...
+
+Ŝĉelkalov (sur Ruĝa perono).
+             Granda Konsiliĝ' decidis
+  Ankoraŭ lastan fojon sin returni
+  Al malĝojega koro de reganto:
+  Denove morgaŭ sankta patriarko,
+  En Kreml' farinte plej solenan preĝon,
+  Antaŭirata per standardoj sanktaj,
+  Kun ĉiuj sanktfiguroj Dipatrinaj,
+  Ekiros,--kaj kun li bojaroj ĉiuj,
+  Nobeloj multaj, elektitaj homoj
+  Kaj loĝantaro Moskva ortodoksa,--
+  Ni ĉiuj iros kaj reĝinon petos,
+  Ke ŝi kompatu nian orfan Moskvon
+  Kaj ŝi Borison benu por reĝado.
+  Vi iru nun kun Dio viajn domojn
+  Kaj preĝu,--flugu al ĉielo sankta
+  Fervora preĝo de ortodoksuloj.--
+
+(Popolo disiras.)
+
+
+Knabina Kampo.
+
+Nova-Knabina Monaĥejo. Popolo.
+
+Unua.
+  Eniris ili de reĝin' ĉambreton;
+  Boris eniris kaj bojaroj noblaj
+  Kun patriarko.
+
+Dua.
+                 Kio do?
+
+Tria.
+                          Ankoraŭ
+  Obstinas li; espero tamen estas.
+
+Virino (kun infano).
+  Ne ploru! Nu, silentu, ĉar vin lupo
+  Tuj prenos kaj formanĝos! Nu, silentu!
+
+Unua.
+  Ĉu ni ne povas trans barilon rampi?
+
+Dua.
+  Ho, ne! Malvaste estas eĉ en kampo,
+  Ne sole tie! Baroj kaj tegmentoj,
+  Etaĝoj ĉiuj de preĝeja turo,
+  Kupoloj ĉiuj kaj eĉ ĉiuj krucoj
+  Pleniĝis je popolo.
+
+Tria.
+                      Estas bone!
+
+Unua.
+  Sed kia bruo estas!
+
+Dua.
+                      Jes... Aŭskultu!
+  Popol' ekkriis; kvazaŭ ondoj falas
+  Popolaj vicoj.... jen ankoraŭ! Frato,
+  Jam nia estas vico: nu, genuu!...
+
+Popolo (sur genuoj; krio kaj ploro).
+  Kompatu, nia patro! Nin potencu!
+  Ho, reĝu, patro!
+
+Unua (mallaŭte).
+                   Kial oni ploras?
+
+Dua.
+  Ne scias mi! Bojaroj, eble, scias
+  Nur bone tion.
+
+Virino (kun infano).
+                 Kial vi ne ploras?
+  Jam oni devas plori nun!... Jen lupo!
+  Ploregu tuj! (Infano ploras.)
+               Tre bone!...
+
+Unua.
+                          Ĉiuj ploras--
+  Ni ankaŭ kio?
+
+Dua.
+                Mi ne havas larmojn.
+  Ankoraŭ kio?
+
+Unua.
+               Ĉu mi povas scii!...
+
+Popolo.
+  Li prenis kronon! Tute li konsentis!
+  Li estas nia! Vivu, reĝ'-Boriso!
+
+
+Kremlaj ĉambroj.
+
+BORISO, Patriarko, Bojaroj.
+
+Boriso.
+  Ho, sankta patro kaj bojaroj noblaj!
+  Animo mia estas malkovrita:
+  Vi ĉiuj vidas, ke mi prenas sceptron
+  Kun granda timo kaj kun humilego.
+  Tre malfacila estas devo mia!
+  Heredas mi potencojn Iohanajn,
+  Heredas ankaŭ mi anĝelon-reĝon!...
+  Sanktulo vera, mia patr' potenca!
+  Ekvidu larmojn de fidelaj sklavoj,
+  Kaj sendu vi al tiu, kiun amis,
+  Kaj kiun tie ĉi vi ekaltigis,
+  Sanktegan vian benon por reĝado:
+  Ke regu mi popolon mian glore,
+  Ke estu mi kaj justa, kaj bonega.
+  Al mi vi helpu nur, bojaroj gloraj,
+  Kaj servu, kiel vi al li servadis,
+  Ankoraŭ kiam kune ni laboris
+  Por bono de popolo nia Rusa.
+
+Bojaroj.
+  Neniam ni je nia ĵur' perfidos.
+
+Boriso.
+  Nun iru kaj salutu ni jam ĉerkojn
+  De formontintaj potenculoj Rusaj,
+  Kaj poste--tutan vi popolon voku
+  Festenon fari,--voku tute ĉiujn:
+  Je ĉiuj mi senfine estos ĝoja.
+
+(Li foriras, bojaroj ankaŭ.)
+
+Vorotinskij (haltiginte princon Ŝujskij).
+  Divenis vi.
+
+Ŝujskij.
+            Sed kion?
+
+Vorotinskij.
+                     Vi memoras?
+  Ne longe?...
+
+Ŝujskij.
+              Ne, nenion mi memoras.
+
+Vorotinskij.
+  Sed kiam ja popol' knabinan kampon
+  Ekiris...
+
+Ŝujskij.
+          Nun ne estas temp' memori;
+  Konsilas mi forgesi iafoje...
+  Cetere tiam per mallaŭdo ŝajna
+  Deziris mi nur vin malmulte provi,
+  Deziris mi ekscii viajn pensojn;
+  Sed jen popolo jam salutas reĝon--
+  Foreston mian povas li rimarki,
+  Mi sekvu lin. (Li foriras.)
+
+Vorotinskij.
+                Ho, ruza kortegulo!
+
+
+Nokto. Ĉambreto en Ĉudova Monaĥejo.
+
+(1603 j.)
+
+PIMENO, GRIGORIO (dormanta).
+
+Pimeno (skribas antaŭ sankta lampo).
+  Ankoraŭ unu lasta nur rakonto,--
+  Kaj mia jam kronik' finita estos;
+  Kaj mi plenumos devon, kiun Dio
+  Al mi ordonis. Dio min ne vane
+  Devigis longe tie ĉi vivadi
+  Kaj legi min kaj skribi ekinstruis:
+  Monaĥo ia laborema iam
+  Laboron mian tre fervoran trovos,
+  Bruligos, kiel mi, li lampon sanktan,
+  Kaj de kroniko polvon forskuinte,
+  Rakontojn miajn verajn li transskribos,--
+  Ke sciu idoj de ortodoksuloj
+  Pasintan sorton de patruja lando,
+  Ke reĝojn siajn grandajn rememoru
+  Por laborad', por bono kaj por gloro;
+  Kaj por pekado, por mallumaj krimoj
+  Humile Dion pardoneman preĝu.
+  En maljuneco mi denove vivas;
+  Pasinta ree antaŭ mi trapasas....
+  Ĉu longe fluis ĝi, je agoj plena,
+  Ondante, kvazaŭ granda oceano?
+  Ĝi estas nun silenta kaj trankvila:
+  Malmulte da personoj mi memoras,
+  Malmultaj ankaŭ vortoj min atingas,-- --
+  Alia do--pereis senrevene!
+  Sed tago estos tuj, forbrulas lampo....
+  Ankoraŭ unu lasta nur rakonto. (Skribas.)
+
+Grigorio (vekiĝinte).
+  Denove tio sama! Trian fojon!
+  Ho, sonĝo malbenita!.... Jen li sidas
+  Kaj ĉiam skribas antaŭ lamp',--videble
+  Okulojn tutan nokton li ne fermis.
+  Tre amas mi trankvilan vidon lian,
+  Precipe kiam pri pasintaj jaroj
+  Kronikon sian skribas li; mi ofte
+  Diveni provis, kion li priskribas:
+  Ĉu pri regad' malluma de tataroj?
+  Ĉu pri ekzekutadoj de Johano?
+  Ĉu pri popola brua konsiliĝo?
+  Ĉu pri patruja gloro? Tute vane!
+  Nek en rigardoj, nek sur lia frunto
+  Tralegi oni povas liajn pensojn;
+  Kaj ĉiam vid'--humila kaj majesta....
+  Sekretario griza tiel same
+  Trankvile vidas kulpajn kaj senkulpajn,
+  Egale aŭdas bonon kaj malbonon,
+  Kaj nek kompaton, nek koleron scias.
+
+Pimeno.
+  Ĉu vi vekiĝis, mia frato?
+
+Grigorio.
+                            Benu,
+  Min, sankta patro mia.
+
+Pimeno.
+                         Dio benu
+  Hodiaŭ vin, kaj ĉiam, kaj eterne.
+
+Grigorio.
+  Vi ĉiam skribis kaj ne dormis tute,
+  Kaj mian koron longe pekaj revoj
+  Turmentis, kaj diablo min konfuzis.
+  Mi sonĝis, kvazaŭ per ŝtuparo kruta
+  Mi turon venis,--kaj de alta pinto
+  Ekvidis Moskvon, kvazaŭ formikejon;
+  Sur plac' malsupre estis multaj homoj,--
+  Kun rido ili ĉiuj min montradis;
+  Kaj mi timegis, kaj mi hontis kune,--
+  Kaj falis mi rapide kaj vekiĝis....
+  Tri fojojn tion saman mi sonĝadis.
+  Ĉu ne mirinde?
+
+Pimeno.
+                 Juna sango ludas;
+  Per preĝo kaj per fasto kvietiĝu,
+  Kaj viaj sonĝoj je vidaĵoj bonaj
+  Pleniĝos. Jen ĝis nun ankoraŭ, ĉiam,
+  Se mi ne preĝas longe antaŭ nokto--
+  Ne dormas mi trankvile kaj senpeke:
+  Mi sonĝas tiam jen festenojn riĉajn,
+  Militistaron, jen batalojn bruajn,--
+  Amuzoj senprudentaj de juneco!
+
+Grigorio.
+  Junecon vian gaje vi pasigis!
+  Batalis vi sub turoj de Kazano,
+  Armeon Litvan iam vi rebatis,
+  Kortegon luksan de Johano vidis!
+  Feliĉa vi!... Kaj mi de knabaj jaroj
+  En monaĥejo, plej mizera, vivas!
+  Sed kial mi ne povas bataladi
+  Kaj festenadi en palacoj reĝaj?
+  Mi povus, kiel vi, en maljuneco
+  De mondo vanta tute min forigi
+  Kaj meti min trankvilan monaĥejon.
+
+Pimeno.
+  Ne plendu, ke vi frue pekan mondon
+  Forlasis, ke malmulte da tentaĵoj
+  Al vi potenca Dio sendis. Kredu:
+  Ensorĉas ofte gloro nin kaj lukso,
+  Kaj tre malica amo de virinoj.
+  En vivo mi per multo plezuriĝis;
+  Sed vere trovis mi feliĉon plenan
+  Nur kiam monaĥejon mi eniris.
+  Memoru, filo, vi pri grandaj reĝoj:
+  Pli alta kiu estas? Sola Dio.
+  Kuraĝas kiu kontraŭ reĝ'? Neniu
+  Sed ofte ora krono ilin premas--
+  Anstataŭ ĝi kapuĉon ili prenas.
+  Johano reĝo serĉis trankviliĝon
+  En simileco de laboroj niaj;
+  Palac' kun ĉiuj ĝiaj fieruloj
+  Je monaĥejo tute similiĝis:
+  Servantoj en kapuĉoj, en harvestoj,
+  Novicoj fariĝadis kaj monaĥoj,
+  Kaj reĝo mem abato estis pia.
+  Vidadis mi en tiu sama ĉambro
+  (En ĝi Kirilo pia tiam vivis,
+  Verema viro; tiam mi jam ankaŭ
+  Eksciis dank' al Di' sensignifecon
+  De mondo),--tie ĉi mi vidis reĝon
+  De ekzekutoj kaj de pensoj lacan:
+  Enpensa, pia, li, Minaca, sidis;
+  Ni ĉiuj antaŭ li senmove staris,
+  Kaj li kun ni mallaŭte paroladis.
+  Li diris al abat' kaj al frataro:
+  «Ho, patroj miaj; venos iam tago--
+  Kaj tie ĉi pro savo mi jam estos;
+  Vi, Nikodim', Sergio kaj Kirilo,
+  Alprenu vi promeson mian sanktan:
+  Alvenos mi, krimulo malbenita,
+  Kaj al piedoj viaj, sankta patro,
+  Falinte, pia mi monaĥ' fariĝos.»
+  Parolis tiel plej potenca reĝo,
+  Kaj dolĉe fluis liaj bonaj vortoj,
+  Kaj ploris li. Kaj ni kun larmoj preĝis,
+  Ke Dio bona sendu amon, pacon
+  Al lia peka, malkvieta koro.--
+  Kaj filo lia Teodor'? Sur trono
+  Pensadis ĉiam li pri paca vivo
+  De Diservanto. Li palacon reĝan
+  Aliformigis en monaĥan ĉambron;
+  En tiu ĉambro ŝarĝaj reĝaj pensoj
+  Ne indignigis jam animon lian.
+  Ekamis Dio reĝan humilecon,
+  Kaj ja sub li Rusuj' en granda gloro
+  Konsolis sin,--kaj kiam li mortadis,
+  Nepriskribebla mirindaĵ' okazis:
+  Al lia lito venis viro luma,
+  Videbla sole nur al pia reĝo,--
+  Kaj Teodor' kun li interparolis
+  Kaj nomis lin plej granda patriarko....
+  Kaj ĉiuj estis forte timigitaj,
+  Ĉielan tiun vidon kompreninte,
+  Ĉar antaŭ reĝo sankta patriarko
+  En ĉambro tiu tiam ne troviĝis.
+  Kaj kiam mortis li, palaco tuta
+  Pleniĝis tuj per sankta bonodoro,
+  Vizaĝ' do lia, kvazaŭ suno, brilis.--
+  Jam ne ekvidos ni tielan reĝon!
+  Ho, plej terura, granda malĝojego!
+  Ni kolerigis Dion, ni ekpekis:
+  Regnestron ni de reĝo mortiginton
+  Elektis!
+
+Grigorio.
+           Longe jam, ho sankta patro,
+  Demandi vin deziris mi pri morto
+  De juna Dimitrio; vi ja tiam,
+  Mi aŭdis, estis en Ugliĉ'.
+
+Pimeno.
+                            Memoras!...
+  Devigis Dio min malbonon vidi,--
+  Terura peko! Tiam mi Ugliĉon
+  Pro ia novicaĵ' sendita estis.
+  Mi venis nokte. Jen matene frue
+  Ekaŭdis mi tumultan sonorilon....
+  Kriego, bruo.... Oni kuras korton
+  Reĝinan...--ankaŭ mi,--kaj tie estas
+  Jam tuta urbo... Vidas mi reĝidon:
+  Jen mortigita li sur tero kuŝas.
+  Reĝin'--patrino apud li en sveno,
+  En malespero ploras nutristino,--
+  Kaj jam popol' furioziĝe trenas
+  Malpian perfidintan vartistinon....
+  Subite jen kruela, tute pala
+  Aperas tie Judo--Bitjagovskij.
+  «Jen, jen krimulo!» ĉiuj tuj ekkriis,
+  Kaj oni lin disŝiris. Poste multaj
+  Ekkuris post aliaj tri krimuloj;
+  Kaŝintajn sin krimulojn oni kaptis
+  Kaj alkondukis al infan' malviva:
+  Ho, mirindaĵo!--malvivul' ektremis!
+  «Ekpentu!» al krimuloj oni kriis;
+  Kaj en teruro granda sub hakilo
+  Ekpentis ili--kaj Borison nomis.
+
+Grigorio.
+  De kia aĝ' reĝido tiam estis?
+
+Pimeno.
+  Sep-jara, ŝajne; nun li sekve estus--
+  (Dek jaroj pasis jam... Ne, ne, pli multe:
+  Dek du.)--li estus via samaĝulo
+  Kaj reĝus; Dio do alie volis.
+  Per tiu ĉi rakonto mi nun finos
+  Kronikon mian; jam de tiu tempo
+  Malmulte mi eniĝis mondon. Frato,
+  Ellernis vi legadon kaj skribadon,
+  Al vi transdonas mi laboron mian.
+  Libera kiam estos vi de preĝo,
+  Ne filozofiante nur, priskribu
+  Vi ĉion, kion vi en vivo vidos:
+  Militon, pacon, kaj regadon reĝan,
+  Kaj mirindaĵojn ĉiujn de sanktuloj,
+  Kaj profetaĵojn, kaj ĉielajn signojn,--
+  Al mi do tempo estas jam ripozi,
+  Estingi lampon.... Sed sonor' jam estas
+  Al sankta preĝ'.... Servantojn benu, Dio!....
+  Al mi bastonon donu, Grigorio.... (li foriras.)
+
+Grigorio.
+  Boriso!... Ĉio antaŭ vi tremadas!
+  Neniu memorigi vin kuraĝas
+  Pri sorto de infano malfeliĉa;
+  Kaj en malluma ĉambro jen ermito
+  Teruran tie ĉi raporton skribas....
+  Kaj tiel de terura juĝo Dia,
+  Vi ankaŭ juĝon mondan ne evitos!...
+
+
+Ĉambroj de patriarko.
+
+PATRIARKO kaj Abato de ĈUDOVA MONAĤEJO.
+
+Patriarko.
+Kaj li forkuris, patro abato?
+
+Abato.
+Forkuris, sankta patro,--jen jam pasis tria tago.
+
+Patriarko.
+Petolulo malbenita! El kia gento li devenas?
+
+Abato.
+El gento de Otrepiev'oj, de nobelidoj; en frua juneco li
+fariĝis monaĥo,--oni ne scias kie, loĝis en Suzdal, en Jefima
+monaĥejo; de tie li foriris, estadis en diversaj monaĥejoj,--fine
+li venis al mia Ĉudova frataro; mi, vidante, ke li estas ankoraŭ
+juna kaj senprudenta, donis lin sub estradon de patro Pimeno,
+maljunulo kvieta kaj humila. Li estis scianta legi kaj skribi, li
+legadis niajn kronikojn, verkadis kanonojn por sanktuloj,--sed,
+videble, tiu ĉi sciado ne de Dio estis al li donita....
+
+Patriarko.
+Ho, tiuj ĉi sciuloj! Kian sensencaĵon li elpensis!
+«Mi estos reĝo en Moskvo!» Ho, vazo diabla!.... Sed pri tio ĉi
+oni ne devas eĉ raporti al reĝo; pro kio tumulti patron-regnestron?
+Sufiĉe estos anonci pri lia forkuro al sekretario Smirnov, aŭ al
+Sekretario Jefimiev... Kia herezo! «Mi estos reĝo en Moskvo!» Oni
+devas kapti, kapti servanton diablan, kaj forsendi lin Solovkan
+monaĥejon por eterna pentado.--Tio ĉi ja herezo estas, patro abato?
+
+Abato.
+Herezo, sankta patro, ĝusta herezo!...
+
+
+Reĝa palaco.
+
+Du Korteguloj.
+
+Unua.
+  Regnestro kie?
+
+Dua.
+                 En dormejo sia.
+  Kun ia li sorĉisto sin enŝlosis.
+
+Unua.
+  Jen kia estas lia okupado!
+  Sorĉistoj, magiistoj, sorĉistinoj!
+  Divenas ĉiam, kvazaŭ fianĉino.
+  Mi volus scii, kion li divenas?
+
+Dua.
+  Jen iras li. Ĉu volas vi demandi?
+
+Unua.
+  Malluma li....
+
+(ili foriras.)
+
+Reĝo (eniras).
+               Atingis mi potencon...
+  Jam sesan jaron reĝas mi trankvile,
+  Feliĉon do ne havas!... Ĉu ne tiel
+  Ni en juneco enamiĝas, volas
+  Plezurojn amajn, sed nur kvietigis
+  Malsaton koran ni per posedado,--
+  Malvarmiĝinte jam, ni turmentiĝas!...
+  Al mi sorĉistoj vane promesadas
+  Longegajn tagojn de potenc' trankvila,--
+  Nek vivo, nek potenco min gajigas:
+  Mi antaŭsentas tondron kaj malĝojon.
+  Feliĉ' forestas. Pensis mi popolon
+  En kontentec', en gloro kvietigi,
+  Kaj per boneco ĝian amon trovi,--
+  Sed vanan provon baldaŭ mi forlasis:
+  Potenco viva por popol' ne estas
+  Agrabla,--ĝi mortintojn sole amas.--
+  Malsaĝaj estas ni, se kri' popola,
+  Aŭ forta plor' tumultas nian koron.--
+  Malsaton sendis Di' sur nian teron;
+  Popolo en suferoj pereadis;
+  Por ili tuj malfermis mi grenejojn;
+  Mi oron ŝutis; mi laborojn trovis--
+  Kaj ili furioze min mallaŭdis!
+  Bruleg' iliajn domojn neniigis;
+  Por ili mi konstruis novajn domojn--
+  Kaj ili min riproĉis je brulego!
+  Jen estas juĝo, amo de popolo!
+  En familio serĉis mi konsolon,
+  Filinon mi ekvolis edzinigi;
+  Fianĉon morto, kvazaŭ vent', forportis--
+  Kaj jen subite ruza famo faras
+  Min kulpa je filina vidvineco,
+  Min mem, min mem, min, patron malfeliĉan!...
+  Se iu mortas,--mortigint' mi estas:
+  Mi rapidigis morton Teodoran,
+  Venenis ankaŭ mi fratin'-reĝinon,
+  Humilan monaĥinon... mi eterne!
+  Mi sentas: nin nenio iam povas
+  En mondaj malĝojegoj kvietigi;
+  Nenio.... Eble, sola konscienco,--
+  Jes, sola ĝi, sendube, ektriumfos
+  Je malboneco kaj je kalumnio;
+  Sed se en ĝi makulo kvankam unu,
+  Nur unu, eĉ okaze, eltroviĝas,
+  Mizero estas: kvazaŭ per ulcero
+  Anim' forbrulos, koro veneniĝos,
+  Riproĉo, kvazaŭ per martelo, frapas
+  En kap', kaj naŭzo ĉiam, kaj kapturno,
+  Kaj punktoj estas sangaj en okuloj...
+  Forkuri vi deziras, sed... Terure!
+  Terure!... Plej mizera estas tiu,
+  En kiu konscienc' ne pura estas!...
+
+
+Drinkejo sur Litva limo.
+
+MISAILO kaj VARLAAMO, vagistoj--kvazaŭ monaĥoj;
+GRIGORIO OTREPIEV en ordinara vesto; Mastrino.
+
+Mastrino.
+Per kio do mi vin regalos, honoraj maljunuloj?
+
+Varlaamo.
+Per tio, kion Dio donis, mastrineto.--Ĉu vi ne havas
+brandon?
+
+Mastrino.
+Kial do ne, pastroj miaj! Mi tuj alportos.
+
+(Ŝi eliras.)
+
+Misailo.
+Pro kio do vi eksopiris, kolego? Jen estas limo Litva,
+kiun vi tiel volis atingi.
+
+Grigorio.
+Ĝis kiam mi ne estos en Litvo, ĝis tiu tempo mi ne
+povas esti trankvila.
+
+Varlaamo.
+Kial vi tiel ekamis Litvon? Jen ni, patro Misailo
+kaj mi, peka, de tiu tempo kiel ni forkuris el monaĥejo, ni pri
+nenio eĉ pensas: ĉu Litvo, ĉu Rusujo, ĉu fajfilo, ĉu harpo, por
+ni estas tute egale, estu nur brando... kaj jen ankaŭ ĝi estas!...
+
+Misailo.
+Bone estas dirite, patro Varlaamo.
+
+Mastrino (eniras).
+Jen, vi havas, patroj miaj. Trinku por sano.
+
+Misailo.
+Mi dankas, kara, Dio vin benu. (Ili trinkas. Varlaamo
+ekkantas.) Kial do vi ne kantas kaj ne trinkas?
+
+Grigorio.
+Mi ne volas.
+
+Misailo.
+Libero estas por liberulo...
+
+Varlaamo.
+Kaj paradizo--por malsobrulo, patro Misailo! Trinku do
+glaseton pro mastrineto... (li trinkas.) Tamen, patro Misailo,
+kiam mi drinkas, tiam mi ne amas sobrajn: alia afero estas drinkado,
+kaj alia--fierado; se vi volas vivi kiel ni,--ni petas, se ne--for!
+malaperu: arlekeno ne estas kolego por pastro.
+
+Grigorio.
+Sidu ĉe brando kaj pensu pri grando, patro Varlaamo!...
+Ĉu vi vidas, mi ankaŭ iafoje scias bone diri.
+
+Varlaamo.
+Pri kio do mi devas pensi?
+
+Misailo.
+Forlasu lin, patro Varlaamo.
+
+Varlaamo.
+Kial do li estas tia fastulo? Li mem al ni venis, kiel
+kolego, oni ne scias--kiu, ne scias--de kie, sed li tiel fieras.
+(Li trinkas kaj kantas.)
+
+Grigorio (al mastrino).
+Kien iras tiu ĉi vojo?
+
+Mastrino.
+Litvon, mia kara, al Luevaj montoj.
+
+Grigorio.
+Kaj ĉu malproksime estas Luevaj montoj?
+
+Mastrino.
+Ne malproksime, ĝis vespero oni povus tien aliri, se
+ne estus baroj reĝaj kaj gardantaj observistoj.
+
+Grigorio.
+Kiaj baroj? Kion tio ĉi signifas?
+
+Mastrino.
+Iu forkuris el Moskvo kaj estas ordonite ĉiujn
+kapti kaj pririgardi.
+
+Grigorio (al si mem).
+Jen vi havas!... (Laŭte.) Kiun do oni
+bezonas? Kiu forkuris el Moskvo?
+
+Mastrino.
+Dio lin konas, ĉu ŝtelisto, ĉu rabisto,--sed tie
+ĉi eĉ bonaj homoj nun ne povas trairi. Kaj kiaj rezultatoj el tio
+ĉi estos? Neniaj; oni eĉ laman diablon ne kaptos: kvazaŭ Litvon ne
+ekzistas alia vojo, krom vojo granda! Jen, ekzemple, de tie ĉi--sin
+turnu maldekstren, kaj per arbaro iru sur vojeto ĝis preĝejeto, kiu
+estas super Ĉekana rivereto, kaj poste rekte trans marĉon al
+Ĥlopino, de tie al Zaĥarievo, kaj tie jam ĉiu knabeto povas vin
+alkonduki al Luevaj montoj. Tiuj ĉi observistoj nur pasantojn
+premas, kaj nin, mizerulojn, ĉirkaŭŝiras. (Estas aŭdata bruo.)
+Kio tie ankoraŭ estas? Ha, jen estas ili, malbenitaj! ili patrolas.
+
+Grigorio.
+Mastrino! ĉu vi ne havas en dometo ian alian angulon?
+
+Mastrino.
+Ne, mia kara,--mi mem volus min kaŝi. Estas nur solaj
+vortoj, ke ili patrolas,--sed donu al ili brandon, panon kaj
+ĉion,--malviviĝu ili, malbenitaj! Ke ili....
+
+(Observistoj eniras.)
+
+Observisto.
+Bonan tagon, mastrino!
+
+Mastrino.
+Bone venu, karaj gastoj, mi petas!
+
+Unua observisto (al dua).
+Ba! Tie ĉi oni drinkas; ni havos, kion
+manĝeti. (Al monaĥoj.) Vi kiaj homoj estas?
+
+Varlaamo.
+Ni estas Diaj maljunuloj, monaĥoj humilaj, ni iradas
+en vilaĝoj, kaj kolektas almozon kristanan por monaĥejo.
+
+Observisto (al Grigorio).
+Kaj vi?
+
+Misailo.
+Nia kolego....
+
+Grigorio.
+Mi estas burĝo el urbeto: mi akompanis maljunulojn
+ĝis limo; de tie ĉi mi iros hejmen.
+
+Misailo.
+Ĉu vi jam ne volas....
+
+Grigorio (mallaŭte).
+Silentu.
+
+Observisto.
+Mastrino, donu ankoraŭ brandon; ni do tie ĉi kun
+maljunuloj trinkos kaj interparolos.
+
+Dua observisto (mallaŭte).
+Knabo, ŝajne, estas nuda, de li oni
+nenion povas preni; sed maljunuloj....
+
+Unua.
+Silentu, tuj ni ilin palpos.--Kio do, patroj miaj, ĉu
+bone iras viaj aferoj?
+
+Varlaamo.
+Malbone, filo, malbone! Nun kristanoj fariĝis avaraj;
+ili monon amas, monon kaŝas. Malmulte ili donas al Dio. Venis peko
+granda sur popolojn terajn. Ĉiuj komencis komercadi, profitadi;
+pensas pri monda riĉeco, sed ne pri savo de animo. Ni iradas,
+iradas; petadas; iafoje en tri tagoj eĉ tri kvaronkopekojn ne povas
+elpeti. Tia estas peko! Forpasas semajno, dua, ni enrigardas monujon,
+kaj en ĝi estas tiel malmulte, ke eĉ honte estas monaĥejon iri;
+kion fari? de malĝojo ni eĉ restaĵon fordrinkas; mizero estas, kaj
+nenio plu.--Ho, malbone estas, videble, nia lasta tempo venis....
+
+Mastrino (ploras).
+Dio kompatu kaj savu!
+
+(En daŭro de Varlaama parolo unua observisto signifie rigardas Misailon.)
+
+Unua observisto.
+Alekso! Ĉu vi havas reĝan ordonon?
+
+Dua.
+Jes, mi havas.
+
+Unua.
+Donu do ĝin al mi.
+
+Misailo.
+Kial vi tiel atente min rigardas?
+
+Unua observisto.
+Jen kial: el Moskvo forkuris iu malbona
+herezisto, Griŝko Otrepiev. Ĉu vi tion ĉi aŭdis?
+
+Misailo.
+Mi ne aŭdis.
+
+Observisto.
+Ne aŭdis? Bone. Kaj tiun forkurintan hereziston
+reĝo ordonis kapti kaj sufoki.--Ĉu vi tion ĉi scias?
+
+Misailo.
+Ne, mi ne scias.
+
+Observisto (al Varlaamo).
+Ĉu vi scias legi?
+
+Varlaamo.
+En juneco mi sciis, sed forgesis.
+
+Observisto (al Misailo).
+Kaj vi?
+
+Misailo.
+Min ne instruis Dio.
+
+Observisto.
+Jen, vi havas reĝan ordonon.
+
+Misailo.
+Por kio mi ĝin bezonas?
+
+Observisto.
+Al mi ŝajnas, ke tiu ĉi forkurinta herezisto,
+ŝtelisto kaj fripono--estas vi.
+
+Misailo.
+Mi? Kompatu! kion vi diras!
+
+Observisto.
+Haltu! Fermu pordon. Jen ni tuj ekscios.
+
+Mastrino.
+Ha! malbenitaj turmentantoj! Ili eĉ maljunulon
+ne forlasas!
+
+Observisto.
+Kiu tie ĉi scias legi?
+
+Grigorio (eliras antaŭen).
+Mi scias!
+
+Observisto.
+Jen, prenu... Sed de kiu vi ellernis?
+
+Grigorio.
+De nia sanktaĵisto.
+
+Observisto (donas al li ordonon).
+Legu do laŭte.
+
+Grigorio (legas).
+«El Ĉudova monaĥejo seninda monaĥo Grigorio,
+el gento de Otrepievoj, fariĝis herezisto kaj, instruita de diablo,
+kuraĝis eksciti sanktan frataron per diversaj tentaĵoj kaj
+malpiaĵoj. Kaj, laŭ informiĝoj, montriĝis, ke forkuris li
+malbenita Griŝko, al limo Litva...»
+
+Observisto (al Misailo).
+Kiel do ne vi?
+
+Grigorio.
+«Kaj reĝo ordonis lin kapti....»
+
+Observisto.
+Kaj sufoki!
+
+Grigorio.
+Tie ĉi ne estas dirite: «sufoki.»
+
+Observisto.
+Vi mensogas! ne ĉiun vorton oni skribas en linion.
+Legu: kapti kaj sufoki.
+
+Grigorio.
+«Kaj sufoki. Aĝon havas ŝtelisto Griŝko.... (rigardante
+Varlaamon) pli ol kvindek jaroj, lia alteco estas meza, frunton li
+havas senharan, barbon grizan, ventron dikan.» (Ĉiuj rigardas
+Varlaamon.)
+
+Unua observisto.
+Fratoj! Tie ĉi estas Griŝko! tenu, ligu
+lin! Mi eĉ ne pensis pri tio ĉi!
+
+Varlaamo (depreninte paperon).
+For, petoluloj! Kia mi estas
+Griŝko? Kiel! kvindek jaroj, barbo griza, ventro dika! Ne, frato, vi
+ankoraŭ juna estas por fari ŝercojn kun mi. Mi jam longe ne legis
+kaj legas tute malbone, sed nun mi jam tralegos, se oni min volas
+sufoki (Li legas silabe.) «Aĝon li havas de dudek jaroj.»--Kio,
+frato, kie do estas kvindek? vidu--dudek?
+
+Dua observisto.
+Jes, mi memoras, dudek; tiel same ankaŭ al ni
+estis dirite.
+
+Unua observisto (al Grigorio).
+Vi, frato, videble estas
+ŝerculo.
+
+(En daŭro de legado, Grigorio staras, mallevinte kapon, havante
+manon en brusta poŝo.)
+
+Varlaamo (daŭrigas).
+«Alteco lia estas malgranda, brusto
+larĝa, unu mano estas pli mallonga, ol alia, okuloj estas bluaj,
+haroj--flavruĝaj, sur vango estas veruko, sur frunto--alia.» Ĉu ne
+vi, amiko, tio ĉi estas?
+
+(Grigorio subite elmetas ponardon; ĉiuj antaŭ li disiras; li
+rapide sin ĵetas fenestron.)
+
+Observistoj.
+Tenu! Tenu!...
+
+(Ĉiuj kuras en senordo.)
+
+
+Moskvo.--Domo de Ŝujskij.
+
+ŜUJSKIJ; multego da gastoj; vespermanĝo.
+
+Ŝujskij.
+  Ankoraŭ vinon! (Li sin levas, ĉiuj ankaŭ.)
+                 Karaj gastoj miaj,
+  Ĉerpilon lastan! Legu preĝon, knabo.
+
+Knabo.
+  Ĉiela reĝ', estanta ĉie, ĉiam!
+  Atentu preĝon vi de sklavoj viaj:
+  Unua preĝo pri regnestro nia,
+  De Dio elektita kaj plej pia,
+  Pri aŭtokrata reĝo de kristanoj.
+  En domo gardu lin, kaj en milito,
+  Sur vojoj, kaj sur lito de ripozo.
+  Al li de malamikoj venkon donu,
+  Kaj glora estu li de mar' ĝis maro.
+  En sano floru lia familio,
+  Kaj ĝiaj plej amindaj branĉoj ombru
+  Senfinan mondon; kaj al ni, al sklavoj,
+  Li estu, kiel ĉiam, bonfavora,
+  Afabla, bona, longepacienca;
+  Kaj fontoj de saĝec' lia senfina
+  Sur nin elfluu sufiĉege, gaje!
+  Kaj jen, ĉerpilon reĝan eklevinte,
+  Ni preĝas antaŭ Vi, Ĉiela Reĝo.
+
+Ŝujskij (trinkas).
+  Ho, estu ĉiam sana, granda reĝo!
+  Adiaŭ, gastoj miaj vi plej karaj;
+  Mi dankas, ke ne abomenis mian
+  Regalon vi. Adiaŭ, bonan nokton!
+
+(Gastoj foriras, li akompanas ilin ĝis pordo.)
+
+Puŝkin.
+Fine ili foriris; nu, princo Vasilij Ivanoviĉ, mi
+jam pensis, ke ni ne povos eĉ interparoladi.
+
+Ŝujskij (al servantoj).
+Vi kial buŝon malfermis? Vi ĉiam nur
+sinjorojn viajn subaŭskultas. Forigu ĉion de tablo kaj iru
+for!--Kio okazis, Atanaso Miĥajloviĉ?
+
+Puŝkin.
+  Mirindaĵoj, kaj nenio plu!
+  Hodiaŭ mia nev', Gavrilo Puŝkin,
+  Al mi kurjeron sendis el Krakovo.
+
+Ŝujskij.
+  Nu?
+
+Puŝkin.
+      Strangan li al mi novaĵon skribas...
+  Fil' de Johan'... Atendu (aŭskultas ĉe pordo).
+                           Reĝa knabo,
+  Laŭ ordo de Boriso mortigita....
+
+Ŝujskij.
+  Sed tio ĉi ne estas nov'.
+
+Puŝkin.
+                            Atendu:
+  Dimitrij vivas.
+
+Ŝujskij.
+                  Jen sciigo kia!
+  Reĝido vivas! Nu, mirinde estas!
+  Nur tio ĉi?
+
+Puŝkin.
+              Aŭskultu min ĝis fino;
+  Li estus kiu ajn, ĉu mem reĝido,
+  Ĉu ia eĉ spirit' en lia vido,
+  Aŭ tre kuraĝa uzurpul'--fripono,--
+  Sed tie nun Dimitrij ekaperis.
+
+Ŝujskij.
+  Ne povas esti.
+
+Puŝkin.
+                Lin mem Puŝkin vidis.
+  Unue kiam li palacon venis,
+  Tra vicoj da sinjoroj Litvaj rekte
+  Trairis li sekretan ĉambron reĝan.
+
+Ŝujskij.
+  Sed kiu li, de kie?
+
+Puŝkin.
+                      Mi ne scias.
+  Nur oni scias, ke li longe servis
+  Ĉe Viŝneveckij; kaj ke kiam estis
+  Malsana li, li al konfesprenanto
+  Malkovris ian sekretaĵon gravan;
+  Kaj fierul', sekreton eksciinte,
+  Dorlotis lin, kaj levis lin de lito
+  Kaj lin al Sigizmund' forveturigis.
+
+Ŝujskij.
+  Vi ion aŭdis pri bravulo tiu?
+
+Puŝkin.
+  Mi aŭdis, ke li estas saĝa, lerta,
+  Al ĉiuj plaĉas. Forkurintojn Moskvajn
+  Li ravis tute. Litvaj pastroj estas
+  Kunuloj liaj. Reĝo lin dorlotas--
+  Kaj, oni diras, helpi lin promesis.
+
+Ŝujskij.
+  Nu, tio ĉi konfuzo tia estas,
+  Ke esti povas eĉ kapturno, frato.
+  Sendube, jes, li estas uzurpulo!
+  Konfesas mi, danĝero estas granda,
+  Sciigo grava estas! se atingos
+  Popolon ĝi, ventego estos forta.
+
+Puŝkin.
+  Ventego tia, ke malcerte reĝo
+  Konservos kronon sur saĝega kapo.
+  Kaj prave estos, ĉar li nin regadas
+  Simile je minaca reĝ' Johano.
+  Ĉu havas vi utilon, ke forestas
+  Por ĉiuj ni videblaj ekzekutoj,
+  Ke nun de sangigita plank' publike
+  Kanonojn ni ne kantas jam al Kristo,
+  Ke oni ne bruligas nin kaj reĝo
+  Per sia sceptro ne subŝovas karbojn?
+  Ĉu havas garantion ni en vivo!
+  Nin ĉiutage malfavor' atendas,
+  Malliberej', kapuĉo, aŭ katenoj,
+  Kaj ankaŭ eĉ malsata mort', aŭ maŝo.
+  Pli eminentaj niaj gentoj kie?
+  Kaj Ŝestunov, kaj Sickij-princoj kie?
+  Romanov, li, espero de patrujo?
+  Forturmentitaj estas en ekzilo....
+  Tiela sama estos via sorto.
+  Eĉ hejme, kvazaŭ per Litvanoj, estas
+  Ni ĉirkaŭitaj per malfideluloj:
+  De ĉie--langoj, pretaj nin perfidi,
+  Ŝtelistoj, de estrar' subaĉetitaj.
+  Dependas ni de ĉia servutulo,
+  Se lin ni iafoje prave punis.
+  En propraj eĉ bienoj ni ne regas:
+  Maldiligentan sklavon ne forpelu!
+  Lin nutru! Laboriston eĉ ne provu
+  Forvoki de najbar'! alie--puno!
+  Ĉu iam aŭdis vi similan ion
+  Eĉ en reĝado de Minaca reĝo?
+  Ĉu vivas jam pli bone nun popolo?
+  Demandu ĝin. Jen, venos uzurpulo,
+  Al ĝi promesos li diversajn bonojn,--
+  Kaj estos jam amuz'.
+
+Ŝujskij.
+                       Vi estas prava.
+  Sed ĉu vi scias? Pri sciigo tiu
+  Silentu ni ĝis tempo.
+
+Puŝkin.
+                        Kompreneble,
+  Por si nur sciu. Estas vi prudenta;
+  Kun vi mi ĉiam amas paroladi,
+  Kaj se min io iam nur tumultas,
+  Mi tion jam de vi ne povas kaŝi;
+  Al tio mielvino kaj biero
+  Al mi malligis langon mian tiel...
+  Adiaŭ princ'!
+
+Ŝujskij.
+               Adiaŭ, ĝis sinvido.
+
+(Akompanas lin.)
+
+
+Reĝaj ĉambroj.
+
+Reĝido desegnas geografian karton. Reĝidino, Nutristino
+de reĝidino.
+
+Ksenio (kisas portreton).
+Ho, mia kara fianĉo, mia plej bela
+reĝido, ne al mi vi apartenas, ne al via fianĉino, sed al malluma
+tombeto en fremda landeto: neniam mi min konsolos, eterne mi ploros.
+
+Nutristino.
+Nu, reĝidino! Fraŭlino, ploras, kvazaŭ roso falas:
+suno suriros, roson sekigos. Vi havos alian fianĉon--kaj belegan kaj
+afablan. Vi lin ekamos, mia infano aminda, kaj vi forgesos
+Johanon-reĝidon.
+
+Ksenio.
+Ne, nutristineto, al li, eĉ mortinta, mi estos fidela.
+
+(Boriso eniras.)
+
+Reĝo.
+  Ksenio mia! ho, filino kara!
+  Ankoraŭ fianĉino--jam vidvino!
+  Vi ĉiam ploras pri fianĉo via?
+  Infano mia! sorto ne permesis
+  Al mi feliĉon vian eĉ vidadi.
+  Kredeble kolerigis ni ĉielon,
+  Feliĉon vian mi ne povis fari;
+  Sed vi, senkulpa! kial vi suferas?
+  Kaj vi, fileto mia, kion faras?
+
+Teodoro.
+  Mi? Teron Moskvan mi desegnas; vidu:
+  Jen estas tuta nia regn'; jen Moskvo,
+  Jen Novgorod', jen Astraĥan'! Jen maro,
+  Plej densaj estas jen arbaroj Permaj,
+  Kaj jen Sibir'.
+
+Reĝo.
+                  Kaj tio kio estas,
+  Jen, tie elkurbiĝas?
+
+Teodoro.
+                       Volgo estas.
+
+Reĝo.
+  Tre bone! Dolĉaj fruktoj de scienco!
+  De nubo kvazaŭ, povas tuj ekvidi
+  Vi regnon tutan: urbojn kaj riverojn....
+  Ho, lernu, fil'; scienco mallongigas
+  Spertadojn de rapidfluanta vivo.
+  Jen iam, eĉ tre baldaŭ, eble, ĉiuj
+  Provincoj tiuj, kiuj vi hodiaŭ
+  Desegnis sur papero tiel bone,
+  Sub via glora potencado estos.
+  Ho, lernu, mia filo, pli facile
+  Laboron regnan tiam vi komprenos.
+
+(Eniras Semiono Godunov.)
+
+  Jen iras kun raporto Semiono.
+  (Al Ksenio.) Animo mia, iru vian ĉambron;
+  Adiaŭ, kara; Dio vin konsolu.
+
+(Ksenio kun nutristino foriras.)
+
+  Nu, kion diros Semion'?
+
+Semiono Godunov.
+                          Hodiaŭ
+  Al mi de Puŝkin kaj de princ' Vasilij
+  Servantoj venis frue kun raporto.
+
+Reĝo.
+  Nu!
+
+Semiono Godunov.
+      Kaj servant' de Puŝkin alraportis,
+  Ke en maten' hieraŭ alveturis
+  Al ili el Krakov' kurjer',--kaj baldaŭ
+  Li sen letero resendita estis.
+
+Reĝo.
+  Tuj kaptu lin.
+
+Sem. Godunov.
+                 Mi sendis persekuton.
+
+Reĝo.
+  Kaj Ŝujskij?
+
+Sem. Godunov.
+                Jen hieraŭ li regalis
+  Amikojn siajn: fratoj Miloslavskij,
+  Buturlin estis, Saltikov Miĥajlo,
+  Kaj Puŝkin, kaj ankoraŭ kelkaj homoj;
+  Disiris ili tre malfrue. Puŝkin
+  Kun mastro mem nur en soleco restis,
+  Kaj longe ili interparoladis.
+
+Reĝo.
+  Alvoku tuje princon Ŝujskij.
+
+Sem. Godunov.
+                              Reĝo!
+  Li estas tie ĉi.
+
+Reĝo.
+                    Al mi lin voku!
+
+(Godunov foriras.)
+
+Reĝo.
+  Kun Litvo interkomuniko! Kio?!...
+  De Puŝkin gento estas abomena,
+  Al Ŝujskij ankaŭ mi ne tre konfidas:
+  Li ruza kaj kuraĝa, evitema....
+
+(Ŝujskij eniras.)
+
+  Bezonas mi kun vi interparoli.
+  Sed, ŝajne, vi mem venis pro afero,
+  Kaj tial mi aŭskultos vin unue.
+
+Ŝujskij.
+  Regnestro! devas mi al vi raporti
+  Sciigon gravan.
+
+Reĝo.
+                 Mi jam vin aŭskultas.
+
+Ŝujskij (mallaŭte montrante Teodoron).
+  Sed reĝo, jen...
+
+Reĝo.
+                 Reĝido povas scii
+  Pri tio, kion scias Ŝujskij. Diru.
+
+Ŝujskij.
+  El Kiev' sciigo venis....
+
+Reĝo.
+                          Tiu, kiun
+  Kurjer' al Puŝkin mem alveturigis?
+
+Ŝujskij.
+  (Li ĉion scias!...) Pensis mi, regnestro,
+  Ke vi ne scias tiun ĉi sekreton.
+
+Reĝo.
+  Nenio, princo; volas mi kombini
+  Sciigojn,--ĉar alie ne ekscios
+  Ni veron.
+
+Ŝujskij.
+            Mi nur tion bone scias,
+  Ke en Krakov', aperis uzurpulo,
+  Kaj ke sinjoroj kaj mem reĝ' lin amas.
+
+Reĝo.
+  Sed kiu estas tiu uzurpulo?
+
+Ŝujskij.
+  Ne scias.
+
+Reĝo.
+            Sed... per kio li danĝera?
+
+Ŝujskij.
+  Regnestro! forta estas via regno;
+  Per amo vi kaj per malavareco
+  Aldonitigis korojn de subuloj;
+  Sed mem vi scias, ke popolamaso
+  Perfida estas, forte ribelema,
+  Kaj ne espera, kaj superstiĉema,--
+  Obea estas al inspir' momenta,
+  Al vero--surda kaj indiferenta,
+  Ĝi nur al fabloj ĉiam konfidadas.
+  Kuraĝo senprudenta al ĝi plaĉas;
+  Kaj, se fripono tiu nesciata
+  Transiros iel nian limon Litvan,
+  Al li popolamason malsaĝegan
+  Altiros nom' reviva de Dimitrij.
+
+Reĝo.
+  Dimitrij!... Kiel? tiu ĉi infano?
+  Dimitrij!... Ha!...--Reĝido, vi foriru.
+
+Ŝujskij (al si mem).
+  Ruĝiĝis li: ventego estos!...
+
+Teodoro.
+                               Reĝo,
+  Permesu, ke....
+
+Reĝo.
+                Ne, mia filo, iru.
+
+(Teodoro foriras.)
+
+  Dimitrij!...
+
+Ŝujskij (al si mem).
+              Li nenion tute sciis.
+
+Reĝo.
+  Aŭskultu, princo, ĉion tuj pretigu;
+  De Litv' Rusujo estu debarita
+  Per baroj; ke neniu kreitaĵo
+  Transiru nian limon; ke leporo
+  Eĉ ne alkuru el Poluj'; ke korvo
+  Ne flugu el Krakovo. Nu, rapidu!
+
+Ŝujskij.
+  Tuj.
+
+Reĝo.
+      Haltu. Ĉu ne vere, ke sciigo
+  Tre sprita estas? Ĉu vi iam konis
+  Mortintojn, el ĉerkujoj elirintajn,
+  Por demandadi reĝojn, leĝajn reĝojn,
+  Publike, unuvoĉe elektitajn,
+  De sankta patriarko mem kronitajn?
+  Ridinde? ha? Sed kial vi ne ridas?
+
+Ŝujskij.
+  Regnestro!...
+
+Reĝo.
+             Ne, aŭskultu, princ' Vasilij:
+  Eksciis kiam mi, ke tiun knabon...
+  Ke tiu ĉi knabeto iel mortis,
+  Mi sentis vin por esplorado; nun do
+  Per kruco, kaj per Dio mi vin petas,
+  Laŭ konscienco, vi anoncu veron:
+  Ĉu vi ekkonis mortigitan knabon?
+  Kaj ĉu ne estis ŝanĝo? Nu, respondu.
+
+Ŝujskij.
+  Sed ĵuras mi....
+
+Reĝo.
+                Ne, Ŝujskij, vi ne ĵuru,
+  Respondu: ĉu reĝido estis?
+
+Ŝujskij.
+                             Jes.
+
+Reĝo.
+  Pripensu, princ', favoron mi promesas,
+  Mensogon jam pasintan mi ne punos
+  Per malfavoro. Sed se nun vi ankaŭ
+  Deziras ruzi vi--je kap' de mia filo
+  Mi ĵuras vin kruele ekzekuti.
+  Mi tiel ekzekutos, ke Johano
+  Eĉ mem en ĉerko de terur' ektremos.
+
+Ŝujskij.
+  Ne puno,--malfavoro min timigas!
+  Ĉu mi kuraĝos antaŭ vi malici?
+  Kaj ĉu mi povis tiel ekerari,
+  Ke lin mi ne ekkonis? Mi tri fojojn
+  Vizitis en preĝejo malvivulon,
+  Portitan tien per Ugliĉo tuta.
+  Ĉirkaŭis lin ankoraŭ dek tri korpoj,
+  Per man' popola disŝiritaj,--ili
+  Jam rimarkeble tute forputradis,
+  Vizaĝo do reĝida estis klara,
+  Trankvila, freŝa, kvazaŭ li nur dormis;
+  Profunda vund' ankoraŭ ne krustiĝis,
+  Kaj trajtoj liaj tute ne ŝanĝiĝis.--
+  Ho ne, regnestro, tute mi ne dubas:
+  Dimitrij mortis.
+
+Reĝo.
+                   Nu, sufiĉe, iru. (Ŝujskij foriras.)
+  Ha, ŝarĝe estas!... Pensojn mi kolektu!...
+  Mi tentis: sango tuta al vizaĝo
+  Sin ĵetis, poste reen ĝi defluis....
+  Jen kial dek tri jarojn intersekve
+  Infanon mortigitan mi sonĝadis!
+  Jes, jes--jen kial! nun mi jam komprenas.
+  Sed kiu estas mia kontraŭulo?
+  Kaj kiu kontraŭ mi? Nur nomo, ombro,--
+  Ĉu povas ombr' de mi forŝiri kronon,
+  De idoj miaj heredaĵon preni?
+  Ho, malsaĝulo! kial mi ektimis?
+  Nur blovu vi fantomon--ĝi forflugos.
+  Jes, estas decidite: mi ne timos--
+  Malŝati tamen mi nenion devas....
+  Tre peza vi, ho, ĉapo Monomaĥa!
+
+
+Krakovo. Domo de Viŝneveckij.
+
+Uzurpulo kaj Pastro Ĉernikova.
+
+Uzurpulo.
+  Ne, mia patro, embaras' forestas.
+  Animon molan de popolo mia
+  Mi bone scias: ĉiam sankta estos
+  Por ĝi ekzemplo de regnestro ĝia.
+  Por religio--ĝi indiferenta.
+  Kaj baldaŭ--donas mi eĉ garantion--
+  Entute religio orienta
+  Ekamos forte Petran vikarion.
+
+Patro.
+  Vin bone gardu sankta Ignatio!
+  Alie jam komencos vi vivadi.
+  Sed nun, reĝido, devas vi ĝis tiam
+  Intencojn viajn en anim' kaŝadi;
+  Ŝajnigi sin kun plej malpia mondo
+  Al ni ordonas ofte sankta devo:
+  Aferojn viajn, vortojn--juĝas homoj,
+  Intencojn do nur sola Dio vidas.
+
+Uzurpulo.
+  Amen! Kiu tie?
+
+(Eniras servanto.)
+
+                 Diru: ni akceptas.
+
+(Pordo malfermiĝas. Eniras amaso da Rusoj kaj Poloj.)
+
+  Kolegoj miaj! morgaŭ jam eliros
+  Ni el Krakovo. Mi deziras, Mniŝek,
+  Al vi Samboron post tri tagoj veni.
+  Mi scias, ke kastel' gastama via
+  Briladas ĉiam per lukseco nobla
+  Kaj estas glora per mastrino juna.
+  Marinon plej belegan mi esperas
+  Ekvidi tie. Vi do, ho amikoj,
+  Rusujo, Litvo, kun kuraĝ' levintaj
+  Standardojn fratajn kontraŭ malamiko
+  Malica ĉiam, mia malbonulo,--
+  De Slavoj filoj, baldaŭ mi kondukos
+  Por batalado kolegarojn viajn!
+  Sed inter vi mi vidas novajn homojn?
+
+Gavrilo Puŝkin.
+  Alvenis ili al favoro via
+  Pro glavo kaj servado.
+
+Uzurpulo.
+                         Mi tre ĝojas.
+  Alvenu. Kiu do, al mi vi diru,
+  Belulo tiu?
+
+Puŝkin.
+              Kurbskij.
+
+Uzurpulo.
+                       Glora nomo!
+  Parenc' vi estas de hero' Kazana?
+
+Kurbskij.
+  Mi--filo lia.
+
+Uzurpulo.
+               Vivas li?
+
+Kurbskij.
+                        Ne, mortis....
+
+Uzurpulo.
+  Grandega saĝo! Viro de batalo!...
+  De tiu tempo tamen, kiam estis
+  Li sub antikva Olga urb' kun Litvoj,
+  Por venĝi tie siajn ofendantojn,--
+  Pri li silentas famo.
+
+Kurbskij.
+                        Mia patro
+  Pasigis reston de vivado sia
+  En de Batorij donacita tero.
+  En izoleco li trankvile vivis,
+  Serĉante en sciencoj nur konsolon;
+  Sed ne konsolis lin laboro paca:
+  Patrujon de juneco memorante,
+  Pri ĝi li ĉiam forte sopiradis.
+
+Uzurpulo.
+  Ho, estro malfeliĉa! Kiel hele!
+  Tre ĝojas mi, heroo mia nobla,
+  Ke lia ido kun patruj' paciĝas--
+  De patroj kulpojn mi ne rememoras;
+  Alproksimiĝu, Kurbskij... donu manon!
+  Tre strange! Fil' de Kurbskij mem kondukas
+  Sur tronon--kiun? filon de Johano!...
+  Min helpas ĉio: homoj kaj mem sorto!
+  Kaj vi?
+
+Polo.
+          Sobanskij mi, nobel' libera.
+
+Uzurpulo.
+  Mi vin salutas, id' de libereco!
+  Al li trionon de salajr' elpagu.
+  Sed tiuj ĉi? Sur ili mi ekkonas
+  Patrujan veston. Ili estas niaj.
+
+Ĥrusĉov (salutas).
+  Jes, nia patro-reĝ'. Ni estas viaj
+  Fervoraj, elpetitaj servutuloj.
+  El Moskvo ni de malfavor' forkuris
+  Al vi, regnestr',--pro vi ni estas pretaj
+  Eĉ morti,--estu niaj malvivuloj
+  Por vi ŝtupar' al Moskva reĝa trono.
+
+Uzurpulo.
+  Kuraĝu vi, senkulpaj turmentitoj--
+  Permesu nur al mi atingi Moskvon,
+  Kaj tie jam Boris elpagos ĉion.
+  Vi kiu?
+
+Karelo.
+          Venis mi de Don' libera.
+  Al vi min sendis niaj kuraĝuloj,
+  Okulojn viajn klarajn reĝajn vidi,
+  Al vi proponi ĉiujn niajn kapojn.
+
+Uzurpulo.
+  Mi konas Donon: mi ne dubis vidi
+  Standardon Donan inter miaj vicoj.
+  Tre dankas ni militon nian Donan.
+  Ni scias, ke kozakoj nune estas
+  Maljuste alpremataj kaj pelataj;
+  Sed se nin Dio helpos ekposedi
+  De patro tronon, tuj, laŭ antikveco,
+  Favoros ni fidelan nian Donon.
+
+Poeto (alproksimiĝas, malalte salutante kaj kaptante baskon de Griŝko).
+  Plej granda princo kaj reĝid' plej klara!
+
+Uzurpulo.
+  Vi kion volas?
+
+Poeto (donas al li paperon).
+                  Prenu kun favoro
+  Mizeran frukton de fervor-laboro.
+
+Uzurpulo.
+  Ho, kion vidas mi? Latinaj versoj!
+  Plej sankta estas lig' de glav' kun liro,--
+  Ĉar unu laŭr' amike ilin ligos.
+  Sub norda mi ĉielo eĉ naskiĝis,
+  Sed kun latina muzo konatiĝis,
+  Kaj florojn de Parnas' mi kore amas.
+  Mi kredas profetaĵojn de poetoj.
+  Ne vane en ilia flama brusto
+  Ekbolas ravo: faron, kiun gloris
+  Poetoj, jam antaŭe benu, Dio!
+  Alvenu, kara. Pro memoro mia
+  Alprenu. (Donas al li ringon.)
+           Kiam jam kun mi fariĝos
+  Antaŭdifin' de sorto, kiam kronon
+  Prapatran mi surmetos, ree aŭdos
+  Mi voĉon vian kaj inspiran himnon:
+  «Musa gloriam coronat gloriaque musam.»
+  Kaj nun, amikoj, ĝis sinvido morgaŭ!
+
+Ĉiuj.
+  Eliru!... Vivu princ' Dimitrij, vivu!
+  Eterne vivu granda princo Moskva!
+
+
+Kastelo de vojevodo Mniŝek en Samboro.
+
+_Tualetejo de Marino._
+
+MARINO, RUZJA (ornamas ŝin). Servantinoj.
+
+Marino (antaŭ spegulo).
+  Ĉu baldaŭ? Vi ne povas rapidigi?
+
+Ruzja.
+  Permesu--estas jen malfacilaĵo,--
+  Per kio vi vin volas ornamigi,
+  Per belaj perloj, aŭ per smeraldaĵo?
+
+Marino.
+  Al mi vi donu kronon diamantan.
+
+Ruzja.
+  Bonege! Vi memoras? vi ĝin vestis
+  Ankoraŭ kiam balon plej brilantan
+  Kortegan vi veturis? Tie estis
+  Vi kvazaŭ suno,--ĉiuj viroj restis
+  De vi en rav', fraŭlinoj for rapidis....
+  Ĥotkeviĉ juna tiam vin ekvidis
+  Kaj sin mortpafis.... Kiu proksimiĝas
+  Al vi nur, tiu tuj vin enamiĝas!...
+
+Marino.
+  Ĉu baldaŭ?
+
+Ruzja.
+             Tuj, fraŭlino kara mia.
+  Je vi espera forte patro via;
+  Ne vane vidis vin reĝido, eble;
+  Ne povis li eĉ kaŝi ravon sian;
+  Kaj tial povas vi jam koron lian
+  Facile venki nun kredeble.
+  Ĉe ni lin sole amo tenas!
+  Monaton tutan jam, veninte
+  Al ni, militon forgesinte
+  Kaj tronon Moskvan, li festenas
+  Kaj Rusojn, Litvojn kolerigas....
+  Al tio kio lin devigas?
+  Esperas mi, ke, kiam vin, fraŭlino,
+  Dimitrij faros Moskvan jam reĝinon,
+  Vi ne forlasos vian servantinon?
+
+Marino.
+  Ĉu pensas vi, ke estos mi reĝino?
+
+Ruzja.
+  Sed kiu? La plej bela vi ja estas,
+  Je vi egalaj per belec' forestas!
+  De Mniŝek gento cedis al nenia;
+  Vi estas bela super laŭdo ĉia....
+  Feliĉa estos tiu, kiun vi ekamos,
+  Al kiu via bona kor' per amo flamos--
+  Se eĉ li estus reĝo nia
+  Aŭ eĉ de francaj reĝoj ido....
+  Ne sole tiu ĉi reĝido
+  Mizera, nesciata ia!
+
+Marino.
+  Reĝidon tuta mond' lin opinias.
+
+Ruzja.
+  Sed ja pasintan vintron li estadis
+  Ĉe Viŝneveckij, kaj al li servadis.
+
+Marino.
+  Li kaŝis sin.
+
+Ruzja.
+               Nu, tion ĉi mi scias.
+  Sed ĉu jam estas vi sciinta,
+  Pri li popolo kion diras?
+  Ke estas li el Moskvo forkurinta
+  Fripono, kiu nur pro krimo iras.
+
+Marino.
+  Ho, kia sensencaĵo!
+
+Ruzja.
+                      Tute vere!
+  Je tio ĉi ne kredas mi, fraŭlino;
+  Sed danka devas esti li sen fino,
+  Ke lin el multaj amas vi sincere....
+
+Servantino (enkuras).
+  Alvenis gastoj!
+
+Marino.
+                  Kiel, kara mia,
+  Vi tiel babilema estas
+  Kaj kiel longe vi min vestas!
+
+Ruzja.
+  Tuj, tuj!... (servantinoj kuradas kaj rekuradas).
+
+Marino (al si mem).
+  Ekscios mi pri sort' pasinta lia....
+
+
+Vico da lumigitaj ĉambroj. Muziko.
+
+VIŜNEVECKIJ kaj MNIŜEK
+
+Mniŝek.
+  Kun mia nur Marino li parolas,
+  Pri unu nur Marino ankaŭ pensas...
+  Afero al edziĝo proksimiĝas;
+  Ĉu pensis vi--konfesu, Viŝneveckij,
+  Ke iam ŝi, Marin'--reĝino estos?
+
+Viŝneveckij.
+  Mirinde estas!... Sed ĉu pensis Mniŝek,
+  Servanto mia prenos tronon Moskvan?
+
+Mniŝek.
+  Sed kia ja Marino mia estas?
+  Al ŝi mi sole diris: nu, rigardu!
+  Reĝidon ne forlasu!... kaj subite
+  Finiĝis ĉio, li--en ŝiaj retoj!
+
+(Muziko ludas polkon, Uzurpulo kun Marino iras en unua paro.)
+
+Marino (al Uzurpulo).
+  Jes, morgaŭ, jes en dekunua horo,
+  Aleo de tilioj, ĉe fontano....
+
+(Ili foriras. Dua paro.)
+
+Sinjoro.
+  Sed kion trovis en Marin' Dimitrij?
+
+Sinjorino.
+  Ŝi estas belulino.
+
+Sinjoro.
+                     Ŝtona nimfo:
+  Okuloj, buŝo--sen ridet' sen vivo....
+
+(Nova paro.)
+
+Sinjorino.
+  Ne bela estas li, sed tre agrabla;
+  En li vidata estas reĝa sango.
+
+(Nova paro.)
+
+Sinjorino.
+  Eliro kiam?
+
+Sinjoro.
+               Kiam li ordonos.
+  Ni pretaj estas; sed kun li Marino
+  Videble, longe nin en kapto tenos.
+
+Sinjorino.
+  Agrabla estas kapto.
+
+Sinjoro.
+                       Jes, se ankaŭ...
+
+(Ili foriras; ĉambroj fariĝas malplenaj.)
+
+Mniŝek.
+  Ni, maljunuloj, nune jam ne dancas,
+  Muziko nin jam tute ne alvokas,
+  Manetojn ni ne premas kaj ne kisas....
+  Mi tamen ne forgesis petolaĵojn!...
+  Nun jam ne tio, kio estis iam!
+  Junar' ne tiel estas jam kuraĝa,
+  Beleco ankaŭ jam ne tiel ĝoja;
+  Konfesu: ĉio jam malgaja estas.
+  Forlasu ilin; iru ni, kolego,
+  Ordonu ni malŝtopi boteleton
+  Da vin' hungara ĉirkaŭherbigitan,
+  En anguleto ni duope trinku
+  Plej densan bonodoran fluidaĵon,
+  Kaj poste paroladu ni pri io.
+  Nu, iru, frato.
+
+Viŝneveckij.
+                   Kaj afero iros.
+
+
+Nokto, Ĝardeno, Fontano.
+
+Uzurpulo (eniras).
+  Kaj jen fontan'; ŝi tien ĉi alvenos.
+  Naskiĝis, ŝajne, mi ne tre timema,
+  Mi antaŭ mi proksime vidis morton:
+  Animo antaŭ morto ne tremadis.
+  Al mi minacis eĉ mallibereco,
+  Min oni persekutis--mi ne timis
+  Kaj per arogantec' libera restis.
+  Sed kio nun animon mian premas?
+  Pro kio nun mi tiel forte tremas?
+  Ĉu estas tio ĉi pasia tremo?
+  Ne, tio estas timo. Tutan tagon
+  Atendis mi sinvidon kun Marino,
+  Pripensis tion, kion mi eldiros,
+  Ensorĉos kiel mi fieran saĝon,
+  Kaj kiel nomos ŝin reĝinon Moskvan;
+  Sed venis hor',--nenion mi memoras,
+  Ne trovas mi parolojn ellernitajn;
+  Imagon mian tute am' konfuzas...
+  Sed io jen ekbrilis... jen brueto...
+  Ne, tio--lumo de malica luno,
+  Ventet' ekbruis tie ĉi....
+
+Marino (eniras).
+                           Reĝido!
+
+Uzurpulo.
+  Ŝi!... Tuta sang' en vejnoj malvarmiĝis.
+
+Marino.
+  Dimitrij! vi?
+
+Uzurpulo.
+                 Ho, sorĉa, dolĉa voĉo!
+  (Iras al ŝi.) Ĉu estas vi? Ĉu vin mi, fine, vidas
+  Kun mi sub nokta ombro en soleco?
+  Ho, kiel malrapide iris tago
+  Kaj malrapide suno estingiĝis!
+  Kaj kiel longe vin mi atendadis!
+
+Marino.
+  Forkuras horoj, mi ne havas tempon--
+  Mi tie ĉi kun vi kunveni volis
+  Ne por aŭskulti delikatajn vortojn
+  De amo. Vortoj estas malnecesaj.
+  Mi kredas, ke vi amas; sed aŭskultu:
+  Decidis mi kun via sorto brua
+  Kunigi mian sorton; sekve povas
+  De vi, Dimitrij, mi postuli solan:
+  Postulas mi, ke vi al mi malkovru
+  Esperojn ĉiujn de animo via,
+  Intencojn ĉiujn kaj eĉ ĉiujn timojn;
+  Ke mi kun vi kuraĝe povu kune
+  Eniri vivon--kaj ne kiel blinda
+  Sklavino de deziroj ĉiuj edzaj,
+  Silenta kromvirino sole via,
+  Sed kiel via inda leĝ-edzino
+  Kaj helpantino de regnestro Moskva.
+
+Uzurpulo.
+  Almenaŭ nun permesu, ke forgesu
+  Mi tute zorgojn kaj tumultojn miajn!
+  Forgesu mem, ke antaŭ vi vi vidas
+  Reĝidon. Ho, Marino, nun vi vidu
+  En mi de vi amanton elektitan,
+  Feliĉan eĉ de sola vido via.
+  Aŭskultu kore vi petegojn amajn!
+  Permesu koron vi plifaciligi!
+
+Marino.
+  Ne estas tempo, princ'; vi malrapidas,
+  Kaj amo de kolegoj viaj ĉiuj
+  Jam malvarmiĝas; kaj jam nun danĝeroj,
+  Laboroj viaj multe pligrandiĝas;
+  Jam min atingis malagrabla famo,
+  Kaj nova jam novaĵ' novaĵon ŝanĝas;
+  Kaj Godunov rapide pretiĝadas....
+
+Uzurpulo.
+  Ĉu estas en potenco Godunova
+  Feliĉo sola mia, via amo?
+  Ne, ne! Rigardas nun indiferente
+  Mi tronon lian kaj potencon reĝan.
+  Sed via am'... sen ĝi por kio estas
+  Kaj mia viv', kaj gloro, kaj potenco?
+  Vi en dezerto eĉ, en terdometo
+  Por mi anstataŭigos reĝan kronon.
+  Jes, amo via....
+
+Marino.
+                   Hontu! Ne forgesu
+  Plej altan kaj plej sanktan vi difinon:
+  Ja via rang' pli kara devas esti
+  Por vi, ol ĉiuj ĝojoj, ravoj vivaj,--
+  Ĉar kun nenio povas ĝi egali.
+  Vi devas scii, ke ne al junulo,
+  Ravita tute per beleco mia,
+  Mi kun soleno donas manon mian,
+  Sed nur al heredist' de Moskva trono,
+  Nur al reĝido, kiun sorto savis.
+
+Uzurpulo.
+  Marino bela, vi min ne turmentu,
+  Ne diru, ke ne min, sed mian rangon
+  Elektis vi. Marino, vi ne scias,
+  Ke vi al mi per tio koron pikas.
+  Ĉu vere, se... ho, dubo plej terura!
+  Eldiru: se al mi ne reĝan naskon
+  Antaŭdifinus mia blinda sorto,
+  Se mi ne estus filo de Johano,
+  Ne tiu ĉi infano forgesita,--
+  Ĉu tiam... tiam vi min ankaŭ amus?
+
+Marino.
+  Dimitrij, vi ali' ne povas esti;
+  Alian mi ne amus.
+
+Uzurpulo.
+                     Ne! sufiĉe--
+  Ne volas mi dividi kun mortinto
+  Al li apartenantan amantinon;
+  Sufiĉe sin ŝajnigi! mi eldiros
+  Jam tutan veron; sciu, ke Dimitrij
+  Pereis, mortis--kaj ne reviviĝos;
+  Ĉu volas scii vi, mi kiu estas?
+  Al vi mi diros: estas mi monaĥo;
+  Ekenuinte de mallibereco,
+  Mi sub kapuĉo mia grandan planon
+  Pripensis; mi al mondo mirindaĵon
+  Preparis, kaj el monaĥej' forkuris
+  Mi al kozakoj bruaj kaj kuraĝaj;
+  Ellernis rajdi mi kaj glavon uzi,
+  Al vi mi venis, nomis min «Dimitrij»
+  Kaj polojn mi sencerbajn tute trompis.
+  Nu, kion diros, vi, Marin' fiera?
+  Ĉu vi kontentas per konfeso mia?
+  Silentas vi?
+
+Marino.
+               Ho, honto, ho, malĝojo! (Silento.)
+
+Uzurpulo (mallaŭte).
+  Ho, kien do entiris min ĉagreno!
+  Feliĉon, malfacile konstruitan,
+  Mi por eterne, eble, pereigis.
+  Mi estas malsaĝul'! (Laŭte.) Mi vidas, vidas;
+  Vi forte hontas je ne princa amo;
+  Eldiru do al mi fatalan vorton,
+  En via man' vi havas mian sorton;
+  Atendas mi. (Stariĝas sur genuojn.)
+
+Marino.
+              Vin levu, uzurpulo!
+  Ĉu pensas vi en mi, per genuflekso,
+  En konfidema kvazaŭ knabineto,
+  Vantegan mian koron favorigi?
+  Eraris vi: mi ĉe piedoj miaj
+  Eĉ grafojn noblajn, kavalirojn vidis;
+  Sed ilin malvarmege mi forĵetis,--
+  Kaj ne por vi, monaĥo forkurinta....
+
+Uzurpulo (sin levas).
+  Ne malestimu junan uzurpulon;
+  En li sin kaŝas, eble, grandaj ecoj,
+  Je Moskva reĝa trono tute indaj
+  Kaj indaj je plej kara mano via....
+
+Marino.
+  Je maŝo indaj, ho arogantulo!
+
+Uzurpulo.
+  Mi estas kulpa: dank' al fiereco
+  Mi Dion trompis, trompis ankaŭ reĝojn,--
+  Mensogis mi; sed vi min ekzekuti
+  Ne povas; antaŭ vi mi estas prava.
+  Ne, mi ne povis trompi vin, Marino.
+  Por mi vi estis sola nur sanktaĵo,
+  Kun ĝi ŝajnigi min mi ne kuraĝis:
+  Nur amo, amo nur ĵaluza, blinda,
+  Nur sola amo mia min devigis
+  Eldiri....
+
+Marino.
+           Ho, per kio vi vin laŭdas!
+  Konfeson vian ĉu postulis iu?
+  Se vi, vagist' sennoma, nesciata,
+  Mirinde du popolojn jam blindigis,--
+  Almenaŭ nun vi nepre devas esti
+  Je via sukcesego tute inda
+  Kaj kuraĝegan trompon garantii
+  Nun per sekret' profunda kaj eterna.
+  Nu, diru, ĉu mi povas min aldoni
+  Al vi kaj, forgesinte mian genton
+  Kaj honton virgan, mian bonan sorton
+  Kunigi kun mizera via sorto,
+  Se mem vi ĉiam tiel flirtanime
+  Kaj simple malhonoron vian montras?
+  Vi nur pro amo ĉion elbabilis!
+  Mi miras, kial antaŭ mia patro
+  Vi ne malkovris sin pro amikeco,
+  Aŭ ankaŭ antaŭ nia reĝ' pro ĝojo,
+  Aŭ antaŭ eĉ sinjoro Viŝneveckij
+  Pro fervorego de fidela sklavo.
+
+Uzurpulo.
+  Al vi mi ĵuras, ke el koro mia
+  Nur vi konfeson povis elturmenti;
+  Mi ĵuras, ke neniam kaj nenie,
+  Nek en festeno ĉe pokal' da vino,
+  Nek en amika kora parolado,
+  Nek sub tranĉilo, nek en turmentado--
+  Sekreton tiun ĉi mi elbabilos.
+
+Marino.
+  Al mi vi ĵuras, kaj mi devas kredi.
+  Mi kredas! Sed, ĉu povas mi ekscii,
+  Per kio ĵuras vi? Per nom' de Dio,
+  Vi, pia kvazaŭfil' de jezuitoj?
+  Aŭ per honor', kiel heroo nobla?
+  Aŭ, eble, kiel vera reĝa filo,
+  Per sola reĝa vort'? Ĉu tiel? Diru.
+
+Uzurpulo (fiere).
+  Min ombro de Minaca reĝ' filigis,
+  «Dimitrij» min el ĉerk' malluma nomis,
+  Kaj ĉirkaŭ mi popolojn ekondigis,--
+  Kaj por ofer' al mi Borison donis.
+  Reĝido--mi. Sufiĉe! Mi nun hontas,
+  Ke antaŭ vi, fierulino pola,
+  Mi malaltiĝis. Fino! Nun adiaŭ!
+  Milita ludo, miaj grandaj zorgoj
+  Sopiron aman, eble, silentigos.
+  Ho, kiel vin komencos mi malami,
+  Forpasos kiam malhonora amo!
+  Mi iros nun,--aŭ krono, aŭ pereo
+  Atendas en Rusujo mian kapon;
+  Ĉu en batalo mi honore mortos,
+  Aŭ kiel eĉ krimul' sur ŝtipo placa,--
+  Ne estos vi jam mia amikino;
+  Kun mi vi mian sorton ne dividos;
+  Sed iam, eble, forte vi bedaŭros
+  Pri tiu sorto, kiun vi forĵetis.
+
+Marino.
+  Sed se mi ĝustatempe vian trompon
+  Elmontros klare antaŭ ĉiuj homoj?
+
+Uzurpulo.
+  Vi, eble, pensas, ke mi vin timegas!
+  Ke oni kredos al knabino pola
+  Pli multe, ol al mi, reĝido rusa?
+  Sed sciu: reĝo, papo kaj sinjoroj
+  Ne pensas eĉ pri ver' de vortoj miaj.
+  Dimitrij mi, aŭ ne--egale estas,
+  Mi estas nur preteksto de milito.
+  Nur tion ĉi bezonas ili; vin do,
+  Ribelistin', silenti ili igos.
+  Adiaŭ.
+
+Marino.
+          Ho, reĝido, haltu. Fine
+  Mi aŭdas jam parolon de grandaĝo.
+  Kun vi ĝi, princo, tute min pacigas.
+  Atencon senprudentan mi forgesas,
+  Reĝidon ree vidas. Sed aŭskultu:
+  Jam tempo, tempo estas! Ne prokrastu,
+  Konduku regimentojn vi al Moskvo;
+  Posedu Kremlon, ankaŭ tronon Moskvan--
+  Kaj poste jam al mi svatiston sendu;
+  Sed, aŭdas Dio, dum piedo via
+  Ankoraŭ ne ekpaŝos tronajn ŝtupojn,
+  Dum ne deĵetos vi de tron' Borison,
+  Pri via am' mi tute ne aŭskultos. (Foriras.)
+
+Uzurpulo.
+  Plivolas mi kun Godunov batali,
+  Aŭ ruzi kun kortega jezuito,
+  Ol kun virin'. Diablo ilin prenu!
+  Konfuzas, elkurbiĝas ŝi, kaj rampas,
+  El manoj lerte glitas, muĝas, pikas...
+  Serpento estas!... Mi ne vane tremis.
+  Ŝi nun apenaŭ min ne pereigis.
+  Sed mi decidis: morgaŭ ni eliros.
+
+
+Limo Litva (16 Oktobro 1604).
+
+Princo KURBSKIJ kaj Uzurpulo, ambaŭ estas rajde.
+Regimentoj proksimiĝas al limo.
+
+Kurbskij. (Alveturinte unue.)
+  Jen estas ĝi, jen estas rusa limo!
+  Rusujo sankta! mi jam estas via!
+  Kun malestim' mi polvon alilandan
+  Forskuas; kun avid' aeron novan
+  Enspiras mi: por mi ĝi estas hejma;
+  Ho, patro mia! nun animo via
+  Konsolis tute sin, kaj jam en ĉerko
+  Ekĝojos viaj malfeliĉaj ostoj!
+  Hered' ekbrilis ree nia grava,
+  Plej glora glav'--de Moskvaj reĝoj servo!
+  Nun en festeno brua ekdiboĉos
+  Ĝi pro espero-reĝo, patro nia!...
+
+Uzurpulo. (Li veturas malrapide kun mallevita kapo.)
+  Feliĉa estas li! animo pura
+  En li de ĝojo, gloro ekpetolis!
+  Heroo mia, ho mi vin envias!
+  Heroo, en ekzilo edukita,
+  Ofendojn patrajn tute forgesinte,
+  Liberiginte lian kulpon tutan,
+  Vi prepariĝas pro Johana filo
+  Nun verŝi vian sangon,--leĝan reĝon
+  Redoni al patrujo... Estas vero,
+  En vi anim' de ĝojo devas flami.
+
+Kurbskij.
+  Ĉu vi ne ĝojas en animo via?
+  Rusujo estas via jam, reĝido.
+  En ĝi jam vin atendas ĉiuj koroj,
+  Kaj via Moskvo, via Kreml' kaj regno.
+
+Uzurpulo.
+  Ho! Kurbskij! Rusa sango elverŝiĝos!
+  Batalas vi pro reĝ', vi estas puraj.
+  Sed mi kondukas kontraŭ fratoj; Litvon
+  Mi sur Rusujon vokis; mi en Moskvon
+  Al malamikoj bonan vojon montras!
+  Sed ne sur min ekfalu mia peko,
+  Sed nur sur vin, Boris--reĝmortiginto!
+  Antaŭen!....
+
+Kurbskij.
+              Jes antaŭen! kaj pereo
+  Al Godunov, al mortigint' de reĝo!
+
+(Ili rapide veturas. Regimentoj transiras limon.)
+
+
+Reĝa magistrato.
+
+REĜO, PATRIARKO kaj Bojaroj.
+
+Reĝo.
+  Ĉu ebla ĝi? Monaĥo forkurinta
+  Al ni kondukas krimajn kolegarojn,
+  Al ni kuraĝas eĉ minaci! Tempo
+  Jam estas humiligi malsaĝulon!
+  Veturu vi, Trubeckij kaj Basmanov;
+  Bezonas helpon niaj vojevodoj.
+  De ribelisto ĉirkaŭita estas
+  Ĉernigov. Savu urbon.
+
+Basmanov.
+                        Mia reĝo!
+  De nun apenaŭ pasos tri monatoj--
+  Kaj eksilentos fam' pri uzurpulo;
+  Ni Moskvon baldaŭ lin alveturigos
+  En fera kaĝo, kvazaŭ beston. Ĵuras
+  Per Dio mi. (Li kun Trubeckij foriras.)
+
+Reĝo.
+              Al mi regnestro Sveda
+  Per senditaro ligon proponadis;
+  Sed ne bezonas ni malpropran helpon--
+  Sufiĉe ni da propraj homoj havas,
+  Por forrebati perfidistojn litvajn.
+  Rifuzis mi.
+              Ŝĉelkalov! tuj dissendu
+  Ordonojn vi al ĉiuj vojevodoj,
+  Ke ili tuj sidiĝu sur ĉevalojn
+  Kaj ke por servo siajn homojn sendu;
+  En monaĥejoj ankaŭ vi elektu
+  Servantojn kelkajn. En pasintaj jaroj,
+  Mizero kiam al patruj' minacis,
+  Monaĥoj mem por batalado iris;
+  Sed nun tumulti ilin ni ne volas--
+  Por ni preĝadu ili: tia estas
+  Ordono kaj aljuĝo de bojaroj.
+  Kaj nun dissolvu ni demandon gravan:
+  Vi scias, ke malbona uzurpulo
+  Dismetis ĉie plej malican famon;
+  De li leteroj ĉie dissenditaj
+  Produktis dubon kaj tumulton grandan:
+  Sur placoj vagas murmuret' ribela,
+  Kaj saĝoj bolas... oni devas ilin
+  Malmute malvarmigi; mi tre volus
+  Al ekzekutoj multaj antaŭveni,--
+  Sed kiel kaj per kio? nun decidu.
+  Vi, sankta patro, vian penson diru.
+
+Patriarko.
+  Benita estu Dio, inspirinta
+  Favoron kaj kvietan paciencon
+  Al via koro, ho, regnestro granda;
+  Ne volas vi pereon de pekanto.
+  Sed vi atendas, ke erar' forpasu:
+  Forpasos ĝi, sun' de eterna vero
+  Lumigos ĉiujn.--
+                  Mi, preĝanto via,
+  En faroj mondaj tre ne kompetenta,
+  Kuraĝas nun al vi eldiri jenon:
+  Diabla fil', fripono malbenita,
+  Nomadas sin «Dimitrij» en popolo;
+  Per nomo de reĝid', per vesto kvazaŭ
+  Malpropra, li sin tute, ŝajne, kaŝis;
+  Sed nur disŝiru ĝin--kaj li subite
+  Malhonoriĝos per nudeco propra.
+  Jen Dio mem al ni rimedon sendas:
+  Regnestro, sciu: antaŭ ses jam jaroj,
+  En tiu sama jaro, kiam Dio
+  Vin por regado en favoro benis--
+  Al mi en hor' vespera iam venis
+  Paŝtisto simpla, maljunul' grandaĝa;
+  Mirindan diris li al mi sekreton:
+  «Mi en juneco, diris li, blindiĝis,
+  Kaj sciis mi nek nokton kaj nek tagon
+  Ĝis maljuneco. Vane min kuracis
+  Per herboj mi kaj per almurmurado,
+  Kaj vane mi iradis por saluto
+  En monaĥejoj al mirindfaristoj,
+  Kaj vane ŝprucis mi el sanktaj putoj
+  Okulojn blindajn per saniga akvo--
+  Al mi ne sendis Dio resaniĝon.
+  Jen, fine, mi esperon tute perdis,
+  Alkutimiĝis, kaj eĉ miaj sonĝoj
+  Al mi neniajn jam alprezentadis
+  Objektojn ekzistantajn en naturo,
+  Nur sonojn sonĝis mi.
+                        Jen unu fojon
+  En sonĝo aŭdas mi, ke voĉ' infana
+  Al mi ekdiris: iru, maljunulo,
+  Ugliĉon, de Aliformiĝ' preĝejon;
+  Sur mia tombo tie vi ekpreĝu,
+  Favora Dio, eble, vin pardonos.
+  Sed kiu vi? demandis mi infanon.
+  Dimitrij mi, reĝido. Reĝ' ĉiela
+  Akceptis min en rondon de anĝeloj
+  Kaj nun mi--granda mirindaĵfaristo.
+  Ekiru, maljunulo. Mi vekiĝis
+  Kaj pensis: eble, efektive, Dio
+  Al mi donacas sanktan resaniĝon.
+  Kaj mi ekiris malproksiman vojon.
+  Ugliĉon mi atingis; jen mi venas
+  Preĝejon sanktan kaj aŭskultas preĝon,
+  Kaj en fervoro mi anima ploras,
+  Sed tiel dolĉe, kvazaŭ jam blindeco
+  Per larmoj el okuloj miaj fluis.
+  Popolo jam eliris,--kaj mi diris
+  Al nepo: min konduku vi al ĉerko
+  De sankt-reĝido. Kaj knabeto mia
+  Kondukis min,--kaj nur mi antaŭ ĉerko
+  Mallaŭtan preĝon pie elparolis,
+  Okuloj sin malfermis: kaj ekvidis
+  Mi lumon Dian, nepon kaj tombeton.»
+  Jen, reĝo, kion maljunul' rakontis.
+
+(Komuna konfuzo. En daŭro de tiu ĉi rakonto Boris kelkajn fojojn elviŝas
+per tuketo vizaĝon.)
+
+  Ugliĉon tiam mi intence sendis
+  Servanton, kaj eksciis li, ke multaj
+  Ricevis resaniĝon antaŭ ĉerka
+  Tabulo de reĝido mortigita.
+  Konsilas mi: restaĵojn sanktajn Kremlon
+  Transporti kaj starigi en preĝejo
+  De Ĉefanĝeloj: kaj popolo klare
+  Ekvidos tiam trompon de krimulo,
+  Kaj fort' diabla tute malaperos.
+
+(Silento.)
+
+Princo Ŝujskij.
+  Ho, sankta patr', intencojn de Plejsupra
+  Ĉu scias iu? Mi ilin ne kritikos.
+  Neputran morton, forton mirindfaran
+  Li povas doni al infanaj ostoj;
+  Sed oni devas famon de popolo
+  Esplori tre atente, senpartie;
+  Kaj ĉu ni povas nun, en brua tempo,
+  Eĉ pensi pri afero tiel grava?
+  Parolas oni, ke sanktaĵon uzas
+  Ni, kiel ilo, en aferoj mondaj.
+  Popolo jam sen tio ŝanceliĝas,
+  Kaj multe da paroloj bruaj estas:
+  Ne estas temp' ondigi saĝojn homajn
+  Per tiel grava nova enkonduko.
+  Mi vidas, ke forigi oni devas
+  De uzurpulo dismetitan famon;
+  Sed estas ja rimed' alia ankaŭ.
+  Regnestro, se vi nur al mi permesos,
+  Mi mem aperos tuj sur plac' popola,
+  Admonos mi, riproĉos malsaĝulojn
+  Kaj trompon de fripono mi elmontros.
+
+Reĝo.
+  Nu, estu tiel! Sankta patriarko,
+  Mi petas vin palacon nian veni:
+  Bezonas mi kun vi interparoli.
+
+(Li foriras; post li ankaŭ bojaroj.)
+
+Unu Bojaro (mallaŭte al alia).
+  Ĉu vi rimarkis, kiel reĝ' paliĝis,
+  Kaj ŝvito de vizaĝo lia gutis?
+
+Dua.
+  Mi ne kuraĝis eĉ okulojn levi,
+  Mi ne kuraĝis spiri kaj min movi.
+
+Unua.
+  Kaj liberigis Ŝujskij'-princ'. Bravulo!
+
+
+Placo antaŭ katedra preĝejo en Moskvo.
+
+Popolo.
+
+Unua.
+Ĉu baldaŭ jam reĝo eliros el preĝejo?
+
+Dua.
+Meso finiĝis; nun fariĝas preĝo?
+
+Unua.
+Kio do? oni jam malbenis lin?
+
+Dua.
+Mi staris en vestiblo kaj aŭdis, ke diakono anoncis:
+Griŝko Otrepiev estu malbenita!
+
+Unua.
+Malbenu, malbenu; reĝinon ne interesas Griŝko.
+
+Dua.
+Kaj al reĝo unu oni kantas eternan memoron.
+
+Unua.
+Eternan memoron al viva! Ho, kiaj ili estas malpiuloj!
+
+Tria.
+Jen bruo! Ĉu ne reĝo?
+
+Kvara.
+Ne, tio ĉi estas frenezulo.
+
+(Eniras Frenezulo, en fera ĉapo, pripendigita per ĉenoj
+kaj ĉirkaŭita per Knabetoj.)
+
+Knabetoj.
+Fera ĉapeto! Fera ĉapeto!...
+
+Maljunulino.
+Forlasu lin, diabletoj. Preĝu, feliĉulo, por mi
+peka.
+
+Frenezulo.
+Donu, donu, donu kopekon!
+
+Maljunulino.
+Jen vi havas kopekon; preĝu do por mi.
+
+Frenezulo (Sidiĝas sur teron kaj kantas):
+
+    Luno veturas,
+    Kateto ploras,
+    Frenezulo, vin levu,
+    Dion preĝu!
+
+(Knabetoj ree lin ĉirkaŭas.)
+
+Unu el ili.
+Bonan tagon, frenezulo, kial do vi ĉapon ne deprenas?
+(frapas lian feran ĉapon). Jen, kiel ĝi sonas!
+
+Frenezulo.
+Jen, mi kopekon havas.
+
+Knabeto.
+Ne estas vero! nu, montru.
+
+(Deprenas kopekon kaj forkuras).
+
+Frenezulo (ploras).
+Oni prenis mian kopekon, oni ofendis
+frenezulon.
+
+Popolo.
+Reĝo, reĝo iras!
+
+(Reĝo eliras el preĝejo; bojaro antaŭe disdonas al malriĉeguloj
+almozon. Bojaroj.)
+
+Frenezulo.
+Boris, Boris! Knabetoj ofendas frenezulon.
+
+Reĝo.
+Donu al li almozon! Pri kio li ploras?
+
+Frenezulo.
+Knabetoj min ofendas.... Ordonu ilin forbuĉi, kiel
+vi forbuĉis malgrandan reĝidon.
+
+Bojaroj.
+Iru for, malsaĝulo! Kaptu malsaĝulon!
+
+Reĝo.
+Forlasu lin. Preĝu por mi, frenezulo. (Foriras.)
+
+Frenezulo (tuj poste al li).
+Ne, ne! Oni ne povas preĝi por
+reĝo-Irodo: Dipatrino ne permesas.
+
+
+Sjevsko[1].
+
+Uzurpulo, ĉirkaŭita per siaj homoj.
+
+Uzurpulo.
+  Kaptito kie?
+
+Polo.
+               Tie ĉi.
+
+Uzurpulo.
+                       Alvoku!
+
+(Eniras rusa kaptito.)
+
+  Vi kiu?
+
+Kaptito.
+          Mi--Roĵnov; nobelo Moskva.
+
+Uzurpulo.
+  Ĉu longe servas vi?
+
+Kaptito.
+                      Monato pasis.
+
+Uzurpulo.
+  Ĉu vi ne hontas, ke vi levis glavon
+  Sur min, Roĵnov?
+
+Kaptito.
+                    Ne mia estas volo.
+
+Uzurpulo.
+  Ĉu vi batalis sub Sjeverskij?
+
+Kaptito.
+                                Venis
+  Mi post batalo jam, post du semajnoj.
+
+Uzurpulo.
+  Boriso kio?
+
+Kaptito.
+               Forte timigita
+  Per perdo de batalo kaj per vundo
+  De princ' Mstislavskij,--kaj li princon Ŝujskij
+  Alsendis al militistaro.
+
+Uzurpulo.
+                           Kial
+  Devokis li en Moskvon Basmanov'on?
+
+Kaptito.
+  Meritojn liajn rekompencis reĝo
+  Per oro kaj honor'. En magistrato
+  Li estas.
+
+Uzurpulo.
+            Ĉi li estis pli necesa.
+  Nu, kio do en Moskvo?
+
+Kaptito.
+                       Tre kviete.
+
+Uzurpulo.
+  Ĉu oni min atendas?
+
+Kaptito.
+                      Dio scias;
+  Pri vi paroli oni ne kuraĝas.
+  Al unu langon, al alia kapon
+  Fortranĉas oni. Tia estas tempo,
+  Ke ĉiutage oni ekzekutas;
+  Malliberejoj tute jam pleniĝis;
+  Sur placo, kie nur tri homoj estas--
+  Spion' jam tie ankaŭ ĉirkaŭsaltas,
+  Kaj mem regnestro en libera tempo
+  Sekretajn raportistojn demandadas.
+  Pli bone, sekve, tute jam silenti.
+
+Uzurpulo.
+  Ne enviinde vivas homoj moskvaj!
+  Nu, kaj militistaro kio?
+
+Kaptito.
+                            Kio?
+  Vestita estas ĝi kaj ankaŭ sata,
+  Kontenta estas.
+
+Uzurpulo.
+                  Ĉu ĝi estas granda?
+
+Kaptito.
+  Nur Dio scias.
+
+Uzurpulo.
+                  Tridek miloj estas?
+
+Kaptito.
+  Eĉ povas vi kalkuli kvindek miloj!
+
+(Uzurpulo enpensiĝas; ĉiuj rigardas unu alian.)
+
+Uzurpulo.
+  Nu! kaj pri mi parolas oni kion?
+
+Kaptito.
+  Pri via princa moŝto oni diras,
+  Ke, se eĉ estus vi fripono, tamen
+  Bravulo.
+
+Uzurpulo (ridante).
+           Tion ĉi mi en afero
+  Elmontros. Nu, amikoj, ne atendu
+  Ni princon Ŝujskij; mi vin nun gratulas:
+  Batalo estos morgaŭ. (Foriras.)
+
+Ĉiuj.
+                        Vivu Dmitrij!
+
+Polo.
+  Batalo! Ili havas kvindek milojn,
+  Kaj ni apenaŭ havas dekkvin milojn:
+  Li freneziĝis.
+
+Dua.
+                 Nu, amiko: polo
+  Eĉ sola povas venki kvincent rusojn.
+
+Kaptito.
+  Vi venkos! En batal', fanfaronulo,
+  De unu eĉ forkuros vi rapide.
+
+Polo.
+  Se glavon havus vi, arogantulo,
+  Mi vin (montrante sian glavon) per tio ĉi ekhumiligus.
+
+Kaptito.
+  Ho, rusoj tute ne bezonas glavon:
+  Ĉu vi ne volas tion ĉi, sencerba!
+
+(Montras pugnon. Polo fiere rigardas ĝin kaj silente foriras.
+Ĉiuj ridas.)
+
+
+Arbaro.
+
+Uzurpulo kaj PUŜKIN. (En malproksimo kuŝas mortanta ĉevalo.)
+
+Uzurpulo.
+  Ĉevalo malfeliĉa! Kiel vigle
+  Eksaltis ĝi hodiaŭ en batalon,
+  Vundita min rapide kiel portis.
+  Ĉevalo malfeliĉa!
+
+Puŝkin (al si mem).
+                     Li bedaŭras
+  Ĉevalon, dum militistaro tuta
+  En polvon disbatita nun.
+
+Uzurpulo.
+                           Aŭskultu,
+  Ĝi, eble, nur de vundo eklaciĝis
+  Kaj ĝi ripozas?
+
+Puŝkin.
+                  Ne, ĝi malviviĝas.
+
+Uzurpulo (iras al ĉevalo).
+  Ĉevalo mia! Kion fari? bridon
+  Forpreni kaj deseli. Malviviĝu
+  En liberec'.
+
+(Li deselas ĉevalon. Eniras kelkaj poloj.)
+
+                 Sinjoroj, bonan tagon!
+  Sed kial mi ne vidas princon Kurbskij?
+  Hodiaŭ mi lin vidis en batalo;
+  Bravulon tuj ĉirkaŭis multaj glavoj,
+  Similaj je flekseblaj feraj spikoj;
+  Sed lia glavo levis sin plej supre
+  Kaj forta krio ĉion supersonis.
+  Li kie estas?
+
+Polo.
+                Oni lin mortigis.
+
+Uzurpulo.
+  Ho, estu paco al anim' kuraĝa!
+  Sed ni malmultaj post batalo restis!
+  Kozakoj, perfiduloj malbenitaj,
+  Krimuloj! vi, nur vi nin pereigis!
+  Eĉ tri minutojn ili ne eltenis!
+  Ni ilin punos: dekan mi pendigos!
+  Rabistoj!
+
+Puŝkin.
+            Iu estas, eble, kulpa,
+  Sed estas ni jam tute disbatitaj
+  Kaj ekstermitaj.
+
+Uzurpulo.
+                    Sed afero povus
+  Tre bona esti; mi unuan vicon
+  Detruis, sed germanoj nin debatis;
+  Bravuloj ili estas! jes, bravuloj!
+  Por tio ilin amas mi; mi nepre
+  El ili kolegaron mian faros.
+
+Puŝkin.
+  Hodiaŭ kie ni pasigos nokton?
+
+Uzurpulo.
+  Jen tie ĉi,--en tiu ĉi arbaro.
+  Eliros frue ni; en Rilsk'on venos
+  Ni al tagmanĝo mem. Nu, bonan nokton.
+
+(Li kuŝiĝas, metas selon sub kapon kaj ekdormas.)
+
+Puŝkin.
+  Agrablan nokton!... Tute disbatita,
+  Reĝido, per forkuro sin savanta,
+  Li, tute kvazaŭ knab', senzorga estas;
+  Kredeble Dio mem lin ĉiam gardas,--
+  Kaj ankaŭ ni, amikoj, ne malĝoju!
+
+
+Moskvo. Reĝaj ĉambroj.
+
+BORIS, BASMANOV
+
+Reĝo.
+  Venkita estas li, sed ĉu ni havas
+  Utilon? ĝojis ni de vana venko.
+  Kolektis ree li militistaron
+  Kaj nin minacas de Putivlaj muroj.
+  Kaj kion do herooj niaj faras?
+  Ĉe Kromoj[2] ili staras, kaj kozakoj
+  Je ili ridas nur el ĉirkaŭbaroj.
+  Jen gloro! Ne, ne estas mi kontenta;
+  Mi kiel estron--vin al ili sendos--
+  Ne genton, sed nur saĝon--vojevodon
+  Mi faros; ili pri rangec' malĝoju!
+  Jam tempo estas malestimi plendon
+  De eminenta gento de bojaroj
+  Kaj plej perean moron fordetrui.
+
+Basmanov.
+  Ho, reĝo mia! estu plej benita
+  Eterne tago, kiam rangajn librojn
+  Kaj kune ankaŭ kaj malpacojn ĉiujn,
+  Kaj fierecon gentan flam' ekstermos.
+
+Reĝo.
+  Jam tre proksima estas tiu tago;
+  Unue nur mi devas humiligi
+  Popolon.
+
+Basmanov.
+           Ho, ŝatinda ĝi ne estas!
+  Popolo estas ĉiam ribelema:
+  Ĉevalo vigla tiel mordas bridon,
+  Indignas tiel knab' potencon patran;
+  Ĉevalon do rajdant' direktas bone
+  Kaj patro ĉiam knabon ordonadas.
+
+Reĝo.
+  Ĉeval' rajdanton iafoje ĵetas,
+  Ne ĉiam ankaŭ fil' al patr' obeas:
+  Ni povas nur per severeco granda
+  Popolon teni. Tiel pensis ankaŭ
+  Johan', humiligisto de ventegoj,
+  Plej saĝa, plej potenca aŭtokrato,
+  Kaj ankaŭ lia furioza nepo.
+  Popol' favoron tute ne sentadas;
+  Vi faru bonon--ĝi ne diros dankon;
+  Vi rabu, batu--rezultat' egala.
+
+(Eniras bojaro.)
+
+  Nu, kio?
+
+Bojaro.
+           Gastoj alilandaj venis.
+
+Reĝo.
+  Akceptos mi, atendu min, Basmanov,
+  Vi restu tie ĉi: kun vi bezonas
+  Paroli mi. (Foriras.)
+
+Basmanov.
+             Spirito alta reĝa!
+  Nur uzurpulon malbenitan venki
+  Lin helpu, Dio; li ankoraŭ multe
+  Da bono al Rusujo povas fari.
+  En lia saĝo bona pens' naskiĝis--
+  Ne volas mi, ke ĝi foriĝu. Kia
+  Por mi areno estos, kiam rompos
+  Li kornon al bojaroj altagentaj.
+  Mi konkurantojn en milit' ne havas;
+  Mi apud reĝa tron' unua staros....
+  Kaj, eble.... Sed pro kio estas bruo?
+
+(Tumulto, Bojaroj, kortegaj servantoj kuras en senordo, sin renkontadas,
+kaj murmuretas.)
+
+Unua.
+  Al kuracisto!
+
+Dua.
+               Tuj al patriarko!
+
+Tria.
+  Reĝidon, li al si reĝidon vokas!
+
+Kvara.
+  Konfesprenanton!
+
+Basmanov.
+                   Kio do fariĝis?
+
+Kvina kaj sesa.
+  Ekmalsaniĝis reĝo, reĝo mortas.
+
+Basmanov.
+  Ho, Dio!
+
+Kvina.
+           Li de tron' subite falis,
+  Ekfluis sang' el buŝ' kaj el oreloj.
+
+(Reĝon oni elportas sur seĝo; tuta reĝa familio; ĉiuj bojaroj.)
+
+Reĝo.
+  Eliru ĉiuj, ĉiuj--kaj forlasu
+  Kun mi reĝidon solan. (Ĉiuj foriras.) Nu, mi mortas;
+  Ni kisu nin. Ho, mia fil', adiaŭ:
+  Tuj vi komencos reĝi... Dio, Dio!
+  Al Vi mi tuj aperos--kaj animon
+  Ne estas tempo per konfes' purigi!
+  Mi sentas--filo, vi por mi pli kara,
+  Ol sav' anima estas.... tiel estu!
+  Subulo mi naskiĝis, kaj subulo
+  Mi morti ankaŭ devas en mallumo;
+  Jen tronon mi atingis--sed per kio?
+  Vi ne demandu. Vi ne estas kulpa,
+  Sufiĉe... Nun vi jam laŭ rajto reĝos,
+  Kaj sola mi al Dio mem respondos.
+  Ho, filo! ne forlogu vin malvere,
+  Kaj ne blindigu ankaŭ vin memvole.
+  En bruaj tagoj prenas vi potencon:
+  Tre, tre danĝera estas uzurpulo--
+  Per nom' terura estas li vestita.
+  De longa tempo en regado sperta,
+  Eltenis mi konfuzon kaj ribelon:
+  En timo oni antaŭ mi tremadis,
+  Perfido voĉon doni ne kuraĝis;
+  Sed vi--ne sperta, juna potenculo,
+  Sub forta fulmotondr' vi kiel reĝos?
+  Ribelon bruan kiel vi estingos?
+  Perfidon kiel vi de vi deturnos?
+  Sed Dio granda estas! Li junecon
+  Saĝigas kaj al malforteco donas
+  Li forton... Jen, aŭskultu: vi unue
+  Por vi elektu konsiliston bonan,
+  Fidindan, malvarmegan kaj maljunan,
+  Amatan de popolo kaj honoran
+  De gento glora inter bojararo--
+  Ekzemple, Ŝujskij. Por militistaro
+  Necesa estas lerta kondukanto:
+  Vi sendu Basmanovon kaj fortike
+  Eltenu plendon de bojaroj noblaj.
+  Vi de junec' kun mi en magistrato
+  Sidadis, scias vi regadon regnan;
+  Ne ŝanĝu vi iradon de aferoj.
+  Kutim'--animo estas de potenco.
+  Mi devis nun denove refarigi
+  Ekzekutadojn, malfavorojn--povas
+  Forigi ilin vi; kaj oni benos
+  Vin, kiel oni benis vian onklon,
+  Prenintan tronon de Minaca reĝo.
+  Sed poste iom vi post iom ree
+  Kuntiru forte regnajn kondukilojn;
+  Kaj nun vi povas ilin malfortigi,
+  El mano tamen ne elforlasante.
+  Favora estu al alilanduloj,
+  En servon ilin kun konfid' akceptu.
+  Konservu religian regularon.
+  Silenta estu; reĝa voĉ' ne devas
+  Sin perdi tute vane en aero:
+  Ĝi, kvazaŭ sankta son', anonci devas
+  Aŭ grandan feston, aŭ malĝojon grandan.
+  Ho, filo! Vi eniras tiujn jarojn,
+  En kiuj sang' ondiĝas de virinoj.
+  Ho, gardu, gardu vi purecon sanktan
+  De virguleco kaj fieran honton:
+  Se iu en juneco plezuriĝi
+  Kutimis per malvirta sentameco,
+  En granda aĝo tiu malafabla,
+  Malforta, sangavida ĉiam estas,
+  Kaj lia saĝo tute mallumiĝas.
+  En familio estu ĉiam kapo;
+  Patrinon vi estimu, sed potencu
+  Vi mem: vi estas viro kaj regnestro;
+  Fratinon vian ĉiam vi amadu,
+  Ĉar sola restas ŝia vi gardisto,
+
+Teodoro (sur genuoj).
+  Ne, ne, vi vivu kaj eterne reĝu--
+  Popol' kaj ni sen vi pereos tute!
+
+Reĝo.
+  Finita estas ĉio--mallumiĝas
+  Okuloj miaj, jam malvarmon tomban
+  Mi bone sentas....
+
+(Eniras patriarko, monaĥoj; post ili ĉiuj bojaroj; reĝinon oni kondukas
+sub brakoj; reĝidino ploregas.)
+
+                     Kiu tie estas?
+  Ha! sankta monaĥigo... Jes, tre bone...
+  Eksonis horo! Reĝo jam monaĥo
+  Fariĝas,--ĉerk'--ĉambreto mia estos.
+  Atendu, sankta patriark': ankoraŭ
+  Mi reĝo estas... Ho, bojaroj miaj!
+  Jen estas tiu, kiu min heredas,--
+  Al li potencon mian mi transdonas;
+  Al Teodoro ĵuru... ho, Basmanov,
+  Amikoj miaj... antaŭ ĉerk' petegas
+  Mi vin: al li fervore, vere servu!
+  Li tiel juna estas kaj senkulpa.
+  Ĉu ĵuras vi?
+
+Bojaroj.
+              Ni ĵuras.
+
+Reĝo.
+                       Mi kontentas.
+  Pardonu do al mi erarojn, pekojn,
+  Ofendojn volajn kaj sekretajn....
+                                 Estas
+  Mi preta jam,--aliru, sankta patro...
+
+(Komenciĝas ceremonio de monaĥigado. Virinojn en sveno oni
+elportas.)
+
+
+Tendaro.
+
+BASMANOV kaj PUŜKIN.
+
+Basmanov.
+  Eniru, tie ĉi libere diru,
+  Kaj tiel sekve li al mi vin sendis?
+
+Puŝkin.
+  Al vi ĉiaman amikecon sian
+  Proponas li kaj plej unuan rangon
+  En Moskva regno.
+
+Basmanov.
+                   Sed sen tio estas
+  De Teodoro mi jam starigita
+  Tre alte: de militistar' mi estas
+  Unua estro; li pro mi eĉ rangojn
+  Aristokratajn malestimis tute.
+  Al li mi ĵuris.
+
+Puŝkin.
+                  Ĵuris vi al leĝa
+  De trono heredanto; sed se vivas
+  Pli leĝa?...
+
+Basmanov.
+              Ne, aŭskultu, Puŝkin: kial
+  Malveron vi parolas? Mi ja scias,
+  Li kiu estas.
+
+Puŝkin.
+                Litvo kaj Rusujo
+  Jam longe nomis lin «reĝid' Dimitrij»;
+  Sed tion ĉi mi tute ne defendas.
+  Ne ĝusta, eble, li Dimitrij estas,
+  Li estas, eble, ia uzurpulo;
+  Nur scias mi, ke frue, aŭ malfrue,
+  Sed Teodor' al li ekcedos Moskvon.
+
+Basmanov.
+  Dum mi defendas mian junan reĝon,
+  Ĝis tiu temp' li tronon ne forlasos;
+  Da regimentoj ni sufiĉe havas!
+  Per venko nur mi ilin kuraĝigos,--
+  Sed kontraŭ mi de vi eliros kiu?
+  Kozak' Karelo, eble,--eble Mniŝek?
+  Ĉu multaj vi? apenaŭ ja ok miloj.
+
+Puŝkin.
+  Eraris vi; eĉ tiom ni ne havas.
+  Mi diros eĉ, ke ni militistaron
+  Malbonan tute havas, ke kozakoj
+  Vilaĝojn rabas nur, ke ĉiuj poloj
+  Nur multe fanfaronas kaj drinkadas,
+  Ke rusoj... Eĉ paroli mi ne volas,--
+  Mi antaŭ vi malici ne deziras;
+  Sed ĉu ekscii volas vi, Basmanov,
+  Per kio ĉiam fortaj ni restadas?
+  Ne per militistaroj, ne per poloj,
+  Sed nur per opinio de popolo.
+  Memoras vi triumfon de Dimitrij,
+  Almilitadojn liajn tute pacajn?
+  Al li sen pafo, sen batalo ĉie
+  Sin donis obeeme ĉiuj urboj,
+  Kaj vojevodojn mem popolo ligis;
+  Vi vidis mem: ĉu viaj regimentoj
+  Kun li batalis tre volonte? Kiam?
+  Ankoraŭ apud Godunov! Sed nune?
+  Ho ne, Basmanov, tre malfrue estas
+  Disputi kaj inciti ree flamon
+  De tute finiĝinta jam milito:
+  Kun via saĝo kaj kun forta volo
+  Eĉ ne eltenos vi; pli bone estos,
+  Se vi unua donos plej prudentan
+  Ekzemplon kaj anoncos, ke Dimitrij
+  Regnestro leĝa estas,--estos bone,
+  Per tio lin vi tute kontentigos!
+  Vi kiel pensas?
+
+Basmanov.
+                  Morgaŭ vi ekscios.
+
+Puŝkin.
+  Decidu.
+
+Basmanov.
+          Nu, adiaŭ.
+
+Puŝkin.
+                     Vi pripensu.
+
+(Li foriras.)
+
+Basmanov.
+  Jes, prava li, perfido maturiĝas;
+  Sed kion faros mi? Ĉu mi atendos,
+  Ke ribelistoj ankaŭ min kunligu
+  Kaj al Otrepjev donu? Ĉu ne estos
+  Pli bone, se mi antaŭvenos ilin
+  Kaj mem... Sed ĵuron, ĵuron mi perfidos!
+  Eterne perdos mi honoron mian!
+  Konfidon de junulo kronportanto
+  Mi pagos per perfido plej terura!...
+  Al elpelito estas tre facile
+  Ribelon kaj konspiron pripensadi;
+  Sed mi, sed mi, amato de regnestro....
+  Sed mort'... potenco... de popol' mizeroj....
+
+(Li enpensiĝas.)
+
+  He! kiu tie estas? (fajfas) Nu, alvenu!
+  Ĉevalon! Kaj trumpetu tuj kolekton!
+
+
+Ekzekutejo.
+
+Iras PUŜKIN, ĉirkaŭita per Popolo.
+
+Popolo.
+  Al ni reĝido jen bojaron sendis.
+  Aŭskultu, kion li al ni parolos.
+  Alvenu tien ĉi!
+
+Puŝkin (sur tribuno).
+                   Regnanoj Moskvaj!
+  Saluti vin al mi reĝid' ordonis. (Salutas.)
+  Vi bone scias, kiel zorg' ĉiela
+  Reĝidon nian de krimulo savis;
+  Kaj li krimulon ekzekuti iris,
+  Sed Dia juĝo batis jam Boris'on.
+  Rusujo al Dimitrij humiliĝis,
+  Basmanov mem al li kun pent' fervora
+  Jam alkondukis siajn regimentojn,
+  Al vi Dimitrij iras ame, pace.
+  Ĉu levos glavon vi, pro kontentigo
+  Al familio de Boris', sur reĝon
+  Plej leĝan kaj sur nepon Monomaĥan?
+
+Popolo.
+  Sendube ne.
+
+Puŝkin.
+             Regnanoj karaj Moskvaj!
+  Vi ĉiuj scias, kiam vi suferis
+  Sub potencado de fremdul' kruela:
+  Depagojn, ekzekutojn, malfavoron,
+  Laboron kaj malsaton vi ekprovis.
+  Dimitrij do favori vin intencas,
+  Bojarojn ĉiujn kaj popolon tutan.
+  Ĉu estos vi obstinaj senprudente?
+  Ĉu vi forkuros de favoroj liaj?
+  Sed iras li sur Moskvan patran tronon
+  Ne sola, sed kun akompan' minaca.
+  Ne kolerigu reĝon, timu Dion!
+  Kaj ĵuru tuj al leĝa potenculo;
+  Ekhumiliĝu: sendu al Dimitrij
+  Vi patriarkon kaj bojarojn viajn,
+  Sekretariojn, elektitajn homojn,--
+  Salutu ili al regnestro--patro.
+
+(Li foriras. Bruo popola.)
+
+Popolo.
+  Pri kio pensi? Li parolis veron.
+  Dimitrij vivu! vivu nia patro!
+
+Vilaĝano (sur tribuno).
+  Popol'! popol'! En Kremlon! Reĝajn ĉambrojn!
+  Kaj ligu tuj hundidon de Boriso!
+
+Popolo. (Rapide kuras en amaso).
+  Dronigi! ligi! Vivu reĝ' Dimitrij!
+  Pereu tuta gento de Boriso!
+
+
+Kremlo. Domo de Boriso. Gardantoj apud perono.
+
+TEODORO apud fenestro.
+
+Malriĉegulo.
+Donu almozon, pro Kristo!
+
+Gardantoj.
+Iru for! oni ne permesas paroladi kun enŝlositaj.
+
+Teodoro.
+Foriru, maljunulo, mi estas pli malriĉa, ol vi: vi
+libera estas.
+
+(Ksenio sub kovrilo aliras al fenestro.)
+
+Unu el popolo.
+Frato kaj fratino--malfeliĉaj infanoj,--kvazaŭ
+birdetoj en kaĝo.
+
+Dua.
+Kiun vi kompatas? Malbenita gento!
+
+Unua.
+Patro estis krimulo, infanetoj do estas senkulpaj.
+
+Dua.
+Pomo de pomarbo ne malproksime falas.
+
+Ksenio.
+Frateto! frateto! Ŝajnas, al ni bojaroj iras.
+
+Teodoro.
+Tio ĉi estas Golicin, Mosalskij. Aliajn mi ne konas.
+
+Ksenio.
+Ha, frateto, koro formortas!
+
+(Golicin, Mosalskij, Malĉanov kaj Ŝerefedinov; post ili tri pafistoj.)
+
+Popolo.
+Disiru, disiru, bojaroj iras.
+
+(Ili eniras domon.)
+
+Unu el popolo.
+Kial ili venis?
+
+Dua.
+Kredeble, ĵurigi Teodoron Godunov.
+
+Tria.
+Efektive. Ĉu vi aŭdas, kia bruo estas en domo?... Tumulto!
+oni batalas!
+
+Popolo.
+Ĉu vi aŭdas? Krieto! Tio ĉi estas virina voĉo. Eniru....
+Pordoj estas fermitaj--krioj eksilentiĝis--bruo daŭras.
+
+(Pordoj sin malfermas. Mosalskij aperas sur perono.)
+
+Mosalskij.
+Popolo! Mario Godunov kaj ŝia filo Teodoro sin
+venenis. Ni vidis iliajn malvivulajn korpojn. (Popolo en teruro
+silentas.) Kial do vi silentas? Kriu: vivu reĝo Dimitrij Johanoviĉ!
+
+(Popolo silentas.)
+
+
+PIEDNOTOJ:
+
+[1] Malgranda urbeto.
+
+[2] Malgranda urbeto.
+
+
+
+
+DEMONO
+
+Orienta rakonto.
+
+
+Parto unua.
+
+I.
+  Traflugis super peka mondo
+  Demon' malgaja, elpelita;
+  Li estis per bruega ondo
+  De rememoroj ĉirkaŭita,--
+  Pri tiu temp' feliĉa, bela,
+  En kiu estis li kerubo,
+  Kometo kiam lin ĉiela
+  Renkontis kun rideto hela
+  El forkurinta luma nubo;
+  Ankoraŭ kiam tra nebuloj
+  Li rigardadis kun sciemo
+  En spac' amason da migruloj
+  Ĉielaj; kiam li kredema
+  Ankoraŭ estis kaj amema,
+  Unua kreitaĵo bona,--
+  Al li nek dubo, nek malbono
+  Konataj estis, lia saĝo
+  Ankoraŭ estis lumigita...
+  Kaj multe, multe... kaj tutaĵo
+  Ne povis esti memorita.
+
+II.
+  Ĉielon longe li forlasis,--
+  En mond' li sen rifuĝo estis
+  Eterno post eterno pasis,
+  Minuto post minuto, restis
+  Li ĉiam multe enuanta.
+  Li, teron pekan posedanta,
+  Malbonon semis sen plezuro;
+  Neniu staris al demono
+  Kontraŭ' en lia art' terura,--
+  Kaj tedis jam al li malbono.
+
+III.
+  Kaj super suproj de Kaŭkazo
+  Demono flugis elpelita.
+  Kazbeko, diamanto kvazaŭ,
+  Per neĝ' eterna priŝutita,
+  Sub li brilegis; ond' Darjala
+  Simila je serpento pala,
+  Kurbiĝis, kaj Terek' ribela,
+  Saltante kiel leonino[3]
+  Kun vila kolaharo bela
+  Sur forta kaj potenca spino,
+  Kriegis; bestoj kaj birdetoj
+  Je ĝia voĉo atentadis,
+  De sudo ĝin akompanadis
+  Amaso ora da nubetoj;
+  Ŝtonegoj altaj, en dormeto
+  Al ĝi klininte kapojn grizajn,
+  Observis kun esprim' sekreta
+  Rapidkurantajn ondojn ĝiajn;
+  Kasteloj multaj sur ŝtonegoj
+  Minace staris en nebuloj,
+  Gardantaj kvazaŭ grandeguloj
+  Ĉe de Kaŭkazo mem pordegoj!
+  Sovaĝa kaj belega estis
+  Ĉirkaŭa mondo; tamen restis
+  Spirit' fiera malkontenta;
+  En sia koro tre malpenta
+  Rigardis li kun malestimo
+  Kreadon de potenca Dio,
+  Kaj profundaĵon de animo
+  Al li penetris tut' nenio....
+
+IV.
+  Jen antaŭ li pentraĵ' alia
+  De malproksime sin prezentis
+  Gruzujo per beleco sia
+  Spiriton de neigo tentis.
+  Feliĉa, luksa lando kia!
+  Ruinoj ĉie sin etendis,
+  Riveroj jen sonor-kurantaj
+  Sur fund' el ŝtonoj multkoloraj,
+  Kaj najtingaloj bonkantantaj
+  Pri amo flama de senkoraj
+  Virinoj belaj de montaro;
+  Jen densa ombro de ĉinaro[4],
+  Ĉirkaŭvolvita per hedero;
+  Kavernoj, kie ĝis vespero
+  Timeme kaŝas sin cervaro;
+  Brilado, vivo kaj bruado
+  Sonora, dolĉa parolado
+  Kaj spir' agrabla de kreskaĵoj;
+  Kaj tagoj varmaj voluptaĵaj,
+  Per ros' malsekigitaj stelaj
+  Brilantaj noktoj, kvazaŭ helaj
+  Okuloj de gruzino juna,
+  Simila je lumado suna.
+  Sed, krom envio malvarmega,
+  Ekscitis de naturo tento
+  En kor' demona malbonega
+  Nenian ŝanĝon eĉ en sento,--
+  Kaj ĉion, kion nun li vidis,
+  Li aŭ malamis, aŭ jeridis.
+
+V.
+  Tre altan domon, korton larĝan
+  Gudalo princ' al si konstruis....
+  De sklavoj ĝi laboron ŝarĝan
+  Postulis, kaj pro ĝi forfluis
+  Da larmoj multe el okuloj
+  De obeemaj servutuloj.
+  Matene sur montar' najbara
+  De ĝiaj muroj ombroj iras;
+  Jen estas en ŝtoneg' ŝtuparo:
+  Ĝi de angula tur' sin tiras
+  Al rivereto; kaj Tamaro,
+  Princino juna kaj tre bela,
+  En ĉadro[5] blanka, ĉiam hela
+  Tre ofte tie ĉi iradas
+  Kaj akvon el Aragv' ĉerpadas.
+
+VI.
+  Silente de ŝtonego ĉiam
+  Rigardis domo mallumega;
+  Sed festo nun en ĝi grandega
+  Bruegas jen kiel neniam:
+  Gudal' forsvatis ĵus filinon
+  Kaj havis tutan familion.
+  Jen sur tapiŝoj, sur tegmento
+  Sidiĝas juna fianĉino
+  Kun sia bona amikino.
+  Jen post montaro en silento
+  Sin kaŝas jam radio suna.
+  Fraŭlinoj kantas, kaj ekprenas
+  Tintilon fianĉino juna.
+  Jen ŝi ĝin super kapo tenas,
+  Gracie dancas kaj tintilas,
+  Jen flugas, jen subite haltas,
+  Jen ree kvazaŭ ĉamo saltas,--
+  Rigardo ŝia hele brilas;
+  Jen brovojn nigrajn ŝi kuntiras,
+  Jen naĝas kun teniĝ' inklina,
+  Kaj lerte sur tapiŝo iras
+  Glitanta piedet' diina;
+  Kaj ŝi rigardas kun rideto
+  De bela, ĉasta infaneto.
+  Radio luna klara, bela
+  Je tiu ĉi rideto hela,
+  Plej juna, de mem viv' donita,
+  Ne povas esti komparita.
+
+VII.
+  Mi ĵuras je noktmezo stela,
+  Kaj je radioj de suriro,
+  De tago mem kaj de subiro,--
+  Regnestro de Persujo bela,
+  Neniu reĝo posedanta
+  Tielan kisis okuleton;
+  Nenia eĉ fontan' ŝprucanta
+  Per sia roso plej brilanta
+  Tielan lavis piedeton;
+  Ankoraŭ man' nenies tera
+  Kun amo flama kaj sincera
+  Tielajn harojn displektadis.
+  Jes, de komenc' de mondo nia,
+  Mi ĵuras, belulino tia
+  Sub suno suda ne floradis.
+
+VIII.
+  En patra domo ŝi kun ĝojo
+  Nun dancas jam en lasta fojo....
+  De sort' nenio ŝin defendos:
+  Ho ve! jen morgaŭ jam atendas
+  Ŝin, de Gudal' heredantinon,
+  De viva liberec' filinon,
+  Patrujo fremda, kaj alia
+  Malgaja sorto de sklavino
+  En fremda rondo familia.
+  Kaj ofte bela fianĉino
+  Malgajon sentis en animo;
+  Sed tamen ĉiuj movoj ŝiaj
+  Konservis tiel sin graciaj
+  Kaj tiel plenaj de esprimo,
+  Ke, se Demono, traflugante,
+  En tiu tempo ŝin ekvidus,--
+  Antaŭon rememoriĝante,
+  Li, ekĝeminte,--for rapidus....
+
+IX.
+  Kaj li ŝin vidis.... Por momento
+  Neklarigebla nova sento
+  Malbonan koron ekondigis.
+  Dezerton de animo lia
+  Benita sono troplenigis,
+  Kaj li en profundaĵo ĝia
+  Komprenis ion el sankteco
+  De amo, bono kaj beleco....
+  Kaj longe tiu ĉi pentraĵo
+  Per si lin ĉarmis, kaj revaĵo
+  Pri viv' feliĉa, kiu pasis,
+  Lin longe, longe ne forlasis
+  Per ia forto alforĝita,
+  Eksciis li malgajon sencan;
+  Kun nova sent' konatigita,
+  Ekaŭdis voĉon li parencan.
+  Ĝi, eble, renaskiĝo estis?
+  En lia saĝo nun forestis
+  Jam vortoj de tentad' malpia.
+  Forgeso? ĝin ne donis Dio.
+  Kaj li ne pensis eĉ pri tio...
+  *  *  *  *  *  *  *
+
+
+X.
+  Rapidas en malpacienco
+  Fianĉ' al festo de edziĝo;
+  Ĉevalon ĝis subir' de tago
+  Li forlacigis. Al Aragvo
+  Plej bela li feliĉe venas.
+  Malantaŭ li apenaŭ tenas
+  Kameloj multaj da donaco
+  Portaĵon inter ĝiboj altaj,--
+  En voja malaperas spaco
+  Ilia vico kun sonantaj
+  Sub koloj multaj sonoriloj--
+  De tute bona ord' montriloj....
+  De Sinodalo posedanto
+  Persone estas kondukanto
+  De riĉa karavano. Lia
+  Talio lerta kaj gracia
+  Per zono estas ĉirkaŭita;
+  Pro moro, ankaŭ pro singardo
+  Li estas ĉirkaŭpendigita
+  Per bela, riĉa batalilo:
+  Ĉe zono--glavo kaj ponardo,
+  Post dorso--tego kun pafilo,
+  Tre lukse, arte eltranĉita;
+  De lia ĉuĥo[6] per manikoj
+  Venteto estas amuzita,
+  Ĝi per galon' ĉirkaŭkudrita.
+  Ĉevala brido kun penikoj;
+  Brodita estas lia selo
+  Per multkoloraj riĉaj silkoj;
+  Sub li ĉevalo flama, bela.
+  En Karabaĥo edukita,
+  Je timo ĝi troplenigita,
+  Ronkante, strabas de krutaĵo
+  Saltantan ŝaŭmon de ondaĵo.
+  Danĝera estas vojo bela:
+  Ŝtonegoj--de maldekstra flanko,
+  De dekstra-do--river' ribela.
+  Malfrue. Nur altaĵo blanka
+  Lumiĝas; levis sin nebuloj....
+  Kaj jam rapidas plu migruloj.
+
+XI.
+  Jen staras preĝejet' sur vojo....
+  Sub ĝi jam longe kun malĝojo
+  Princ' ia estas enfosita,
+  Per man' venĝema mortigita.
+  De tiu temp' migranto ĉiu,
+  Al fest', aŭ al batal' iranta,
+  Ĉe sankta preĝejeto tiu
+  Haltadis kun teniĝ' preĝanta;
+  Kaj preĝo tiu estis gardo
+  De malamiko kaj ponardo.
+  Sed nun fianĉo juna, brava
+  Ne pensis eĉ pri mor' praava,
+  Ĉar per malica lin revaĵo
+  Demono ruza ekondigis:
+  Nun li sub nokta mallumaĵo
+  Je fianĉino sin ĝojigis....
+  Kaj jen antaŭe aperetis
+  Du homoj.... pli... jen ekbriletis
+  Ankoraŭ io.... Jen ekpafo....
+  Kuraĝa princo, kun papaĥo[7]
+  Sur brovojn tute surŝovita,
+  Eĉ unu vorton ne eldiris;
+  Sur piedingoj sin levinte,
+  Pafilon turkan li eltiris,--
+  Kaj skurĝon supren eksvinginte,
+  Li kun plej granda kuraĝego
+  Antaŭen flugas.... ree pafo,--
+  Kaj ĝemo forta, kaj kriego:
+  Sendube--pafo ne sen trafo....
+  Ne longe batalad' daŭriĝis,--
+  Ĉar gruzoj baldaŭ jam distriĝis.
+
+XII.
+  Mallaŭte estas.... Sin puŝantaj
+  Sen ord' kameloj iafoje
+  Rigardis kun terur' sur vojo
+  Malvivajn korpojn de rajdantoj,
+  Soniloj sonis kun malĝojo.
+  Rabita estas karavano,
+  Kaj sur korparo jam kristana
+  Flugilojn nokta bird' etendas!
+  Ripozo paca de ĉerkujo
+  Kun patroj kune en Gruzujo
+  De nun jam ilin ne atendas;
+  Ne venos tien ĉi patrinoj
+  En ĉadroj[8] longaj, kaj fratinoj,
+  Por kun sopiro, kun plorego,
+  Kun ĝemo forta, kun petego
+  Sin klini antaŭ ĉerk' ilia!
+  Sed tie ĉi sur ŝtono voja
+  Per mano zorga kaj tre pia
+  Farita estos kruc' malĝoja;
+  Hedero nur per branĉo sia
+  Smeralda, en printemp' agrabla,
+  Envolvos ĝin kun vera ĝojo
+  Kaj kun kareso plej afabla;
+  Kaj jen, turninte sin de vojo,
+  Migranto iafoje pia
+  Ripozos en ombraĵo Dia....
+
+XIII.
+  Ĉevalo flugas jen sur valo,
+  Ĝi ronkas, kvazaŭ en batalo;
+  Jen ĝi subite tute haltas,
+  Facilan venton aŭskultante,
+  Jen ree, kvazaŭ tigro, saltas,
+  Per hufoj teron ekbatante
+  Kaj truojn nazajn disŝovante;
+  Jen ĝi, kolharon eksvinginte,
+  Antaŭen flugas, frenezinte.
+  Sur ĝi rajdant' silenta sidas;
+  Balancas li per kapo bela
+  Kaj klinas ĝin al kurbo sela.
+  Nenion li jam sentas, vidas,
+  Ne regas li per kondukilo,
+  En piedingo enŝovita
+  Piedo lia, kaj kovrilo
+  Per sango estas makulita....
+  Saltulo lerta, vi sinjoron
+  Tuj el batalo liberigis,
+  Sed kuglo lian junan koron
+  En mallumego eĉ mortigis!
+
+XIV.
+  En dom' Gudala ploro forta,
+  Amaso da popol' en korto:
+  Ĉevalo kies lacigita
+  Sur ŝtonoj falis ĉe pordego?
+  Kaj kiu estas mortigita
+  Rajdanto tiu ĉi? Timego
+  Konservis sin sur frunto bruna.
+  En sango estas vesto tuta,
+  Kaj sur kolhar' en premo muta
+  Jam malvarmiĝis mano juna.
+  Ne longe vi fianĉon vian,
+  Ho, fianĉino, en gajeco
+  Al fest' atendis de edzeco!
+  Brilante princan vorton sian
+  Kaj tute vere li eltenis:
+  Al fest' li ĝustatempe venis....
+  Sed nun, ho ve! neniu vidos,
+  Ke ree sur ĉeval' li sidos!...
+
+XV.
+  Je tondr' simila puno Dia
+  Al familio flugis gaja!
+  Falinte, jen sur lito sia
+  Tamaro ploras, plej malgaja;
+  Ĉe ŝi ruliĝas larm' post larmo,
+  Tre alte, ŝarĝe brusto spiras....
+  Kaj jen ŝi aŭdas, kvazaŭ diras
+  Subite voĉo sorĉa, varma:
+  «--Ne ploru vane, kara mia!
+  Ja malvivulon larmo via
+  Per ros' brilanta ne vivigos;
+  De ĝi rigard' nur klara Dia
+  Nebula estos, ĝi bruligos
+  Koloron de vangetoj belaj--
+  Jes, larmoj estas nur sencelaj;
+  Li jam ne estos estimanta
+  Plej indan vian sopiradon;
+  Ĉielo estas karesanta
+  Spiritan lian nun rigardon:
+  Amuzas lin jam sankta kanto....
+  Ĉu estas senc' en sonĝoj teraj,
+  En larmoj de fraŭlin' sinceraj
+  Por gast' de paradiza lando?
+  Ne, ho anĝelo mia tera,
+  Al mi vi kredu, kreitaĵoj
+  De mondo tuta plej malvera
+  Ne indas unu eĉ momenton
+  De viaj karaj sopiraĵoj
+  Kaj vian plej malgajan senton.
+
+    «En aera oceano,
+    Sen remiloj kaj sen veloj
+    Naĝas bela karavano
+    Da graciaj lumaj steloj.
+
+    Inter kampoj travideblaj
+    En arkaĵ' ĉiela, alte
+    Flugas nuboj nekapteblaj
+    En lanuga ar' senhalte.
+
+    Jen disiĝas, jen kuniras--
+    Ili tute ja ne ĝojas,
+    Kaj estontan ne deziras,
+    Kaj pasintan ne malĝojas.
+
+    Vi en tago plej turmenta
+    Rememoru nur pri ili,
+    Estu vi al ter' sensenta
+    Kaj senzorga, kiel ili!
+
+  «Apenaŭ per kovrilo sia
+  Kaŭkazajn suprojn nokt' ombrigos;
+  Apenaŭ mondon sorĉo ia
+  Per forto sia silentigos;
+  Apenaŭ vent' ŝtonegon puŝos
+  Kaj flavan velkan herbon tuŝos,
+  Apenaŭ flitos bird', kaŝita
+  En ĝi, per vento timigita;
+  Kaj sub vinbera branĉo bela
+  Apenaŭ flor', pro ros' ĉiela,
+  Foliojn solvos tre avide;
+  Apenaŭ luno malrapide
+  El de montaro sin eklevos
+  Kaj, rigardante vin, ekrevos,--
+  Al vi mi ĉiam alflugados,
+  Gastados ĝis suriro suna
+  Kaj por anĝelo mia juna
+  Mi sonĝojn orajn alblovados....»
+
+XVI.
+  Ĉesiĝis vortoj, formortante
+  Post sono son' en malproksimo.
+  Rigardas ŝi, de lit' saltante....
+  Konfuz' aperis en animo
+  Neesprimebla: nek ektimo,
+  Nek flama rav', nek sopirado.
+  En ŝi nun ĉiuj sentoj ŝiaj
+  Samtempe estis en bolado:
+  Animo de katenoj siaj,
+  Ligintaj ĝin, sin liberigis,
+  Kaj koron ia fajr' bruligis,
+  Kaj, ŝajne, tiu voĉ' afabla
+  Ankoraŭ sonis tre agrabla.
+  Nur en mateno sonĝo kara
+  Animon lacan silentigis,
+  Sed ŝian penson ĝi ondigis
+  Per revo eksterordinara:
+  Nebula, muta enmigrinto,
+  Brilanta per belec' netera,
+  Al ŝia kapo sin klininta,
+  Kun tia amo plej sincera
+  Kaj kun malĝojo ŝin rigardis,--
+  Kompatis kvazaŭ ŝin, aŭ gardis.
+  Ne estis li anĝel' ĉiela,
+  Gardanto ŝia sankta, bela:
+  Kroneto el de sun' radioj
+  Ne kuŝis super bukloj liaj;
+  Kaj ne spirito de infero,
+  Malvirta turmentit' terura,--
+  Ho, ne! li estis bela, pura,
+  Simila tute je vespero:
+  Nek tago estis li, nek lumo,
+  Nek nokto nigra, nek mallumo!...
+
+
+Parto dua.
+
+I.
+  «Ho patro! patro! min aŭskultu,
+  Tamaron vian ne insultu!
+  Mi ploras. Vidu mian ploron!...
+  Ĝi forsekigas junan koron....
+  Nenies estos mi edzino--
+  Al miaj vi fianĉoj diru:
+  Eterne restos mi knabino
+  Kaj ili ĉiuj nun foriru.
+  Post tempo, kiam, mortigita,
+  Li estis jam enterigita,
+  Per revoj min neforbateblaj
+  Spirito ruza tumultigas;
+  Kaj sonĝoj tre nekompreneblaj
+  En nokto min maltrankviligas;
+  Ne povas preĝi mi anime:
+  Pens' pia estas malproksime,
+  Kaj mi en vejnoj fajron sentas...
+  Sekiĝas, velkas mia koro.
+  Ho patro! io min turmentas....
+  Ho, cedu, patr', al mia ploro!
+  En sanktan monaĥejon sendu
+  Filinon vian senprudentan;
+  Savinto tie min defendu,
+  Akceptu mian koron pentan.
+  Por mi forestas gajo luma....
+  Nur sankta monaĥejo restas:
+  Ĝi kaŝos min de viv' malluma,
+  Por mi ĝi ĉerk' agrabla estas.»
+
+II.
+  Kaj monaĥejon tre malluman
+  Kun parencaro ŝi enpaŝis,
+  Kaj tie ĉi ŝi bruston junan
+  Per nigra hara vesto kaŝis.
+  Sed, kiel sub ŝtofaĵ' arĝenta,
+  Sub vesto hara, plej humila,
+  Frapadis koro maltrankvila
+  En brusto per revaĵo tenta.
+  Eĉ ĉe altaro plej brilanta
+  En daŭro de solena kanto,
+  Per kiu oni Dion laŭdis,
+  Konatan ŝi parolon aŭdis.
+  Sub ark' preĝeja duonluma
+  Tre ofte, nur por ŝi vidata,
+  Figuro glitis tre konata;
+  En bonodor' facila fuma,
+  Brilante kiel stelo, tien
+  Li loge vokis ŝin... sed kien?
+
+III.
+  Jen monaĥejo en montaroj,
+  De tuta mond' apartigita,
+  Per vic' de poploj kaj ĉinaro[9]
+  De ĉiuj flankoj ĉirkaŭita.
+  Tra ili, post subiro suna,
+  En ĉambr' briletis izolita
+  Lampet' de monaĥino juna.
+  Sub ombr' de belaj migdalujoj,
+  Ĉe multaj krucoj plej malgajaj--
+  Gardantoj mutaj de ĉerkujoj,--
+  Kantadis ĥor' da birdoj gajaj;
+  Sur ŝtonoj malvarmetaj fontoj
+  Trafluis brue kaj saltante,
+  Kaj, sub superpendantaj montoj
+  En intermont' sin kunverŝante,
+  Ruliĝis inter arbetaĵo,
+  Per prujn' kovrita de floraĵo.
+
+IV.
+  En nord' montaro estis bela
+  En bril' de ĉielruĝo hela;--
+  Fumeto kiam bluiĝante
+  Gajigas koron de gruzinoj,
+  Kaj, orienten sin turnante,
+  Al preĝo vokas muezinoj[10];
+  Kaj kiam laŭta sonorilo,
+  De monaĥejo vekigilo,
+  Tremadas en aer' matena
+  En horo paca kaj solena;
+  Gruzino kiam bela, juna
+  Deklivas sin de kruta monto
+  Kun longa kruĉ' al brua fonto,--
+  Montaro en lumado suna
+  Per tuta sia ĉeno bela
+  Tre longe en altaĵ' ĉiela
+  Viola kvazaŭ muro restis.
+  Kaj en vespero ĝi sin vestis
+  Per tuko lume-ruĝa, hela.
+  Plej alta en montar' parenca--
+  Kazbeko: en eterna neĝo
+  En vest' arĝenta, kvazaŭ reĝo
+  Ĝi staras forta kaj potenca.
+
+V.
+  Sed, plena je revaĵo krima,
+  Ne estis de Tamar'animo
+  Al ravoj puraj atingebla.
+  Por ŝi per ombr' nepenetrebla
+  Nun mondo estis ĉirkaŭita,
+  Egale ĉiam kaj per ĉio
+  Ŝi estis multe turmentita:
+  Matene per de sun' radio
+  Kaj nokte per mallum' terura.
+  Apenaŭ nokto superpendas,
+  Tre ofte ŝi ĉe sanktfiguro
+  En frenezeco sin etendas--
+  Kaj ploras; kaj en nokt' silenta
+  Migranto ia kun atento
+  Aŭskultas, kiel ŝi ploregas,
+  Kaj pensas li: «spirit' malpenta
+  Punita en kavern' ĝemegas!»--
+  Kaj li tre akran aŭdon streĉas,
+  Ĉevalon pelas, savon serĉas.
+
+VI.
+  Tre ofte en revaĵ' tremante,
+  Ĉe mem fenestro en silento
+  Tamaro sidas meditante;
+  Ŝi malproksimon kun atento
+  Rigardas longe kaj sopiras....
+  Al ŝi do ia voĉo diras:
+  «Li nepre venos! Sonĝoj viaj
+  Ne vane ja vin karesadis,
+  Kaj li kun vortoj flamaj siaj
+  Kaj kun rigardo plej brilanta
+  Al vi ne vane aperadis.»
+  Ŝi longe estas sopiranta,
+  Pro kio--tute ne komprenas;
+  Ŝi Dion sanktan preĝi penas,
+  Sed preĝas lin obstina koro;
+  De batalado lacigita,
+  Sur lito kuŝas ŝi kun ploro--
+  Kusen' bruligas, sufokita
+  Kaj timigita, ŝi eksaltas,
+  Sin levas brusto tre rapide
+  Kaj flamas ŝultroj, kaj ekhaltas
+  Spirado ŝia, kaj, avide
+  Serĉante brakojn plej pasiajn,
+  Ŝi strange diras vortojn iajn....
+  *  *  *  *  *  *  *
+
+VII.
+  Gruzujo tuta per kovriloj
+  De nokto estas jam vestita.
+  Demon', per amo forlogita,
+  Rapidas gaje sur flugiloj
+  Humilan sanktan monaĥejon.
+  Sed ne kuraĝis li tuŝeti
+  Tre longe pacan rifuĝejon.
+  Kaj unu fojon eĉ forĵeti
+  Li tute, ŝajne, preta estis
+  Intencon de animo sia.
+  Enpensa, jam tre longe restis
+  Ĉe alta mur' spirit' malpia;
+  Li vagas, kaj de paŝoj liaj
+  Sen vento tremas eĉ folioj.
+  Antaŭen li rigardon sendas:
+  Fenestro estas lumigita,--
+  Jam longe iun ŝi atendas.
+  Kaj jen en valo izolita
+  Eksonis de ĉinhar'[11] tintado
+  Kaj belaj sonoj de kantado;
+  Kaj fluis tiuj sonoj ĉarmaj
+  Mezure unu post alia,
+  Simile je agrablaj larmoj;
+  Kaj estis tiu kanto dia
+  Tre delikata kaj tre bela,--
+  Ĝi kvazaŭ estis kunmetita
+  Por tero peka en ĉielo.
+  Ekvolis, eble, mem anĝelo
+  Sinvidi kun amiko tera,
+  Kaj al anim' de suferanto,
+  Kun amo sankta kaj sincera,
+  Ekkantis pri estinta, vera,
+  Por per belega sia kanto
+  Forigi lian suferadon?...
+  Nun amon, ĝian sopiradon,
+  Kaj ekscitiĝon, kaj malĝojon
+  Demono nur unuan fojon
+  Komprenis.... Li en maltrankvilo
+  Forflugi volas,--sed flugilo
+  Ne movas sin, ne ŝanceliĝas!
+  Kaj,--kia mirindaĵ' senfina!--
+  Sur vangoj ŝarĝa larm' ruliĝas....
+  Ĉe tiu ĉambro monaĥina
+  Ĝis nun ankoraŭ estas ŝtono,
+  Trabruligita per plej varma,
+  Je fajr' simila flama larmo,
+  Per ŝarĝa larmo de Demono!...
+
+VIII.
+  Jen rifuĝejon li eniras,
+  Por amo preta, li deziras
+  Jam bonon fari, li komprenis,
+  Ke nova viv' por li alvenis.
+  Ne klara trem' de atendado,
+  De necerteco muta timo,
+  Malĝojo ama, sopirado,--
+  Unue venis al animo
+  Fiera, peka de Demono;
+  Ĝi estis antaŭdir' malbona....
+  Eniras de neig' spirito
+  Kaj vidas: antaŭ li kerubo,
+  El sankta paradiz' sendito,
+  Gardant' de pekulino bela,
+  En vest' facila, kiel nubo,--
+  Li staras kun rideto hela,
+  Kaj per flugilo blanka sia
+  De malamiko ŝin ombrigis....
+  Kaj jen radi' de lumo Dia
+  Rigardon lian ekblindigis,
+  Kaj ne saluton li afablan,--
+  Riproĉon aŭdas malagrablan:
+
+IX.
+  «Spirit' malvirta, maltrankvila,
+  Vi kial tien ĉi eniris?
+  En rifuĝejo plej humila
+  Ĝis nun malbon' ankoraŭ spiris
+  Neniam; via adoranto
+  Forestas tie ĉi! Kun krimo,
+  Kun tento lerta en animo,
+  Malbonon sole dezirante,
+  Ne tuŝu sanktan amon mian!
+  Vin kiu vokis?»
+                  Respondante,
+  Spirit' malica plej malpian
+  Vizaĝon faris kaj ekridis;
+  Ĵaluze brilis, kiel flamo,
+  Rigardo lia, kaj revidis
+  En si antaŭan li malamon.
+  «Ŝi--mia! li ekkriis brue:
+  Forlasu ŝin! ŝi estas mia!
+  Aperis vi jam tro malfrue,
+  Ho, sankta de ĉiel' gardanto,--
+  Por mi kaj ŝi, sendito Dia,
+  Vi nun ne estas jam juĝanto.
+  Kaj ŝia koro, kaj beleco
+  Sendube tute miaj estas;
+  Kaj via virto, kaj sankteco
+  Jam tute tie ĉi forestas;
+  Vi vane gardi ŝin intencas,
+  Ĉar mi ŝin amas, mi potencas!»
+  Kaj jen malgaje rigardinte
+  Oferon de malpia tero,
+  Kaj, per flugiloj eksvinginte,
+  Anĝelo dronis en aero....
+  *  *  *  *  *  *  *
+
+X.
+Tamaro.
+  Ho, kiu estas vi? Danĝera
+  Parolo via! Vi ĉiela
+  Sendito estas, aŭ infera?
+  Vi kion volas?
+
+Demono.
+                 Vi plej bela!
+
+Tamaro.
+  Sed diru--do, vi estas kiu?...
+  Respondu tuj....
+
+Demono.
+                 Mi estas tiu,
+  Je kies voĉo vi atentis
+  En nokto nigra kaj trankvila,
+  Malĝojon kies vi eksentis,
+  Kaj kies penso plej facila
+  Al via saĝo iam venis.--
+  En sonĝo kiun vi divenis;
+  Mi--tiu kies eĉ rigardo
+  Pli mortigema, ol ponardo,
+  Esperon tutan pereigas,
+  Apenaŭ hom' kun ĝi sin ligas;
+  Neniu min kun am' alprenas
+  Kaj ĉio viva min malbenas.
+  Eterno, spac'--por mi nenio;
+  Mi estas vip' de sklavoj miaj,
+  Mi--reĝo de libera scio,
+  Mi--malamiko de mem Dio,
+  Kaj vidu: ĉe piedoj viaj
+  Mi klinas min, mi, mi--teruro,
+  Malbono, puno de naturo!
+  Al vi mi nun en kortuŝeco
+  Alportis preĝon diligentan
+  De amo kaj de amikeco,
+  Pasion mian teran varman,
+  Malĝojon teran plej turmentan,
+  Unuan mian veran senton,
+  Unuan ankaŭ mian larmon.
+  Kompatu--do pri mia sorto!
+  Vi min returnus al ĉielo,
+  Al bono nur per unu vorto;
+  Per am' vestita, mi anĝelo
+  Fariĝus ree, kaj ankoraŭ
+  Pli bela estus, pli brilanta.
+  Aŭskultu nur, mi petas kore,--
+  Mi--via sklavo suferanta,
+  Senfine forte vin amanta!
+  Apenaŭ nur mi vin ekvidis,
+  Subite en anim' jeridis,
+  Malamis forton mi inferan,
+  Kaj senmortecon, kaj potencon,
+  En kiuj mi ne vidis sencon,--
+  Kaj mi enviis ĝojon teran:
+  Ne vivi, kiel vi,--ne povas,
+  Mi tute, kaj mi eĉ ne provas
+  De vi aparte vivi. Mia
+  Sensanga, forta kor' malpia
+  Eksentis jam sur sia fundo
+  Radion de agrabla sento,
+  Kaj ree en malnova vundo
+  Sin movas de malĝoj' serpento....
+  Sen vi--pro kio miaj fortoj?
+  Potenco mia? Senmorteco?
+  Ĝi estas nur bonsonaj vortoj,
+  Preĝejo granda sen dieco!
+
+Tamaro.
+  Forlasu min, spirit' envia!
+  Silentu, mi al vi ne kredas!....
+  Ho ve!... Kreint' potenca mia!
+  Mi sentas: mi al li jam cedas;
+  Ne povas preĝi mi; je morta
+  Veneno estas plenigita
+  Jam mia saĝo plej malforta!
+  Kompatu, vi min pereigas;
+  Per morto estas ĉirkaŭita
+  Parolo via... Kio igas,
+  Ke vi min amu? Ho, pro Dio,
+  Al mi respondu, diru!...
+
+Demono.
+                         Kio?
+  Ho ve! mi mem ne scias kio;
+  Je vivo nova tute plena,
+  Tuj mem de mia kap' malbena
+  Kroneton pikan mi formetis,
+  Pasintan tutan mi forĵetis;
+  Kaj paradizon, kaj inferon
+  Mi en okuloj viaj trovas!
+  Al vi mi sentas amon veran,
+  Ekami tiel vi ne povas:
+  Per tuta forto, per potenco
+  De revo kaj de pens' senmorta
+  Mi amas. En de mond' komenco
+  Jam en animo mia forta
+  Figuro via ĉiam bela
+  Fortike estis impresita,
+  Kaj longe antaŭ mi, ĉarmita,
+  Ĝi flugis en eter' ĉiela.
+  Jam longe, maltrankviliĝante,
+  Agrablan nomon mi atentis;
+  En paradizo eĉ estante,
+  Mi ĉiam unu mankon sentis,
+  Kun mi vin belan ne havante.
+  Ho, se vi povus kompreniĝi,
+  Sopiro kia kaj malbeno--
+  En tuta viv' sen partopreno
+  Suferi, ĝemi, turmentiĝi,
+  Kaj plezuriĝi,--sed por bono
+  Jam ne atendi ian laŭdon,
+  Kaj rekompencon--por malbono;
+  Elporti ĉiam bataladon,
+  Sed nek triumfi, nek paciĝi!
+  Domaĝi ĉiam, ne volante,
+  Kaj ĉion vidi, kaj sciiĝi,
+  Kaj senti, kaj nenion timi,
+  En tuta ter' nenion ami,
+  Kaj peni ĉion nur malami,
+  Kaj tutan mondon malestimi!...
+    Apenaŭ nur de Di' malbeno
+  Al mi subite proksimiĝis,--
+  Natura varma ĉirkaŭpreno
+  Por mi eterne malvarmiĝis....
+  Jen vidis mi ĉielarkaĵon,
+  Brilantan klaran ornamaĵon
+  De bonkonataj lumaj steloj,
+  Vestitaj en kronetoj belaj;
+  Sed ili tute ne rekonis
+  Min en vestaĵo de infero!
+  Kaj tute jam en malespero
+  Al mi alveni mi admonis
+  Kunfratojn, je mi mem similajn,
+  Sed--ve! mi ankaŭ mem rekonis
+  Nek vortojn de malbon' iliajn,
+  Nek vizaĝegojn kun rigardoj
+  Pli mortigemaj, ol ponardoj....
+  Kaj, eksvinginte per flugiloj,
+  Forflugis mi... sed kien? kial?
+  Ne scias.--Min amikoj miaj
+  Forĵetis ĉiuj; mondo tuta
+  Por mi fariĝis surda, muta,
+  Kiel ĉiel' kun bonoj Diaj.
+  Ŝipeto tiel difektita,
+  Sen direktilo kaj sen velo,
+  Per ond' libera ekkaptita,
+  Rapide naĝas,--sed sen celo;
+  Tiele en mateno frua
+  Fragment' de nubo tondra brua,
+  En ark' ĉiela nigriĝante,
+  Nenie halti kuraĝante,
+  Vidante celon eĉ nenie,
+  Traflugas--kien kaj de kie
+  Ĝi mem ne scias:--sola Dio
+  Potenca scias nur pri tio!...
+    Sed mondon mi ne longe regis,
+  Al pek' ne longe ĝin instruis,
+  Kaj ĉion belan mallaŭdegis,
+  Kaj ĉion noblan fordetruis;
+  Mi kredon el homara koro
+  Forigis tute sen laboro....
+  En mondo sole malsaĝuloj
+  Enuaj kaj hipokrituloj,
+  Plej abomenaj kaj malpiaj,
+  Kun kredo en animo restis....
+  Sed... sed ĉu ili indaj estis
+  Je zorgoj, je laboroj miaj?
+  Kaj jen mi kaŝis min en montoj;
+  Kaj flugis, kiel meteoro,
+  Mi nokte super bruaj fontoj....
+  Migranto kun kredema koro
+  Kaj kun espero en animo,
+  Trompita per fajret' proksima,
+  Loĝejon trovi atendante
+  Kaj kune kun ĉeval' falante,
+  Pereis en profundegaĵo,
+  Kaj ĝemis,--kaj post li kurbiĝis
+  Postsigno sanga sur krutaĵo....
+  Sed mi ne longe amuziĝis
+  Per tiel krima malbonego.
+  Tre ofte, polvon eklevinte,
+  En batalado kun ventego,
+  Per fulmotondro min vestinte,
+  Sur nuboj flugis mi facilaj,
+  Volante inter elementoj
+  Bruegaj, fortaj, malhumilaj,
+  Animon savi de turmentoj
+  Kaj de pensad' neevitebla,--
+  Forgesi pri neforgesebla!
+  Ĉu estas senco en mizeraj
+  Laboroj homaj, en turmentoj,
+  Malĝojoj, malfeliĉoj teraj
+  De nunaj, de estontaj gentoj,
+  Eĉ komparitaj kun minuto
+  De mia suferado muta?
+  Kaj homoj? Viv', labor' ilia?
+  Ĉu estas senc' en ili ia?
+  Ja ili pasis, ili pasos,
+  Pri ili homoj pensi lasos!
+  Espero estas: juĝ' severa;
+  Ĝi ĉiam pardonema restos!
+  Sed mia malĝojad' netera
+  En mi, kun mi eterne estos,
+  Ĝi finon, kiel mi, ne havos,
+  De ĝi en tomb' mi min ne savos!
+  Jen al serpento ĝi similas,
+  Jen kvazaŭ flamo hela brilas,
+  Bruligas per bonega tento,
+  Jen penson premas kvazaŭ ŝtono--
+  Nedetruebla monumento
+  De pereintaj jam esperoj,
+  De revo pri pasinta bono,
+  De sentoj, de pasioj teraj!
+
+Tamaro.
+  --Vi kiu estas diveninta
+  Ne estas mi, sed seniĝinta
+  Por ĉiam je trankvilo mia,
+  Nevole al parolo via
+  Atentas mi kun ĝoj' sekreta,
+  Amiko mia suferanta.
+  Sed se vi ruzi estas preta,
+  Se trompon en anim' kaŝante...
+  Ho, min kompatu!... Kia gloro!...
+  Por kio estas mia koro
+  Al vi? Ĉu estas por ĉieloj
+  Pli kara mi, ol ĉiuj belaj,
+  Ne vidis kiujn vi? Ribelaj
+  Ja manoj de mortemaj homoj
+  Ilian liton virgan puran
+  Ne ĉifis en iliaj domoj!
+  Ne! donu vi fatalan ĵuron....
+  Eldiru,--vidu: mi sopiras,
+  Vi vidas revojn miajn! Timon
+  Agrablan, dolĉan vi enspiras
+  Al mi nevole en animon...
+  Sed ĉion vi komprenis tute
+  Kaj min kompatos sendispute!
+  Ho, ĵuru,--ke jam malkonfesas
+  Malbonon vi, kaj ke promesas...
+  Ĉu jam en mond' ne estas eblaj
+  Promesoj, ĵuroj nerompeblaj?...
+
+Demono.
+  --Mi ĵuras je unua horo
+  De mond', je ĝia horo lasta,
+  Je krimo ĵuras malhonora
+  Kaj je triumf' de vero ĉasta;
+  Mi ĵuras je turment' de falo,
+  De venko je revado pala;
+  Mi ĵuras je kun vi sinvido
+  Kaj je disiĝo atendata;
+  De spiritaro je kunsido,
+  Je ĝia sorto malamata,
+  Je fratoj subpotencaj miaj,
+  Je glavoj de anĝeloj sanktaj,
+  Belegaj, fortaj, senpasiaj,
+  Senfine min malestimantaj,
+  Kaj je ĉielo, je infero,
+  Je vi kaj je sankteco tera;
+  Je lasta ĵuras horo mia
+  Kaj je unua larmo via;
+  Je spir' de via buŝo bela,
+  De silka bukl' je ondo hela;
+  Je amo ĵuras mia tera
+  Kaj je feliĉo, je sufero,--
+  Malnovan venĝon malkonfesas--
+  Mi tute, malkonfesas ankaŭ
+  Fierajn pensojn, kaj promesas,
+  Ke nun jam de nenia flanko
+  Mi per venen' de flato bela
+  Al iu ektumultos koron.
+  Mi tute ŝanĝos mian moron,
+  Paciĝos mi kun Di' ĉiela,
+  Ĉar volas mi al li jam cedi;
+  Mi volas preĝi, senti amon,
+  Mi volas ankaŭ bonon kredi,
+  Mi verŝos mian pentan larmon,
+  Kaj ĝi tuj mem de frunto mia
+  Je vi jam inda, mia bela,
+  Forviŝos signojn de ĉiela
+  Sanktega fajro,--mond' malpia
+  Jam floros en nescio sia
+  Sen mi, trankvile kaj sen bruo!
+  Ho, kredu: mi ĝis nun unua
+  Komprenis vin, kaj vin elektis
+  Por mi sanktejon, kaj potencon
+  Mi ĉe piedoj viaj metis;
+  Min amo via kiel dono
+  Altiras,--kaj mi eternecon
+  Al vi proponas por momento,--
+  En amo, kiel en malbono,
+  Tre granda estas mia sento
+  Kaj ne ŝanĝema,--ho, Tamaro!
+  Al mi vi kredu, mia kara.
+  Mi, fil' libera de etero,
+  Vin, Dian kreitaĵon belan,
+  Forprenos de malbona tero
+  Kun mi en landon superstelan,
+  Kaj estos vi de mond' reĝino,
+  Unua mia amikino;
+  Sen partopreno, sen bedaŭro
+  Rigardos vivon vi sur tero,
+  Forestas kie longedaŭra
+  Beleco kaj feliĉo vera,
+  Alestas kie sole krimoj
+  Kaj ekzekutoj, en animoj
+  De ĉiuj kie--nur pasioj
+  Tre sensignifaj, tre malpiaj;
+  Ne povas kie oni ami
+  Sen granda abomena timo,
+  Aŭ malestimi kaj malami
+  Per tutaj fortoj de animo.
+  Ĉu vi ne scias, mia bela,
+  Signifas kion am' minuta
+  De homoj? Ondo nur ribela
+  De sango de naturo bruta!
+  Sed tagoj kuras,--ĉio pasas
+  Kaj homoj baldaŭ ĝin forlasas.
+  Ĉu homo povas ĉe disiĝo
+  Fortika resti? Ĉu li ŝparos
+  Sin de enuo, de laciĝo?
+  Ĉu longe ankaŭ kontraŭstaros
+  Li al forlogo de beleco,
+  Aŭ al revad' de arbitreco?
+  Ne, mia kara amikino,
+  Eksciu, ke ne estas sorto
+  Al vi, simile al sklavino
+  De malĝentila tera forto,
+  Silente velki inter teraj
+  Malvarmaj kaj malgrandanimaj
+  Amikoj ŝajnaj kaj malveraj,
+  Kaj en senfinaj, grandaj timoj,
+  En senfrukteco de esperoj
+  Kaj en laboroj ŝarĝaj viaj!
+  Post mur' de sankta monaĥejo
+  Ne estingiĝos sen pasioj
+  Vi inter preĝoj en preĝejo.
+  De tuta mondo sin kaŝante,
+  Neniam homojn eĉ vidante,
+  En malproksim' de viva ĉio,
+  De homoj kaj de sankta Dio.
+  Ho, ne! plej bela kreitaĵo,
+  Por vi alia estas sorto:
+  Alia granda profundaĵo,
+  De ravoj, kaj turmento forta
+  Atendas vin! Forlasu mondon
+  Mizeran vi al ĝia sorto:
+  Anstataŭ ĝi grandegan rondon
+  Da multaj kaj fieraj scioj
+  Al vi, plej kara, mi proponos.
+  Amason da spiritoj miaj
+  Al vi, pro servo, tuj mi donos;
+  Sklavinojn sorĉajn kaj facilajn,
+  Plej obeemajn kaj humilajn
+  Al vi mi donos, mia bela;
+  Forŝiros mi kroneton oran
+  Por vi de orienta stelo,
+  Mi prenos noktan roson floran,
+  Kaj ĝin per tiu roso pura
+  Mi superŝutos; per purpura
+  Radio bela de subiro
+  Envolvos mi talion vian
+  Belegan, luksan kaj gracian;
+  Per bonodora, pura spiro
+  Aeron tutan mi plenigos!
+  Eterne per ludado mira
+  Mi aŭdon vian amuzigos;
+  El or', turkiso kaj safiro
+  Konstruos mi palacon karan;
+  Mi min mallevos fundon maran
+  Post nubon flugos mi humile,
+  Al vi mi donos ĉion teran,--
+  Nur amu min!...
+
+XI.
+                 Kaj jen facile
+  Kaj dolĉe kisis li mizeran
+  Oferon sian; per parolo,
+  Da logo sorĉa plenigita,
+  Batalis li kun sia volo,
+  Kun ŝia saĝo ŝancelita,
+  Potenca de Demon' rigardo
+  Bruligis ŝin; en nokt' sensona,
+  Malluma, ĝi brilegis forta,
+  Neforbatebla, kiel ponardo.
+  Triumfis, ve, spirit' malbona!
+  De lia kis' veneno morta
+  Aperis tuj en koro ŝia...
+  Turmenta kaj terura krio
+  Silenton noktan ekondigis.
+  En si ĝi ĉion tuj kunigis:
+  Kaj amon flaman, kaj suferon,
+  Riproĉon kun petego lasta,
+  Kaj adiaŭon senesperan
+  Kun vivo juna, vivo ĉasta....
+  *  *  *  *  *  *  *
+
+XII.
+  En tiu nokta temp' gardanto,
+  Ĉirkaŭirante muron altan,
+  Tabulon feran ekbatante,--
+  Malrapidigis tuj senhaltan
+  Ĉirkaŭiradon: li atingis
+  Ĉambreton ŝian... Kun esprimo
+  De konfuziĝo en animo
+  Subite manon li haltigis
+  Kaj en tabulon ne frapadis.
+  Jen tra ĉirkaŭa li silento
+  Subite ŝajne klare aŭdis,
+  Ke sonis kiso tre konsenta,
+  Malforta ĝem', minuta krio.
+  Kaj dubo peka kaj malpia
+  Al li aperis en animo...
+  Sed poste silentiĝis ĉio,
+  Kaj jen ankoraŭ post momento
+  Alflugis nur el malproksimo
+  Per blovo de facila vento
+  Murmuro dolĉa de folioj,
+  Kaj en mallumaj bordoj siaj
+  Rivero bruis en silento.
+  Kanonon sanktan de piulo
+  En timo legas maljunulo,
+  Por de diabla forta tento
+  Forigi pekan penson sian;
+  Por fingroj benas li tremantaj
+  Ekscitiĝantan bruston pian,
+  Kaj jen per paŝoj rapidantaj
+  Daŭrigas plu iradon sian....
+  *  *  *  *  *  *  *
+
+XIII.
+  En ĉerko kuŝis ŝi simila
+  Je mem anĝelo de ĉielo;
+  Pli blanka, pura, ol kovrilo,
+  Konservis sin koloro hela
+  De ŝia frunto juna, bela,
+  Fermitaj okulharoj estas...
+  Sed, Dio! ĉu ne dirus ĉiu,
+  Ke juna belulino tiu
+  En sia ĉerko nur dormetas,
+  Kaj kison varman nur atendas,
+  Aŭ tagon? Sed radio suna
+  Senfrukte tute sin etendas
+  Sur frunto de knabino juna;
+  Kaj vane en malĝoj' sensenca
+  Nun kisis buŝo ŝin parenca.--
+  Ne, ne,--neniu estas forta
+  Batali kun kruela morto!
+
+XIV.
+  Neniam eĉ en grava festo
+  Ankoraŭ estis tiel kara
+  Kaj tiel bela, riĉa vesto
+  De formortinta nun Tamaro.
+  Floretoj, laŭ antikva moro,
+  Ornamas ŝin,--agrabla, forta
+  De ili fluas bonodoro,
+  Sed igas ilin mano morta
+  Adiaŭ diri jam al mondo.
+  Nenio en vizaĝo ŝia
+  Parolis, ke en brua ondo
+  De ravo flama kaj pasia
+  Ŝi mortis. Estis plenigita
+  Vizaĝo ŝia je marmora
+  Beleco, tute senigita
+  Je saĝo, je esprimo kora,
+  Sekreta, kiel muta morto,
+  Aŭ kiel mem severa sorto.
+  Rideto stranga malvarmiĝis
+  Sur ŝia bela buŝ' silenta;
+  Pri malĝojad' de ĝi sciiĝis
+  Okulo sperta kaj atenta.
+  En ĝi vidiĝis malestimo
+  De horo forflorinta, bona,
+  De lasta senca pens' esprimo,
+  Al tero--adiaŭ' sensona.
+  Rebrilo vana de pasinta,
+  Ankoraŭ estis ŝi pli morta,
+  Pli senespera, pli malforta,
+  Ol mem rigard' estingiĝinta.
+  Tiele en vespera horo,
+  Fluidiĝinte kiam tute,
+  Jam kaŝas sin en maro ora
+  Kaleŝo taga,--tuj minute
+  Kaŭkazaj neĝoj, konservante
+  Radion ruĝan kaj brilante,
+  Lumiĝas nur sur horizonto
+  Sed jam al tiu lum' malĝoja
+  Ne iros en dezert' renkonte
+  Rebrilo, kaj nenies vojo
+  Neniam estos lumigita
+  De ĝia supro glaciita!...
+
+XV.
+  Parencoj ĉiuj kaj najbaroj
+  Kunvenis por malgaja vojo.
+  Ŝirante siajn grizajn harojn,
+  Batante bruston en malĝojo,
+  Gudalo princ' en lasta fojo
+  Jam sidas sur ĉevalo brava,--
+  Kaj ĉiuj rajdas. Longa vojo
+  Por ili estas. Inter ava
+  Ostaro estas elfosita
+  Por ŝi rifuĝo plej trankvila.
+  Prapatr' Gudala, priglorita
+  Rabisto brava malhumila,
+  Malsano kiam lin kunligis
+  Kaj kiam venis penta horo,
+  En profundaĵ' de sia koro
+  Preĝejon fari sin ŝuldigis
+  Sur supro de montar' granita,
+  Sur kiu estis nur aŭdita
+  Kantado de neĝvent' terura
+  Kaj kie flugas nur vulturo.--
+  Kaj baldaŭ en neĝar' Kazbeka
+  Preĝejon vento ĉirkaŭblovis,
+  Kaj ostoj de rabisto peka
+  Por si trankvilon tie trovis;
+  Kaj alta mont' aliformiĝis,
+  Sur ĝi aperis nun tombejo:
+  Postmorta kvazaŭ nun loĝejo
+  Al mem ĉielo proksimiĝis;
+  Ĝin malproksime de okuloj
+  Ne tuŝos kvazaŭ vivo tera...
+  Sed vane! Sonĝas malvivuloj
+  Nek ĝojon de feliĉo vera,
+  Nek malgajecon de pasinta,
+  Jam por eterne formortinta.
+
+XVI.
+  En spaco de etero blua
+  Traflugis unu el anĝeloj
+  Sanktegaj sur flugiloj helaj;
+  Animon li de mondo brua
+  En brakoj portis al ĉieloj;
+  Per dolĉa vorto de espero
+  Li ĝin de dubo ŝarĝa savas,
+  Kaj signon kriman de sufero
+  Per larmoj li de ĝi forlavas.
+  Al ili estis jam aŭdita
+  El paradizo sankta kanto--
+  Subite, vojon trahakanta,
+  Sin levis el infer' spirito.
+  Potenca kiel vent', severe
+  Li brilis, kvazaŭ fulm' radia,
+  Kaj arogante, kaj fiere
+  Ekkriis li: «ŝi estas mia!»
+    Kun tim', per preĝo defendata,
+  Alpremis sin al brusto ŝpara
+  Animo peka de Tamaro.
+  Nun sorto estis decidata
+  De estonteco: li denove
+  Nun staris antaŭ ŝi senmove,
+  Sed, ho potenca sankta Dio!
+  Kun li fariĝis stranga io:
+  Rigardo lia estis plena
+  Da malboneco, da esprimo
+  De malfavor', de malestimo,
+  Kaj de malpaco al veneno;
+  Kaj de vizaĝo senmovema
+  Malvarmo blovis mortigema.
+    «For, malaperu, ho malpia
+    Spirito de malluma dubo!»
+  Respondis lin sendito Dia,
+  Vestinte sin per blanka nubo:
+  «Sufiĉe vi jam triumfadis
+  Kaj ŝin sufiĉe posedadis;
+  Sed hor' de juĝo nun alvenis,
+  Ekprovon ŝarĝan ŝi eltenis,
+  Kaj bona estas volo Dia!
+  Forpasis tagoj de sufero,
+  Jam de animo bela ŝia
+  Nun kun kaduka vest' de tero
+  Forfalis ĉenoj de malbono,
+  Ni ŝin,--eksciu, ho Demono,--
+  Atendis longe en ĉielo!
+  Ja vivo de animo ŝia
+  Sur peka tero estis tia,
+  Ke ĝi prezentis nur momenton
+  De suferad' neelportebla,
+  De granda ĝoj' neatingebla
+  Kaj de turmenta kora sento;
+  El plej bonega ĝi etero
+  De Dio estis elteksita,
+  Ĝi estis tute ne por tero,
+  Kaj tero ne por ĝi kreita!
+  Ŝi dubojn siajn elaĉetis
+  Per kosto granda kaj kruela...
+  Ŝi amis kore, sin turmentis,--
+  Kaj nun atendas ŝin ĉielo!»
+    Kaj ekrigardis lin anĝelo
+  Severe per okuloj brilaj,
+  Kaj, eksvinginte per flugiloj,
+  Fordronis en bluaĵ' ĉiela.
+  Demono forvenkita estis....
+  Revaĵojn siajn li, fiera,
+  Malbenis, kaj denove restis
+  Li sola sur enua tero
+  Sen am', sen kredo, sen espero!...
+  *  *  *  *  *  *  *
+  Ĝis nun ankoraŭ en montaro
+  Kaŭkaza, sur dekliva klino,
+  En valo bela de Kajŝaro
+  Restaĵoj estas de ruino.
+  Pri ĝiaj detruitaj turoj
+  Ekzistas inter kaŭkazanoj
+  Rakontoj multaj kaj teruraj,
+  Amataj forte de infanoj....
+  Jen inter arboj monumento,
+  Fantomo kvazaŭ, en silento
+  Nigriĝas ĉiam en nebuloj.
+  Pri tagoj ĝi rakontas sorĉaj;
+  Malsupre montras sin auloj[12],
+  Kaj tero floras kaj verdiĝas,
+  De ĉie flugas sonoj voĉaj,--
+  Rivero brilas kaj ruliĝas,
+  De alta monto ekfalante;
+  El malproksimo, sonorante,
+  Trairas granda karavano.
+  Naturo--belulin', ŝercante,
+  Sen zorg', simile je infano,
+  Amuzas sin per vivo juna,
+  Kaj per printempo, kaj per suno.
+    Sed nun kastelo, jam fininta
+  Antikvan longan servon sian,
+  Kiel aĝulo, transvivinta
+  Amikojn, karan familion,
+  Malgaje staras, sen espero.
+  En ĝi loĝantoj nevideblaj
+  Atendas nokton nur: libero
+  Kaj fest' por ili estas eblaj
+  Nur tiam, kiam lun' subiras!
+  Kaj ili zumas, kaj disiras,
+  Disflugas kun diversa krio.
+  Jen araneo en sekreto
+  Alpaŝis al ŝpinad' de reto;
+  Jen de lacertoj familio
+  Petolas gaje sur tegmento,
+  Kaj singardema jen serpento
+  Elrampas el malluma truo
+  Sur platon de peron', kaj volvas
+  Sin ringe sen nenia bruo,
+  Jen ree lerte sin disvolvas,
+  Jen al bastono ĝi similas
+  Kaj kuŝas, kaj tre hele brilas,
+  Simila kvazaŭ glavo ŝtala,
+  Forlasis kiun mortigita
+  Heroo ia en batalo
+  En tempo longe forgesita....
+  --Sovaĝa estas ĉio, ĉie.
+  Postsignoj iaj de pasinta
+  Vidataj estas nun nenie,--
+  Ĉar ilin estis balainta
+  Man' de eterno senpartia,
+  Kaj memorigos jam nenio
+  Pri glora nomo de Gudalo
+  Kaj pri filino kara lia!
+    Sed sur plej alta monta valo,
+  Sur kiu estis enfosita
+  Ostar' ilia, konservita
+  Preĝejo inter nuboj staras:
+  Ĝis nun ĝin sankta Dio ŝparas;
+  En gardo ĉe pordegoj ĝiaj
+  Vidiĝas vico da granitoj,
+  Per neĝ' eterna priŝutitaj:
+  Sur brust' ilia el glacioj
+  Tavol' eterna hele brilas
+  Kaj tute al kiras' similas,
+  Grandegoj dormaj da neĝaroj
+  Sur suproj montaj sin etendas,
+  Kaj, sulkiĝinte, ĉie pendas
+  Frostitaj kvazaŭ falakvaroj.
+  Iradas tie vent' patrole,
+  Forblovas polvon ĝi memvole
+  De grizaj antikvegaj muroj
+  Kaj de ruinaj altaj turoj--
+  Jen kantas ĝi senfinajn kantojn,
+  Jen laŭte vokas gardstarantojn.
+  Aŭdinte pri preĝejo mira
+  En tiu ĉi sovaĝa lando,
+  Al ĝi nur nuboj de suriro
+  Rapidas en amaso granda;
+  Kaj al plataro tomba tiu
+  Neniu jam de homoj iras
+  Por plori tie, kaj neniu
+  Nun tie ĝemas kaj sopiras!
+  Ŝtoneg' malluma de Kazbeko
+  Gardadas nur akiron sian,
+  Kaj plendo de homaro peka
+  Ne tuŝos sonĝon jam ilian.
+
+
+PIEDNOTOJ:
+
+[3] Iam oni min riproĉis (s-ro Grabovskij), ke mi diris malveron, ĉar
+_leonino ne havas kolharon_; mi ĝin bone scias, sed mi ja estas nur
+tradukinto, kaj en originalo estas dirite «leonino» (Vidu Verkaron de
+Lermontov). _Trad._
+
+[4] Ĉinaro estas plej amata arbo en Kaŭkazo. _Trad._
+
+[5] Ĉadro estas vualo, kiun uzas orientaj virinoj. _Trad._
+
+[6] Ĉuĥo estas supra gruza vesto kun malplenaj manikoj. _Trad._
+
+[7] Papaĥo--alta fela ĉapo, kiun uzas loĝantoj de Kaŭkazo. _Trad._
+
+[8] Ĉadro estas vualo, kiun uzas orientaj virinoj.
+
+[9] Ĉinaro estas tre ombra arbo, pleje amata de Kaŭkazanoj. _Trad._
+
+[10] Muezinoj estas servantoj en orientaj preĝejoj. _Trad._
+
+[11] Ĉinharo estas muzika instrumento, simila je gitaro. _Trad._
+
+[12] Aulo--estas malgranda monta vilaĝo. _Trad._
+
+
+
+
+KOLEKTO ESPERANTA APROBITA DE D-o ZAMENHOF
+
+FRANCUJO.--HACHETTE kaj K-o, 79, Boul. St-Germain, Paris
+
+
+LIVRES D'ÉTUDE
+  Grammaire et Exercices de la langue Esperanto, par L.
+    de Beaufront.                                                   1 50
+  Corrigé de Grammaire et Exercices de la langue Esperanto,
+    par L. de Beaufront.                                            » 75
+  Commentaire sur la grammaire Esperanto, par L. de Beaufront.      2  »
+  Texte synthétique des règles, préfixes, suffixes, expressions de
+    l'Esperanto, traduction française en regard, par
+    L. de Beaufront.                                                » 50
+  Thèmes d'application, _Lexicologie_, _Syntaxe_, _Formation des
+    mots de l'Esperanto_, vocabulaire des mots employés, par
+    L. de Beaufront.                                                2  »
+  Cours commercial d'Esperanto, par Marissiaux.                     1 50
+  Corrigé des exercices du Cours commercial d'Esperanto,
+    par M. Marissiaux.                                              1  »
+  L'Esperanto en dix leçons, par Th. Cart et Pagnier.               » 75
+  Corrigé des Exercices de l'Esperanto en dix leçons, par
+    Th. Cart et M. Procureur.                                       » 50
+  Premières leçons d'Esperanto, par Th. Cart.                       » 30
+  Dictionnaire Esperanto-Français, par L. de Beaufront.             1 50
+  Structure du dictionnaire Esperanto. _Réponse à beaucoup
+    d'objections_. (Teksto esperanta kaj franca), par
+    L. de Beaufront.                                                » 30
+  Vocabulaire Français-Esperanto et Vocabulaire abrégé
+    Esperanto-Français, par Th. Cart, M. Merckens et P. Berthelot.  2 50
+  Vocabulaire des mots spéciaux à la philatélie, par R. Lemaître.   » 40
+
+TEKSTOJ EN ESPERANTO
+  Brueys et Palaprat. _Advokato Patelin_, tradukita de J. Evrot.    » 75
+  Diversaĵoj, rakontetoj tradukitaj de S-oj Lallemant kaj Beau.     1 25
+  Ekzercoj de Aplikado, _Leksikologio_, _Sintakso_, _Vortfarado
+    Esperantaj_, de L. de Beaufront.                                1  »
+  Esperantaj prozaĵoj, de diversaj aŭtoroj.                         2 50
+  Fundamenta Krestomatio de la lingvo Esperanto, de D-ro Zamenhof.  3 50
+  Fundamento de Esperanto, de D-ro Zamenhof.                        3  »
+  Godineau. _La Kolorigisto-aerveturanto_.                          » 30
+  Hamleto, dramo de Shakespeare tradukita de D-ro Zamenhof,
+    _nova eldono_.                                                  2  »
+  Komercaj leteroj, de P. Berthelot kaj Ch. Lambert.                » 50
+  Kondukanto de l' interparolado kaj korespondado kun aldonita
+    Antologio Internacia, de Grabowski.                             2  »
+  Kurso tutmonda, de E. Gasse.                                      » 75
+  Labiche et Legouvé. _Cikado ĉe Formikoj_, unuakta komedio.        » 60
+  La Fontaine. _Elektitaj Fabloj_, esperantigitaj de G. Vaillant.   » 75
+  La Komerca sekretario, de Ros Sudria.                             » 50
+  Leibniz. _Monadologio_, tradukita de E. Boirac.                   » 60
+  Maistre (X. de). _Vojaĝo interne de mia Ĉambro_, tradukita
+    de S. Meyer.                                                    » 75
+  Matematika terminaro kaj krestomatio, de R. Bricard.              » 75
+  Molière. _L' Avarulo_, tradukita de S. Meyer.                     » 75
+  Orzesko. _La interrompita kanto_, tradukita de Kabe.              »  »
+  Norman. _Poŝlibro Internacia_, por Aferistoj, Turistoj, K. C.     2  »
+  Perrault (Ch.) _Rakontoj pri Feinoj_, tradukitaj de
+    Sinjorino Sarpy.                                                1  »
+  Rakontoj kaj Fabeloj (el Esperantaj Prozaĵoj).                    » 25
+  Sieroŝevski (Vaclav). _La Fundo de l' mizero_, tradukita de Kabe. » 75
+  Virgilio. _Eneido_, kantoj I et II, tradukita de D-ro Vallienne.  » 60
+
+
+ANGLUJO.--REVIEW of REVIEWS, Norfolk street, LONDON, W. C.
+  First lessons in Esperanto. by Th. Cart and J. Rhodes         6 pence.
+  Esperanto: The Student's complete Text-Book, with two vocabularies
+    by J. C. O'Connor Ph. Dr. M. A.                                1s 6d
+  Esperanto-English dictionary, by A. Motteau.                     2s 6d
+  English-Esperanto dictionary, by J. C. O'Connor Ph. Dr. M. A.    2s 6d
+  English-Esperanto dictionary, by J. Rhodes and J. Ellis
+    (_in preparation_).
+  Grammar and exercises of the International Language Esperanto,
+    by Richard H. Geoghegan.                                       1s 6d
+  Dickens, Kristnaska sonorado (A Christmas Carol), tradukita
+    de M. Vestcott.                                                1s  »
+
+BELGUJO--HOLANDUJO.--A.-J. WITTERYCK-DELPLACE, 4, Nouvelle Promenade, BRUGES
+  Het Esperanto in tien lessen, door A.-J. Witteryck naar Cart
+    et Pagnier.                                                     » 50
+  Paĝoj el la Flandra Literaturo, tradukitaj de D-ro
+    Seynaeve et D-ro Van Melckebeke.                                1 50
+
+BULGARUJO.--KLUBO «STELO», PLOVDIV
+  Esperanto en 10 lecionoj, de Cart et Pagnier.                     1  »
+  Unuaj lecionoj, de Cart et Atanasov.                              » 40
+  Propaganda folio.                                                 » 10
+
+DANUJO.--ANDR.-FRED. HÖST & SÖN, Bredgade, 35, KJÖBENHAVN
+  Esperanto-Dansk-Norsk Ordbog, af F. Skeel-Giörling            Kr. 3 50
+  Grammatik.                                                        »  »
+  Dansk-Esperanto Ordbog.                                           »  »
+
+GERMANUJO.--MÖLLER & BOREL, Prinzenstrasse, 95, BERLIN
+  Anfangsgründe der Esperanto-Sprache, von Th. Cart und Hermann
+Jürgensen.                                                        M 0 30
+  Vollständiges Lehrbuch der Esperanto-Sprache, von J. Borel.     M 1 20
+  Wörterbuch Deutsch-Esperanto, von Dr Zamenhof.                  M 2  »
+  Wörterbuch Esperanto-Deutsch, von H. Jürgensen.                 M 1 80
+  Schlüssel zum Lehrbuch der Esperanto-Sprache, von J. Borel.     M 0 50
+  Pri unu speco de Kurbaj linioj, von Profesor A. Dombrovski.     M 0 50
+  Lernolibro de Esperanta Stenografio, (laŭ sistemo Stolze-Schrey)
+    de F. Schneeberger.                                           M 0 80
+
+HISPANUJO.--J. ESPASA, 579, Calle de las Cortes. BARCELONA
+  Primeras lecciones de Esperanto de Th. Cart y L. Villanueva.    P 0 40
+  Manual y Ejercicios de la lengua internacional Esperanto, por
+    V. Inglada Ors y A. L. Villanueva.                            P 3  »
+  Vocabulario Esperanto-Español y Español-Esperanto, por Inglada
+  Ors y Villanueva.                                               P 6  »
+
+ITALUJO.--RAFFAELLO GIUSTI, 53, Via Vittorio Emanuele, LIVORNO
+  Prime lezioni d'Esperanto, de Th. Cart e Alb. Gallois.            0 40
+  Grammatica della lingua internazionale Esperanto, di L. de
+    Beaufront, tradotta da G. Puccinelli.                           1 50
+  L'Esperanto in dieci lezioni, di Cart e Gallois.                  » 75
+  Dizionario Esperanto-Italiano, de J. Puccinelli.                  1 50
+  Dizionario Italiano-Esperanto, de J. Meozzini (_in preparazione_).
+
+POLUJO.--M. ARCT, 53, Nowy Swiat, WARSZAWA
+  Esperanto: Czecs I. Gramatyka i ćwiczenia, Dr L. Zamenhof.     R. 0 25
+   ---- Czecs II. Slownik                                        R. 0 15
+
+PORTUGALUJO.--BRAZILUJO
+  Primeiras lições de Esperanto, do professor Th. Cart, trad.
+    portugueza de A.-C. Coutinho, Paris, Hachette.                  » 40
+
+SVEDUJO.--Esperantoförening, STOCKHOLM
+  Esperanto-Svensk ordbok, de P. Ahlberg.                       Kr: 1 75
+
+OUVRAGES DIVERS
+  Tutmonda jarlibro esperantista por 1905                           2 50
+  Couturat (L.) et Leau (L.).--Histoire de la langue universelle.  10  »
+  -- Extraits de l'Histoire de la langue universelle.               1  »
+  Lafarge (G.).--Nécessité de l'adoption d'une langue
+    internationale auxiliaire.                                      1  »
+  Sacré (E.).--L'Esperanto.                                         1  »
+  Thiaucourt (C.).--Dernière conférence sur la Langue
+    Internationale Esperanto                                        1  »
+  Premier manuel de la langue auxiliaire Esperanto                  » 10
+
+1265-05.--Coulommiers. Imp. Paul BRODARD.--2-06.
+
+
+Teksto de librokovrilo:
+
+KOLEKTO ESPERANTA APROBITA DE D-O ZAMENHOF
+
+  VERKARO
+  DE
+  V. N. DEVJATNIN
+
+(RUSA ESPERANTISTO)
+
+LIBRO UNUA
+
+FRANCUJO.--HACHETTE et Cie, _PARIS_.
+
+  ANGLUJO.--«REVIEW of REVIEWS», _LONDON_.
+  DANUJO.--ANDR.-FRED. HÖST & SÖN, _KJOBENHAVN_.
+  GERMANUJO.--MÖLLER & BOREL, _BERLIN_.
+  HISPANUJO.--J. ESPASA, _BARCELONA_.
+  ITALUJO.--RAFFAELLO GIUSTI, _LIVORNO_.
+  POLUJO.--M. ARCT, _WARSZAWA_.
+  SVEDUJO.--ESPERANTOFÖRENING, _STOCKHOLM_.
+
+
+
+
+Notoj de transskribinto:
+
+Ĉi tiu 1906a libro havis multajn preserarojn. Mi kompare ekzamenis
+antaŭajn originalajn presadojn kaj original-lingvajn versiojn kiel
+gvidilojn dum korektado.
+
+Mi senrimarke ĝustigis etajn interpunkciajn kaj citilajn erarojn,
+kaj registris aliajn ŝanĝojn per html-aj komentoj. Ankaŭ originalajn
+paĝkomencojn mi simile registris. Mi movis ĉiujn la reklamojn al
+la fino.
+
+
+
+
+
+End of the Project Gutenberg EBook of Verkaro de V. N. Devjatnin, Libro Unua, by 
+Vasilij N. Devjatnin
+
+*** END OF THIS PROJECT GUTENBERG EBOOK VERKARO DE V. N. DEVJATNIN ***
+
+***** This file should be named 52577-0.txt or 52577-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/5/7/52577/
+
+Produced by Andrew Sly, Brenda Lewis and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

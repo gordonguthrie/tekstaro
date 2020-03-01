@@ -1,0 +1,2671 @@
+﻿Project Gutenberg's Literatura Mondo, numero 2, 1922 Novembro, by Various
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Literatura Mondo, numero 2, 1922 Novembro
+
+Author: Various
+
+Editor: Teodoro Schwartz
+
+Release Date: May 14, 2016 [EBook #52063]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LITERATURA MONDO, NUMERO 2 ***
+
+
+
+
+Produced by Andrew Sly and Roel Haveman. Music prepared
+by Linda Cantoni.
+
+
+
+
+
+
+UNUA JARO
+
+1922 NOVEMBRO
+
+NUMERO 2
+
+  LITERATURA
+  MONDO
+
+  RESPONDA REDAKTORO:
+  D-RO TEODORO SCHWARTZ
+
+  REDAKTA KOMITATO:
+  JULIO BAGHY, PAŬLO BALKÁNYI,
+  PAŬLO DE LENGYEL, KOLOMANO DE
+  KALOCSAY, ADALBERTO BAYER
+
+NIA KUNLABORANTARO:
+L. BRIGGS, M. SOLOVIEV, E. HAINE,
+P. GABORY, N. HOHLOV, P. MEDEM,
+E. OSMOND, J. MANGADA ROSENÖRN,
+JULIO WERNER, D-RO E. PFEFFER,
+D-RO L. ZAMENHOF, J. GRAU CASAS
+
+ADMINISTREJA DIREKTORO: ANDREO BÁN
+
+REDAKTEJO KAJ ADMINISTREJO: BUDAPEST VI, ANDRÁSSY-UT 81
+
+PRESITA: GLOBUS PRESARTINSTITUTO A. S.
+
+
+
+
+ESTIMATA SAMIDEANO!
+
+Kun sincera ĝojo ni povas konstati, ke nia espero ne estis vana kaj
+la laboro, destinita por realigo de jam delonge atendita revo pri
+literatura presorgano, estis renkontanta entuziasman aprobon jam
+en komenco. Amaso da gratulaj leteroj alvenis en nian redaktejon,
+kiuj admonas nin por plua persista penado. Ni _dankas_ al vi ĉiuj.
+
+Nia plej ĉefa celo estas plene kontentigi, iom post iom, la
+dezirojn de nia estimata legantaro kaj pro tio, en la nuna numero de
+la „Literatura Mondo“ ni komencas aperigi novan rubrikon por orienti
+la literaturamantojn pri novaĵoj de la mondliteraturo. Ĝia titolo
+estas: „Mondliteratura Observo“. Ni petas vian kunlaboron por tio. Tiu
+ĉi rubriko intencas raporti ĉiam pri nacilingvaj literaturaĵoj tute
+freŝaj, pri teatraĵoj novaj ktp., per konciza rakonto de la temo kaj
+mallonga karakterizo de la verko. Oni povus facile fari tion per helpo
+de la nacilingvaj ĵurnal- kaj revurecenzoj. Helpu vigligi ĉi tiun
+aktualan parton de _via_ revuo.
+
+Por montri nian oferemon kaj samtempe esti dankema por la varmkora
+akceptado de nia revuo, ni decidis eldoni la decembran (Kristnaskan)
+numeron minimume sur 32 paĝoj, sed pri la kvanto de la presotaj
+ekzempleroj ankoraŭ ni ne decidis. Pro tio ni turnas nin al vi,
+_se vi ankoraŭ ne estas abonanto_, bonvolu sendi senprokraste
+la abonprezon, por ke vi povu ricevi laŭregule ĉiujn numerojn de la
+„Literatura Mondo“, kiu de decembro estos presata nur en tiom da
+ekzempleroj, kiom da abonantoj ĝi havos. _Ne prokrastu, ĉar vi
+riskas la eblecon por havi_ ĉiujn numerojn. El la unua numero jam
+tre malmultan provizon ni havas.
+
+Esperante same favoran akceptadon de la dua numero, kiel estis tiu
+de la unua, kaj promesante entuziasman persistecon por komuna bono de
+la tutmonda samideanaro, restas kun respektplena servemo
+
+  la redakta komitato de la „LITERATURA MONDO“
+
+
+
+
+KONKURSO DE LA „LITERATURA MONDO“ POR LA JUNULARO
+
+Por vigligi la literaturan agadon de nia esperantista junularo kaj
+samtempe doni okazon por la unuaj flugilprovoj, la „LlTERATURA MONDO“
+malfermas konkurson laŭ jenaj kondiĉoj:
+
+TEMO: Kio impresis min plej profunde en mia vivo?
+
+(La temo estas larĝa kaj ĝi donas plenan liberecon al la
+konkurantoj. Ni preferus havi artan priskribon de tiu momento aŭ
+okazintaĵo, kiu influis la pluan evoluon de la anima vivo.)
+
+AMPLEKSO: laŭplaĉe.
+
+La premioj estos dividitaj inter la kvin plej trafaj verketoj.
+
+LA PREMIO ESTAS EN VALORO DE 50 SVISAJ FRANKOJ
+
+La manuskriptojn sendu kun aparta moton havanta koverto, kiu entenu
+la nomon de la verkinto, al la redaktejo de
+
+„LITERATURA MONDO“ BUDAPEST, VI, ANDRÁSSY-UT 81.
+
+NIA GAZETO ne volas propagandi per propagandartikoloj, nek skribi
+sciigojn pri novaj sukcesoj!
+
+ĈIU NUMERO MEM ESTAS PROPAGANDO!
+
+ĈIU NUMERO MEM ESTAS SUKCESO!
+
+ABONPREZO por unu numero unu sv. franko, aŭ egalvaloro.
+
+JARABONO 10 sv. frankoj aŭ egalvaloro.
+
+
+
+
+ESPERANTO KAJ MONDLITERATURO
+
+
+Estis la germana, sed samtempe internacia geniulo, _Goethe_,
+kiu uzis unue la esprimon: Mondliteraturo, kvankam la ideo mem jam
+ekzistis antaŭe, precipe ĉe la fama germana verkisto _Herder_,
+kiu en sia verko „Voĉoj de la popoloj“ intencis doni florkolekton
+de diversnaciaj poezioj. Kaj vere, nia epoko de la mondkomerco kaj
+mondkomunikiĝo ne povas malhavi mondliteraturon, t. e. kolektivan
+konon de la literaturaj produktoj de ĉiuj nacioj.
+
+Estas belaj la floroj de la kampoj kaj arbaroj, kvankam oni nomas
+ilin sovaĝaj, sed tamen la ĝardenkulturo povas perfektigi ilian belecon
+kaj alklimatigas la belegajn florojn de fremdaj terzonoj, transportante
+ilin en niajn ĝardenojn. Sammaniere la literaturisto alklimatigas kaj
+transportas la belajn pensojn, ideojn de fremdaj popoloj en la ĝardenon
+de la nacia kaj ankoraŭ plie de la universala literaturo, riĉigante
+tiamaniere la floraron de la nacia kulturo.
+
+Per tio la pensmaniero de la popoloj interrilatiĝas kaj tio estas
+unu el la efikoj de la interna ideo de Esperanto, pri kiu nia majstro
+parolis entuziasme en sia Ĝeneva kongresparolado, dirante: „Tiu ĉi
+ideo akompanadis Esperanton de la unua momento de ĝia naskiĝo ĝis la
+nuna tempo. Ĝi instigis la aŭtoron de Esperanto, kiam li estis ankoraŭ
+malgranda infano; kiam antaŭ dudek ok jaroj (estis dirite en la j.
+1906) rondeto da diversgentaj gimnazianoj festis la unuan signon de
+vivo de la estonta Esperanto, ili kantis kanton, en kiu post ĉiu strofo
+estis ripetataj la vortoj: „Malamikeco de la nacioj falu, falu, jam
+estas tempo...“ Nia himno kantas pri la nova sento, kiu venis en la
+mondon; ĉiuj verkoj, vortoj kaj agoj de la iniciatoro kaj de la unuaj
+Esperantistoj ĉiam spiras tute klare tiun saman ideon.“
+
+Certe la interkonatiĝo de la popoloj kaj de iliaj pensoj kaj ideoj
+estas la fundamento de iliaj reciprokaj amo kaj estimo. Oni povas trovi
+eĉ en la popolaj kantoj kaj fabeloj de tute nekonataj, malgrandaj
+kaj de la granda maso malŝatataj popoloj, trezoron de poezio kaj
+saĝeco, kaj la nekono de tiu ĉi spirita trezoro estas perdo ankaŭ por
+intelektuloj de grandaj kaj kleraj nacioj. Oni eĉ trovas tre ofte ĉe
+intelektuloj de grandaj nacioj iuspecan unuflankecon, pro tio, ke
+ili ne bezonas pensi ekster sia propra kulturo. Kaj tio estas certe
+malperfekteco.
+
+La homa kulturo estas granda orkestro, en kiu ĉiu nacio havas sian
+propran rolon kaj devas ludi sian propran muzikilon. Neniu estas
+superflua. Ju pli da instrumentoj estas, des pli perfekta la orkestro,
+des pli efika la muziko.
+
+Se oni povas kompari la kulturojn kaj literaturojn de unuopaj nacioj
+al solistoj, oni samtempe devas diri, ke ankaŭ tiuj plej ofte bezonas
+akompanadon. Esperanta literaturo aliflanke povas nomiĝi kvazaŭ orgeno
+kuniganta la plej diversajn sonojn de la muzikiloj. Ĝi anstataŭas tutan
+orkestron.
+
+Esperanto en la servo de la literaturo povas riĉigi la ideojn kaj
+pensojn de altkulturaj popoloj, ĝi fruktigas la ideojn kaj pensojn de
+nekonataj nacioj kaj preskaŭ forgesitaj popoloj, kies literaturo pro
+malkono de ilia lingvo perdiĝus por la tuta homaro.
+
+Esperanto kaj ĝia literaturo, originala aŭ tradukita, ebligas
+savi la unuecon de la homaro, perfektigi la naciajn kulturojn, kaj
+efektivigi la harmonion inter popoloj, sen kio vera progreso, ĉu
+kultura ĉu ekonomia, ne estas imagebla.
+
+La plej granda tasko de nia epoko estas harmoniigi nacian penson kaj
+internacian senton. La plej perfekta ilo por tio estas Esperanto, pri
+kiu diras nia himno:
+
+  „Sur neŭtrala lingva fundamento
+  Komprenante unu la alian.
+  La popoloj faros en konsento
+  Unu grandan rondon familian“.
+
+La estonteco kuŝas en niaj manoj kaj ĝi dependas de niaj fervoro kaj
+persisteco. Aŭ efektivigi tiun harmonian konsenton, aŭ refali de la
+alteco de nia kulturo en la barbarecon de antikvaj epokoj, jen estas
+la du eblaĵoj de nia estonteco. Ĉiu devas klopodi, ke evitante la
+duan oni atingu la unuan. Por tiu celo providenca ilo estas nia kara
+lingvo _Esperanto_.
+
+  D-ro ALEKSANDRO GIESSWEIN
+
+
+
+
+LA ĜARDENISTO KAJ LA REĜINO
+
+RABINDRANATH TAGORE
+
+
+SERVISTO:
+
+  Indulgu min, serviston, ho reĝin'!
+
+REĜINO:
+
+  De mia festo venis ĵus la fin'.
+  Servistoj miaj ĉiuj iris for.
+  Vi kion volas je malfrua hor'?
+
+SERVISTO:
+
+  Se la aliajn ĉiujn vi forsendis,
+  Jen mia temp'. La vicon mi atendis.
+  Kaj vin demandas: kian servon doni?
+  Serviston lastan volu do ordoni.
+
+REĜINO:
+
+  Ĉu vi esperas post malfrua veno...
+
+SERVISTO:
+
+  Gardisto via esti en ĝardeno.
+
+REĜINO:
+
+  Ĉu do perdiĝis tute saĝo via?
+
+SERVISTO:
+
+  Jen, mi rezignas pri labor' alia.
+  Mi glavon, lancon en la polvon ĵetas.
+  Ne sendu min, reĝino, mi vin petas,
+  Al reĝaj kortoj en la malproksimon,
+  Min kun arme' ne sendu trans la limon
+  Por almilita, glora entrepreno,
+  Sed faru min gardisto de l' ĝardeno.
+
+REĜINO:
+
+  Kaj kio estos tiam viaj devoj?
+
+SERVISTO:
+
+  Servisto estos mi de viaj revoj.
+  Mi flegos la vojeton en ĝardeno
+  Iratan de vi dum matenpromeno,
+  Sur kiu laŭde vin laŭ via ir'
+  Salutos floroj svenaj pro l' sopir'.
+  Per balancil' mi lulos vin laŭvole,
+  Dum saptaparna branĉ' vin ombros mole,
+  Kaj arĝentbrilo luna fruvesperon
+  Kisados vian puntan vestborderon.
+
+  Mi verŝos zorge, je vespero ĉiu,
+  Oleon freŝan en la lampon, kiu
+  Ĉe via lito nokte treme flamos,
+  Piedbenketon per zorgema mano,
+  Per sukoj de santalo kaj safrano,
+  Per desegnaĵoj miraj mi ornamos.
+
+REĜINO:
+
+  Vi por vi volas rekompencojn kiajn?
+
+SERVISTO:
+
+  En mano teni manojn la graciajn
+  Kaj similantajn al lotusburĝonoj,
+  Ornami ame manartikojn viajn
+  Per bonodora ĉeno de festonoj.
+  Per suk' aŝoka pentri ruĝkolora
+  La haŭton de subtila via plando,
+  Kaj polvon lavi for per kis' adora,
+  Restintan sur la piedeta rando.
+
+REĜINO:
+
+  Servisto, plenumiĝu via pet' --
+  Gardisto estu do de l' ĝardenet'.
+
+K. de KALOCSAY
+
+
+
+
+ŜERCETO
+
+W. WILLEMSZ JR.
+
+
+Jan kaj Willem van Delden, fratoj, promenas kun amiko Geert Verdorst
+por babili iom pri bovinetoj kaj bovidetoj.
+
+Subite Jan, farante signon per la kapo antaŭ sin, diras:
+
+-- Rigardu, jen Marinjo de l' forĝisto!
+
+-- Nu, kaj kio do? -- demandas Geert mire.
+
+-- Ĉu vi ankoraŭ ne rimarkis je ŝi ion strangan?
+
+-- Ion strangan?
+
+-- Jes. Jen kion: se virpersono rigardas al ŝi fikse en okulojn, ŝi,
+pro nura embaraso, ruĝiĝas kiel kankro.
+
+-- Jes ja, estas vere! Ankaŭ mi jam rimarkis tion! -- certigas Willem
+balancante fervore sian kapon.
+
+[Bildo: SIMONY: MALSATAJ BOVINOJ]
+
+Geert eklevas siajn ŝultrojn malkredeme.
+
+-- Eh, kion! Mi vere ne komprenas, de kie vi prenas ĉi tion. Mi devas
+diri... mi neniam babilaĉas... kiel vi...
+
+Jan subite interrompas lian parolon:
+
+-- Do, ĉu vi neniam ankoraŭ rimarkis?
+
+-- Same neniam, kiel vi -- respondas Geert malvarme. -- Estas ja
+ridinde! Marinjo tute ne estas embarasiĝema, ĉu vi aŭdas? Kaj certe ne
+tiom embarasiĝema, ke ŝi...
+
+-- Ĉu do ne? -- respondas Jan moke. -- Ni ja vidos tuj. Ŝi tuj
+preterpasos nin. Ĉu vi scias, kion fari? Jen, ni ĉiuj tri alrigardos
+ŝin fikse, kaj tiam...
+
+-- Tre ĝuste, tre ĝuste! -- aprobas ĝojkrie Willem. Jen la plej bona
+metodo por pruvi al Geert, ke ni estas pravaj. Jen ŝi jam venas. Do nun
+ni ĉiuj tri laŭ la sama penso! Ne malbele rigardi, ĉu vi aŭdas? Nur
+tute simple, ordinare... alimaniere ŝi pensos, ke tio estas komploto de
+tri junuloj kontraŭ ŝi.
+
+Post kelkaj momentoj ili jam preteriris la knabinon.
+
+-- Nu, ĉu vi bone vidis? -- demandas Jan triumfe post kelkaj paŝoj,
+kiam Marinjo jam ne povis aŭdi lin. -- Ĉu vi bone vidis, Geert?
+Fajro-ruĝa ŝi fariĝis, kaj mallevis siajn okulojn.
+
+Geert ne respondas.
+
+-- He! -- insistas Jan -- diru do vorton! Aŭ vi tute ne volas konfesi,
+ke...?
+
+-- Mi diros ion, Jan -- aldonas Willem. -- Dum ni rigardis Marinjon, li
+rigardis ĝuste al la alia flanko.
+
+-- Ĉu vere, Geert? He, kiel malguste! Sed... ha... ha... mi jam
+konjektas ja, kial vi faris tion! Vi ne volis vidi, ke ni estas pravaj,
+nome, ke Marinjo...
+
+-- Prave! Jen la kaŭzo! -- aprobas Willem. -- Li ne volis vidi.
+
+-- Ĉu vi opinias? -- demandas Geert kun stranga rideto. -- Se tiel
+estus, mi vere estus ja tute malgusta kaj infanmaniera.
+
+-- Ĉu vi do volas malkonfesi, ke vi rigardis ĝuste al la alia
+flanko?
+
+-- Mi tute ne malkonfesas...
+
+-- Kaj kial vi agis tiel?
+
+-- Ĉar mi havas pli multe da honorsento, ol...
+
+Jan kaj Willem eksplodas ridegantaj.
+
+-- Jes, ridu ja, ridu ja!
+
+-- Ĉu ni estis maldecaj?
+
+-- Jes, maldecaj -- asertas Geert serioze. -- Mi trovas tre maldeca
+tiamaniere rigardi al honesta knabino en la okulojn, sole por ŝin
+hontigi... Ĉi tio estas friponaĵo. Mi neniam estus pensinta, ke vi
+tiel...
+
+-- Nu, jen io pli bela! -- ekkrias Jan kunfrapante siajn manojn. Vi
+havas mienon ĝuste tian, kvazaŭ vi parolus al du malhonestaj krimuloj,
+al kiuj vi sentas nenion krom naŭzo kaj abomeno. Willem, rigardu ja,
+kiel strangan mienon li faras.
+
+-- Diru do, amiĉjo! -- Willem ekkaptas la ŝultrojn de Geert kaj skuas
+lin iom krudmane tien kaj reen, dum ridante li rigardas lin -- ĉu vi
+koleras? La mieno de la kolera Jupitero ja estas nenio kompare al la
+via.
+
+-- Vi ja povas ridi kaj moki, kiom vi volas, sed mi insistas, ke
+estas fripone, honorindan knabinon...
+
+-- Jen, jen, kiel li saltas por ŝi en la kavon, rigardu Willem! Sed
+mi kredas nur la duonon el tio.
+
+[Bildo: CANON: LEGANTA KNABINO]
+
+-- Kaj mi tute nenion kredas el tio -- aldonas Willem ŝerce.
+
+-- Ĉu mi diru ion al vi Geert?
+
+-- Diru, se vi volas -- respondas Geert indiferente.
+
+Jan metas manon al sia buŝo kaj flustras al la orelo de Geert:
+
+-- Vi estas enamiĝinta al ŝi, homo! Vi estas sekrete enamiĝinta al
+ŝi.
+
+-- Nun vi trafis kape la najlon! -- krias Willem, kiu aŭdis la vortojn
+de Jan, ĉar li intence ne parolis tiel mallaŭte ke lia frato ne povu
+ĝin aŭdi. -- Prave, prave! Geert estas enamiĝinta al ŝi.
+
+Geert faras impetan geston.
+
+-- Kion vi parolas! De kie vi prenas tion! Mi... tio estas... ne diru
+do... estas vere malsaĝe...
+
+-- Aŭdu, aŭdu! Li ne povas eĉ fini siajn vortojn! Jen la pruvo, ke li
+estas grave enamiĝinta! Li ne scias kiel elparoli sin!
+
+Willem incitetas lin.
+
+-- Grandioze, grandioze! Ĉu iu estus antaŭpensinta tion?
+
+-- Ĉesu, malgusta bubo! -- grumblas Geert ĉagrenite kaj malafable.
+
+Jan ektiras la manikon de Geert.
+
+-- Aŭdu Geert: mi trovas ne tro bela de via parto, ke vi neniam
+parolis al ni pri tio. Ni ja neniam havis sekretojn antaŭ vi, kaj
+vi...
+
+-- Ne skuu tiel la kapon, Geerĉjo, ni scias jam sufiĉe!
+
+Estas videble, ke Geert koleriĝas. Li kunpremas la lipojn, kaj nur
+rigardas antaŭ sin, ne diras eĉ vorton.
+
+-- Mi deziras prosperon al vi, Geert! -- diras Jan kun petola rido.
+-- La forĝisto estas konata pri sia bonhavo kaj krome ĉi tiu Marinjo
+estas diable ĉarma knabino, kiun povas envii ĉiuj aliaj knabinoj de la
+vilaĝo.
+
+Willem ridegas preskaŭ ĝis sufokiĝo pro la parolo de sia frato, sed
+la vizaĝo de Geert restas serioza, malserena.
+
+-- Ne rigardu do tiel malhele! -- daŭrigas Jan post kelkaj minutoj. --
+Vi tute ne bezonas honti pro tio, ĉu vi aŭdas? Se mi estus en via loko,
+mi...
+
+-- Sed je la nomo de Dio, ĉesigu do viajn mizerajn babilaĉojn --
+eksplodas subite Jan kun kruda tono. -- Ĉu ĝi ne ankoraŭ daŭris sufiĉe
+longe? Ni parolu jam pri io alia! -- li daŭrigas kun afabla, joviala
+voĉo, kvazaŭ li bedaŭrus, ke tiel krude li parolis. -- Ekzemple
+pri...
+
+-- Tion vi ja volus! -- ridas Jan, kaj Willem aldonas inciteme:
+
+-- Ho ne, kara! ni ne ĉesigos... aŭ vi devas konfesi, ke vi estas
+freneze enamiĝinta.
+
+-- Jes, jes, freneze enamiĝinta. Nun vi scias, Geert!
+
+Jan kaj Willem palpebrumas unu al la alia, puŝas kaŝe la kubutojn
+reciproke, kvazaŭ unu volus instigi la alian por daŭrigo de la petola
+incitado. Geert rimarkas tion.
+
+-- Jen, jen! Kia infana maniero! Kia infana maniero!
+
+-- Ĉi tie helpas nenia plendo al panjo kara! Ĉu ĝi estas infana
+maniero, ĉu ĝi ne estas, vi devas unue konfesi al ni, ke vi...
+
+-- Nun aŭdu do, ĉar mi jam hejmenvenis, se vi ne promesas, ke vi
+parolos pri io alia, mi ne promenos plu kun vi.
+
+Jan kaj Willem eksplodas ridantaj.
+
+-- Nu, ĉu vi ne promesas? Ĉu ne... Nu, do adiaŭ, vi malgustaj
+infanetoj!
+
+Dirinte ĉi tion Geert turnas dorson al ili kaj malaperas en la
+maljuna domo, kies pordegon li forte fermofrapas malantaŭ si.
+
+-- Tian frenezon mi ne ankoraŭ ĝisvivis! -- ekkrias Willem, forirante
+kun sia frato.
+
+Tiu ĉi frotadas enpense sian mentonon.
+
+-- Estas peza afero, Willem!
+
+-- Ĉu ne pensas ankaŭ vi, ke io pli kaŝiĝas sub ĝi?
+
+-- Ho, por diri la veron, mi trovas tion neebla. Geert ja ne povas
+toleri inciton. Antaŭ nelonge same, apenaŭ malpli multe li koleriĝis
+kiam mi demandis lin, ĉu la nigra alta ĉapelo, kiun li portis, devenas
+de la „almozdisdonado“? Ĉu vi ne memoras jam?
+
+-- Jes ja! Mi ankoraŭ memoras tute bone. Kaj... ankoraŭ io! Antaŭ
+eble ok tagoj, kiam la kolorigisto strekis per sia blanka penikego tra
+liaj ŝuoj!
+
+-- Nu jen! Tio ja estis vere neniaĵo... la kolorigisto faris tion
+nur ŝerce... kaj la farbo estis per unu viŝo for... per iom da
+herbo... Tamen Geert fariĝis furioza, kiel virbovo. Vidu, tia li ja
+estas. Kaj tial, verdire, mi ne pensas, ke li vere estas enamiĝinta
+al Marinjo de l' forĝisto. Krome, se li vere amus ŝin, li delonge jam
+estus rakontinta al ni tion. Tre bone mi konas lin. Li ne povas havi
+sekreton, aŭ li priparolas ĝin kun ni.
+
+-- Jes estas tiel. Vi eble estas prava, eble nenio kaŝas sin en la
+afero.
+
+Kelkajn minutojn ili ambaŭ iris silente sian vojon, ĉiu
+enprofundiĝinte en siaj pensoj.
+
+Subite Jan haltis.
+
+-- Aŭdu Willem!
+
+-- Nu?
+
+-- Aŭskultu! Venis al mi bonega ideo! Ni devus fari ŝerceton al ili
+ambaŭ, al Geert kaj al Marinjo.
+
+-- Ŝerceton?
+
+-- Mi rakontos al vi! Ĝi estos io grandioza, knabo! Per ĝi ni amuzos
+nin bonege!
+
+Jan kliniĝas flustrante al la orelo de Willem, kiu baldaŭ
+interfrotas kontente siajn manojn.
+
+-- Jen bonega ideo! Nepripagebla! Nepripagebla!
+
+-- Ankaŭ mia opinio! -- deklaras Jan memkontente. -- Venu, ni iru
+rapide hejmen, tie ni povos tuj komenci ĝin.
+
+Kun viglaj paŝoj ili pasas tra la stratoj kaj la gaja trajto ĉirkaŭ
+ilia buŝo montras, kiom da plezuro ili imagas per la plano...
+
+Postan matenon la poŝtisto portas leteron en la domon de la
+forĝisto.
+
+Marinjo iras rapide al la pordo.
+
+-- Ĉu letero por ni? -- ŝi demandas mirigite. -- Apenaŭ mi povas
+rememori, kiam ni ricevis lastfoje. Mirinde! de kie venas tiu letero
+kaj... jen, jen, al mi adresita!
+
+Ŝi rigardas la poŝtostampon.
+
+-- Kara Dio! De iu el la vilaĝo mem. Kion do ni havos el tio?
+
+La poŝtisto, bonkora homo, havas ne malgrandan ĝojon pro ŝia
+miro.
+
+-- Kiu skribis la leteron, tion mi ne scias precize, sed... konjekton
+mi tamen havas! -- li diras sekreteme kaj palpebrumas al ŝi kun familia
+afableco, kutima ĉe loĝantoj de malgranda vilaĝo, kie ĉiuj konas unu la
+alian.
+
+Demande ŝi rigardas lin.
+
+-- Ĉu vere? Vi konjektas ion?
+
+-- Jes. Ĉu mi diru, kion? Mi opinias, ke ĝi estas amletero.
+
+Marinjo ruĝiĝas ĝis malantaŭ la oreloj.
+
+Neembaraseble li daŭrigas:
+
+-- Kiu scias, ĉu ne laŭregula amkonfeso enestas... ĉu ne eble pri vi
+svatas iu en la letero?
+
+-- Ho vi! -- balbutas Marinjo timeme kaj volas eniri, kiam ŝi vidas
+veni sian patron el la forĝejo.
+
+-- Kio estas en via mano, Marinjo? Ha, letero! De kiu?
+
+-- Mi jam diris al ŝi, Arjaan, ke ĝi estas eble amletero. Kaj nun
+mi kredas tion firme kaj certe, ĉar kiam mi parolis al ŝi pri tio, ŝi
+apenaŭ sciis kion diri.
+
+Marinjo ruĝiĝas ankoraŭ pli forte kaj turnas sin silente al la
+pordo.
+
+-- Vi estas ja ŝercemulo, Piet! -- ridas Arjaan. -- Nu Marinjo, envenu
+do, kaj laŭtlegu al mi la leteron.
+
+La poŝtisto foriras, dum Arjaan sekvas sian filinon en la
+loĝoĉambron.
+
+Marinjo sidiĝas sur seĝo, prenas tranĉilon el la tirkesto kaj fendas
+la koverton kun la antaŭgardo de iu, kiu konscias, ke li aranĝas nun
+tre gravan aferon. Poste ŝi eltiras singardeme la leteron, disfaldas
+ĝin, tralegas rapide la enhavon, kaj subite ŝi aŭdigas akran krion
+kovrante ambaŭmane sian vizaĝon.
+
+-- Sed, knabino, kio estas do? -- krias la forĝisto, kiu ŝajnas ne tro
+delikatsenta kaj havas la kutimon kaŝi ĉe kortuŝaj scenoj sian emocion
+sub krudeco. -- Vi tute perdis la saĝon!
+
+-- Ho patro, mi... mi...
+
+-- Nu, kio do? -- He, nenian kapricon, mi petas! Legu do fine tiun
+leteron!
+
+-- Mi... mi... ho patro... patro!
+
+-- Sed kio estas do al vi? Mi volus, ke mi sciu legi, tiam mi jam
+delonge mem... sed aŭdu, lasu la kapricon! Komencu!
+
+-- Mi ne kuraĝas! Mi ne kuraĝas!
+
+-- Kion? Vi ne kuraĝas? Kio okazu do? Kian kapricon vi havas! He, ne
+faru komedion! Tion mi ne povas elporti!
+
+Marinjo ekploras subite.
+
+-- Jen kio ankoraŭ mankis! -- Arjaan frapas per pugno sur la tablon. --
+Ĉu vi fine volas legi ĝin rapide? Dum unu -- du -- tri, ĉu vi aŭdas? Male
+mi tuj... sed unue diru, de kiu venas la letero?
+
+-- Mi ne scias -- ŝi diras hezitante.
+
+-- Kion? Vi ne scias? Estas do nenia subskribo?
+
+-- Ne, staras nenia nomo sube.
+
+-- Strange! Do ĝi estas sendube io, kio... ne estas en ordo. Sed
+komencu nun. Legu!
+
+-- Patro, vere mi ne kuraĝas. Mi dezirus, ke nenion vi estus vidinta.
+Tiam... tiam mi povus ĝin konservi por mi. Sed nun...
+
+-- Komencu, mi diras al vi!
+
+Arjaan kaptas ŝian brakon. Ŝi volas ĵus ekstari, sed li per kruda
+movo trudas ŝin sidiĝi ree. Dume li ĵetas al ŝi tiel koleran rigardon,
+ke ŝi pensas konsilinda tuj obei lian deziron. Dum ŝia frunto brulas
+kaj ŝiaj okuloj nebulas, ŝi legas per ŝanceliĝanta, malcerta voĉo la
+leteron, kiu enhavas jenon:
+
+„Adorata Marinjo!
+
+De longa tempo vane mi serĉis okazon por malfermi antaŭ vi mian
+koron, kiu estas plenplena de ardanta amo al vi. Estu bona, venu hodiaŭ
+posttagmeze je la tria al la vojo kontraŭ la Willem-agro, apud la
+barilon, kie mi pripetegos vin, ĉu vi volus min indigi por doni al mi
+iom da espero, kiel ajn malmulta ĝi estus. Mi petas vin arde, venu,
+ne rifuzu min; ĉar tio farus min malespera, kaj en mia malespero mi
+povos eĉ mortigi min. Iu voĉo en mia koro diras al mi tamen, ke vi
+venos. Nome mi scias, ke vi ĉiam havis al mi simpation. Mi konkludas
+tion el diversaj, ŝajne ĉiutagaj kaj sensignifaj aferoj. Eĉ, mi estas
+konvinkiĝinta, ke en via koro vi flegas jam delonge kaŝitan inklinon
+al mi, pro tio mi opinias ne necesa subskribi mian nomon. Vi nepre
+konas ĝin, tion mi ne dubas eĉ dum momento. Mi petas vin ree, mia
+adorata, juvelo de mia koro, aŭskultu mian petegon kaj ne puŝu min en
+pereon.“
+
+Post kiam Marinjo finis, Arjaan rigardas enpense antaŭ sin kaj
+frotas kelkfoje sian frunton.
+
+Poste li diras:
+
+-- Stranga historio!... Ĉu vi ne povas diveni, kiu povas esti la
+skribinto de la letero?
+
+Marinjo levas siajn ŝultrojn.
+
+-- Li asertas, ke li certe scias, ke vi en via koro jam delonge
+flegas inklinon al li. Ĉu estas iu en la vilaĝo, al kiu vere vi sentas
+inklinon?
+
+Marinjo forturnas sian vizaĝon. La forĝisto ŝajnas tute ne rimarki,
+ke li tuŝis ĝenan temon. Insiste li daŭrigas:
+
+-- Se estas tiel, diru ja, Marinjo. Eble li estas la skribinto mem,
+kaj se li estas brava kaj serioza kaj konvena junulo... do bone, mi
+volonte diros jes kaj amen. Sed kial vi palpebrumas kaj laboras per la
+ŝultroj? Eble vi preferas ne diri? Kaprico! Ĉiam nur kaprico! He, diru
+do vorton!
+
+-- Ho patro, mi havas... mi estas... ne, ne, estas nenio en la afero.
+Nenio, absolute nenio! -- ripetas ŝi kun vigla defenda gesto.
+
+Ŝia konduto ŝajnas ja al Arjaan, kiu estas bona homkonanto, iom
+suspektinda, sed la nervoza maltrankvilo, kun kiu ŝi movadas siajn
+ŝultrojn, sciigas lin, ke estas pli saĝe, se li ne profundiĝas pli
+internen en la malagrabla temo.
+
+-- Nu, nu... Min ja ne interesas, kiel estas. Sed mi demandas, kion
+vi volas fari nun? Tamen, ĉu ne, vi ja ne intencas iri tien?
+
+-- Sed patro, se mi ne iros, li mortigos sin -- kaj tio estus tre
+terura! Tion mi ne povus postvivi? Se mi devas ĉiam porti la scion, ke
+iu mortigis sin pro mia konduto... ho tiam mi...
+
+-- Sed kiu li estas do? -- demandas li, ĉar li ne povas reteni sin,
+vidante ŝian timplenan maltrankvilon.
+
+La rekta demando konfuzas ŝin. Iom da tempo ŝi rigardas al sia patro
+kun stranga brilo en la okuloj. Poste ŝi diras subite:
+
+-- Neniu, neniu, neniu!! Aŭ... pli ĝuste... mi ne scias.
+
+-- Ĉu vere vi ne scias?
+
+-- Sed patro, ĉesu ja, ĉesu! Ja mi diris jam... mi... mi... mi
+scias... mi scias nenion, nenion, nenion. Sed tamen, kiu ajn li
+estas... se mi devas havi lian morton sur mia konscienco... tio estus
+ja terurega!
+
+-- Eh, kion! Vi trovas la aferon tro serioza.
+
+-- Nature, kiu scias en tiaj cirkonstancoj?
+
+Malsaĝo! Ĉu vi scias, kion mi pensas? Ke kelkaj amikinoj de vi
+konspiris por ridindigi vin.
+
+-- Neeble, patro! Por tio estas la letero tro serioza, skribita en
+tro petega tono.
+
+Arjaan kolere balancas sian kapon.
+
+-- Uzu ja vian pli saĝan menson, knabino! Kiu en la mondo skribas
+nun serioze ion similan al knabino. Se tiu sekreta amanto, -- ke
+mi tiel nomu lin -- se tiu homo volas paroli kun vi, li havas ja
+sufiĉajn okazojn! Li povas ja veni al ni!
+
+-- Eble li ne kuraĝas.
+
+-- Klaĉo! Ne kuraĝi! Virbubo, kiu ne... eh, knabino, estas tro
+freneze paroli pri tio.
+
+-- Aŭ estas eble aliaj kaŭzoj, pro kiuj li ne venas al ni.
+
+-- Bone, sed li vidas ja vin sufiĉe sur la strato.
+
+-- Mi ne scias, kio estas propre, patro. Sed ŝajnas al mi...
+
+-- Lasu jam ĉi tiun aferon! Ĝi ne valoras tiel multe da babilado. Mi
+reiras en la forĝejon, male mi ne finos mian laboron hodiaŭ. Ĵetu ĝin
+for el via kapo, Marinjo! Kredu al mi, ke ĝi estas malsaĝaĵo.
+
+-- Sed patro, mi estas certa, ke la afero estas serioza kaj okazus
+aferoj ja teruraj, se mi ne...
+
+-- Aŭskultu min! Nu, miaparte, vi povas pensi pri ĉi tiu malsaĝa
+afero, kiel vi volas. Sed unu mi diras al vi, knabino: vi ne iros
+posttagmeze al la Willem-agro.
+
+-- Patro! -- ŝi ekkrias dolore kaj rigardas petegante lin.
+
+-- Vi restos hejme, mi diras al vi!
+
+Plorante ĵetas sin Marinjo al lia kolo.
+
+-- Patro, patro, tion vi ne diris serioze! Tion vi ne povas diri!
+Pripensu ja... homa vivo dependas de tio...
+
+-- Malsaĝulino! -- murmuras Arjaan kun voĉo, kiun vane li klopodas
+fari kruda kaj malafabla.
+
+-- Nu, paĉjo kara! Mi povas iri, he? Ĉu ne, paĉjo? -- ripetadas ŝi
+tiel flate, kiel eble. -- Diru do: jes! Nu, paĉjo!
+
+Arjaan faras trifoje geston strangan, kiel iu, kiu streĉas la
+lastajn fortojn por perforti silenton al si. Milde li formetas ŝiajn
+manojn de ŝia vizaĝo.
+
+-- Malsaĝa afero! -- li murmuras.
+
+-- Diru do, paĉjo! Diru do!
+
+-- Nu, se vi volas tiel insiste... al mi estas egale. Sed je unu
+kondiĉo. Mi akompanos vin. Mi propre ne scias kion pensi pri la afero.
+Se ĝi ne estas farso de viaj amikinoj, do ĝi estas certe ia friponaĵo.
+Kaj tial mi iros kun vi... por ne perdi la aferon el mia vido.
+
+-- Tre bone, patro, tre bone!
+
+-- Kion oni devas travivi! Dum tuta mia vivo mi ne spertis ion
+similan! -- li murmuras dum kapbalancante li forlasas la ĉambron...
+
+Kiam la granda friza horloĝo, kiu pendas kontraŭ la grandega
+kverkligna ŝranko, batas la duonon de la tria, Marinjo iras por voki
+sian patron.
+
+-- Ĵus sonis la duono de la tria, patro! Ĉu ni iros?
+
+-- Jes, jes, mi venas.
+
+-- Ĉu vi ne surmetas jakon?
+
+-- Ne necese! Mi iras nur rapideme en kitelo. Post duonhoro devos
+esti ĉio en ordo. Sed atendu iomete. Mi volas ankoraŭ ion kunporti.
+
+Li prenas el la angulo ferbastonon, kiu estas longa proksimume unu
+kaj duonon da metroj.
+
+-- Nu, venu do!
+
+-- Sed, patro, por kio la ferbastono?
+
+Arjaan ridetas mistere.
+
+-- Vi ne scias, kio povas okazi, knabino! Estas tre verŝajne, ke mi
+bezonos ĝin... por disdoni kelkajn molajn batojn, -- tiel molajn, ke la
+fero kurbiĝu pro ili. Vi ankoraŭ vidos ŝercon! -- li finas en tono, kiu
+estas inter petola ŝercemo kaj minaca kolero.
+
+Post paŭzeto li daŭrigas:
+
+-- Iru antaŭen, knabino! Mi restas malantaŭe, sed ne tro malproksime,
+kompreneble. Ni ne perdos nin el vido. Kiam ni jam preteriris tie la
+arbetaĵojn, ni vidos la barilon. Do, en tiu arbetaĵo mi kaŝos min, dum
+vi iros plu. Se vi venos al la barilo kaj vi ne scias kion fari, do
+faru nenion krom levi vian manon. Dum momento mi estos ĉe vi. Kaj nun
+antaŭen! Rapidu iom, ĉar multan tempon mi ne havas. Ju pli frue ĉio
+finiĝos, des pli agrable al mi.
+
+Kiel li diris, kaŝas sin Arjaan en la arbetaĵo, kaj Marinjo iras plu
+sola, kun bateganta pulso kaj kun koro plena de ĉiuspecaj kontraŭdiraj
+sentoj, kiuj krom ŝi al neniu estas konataj...
+
+Baldaŭ ŝi ekvidas tiun certan barilon, kaj rimarkas personon, kiu
+staras turninte sian dorson al ŝi tiel ke ŝi ne povas rekoni lin. Ŝi
+proksimiĝas al li ĝis kelkpaŝa distanco, tie ŝi haltas, prete levi tuj
+sian manon, se la homo faras malamikan movon. Ŝi ektusas. Tio vekas lin
+subite el liaj revoj. Li rapide sin turnas... kaj nun rekonas Marinjo
+lin... neniun alian ol... Geert Verdorst!
+
+Apenaŭ ekvidis ŝin Geert, lia mieno ricevas radiantan, eĉ
+triumfantan aspekton. Kun etenditaj brakoj li kuras al ŝi. Kaj Marinjo?
+Sendefende kaj tolereme, sed samtempe kun feliĉa rideto ŝi lasas sin
+ĉirkaŭbraki je granda ektimo kaj surpriziĝo de ŝia patro, kiu bone
+vidis ĉion kaj nun, kiel blekanta leono, venas rapidante, svingante
+sovaĝe la ferbastonon. Kiam li atingas la paron kaj rekonas Geert, lia
+furoro ŝanĝas sin tamen je surprizo.
+
+-- Nu, el ĉi tio mi komprenas vere absolute nenion! Diru ja Geert: vi
+havas tre strangan metodon por venigi Marinjon al rendevuo. Kaj poste
+vi subite ĉirkaŭbrakas ŝin sen ia klarigo. Kion signifas ĉio ĉi tio?
+Aŭ -- ĉu vi jam ludis ankaŭ aliajn fojojn ĉi tiun ludeton malantaŭ mia
+dorso.
+
+-- Ne koleru min, Arjaan, sed mi tute ne petis ŝin, ke ŝi venu ĉi
+tien... Kontraŭe, ŝi petis min!
+
+Arjaan malfermas sian buŝon tiel larĝe, ke Geert apenaŭ povas reteni
+ridon.
+
+Marinjo estas ne malpli mirigita ol ŝia patro.
+
+-- Ĉu mi petis vin? Ej, Geert! Kaj ĉi tiu letero do?
+
+Dirante ŝi prenas el poŝo la leteron kaj montras ĝin al Geert.
+
+Tiu subite ekkrias pro ektimo kaj ekmiro. El la interna poŝo de sia
+jako prenas leteron ankaŭ li. Ambaŭ leteroj havas la saman enhavon,
+sola diferenco estas, ke tiu de Geert komenciĝas per: „Adorata
+Geert!“
+
+Kelkajn minutojn staras ĉiuj tri kun grandaj okuloj, ne povante
+paroli eĉ vorton.
+
+Subite eksonas senbrida ridego. Turninte la kapon ili vidas inter la
+arbetaĵoj la aperon de Jan kaj Willem van Delden.
+
+Nun subite ĉio fariĝas klara antaŭ Geert.
+
+-- Ha, vi kuiris ĉi tion por mi!
+
+Ili ridegas, sed ne longe.
+
+-- Tiel, tiel! Ili faris tion! -- krias la forĝisto. -- Do mi donas al
+ili iom da dresado, kion ili longe rememoros.
+
+Dirante li kuras al ili, sed ili ridantaj kaj ridegantaj helpas sin
+lepormaniere.
+
+  *
+
+Post du semajnoj Geert Verdorst renkontas siajn du amikojn, kun
+kiuj intertempe li ne parolis. Ili certe opiniis, ke Geert estas
+furioza kontraŭ ili -- kaj nun ili atendis, ke li vehemente atakos ilin
+per riproĉoj. Kiu priskribus ilian miron, kiam li paŝis al ili kun
+etenditaj brakoj kaj radiantaj okuloj.
+
+-- Mi devas vin danki el la profundo de mia koro pro la bonega servo,
+kiun vi, kontraŭ via volo, faris al mi. Ni tre bone komprenas unu la
+alian... Marinjo kaj mi, -- kaj jam kvar diversajn fojojn mi vizitis ĉe
+ili. Krome mi povas iri por vortŝanĝado ĉiuvespere. Kion vi diras pri
+tio ĉi?
+
+Jan kaj Willem kunfrapas siajn manojn. Kiu estus pensinta...
+
+Geert rakontas en sia feliĉo ankoraŭ tion kaj tion, kiel lin amas ne
+sole Marinjo, sed ankaŭ Arjaan.
+
+-- Sed, diru Geert! -- interrompas lin Jan. -- Ĉu vi volas eĉ nun
+aserti, ke vi ne estis sekrete enamiĝinta al ŝi? Nu, nun vi ja povas
+jam ĉion konfesi. Enamiĝinta, ĉu ne?
+
+-- Jes, estis tiel. Vi estas pravaj. Sed ŝi, ankaŭ ŝi konjektis tion
+jam delonge. Tion rakontis ŝia patro mem kaj ankaŭ ŝi certigis!
+
+-- Ho, la patro, tiu malĝentila bubo! -- ridas Jan kaj Willem ridegas
+tiel senbride, ke ili preskaŭ sufokiĝas.
+
+  El hollanda J. SZABÓ
+
+
+
+
+REMEMORO
+
+AL F-INO EMMA H.
+
+
+  Mi amis vin sincere kaj freneze.
+  En mia koro regis firma kred',
+  Ke al ĉiel' leviĝas ni senpeze,
+  Ke ĝis mem morto daŭros ninposed'.
+
+  Mi amis vin kaj pro pasia flamo,
+  Kaj pro mildeco de sindona kor',
+  Pro haroj longaj -- de l' kapet' ornamo,
+  Pro nigra de okuloj brulkolor'...
+
+  Foriris vi... Mi perdis bonhumoron,
+  Mi rigidiĝis por eterne jam,
+  Kaj nun en vi mi amas nur memoron
+  Pri mia juna aĝ' kaj lasta am'.
+
+M. SOLOVJEV
+
+
+
+
+ĈE MIAJ PLUMVESTITAJ AMIKOJ
+
+
+En la fino de oktobro, ĉie tra la regionoj de Meza Eŭropa Rusujo
+oni ordinare jam havas la unuan neĝon kaj nefortajn, maldaŭrajn neĝajn
+blovadojn. Post ilia veno la naturo ŝanĝas sian aspekton dum unu aŭ
+du tagoj. Deŝiriĝas la lastaj folioj de l' arboj, flaviĝas la lasta
+verdeta herbo kaj griziĝas la karavanoj de malhelaj nubetoj. La ĉielo
+ĉe horizonto fariĝas diafane, hele blua kun verda rebrilo. Multaj
+birdoj subite aperas tiam en la arbaroj flugante al sudaj landoj, for
+de la kruela norda vintro.
+
+Estis feliĉo al mi siatempe, dum tiuj postneĝaj tagoj, veni en
+mateno al la nuda arbaro, kune kun mia konatulo, Ignato: ĝardenisto
+de nia najbaro -- loka komercisto kaj plantisto de floroj, -- por avide
+observi, kiel Ignato kaptas la birdojn per siaj artifike maskitaj
+retoj. Tiujn retojn li elmetis ĉiam sur videbla, malkaŝita loko; ŝutis
+sur la danĝera por la birdoj loko iajn semojn; apud tiun ĉi allogaĵon
+metis kaĝon kun birdo, kaj mem sin li kaŝis post iu arbetaĵo, ankaŭ
+lerte maskita per pajlo kaj neĝo. Kiam, altirite per la vokoj de la
+kaĝa birdo, venis birdoj de ĉie el arbaro kaj ope malsuprenflugis sur
+la disĵetitan nutraĵon, Ignato atendis kelkajn minutojn kaj poste,
+kiam la birdoj kolektiĝis apud la nutraĵo en sufiĉe granda kvanto, li
+subite, rapide tiris la ŝnuron de la reto, ĝi rulkovris la kaptitajn,
+tremetantajn birdetojn kaj Ignato kun ĝoja vizaĝo rapidis al ili. Tiu
+momento, kvankam tre barbara laŭ la moralaj lernolibroj, tamen enhavis
+en si grandan ĝojon de la sukcesinta ĉasisto, la finalon de ia streĉeco
+en la cerbo kaj la sencon de primitiva sporto.
+
+[Bildo: MIHAJLIK: MALHELIĜO]
+
+Ignato mem estis tre stranga homo, tute malkonvena por la aliaj
+konataj de mi homoj. Li havis ecojn, kiujn multaj el ili aŭ tute ne
+havis, aŭ havis en atrofia stato, kaj kiujn mia fantaziema, pure infana
+animo perceptis de li senkonscie. Senlima estis lia amo al la naturo,
+al bestoj kaj birdoj kaj ĝi naskis en li asketecon, virgecon kaj
+abomenon al la malvero. Li ne estis kaptanta la birdojn por profito aŭ
+por vendo. Li ofte diris al mi:
+
+-- Birdo estas io dia. Ĝi kondutas pli perfekte ol homo. Ĝi sankte
+kaj fidele plenumas la leĝojn, montritajn al ĝi de la ĉiela Patro. De
+birdo ni povas multe lerni.
+
+Kaj ŝovinte la manon en la kaĝon, kie batiĝis la novekaptitaj
+birdetoj, li kun amo prenis iun el ili en la manon, kun granda emocio
+apenaŭ tuŝadis ĝian malgrandan kapeton per la lipoj, ridanta kaj plena
+de ĝojo.
+
+-- Ha, ci tremas, mia amiketo! Ci timas la homon. Ci pravas tion
+fari. Pli terura ol la homo estas neniu alia besto en la mondo. Tamen
+jen por ci la rekompenco, la escepto, pri kiu ci eĉ pensi ne povas en
+cia griza doloro! Flugu, floreto mia, flugu!
+
+Kaj li subite ĵetis la malfeliĉan kreaĵon al libero kaj ĝojis kune
+kun ĝi, eĥis al ĝiaj unuaj feliĉaj, altaj pepoj kaj fajfetoj. Pli altan
+ĝojon ol esti en la „birdejo“ de Ignato mi ne havis tiutempe.
+
+Prezentu al vi malgrandan konstruaĵon, dekon da metroj longan kaj
+larĝan kaj ses aŭ pli altan. Ĝi estis la rekonstruita ĝardena laŭbo, al
+kiu Ignato aldonis nur la plej primitivajn fenestrojn, kaj ĉarpentis la
+maldikajn lignajn murojn. Ĝi tamen estis sufiĉe longa por fari interne
+de ĝi kelkajn paŝojn.
+
+Dum printempo kaj somero ĝi estis tute malplena kaj uzata por la
+okazaj mastrumaj bezonoj, sed de frua aŭtuno, iom post iom, ĝi komencis
+fariĝi la „internejo“ por la mallertaj konfidemaj plumuloj, kiuj havis
+la okazon trafi en la retojn de Ignato, por tuj post la alveno de unuaj
+printempaj tagoj esti liberigitaj al ĉiuj kvar direktoj de la mondo.
+
+Li faris tiam la sidlokojn por la birdoj el maldikaj longaj kanoj,
+kaj en la mezon de la konstruaĵo li metis du aŭ tri larĝajn betulajn
+branĉojn por iluzio.
+
+Ĉe la komenco de novembro jam estis granda tumulto tie kaj aŭdiĝis
+la jen gajaj, jen atakemaj, kiel en parlamento, birdaj disputoj. Ĝi
+estis la vera Babela turo de la birdaro.
+
+Ofte mi, jam tiam esperantigita, venis al tiu birdejo por observi la
+vivmanieron kaj morojn de ĝia loĝantaro.
+
+Mi renkontis tie antaŭ ĉio miajn malnovajn amikojn: la sturnon kun
+la rompita flugilo, kiun Ignato jam ne liberigadis, kiel la aliajn,
+dum printempo, sed pro ĝia kripleco li tenis ĝin por ĉiam „je senpaga
+loĝado kaj nutrado“, -- kaj la petoleman fringelon, kun malgrandaj,
+apenaŭ videblaj grizaj haretoj sur vangetoj ĝiaj, kiun ni nomis
+„lamulo“ pro ĝia, jam antaŭ la kapto rompita, piedeto. Ĝi estis ĉiam
+subtirita supren, kiam la birdo sidis sur la kano.
+
+Tiuj du invalidoj-veteranoj bone konis min kaj kutime eĉ respondadis
+per fajfetoj al mia voko. Ili mem venadis por ricevi la manĝaĵon el
+miaj manoj kaj ne estis pli granda ĝojo por la fringelo, ol petoli kun
+miaj haroj per sia beketo.
+
+Mi prezentis al mi tiam la homojn same kiel tiun birdaran komunumon.
+Unuj el ili estis la afablaj, bonaj eĉ en la malfeliĉo, la aliaj aŭ
+scivolaj, aŭ petolemaj, aŭ malicaj kaj eĉ arogantaj kaj sangavidaj.
+
+Mi neniam forgesos paruon, kiu malice pinĉis min per la beketo sur
+la palpebron kaj sen mia singarda movo flanken, la okulo certe restus
+por ĉiam difektita. Tiun paruon Ignato devis poste vole-nevole forĵeti
+el la birdejo, ĉar malgraŭ tio, ke ĝi ricevadis nutraĵon tute sufiĉan
+kaj bonan -- ĝi trapikis la kapojn kaj mortigis du belajn kardeletojn
+kaj kuraĝis eĉ ataki la gigantan por ĝi pirolon. Tiom sangavida estis
+ĝia naturo.
+
+Sed la aliaj, krom la diskuta pepado, venis al nenia videbla malpaco
+kaj vidante multajn al si similajn, malliberigitajn en la konstruaĵo,
+baldaŭ ili alkutimiĝis al la situacio kaj forgesis pri la ŝlositeco.
+
+Mi multe observis kaj aŭskultis iliajn viglajn diskutojn, iliajn
+lingvojn. Tre malsimilaj ili estis. Dum tiu de la pirolo estis
+basa zumado, la kanto de la kardeloj estis plej optimisme-arĝentaj
+sonoriletoj, el iliaj aklamoj elsaltis metalaj, gajaj sonfajreroj:
+„Stiglit! Kikelnikstiglit! Stiglit!“
+
+La fringelo turnis sian gracian kapeton iom supren, ĝia verda koleto
+ondadis pro la sekundaj spiroj kaj tremo de l' gorĝeto dum la koncerta
+kanto, kaj tiu verda kolumeto subite larĝiĝis ĉe la fina akordo:
+„Ĉa-a!“ kantata je kelkaj oktavoj pli malalte ol la ĝenerala kanta
+tono.
+
+Sed pli multe ol ĉiuj plaĉis al mi la kanto de la sturno. Kiel
+lerta majstro de sia voĉo, li kolektis la plej karakterajn sonojn el
+la kantoj de la aliaj birdoj kaj poste prezentis ilin laŭ sia propra
+prilaboro -- veran birdan Esperanton, spegulantan la komunan lingvon,
+en kiu ĉiu birdeto kunloĝanta trovis iom el la sia kaj ŝajnis kompreni
+la tutan enhavon de la kanto, ĉar ĝi estis de perfekta beleco kaj amo
+al la naturo, al kiu ne malutilis eĉ kelkaj spritaj improvizoj de la
+ŝercema kantisto.
+
+Tre malofte kantis la sturno, -- ĉiu scias, ke ne estas ĝia kutimo
+kanti dum aŭtuno -- sed la sperta birdisto Ignato sciis fari miraklojn
+kun siaj regatoj, kaj la naturo de la invalido videble estis tre
+kantema kaj muzikema.
+
+Imitante la sturnon, la „lamulo“ ofte ankaŭ penis prepari ion
+„ĝeneralan“, kaj li sukcesis en kelkaj notetoj, sed kvazaŭ idisto, li
+tuj enfalis en perfektigojn laŭ sia maniero kaj scio, kaj kripligis eĉ
+siajn proprajn karakterajn kantojn.
+
+La emberizoj -- veraj materialistoj nuntempaj -- preskaŭ neniam eligis
+iajn sonojn, krom la mallaŭta pepado. Ili sidis nur sur la grundo kaj
+ili ĉiam ion manĝis, kokete svingante siajn graciajn tufetojn.
+
+Ĉiufoje tre baldaŭ alkutimiĝis al mi la novekaptitaj fringoj -- post
+du, tri tagoj ni estis jam kvazaŭ malnovaj amikoj kaj mi ŝatis ilian
+karakteron ne malpli ol tiujn de la sturno kaj „lamulo“.
+
+Venadis Ignato kun du, tri saketoj da nutraĵo kaj la gaja kompanio
+sin ĵetis al li, flugis super lia kapo kaj eĉ provis sidiĝi sur la
+maljunulan, de feliĉo ridantan, bonan vizaĝon...
+
+Muĝas, blovas per torentoj da akva polvo la teda, oblikva, aŭtuna
+vento. Malaltaj rampas la nuboj, tiom malaltaj, ke la lumoj de la
+urbo bruligas ilian malsupran parton per flava, despotisma koloro.
+Kiel ĉifonaĵoj ili lekas la malproksimajn pintojn de montoj kaj ĉe la
+kontraŭa, malaltnivela horizonto, kie iliaj ŝiritaj, de-sube lumigitaj
+randoj disiĝas segildente -- vidiĝas nigraj, malrektaj trianguloj,
+premegantaj per sia senespera, abisma koloro...
+
+Aŭtuna morta spiro ŝajnas blovi de tie. Aŭtune estas agordita mia
+koro, ŝiritaj estas la pensoj, kiel tiuj nuboj, kaj senespere malhelaj
+estas la abismoj inter la rompiĝantaj, alterne tajdantaj fantazioj
+kaj rememoroj. Mi estas en la regno de aŭtuno, kie la lasta estas pli
+potenca ol printempo aŭ vintro.
+
+Kaj tie, hejme, en la lando, kiun la senkompata sorto forprenis de
+mi, la saman tagon jam eble flugas la gajaj, brilantaj, per steloj kaj
+puntoj falantaj neĝeretoj. La nuboj, de kiuj falas la neĝeroj, ne estas
+ankoraŭ longaj. Ili estas grizaj, kiel felaĵo de lupo, kaj iliaj randoj
+estas kiel longharaj vostoj de sablokolora vulpo...
+
+Kaj mia malnova amiko, Ignato -- ĉu li vivas ankoraŭ? -- estas ankaŭ
+tie, malproksime... Ĉu kiel antaŭe li eĥe respondas per lerta ekfajfeto
+al arĝenta voko de kardeloj, al zumado de piroloj? ... Aŭ li jam tute
+griziĝis, kliniĝis teren kaj sidas ie en la angulo de kuirejo, de ĉiuj
+forgesita; aŭ jam kuŝas en la malvarma, de aŭtuna pluvaro saturita
+tero, en tombo surkreskita de salikoj, super kiu kantas iu el liaj
+antaŭaj plumvestitaj amikoj, -- kiu scias?...
+
+  N. HOHLOV
+
+
+
+
+MARINJO
+
+
+  Printempa sonĝo estis ŝi por mi,
+  knabin' modesta en perkala vesto.
+  Al mi donante ŝin la bona Di'
+  sunbrilon sendis al la hejma nesto.
+  _Amoro_ regis korojn per potenc',
+  orumis vivon brila maja suno,
+  mokridon sekvis ĉiam kis-atenc',
+  dum noktpromen' nin miris eĉ la luno.
+  Subite, ho terura sento,
+  profete flustris spir' de l' vento:
+  „Vintro, se poste venos,
+  glacia estos ĝia kis'.
+  Vintre la vivo svenos,
+  formortos rozo kaj narcis'.
+  La vent' deŝiros florpetalojn,
+  kaj neĝo kovros boskojn, valojn,
+  sub cindro sole fajro en la forn'
+  fabelos pri sensonĝa longa dorm'...“
+
+  Aŭtune jam aperis ruĝa roz'
+  sur vangoj palaj pro turmenta febro.
+  La brusto spiron serĉis sen ripoz',
+  pupilon kaŝe fermis la palpebro.
+  La ftiza tuso skue ĝis sufok'
+  el lipoj ĵetis varman ruĝan sangon,
+  kaj sonis al mi lace lasta vok':
+  „Lastfoje, kara, kisu mian vangan!“
+  Ekstere, ho terura sento,
+  profete flustris spir' de l' vento:
+  „Vintro, se jaro alvenas,
+  glacia estas ĝia kis'.
+  Vintre la vivo svenas,
+  formortas rozo kaj narcis'.
+  La vent' deŝiras florpetalojn,
+  kaj neĝo kovras boskojn, valojn,
+  sub cindro sole fajro en la forn'
+  fabelas pri sensonĝa longa dorm'...“
+
+  Forpasis jam somero post somer',
+  kaj oni diras: „estis suna brilo.“
+  Mi kun profunda vundo sen esper'
+  atendas vane je la kortrankvilo.
+  Por mi ne estas ĝojo en la viv',
+  nek flor' printempa, nek sunbrila flamo.
+  Ĉe orfa tombo sur la montdekliv'
+  mi preĝas plore pri l' entomba amo.
+  Riproĉe sonas tra l' silento
+  la flustra spir' de l' vaga vento:
+  „Vintro, vi kial venis?
+  Glacia estas via kis'.
+  Vintro, vi vivon prenis
+  de ĉiu rozo kaj narcis'!
+  La vent' deŝiris florpetalojn,
+  kaj neĝo kovris tombojn, valojn,
+  sub cindro sole fajro en la forn'
+  fabelas pri sensonĝa longa dorm'...“
+
+JULIO BAGHY
+
+
+
+
+ĈE L' RANDO ARBARA
+
+TOMASO KÓBOR
+
+
+Tra la kampo iris junulo kantante al la rando de l' arbaro. La
+suno superverŝis lin per lafo de radioj, kaj kantante li ĵetis sian
+ĉapeton en la aeron. Kiam li atingis la randon de la arbaro, la duonon
+de lia vizaĝo kovris ombro, la alian duonon bruligis la suno. Nun li
+jam ne kantis, li fajfis. Lia fajfo, kvazaŭ turdotrilo, trasaltadis la
+arbaron kaj atingis la orelojn de maljuna homo, kiu, apogante sin per
+noda bastono, penadis eksteren el la arbaro. Ĵus li atingis la randon,
+kiam la junulo, kun laŭtaj ĝojkrioj, maŝis ŝnuron ĉirkaŭ sia kolo por
+pendigi sin.
+
+LA MALJUNULO: Je la amo de Dio, kion vi faras?
+
+LA JUNULO: Hej-haj! Mi pendigas min.
+
+LA MALJUNULO: Timu Dion, junulo, ne forĵetu vian vivon, kiu eble
+havas ankoraŭ multe da bono kaj belo por vi. Kial vi volas morti?
+
+LA JUNULO: Mia koro estas plena de plezuro, kaj mi sentas min tiel
+feliĉa! Kaj ĉi tiu branĉo tiel alloge rigardis min, ke mi pensis: estus
+bone, se mi surpendigus min.
+
+LA MALJUNULO: Vi estas senpripensa bubo, kiu ludas kun mi, ne kun la
+morto.
+
+LA JUNULO: Neniam spertu pli da malrespekto kontraŭ vi, ho
+maljunulo, ol mi sentas al vi. Viaj haroj estas blankaj, via vizaĝo
+malĝoja. Kien vi penadas, bona maljunulo?
+
+LA MALJUNULO: Mi ripozos iom ĉi tie ĉe la arbara rando. Miaj piedoj
+estas kadukaj kaj mia animo peza pro la ŝarĝo de la vivo. Mi iras al
+okcidento.
+
+LA JUNULO: Via animo estas peza pro la ŝarĝo de la vivo kaj vi iras
+al okcidento. Kiel malgajaj vortoj kaj kiel malgaja migrovojo! Kiom da
+jaroj vi havas, maljunulo?
+
+LA MALJUNULO: Se Dio permesos al mi ĝisvivi, en decembro mi estos
+okdekjara.
+
+LA JUNULO: Kaj vi iras ĉiam ankoraŭ sola la vojon de l' vivo? Ĉu
+vi ne havas kabanon, kie vi povus ĝisatendi la morton? Ĉu vi ne havas
+nepon, kiu kisus vian manon?
+
+LA MALJUNULO: Mi havas kabanon, sed en ĝi sidas aliaj. Junaj kaj
+senkoraj. Mi havas nepon, sed tiu ne kisas al mi la manon. Dum okdek
+jaroj mi ne renkontis la ĝojon. Kaj mi ne volas morti antaŭ ol mi vidos
+ĝin.
+
+LA JUNULO: Fruprintempe mi pasigis mian dudekkvaran jaron. Kiel
+infano, mi ŝatis la kaprideton kaj la hundojn. Kiel knabo, la librojn,
+kaj nun la floron, la belan knabinon, la maturan frukton kaj la
+tremantan arbofolion. Kaj ridetis al mi ĉio: la frukto, la bela
+knabino, kaj mia koro estas plena de plezuro. Kompatinda maljunulo,
+kiel mi povus doni al vi iom el ĝi.
+
+LA MALJUNULO: Kaj tamen vi volas morti?
+
+LA JUNULO: Kaj tamen vi volas vivi?
+
+LA MALJUNULO: La espero retenas min.
+
+LA JUNULO: La plenumiĝo forsendas min. Maljunulo, estas ja tute
+egale, kion ni faras, la ĉefa afero estas, ke ni povu fari tion, kion
+ni volas. Jen, kiam la suno brilis al miaj okuloj kaj la arbarranda
+venteto balancis al mi ĉi tiun belegan branĉon, kvazaŭ estus aperinta
+vizaĝo de feino antaŭ mi, kaj la arbaro ridegis kaj la feino ridetis,
+kaj de ĉie amo kaj feliĉo flustris al mi: pendigu vin, pendigu vin!
+
+LA MALJUNULO: Kaj se mi ne estus veninta, nun vi jam estus inerta
+kadavro. Ĉu vi aŭdas la kornikon? Ĝi jam estus eltranĉinta vian okulon.
+Via bela, brila mondo jam estus nigra Nenio.
+
+LA JUNULO: Tio estas vido de l' vivanto, sed ne domaĝo de l'
+mortinto. Mi kompatas vin, bona maljunulo, ŝajnas, ke vi neniam estis
+feliĉa. Se nur dum momento vi estus sentinta, kiel dolĉe estas vivi, vi
+ne bedaŭrus tiun, kiu mortas antaŭ ol la dolĉo fariĝas maldolĉa.
+
+LA MALJUNULO: Miaj maljunaj okuloj vidis multajn feliĉajn homojn,
+ĉiuj abomenis la morton.
+
+LA JUNULO: Ili ja ne estis feliĉaj, nur avaraj. Avare ili kolektis
+la minutojn, kvazaŭ oni povus kolekti la tempon. Unu minuto plus unu
+minuto ne estas du minutoj, nur unu. La amo estas sola longa kiso, la
+feliĉo estas sola spiro profunda. Ŝanĝu do rapide la kisojn, ĉar male
+neniun el ili vi konservos, vi nur ekenuos ĝin. Ĉu _da capo_?
+Jen, maljunulo, pro tio mi pritimas mian feliĉon. Kiam ĉion ni havas,
+kiam ĉio gustas bone al ni, tiam morti, kiel la amema urogalo, jen la
+pleneco de la vivo, kaj ne la malrapida laciĝo, la certa enmizeriĝo, la
+senĝoja orfiĝo.
+
+LA MALJUNULO: Ne decas moki la blindulon, parolante al li pri
+koloroj, kiujn li ne konas, je kiuj li eĉ kredi ne povas.
+
+LA JUNULO: Rigardu en la spegulon, kaj diru: ĉu estas dezirinde por
+feliĉa junulo fariĝi tia, kia estas vi?
+
+LA MALJUNULO: Feliĉa junulo neniam fariĝos tia, kia mi estas. Li
+fariĝos feliĉa maljunulo, kaj liaj ĝojoj same ekĝermos, kiel la plezuro
+de l' animo post blindiga somerbrilo.
+
+LA JUNULO: Se mi estus centjara, tamen mi pensus nur pri mia
+juneco. Ĉi tiun feliĉon mi neniam povos plu akiri, kaj kiu bezonas ĉi
+tiun feliĉon, por tiu alia feliĉo ne estas feliĉo. Adiaŭ, kompatinda
+maljunulo, ne embarasu min plu en la plezuro de l' feliĉa morto.
+
+LA MALJUNULO: Estas eble, ke ie ekkreskos ĉi nokte floro por vi, por
+morgaŭ. Vi povus morti ne sciante, ĉu la morgaŭo ne estos pli bela ol
+la hodiaŭo?
+
+LA JUNULO: La morgaŭo estas ĉiam pli bela, pli ĉiela ol la hodiaŭo.
+Ĝis tiam, kiam la vivo atingis sian tagmezon. Nun mi estas plena de
+la konscio pri vivo, kaj venos morgaŭo, kiu donos al mi malpli multe.
+La vivo plenŝutas mian arbon per floroj, por ke ĝi povu poste deŝiri
+florojn de la arbo de mia vivo. Mi trompos vin, ruza vivo, mi akceptas
+viajn florojn, kaj poste, plenŝarĝinte min, mi forkuras. Evoe! Vivu la
+morto!
+
+LA MALJUNULO: La vivon vi ne povas trompi. Vi saltos en tombon, kaj
+viaj floroj restos tie ĉi.
+
+LA JUNULO: Sed mi ne vidos, kiel forŝtelos ilin de mi la tempo. Mi
+ne scios pri tio, mi ne ploros pri tio, plene de danko kaj amo al Dio,
+mi ekdormos en mia pompa florado.
+
+LA MALJUNULO: Vi ja rifuĝus de la morgaŭo, kiu estas la celo de
+l' vivo. Depost mia infanaĝo mi atendas je la morgaŭo, mi iras, kun
+kadukiĝantaj tendenoj, antaŭ la morgaŭon. Se ĉi tiun morgaŭon mi
+atingos, volonte mortos ankaŭ mi, sed kun ŝvito sur mia frunto kaj kun
+maldolĉa ĉagreno en mia koro mi iras antaŭ ĝin, kaj se venena serpento
+siblus al mi, eĉ flugi mi povus per miaj maljunaj piedoj por savi min
+de ĝia mordo.
+
+LA JUNULO: Mia morgaŭo estas malantaŭ mi. Mia amatino neniam estos
+plu tiel bela, kiel hieraŭ. Miaj brakoj neniam premos ŝin tiel forte al
+mia brusto, kiel hieraŭ. Post mia kiso ŝi neniam ruĝiĝos tiel ĉaste,
+kiel hieraŭ. Sed komprenu, maljunulo, mi ne _volas_ morti, mi
+nur _mortas_.
+
+LA MALJUNULO: Mi ne _mortos_, mi nur _volas_. Kulpo
+estas foriri de la tero, antaŭ ol oni estis feliĉa, kaj kulpo estas
+forlasi la teron, kiam oni estas feliĉa.
+
+LA JUNULO: Ne trompu vin mem, kompatinda maljunulo, vi iras al
+la vivo, kaj vi venas al la tombo. La feliĉon vane vi jam atendas,
+ĝi estas malantaŭ vi. Por feliĉo oni bezonas junecon; kiam vi estos
+juna?
+
+LA MALJUNULO: Mi estis.
+
+LA JUNULO: Eĉ se vi estis, tamen vi ne estis. La feliĉon vi
+renkontis jam antaŭ longe, sed tiam, atendante je la morgaŭo, vi
+forĵetis ĝin de vi. Kompatinda maljunulo, kiu atendas ion de la vivo,
+al tiu ĝi donas nenion. Adiaŭ.
+
+LA MALJUNULO: Do, ĉu vi ne mortigos vin?
+
+LA JUNULO: Ankaŭ tio estus estinta bona, ankaŭ ĉi tiel estas bone.
+Al nenio mi volas ligi min. Adiaŭ.
+
+Post ĉi tio la junulo ĝoje ekkriis kaj malaperis en la densaĵo de l'
+arbaro. La maljunulo priaŭskultis ĝis la lasta kraketo de branĉo. Poste
+neesprimebla ĝojo ekbrilis en liaj maljunaj okuloj. Nome la junulo
+forgesis pri la ŝnuro, ĝi restis sur la branĉo.
+
+LA MALJUNULO: Kia feliĉo!
+
+Kaj li pendigis sin.
+
+  El la hungara: E. T. BARADLAY
+
+
+
+
+LA JUNA PRINCO
+
+RABINDRANATH TAGORE
+
+
+  Ho patrin', la juna princo iros preter dom' solene --
+  Kiel povu mi atenti pri laboro ĉi matene.
+
+  Montru, ke mi harojn miajn kiel ligu, kiel plektu,
+  Ho patrino, diru al mi, kiun veston mi elektu?
+
+  Panjo, kial miras vi min? Scias mi, ke li ne sendos
+  Eĉ rigardon al fenestro, kie je li mi atendos.
+
+  Post moment' el mia vido li forpasos senrevene
+  Nur la flut' el malproksimo sendos al mi ĝemon svene.
+
+  Sed la juna princo iros preter nia dom' solene...
+  Kaj mi veston plej ornaman tial prenos ĉi matene...
+
+  Ho! patrin', la juna princo iris preter dom' kun brilo,
+  Leviĝanta suno brilis de sur lia veturilo.
+
+  Kaj vualon mi forŝovis, ŝire mi de kol' malligis
+  Rubenĉenon mian kaj sur lian vojon ĝin faligis.
+
+  Panjo, kial miras vi min? Scias mi: li ĝin ne levis,
+  Restis sanga gut' sur vojo, kie ĝi sub rad' diskrevis.
+
+  Kaj neniu ja konjektas, kaj neniu ja eksciu,
+  Kio estis la donaco, kaj de kiu kaj por kiu.
+
+  Sed la juna princo iris preter nia dom' ĉi fojon
+  Kaj juvelon de la brusto ĵetis mi sur lian vojon.
+
+K. DE KALOCSAY
+
+
+
+
+EL MIAJ REMEMOROJ
+
+(Daŭrigo)
+
+
+Jes, mi fariĝis redaktoro-eldonanto-presanto-administranto de
+„Lingvo Internacia“. Al tiu kvarobla ofico mi povas aldoni kvinan:
+kompostisto, ĉar mi propramane kompostis la gazeton. Tia multflanka
+tasko certe estas tro por unu sola persono, precipe por iu, kiu estas
+izolita esperantisto. Tamen mi klopodis plenumi mian rolon; mi ja
+klopodis, sed bedaŭrinde ne sukcesis. La gazeto, kompreneble, ne estis
+sur tia nivelo, sur kia ĝi estus devinta.
+
+Mi malĝojis. Kiamaniere eliri el tiu embarasa stato, por savi la
+gazeton? Pri tio mi serĉis rimedon. Mi revis pri transmigro Budapeŝton;
+mi opiniis, ke tie, kun la helpo de la tieaj fervoraj samideanoj (ho,
+tre malmultaj ankoraŭ) mi povus rezultigi pli da prospero. Baldaŭ
+mi forlasis tiun ideon kiel nerealigeblan, precipe pro teknikaj kaj
+financaj kaŭzoj.
+
+Tamen ion mi trovis en la hungara ĉefurbo; mi trovis tie fervoran
+teknikan kunlaboranton: S-ro Kajetano Seper, kompostisto, klera, juna
+esperantisto entuziasme konsentis fariĝi mia teknika kunlaboranto kaj
+li venis en Szekszárd. Tiamaniere ni donis fortan antaŭenpuŝon al la
+gazeto, sed nur en teknika rilato: ĝi aperadis regule.
+
+[Bildo: MUNKÁCSY: MILTON DIKTAS LA „PERDITA PARADIZO“-N]
+
+Unu belan tagon (mi vere povas diri „belan“) la poŝto alportis al mi
+leteron el Parizo. Ne estis malofte, ke mi ricevis leteron el Parizo;
+ĝi estis subskribita „Paul Fruictier“. Tiu nomo ne estis jam nekonata
+por mi. S-ro Fruictier proponis al mi, ke li volus fariĝi redaktoro de
+„Lingvo Internacia“.
+
+Vi povas imagi, kara leganto, la korsentojn, kiujn kaŭzis al mi tiu
+letero. Jen la helpo, jen la savo! Kaj mi... ŝanceliĝis; mi ne sufiĉe
+konis ankoraŭ S-ron Fruictier. Mi tuj skribis al la tiama Societo por
+la Propagando de Esperanto en Epernay (Francujo) al S-ro de Beaufront,
+por havigi al mi sciigojn pri tiu sinjoro. La sciigoj estis pli
+kontentigaj ol mi deziris, do... S-ro Fruictier fariĝis redaktoro de
+„Lingvo Internacia“.
+
+Tiamaniere okazis, ke la redaktado falis en la manojn de la tria
+Paŭlo!...
+
+La redaktorŝanĝo tre utile efikis al la gazeto: ĝi fariĝis serioza,
+plaĉa, bone informita; ĝiaj abonantoj subite plimultiĝis, tiamaniere,
+ke ĝi certigis al mi eĉ iom da profito. S-ro Fruictier zorge sendadis
+al mi la manuskriptojn kaj la gazeto fariĝis universala informilo, la
+vera _centra organo de la esperantistoj_.
+
+La venontan jaron (1903) mi, kompreneble kun la konsento de la
+redaktoro, ŝanĝis la formaton de la gazeto: ĝi fariĝis libroformata,
+kiun ĝi konservis por ĉiam.
+
+„Lingvo Internacia“ havis tiam ne nur sufiĉe multajn abonantojn, sed
+ankaŭ tre bonajn kunlaborantojn. Are venis la literaturaj manuskriptoj
+al la redakcio, kaj ili tiom amasiĝis, ke estis al ni absolute neeble
+enpresi en la gazeto eĉ la plej bonajn literaturaĵojn originalajn aŭ
+tradukitajn -- konsiderante la modestan amplekson de la gazeto. Por
+forigi tiun embarason, venis al mi la ideo: estigi literaturan folion,
+kaj mi fondis, en julio 1903, la 12-paĝan folion titolitan „Literatura
+Biblioteko de Lingvo Internacia“.
+
+Tiu aldono enhavis nur literaturaĵojn kaj estis abonebla aparte de
+la gazeto.
+
+Mi devas rimarkigi, ke preskaŭ ĉiuj abonantoj de „L. I.“ abonis
+ankaŭ la literaturan aldonon. Tial, post unu jaro kaj duono, ni ĉesigis
+la elirigon de ĝi kaj, pligrandigante L. I.-n mem, ni kunigis ĝin
+kun la literatura aldono.
+
+En tiu tempo aperis, en mia presejo, la unua eldono de la fama
+Esperanta Sintakso de S-ro Paul Fruictier. Ankaŭ aliajn esperantajn
+presaĵojn mi pretigis, laŭ mendo de diverslandaj samideanoj.
+
+Krom tio mi verkis artikolojn propagandajn pri Esperanto por kelkaj
+hungaraj gazetoj kaj ĵurnaloj, kiujn iliaj redakcioj enpresis bonvole.
+Tiuj artikoloj bone efikis kaj havis, kvankam ne gigantan, tamen
+ŝatindan rezultaton por nia afero.
+
+  * * *
+
+La homo neniam estas kontenta; li ĉiam deziras por si plibonigon,
+eĉ se lia sorto estas superfavora. Ankaŭ mi ne estis kontenta, kvankam
+la afero de „Lingvo Internacia“ pli bone aranĝiĝis ol mi estis
+dezirinta. Tiam mi pripensis: kiel agrable, kiel komforte estus, se la
+redakcio kaj administracio troviĝus en la sama urbo! Se mi transmigrus
+Parizon... Ha! Utopio!... Kial utopio? Certe, la monto neniam irus ĉe
+Mohamedon; sed Mohamed ja povas iri ĉe la monton. Kaj tiu ideo ne volis
+forlasi min; ĝi tiel fiksiĝis en mia animo, ke mi ne povis liberigi min
+de ĝi.
+
+(Daŭrigota.)
+
+  PAŬLO DE LENGYEL.
+
+
+
+
+LA SKULPTISTO KAJ LA KALIFO
+
+AUSTIN DOBSON
+
+
+  Lokigu ni en oriento
+  rakonton nian. Ĉu pro tio,
+  ke orienta estas ĝi?
+  Ne, tute ne. Ni tion faras,
+  ĉar timas ni tro proksimigi
+  alegorion, aŭ laŭŝajne
+  malpie tuŝi nian karan
+  kaj konfideman patrolandon.
+
+  Harun Alraŝid, en la tempo,
+  kiam li vagis sekreteme,
+  serĉante bonon aŭ malbonon
+  vespere sur Bagdadaj stratoj,
+  ektrovis foje en la limo
+  de la bazaro, loko kie
+  laboras plej malriĉaj viroj,
+  skulptiston.
+
+    Bela la skulptaĵo
+  kaj delikata, kun misteraj
+  desegnoj, lerte kunplektitaj
+  kaj formoj kun signif' kaŝita,
+  al ĉiu krom Dielektito, --
+  la sonĝoj kaj vizioj, kiuj
+  klariĝas en profunda cerbo.
+  Kaj ĉiutage li laboris
+  de sunleviĝo ĝis vespero;
+  sed tamen ne aĉetis iu,
+  krom kiam strabokula Judo,
+  aŭ ruza Greko el Levanto,
+  ekhaltis -- malestime taksis --
+  poste laboron tutmonatan
+  aĉetis laŭ la pez' kaj portis
+  rapide al transmaraj landoj,
+  en trezorejojn de riĉuloj.
+
+  Kaj jam de longe li ne vendis,
+  sed en la bud' mizere kuŝis.
+  Izolan tiel lin ektrovis
+  Kalifo, kaj la teron frapis
+  per la bastono, laŭtkriante:
+  „Ho jen! Ĉu havas vi vendaĵojn,
+  aŭ ĉu vi dormas, tro manĝinte?“
+  „Manĝinte!“ diris li mizere,
+  „kiel mi manĝus, ne vendinte?“
+  Mallaŭte diris la Kalifo:
+  „Nur ŝercis mi. Ĉu tiel estas?
+  Do prenu tiun ĉi moneron;
+  sed ankaŭ prenu la konsilon,
+  kiun, amiko, vi ne provis.
+  Ĉi tiu via manfaraĵo
+  tro delikata kaj detala
+  por taŭgi al vendejo estas.
+  Ĉi tiuj etaj desegnaĵoj
+  ne povas ne maltrafi celon.
+  Je granda skalo vi laboru,
+  kaj tiajn temojn vi elektu
+  pli terajn, kaj malpli aerajn.
+  La fiŝkaptistoj kun la reto,
+  la komercistoj en vendejo,
+  la kurieroj sur la strato,
+  najbaroj interbabilantaj, --
+  ĉi tiuj estas por homaro
+  konataj, tial komprenataj.
+  Plie (atentu la konsilon!)
+  postulu vi trioblan prezon.“
+
+  Malĝoje la skulptist' kapskuis;
+  li sciis ke l' Kalifo diris
+  la veron. Jam de tiu tago
+  li tiel faris la laboron,
+  ke ĝin komprenu la mondanoj.
+  Li skulptis ĝin pli kruda, klara;
+  li skulptis ĝin trioble granda;
+  li vendis laŭ triobla prezo, --
+  sed ve! l' Artisto jam perdita!
+
+Tradukis LOUISE BRIGGS
+
+
+
+
+[Bildo: Innocent: CANTILENA]
+
+BARKAROLO
+
+Poemo de J. Baghy -- Muziko de M. Sárosi
+
+
+  Dolĉe dormu, kara,
+  En boato, vi amata,
+  Sur la akvo mara
+  Dolĉe dormu vi...
+
+  Brilas eta stelo
+  Ĝi rigardas kaj nin gardas
+  Supre sur ĉielo
+  Dum vin vartas mi...
+
+  Dormu vi, dormu vi dolĉe,
+  Lulas vin nokt-silent'.
+  Revaĵojn flustras nun al vi
+  Varme la mara vent'.
+
+  Dormu vi, dormu vi dolĉe
+  Kaj se vekiĝos vi,
+  Kun mil da kisoj salutos
+  Sangruĝa buŝ' de mi.
+
+[Bildo: Francisko Helbing: ORFEUSO]
+
+
+
+
+MONDLITERATURA OBSERVO
+
+
+NIAJ EMINENTULOJ
+
+[Bildo: D-RO EDMOND PRIVAT]
+
+Oskaro Spengler: LA SUBIRO DE L' OKCIDENTO (germane).
+
+Jen libro, pri kiu multe ankoraŭ parolos kaj diskutos la legintoj
+kaj ankaŭ la nelegintoj. La aŭtoro forlasas la vojon de la ĝisnuna
+pensmaniero, kaj diras, ke anstataŭ la indukta kaj dedukta pensado
+oni devas apliki en la sciencoj la intuicion, la internan, mistikan
+ekvidon.
+
+Laŭ li, la kulturo estas organismo, kiu naskiĝas, vivas kaj mortas.
+La kulturo do vivas sian vivon kvazaŭ spontane, la homoj ne kreas kaj
+ne povas krei ĝin. Male, la kulturo kreas, formas la homojn laŭ sia
+figuro.
+
+Laŭ ĉi tiu vidpunkto analizinte la ĝisnunajn kulturojn, li
+konkludas, ke nia okcidenta kulturo maljuniĝis kaj estas antaŭ morto.
+Kun la kulturo de la hodiaŭo pereos ankaŭ la homo de la hodiaŭo, venos
+nova kulturo, kiu kreos homojn novajn. Laŭ li, la homoj de la nova
+kulturo estas jam videblaj, ili estas la homoj de Orient-Eŭropo, de
+Ruslando. Eble ni povos okupiĝi pli detale pri la verko en iu sekvonta
+numero.
+
+  T. M.
+
+
+LA SUBMETlĜO DE LA MEGERO.
+
+Estas ofte dirate, ke Shakespeare ne estas ŝatata de siaj
+samlandanoj, sed la homamaso, kiu ĉeestas la prezentadon de liaj dramoj
+ĉe la „Old Vic“ teatro, kontraŭas tiun ideon. Tie oni povas vidi la
+dramojn de la angla geniulo, ludatajn kiel eble plej laŭ la intenco de
+la aŭtoro. Nuntempe, atentema ĉeestantaro aplaŭdis la prezentadon de la
+„Submetiĝo de la Megero“. Kutime la plej elstarantaj trajtoj estas la
+bruego de Petrukio kaj la kriegoj de la freneziĝinta Katrino, sed en la
+nuna prezentado, la scenoj inter Petrukio kaj Katrino estas inspiritaj
+per nova kompreno de la intenco de Shakespeare. Tute tra la dramo estas
+evidente, ke Petrukio _alprenas_ la rolon de fanfaronema tirano,
+sed vere admiras la belan Katrinon, kiu rifuzas akcepti la malsuperan
+pozicion donitan al virinoj de ŝia monavida patro kaj la marĉandaj
+amindumantoj. Kvankam arde sopirante je amo, ŝi tamen maldignas ekzerci
+la kutimajn, malsincerajn artifikojn, per kiuj la fratino havigas sian
+volon.
+
+La kulpoj de Katrino naskiĝis el ŝia forta karaktero, kaj Petrukio,
+mem honesta kaj sincera, vidas la samajn ecojn en la mallaŭdata megero.
+Samtempe li scias, ke Katrino bezonas lecionon; ŝi devas konstati la
+konfuzon kaj maltrankvilecon kaŭzatajn de persono kiu sin liveras al
+neregata humoro. La mirigita Katrino vidante, ke Petrukio pretekstas
+agi tiele el plena amo al ŝi, lernas ke amo per si mem ne certigas
+feliĉon, ke ambaŭ devas oferi sian volon kaj submeti siajn dezirojn
+reciproke. Tuj kiam Katrino elkomprenas tion, la venko estas al la
+edzo. Li forportas, ne kriegantan, baraktantan megeron, sed amantinon,
+kies forta volo estas venkata per la konvinko de ŝia rezonpovo, do ŝi
+ne submetiĝas pro la perforto de Petrukio, sed ĉar ŝi subite konstatas
+lian veran amon al ŝi. Estante virino de fortaj emocioj, ŝi amas tiel
+pasie, kiel ŝi antaŭe malamis. Neniel alie povas esti komprenata la
+kompleta cedo en la lasta akto.
+
+La sukceso de la prezentadoj ĉe la „Old Vic“ teatro, ankaŭ estas
+ŝuldata al la roluloj, kiuj ludas la tiel nomitajn „malpli gravajn“
+rolojn. Shakespeare ne priskribis elstarantan heroon aŭ heroinon,
+ĉirkaŭ kiu la tuta intereso de la dramo koncentriĝas. Kontraŭe, ĉiu
+rolulo havas gravan parton en la disvolviĝo de la temo, do la zorga kaj
+bona interpretado de ĉiu, eĉ la plej humila, estas necesa al la sukceso
+de la tuta dramo. Pro tio, la apero de famkonata aktoro aŭ aktorino
+kiel ĉefa ludanto ofte difektas la harmonian prezentadon de la dramo.
+Ĉe la „Old Vic“, ĉiu rolulo ludas zorge kaj inteligente por certigi la
+sukceson.
+
+(„Old Vic“ estas karesema nomo por la „Victoria Hall“, teatro apud
+Waterloo Bridge, Londono.)
+
+  EMMA L. OSMOND
+
+
+CLAUDE FARRÈRE estas vere denaska romanverkisto, kiel Balzac kaj
+A. Daudet, la sola ebleco kaj maniero, kiu konformas al la esprimiĝo
+de lia spirito, estas la romano. Sed tie li estas hejme, li havas
+tiun facilecon en la stilo kaj fantazion en la tem-plektado, kiuj
+distingas la grandajn fablistojn. Lia prezentmaniero, senpera, natura
+kaj intima, kvazaŭ flate allogas nian atenton. Ĉio plaĉas, kion li
+skribas.
+
+Maroko estas nuntempe en modo. Tien kondukas nin la nova romano de
+Farrère: la Novaj Homoj: en la urbon Casablanka, kies elkresko estas ne
+malpli mirinda, ol tiu de la moderna Ameriko. Temas pri geedziĝo inter
+indiĝena regimentestro kaj juna, malriĉa, sed aristokrata francino.
+La viro estas interesa, agema kaj energia, sed kruda kaj vulgara.
+La virino estas gracia, ĝeniĝema, havas la delikatecon de la blua
+sango. Kiel la fremdeco de iliaj animoj kreas ĉiam pli kaj pli pezan
+atmosferon, en kiu devas droni la amo, tion rakontas ĝis la drama fino
+la romano kun majstra kaj kolora pripentro de la kolonia vivo.
+
+  (-tois)
+
+Depost jaroj estas la plej grandaj okazintaĵoj de la budapeŝta teatra
+vivo: la premieroj de FRANCISKO MOLNÁR, sed dum liaj antaŭaj teatraĵoj
+estis nur kvazaŭ spiritaj frandaĵoj, ĉiu estis bazita sur ia sprita
+artifiko, -- la nuna dramo: la „Ĉiela kaj Tera Amo“ estas io por la
+koro. La metia perfekteco estas ankaŭ en ĉi tiu dramo preskaŭ diabla,
+sed oni trasentas la pulson de la koro. Eble la tuta dramo estas nur
+simbolo de tio, ke la poeto naŭziĝis pri la nuntempa tera vivo malpura,
+kovrita per ŝlimo de la terura superakvego de l' milito kaj volas
+rifuĝi tien, kien ne povis atingi la malpuraj ondoj. Kaj laŭ ĉi tiu
+simbolismo la dramo estas la tragedio de tiuj, kiuj ne trovas sian
+lokon en la nuna malpura, konfuza mondo, kie nur la malhonestuloj kaj
+perfortuloj povas vivi kaj prosperi.
+
+El ĉi tiu frumatura, orfa, por morto destinita generacio li prenas
+sian heroinon. _Lonti_ estas bela revema 17-jara knabino, filino
+de grandmonda sinjorino. Ŝi abomenas sian ĉirkaŭaĵon, la histeriajn,
+afektajn amikinojn, la amaton kaj fianĉon de sia eksedziniĝinta
+patrino: militmilionulon, kavaliron de l' konjunkturo. Kaj ŝi amas, kun
+la ĉasta adoro de sia pura animo, junulon, kiu estas -- enamiĝinta al
+sia patrino. Kaj kiam ŝi ekscias ĉi tion, ŝi perdas la ekvilibron de
+sia animo. Kun la obstina peno de l' frenezo ŝi elŝiras sin el la marĉa
+tera vivo, surmetas la flugilojn, kiujn ŝi ricevis por maskobalo kaj
+portas ilin, fermiĝinte en sia ĉambro; ŝi kreas por si ĉielon, ĉar ŝi
+jam povas vivi nur en ĉi tiu artefarita ĉielo. Kaj kiam la anĝelĥoro de
+la kristnaskfestantaj knaboj eksonas sub la fenestro, tra la fenestro
+ŝi elflugas, ŝi flugus -- kaj ŝi falas el la alto kaj frakasas sin,
+kompatinda anĝelo kun flugiloj el metalfadeno kaj ĉifonoj.
+
+  (-las)
+
+
+
+
+BIBLIOGRAFIO
+
+
+POEZIO de Stanislav Schulhof.
+
+Plenmano da versoj, granda promeso portita en la fruan tombon...
+kara malfeliĉa poeto, kara malsana doktoro, kortuŝite mi ekkaresas
+vian memoron. Mi freŝe memoras pri la granda emocio, kiam mi unue
+legis ĉi tiujn poemojn, en kiuj post multaj bombastaj kaj perfortaj
+versoj, post multaj, sed malmulte dirantaj vortoj, eluzitaj frazoj kaj
+bildoj, prezentis sin homo, kiu simple kaj sincere rakontas al ni siajn
+sentojn, kaj kies sentoj estas indaj por rakonti ilin.
+
+Tri volumetoj, en ili tridek poemoj. Konstanta evoluo kaj
+pliperfektiĝo -- rompita de la morto.
+
+En la unua volumo li ankoraŭ luktas kun la ritmo, kelkfoje eĉ kun
+la lingvo. Troviĝas kelkloke vortoj nekonvenaj, banalaj, aŭ nenecesaj.
+Sed jam montriĝas la bonaj kvalitoj: natura, agrabla kaj simpla stilo,
+kiu trudas por legi, kiu rakontas kaj ne deklamas -- jen homo, kies arto
+estas sincera, kiu parolas nur se li havas ion por diri. Kia stranga,
+kara voĉo! Kia simpla, kara voĉo!
+
+„Per espero al despero“... peza ŝtono de pesimismo sur vundita
+koro. Idealoj -- revoj infanaj. Esperanto ligas nin, siajn adeptojn
+per amo, „ĉar ni ĝis nun -- tre malmultaj estas“. Ĉu la verda stelo ne
+estas meteoro, kiu post brila flugfalo dronos en la oceano? Kaj la
+kanto Desperanto estas skribita per plumo trempita en la venenon de
+malespero. „La senĉesa homa harmonio, Unu amo, unu familio -- Sukeraĵo
+por la infaneco.“ Ho Esperanto, eble venos la tempo „kiam ree homon
+batos homo, sed li batas lin en via nomo. Ankaŭ kun la stelo sur
+standardo.“
+
+Sed „kia stranga, forta voko“ rompas la malesperajn akordojn en la
+samtitolita kanto! Printempo! -- Disfalas la putraj muroj, ridas tago,
+brilas suno sur lazuro.
+
+  Blovas juna freŝa vento!
+  En la mondon venis nova sento!
+
+Facilanima ĝojo vibras en ĉiu linio. La malsana homo plenspiras sian
+pulmon per viviga freŝa aero, la malesperulo plensorbas sin per viviga
+freŝa espero. Kion vi parolas pri zorgoj, ĉagrenoj, malfeliĉo, griza
+vivo, enuo --
+
+  Por mi sola argumento:
+  Blovas freŝa juna vento!
+
+Kiu atentus pri la makuletoj, kiujn la verso havas en la dua kaj
+kvara strofoj? Oni spiras pli profunde kaj sinforgese lasas sin porti
+per la pulsanta ritmo.
+
+Sed en la dua volumo: -- „Kion la vivo alportis“, -- denove la malnova
+pesimismo. „Foje en konfuza horo“ li malespere serĉas la akvon de l'
+forgeso. Amo plej terura lian koron premas, amo al fantomo nereala: al
+la homaro. Malbenita am' al vorto sen enhavo, ve al la homo kiu portas
+ĝin en la koro!
+
+Kortuŝaj estas liaj antaŭsentoj pri morto. Tiuj veas en lia
+Printempa Kanto, kiam: „vivi, vivi, krias ĉiu vermo. Ankaŭ la subtera
+muta vermo.“ Tiuj plenŝutas per melankolio la ĉarman Lastan Rozon
+kaj tiuj profetas en la rezignoplena Finalo! „Devas soni kanto
+najtingala, Gaja kant' de pli feliĉa bardo. -- „Fino, fino... La kurteno
+falas...“
+
+Sed antaŭ la falo de la kurteno li donacis al ni ankoraŭ unu
+volumon, la Aŭtunajn Florojn, en ĝi la bonegan Recepton por fari bonajn
+versaĵojn, kaj du verajn perlojn de nia literaturo, la Sovaĝan Kanton
+kaj la Kanton de l' Sklavo. Mi ne povas reteni min, mi citas laŭvorte
+la lastan:
+
+  Nun mi klare vidas, ke jam sorto mia
+  estas alligita al vi per kateno,
+  ke mi nun jam devos ĉiam kun vi iri,
+  ke mi certe ne sukcesos jam akiri
+  liberecon, mia nova suvereno!
+
+  Multefoje mi forĵetis mian plumon,
+  eĉ emblemon vian: stelon kvinradian,
+  en la kor' la fajron mi estingi penis,
+  sed vi senkompate ĉiam min ekprenis,
+  kaj min pluen, pluen trenis: sklavon vian.
+
+  Al vi apartenas do nun vivo mia,
+  ĉio, kion jaroj lasis en la koro
+  vin mi sekvas nune, kiel somnambulo,
+  tute kontraŭvole, tute sen postulo,
+  kaj mi jam ne revas eĉ pri laŭr' kaj gloro.
+
+  Kie vi ja prenis tiun sorĉan forton?
+  Vi tra landoj marŝas sen la sang' sur glavo
+  sen kanonoj, nur kun via verda stelo,
+  kaj vin malgraŭ tio sekvas sen ribelo
+  ĉiam novaj, blinde obeemaj sklavoj.
+
+  Pli kruelan, ol la famaj uzurpantoj
+  vi alportis al ni en la mondon moron:
+  ili piedbatis homajn liberecojn,
+  de la landoj ŝiris partojn, limojn, pecojn,
+  sed vi ŝiras el la brustoj nian koron.
+
+Kia evoluo en ĉi tiu volumo! La poeto jam majstras la instrumenton
+kaj komencas sian virtuozan ludon. Kaj... vi ja scias... ni perdis
+lin!
+
+Kara Schulhof, mi ne povas nun skribi pri viaj poeziaj peketoj, ja
+vi jam ne legos por danki mian kritikon, kiel vi promesis en iu via
+antaŭparolo. Vi kaŝis vin de ni, kiel de vi via sovaĝa kanto, kaj via
+animo --
+
+  eble ĝi fariĝis bonodora floro,
+  kaj ĵus hejmenportas ĝin sur juna koro
+  iu sopiranta bela knabinet'.
+
+  (KOPAR)
+
+
+KRIOJ DE L' KORO. Poemoj de Salo Grenkamp-Kornfeld.
+
+Nia esperanta literaturo ne estas ankoraŭ tiom evoluinta, ke ni povu
+apliki al ĉiuj aperintaj verkoj la plej severan mezuron de kritiko.
+Verŝajne tiu principo gvidis ankaŭ la E. L. A.-n kiam ĝi
+rekomendis ĉi tiun libreton. Simpatia koro klopodas en ĝi esprimi siajn
+naivajn sentojn, kio tamen pro la poezia malcerteco ne ĉiam sukcesas
+tiagrade, ke la leganto povu havi senembarasan artan ĝuon. Sed sentoj
+povas maturiĝi, formo povas perfektiĝi kaj tial ni povas esperi pri la
+poeto.
+
+  (KOPAR)
+
+NI RICEVIS: „Leakey's Introduction to Esperanto.“ Beleksteraĵa,
+koncize kaj lerte farita enkonduko en la lingvon por angloj. -- „La
+lejpziga foiro.“ Arte belaspekta propagandkajero pri la printempa
+foiro. -- „Belga Esperantisto“ (aŭg.-sept.). -- „Corriere Balcanico.“
+(Esperantista). „Hungara Esperantisto“ (oktobro).
+
+
+
+
+DISPUTO
+
+
+LA KOMPATINDA POETO Namillab Major, kiu frakasis sin saltinte de la
+kvara etaĝo, skribis al mi en sia lasta letero:
+
+„Do, mi mortas. Mi ne povas plu elteni la vivon, kies ritmo por mi
+tute konfuziĝis. Aŭdu mian tragedion:
+
+Mi verkis poemojn Esperantajn. Ili ja ne estis mondliteraturaj
+ĉefperloj, sed mi opiniis, ke ili estas valoraj eksperimentoj en
+nia malriĉa originala literaturo. Mi esperis sukceson -- ĉiu poeto
+ja esperas ĝin, precipe Esperanta poeto. Kaj mi atendis senpacience
+recenzojn ĉar vi ja scias, ke ni poetoj malamas kaj abomenas la
+recenzantojn, sed la poemojn ni skribas propre nur por ili. Febre mi
+traserĉis la gazetojn -- fine mi trovis la recenzojn unu post la alia.
+Ili laŭdis pli aŭ malpli, sed plendis pro manko de loko. Kompatinduloj,
+mi pensis, kiel ili volus elkrii sian admiron, kaj la malbenita manko
+de loko ŝtopas la buŝojn al ili. Nun -- rigardu -- longa kritiko! Legu,
+legu, -- mi kriis al mi -- fine vi ekscios, kiom vi valoras. Tro frua
+ĝojo! La recenzanto skribis tri liniojn pri mia volumo kaj tridek
+liniojn pri la kvin asonancoj, kiuj troviĝas en ĝi. Mi glutis unu, mi
+glutis du, la recenzo malsuprenglitis, mi digestis ĝin. Poeto devas
+havi gorĝon bone ŝmiritan.
+
+Nova recenzo! Mi pretigas la gorĝon. Ĝi skribas unu linion pri la
+volumo kaj tridek pri la teorio de la sole ĝusta ritmo. Ho, mia ritmo,
+mia sola fiero, ĉu vi ne estas bona, mi pensis, kia doloro! Mi provis
+gluti, ne sukcesis. Mi provis forgesi, ne sukcesis. Mi provis tralabori
+miajn versojn. Kaj nun, imagu mian malfeliĉon, miaj versoj komencis ne
+plaĉi al mi, ilia piedoj kontuziĝis, puŝis unu la alian, interpremiĝis,
+faletis, lamis. Mi febre laboris, mi transskribis ilin laŭ hispana
+ritmo, laŭ franca ritmo, laŭ la hinda, laŭ japana, laŭ la balkana, laŭ
+la senegala, laŭ la botokuda! Ho, mia Esperanta ritmo, kial mi forlasis
+vin, nun mi ne trovas la revojon al vi! Miaj versoj tute freneziĝis; ĉu
+nur la versoj? Mi sonĝas pri tripiedaj fraŭlinoj, pri kavaliroj, kiuj
+havas du longajn kaj tri mallongajn piedojn -- kaj ili saltas-dancas sur
+mia brusto, jam tute ili frakasis la koron, kaj kion faru la poeto, se
+li devas sonĝi sen koro? Li mortu. Do, mi nun kuros al la kvara etaĝo,
+kiel mi kuru do? Unu ŝtupo: mallonga; du ŝtupoj: longa, mallonga...
+longa... longa... mallonga... ho! Sed fine longa falo: seninterrompa
+kaj senritma, dank' al Dio, senritma!
+
+Adiaŭ, eldonu mian artikolon pri ritmo verkitan ankoraŭ kun sana
+menso.
+
+  Via malfeliĉa N. M.“
+
+  Por la fideleco. KOPAR.
+
+RITMO. Ĝis la plej novaj tempoj regis pri ritmo la plej granda ordo
+en Esperantujo. Ne tial, ĉar oni ne faris versojn kun malbona ritmo,
+sed ĉar oni ne faris teorion pri ĝi. Kaj estas terure, mi devas nun
+ankaŭ fari teorion pri ritmo, kvankam diris jam Hafiz, ke „praktiku la
+kison kaj ne klarigu ĝin“, kaj same mi volus krii: „sentu la ritmon kaj
+ne faru pri ĝi teorion“.
+
+Unu el la plej ĉefaj karakterizaĵoj de nia lingvo estas la forta
+akcento. Estas do evidente, ke ĝi ne povas esti ignorata en la poezio,
+eĉ la ritmo devas esti bazita sur ĝi, do nek sur la mezuro, kiel en la
+lingvoj greka kaj latina, nek sur la silabnombro, kiel en la franca
+lingvo. Estas tute erare, se oni volas aŭdi el Esperantaj versoj
+francan aŭ anglan ritmon. El ili devas soni Esperanta ritmo.
+
+Ĉiu verso konsistas el piedoj. Ĉiu piedo devas havi _unu_ akcentitan
+silabon, sur kiu ĝi apogas sin (I). Sed nur unu! Du forte akcentitaj
+vokaloj ne povas stari unu apud la alia, ĉar tio malagrable tuŝas la
+orelon (II). Ekz.:
+
+  „En okul' larm' sidis...“
+
+Oni sentas kvazaŭ estus karambolo de vortoj.
+
+Ĉiu piedo aŭ leviĝas:
+
+  „Homar', homar', mi vokas vin kun kri'...“
+
+aŭ malleviĝas:
+
+  „Venu dolĉaj rememoroj!“
+
+Same la trisilabaj piedoj:
+
+  „Knabinet', ĉu vi amas fidele?“
+  „Ŝiru de vang' la vualon.“
+
+El piedoj kombiniĝas la verso. Ĉefa principo: leviĝantaj kaj
+malleviĝantaj piedoj ne povas stari unu apud la alia (III), ĉar
+tiamaniere du akcentitaj silaboj renkontiĝas, kaj oni ree havas la
+senton de karambolo. Ekz.:
+
+  Mi | sidas | apud | forn' kun | pens' a|mara |
+  Pri | krue|la mort' | via | knabin' | kara. |
+
+Legante oni sentas preskaŭ marmalsanon.
+
+La versoj povas havi antaŭan kaj malantaŭan duontakton.
+
+Severaj formoj klasikaj havas difinitajn piedojn. Sed ĉiu poeto
+povas krei novan formon, konvenan al la enhavo de sia verso. Nur la
+diritajn tri principojn li devas nepre sekvi, male la verso „piedon
+tiros kiel lama hund'“.
+
+Konsilinde estas, ke en la sama verso ĉiuj linioj havu la saman
+movmanieron (leviĝan aŭ malleviĝan).
+
+Por konsolo, mi citas kelkajn poeziajn permesojn:
+
+Unusilabaj vortoj povas esti akcentaj aŭ neakcentaj.
+
+Pli ol trisilabaj vortoj povas havi plurajn akcentojn sur kiu ajn de
+la antaŭaj silaboj.
+
+La pronomoj posedaj, la vortoj de la „Tabelo“ (escepte la serion
+„neni-“), la vortoj „ili“ kaj „unu“, prepozicioj kiuj ne havas duoblajn
+konsonantojn („apud“, „super“ antaŭ postsekvanta vokalo) povas perdi
+sian akcenton, se ili senpere sekvas akcentitan vokalon. Ekz.:
+
+  Kaj kor' mia sangis...
+  Sed hom' tiu ridis...
+  Ĉe l' font' apud arbo...
+
+„I“ antaŭ akcentita vokalo povas perdiĝi kiel silabo (Bennemann). Ekz.:
+
+  Kiel mielon la abelo...
+  Mi kolektas la memorojn.
+
+Mi finas. Mia artikolo ne estas ia frapanta nova teorio, propre ĝia
+principo estas la sama, kiel en la „Esperanta Versfarado“ de Parisot
+kaj Cart. Kaj laŭ la samaj principoj verkis Zamenhof kaj la plej bonaj
+Esperantaj poetoj. Sed oni aŭdas nuntempe kontraŭvoĉojn kaj -- kio estas
+pli ĉagrena -- oni legas kontraŭversojn. Kaj, kio pikas al mi rekte en
+la koron, oni skribas kontraŭrecenzojn. Kion fari, kion fari? mi devis
+skribi la artikolon, eble tio kvietigos min iomete.
+
+Fakte, mi estas jam pli trankvila.
+
+  NAMILLAB MAJOR
+
+La kovrilo de nia dua numero estas desegnaĵo de Emeriko Pérely,
+pentro-artisto.
+
+
+
+
+ANONCOJ:
+
+GRANDAJ LAŬ INTERKONSENTO!
+
+MALGRANDAJ:
+
+PO DU EMPRESOJ LA PREZO DE UNU NUMERO!
+
+PAGO NEPRE ANTAŬE!
+
+
+
+Nia sola semajna gazeto estas la
+
+ESPERANTO TRIUMFONTA
+
+Internacia! Semajna! Neŭtrala!
+
+Nepre abonu ĝin!
+
+Abonejoj en ĉiuj landoj
+
+Administracio:
+Horrem bei Köln, Germ.
+
+
+
+La evoluon de la grafikaj industrioj servas la interesa
+
+MAGYAR GRAFIKA
+
+(HUNGARA GRAFIKO)
+
+BUDAPEST VI, ARADI-UTCA 8
+
+Ĉiuj, kiujn interesas la grafiko de l' arto, mendu
+ĝin! Unu numero kostas hungara K 250.--
+
+
+
+
+MODERNAJ ROBINZONOJ!
+
+? ? ? ? ? ? ? ? ? ? ?
+
+
+
+INTERNACIA FOIRO EN PRAHA
+
+(Ĉeĥoslovakio)
+
+Informojn donas: PRAŽSKÉ VZORKOVÉ
+VELETRHY Staroměststká radnice PRAHA
+
+Esperanto korespondata!
+
+
+
+Nenia resaniĝo -- nenia pago!
+
+ASTMULOJ!
+
+PLI OL 20000 suferintoj pro astmo kronika,
+bronka, nerva, estas tute aŭ parte
+resanigitaj pere de
+
+VIVAMOL
+
+(antaŭe Vixol.)
+
+Tiu elpensaĵo de nia samideano E. Ĉefeĉ
+estas kuracilo plej taŭga por ĉiuj astmuloj.
+
+Ĝi enhavas nenian drogon danĝeran.
+
+Senpaga trisemajna provado!
+
+ONI BEZONAS AGENTOJN.
+
+Petu broŝuron de
+VIVAMOL, Ltd. III. Gt.
+PORTLAND St., LONDON W. I.
+
+
+
+Könyves Kálmán
+
+r.-t.
+
+Fama eldonejo de reproduktaĵoj por artaj bildoj!
+
+Desegnaĵoj, pentraĵoj de mondfamaj artistoj! Rekomendas siajn eldonaĵojn
+
+Petu ilustritan prezaron!
+
+Budapest VI, Nagymezö-utca 37-39
+
+
+
+ESPERANTO SERVICE CORPORATION „ESKO“
+
+500 FIFTH AVENUE NEW-YORK CITY
+
+Telegrafa adreso: ESPERANTO NEW-YORK
+
+Aĉeto, eksporto, importo kaj maklerado de ĉiuspecaj komercaĵoj
+
+Katalogoj, prezaroj kaj specimenoj estos danke ricevataj
+
+
+
+ORIENTO!
+
+Havigu al vi tuj la interesplenajn literatur-historiajn verkojn,
+kun tri-koloraj etnografiaj kartoj, en plej konciza Esperanto,
+laŭditaj de ĉiuj:
+
+  LA BULGARA LANDO KAJ POPOLO
+  LA NAJBAROJ DE RUSLANDO
+
+Kontraŭ 1 dol., 5 sv. fr., 10 fr. fr., 25 ĉ. kr., 500 g. mk. (laŭ
+la monvaluto de l' mendinto) sendas rekomendite la aŭtoro:
+
+IVAN H. KRESTANOFF
+
+Dresden-A., Wintergartenstrasse 9. Germanujo.
+
+
+
+Ĉiu konscia esperantisto devas esti membro de la oficiala mondorganizacio
+
+U. E. A.
+
+Aliĝu tuj ĉe la delegito de via loko aŭ ĉe la Centra Oficejo de
+
+  UNIVERSALA ESPERANTO ASOCIO:
+  12 BOULEVAND DU TÉÂTRE,
+  GENÈVE, SVISLANDO!
+
+
+
+CELULOIDO KAJ OJOGALITO
+
+ARTIKOLOJ DE OYONNAX, KOMBILOJ, HARBROĈOJ, BRAKRINGOJ, ORNAMPENDAĴOJ,
+FERMILOJ POR SAKETOJ KAJ ALIAJ
+
+  LÉON JANVIER
+  OYONNAX (AIN, FRANCUJO)
+
+
+
+Seriozaj, humoraj rakontoj, teatraĵeto, poemoj, noveloj.
+
+POR LA PREZO DE TIU ĈI NUMBERO
+
+aŭ por du 60 centimaj respondkuponoj:
+
+KVIN LEGINDAJ LIBRETOJ
+
+  Mendu tuj ĉe PAŬLO BALKÁNYI
+  Budapest, VI., Hajós-utca 15. Hungarujo.
+
+
+
+Bulgara ROZOLEO
+
+La fama bonodoraĵo por parfumaĵoj, sapoj, k.t.p. unuakvalita,
+pogrande kaj pomalgrande
+
+Specimena botelo kontraŭ 10 sv. fr. aŭ 25 fr. fr.
+
+  IVAN KRESTANOFF, Eksportoficejo
+  Wintergartenstrasse 9, Dresden-A., Germanujo.
+
+
+
+FAKULOJ ABONU LA OFICIALAN GAZETON
+
+  LA POLICISTO
+  KUN LA KONSTANTA ALDONO
+  LA POŜTISTO
+
+  REDAKCIO:
+  BUDAPEST, IX, ÜLLŐI-UT 59.
+
+
+
+  ARTPLENAJN FOTOGRAFAĴOJN
+  FARAS
+  DISKAY
+
+  BUDAPEST
+  VII., RÁKÓCZY-UT 72
+
+
+
+SENZACIO DE NIA LITERATURO!
+
+  La poemaro de
+  JULIO BAGHY
+  aperos.
+
+ABONPREZOJ:
+
+Simpla bela eldono Sv. franko 1. Luksa eldono kun portreto kaj
+subskribo de la poeto Sv. franko 2.
+
+Abonu kaj abonigu tuj!
+
+Sendu la abonprezon laŭeble en naciaj bankbiletoj aŭ iel ajn
+al la LITERATURA MONDO, BUDAPEST VI, ANDRÁSSY-ÚT 81
+
+
+
+  HUNGARA
+  NUTRAĴLIVERANTA
+  KAJ KOMERCA A. S.
+
+IMPORTO EKSPORTO
+
+  ADMINISTREJO:
+  BUDAPEST, V., FÜRDŐ-UTCA 2.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Literatura Mondo, numero 2, 1922
+Novembro, by Various
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LITERATURA MONDO, NUMERO 2 ***
+
+***** This file should be named 52063-0.txt or 52063-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/0/6/52063/
+
+Produced by Andrew Sly and Roel Haveman. Music prepared
+by Linda Cantoni.
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

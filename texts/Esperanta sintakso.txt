@@ -1,0 +1,3939 @@
+﻿The Project Gutenberg EBook of Esperanta sintakso, by Pa?lo Fruictier
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Esperanta sintakso
+       La? verkoj de S-ro D-ro Zamenhof kaj aliaj a?toroj
+
+Author: Pa?lo Fruictier
+
+Release Date: January 3, 2015 [EBook #47855]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ESPERANTA SINTAKSO ***
+
+
+
+
+Produced by Andrew Sly, Andrew Woods, Keith Edkins and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive)
+
+
+
+
+
+Kolekto de »Lingvo Internacia«
+
+Nº 3
+
+Komuna literaturo Nº 205.
+
+[Illustration]
+
+ESPERANTA SINTAKSO.
+
+Laŭ verkoj de S-ro D-ro ZAMENHOF kaj aliaj aŭtoroj.
+
+En Esperanto verkita de
+
+PAŬLO FRUICTIER
+
+redaktoro de »L. I.«
+
+----
+
+Kun prezenta letero de S-ro P-ro Th. Cart.
+
+[Illustration]
+
+
+ELDONOJ DE REVUO
+
+»LINGVO INTERNACIA«
+
+  Szegzárd, Hungarlando        Paris, 27 Boulevard Arago
+       Lengyel Pál.                 Paul Fruictier.
+                         1903.
+
+
+
+
+_AL SINJORO FRUICTIER._
+
+
+Kara Amiko!
+
+_Vi petis, ke mi prezentu vian libron al Esperantistaro. Prezentadon ĝi ne
+bezonas: ne sole ĉar la ĉefredaktoro de »Lingvo Internacia« jam elmontris
+sian valoron, sed precipe ĉar lia verko estas kunmetita laŭ principoj de
+severega metodo. Efektive, kio estas farita per Scienco kaj en ĝia nomo,
+tio tute ne bezonas patronadon, ĉar ne ekzistas pli alta._
+
+_Vi tre bone komprenis, ke, jam en ĝia nuna stato, Esperanto povas kaj
+devas esti studata kiel vera lingvo, kia ĝi estas; anstataŭ trudi regulojn,
+niajn regulojn al la lingvo, ni devas ilin ĉerpi el ĝi mem, t. e. el verkoj
+de D-ro Zamenhof kaj de plej bonaj Esperantistoj. Kaj ke tiuj leĝoj estas
+larĝaj, tio ne mirigis vin nek min, nek ankaŭ mirigos tiujn, kiuj komprenas
+la spiriton de la lingvo kaj la kaŭzojn kaj kondiĉojn de ĝia triumfo._
+
+_Ĉu do estas necese post tio aldoni, ke vi ne intencis, eĉ unu momenton,
+korekti tion, kio okaze ne plaĉis al vi? Vi ne imitis tiun faman
+kuraciston, kiu, ne trovinte korpon de infano konforma je proporcioj
+juĝataj de li normalaj, mallongigis la krurojn, elkurbigis la bruston,
+rektigis la ŝultrojn kaj ovaligis la kapon tiel, ke la infano, iĝinte
+perfekta, pro sia perfektiĝo mortis._
+
+_Ni do vivigu Esperanton tian, kia ĝi estas: ne venis ankoraŭ tempo ĝin
+korekti. Tiujn samajn principojn ni havas, kara Amiko, kaj, konservante
+tamen rajton libere juĝadi, konforme al ili ni laboros._
+
+_Via_
+
+_TH. CART._
+
+_Parizo, la 24-an de junio 1903._
+
+
+
+
+Kelkaj vortoj de l' aŭtoro.
+
+
+Esperanto fariĝis viva lingvo, uzata skribe kaj buŝe de plej diverslingvaj
+homoj. Elpruvite praktike por multaj fakoj el ĉiutaga vivo, la lingvo
+aperis kiel plej riĉa kaj simpla, poezia kaj klara samtempe. Tio kredeble
+kaŭzis, ke dum ĝia dekses jara ekzistado, ĝi konservis sen ia difekto sian
+propran »spiriton« internacian, egale kompreneblan por ĉiuj popoloj.
+
+Tiun spiriton ĝisnunaj Esperantistoj (aŭ almenaŭ plej multo el ili) akiris
+per zorga legado de diversaj verkoj el nia »Biblioteko«; tion ili povis
+fari nur per longa persona laborado, pro manko de plenaj lernolibroj kaj
+vortaroj.
+
+Sed hodiaŭ, kiam multegaj personoj ekiras nian »rondon familian« kaj pli
+kaj pli celas per tio ricevi nur plej rapidan profiton, oni plu ne havos
+tempon aŭ povon fari tiun saman laboron; sekve oni vole-nevole enkondukos
+naciajn apartaĵojn en nian lingvon kaj riskos tiel ĝin difekti.
+
+Jen kial mi decidis publikigi tiun libreton. Certe mi ne celas senutiligi
+naciajn lernolibrojn aŭ sennecesigi personan legadon de niaj verkoj: _ĉio
+tio ĉi estos ĉiam utila por lerni lingvon internacian, kiel nacian_; sed mi
+volas helpi al verkado de plenaj naciaj lernolibroj aŭ al tralegado
+fruktodona de Esperantaj libroj, difinante kaj fiksante leĝojn, kiujn
+doktoro Zamenhof ne volis doni »el katedro«, sed proponis modeste per
+ekzemploj.
+
+Oni eble trovos, ke tiu verketo mankas planon kaj formon; oni renkontos
+troaĵojn, ripetitaĵojn; oni plendos pri mankoj; tion ĉi mi scias tiel bone,
+kiel iu ajn, sed ĝin mi volis iom: _unue_, por ne atendigi senfine la
+publikon; _due_, ĉar mi plej zorge klarigis kaj (por oportuneco) ripetis
+punktojn, pri kiuj oni plej ofte demandis min de l' tempo, kiam mi faras
+kursojn kaj estas redaktoro de »Lingvo Internacia«; _trie_, ĉar estis
+necese klarigi detale, ekzemple por franco, tion, kio ŝajnas tute natura al
+anglo aŭ germano; _fine_, mi konfesas, ĉar tiu verketo estas en mia ideo
+nur parto de alia pli plena kaj pli grava, kiun mi faros, se tion permesos
+al mi la estonto.
+
+Kiel oni vidos, mi donis kiel certa nur tion, kio efektive estas certa laŭ
+ĝenerala uzado, aŭ laŭ vortoj aŭ ekzemploj de Doktoro Zamenhof. Kiam tio ĉi
+povis esti interesa, mi citis detale fontojn de miaj ekzemploj: senutile
+estas diri, ke mi ne permesis al mi krei ekzemplojn por bezonoj de ia temo:
+tio apartenas nur al aŭtoro mem de la lingvo, ne al alia. Escepto tamen
+estas farita _unue_ por tiuj reguloj, kiuj estas pure gramatikaj aŭ neniel
+disputataj, _due_ por kelkaj paragrafoj en parto dediĉita al artikolo.[1]
+
+Miajn ekzemplojn mi tiris unue el _verkoj de Doktoro Zamenhof_, precipe el
+»Ekzercaro« kaj »Hamleto«, kiujn ĉiu povas ankoraŭ nun aĉeti; mi devas
+tamen diri, ke mi uzis la unuajn eldonojn de tiuj verkoj, ĉar en ili ne
+estas alportitaj ŝanĝoj de aliaj personoj. Poste, mi prenis ankaŭ miajn
+ekzemplojn el _verkoj de aliaj malnovaj Esperantistoj_, aŭ ĉar mi havis
+ilin antaŭ okuloj, aŭ ĉar citebla frazo pli bone klarigas regulon. Nomon de
+tiuj personoj oni trovos citita en la verko mem; tie ĉi mi diros nur, ke mi
+trovis grandan helpon precipe en bonegaj lernolibroj aŭ skizoj gramatikaj
+de S-roj Einstein, de Beaufront, Cart, da Costa, Gernet, Kofman, Nylén,
+Villareal, kaj aliaj[2].
+
+Fine, mi devas diri, ke mi ne pretendas doni tie ĉi ĉiujn regulojn, ekster
+kiuj oni devige skribos malbone en Esperanto; eĉ mi ne diras ke oni devige
+skribos malbone, se oni iros kontraŭ ili, sed certe oni ricevos de ili
+helpon. Oni ja trovas en bonaj aŭtoroj ankaŭ kelke da maloftaj aliaj
+skribmanieroj, sed mi ne parolis aŭ ne prenis ilin pro ilia tro malgranda
+uziteco, kvankam kelkaj tre plaĉas al mi.
+
+Resume, mi verkis tiun libreton, trudinte al mi unu regulon: _konstati ne
+proponi_; kaj per tio ĉi, mi kredas esti fidela al la observa metodo, kiu
+regas lingvajn sciencojn, kiel aliajn naturajn. Kaj se iu estas terurigita
+de ŝajna longeco aŭ komplikeco de tiu sintakso, tiel simpla tamen rilate al
+aliaj lingvoj kaj nesimpla absolute nur pro diverseco de niaj naciaj
+kutimoj, tiam mi konsilos ke li zorge meditadu tiujn ĉi principojn, kiujn
+donis S-ro Cart en sia supera kurso ĉe Pariza Sorbonno.
+
+1. Esperanto, estante kapabla ĉion esprimi, devas unue esti plej facile
+akirebla de mezinstruaj homoj.
+
+2. Logiko helpas igi lingvon facila, sed ne absolute: ĝi devas, laŭ supra
+principo, cedi se bezone antaŭ iaj lingvaj kutimoj komunaj ĉe Eŭropaj
+popoloj, kaj kiujn Esperanto tute ne celas korekti.
+
+3. La principo de internacieco, kiam tiu ĉi estas absoluta, devas do ĉiam
+superi ĉiujn aliajn.
+
+4. En Esperanto estas nur: _a_) unu stila regulo: skribi plej klare. Kio
+estas klara, tio povas esti nekorekta, sed neniam malbona; _b_) unu
+malpermeso: skribi malklare. Kio ne estas klara, tio povas iafoje esti
+korekta, sed neniam bona.
+
+5. Ekster supraj reguloj estas nur personaj opinioj aŭ kutimoj, ofte
+interesaj kaj respektindaj, eĉ uzindaj kiel modeloj, sed kiuj ne povas esti
+trudataj kiel leĝoj.
+
+Parizo, 26-a de majo 1903.
+
+PAUL FRUICTIER.
+
+
+
+
+MALLONGIGOJ.
+
+
+Komunaj:
+
+  _e._          = ekzemple.
+  _k. a._       = kaj aliaj.
+  _k. c._       = kaj ceteraj.
+  _k. s._       = kaj similaj.
+  _k. sekv._    = kaj sekvantaj.
+  _k. t. p._    = kaj tiel plu.
+  _t. e._       = tio estas.
+  _D-ro, Dº_    = Doktoro.
+  _Frl., F-ino_ = Fraŭlino.
+  _K-io, Kº_    = Kompanio.
+  _n-ro, Nº_    = numero.
+  _P-ro, Pº_    = Profesoro.
+  _S-ro, Sº_    = Sinjoro.
+  _S-ino_       = Sinjorino.
+
+  En serio da similaj kunmetitaj vortoj oni skribas ofte:
+
+  _Rus-_, _Svis-_, _Turk-_, _Svedlando_ = Ruslando, Svislando, Turklando,
+  Svedlando.
+
+  _Rusl._ = Ruslando.
+
+  _El- kaj enportado_ = elportado kaj enportado.
+
+Specialaj por tiu libro:
+
+  _Z._ = »Ekzercaro« de Doktoro Zamenhof.
+
+  _Haml. IV. 2._ = Hamleto, en akto 4-a, sceno 2-a.
+
+  _Esperantisto 38/27_ = paĝo 27-a en Nº 38-a.
+
+  _Mary. XX. 7._ = Princino Mary (de Sº de Wahl), paĝo 20-a, linio 7-a.
+
+  _K. T._ = Kvar Tagoj, de Sº Kazi-Girej.
+
+  Aliaj verkoj estas nome cititaj.
+
+  _L. I._ = revuo »Lingvo Internacia«.
+
+  Interkrampaj nombroj montras ordajn numerojn de paragrafoj, kiujn oni
+  konsilas legi.
+
+[Illustration]
+
+
+
+
+ESPERANTA SINTAKSO.
+
+
+
+
+I.
+
+DIFINO DE VORTOJ.
+
+
+1. SINTAKSO montras kiamaniere vortoj interligiĝas por formi ĉenon de
+parolado.
+
+2. PAROLADO konsistas el propozicioj.
+
+3. PROPOZICIO estas aro da vortoj, per kiu oni certigas (aŭ demandas) agon,
+staton aŭ econ pri persono aŭ afero. Plena propozicio konsistas el du ĉefaj
+partoj (aŭ terminoj):
+
+4. SUBJEKTO pri kiu oni certigas ion;
+
+   PREDIKATO, afero, kiun oni certigas pri subjekto.
+
+  RIM. 1. Subjekto povas iafoje ne esti esprimata. E.: _Pluvas_, _fulmas_.
+
+       2. Iafoje propozicio estas neplena, kiam mankas unu el la terminoj.
+
+  Tiam mankanta termino povas facile esti divenata per ĉenigo de ideoj,
+  ekzemple en respondoj.
+
+5. SUBJEKTO de propozicio estas ĉiam: _a_) _unu substantivo_ (aŭ kelkaj
+substantivoj); _b_) aŭ alia vorto uzata substantive, nome: _pronomo_ (mi),
+_adjektivo_ (mia kara, mia belo estis brava, juna dano,—tri fratoj vivis
+amike; unu mortis), _infinitivo_ (mensogi estas honte); _c_) aŭ _vorto de
+alia klaso_ uzata, kiel materia esprimo de ĝia propra formo (kiel—la vorto
+_kiel_ estas uzata post _tiel_.)
+
+  RIM. Oni povas ankaŭ preni enhavon de tuta propozicio por subjekto de
+  sekvanta propozicio: _Estas agrable al mi, ke vi aĉetis tiun domon_. Tie
+  ĉi »_ke vi aĉetis_« estas la subjekto.
+
+6. PREDIKATO estas _a_) _predikateca verbo_, kiu montras per si mem en
+difinita maniero ian agon, ian staton, ian econ. E.: _Arbo kreskas,
+verdiĝas_;
+
+_b_) _aŭ ne predikateca verbo_, kiu ne montras per si mem difinitan agon,
+sed estas akompanata de adjektivo, participo aŭ substantivo predikateca
+(difinanta kaj priskribanta subjekton). E.: _urbo estas belega_; _kolombo
+estas birdo_; k. t. p. Tion oni nomas disigita predikato.
+
+7. Predikato povas esti pli precize difinata de adverbo, aŭ de substantivo
+(aŭ vorto uzata substantive) regata de prepozicio. Tio utilas por montri
+objekton[3] de ago kaj apudajn cirkonstancojn. E.: _Cesaro venkis Pompeon
+en granda batalo_.
+
+8. Substantivo povas esti difinata pli precize per aldono de alia
+substantivo aŭ substantivaĵo. E.: _Tarkvino, reĝo de Romanoj._ Tion oni
+nomas apudmeto.
+
+9. Al ĉiu substantivo oni povas aldoni adjektivojn aŭ participojn, kiuj ili
+ankaŭ povas esti difinataj de aliaj substantivoj.
+
+  E.: _Homo mortiginta sian patrinon estas granda krimulo. Homo utila je
+          sia lando mortis._
+
+  RIM. 1. Adjektivo, aldonita sen ia pero al substantivo, estas nomata
+  apudmetita por ĝin distingi de tiu, kiu estas aldonita per pero de verbo
+  esti. E.: _homo bona_ (adj. apudmetita), _homo estas bona_ (adj.
+  predikateca).
+
+       2. Al substantivo oni povas ankaŭ aldoni aliajn vortojn por ricevi
+  ian difinon: _la_, _tiu_, _ĉiu_, k. c.
+
+
+
+
+II.
+
+ARTIKOLO.
+
+I. UZADO ĜENERALA.
+
+10. Artikolo »_la_, _l'_« neniam povas esti en multenombro aŭ en akuzativo.
+Oni uzas ĝin nur por difini vortojn, t. e. por montri, ke oni parolas pri
+konata, preciza afero, apartigita de ĉiuj aliaj similaj aferoj.
+
+Se oni parolas pri ia ajn ne konata, komune aŭ ne precize difinita afero,
+tiam oni uzas neniam »_la_«. En tiaj okazoj oni povas ofte meti antaŭ la
+vorto (pense aŭ efektive) unu el vortetoj »_unu_, _ia_, _kelka_«, aŭ el
+esprimoj »_iom da_, _kelke da_« k. s.
+
+La celo de artikolo »_la_« estas pli klarigi frazon, malhelpante, ke oni
+konfuzu priparolatan aferon kun alia simila. Tial oni povas ofte neuzi tiun
+vorteton, kiam ĝi efektive ne klarigas la ideon kaj kiam ni estas allogataj
+uzi ĝin nur pro nacia kutimo. _La sola kondiĉo estas, ke la frazo restu
+ĉiam plej klara._
+
+Se oni estos embarasata, prefere estas neuzi artikolon ol ĝin trouzi. Manko
+da artikolo estas ja malpli malagrabla ol superfluo. Aliparte estas pli
+bone skribi plej mallongajn frazojn.
+
+Sed la unua, ĉefa regulo estas: skribi plej kompreneble por ĉiuj. Oni do ne
+ŝanceliĝu uzi artikolon, se ĝi ŝajnas iom pli klarigi kaj faciligi frazon;
+aŭ almenaŭ oni ŝanĝu formon de tiu frazo, se oni ne volas uzi artikolon pro
+ia kaŭzo.
+
+  RIM. 1. Ni esploru jenajn ekzemplojn: Unu vidvino havis du filinojn. La
+  pli maljuna estis simila al la patrino (Z.), kaj: La domo, en kiu oni
+  lernas, estas lernejo (Z.). Oni tuj vidas, ke »_la_« estas utila nur por
+  belsoneco kaj insisto, sed ne necesa. »_Maljuna, patrino_« estas jam bone
+  difinitaj de »_unu vidvino havis du filinojn_«; »_domo_« estas jam bone
+  difinita de »_en kiu oni lernas_«.
+
+       2. Sed ni esploru jenajn frazojn: Venigu la kuraciston, ĉar mi estas
+  malsana, kaj: Mi aĉetis por la infanoj tableton kaj kelke da seĝetoj,
+  (Z.) oni vidas, ke artikolo estas nepre necesa por komprenigi klare kaj
+  rapide la ideon. Se ni dirus: »_venigu kuraciston_«, oni povus kredi ke
+  ni volas ian ajn kuraciston. Per »_la_« ni montras: »_venigu tiun
+  kuraciston, kiun ni konas_«, aŭ »_kiu jam kuracis nin_«. Simile: »_mi
+  aĉetis por infanoj tableton_« signifus, ke tiuj infanoj estas iaj ajn
+  infanoj, sed ne la niaj aŭ tiuj, pri kiuj ni jam parolis.
+
+
+II. UZOJ APARTAJ.
+
+11. Ofte oni uzas »_la_« antaŭ nomo de unu individuo, unu afero, por
+montri, ke oni celas la tutan genton.
+
+  E.: _La riĉulo havas multe da mono_ (Z.), t. e. ĉiuj riĉuloj.
+
+      _La botisto faras botojn kaj ŝuojn_ (Z.) t. e. ĉiu botisto.
+
+      _Oni diras, ke la vero ĉiam venkas_ (Z.).
+
+      _En la arbaro, en la historio, en la urbo, sur la kamparo_, k. t. p.
+
+12. Simile antaŭ vorto en multenombro »_la_« povas montri ĉiujn estaĵojn
+apartenantajn al la klaso citata.
+
+  E.: _La ŝipanoj devas obei la ŝipestron_ (Z.), t. e. ĉiuj ŝipanoj.
+
+      _La Parizanoj estas gajaj homoj_ (Z.) t. e. en ĝenerala maniero, ĉiuj
+          homoj loĝantaj en Parizo estas gajemaj.
+
+13. Kiam la senco restas komprenebla, oni povas en tiaj okazoj forigi
+»_la_«.
+
+  E.: _Vitro estas rompebla kaj travidebla._ (Z.)
+
+      _Verkisto verkas librojn kaj skribisto simple transskribas paperojn._
+          (Z.)
+
+      _Luteranoj kaj Kalvinanoj estas Kristanoj._ (Z.)
+
+      _Urbanoj estas ordinare pli ruzaj ol vilaĝanoj._ (Z).
+
+      _En urbo, en historio, en arbaro, sur kamparo, en filozofio_, k. c.
+
+
+III. PROPRAJ NOMOJ.
+
+14. Oni plej ofte ne uzas artikolon »_la_« antaŭ propra nomo. Tion oni ne
+faras ankaŭ por la vortoj: Sinjoro, Sinjorino, Fraŭlino, kaj similaj,—aŭ
+por nomoj de profesio, rango, k. c. sekvataj de propra nomo.
+
+  E.: _Li fianĉiĝis kun fraŭlino Berto._ (Z.)
+
+      _Esperanto estas kreita de Doktoro Zamenhof._
+
+      _Imperiestro Vilhelmo II-a reĝas en Berlino._
+
+15. Kiam estas adjektivo aŭ substantivo antaŭ propra nomo, tiam oni povas
+uzi artikolon »_la_«.
+
+  E.: _Antaŭ hieraŭ estis granda movado en Varsovio, aŭ pli vere en la tuta
+          Eŭropo._ (Grabowski, Nova Jaro.)
+
+      _Li aŭdis pri nia lingvo per la granda lingvisto Doktoro Gabrielo
+          Bálint._ (P. Nylén, Lingvo Internacia, 28.)
+
+  RIM. Oni trovos grandan konfuzaĵon en la aŭtoroj, eĉ plej bonaj, pri uzo
+  de artikolo »_la_« antaŭ propra nomo. Regulo plej simpla estas: demandi
+  ĉu uzo de artikolo aldonas ion necesan por malhelpi malkomprenon? Oni
+  devas konfesi, ke preskaŭ ĉiam »_la_« estas tute ne utila antaŭ propra
+  nomo, ĉar neeble estas konfuzi estaĵon, aferon aŭ personon nome cititan
+  kun alia. Tial varme konsilinde estas uzi neniam artikolon antaŭ propra
+  nomo, eĉ antaŭigata de adjektivo aŭ substantivo, escepte, kiam (tre
+  malofte) oni povos trovi ian profiton en ĝia uzo. Tial inter jenaj frazoj
+  el »Ekzercaro« de Doktoro Zamenhof: »_La doktoredzino A. vizitis hodiaŭ
+  la gedoktorojn P._« kaj »_Gesinjoroj N. hodiaŭ venos al ni_«, la dua
+  estas tre preferinda.
+
+16. Kiam propra nomo estas uzata en senco komuna, tiam oni uzas kompreneble
+artikolon, kiel por aliaj komunaj nomoj.
+
+  E.: _La turko ekpafis al mi_,—t. e. tiu turko, pri kiu mi parolis.
+
+      _La rusoj loĝas en Rusujo._
+
+      _La Tolstoj estas maloftaj_,—t. e. homoj kiel Tolstoj.
+
+      _Calderon estis la Aristofano de Hispanujo_,—t. e. Calderon ludis en
+          Hispanujo saman rolon, kian Aristofano ludis en Grekujo.
+
+
+IV. GRADOJ DE KOMPARO.
+
+17. Oni uzas laŭvole artikolon »_la_« en gradoj de komparo. Tamen oni
+renkontas ĝin pli ofte kun »plej«, ol kun »pli«.
+
+  E.: _El ĉiuj miaj infanoj Ernesto estas la plej juna._ (Z.)
+
+      _Kial? demandis mi kun elvido de la plej pura simplanimeco._ (Mary
+          14.)
+
+      _Kelkaj homoj sentas sin la plej feliĉaj, kiam ili vidas la suferojn
+          de siaj najbaroj._ (Z.)
+
+           _Plej bona estos, se vi ĝin forgesos!
+           Ekzistas en ĉiel' kaj sur la tero
+           Pli da aferoj, ol en la lernejoj
+           Instruas filozofoj, Horacio._ (Haml. I. 5.)
+
+      _Ke mi forte vin amas, ho plej kara mia, tion ĉi kredu al mi._ (Haml.
+          II. 2.)
+
+      _La mallaŭdo de tia persono devas esti pli grava ol la aplaŭdado de
+          alia._ (Haml. III. 2.)
+
+      _Via pano estas malpli freŝa ol mia._ (Z.)
+
+  RIM. 1. La supra regulo koncernas nur la terminojn de l' komparo, sed ne
+  la komparilojn mem (pli, malpli). Oni ja uzas »la pli«, »la malpli«, nur
+  por montri superlativon inter du aferoj: »_unu vidvino havis du filinojn;
+  la pli maljuna_ ...« (Z.)
+
+       2. »_La_« oni ordinare ne uzas antaŭ »plej, malplej«, kiam tiuj
+  vortoj rilatas verbon: »_Li estas la homo, kiun mi plej admiras._«
+
+
+V. ANTAŬ ADJEKTIVO.
+
+18. Kiam adjektivo difinas substantivon esprimitan, reguloj estas samaj,
+kiaj por substantivo sola.
+
+19. Kiam adjektivo estas sola, t. e. kiam la substantivo, kiun ĝi difinas,
+ne estas esprimita, tiam oni uzas ofte artikolon antaŭ la adjektivo.
+
+  E.: _Ili batis unu la alian._ (Beaufront.)
+
+      _Jen estas via ĉapelo kaj jen la mia._
+
+           _... Alie kiu volus elportadi
+           La mokojn kaj la batojn de la tempo,
+           La premon de l' potencaj, la ofendojn
+           De la fieraj, falson de la juĝoj...?_ (Haml. III. 1.)
+
+  RIM. Kontraŭan uzon oni renkontas:
+
+    _Ne estas vi sensenca, ĉar alie
+    Nenion vi decidus; sed la senco
+    En vi sendube tute malsaniĝis,
+    Ĉar eĉ freneza tie ne erarus._ (Haml. III. 4.)
+
+
+20. Preskaŭ ĉiam oni uzas »_la_« antaŭ nombra adjektivo montranta tagon,
+horon, vicon, k. c. kiam la vorto »tago, horo« k. c. ne estas esprimita.
+(75.)
+
+  E.: _Januaro estas la unua monato de la jaro, aprilo estas la kvara,
+          novembro estas la dek-unua, decembro estas la dek-dua._ (Z.)
+
+      _Hodiaŭ estas la dudeksepa (tago) de marto._ (Z.)
+
+21. Iafoje artikolo »_la_« antaŭ adjektivo (kaj antaŭ substantivo komuna)
+servas por igi ĝin propra nomo.
+
+  E.: _La patro adoras nur la Nevideblan._ (Kofman, Kain, I. 1.)
+
+      _Preĝu al la Sankta Virgulino._ (Z.)
+
+      _Demandu vin la Kreanton._ (Kofman, Kain, I. 1.)
+
+
+VI. SEZONOJ, MONATOJ, TAGOJ, FESTOJ.
+
+22. Antaŭ nomo de sezono oni uzas laŭvole »_la_«.
+
+  E.: _En la vintro oni hejtas la fornojn._ (Z.)
+
+      _En somero ni trovas malvarmeton en densaj arbaroj._ (Z.)
+
+23. Por monatoj kaj tagoj de semajno oni ordinare uzas artikolon nur se
+kunestas alia komuna vorto.
+
+  E.: _Hodiaŭ estas sabato kaj morgaŭ estos dimanĉo._ (Z.)
+
+      _Januaro estas la unua monato de la jaro._ (Z.)
+
+      _Mi iros la proksiman ĵaŭdon._ (Cart, Esp. en 10 lec. V.)
+
+      _Monato septembro estis pluvoriĉa._
+
+      _Ni kutime iras sur la kamparon dum la monatoj julio kaj aŭgusto._
+
+  RIM. 1. Oni povas agi por tiuj nomoj, kiel por la propraj. Tamen oni
+  atentu bone esprimi sian penson. En la frazo: »_mi iros la proksiman
+  dimanĉon_«, multaj komprenas: »_la plej proksiman dimanĉon_«, kion ili ne
+  faras per »_mi iros proksiman dimanĉon_«. Aldoni tie la vorton »_plej_«,
+  estus do utile.
+
+       2. Ne konsilinde estas uzi »_la_« anstataŭ »_ĉiu_«, kiel ekzemple en
+  la frazo: »_En la dimanĉo mi restas hejme_« (Cart), ĉar senartikolaj
+  popoloj povus ne kompreni tiun formon. Multe pli klare oni diras: »_Mi
+  restas hejme en ĉiu dimanĉo_ aŭ _ĉiudimanĉe_«.
+
+24. Tago de festo estas nomata en Esperanto laŭ jena maniero: Paŭla festo,
+Paŭla tago, Tago de Sankta Petro, k. t. p.; oni do ne devas diri, kiel en
+kelkaj lingvoj: La Sankta Petro.
+
+
+VII. ALIAJ OKAZOJ.
+
+25. En citado de nomoj oni povas laŭvole ripeti aŭ ne ripeti »_la_« antaŭ
+ĉiu aparta substantivo aŭ adjektivo.
+
+  E.: _La arboj, floroj kaj kreskaĵoj de tiu ĝardeno estas belaj._
+
+      _La saĝa, elokventa kaj lerta advokato diris._
+
+  aŭ: _La arboj_, _la floroj_, k. c.
+
+           _Sed de l' tabulo de memoro mia
+           Forviŝu mi mem ĉion, kio restis,
+           Sentencojn ĉiujn el la libroj, ĉiujn
+           Pentraĵojn, postesignojn, kiujn lasis
+           Sur ĝi la pasintaĵo kaj juneco,
+           Observojn kaj la spertojn de la vivo._ (Haml. I. 5.)
+
+26. Antaŭ infinitivo oni ne uzas artikolon. Ne diru do: »la manĝi kaj la
+trinki estas necesaj por la vivi«, sed: »manĝi kaj trinki ...«, aŭ: »la
+manĝado kaj la trinkado ...« (167. R. 1.)
+
+27. Post vortoj »kies, ĉiu, ĉiuj« oni ne uzas artikolon.
+
+  E.: _La domo, kies tegmenton vi vidas, apartenas al mia patro._
+          (Beaufront.)
+
+      _La matenaj trinkantoj de akvo estas lacaj, kiel ĉiuj malsanaj; kaj
+          la trinkantoj vinon vespere estas neelporteblaj, kiel ĉiuj
+          sanaj._ (Mary XI.)
+
+28. Oni povas apostrofi artikolon: _a_) post prepozicio finata de vokalo;
+_b_) antaŭ vokalo (Zamenhof, Esperantisto 44); _c_) neniam antaŭ _h_, kiam
+la antaŭiranta vorto ne finiĝas per vokalo. (Beaufront.)
+
+
+VIII. KVANTO, ECO, UNU, IA.
+
+29. Kiam vorto estas uzata en senco parta, t. e. kiam oni celas montri iom
+da io, kelkajn erojn da io, oni ne uzas artikolon »_la_«.
+
+30. Antaŭ vorto uzata en tia senco oni uzas nenian alian vorteton, kiam la
+ideo rilatas pli la naturon, la econ de l' afero, ol ĝian kvanton.
+
+  E.: _Donu al la birdoj akvon, ĉar ili volas trinki._ (Z.)
+
+31. Se kontraŭe oni celas aparte kvanton, oni tiam uzas esprimojn: »iom da,
+kelke da«, k. s. (kun nominativo).
+
+  E.: _En la ĉambro sidis nur kelke da homoj._ (Z.)
+
+      _Mi memoris, ke mi ankaŭ faris kelke da pafoj._ (K. T. 3.)
+
+32. »_Unu_« oni uzas ordinare nur por kalkuli, por montri, ke estas unu, ne
+kelkaj estaĵoj. Iafoje tamen ĝi estas uzita, kiel nedifina artikolo, sed
+malofte.
+
+  E.: _Unu vidvino havis du filinojn._ (Z.)
+
+33. »_Ia_« ludas ankaŭ iafoje rolon de nedifina artikolo, kiam oni volas
+insisti pri nedifiniteco de priparolata afero.
+
+  E.: _Iaj strangaj sonoj atingas min ... kvazaŭ iu ĝemas._ (K. T. 5.)
+
+
+Tabelo unuvida
+
+pri difino de vorto per artikolo »la«.
+
+  +===================================================================+
+  |                                »LA«                               |
+  |                           difinas vorton,                         |
+  |             t. e. apartigas ĝin de aliaj ĝiaj similaj:            |
+  +-------------------------------------------------------------------+
+  |_A._ Rememorigante, ke oni konas ĝin aŭ ĵus parolis pri ĝi.        |
+  |                                                                   |
+  |  E.: Mi ektrinkis: la akvo estis varma (_K. T. 9_),               |
+  |        t. e. _tiu_ akvo.                                          |
+  |                                                                   |
+  |      Jen estas la pomo, kiun mi trovis (_Z._), t. e.              |
+  |        _tiu_ pomo, kies trovon mi jam anoncis.                    |
+  +-------------------------------------------------------------------+
+  |_B._ Resumante antaŭan detalan priskribon.                         |
+  |                                                                   |
+  |  E.: La najbaro fariĝis en tiu ĉi tago ne priskribeble timiga     |
+  |        (_K. T. 13_), t. e. _tiu_ najbaro, pri _kiu_ mi jam        |
+  |        skribis multajn paĝojn.                                    |
+  +-------------------------------------------------------------------+
+  |_C._ Anoncante tujan klarigon.                                     |
+  |                                                                   |
+  |  E.: La plena pentraĵo ekflamas en mia imago: ĝi estis            |
+  |        antaŭ longe ... k. t. p. (_K. T. 7._)                      |
+  +-------------------------------------------------------------------+
+  |_D._ Montrante, ke objekto priskribata apartenas al nomita         |
+  |        persono aŭ objekto.                                        |
+  |                                                                   |
+  |  E.: Mi malkovras la okulojn (_K. T. 7_), t. e. _miajn_ okulojn.  |
+  |                                                                   |
+  |      La bajoneto eniris al li rekte en la koron (_K. T._)         |
+  |        t. e. _lian_ koron.                                        |
+  +-------------------------------------------------------------------+
+  |_E._ Montrante tutan genton, aŭ almenaŭ plej grandan parton.       |
+  |                                                                   |
+  |  E.: La rusoj loĝas en Rusujo. (_Z._)                             |
+  +-------------------------------------------------------------------+
+  |_F._ Igante vorton komunan nomo propra, aŭ preskaŭ propra,         |
+  |       tiel ĝi estas apartigita de aliaj.                          |
+  |                                                                   |
+  |  E.: La suno brilas. (_Z._)                                       |
+  |                                                                   |
+  |      La Plejpotenca faru nian venon al li saniga. (_Z._)          |
+  +===================================================================+
+
+
+
+
+III.
+
+SUBSTANTIVO.
+
+I. RILATOJ KUN VERBO.
+
+34. SUBJEKTO. Substantivo, kiu estas subjekto de verbo, povas havi nur
+formojn _o_ en ununombro, _oj_ en multenombro. (Nominativo.)
+
+Oni vidas, ke substantivo estas subjekto de ia verbo (4-5), metante _kiu_,
+_kio_ antaŭ tiun verbon. La vorto, per kiu oni respondas, estas la subjekto
+(= kiu faras la agon, kiu, kio estas aŭ fariĝas tia).
+
+  E.: _La riĉulo havas multe da mono._ (Z.) Kiu havas multe da mono? La
+          riĉulo. »La riĉulo« estas do subjekto.
+
+      _Papero estas blanka._ (Z.) Kio estas blanka? La papero.
+
+      _De timo paliĝis Antono._ Kiu de timo paliĝis? Antono.
+
+      _Miaj fratoj batis min._ Kiu batis min? Miaj fratoj.
+
+35. REKTA KOMPLEMENTO. Substantivo, kiu estas rekta komplemento de verbo
+(sen antaŭesto de prepozicio), povas havi nur formojn _on_ en ununombro kaj
+_ojn_ en multenombro. (Akuzativo.)
+
+Oni vidas, ke substantivo estas rekta komplemento de verbo, metante _kiun_,
+_kion_ post tiu verbo. La substantivo, per kiu oni respondas, estas la
+rekta komplemento.
+
+  E.: _Diru al mi vian nomon._ Diru kion? Vian nomon. »Vian nomon« estas do
+          rekta komplemento.
+
+      _Mi havas bovojn._ Mi havas kion? Bovojn.
+
+      _Lernolibron oni devas ne tralegi, sed tralerni._ (Z.) Oni devas
+          tralerni kion? Lernolibron.
+
+  RIM. 1. Oni vidas per supraj ekzemploj, ke subjekto povas esti post sia
+  verbo, kaj komplemento antaŭ sia verbo. Ne metu do ĉiam en akuzativon la
+  vorton, kiu estas post la verbo.
+
+       2. Rekta komplemento de verbo aktiva fariĝas subjekto, se oni metas
+  la verbon en pasivan formon. E.: _Mia patro amas min_ = _mi estas amata
+  de mia patro_.—_Mi posedas hundon_ = _hundo estas posedata de mi_. Tial
+  oni komprenas, kial »esti« kaj aliaj stataj verboj ne povas havi rektan
+  komplementon ĉar ili ne posedas pasivan formon. (140.)
+
+36. NEREKTA KOMPLEMENTO. Vorto, kiu estas sub influo de prepozicio (nerekta
+komplemento), havas ĉiam nominativan formon, escepte en okazo de almovo.
+(117, 118, 119.)
+
+  E.: _Donu al la birdoj akvon._ (Z.)
+
+      _De la patro mi ricevis plumon._ (Z.)
+
+      _Venu kune kun la patro._ (Z.)
+
+      _Mi trinkis teon kun kuko kaj konfitaĵo._ (Z.)
+
+  RIM. 1. Rimarku precipe lastan ekzemplon. _Kuko_, _konfitaĵo_ dependas de
+  »_kun_«, prepozicio; ili do estas en nominativo (cetere kukon kaj
+  konfitaĵon oni ne trinkas). Sed oni dirus: »_mi trinkis teon kaj kafon_«,
+  ĉar »kaj« ne estas prepozicio.
+
+       2. Tiu eco de Esperantaj prepozicioj (ĉiam regi nominativon) povas
+  iafoje kaŭzi konfuzaĵon, se oni ne zorgas pri konstruo de sia frazo. D-ro
+  Zamenhof diras (Dua Libro, 46): »ĝi estas trompi la landon kune kun la
+  reĝidino«. Oni povas tiel bone kompreni, ke la reĝidino trompas, aŭ ke ŝi
+  estas trompata. Se ĉirkaŭantaj frazoj ne klarigas tiun ĉi, oni do devas
+  ĝin ŝanĝi, ekzemple tiel: »ĝi estas trompi la landon kaj kune la
+  reĝidinon«, aŭ: »ĝi estas trompi la landon kun helpo de la reĝidino«.
+
+  Tial frazoj kiel: »mi vidis vin kun via amiko« estas malbonaj, ĉar oni
+  demandas sin, ĉu »mi kaj via amiko vidis vin«, aŭ ĉu »mi vidis vin kaj
+  vian amikon kun vi«. Tia konfuzo ekzistas en naciaj lingvoj, kiam oni ne
+  zorgas bone konstrui sian frazon. (_Laŭ rimarko de F. Chaufoureaux, en_
+  Lingvo Internacia, _n-ro 25._)
+
+37. FORIGO DE PREPOZICIO. Oni povas forigi prepozicion post verbo kaj uzi
+anstataŭe akuzativon solan. Tiamaniere oni ne bezonas demandi, ĉu verbo
+postulas difinitan prepozicion. (114).
+
+  E.: _Obei al la patro_ aŭ _obei la patron._ (Z.)
+
+      _Enui je la patrujo_ aŭ _enui la patrujon._ (Z.)
+
+  RIM. 1. Tion oni faras ordinare nur kiam forigo de prepozicio ne
+  enkondukas malklaraĵon en la frazon (t. e. _praktike_, kiam oni ne trovas
+  jam alian akuzativon en la sama propozicio). E., oni povas diri: »pardoni
+  al la malamiko«, kaj »pardoni la malamikon«, sed oni devas diri ĉiam
+  »pardoni al la malamiko lian kulpon« (Z.)
+
+       2. Post substantivo aŭ adjektivo oni ordinare (escepte por tempo,
+  daŭro, k. c.) ne forigas prepozicion, ĉar akuzativo estas tiam malfacile
+  komprenebla por multaj personoj. (209. R.) E.: »opinioj malaj unu al la
+  aliaj« (L. I. n-ro 89), ne »malaj unu la alian«. Cetere por
+  substantivoj-participoj D-ro Z. skribis: »_Defendinto la patron_ mi ne
+  konsilas uzi, sed mi preferas _defendinto de la patro_«. (Privata let.)
+
+38. ALMOVO. Kiam substantivo montras aferon al kiu estas movo fizika aŭ eĉ
+morala, tiam oni aldonas al ĝi finiĝon _n_, eĉ se ĝi dependas de
+prepozicio. (117.)
+
+  E.: _La birdo flugis en la ĝardenon_ (Z.); ĝi estis ekster la ĝardeno kaj
+          enflugis en ĝin. Frazo »la birdo flugis en la ĝardeno« signifus,
+          ke la birdo estis jam en la ĝardeno antaŭ ĝia ekflugo.
+
+      _Tio ĉi povas tre influi sur la sukceson de nia afero._ (Beaufront.)
+
+      _Sur la danan tronon mi havas rajtojn._ (Haml. V. 2.)
+
+39. TEMPO, KOSTO, MEZURO, PEZO, k. c. Oni tre ofte forigas prepozicion kaj
+uzas akuzativon solan antaŭ substantivo montranta tempon, daŭron, k. t. p.
+(76, 121.)
+
+  E.: _Georgo Washington estis naskita la dudek-duan de februaro._ (Z.)
+
+      _Mi saltadis la tutan tagon de loko al loko._ (Z.)
+
+
+II. RILATOJ KUN ALIAJ SUBSTANTIVOJ.
+
+40. APUDESTO ekzistas, kiam du (aŭ pli da) substantivoj difinas unu la
+alian sen pero de ia prepozicio. (8.)
+
+41. Kiam la unua substantivo estas en nominativo, la dua ankaŭ devas esti
+en nominativo. (37. R. 2.)
+
+  E.: _Mi iras al mia amiko, la kuracisto._
+
+      _La suno, reĝo de l' ĉielo, aperis subite._
+
+42. Kiam la unua substantivo estas en akuzativo, la dua ne estas ĉiam en
+akuzativo. D-ro Zamenhof skribas:
+
+  E.: _Vi serĉas la princon Hamleton._ (Haml. II. 2.)
+
+      _La diablo lin prenu, la sentaŭgulon._ (Haml. V. 1.)
+
+Simile S-ro Kofman:
+
+      _Demandu la patrinon Evon._ (Kain, I. 1.)
+
+Sed oni trovas malan uzadon en bonaj aŭtoroj:
+
+  E.: _Homo povas kompari la lingvon Esperanto._ (Beaufront, Manuel
+          Complet, pĝ. 13, eld. Bonnard. Citite de F. Chaufoureaux.)
+
+      _La loĝantaro dividiĝas en kvar lingvajn elementojn: rusoj, poloj,
+          germanoj, hebreoj, ĉiuj reciproke rigardantaj sin kiel
+          malamikoj._ (Espérantiste, 64, 206.)
+
+Tie ĉi oni povas kompreni: la lingvon nomatan Esperanto, k. t. p.
+
+43. Kiam oni alparolas iun, la dua substantivo restas ĉiam en formo _o_,
+_oj_, ĉar ĝi estas tie vera vokativo.
+
+  E.: _Venu, ni atendas vin, Savonto de la mondo._ (Z.)
+
+44. Prepozicion oni ne uzas inter du substantivoj, kiam oni povas meti
+pense inter ilin la vorton »_nomata_«.
+
+  E.: _Urbo Parizo; monato septembro._
+
+45. KOMPLEMENTOJ DE SUBSTANTIVO. Substantivo estas komplemento de alia
+substantivo, kiam ĝi difinas ĝin per pero de prepozicio.
+
+46. Post vorto esprimanta mezuron, kvanton, pezon, nombron, k. c., unuvorte
+montranta, ke oni parolas pri _ia kvanto da io_, oni ĉiam uzas prepozicion
+»_da_« (kun nominativo). (206.)
+
+  E.: _Glaso da vino estas glaso plena je vino._ (Z.)
+
+      _Sur la arbo sin trovis multo da birdoj._ (Z.)
+
+      _Sur la bordo de la maro staris amaso da homoj._ (Z.)
+
+      _La peco da ŝtof' antaŭ kiu tremadis la tero._ (Haml. V. A.)
+
+      _La mallaŭdo de tia persono devas esti por vi pli grava ol la
+          aplaŭdado de tuta teatro da aliaj personoj._ (Haml. III. 2.)
+
+  RIM. Se oni uzus »_de_«, tio signifus ion uzatan por io, aŭ difinatan de
+  io, sed ne montrus mezuron: »glaso de vino estas glaso, en kiu antaŭe sin
+  trovis vino, aŭ kiun oni uzas por vino; metro de drapo signifus metron,
+  kiu kuŝis sur drapo, aŭ kiu estas uzata por drapo.« (Z.)
+
+47. Posedo, dependo, deveno estas montrataj de prepozicio »_de_«. (133.)
+
+  E.: _La libro de Petro estas tiu, kiu apartenas al Petro, kiun li tenas
+          nun, aŭ kiun li verkis._
+
+      _La koloroj de tiu floro estas brilaj._
+
+      _Profesoro, studento de medicino, leĝoscienco_, k. c. (Beaufront.)
+
+  RIM. En kelkaj okazoj _deveno_ povas esti komprenata kiel _eltiro_. Tiam
+  oni povas uzi _el_ anstataŭ _de_. E.: _Donu al mi floron el_ (aŭ: _de_)
+  _via ĝardeno_.—-_Tio ĉi estas rakonto el Biblio_ (»_de_« povus kredigi,
+  ke ĝi estas rakonto inda esti en Biblio). Cetere por tiuj demandoj vidu
+  ĉapitron dediĉitan al Prepozicioj, kaj al cirkonstancaj komplementoj de
+  verbo.
+
+48. Antaŭ landnomo oni uzas diversajn prepoziciojn laŭ jenaj ekzemploj:
+
+      _La loĝantoj en Parizo_ (aŭ: _de Parizo_, aŭ: _la Parizanoj_) _estas
+          ofte gajaj_.
+
+      _La batalo apud Farsalo ŝanĝis multajn aferojn en Romo._
+
+      _La kuriero estis atakita sur la vojo al Peterburgo._
+
+      _Mi ricevis leteron el Parizo._
+
+      _Li venigis al si el Berlino multajn librojn._
+
+      _Li venigis al si el Parizo specimenojn de ŝtofoj per sia ordinara
+          liveranto._
+
+49. Oni uzas ordinare prepozicion »_el_« antaŭ nomo montranta ŝtofon,
+materialon, el kiu oni faris aŭ tiris ion. Oni povas ankaŭ uzi adjektivon
+aŭ vorton kunmetitan.
+
+  E.: _Tablo el marmoro, el ligno, el fero. Konfitaĵo el pomoj_;
+
+  aŭ: _marmora, ligna, fera tablo. Poma konfitaĵo_;
+
+  aŭ: _marmortablo, lignotablo, fertablo. Pomkonfitaĵo_. (52.)
+
+50. Tiu permeso uzi adjektivon anstataŭ substantivo kun prepozicio estas
+oportuna kaj ofte servas. Tiel oni diras:
+
+  E.: _Longhara ĉevalo._ _Kvinjara infano._ _Ruĝhaŭta virino._ _Broŝuro
+          dekses-paĝa._ _Poemo dekdu-kanta._ _Strasburga biero._
+          _Tridekjara militado_, k. c.
+
+51. Kiam substantivo devenas de verbo (aŭ adjektivo) uzanta specialan
+prepozicion, oni ofte uzas la saman prepozicion post la substantivo.
+
+  E.: _Li estas fiera pri_ (aŭ _pro_) _sia riĉeco_ ... _Fiereco pro
+          riĉeco._
+
+      _Timi al morto_ ... _Timo al morto_ ... k. t. p.
+
+  RIM. Tiu regulo ne estas absoluta, sed ĝi povas alporti grandan helpon
+  por elekti prepozicion konvenan. Tia elekto estas ja tre grava por
+  komplemento de substantivo, ĉar prepozicio servas tie ĉi distingi ofte
+  terminojn similajn al subjekto kaj komplemento de verbo. Tiel oni atentos
+  diferencon inter: _amo_ AL _Dio_, _amo_ DE _Dio_. »Amo _al_ Dio« estas
+  tio, kion ni havas, kiam ni amas Dion. »Amo _de_ Dio« signifas, ke Dio
+  amas la homon. Simile: _konfido_ DE _patro_ AL _filo_, _konfido_ DE
+  _filo_ AL _patro_; _memoro_ PRI (aŭ AL) _mia patro_, _memoro_ DE _mia
+  patro_; _mordo_ DE _serpento_ AL _brako_; k. t. p. »Al« oni metas ofte
+  antaŭ tiu substantivo, kiu estus komplemento, se la frazo estus verba;
+  »de« oni metas antaŭ tiu, kiu estus subjekto. Kompreneble tio ĉi rilatas
+  verbojn aktivajn, ne pasivajn.
+
+52. Ofte oni kunligas du (aŭ eĉ pli) radikojn por esprimi per unu kunmetita
+vorto kutiman aŭ specialan rilaton inter du aferoj.
+
+  E.: _La pordo de la ĝardeno estas rompita_; aŭ: _la ĝardenpordo_ ...
+
+      _La kovrilo de la lito estas makulita_; aŭ: _la litkovrilo_ ...
+
+53. Kiam oni faras kunmetitan vorton, oni metas ordinare la difinantan
+radikon antaŭ la difinatan. (Praktike: oni metas en la komencon la vorton,
+kiu estus regata de prepozicio, se oni ne uzus kunmetitan vorton.)
+
+  E.: _La ĝardenpordo_, aŭ: _la pordo de l' ĝardeno_; »ĝardeno« estos la
+          unua.
+
+  RIM. 1. Por kunmeti vorton el prepozicio aŭ adverbo, oni metas la
+  prepozicion aŭ la adverbon en la komencon. E.: _eniri_, _malsupreniri_
+  ... (vidu Prepozicio.)
+
+       2. Kelkaj vortoj kunmetitaj ne sekvas tamen tiun regulon. Tiel oni
+  trovas: _centjaro_, _falakvo_, anstataŭ _jarcento_, _akvofalo_ (kiujn
+  cetere oni trovas ankaŭ uzataj, sed ambaŭ unuaj estas multe pli komunaj).
+  Tie ĉi oni uzas la neregulan formon eble pro belsoneco aŭ por pli forte
+  insisti pri _cent_, pri _fal_, k. t. p. (91, 237.)
+
+54. »Vortoj kunmetitaj estas kreataj per simpla kunligado de vortoj. Oni
+prenas ordinare la purajn radikojn, sed se la bonsoneco aŭ la klareco
+postulas, oni povas ankaŭ preni la tutan vorton, t. e. la radikon kun ĝia
+gramatika finiĝo.« (Z. Ekzercaro.) Sekvas de tio:
+
+    1. Kiam oni ne ricevas neelparoleblan vorton per kunmeto de simplaj
+radikoj, pli bone estas forigi ĉiun aldonan vokalon inter ambaŭ radikoj,
+ĉar tiamaniere la kunmetita vorto estas malpli longa. E.: _litkovrilo_,
+_ĝardenpordo_.
+
+    2. Kiam la renkonto de konsonantoj donas neelparoleblan aŭ tre
+malfacile elparoleblan vorton, oni intermetas plej ofte vokalon _o_. E.:
+_Aŭstrolando_.
+
+    3. Se unu el kunmetataj radikoj estas uzata en senco nepre adjektiva aŭ
+adverba, tiam oni intermetas vokalon _a_ aŭ _e_. E.: _unutaga_ = kio daŭras
+unu tagon; _unuataga_ = kio estas en la unua tago. (Z.)—Simile: »_Pro kio
+vi silentas, vi, unuanaskito mia?_« (Kofman, Kain, I. 1.)—»_Krom la
+suprecititaj paroladoj, li_ ...«
+
+  RIM. 1. Se la kunmetita vorto estas tro longa, oni devas uzi apartajn
+  vortojn. E.: _poŝtkartkolektanto_, kolektanto de poŝtkartoj.
+
+       2. Ofte aŭtoroj intermetas vokalon _a_ aŭ _e_ sen ia neceseco.
+  Rezultato estas preskaŭ ĉiam ricevi vorton tro longan aŭ konfuzigan. Oni
+  devas do en tiaj okazoj uzi apartajn vortojn aŭ intermeti nenian vokalon.
+  E.: _Italalando_, anstataŭ Itallando aŭ Lando Itala,—_kuneligi_, anstataŭ
+  kunligi aŭ ligi kune (oni kredus unuavide: _kun-eligi_),—_samamaniere_,
+  anst. sammaniere.
+
+       3. De kunmeto de radikoj venas renkonto en Esperanto de duoblaj
+  konsonantoj, kiuj montras, ke oni devas dividi la vorton inter ambaŭ
+  konsonantoj por ĝin kompreni. E.: _gratulletero_, gratul-letero.
+
+       4. Vortojn oni kunmetas ankaŭ, kunligante du radikojn per streketo.
+  Tion oni faras, kiam la interrilato ne estas tre intima aŭ por ricevi
+  kunmetitan vorton pli kompreneblan. E.: _patologi-anatomio_.
+
+55. Kelkaj aŭtoroj, kiam ili kunligas vortojn plenajn (t. e. kun gramatika
+finiĝo), akordigas nombre kaj kaze ambaŭ partojn. En tia okazo estas
+konsilinde uzi streketon por disigi ambaŭ partojn kaj igi la vorton
+komprenebla.
+
+  E.: _Ĉar mi alvenis ne pro ponardegojnĵetistoj trojanoj._ (Kofman,
+          Iliado, I. 152.)
+
+      _Jen kial nin mizerigas li, la malproksimenpafanto._ (Kofman, Iliado,
+          I. 96.)
+
+      _Mi turnas min al miaj amikoj-Esperantistoj._
+
+56. En kelkaj vortoj, sed precipe en kunmetitaj, renkontiĝas konsonantoj,
+kiuj ne povas esti elparolataj unu post la alia. Tiam la unua estas
+vole-nevole elparolata kiel la dua (t. e. mole aŭ malmole).
+
+  E.: »_Sed precipe_« estas elparolata »_set precipe_«.
+
+      »_Ekzemplo_« estas elparolata »_egzemplo_«.
+
+      »_Blovpafilo_« estas elparolata »_blofpafilo_«.
+
+Tio okazas, kiam laringa kaj buŝa konsonanto renkontiĝas laŭ jena tabelo aŭ
+reciproke:
+
+  +==========+========+
+  | Laringaj | Buŝaj  |
+  +==========+========+
+  |    b     |   p    |
+  +..........+........+
+  |    d     |   t    |
+  +..........+........+
+  |    g     |   k    |
+  +..........+........+
+  |    ĝ     |   ĉ    |
+  +..........+........+
+  |    ĵ     |   ŝ    |
+  +..........+........+
+  |    v     |   f    |
+  +..........+........+
+  |    z     |   s    |
+  +..........+........+
+
+Tio ĉi estas evitebla nur en kunmetitaj vortoj, kaj ne havas gravecon, ĉar
+ĉiuj Eŭropaj popoloj obeas tiun regulon. Se tamen oni volas eviti tian
+renkonton, tiam oni nur intermetas vokalon.
+
+  E.: _Ovforma_ (offorma) aŭ _ovoforma_.
+
+      _Blovpafilo_ aŭ _blovopafilo_.
+
+Intermeto de vokalo pli longigas la vorton, kaj ofte alportas ripeton de
+sama sono: OvOfOrma.
+
+
+
+
+IV.
+
+ADJEKTIVO.
+
+  Difino: vorto finata de _a_ kaj montranta econ, staton aŭ agon[4] de
+  substantivo.
+
+  Formoj: nominativo: _a_, _aj_; akuzativo: _an_, _ajn_.
+
+I. APUDMETITA ADJEKTIVO.
+
+57. Apudmetita adjektivo (9, Rim. 1) akordiĝas nombre kaj kaze kun sia
+substantivo.
+
+  E.: _Mia patro kaj miaj fratoj havas grandan barbon kaj nigrajn okulojn._
+
+
+  Espl.: _Mia patro._ »_Patro_« estas en nominativo ununombra; ankaŭ
+          »_mia_«.
+
+      _Miaj fratoj._ »_Fratoj_« estas en nominativo multenombra; ankaŭ
+          »_miaj_«.
+
+      _Grandan barbon._ »_Barbon_« estas en akuzativo ununombra; ankaŭ
+          »_grandan_«.
+
+      _Nigrajn okulojn._ »_Okulojn_« estas en akuzativo multenombra; ankaŭ
+          »_nigrajn_«.
+
+58. Kiam apudmetita adjektivo rilatas kelkajn substantivojn en ununombro,
+tiam oni ordinare metas la adjektivon en multenombron. (82.)
+
+  E.: _Mi havas akvon kaj panon freŝajn._
+
+  RIM. »_Mi havas akvon kaj panon freŝan_« povus signifi, ke nur pano estas
+  freŝa. Simile »_mi havas freŝan akvon kaj panon_« povus signifi, ke nur
+  akvo estas freŝa.
+
+59. Kiam substantivo en multenombro estas uzata en opa senco kaj akompanata
+de kelkaj adjektivoj, kiuj rilatas ĉiu po unu el la objektoj montrataj de
+la substantivo, tiam la adjektivoj restas en ununombro.
+
+  E.: _Oni vidis en Krimeo la militistarojn anglan, francan, turkan, sardan
+          kaj rusan._
+
+      _La lingvoj angla, franca, germana kaj hispana estas tre parolataj._
+
+60. LOKO DE ADJEKTIVO. Apudmetita adjektivo estas uzata laŭvole antaŭ aŭ
+post ĝia substantivo en loko, kie ĝi plej bone altiras atenton.
+
+61. Substantive oni ordinare ne uzas adjektivon. Tamen tion oni faras
+iafoje, kiam oni povas alpensi al la adjektivo konkretan substantivon.
+
+  E.: _»Tre volonte, mia bona«, diris la bela knabino_, (Z.) alp. »virino«.
+
+
+      »_Mia kara, mia belo estis juna, brava dano._« (Haml. IV. 5.)
+
+Vidu ekzemplojn en paragrafoj 19 kaj 27.
+
+  RIM. Oni diras: _La Bono_, _La Belo_, _La Vero_, k. t. p. per
+  substantivo, kaj ne _La Bona_, _La Bela_, _La Vera_, ĉar tie ĉi oni ne
+  povas alpensi konkretan substantivon.
+
+
+II. PREDIKATECA ADJEKTIVO.
+
+62. Adjektivo uzata predikate (9. Rim. 1) akordiĝas nombre kun sia
+substantivo aŭ pronomo, _sed ne kaze_; ĝi do estas neniam en akuzativo.
+
+63. Adjektivo estas uzata predikate, kiam ĝi estas komplemento de verbo,
+kaj ne rekte de substantivo. Tiam ĝi montras ordinare: _a_) staton, en kiun
+alvenas afero; _b_) kiel afero estas nomata, trovata, konsiderata, dirata,
+rigardata, k. t. p. Fine kaj plej ofte predikateca adjektivo estas simple
+komplemento de verbo »esti«.
+
+Ambaŭ unuaj okazoj renkontiĝas kun verboj: _iĝi_ (aŭ finantaj per _iĝi_);
+_igi_ (aŭ finantaj per _igi_); kaj nomi, trovi, konsideri, rigardi kiel,
+konsideri kiel, diri, opinii, pensi, fondi, elekti, titoli, sin montri,
+lasi, k. c. Post tiaj verboj oni povas preskaŭ ĉiam meti pense »_esti_«
+inter la verbon kaj la adjektivon.
+
+  E.: _Papero estas blanka._
+
+      _Birdoj estas agrablaj._
+
+      _La riĉiĝo igis lin (estantan) senkompata._
+
+      _Ili trovis la manĝaĵojn (estantajn) bonaj._
+
+      _La kutimo faris lin indiferenta por tio ĉi._ (Haml. V. 1.)
+
+      _Kion vi intencas nun fari por vin montri inda filo._ (Haml. IV. 7.)
+
+      _Ili nomis lin reĝo._
+
+  RIM. Oni trovas en _Hamleto_ (IV. 1): »Lasu nin solajn por momento«. Tiu
+  ekzemplo ne havas valoron, ĉar ĝi estas preseraro. (D-ro Zamenhof,
+  privata letero.)
+
+64. Kiam predikateca adjektivo rilatas ne substantivon aŭ pronomon, sed
+infinitivon aŭ enhavon de tuta frazo, tiam ĝi prenas formon neŭtralan, t.
+e. fariĝas adverbo. (167. R. 1 kaj 2.)
+
+  E.: _Resti kun leono estas danĝere._ (Z.)
+
+      _Estus bone, se li venus._
+
+      _Estas dirite, ke ..._
+
+  RIM. Pli malofte oni trovas adjektivon en _a_: »ĉu ne estas ebla, ke ni
+  kompreniĝadu per ia alia lingvo?« (Haml. V. 2.)—»Plej bona estos, se vi
+  ĝin forgesos.« (Haml. I. 5.)
+
+65. Kiam adjektivo rilatas opan nomon, ĝi povas indiferente esti en
+ununombro aŭ en multenombro. En praktiko tiu regulo estas malofte uzata,
+kaj oni preferas ununombron.
+
+  E.: _Kiam oni estas riĉa_ (aŭ _riĉaj_), _oni havas multajn amikojn_. (Z.)
+
+
+
+III. GRADOJ DE KOMPARO.
+
+  Formoj.—_Malegalaj komparativoj_ estas: pli ... ol; malpli ... ol; ju pli
+  ... des pli; ju malpli ... des pli; ju malpli ... des malpli; malsama ol;
+  malsame ... ol.
+
+  _Egalaj komparativoj_: tiel ... kiel; tia ... kia; sama ... kia, same ...
+  kiel.
+
+  _Superlativoj absolutaj_: tre; plej; kiel eble plej.
+
+  _Superlativoj rilataj_: plej ... el; malplej ... el. _Inter du aferoj_,
+  ankaŭ: la pli ...; la malpli ...
+
+66. Dua termino de komparo estas en nominativo aŭ akuzativo laŭ tio, ke ĝi
+estas subjekto aŭ komplemento de alpensota frazo. (Beaufront.)
+
+  E.: _Mi amas mian fraton pli ol mia fratino_ (... amas lin).
+
+      _Mi amas mian fraton pli ol_ (mi amas) _mian fratinon_.
+
+      _Li amis lin tiel varme, kiel mia frato_ (... amis lin).
+
+      _Li amis lin tiel varme, kiel_ (li amis) _mian fraton_.
+
+
+IV. PARTICIPOJ-ADJEKTIVOJ.
+
+67. Participoj en _a_ sekvas ĉiujn regulojn de aliaj adjektivoj. (167. R.
+2.)
+
+  E.: _Ili estas alvenintaj._
+
+      _Mi vidis lin mortigantan homon._
+
+      _La batoj igis lin ploranta._
+
+68. Oni ne devas konfuzi participon adjektivan kun simpla adjektivo de sama
+radiko. La unua montras agon momentan, transiran; la dua montras econ,
+staton, aŭ kutimon.
+
+  E.: _El la kaldrono, en kiu sin trovas bolanta akvo, eliras vaporo_ (Z.);
+          (momenta ago, momenta stato: _anta_.)
+
+      _La signoj de mensogaj ŝiaj larmoj_ (Haml. I. 2.); eco: _a_ simple.
+
+      _La malvarmo estas tranĉa_ (Haml. I. 1.); eco.
+
+      _Lernu Esperanton, helpan lingvon internacian_; eco.
+
+
+V. KOMPLEMENTOJ DE ADJEKTIVOJ.
+
+69. Adjektivo povas difini alian vorton per pero de prepozicio (kun
+nominativo).
+
+Participo sola povas havi rektan komplementon (en akuzativo). (37. R. 1.)
+
+70. Prepozicioj uzataj post adjektivo estas: _a_) plej ofte _je_; _b_) aŭ
+alia montrata de ideo esprimota aŭ de verbo, de kiu devenas la adjektivo.
+(51, 169.)
+
+  E.: _Plena je vino_ (aŭ _de_). _Longa je dek metroj._
+
+      _Simila al patro_ (simili al ...). _Agrabla por vidi._
+
+
+
+
+POR NOMBRAJ, POSEDAJ ADJEKTIVOJ, K. C. VIDU SEKVANTAJN PARTOJN.
+
+
+
+
+V.
+
+NOMBRAJ NOMOJ.
+
+71. Fundamentaj nombraj nomoj neniam ŝanĝiĝas.
+
+  E.: _Mi havas unu birdon, du ĉevalojn._
+
+72. »_Unu_« povas esti uzata pronome (plej ofte en rilato kun »_alia_«).
+Tiam ĝi ĉesas esti vera nombra nomo kaj povas ŝanĝiĝi.
+
+  E.: _Unuj kaj aliaj insultadis, riproĉadis sin reciproke._
+
+73. De fundamentaj nomoj devenas adjektivoj, substantivoj, adverboj, per
+aldono de _a_, _o_, _e_. Kiam la nombro estas kunmetita, oni aldonas tiun
+finiĝon nur al la lasta parto.
+
+  E.: _Unuo_, _unua_, _unue_. _Cent-tridek-dua._
+
+74. Metante antaŭ _a_, _o_, _e_, specialajn sufiksojn, oni ricevas: _a_)
+opajn nombrojn (op); _b_) frakciajn (on); _c_) multigajn (obl).—Se la
+nombro estas kunmetita, oni agas kiel supre.
+
+  E.: _Ili kvarope sin ĵetis sur min._
+
+      _6 estas la tri kvaronoj de 8._
+
+      _Sepoble sep faras_ (aŭ _estas_) _kvardek-naŭ_.
+
+75. Adjektivaj nombroj (kiujn oni ricevas de fundamentaj per aldono de _a_)
+estas uzataj por kalkuli horon, tagojn, jarojn, vicon, paĝon, k. t. p.
+
+Plej ofte oni ne esprimas la vorton _horo_, _tago_, k. c. kaj uzas la
+adjektivan nombron solan. Kompreneble, se klareco postulas la substantivon,
+oni ĝin uzas. (20.)
+
+  E.: _Kia horo estas? La tria._
+
+      _Kiun daton ni havas hodiaŭ? Hodiaŭ estas la dudeksepa de marto._
+
+      _Henriko IV-a estas mortigita de Ravaillac._
+
+      _Vidu paĝon 32-an._
+
+76. Nombro hora, taga, peza, kosta, vica, daŭra, mezura, k. s. estas
+ordinare akompanata de prepozicio konvena (je, en, sur, po ...) kun
+nominativo, aŭ, pli ofte, de akuzativo sen prepozicio. (Cart.)—(39, 121.)
+
+  E.: _Georgo Washington estis naskita la dudek-duan de februaro_ (Z.), aŭ:
+          _en la dudek-dua de februaro_.
+
+      _Kiom kostas tio ĉi? Naŭ frankojn._
+
+  RIM. 1. Kompreneble, kiam la nombro estas subjekto aŭ difinas apudmetite
+  substantivon, kiu mem estas subjekto, tiam ĝi restas en nominativo:
+  »Hodiaŭ estas la dudek-sepa de marto.« (Z.)—»Naŭ frankoj estas kosto de
+  tiu ĉi ŝtofo.«
+
+       2. Oni trovas iafoje por simpla dato nominativon solan: »Parizo,
+  15-a de februaro 1903.« Tion oni vidas ekz. en »Esperantisto«.
+
+77. Horaj eroj povas esti kalkulataj laŭ jenaj manieroj:
+
+  _A._
+
+  2 h.           la dua (batas).
+  2 h. 10 m.     dek minutoj de la tria.
+  2¼             (unu) kvarono de la tria.
+  2½             duono de la tria.
+  2¾             tri kvaronoj de la tria.
+
+  _B._
+
+  2 h. 5 m.      la dua kaj kvin minutoj.
+  2 h. 10 m.     la dua kaj dek minutoj.
+  2¼             la dua kaj kvarono.
+  2½             la dua kaj duono.
+  2¾             la dua kaj tri kvaronoj.
+
+  _C. iafoje_:
+
+  2½             tridek minutoj (aŭ duono) antaŭ la tria.
+  2¾             unu kvarono antaŭ la tria.
+  2 h. 55 m.     kvin minutoj antaŭ la tria.
+
+
+
+
+VI
+
+PERSONAJ PRONOMOJ.
+POSESIVOJ.
+
+I. PRONOMOJ.
+
+  Formo.—_Ununombro_: Mi, (ci) vi, li (vira sekso), ŝi (virina sekso), ĝi
+  (ne difinita sekso).
+
+    _Multenombro_: Ni, vi, ili.
+
+    _Ambaŭ nombroj_: Si (refleksiva pronomo), oni (nedifina pronomo.)
+
+  Gramatiko: Povas preni _n_ akuzativan, ne _j_ multenombran.—»Oni« estas
+  neŝanĝebla vorto.
+
+78. Persona pronomo havas saman sekson kaj saman nombron, kian havas
+substantivo, kiun ĝi anstataŭas.
+
+  E.: _Mia patro skribis, ke li alvenos morgaŭ._
+
+      _Mia patrino skribis, ke ŝi alvenos morgaŭ._
+
+      _Nia hundo revenis: ĝi forkuris hieraŭ._
+
+      _Mi diris al mia frato: »vi estas bona. Li respondis ..._
+
+      _Mi diris al miaj fratoj: »vi estas bonaj. Ili respondis ..._
+
+  RIM. Pronomo »ĝi« estas uzata por ĉiuj objektoj, eĉ por personoj, kies
+  sekso ne estas konata. Pronomo »li« estas uzata por viroj aŭ viraj
+  bestoj,—pronomo »ŝi« por virinoj aŭ virinaj bestoj. Pri »ĝi« jen tio,
+  kion diras D-ro Zamenhof en »Esperantisto«, 1893, pĝ. 16-a: »Kelkaj
+  samideanoj ne aprobas anglan kutimon starigi infanojn sur unu ŝtupon kun
+  bestoj kaj objektoj, kaj, parolante pri infano, uzas »li« anstataŭ »ĝi«.
+  Kontraŭ la uzado de »li« en tiaj okazoj oni nenion povus havi; sed la
+  kaŭzo, kial ni (kaj ankaŭ la lingvo angla) uzas en tiaj okazoj »ĝi« estas
+  ne tia, kiel ili pensas. Nek la lingvo angla, nek Esperanto havis ian
+  intencon malaltigi la indon de infanoj (ambaŭ lingvoj estas ja tiel
+  ĝentilaj, ke ili diras »Vi« ne sole al infanoj, sed eĉ al bestoj kaj
+  objektoj). La kaŭzo estas tute natura sekvo de la konstruo de la ambaŭ
+  diritaj lingvoj. En ĉiu lingvo ĉiu vorto havas (tute ne logike) difinitan
+  sekson, kaj tial, uzante por ĝi pronomon, ni prenas tiun, kiu respondas
+  al la gramatika sekso de la vorto (tial la franco diras pri infano
+  »_il_«, la germano diras »_es_«); sed en la lingvoj angla kaj Esperanto
+  la vortoj havas nur sekson naturan, kaj tial, parolante pri infanoj,
+  bestoj kaj objektoj, kies naturan sekson ni ne scias, ni vole-nevole (sen
+  ia ofenda intenco) uzas pronomon mezan inter »li« kaj »ŝi«—la vorton
+  »ĝi«. Tiel same ni parolas ankaŭ pri »persono«. Cetere parolante pri
+  infano, pri kiu ni scias, ke ĝi ne estas knabino (aŭ almenaŭ ne scias, ke
+  ĝi estas knabino), ni povas uzi la vorton »li«.
+
+79. Oni ne uzas en Esperanto ĝentilan formon, sed oni diras »vi« al ĉiu ajn
+persono aŭ objekto. »Ci« estas preskaŭ ne uzata kaj neuzinda.
+
+  RIM. Pri ortografio de »Vi« D-ro Zamenhof diras en »Esperantisto«, 1893,
+  paĝo 16-a: »Ordinare mi skribas »vi«, kiam mi parolas al unu persono
+  familiare, kaj »Vi« kiam mi parolas al multaj personoj aŭ al unu persono
+  kun respekto. Tiu diferenco tamen estas nebezona, kaj nur mia persona
+  kutimo, kiu havas nenion komunan kun la gramatiko de nia lingvo. La ĉiama
+  skribado de »vi« per malgranda litero estas ne sole tute regula, sed mi
+  mem ankaŭ nun provos iom post iom forlasi mian ĝisnunan manieron de
+  skribado. Ankaŭ »Estimata sinjoro«, »Kara amiko« estas pli regula ol
+  »Estimata Sinjoro«, »Kara Amiko«, k. t. p. Sed en tiuj ĉi okazoj oni
+  ordinare simple sin ĝenas kaj skribas tial grandan literon, kie pli
+  regule estus litero malgranda.«
+
+80. »Si« estas uzata por montri, ke ago reiras al subjekto de la verbo. Oni
+ordinare uzas ĝin nur por la tria persono kaj por ĉiuj seksoj aŭ nombroj.
+
+  E.: _Mi lavas min, vi lavas vin, kaj li lavas sin._
+
+      _Ŝi diris al si mem: kuraĝu!_
+
+      _La bovo falis kaj rompis al si kruron._
+
+81. »Oni« montras ĝeneralan subjekton (iu ... ĉiu ...); ĝi povas esti nur
+subjekto, ne komplemento: sekve ĝi estas ne ŝanĝebla vorto.
+
+
+      _Oni atakis lin dum la nokto, sed li ne povis vidi la personon._
+
+      _Oni ofte vundas sin per pulvaj armiloj, kiam oni ne sufiĉe atentas._
+
+
+  RIM. 1. Iafoje oni uzas pasivan sensubjektan verbon anstataŭ »oni«:
+  _Estas dirite ofte, ke hundo bojanta ne mordas_ (aŭ: oni diras ofte
+  ...).—_Estus dezirate, ke tiaj rondetoj estu kreataj en ĉiuj urboj_ (Z.
+  Esperantisto, 37, 3).
+
+       2. En tiaj okazoj oni ne uzas pronomon »ili«. (Ili diras ofte ...)
+
+
+II. POSEDAJ ADJEKTIVOJ (POSESIVOJ).
+
+  Formo: devenas de personaj pronomoj per aldono de _a_.
+
+  Gramatiko: Sekvas regulojn de aliaj adjektivoj por akordo nombra kaj
+  kaza, kaj regulojn de personaj pronomoj por akordo seksa.
+
+82. Kiam poseda adjektivo estas akompanata de kelkaj substantivoj
+apartenantaj al sama posedanto, oni povas ĝin uzi laŭvole nur unufoje antaŭ
+la unua substantivo, aŭ kontraŭe ĝin ripeti antaŭ ĉiu substantivo. En ambaŭ
+okazoj ĝi povas resti en ununombro.
+
+  E.: _La pli juna filino estis la plena portreto de sia patro laŭ sia
+          boneco kaj honesteco._ (Z.)
+
+      _Mia frato kaj fratino estas la bogefratoj de mia edzino._ (Z.)
+
+83. Poseda adjektivo uzata predikate (6, 9 R. 1, 62) restas ĉiam en
+nominativo.
+
+  E.: _Tiu ĉi bieno estas mia._
+
+      _La multaj bovoj, kiujn vi vidas tie, estas liaj._
+
+      _Per sia afableco li igis nin liaj._
+
+84. »Sia« estas ordinare uzata nur por tria persono de l' verbo. (80.)
+
+  E.: _Mi lavas min en mia ĉambro kaj ŝi lavas sin en sia ĉambro._
+
+  RIM. Kelkaj aŭtoroj uzas »sia« por tri personoj de l' verbo, dirante, ke
+  ĝi resendas agon al subjekto tiel bone por ambaŭ unuaj personoj, kiel por
+  tria. Tia uzo povas esti malfacile komprenebla por kelkaj neslavaj
+  esperantistoj, kaj aliparte ne estas tre necesa pro eblo uzi pli klarajn
+  formojn »mia«, »via«, »nia«. D-ro Zamenhof ordinare skribas laŭ la supra
+  regulo. Tamen oni trovas en _Hamleto_ (V. 2): »Se ni povus porti ĉe sia
+  flanko pafilegon.«
+
+85. »Sia« montras rilaton al la subjekto de tiu verbo, kies ĝi estas rekta
+dependaĵo; ĝi estas uzata por ĉiuj seksoj.
+
+  E.: _La infano serĉis sian pupon_ (Z.),—pupon de ĝi, infano.
+
+      _Ŝi rakontis al li sian tutan aventuron_ (Z.),—aventuron de ŝi.
+
+      _Ili promenis kun sia patrino_,—patrino de ili.
+
+      _La homoj flatas siajn regantojn._
+
+  RIM. Ĉar »sia« montras ion posedatan de subjekto de verbo, ĝi sekve ne
+  estas uzata antaŭ subjekto mem en ordinaraj okazoj. (Cart.) Tiel ni
+  diras: »Apenaŭ ŝia patrino ŝin rimarkis« (_Z._). Ne »sia patrino«, ĉar
+  »patrino« estas subjekto.
+
+86. Lia, ŝia, ĝia, ilia estas uzataj kiam la afero posedata apartenas al
+alia persono ol la subjekto de la verbo. Ili estas ankaŭ uzataj anstataŭ
+»sia«, por montri ion apartenantan al la subjekto de la verbo, kiam oni
+timas ricevi neklaran sencon per uzo de »sia«. (Cart.)
+
+  E.: _Miaj fratoj havis hodiaŭ gastojn; post la vespermanĝo niaj fratoj
+          eliris kun la gastoj el sia domo kaj akompanis ilin ĝis ilia
+          domo._ (Z.) Kio estas subjekto? »Fratoj.« Sekve: »sia« = domo de
+          miaj fratoj; ilia = domo de la gastoj.
+
+      _Poŝtaj markoj estas akceptataj nur por ¾ de ilia kosto_
+          (Z.),—anstataŭ »sia«.
+
+      _Sed homa lingvo kun ĝia, kiel ŝajnis al mi, senfina amaso da
+          gramatikaj formoj_ ... (Letero pri deveno de Esperanto, en
+          »Lingvo Internacia«, n-ro 6-7, pĝ. 116.)
+
+  RIM. Se duba senco estas neevitebla eĉ per uzo de _lia_, _ŝia_, _ĝia_,
+  _ilia_, anstataŭ »sia«, tiam oni devas konstrui la frazon alimaniere.
+  (Cart.) E.: _Li vidis ŝin mortigantan sian infanon._ Kies estas infano?
+  _Lia_ aŭ _ŝia_? Diru do prefere:
+
+  Li vidis ŝin, kiu mortigas sian infanon (_infanon de ŝi_).
+
+  Li vidis ŝin, kiu mortigas lian infanon (_infanon de li_).
+
+
+III. POSEDA GENITIVO.
+
+  Formo: Ies, ties, kies, ĉies, nenies.
+
+  Gramatiko: Vortoj ne ŝanĝeblaj.
+
+87. Nepersonaj pronomoj _iu_, _tiu_, _kiu_, _ĉiu_, _neniu_, liveras serion
+da posesivoj per ŝanĝo de _u_ en _es_. Tio ĉi estas vera genitivo de
+posedo. Oni uzas ĝin laŭ jenaj ekzemploj:
+
+      _Kies estas tiu ĉapelo?_ (Al kiu apartenas?) _Ties_ (al tiu persono).
+
+
+      _Ĉu ies estas tiu ombrelo?_ (ĉu al iu el ĉeestantaj personoj?)
+
+      _La domo, kies tegmenton vi vidas, apartenas al mia patro._
+          (Beaufront.)
+
+  RIM. 1. Post »kies« oni ordinare ne uzas artikolon »_la_« antaŭ nomo de
+  afero posedata. (Beaufront.) E.: _La domo, kies tegmenton vi vidas_,—ne
+  »la tegmenton«.
+
+       2. »es« montras nur posedon. Oni do ne diras: »la afero, kies ni
+  parolas ...«—sed »la afero, pri kiu ni parolas ...«
+
+       3. Aldono de »es« al personaj pronomoj (mies, vies, lies ...) ne
+  estas ordinare farata. E., kiam oni demandas: »Kies estas tiu
+  ĉapelo?«—oni kutime ne respondas: »mies«, sed: »al mi«, aŭ: »mia«.
+
+
+
+
+VII.
+
+PRONOMOJ-ADJEKTIVOJ
+
+aj aliaj vortoj.
+
+I. MONTRAJ VORTOJ. (DEMONSTRATIVOJ.)
+
+  Formo: tiu, tia, tiu ĉi ... jen, mem, ajn.
+
+  Gramatiko: »Tiu, tia« ... sekvas regulojn de adjektivoj (nombra, kaza
+  akordo).
+
+  E.: _tiu homo_; _tiuj homoj_; _mi amas tiujn personojn_.
+
+  »Jen, mem, ajn« estas ne ŝanĝeblaj vortoj.
+
+88. »Tiu, tiu ĉi« estas uzata iafoje antaŭ poseda adjektivo por insisti pli
+forte.
+
+  E.: _Tiu ĉi mia malnova amiko._
+
+      _Tiuj niaj kuraĝaj soldatoj_ (pri kiuj ni ĵus parolis).
+
+89. »Tiu«, k. a. oni ripetas iafoje sen neceseco por pli forte montri
+aferon, pri kiu oni parolas.
+
+  E.: _Tiun bandon, kiu minacis al via feliĉo, tiun detruis li!_
+
+90. Iafoje oni uzas »tio, tio ĉi, ĝi« (por ĉiuj personoj kaj nombroj) en
+celo difini pli forte ion.
+
+  E.: _Ĉar tio ĉi estis feino._ (Z.)
+
+      _Kiu frapis? Ĝi estas mi, via patro._
+
+      _Ĝi estis iliaj fratoj_ (aŭ: _ili estis iliaj fratoj_).
+
+91. »Jen, jen estas, venas«, k. t. p. oni uzas ankaŭ ofte en sama maniero.
+
+  E.: _Jen estas la ĉapelo de la patro._ (Z.)
+
+      _Jen, ŝajnas, ili!_ (Haml. I. 1.)
+
+      _Haltu! Jen ĝi mem aperas!_ (Haml. I. 1.)
+
+  RIM. »ĝi, tio ĉi«, k. c. oni ofte forigas. Tiam oni simple metas sur la
+  unuan vicon (aŭ en la plej videblan lokon) la vorton, al kiu oni volas
+  tiri atenton.
+
+  E.: _Mi iros morgaŭ Parizon._—_Morgaŭ mi iros Parizon._—_Parizon mi iros
+  morgaŭ_ (anst. ĝi estas mi, kiu iros ...).
+
+      _Ĉu vi estas diligentaj? Tio_ (aŭ _tiaj_) _ni estas_.
+
+      _Ĉu min vi serĉas?_ (anst. ĉu ĝi estas mi ... _aŭ_ ĉu mi estas tiu,
+  kiun ...)
+
+92. »Mem« montras insiste aferon, precipe personon. Oni ne devas ĝin
+konfuzi kun »sama«, (kiu montras nur econ de identeco, plenan similecon) aŭ
+kun »eĉ« (kiu estas apartiga adverbo). Oni ĝin uzas apud la vorto, kiun ĝi
+difinas.
+
+  E.: _Li mem ekkaptis la glavon kaj la glavingon per sama mano._
+
+      _Li prenis la glavon mem, ne la glavingon._
+
+      _Li forgesis eĉ sian nomon._
+
+      _Tio estus memmortigo._
+
+93. »Ajn« montras indiferentecon pri tiu ĉi aŭ alia.
+
+  E.: _Iu ajn povos veni kaj forŝteli la monon, se vi lasos pordon
+          neŝlosita._
+
+
+II. RILATAJ VORTOJ. (RELATIVOJ.)
+
+94. Rilata pronomo-adjektivo (kiu, kia) akordiĝas nombre kun sia rilatato.
+Plie oni metas ĝin en kazon postulatan de la sekvanta verbo. Kiel montraj
+kaj aliaj pronomoj-adjektivoj ili estas uzataj egale por personoj kaj
+objektoj.
+
+  E.: _Mia patro, kiun mi amas ..._
+
+      _Iliaj fratoj, kiujn vi konas ..._
+
+      _Niaj vestoj, kiuj malpuriĝis ..._
+
+      _Mi ne scias, kion vi diras._
+
+95. Kiam la rilatato estas tuta frazero, oni uzas plej ofte »kio«.
+
+  E.: _Jen dek frankoj, kio estas sumo ŝuldata al vi._
+
+  RIM. ... »kiuj estas sumo« oni povas ankaŭ diri.
+
+96. Kiam la rilatato kaj la rilatanto ne estas en sama nombro aŭ kazo, tiam
+oni uzas plej ofte »tiu, tio, tia«, antaŭ »kiu, kio, kia«. La demonstrativo
+tiam akordiĝas kun la unua propozicio, kaj la relativo kun la dua.
+
+  E.: _Ni ne scias tion, kio ni fariĝas._ (Z.)
+
+      _Malsano estas tio, kion mi plej timas._
+
+      _Nomu al mi tiun, kiu venis hieraŭ._
+
+  RIM. 1. »Malsano estas, kion mi plej timas« estas ankaŭ iafoje dirite;
+  tiu formo estas eble iom malpli klara, sed pli rapida.
+
+       2. Oni plej ofte atentas uzi en similaj interrilatoj vortojn el sama
+  klaso; t. e. oni uzas du pronomojn, aŭ du adverbojn, aŭ du adjektivojn.
+  E.: _Kia_ patro, _tia_ filo (adj. _a_).—_Kiu_ venis, _tiu_ estos punata
+  (pronomo _u_).—Via elparolado estas _bona_, sed la _mia_ ne estas
+  _tia_.—Via ago estas _sama_, _kia_ tiu de via frato.—Vi agis _same_,
+  _kiel_ via frato.
+
+
+III. DEMANDAJ VORTOJ.
+
+97. »Kiu, kia, kio, kial, kiel, kiom, kies, kie«, estas ofte uzataj por
+demandi, ĉu rekte alparolante iun, ĉu nerekte, kiel komplemento de verbo
+(diri, demandi, dubi, nescii ... k. c.)
+
+  E.: _Kiu venis? Kien vi iras? Kiom vi aĉetas?_
+
+      _Diru, kien vi iras. Mi demandas vin, kiu venis hieraŭ._
+
+98. Kiam oni demandas rekte aŭ nerekte kaj ne estas en la frazo unu el la
+demandaj vortoj »kiu, kio,« k. c. tiam oni devas ĉiam uzi la vorton »ĉu«.
+
+  E.: _Ĉu vi venos morgaŭ?_
+
+      _Ĉu vi ne venos morgaŭ?_
+
+      _Diru al mi, ĉu vi ne venos morgaŭ._
+
+      _Mi dubas, ĉu li povos veni morgaŭ_ (kredeble li ne venos).
+
+      _Mi nescias, ĉu li ne povos veni morgaŭ_ (eble li povos veni).
+
+  RIM. Oni indiferente ŝanĝas lokon de l' pronomo, verbo, neo, k. c. En la
+  unua loko estas vorto, al kiu oni volas tiri atenton.
+
+  E.: _Ĉu venos vi morgaŭ? ĉu vi ne venos morgaŭ? ĉu ne venos vi morgaŭ? ĉu
+  morgaŭ vi ne venos?_ k. t. p.
+
+
+IV. NE DIFINAJ PRONOMOJ.
+
+99. Ne difinaj pronomoj »io, tio, kio, ĉio, nenio«, ne povas esti uzataj en
+multenombro pro ilia nedifiniteco mem.
+
+  E.: _Io ĉagrenas min, kion vi ne povas koni._
+
+  RIM. Se oni celas multenombron, oni uzas »kelkaj aferoj, kelkaj aĵoj, iaj
+  aĵoj« k. t. p.
+
+
+V. PRONOMO AŬ ADJEKTIVO?
+
+100. »Tiu, kiu, ĉiu«, estas ordinare uzataj egale kiel pronomoj (solaj) aŭ
+kiel adjektivoj (antaŭ substantivo).
+
+  E.: _Tiu, kiu venis, estis alta._
+
+      _Kiu vidas tiun homon? Li ĉiuokaze_ (aŭ: ĉiuminute, ĉiumomente)
+          _rakontas plej strangajn aventurojn_.
+
+101. »Tia, kia, ĉia« estas nur adjektivoj kaj esprimas ordinare apartan
+ideon pri eco, speco speciala.
+
+  E.: _Ĉu estas eble, ke tia homo bankrotis!_
+
+      _Kia viro konsentus tion fari? (Kia speco de ...)_
+
+      _Mi nescias ankoraŭ, ĉu mi povos veni; ĉiaokaze_ (kia ajn estos la
+          okazo) _mi skribos al vi_.
+
+102. Por »iu, neniu, ia, nenia«, oni ordinare ne faras tiun distingon ecan.
+»Iu, neniu«, estas uzataj pronome: »ia, nenia«, simple adjektive.
+
+  E.: _Iu venis. Ia homo venis._
+
+      _Neniu venis. Nenia persono venis._
+
+
+
+
+VIII.
+
+VERBO.
+
+I. SUBJEKTO (4 kaj 5.)
+
+103. Verbo havas preskaŭ ĉiam subjekton esprimitan. Tio estas necesa, ĉar
+oni ne povas distingi personojn per iliaj finiĝoj.
+
+104. Oni tamen renkontas verbojn sen subjekto esprimita (en senpersonaj
+propozicioj) kun:
+
+_A._ verboj montrantaj veteron: _neĝas_, _pluvas_, _hajlas_, _fulmas_,
+_tondras_.
+
+_B._ diversaj verboj, kiujn oni uzas ordinare kun esprimita subjekto, sed
+uzas tiel pro nedifiniteco de l' subjekto: _okazas_, _aperas_, _ŝajnas_, k.
+s.
+
+_C._ verbo »esti« uzata kun adjektivo-adverbo aŭ pasiva participo-adverbo:
+_necese estas forkuri_; _honte estas perfidi_; _estas dirite, ke_ ...
+
+_D._ kelkaj interparolaj esprimoj: _dankas!_ _plaĉas!_ anstataŭ: _mi
+dankas_,—aŭ: _se plaĉas al vi_ ...
+
+105. Kiam subjekto estas sama por ĉiuj verboj en sama frazo, tiam oni povas
+esprimi ĝin nur antaŭ la unua verbo.
+
+  E.: _Mi miras, timas, tremas._ (Haml. I. 1.)
+
+      _Li alkuris, ekkaptis la infanon kaj tiris ĝin el la danĝero._
+
+
+II. PREDIKATO. (6.)
+
+106. Kiam predikato estas substantivo, ĝi akordiĝas nombre kun la subjekto,
+kiel adjektivoj; ĝi povas ankaŭ ne akordiĝi, se la ideo tion postulas.
+
+  E.: _La kuracisto estas la espero de l' malsanulo._
+
+      _La kuracistoj estas la espero de siaj malsanuloj._
+
+      _Parizo kaj Londono estas grandaj urboj._
+
+107. Kiam subjekto estas el virina sekso kaj predikato-substantivo ankaŭ
+povas preni virinan sufikson, oni laŭvole akordigas ilin sekse.
+
+  E.: _Tiu ĉi sinjorino estas pentristino._
+
+      _Fraŭlino X*** estas elektita sekretario de nia Grupo._
+
+108. Kiam predikato estas adjektivo aŭ participo, ĝi akordiĝas nur nombre
+kun la subjekto. (62 kaj sekvantaj.)
+
+
+III. REKTA KOMPLEMENTO. (35.)
+
+109. Substantivo aŭ pronomo, kiu estas rekta komplemento de verbo (35),
+estas en akuzativo sen prepozicio.
+
+  E.: _Mi amas mian patron._
+
+      _Mi bone aŭdas vin._
+
+110. Unu verbo havas ordinare nur unu rektan komplementon. La aliaj
+komplementoj estas uzataj nerekte per pero de prepozicio.
+
+  E.: _Li instruis min pri lingvo germana_ (ne: _li instruis min lingvon
+          germanan_).
+
+      _Li demandis min pri tio_ (ne: _li demandis min tion_).
+
+  RIM. 1. Kompreneble unu komplemento povas konsisti el kelkaj vortoj aŭ
+  terminoj; en tia okazo ĉiuj terminoj estas en akuzativo, se ili ne estas
+  regataj de prepozicio. (36). E.: _Li manĝis supon kaj panon._
+
+       2. Akuzativo montranta almovon, tempon, daŭron, k. t. p. ne
+  signifas, ke la vorto estas rekta komplemento; tial oni renkontas en tiaj
+  okazoj kelkajn komplementojn en akuzativo: unu estas rekta, aliaj estas
+  cirkonstancaj. E.: _Li metis la ĉapelon sur sian kapon._ (140.)
+
+111. Kiam infinitivo estas komplemento de verbo (aŭ de alia vorto), oni
+neniam uzas prepozicion antaŭ ĝi. Escepto estas farita por prepozicioj
+»por, antaŭ (ol), anstataŭ«. (169.)
+
+  E.: _Mi ordonis al li helpi sian fraton._
+
+      _Mi lernas rajdi._
+
+      _Mi iras (por) helpi lin._
+
+      _Antaŭ (ol) foriri, li bruligis ĉiujn paperojn._
+
+      _Anstataŭ lerni, li petolas._
+
+112. Kiam rekta komplemento havas mem infinitivon kiel komplementon, tiam
+oni uzas prefere participon anstataŭ infinitivo, se oni volas montri la
+daŭron de l' ago.
+
+  E.: _Mi vidis lin mortigantan homon_ (dum li mortigas).
+
+  RIM. 1. »Mi vidis lin mortigi homon« estas ankaŭ uzebla laŭ verkoj de
+  kelkaj aŭtoroj; tiu formo estas multe pli malofta ol la supra.
+
+       2. Kiam oni ne celas montri daŭron de ago, tiam oni uzas simplan
+  infinitivon. E.: _Li devigas lin meti la ĉapelon sur la kapon_ (Haml. V.
+  2).
+
+
+IV. NEREKTA KOMPLEMENTO. (36.)
+
+113. Nerekta komplemento estas montrata de konvena prepozicio kaj restas en
+nominativo, kiam ne ekzistas almovo al ĝi. (117.)
+
+  E.: _Mi donas akvon al la birdoj._
+
+      _Mi enuas je la hejmo._
+
+      _Mi batalas kontraŭ li._
+
+114. Kiam ne ekzistas alia akuzativo en sama propozicio, oni povas meti
+nerektan komplementon en akuzativon senprepozician (t. e. igi ĝin rekta
+komplemento) se tio ne difektas klarecon de la frazo. (37, 195.)
+
+  E.: _Obei la patron_, anstataŭ: obei al la patro. (Z.)
+
+      _Enui la patrujon_, anstataŭ: enui je la patrujo. (Z.)
+
+      _Pardoni malamikon_, anstataŭ: pardoni al malamiko. (Z.)
+
+  RIM. 1. Sed oni diras devige: »pardoni al malamiko liajn ofendojn.
+  (Z.)—(110.)
+
+       2. Per reciproka uzo de supra regulo oni trovas ofte uzon de
+  prepozicio kun nominativo anstataŭ akuzativo sola. E. »Mi helpas al la
+  patro. Ami al Dio. Mordi al la brako.«
+
+115. Komplemento de verbo pasiva estas ordinare en nominativo kun
+prepozicio »de« por montri aganton, kun prepozicio »per« por montri ilon.
+
+  E.: _Mi estas amata de mia patro._
+
+      _La domo estas kovrita per ardezoj._
+
+
+V. CIRKONSTANCAJ KOMPLEMENTOJ. (7.) LOKO.
+
+116. Por montri lokon, je kiu oni estas, oni uzas nominativon kun unu el
+lokaj prepozicioj »en, ekster, sur, sub«, k. t. p. (197.)
+
+  E.: _Mi estas, iras, promenas, kuras en la ĝardeno._
+
+117. Por montri lokon al kiu oni iras, oni uzas akuzativon solan aŭ kun
+prepozicio.
+
+  E.: _Mi iras Parizon. Mi iras en la ĝardenon._
+
+      _La hirundo flugis trans la riveron, ĉar trans la rivero sin trovis
+          aliaj hirundoj._ (Z.)
+
+      _Morgaŭ mi petos permeson veni antaŭ viajn reĝajn okulojn._ (Haml.
+          IV. 7.)
+
+  RIM. 1. Tiu ĉi regulo rilatas ankaŭ moralan movon (38).
+
+       2. Lokaj adverboj ankaŭ devas preni _n_. E.: »Pri tio, kien metis li
+  korpon, ne povis ni sciiĝi.« (Haml. IV. 3.)—»Kien vi iras? En la
+  ĝardenon.« (Z.)
+
+       3. Post substantivo montranta almovon, oni ankaŭ devas uzi
+  akuzativon. E.: »Mi gratulas vian Princan Moŝton je la reveno Danujon.«
+  (Haml. V. 2.)
+
+       4. La verbo povas esti ne esprimita. Tiam akuzativo sola sufiĉas
+  montri almovon. E.: »Ŝtelistojn neniu lasas en sian domon.« (Z.)
+
+118. Kiam almovo estas sufiĉe montrata de prepozicio aŭ de antaŭa frazo,
+tiam oni povas neuzi finiĝon _n_. Tio ĉi okazas plej ofte kun prepozicioj
+»al« kaj »ĝis«. (Beaufront.)
+
+  E.: _Mi venas de la avo, kaj mi iras nun al la onklo._ (Z.)
+
+      _Miaj fratoj eliris kun la gastoj kaj akompanis ilin ĝis ilia domo._
+          (Z.)
+
+      _Kien ili iras? Kontraŭ Polujo._ (Haml. IV. 4.)
+
+  _Rim._ Post »al« kaj »ĝis« D-ro Zamenhof kaj plej multo el Esperantistoj
+  uzis ĝis nun ĉiam nominativon. Tio ĉi povas ja alporti pli da klaro en
+  frazon, evitante amasiĝon de akuzativoj. Tamen okazoj estas, kie »al«
+  montras dativon senmovan (La rozo apartenas al Teodoro) kaj aliaj, kie ĝi
+  montras certan almovon (mi iras al la onklo); oni povas demandi, kial en
+  tiu lasta okazo oni ne uzas akuzativon. (Laŭ E. L. Steckel.)
+
+119. Kiam, en frazo montranta almovon, oni celas nur rezultaton de la movo
+kaj ne ĝian fariĝon mem, tiam oni povas uzi nominativon. Tio ĉi okazas
+precipe kun verboj en tempo pasinta.
+
+  E.: _La malfeliĉa infano forkuris kaj kaŝis sin en la plej proksima
+          arbaro._ (Z.)—(Rezultato: nominativo.)
+
+      _Mi ne pendigis mian ĉapon sur tiu ĉi arbeto; sed la vento forblovis
+          de mia kapo la ĉapon, kaj ĝi, flugante, pendiĝis sur la branĉoj._
+          (Z.)
+
+      _Oni metis antaŭ mi manĝilaron, kiu konsistis ..._ (Z.)
+
+      _Mi disŝiris la leteron kaj disĵetis ĝiajn pecetojn en ĉiujn angulojn
+          de la ĉambro._ (Z.)—(Akuzativo, por montri fariĝon de la movo.)
+
+120. Por montri lokon de kiu oni venas, oni uzas nominativon kun konvena
+prepozicio: »de«, se oni simple deiras de tie; »el«, se oni volas montri
+eliron; »for, for de«, se oni volas montri energian aŭ grandan
+malproksimiĝon.
+
+  E.: _Li venas de Parizo kaj iras nun al Berlino._
+
+      _La violono falis el la violonujo._
+
+      _For! For de tie ĉi! iru for, sentaŭgulo!_
+
+
+VI. CIRKONSTANCAJ KOMPLEMENTOJ. TEMPO.
+
+121. Por montri tempon, oni uzas nominativon kun konvena prepozicio laŭ
+postaj reguloj. Tre ofte, kiam tio ĉi ne enkondukas konfuzon, oni ankaŭ
+uzas akuzativon senprepozician, aŭ formon adverban. (76.)
+
+  E.: _En printempo floroj aperas._ (Aŭ: printempon floroj aperas; aŭ:
+          printempe floroj aperas.)
+
+      _Dum la tuta tago li restis sola._ (Aŭ: la tutan tagon ...)
+
+      _Li estas nur unu jaron en la servado_ (Mary IX.)
+
+      _Hodiaŭ vespere mi estas sana, sed hieraŭ matene mi suferis._
+
+122. Por montri kiam okazos io, oni uzas »post« (kun nominativo).
+
+  E.: _Li revenos post tri semajnoj._
+
+      _Post 14 tagoj granda festo!_
+
+123. Por montri kiam okazis io, oni uzas »antaŭ« (203).
+
+  E.: _Antaŭ tri semajnoj mi fariĝis malsana, sed nun mi resaniĝis._
+
+124. Por montri de kiam afero estas farata aŭ okazas, oni uzas »de«. (Oni
+montras komencon de afero, kiu daŭras ankoraŭ.)
+
+  E.: _De tri semajnoj mi estas malsana, kaj ne scias kiam_ (aŭ: post kiom
+          da tempo) _mi resaniĝos_.
+
+125. Por montri ne precize tempon, je kiu okazas io, oni uzas »ĉirkaŭ, ĉe«,
+laŭ jenaj ekzemploj:
+
+      _Ĉe mia alveno la hundo ekbojis._
+
+      _Ĉirkaŭ majo mi foriros._
+
+126. Por montri tempon necesan por io, aŭ uzata por io, oni uzas »en«.
+
+  E.: _Tiu ĉi libro havas sesdek paĝojn; tial se mi legos en ĉiu tago po
+          dek-kvin paĝoj, mi finos la tutan libron en kvar tagoj._ (Z.)
+
+127. Por montri ekstreman limon da tempo, oni uzas unu el la esprimoj:
+»ĝis, ne pli (ol), ne malpli (ol), almenaŭ« ... k. t. p. (207, R. 2.)
+
+  E.: _Ĝi povas kuŝi ok ĝis naŭ jarojn._ (Haml. V. 1.)
+
+      _Li mortis antaŭ 10 jaroj, ne pli._
+
+      _La kontrakto ĉesos post almenaŭ kvin jaroj._
+
+  RIM. »Ok ĝis naŭ jarojn«, diras D-ro Zamenhof. »Jarojn« estas en
+  akuzativo, ĉar »ĝis« ne influas sur ĝin; »ĝis« estas ja tie ĉi nur simpla
+  ero en tuta esprimo »8-9 jaroj«. Tial oni povus diri: »kuŝi dum ok ĝis
+  naŭ jaroj«.
+
+128. Por montri daŭron, oni uzas »dum« (aŭ: »en la daŭro de« aŭ: »daŭre«).
+
+  E.: _Dum kvar tagoj mi restis tie._
+
+      _En la daŭro de kelke da minutoj mi aŭdis du pafojn._ (Z.)
+
+129. Ripeton oni montras per vortoj »foje, unufoje, dufoje« ... aŭ »fojon,
+unu fojon, du fojojn, tri fojojn« ... aŭ »en la unua fojo, por unua fojo«
+...
+
+  E.: _Dufoje li batis min. Li venis tri fojojn. Por la unua fojo mi
+          ricevis premion._
+
+130. Tempaj adverboj estas: iam, tiam, kiam, neniam, ĉiam. Ili ofte sufiĉas
+montri tempon pasintan aŭ estontan, kiam verbo estas mem en pasinto aŭ
+estonto.—»Kiam« oni uzas post »tiam« kaj post ia ajn vorto aŭ esprimo
+montranta tempon.
+
+  E.: _Unutage kiam; tagon, kiam; tuj kiam; ĵus kiam; samtempe, kiam; de l'
+          tempo, kiam; post kiam_, k. t. p.
+
+  RIM. 1. Nur post »antaŭ« oni uzas »ol« en tempa senco: »antaŭ ol li
+  fariĝis riĉa, li ...« Tio ĉi estas bedaŭrinda escepto, ĉar oni ne
+  komprenas, kial oni diras »post kiam li fariĝis riĉa« kaj »antaŭ ol ...«
+  Multe pli bone estus uzi ĉiam: »antaŭ kiam li fariĝis riĉa ...«
+
+       2. Por tagoj, horoj, k. c. vidu paragr. 75 kaj 77.
+
+
+VII. CIRKONSTANCAJ KOMPLEMENTOJ. KAŬZO.
+
+131. Por montri kaŭzon, oni uzas prepozicion »pro«. (Iafoje »de«, kiam
+kaŭzo konfuziĝas kun deveno.)
+
+  E.: _Li agas pro ĵaluzemo._
+
+      _Li mortis pro malsato_ (aŭ: de malsato).
+
+      _Li eksaltis de surprizo._ (Z.)
+
+132. Por montri celon, oni uzas prepozicion »por«.
+
+  E.: _Li sin kuracas por resaniĝi._
+
+133. Por montri devenon, difinon aŭ uzadon de objekto, oni uzas prepozicion
+»de«. (47.)
+
+  E.: _Tio venis de lia unua eraro._
+
+      _Li estas doktoro de medicino, studento de leĝoscienco, profesoro de
+          historio._
+
+      _De la patro mi ricevis libron._ (Z.)
+
+      _Donu al mi alian glason de vino, ĉar tiu ĉi estas malpura._ (Z.)
+
+  RIM. »Da vino« oni uzus, se oni volus montri ian kvanton da vino, sed ne
+  glason uzatan por vino. (46.)
+
+134. Eliro, ŝtofo el kiu oni tiris ion, estas montrata per »el«. (49.)
+
+  E.: _Mi estas el Parizo._
+
+      _Tiu ringo estas el oro._
+
+135. Instrumenta kaŭzo, ilo per kiu oni faras ion, estas montrata per
+prepozicio »per«.
+
+  E.: _Li mortigis lin per glavo._
+
+      _Mi manĝas per la buŝo kaj flaras per la nazo._ (Z.)
+
+      _Tion mi sciiĝis per mia frato_ (»de« oni povus ankaŭ uzi en tiu
+          ekzemplo).
+
+136. Kaŭzon ĝeneralan, motivon, k. c. oni montras per adverba serio »ial,
+tial, kial, ĉial, nenial«, kaj devenaj esprimoj »tial ... ĉar; tial ...
+ke«; k. t. p.
+
+  E.: _Kiam tiu bela knabino venis domen, ŝia patrino insultis ŝin, kial ŝi
+          revenis tiel malfrue de la fonto._ (Z.)
+
+
+VIII. CIRKONSTANCAJ KOMPLEMENTOJ. MANIERO.
+
+137. Por montri manieron laŭ kiu io okazas, oni uzas adverban formon aŭ
+prepozicion konvenan.
+
+  E.: _Li mensogis plej senhonte!_
+
+      _Li parolas plej saĝe_ (aŭ: laŭ plej saĝa maniero; aŭ: kun plej
+          granda saĝeco).
+
+      _La pli juna estis la plena portreto de sia patro laŭ sia boneco kaj
+          honesteco._ (Z.)
+
+      _Li venis al ni tute ne atendite._ (Vidu paragr. 174.)
+
+138. Por montri parton je kiu oni tenas ion, oni uzas prepozicion »je« (aŭ:
+»apud«, »ĉirkaŭ«, k. a. laŭ okazo).
+
+  E.: _Li tenadis lin je la kolo per ambaŭ manoj._
+
+      _Li prenis sian edzinon ĉirkaŭ la talio._
+
+139. Koston, valoron, k. t. p. de io oni montras per akuzativo sola aŭ per
+nominativo kun konvena prepozicio.
+
+  E.: _Mi aĉetis tiun domon dek mil frankojn._
+
+      _Tio kostas ok frankojn._
+
+      _Donu al mi por dudek-kvin centimoj da tabako._
+
+      _Por miaj kvar infanoj mi aĉetis dekdu pomojn, kaj al ĉiu el ili mi
+          donis po tri pomoj._ (Z.)
+
+  RIM. 1. Preferinde estas diri: »mi aĉetis tiun domon por dek mil
+  frankoj«, ĉar tiel oni evitas duoblan akuzativon.
+
+       2. »Po« havas sencon disdonan; ne uzu ĝin anstataŭ »por«, ekzemple
+  kiel en frazo »donu al mi po dek centimoj da tabako«. Tio signifus, ke
+  oni aĉetas ian nombron da paketoj enhavantaj ĉiu por dek centimoj da
+  tabako. Plie oni ne devas forgesi, ke »po« estas prepozicio kaj tial
+  regas nominativon.
+
+
+IX. AKUZATIVO POST NETRANSITIVAJ VERBOJ.
+
+140. Kiel ni jam vidis (110, R. 2) de regulo de almovo kaj de eblo
+anstataŭi prepozicion per akuzativo, devenas en Esperanto renkonto de
+komplementoj en akuzativo (kiuj ne estas veraj rektaj komplementoj) post
+verboj, kiuj ne havas rektan komplementon. (Netransitivaj verboj, eĉ verbo
+»esti«.)
+
+  E.: _Enui la patrujon._ (Z.)
+
+      _Aleksandro turniĝis en polvon._ (Haml. V. 1.)
+
+      _Mi jam tri jarojn estas tombisto._ (Haml. V. 1.)
+
+      _Ni sciiĝis tiun novaĵon_ (anstataŭ: pri tiu novaĵo).
+
+
+X. MODOJ KAJ TEMPOJ.
+
+141. Propozicio (3), rilate al realeco de afero eldirata, estas elparolata
+kaj esprimata diversmaniere de parolanto. La ideo povas esti eldirata, kiel
+reala, okazanta fakto (E.: Petro kuras); aŭ kiel volo, deziro de parolanto
+(E.: Petro, kuru!); aŭ kiel simpla opinio, kompreno, k. t. p. (E.: Petro
+kuras por varmiĝi.—Oni ne diras, ke Petro estas varma, sed lia varmiĝo
+estas rigardata kaj esprimata, kiel celo de lia kuro).
+
+Diversa maniero, laŭ kiu propozicio estas komprenata, estas esprimata en
+Esperanto per tri modoj: _indikativa_, _ordona_, _kondiĉa_,—kaj iafoje per
+_infinitivo_.
+
+Rilato inter ĉefa kaj dependa propozicio (211) estas esprimata per
+konjunkcioj plej ofte. Tiuj konjunkcioj ne ordonas difinitan modon, ĉar en
+Esperanto modo uzota dependas nur de ideo esprimota. (218.)
+
+142. Kion oni diras, tio povas rilati simple unu el tri tempoj: _estinto_,
+_estanto_, _estonto_ (simplaj tempoj); aŭ rilati ian momenton _pasintan_,
+_estantan_ aŭ _okazontan_, jam estantan en _estinteco_, _estanteco_ aŭ
+_estonteco_, rilate al tiu momento (malsimplaj tempoj).
+
+
+XI. INDIKATIVO.
+
+143. Indikativo estas modo, per kiu oni eldiras simple ion, kiel veran,
+jese, nee, aŭ demande.
+
+  E.: _Patro venas. Kiam patro venos, ni foriros._
+
+      _Kvankam tio estas konata, tamen oni devas rememorigi pri ĝi._
+
+      _Se li estas malsana, mi senkulpigas lin._
+
+
+XII. INDIKATIVO. TEMPOJ SIMPLAJ.
+
+144. Per estinta tempo (_is_) oni esprimas tion, kio pasis.
+
+  E.: _Li venis antaŭ du horoj. Pluvis hieraŭ. Se li estis malsana, li ne
+          povis veni._
+
+      _Kiam tiu bela knabino venis domen, ŝia patrino insultis ŝin._ (Z.)
+
+145. Kiam oni celas ion, kio okazas kutime, tiam oni povas uzi laŭvole
+tempon estintan aŭ estantan en dependaj propozicioj (montrantaj tempon,
+kondiĉon, lokon, k. t. p.), kiam ago, esprimata de la dependa propozicio,
+okazas antaŭ tiu, kiun esprimas la ĉefa propozicio.
+
+  E.: _Kiam mi alvenas somerloĝejon, la freŝa aero ĉarmas min_,—aŭ: _kiam
+          mi alvenis somerloĝejon, la freŝa aero ĉarmas min_.
+
+146. Per estanta tempo (_as_) oni esprimas tion, kio okazas en momento,
+kiam oni parolas, kio okazas kutime aŭ en ĉia tempo, aŭ kio estas
+komprenata, kiel nuna. (E.: pensoj enhavataj en libroj ankoraŭ nun
+posedataj, k. t. p.)
+
+  E.: _Mi kuras. La vero ĉiam venkas._ (Z.)
+
+      _La aŭtoro diras en sia verko, ke ..._
+
+147. En vivaj rakontoj ofte faktoj pasintaj aŭ okazontaj estas esprimataj
+per estanta tempo.
+
+  E.: _Mi haltis, perdante la spiron, sur la rando de l' monto, kaj, min
+          apoginte al angulo de dometo, mi komencis rigardi la pentrindan
+          ĉirkaŭaĵon, kiam subite mi aŭdas post mi konatan voĉon: »Peĉorin!
+          ĉu jam longe tie ĉi?« Mi min turnas: Gruŝnicki! Ni nin
+          ĉirkaŭprenis._ (Mary IX. 20.)
+
+      _La princino, ŝajne, estas el tiuj virinoj, kiuj volas, ke oni ilin
+          plezurigu; se daŭre du minutoj apud vi ŝi enuos, vi estas perdita
+          nereveneble._ (Mary XXV. 29).
+
+148. Oni uzas ankaŭ estantan tempon por montri tion, kio daŭris iom da
+tempo kaj daŭras ankoraŭ.
+
+  E.: _Li estas en Parizo jam de tri jaroj._
+
+  RIM. Kompreneble se tuta rakonto estas en pasinta tempo, oni uzas
+  estinton. E.: »Li estis jam de tri jaroj en Romo, kiam alvenis lia
+  patro«.
+
+149. Per estonta tempo (_os_) oni esprimas tion, kio okazos.
+
+  E.: _La patro venos post du tagoj._
+
+      _Tiam la floro malfermiĝos._
+
+      _Se pluvos, li ne venos._
+
+
+XIII. INDIKATIVO. TEMPOJ MALSIMPLAJ.
+
+150. Estintan tempon en pasinto[5] oni uzas por montri, ke, je momento
+pasinta, io estis jam ankaŭ pasinta.
+
+  E.: _Mi estis skribinta mian leteron, kiam la leteristo venis._
+
+  _Rim._ Oni uzas tiun tempon en dependa propozicio, kies ĉefa propozicio
+  estas en simpla estinto, kiam oni uzus simplan estinton en la dependa
+  propozicio, se la ĉefa estus en estanto.
+
+151. Estantan tempon en pasinto oni uzas, kiam oni metas sin pense en
+pasinta momento kaj priskribas tion, kio okazas en tiu sama momento.
+
+  E.: _Mi estis skribanta leteron, kiam okazis tertremo._
+
+152. Estontan tempon en pasinto oni uzas por montri, ke, dum epoko jam
+pasinta, io estis ankoraŭ okazonta; aŭ ke oni jam decidis ion fari.
+
+  E.: _En jaro 1886 la lingvo Esperanto estis ankoraŭ aperonta._
+
+      _Ili interkonsentis, kaj estis enirontaj la landon, sed ..._
+
+  RIM. Por montri, ke la afero estis plej baldaŭ okazonta, oni ofte uzas
+  vorton »tuj«. E.: »Ni estis tuj elirontaj, kiam ekpluvis« (En la momento
+  mem eliri, pluvo ekfalis.)
+
+153. Estintan tempon en estanto oni uzas por montri staton devenantan de
+ago pasinta.
+
+  E.: _Li estas alveninta de du horoj._ (Beaufront.)
+
+      _Jam longe ili estas mortintaj._
+
+154. Estantan tempon en estanto oni uzas por montri staton aŭ agon
+daŭrantan, okazantan en la momento mem.
+
+  E.: _Lasu min trankvila, ĉar mi estas laboranta serioze._
+
+      _Li estas vojaĝanta._
+
+  RIM. Frazo »li vojaĝas« povus signifi: li vojaĝas kutime, sed eble nun ne
+  estas en vojaĝo. Tiun formon malsimplan oni uzas nur, se malklaraĵo estas
+  timebla. (159.)
+
+155. Estontan tempon en estanto oni uzas por montri, ke oni jam decidis
+fari ion; aŭ ke io okazos, sed en ne deviga, ne certa maniero.
+
+  E.: _Mi estas vojaĝonta Madridon en proksima vintro_ (kredeble mi
+          vojaĝos; mi intencas vojaĝi).
+
+      _Kiam abeloj estas forflugontaj, ili zumas forte._
+
+  RIM. Per aldono de »tuj, baldaŭ« k. s. oni alproksimigas la estonton: »mi
+  estas tuj elironta, tial rapidu realporti respondon«.
+
+156. Estintan tempon en estonto oni uzas por montri, ke kiam alvenos ia
+momento, afero estos jam finita.
+
+  E.: _Kiam vi venos al mi, li estos dirinta al mi la veron._ (Z.)
+
+157. Estantan tempon en estonto oni uzas por montri, ke ia afero okazos
+samtempe kun alia, kiu ne ekzistas ankoraŭ.
+
+  E.: _Mi timas, ke la respondo alvenos, dum mi estos promenanta._
+
+158. Estontan tempon en estonto oni uzas por montri, ke ia afero okazos
+antaŭ alia, kiu mem ankaŭ estas okazonta.
+
+  E.: _Ni aŭskultigos nian aŭdantaron, se ni montros al ĝi, ke la aferoj,
+          kiujn ni estos parolontaj, estas grandaj, novaj, nekredeblaj._
+
+  RIM. Tiu formo estas proksimume neuzata. Oni pli volonte (kaj pli simple)
+  diras: »aferoj, kiujn ni estas parolontaj«, aŭ: »kiujn ni parolos«.
+
+159. Malsimplajn tempojn oni uzas nur malofte en Esperanto, kiam oni volas
+nepre precizigi ideon, se ĉirkaŭaj frazoj ne igas ĝin sufiĉe klara.
+
+  E.: _Kiam tiu bela knabino venis domen, ŝia patrino insultis ŝin_
+          (Z.)—anstataŭ: _estis veninta domen_.
+
+      _Kiam ŝi parolis tiujn ĉi vortojn, elsaltis el ŝia buŝo tri rozoj_
+          (Z.)—anstataŭ: _kiam si estis parolanta_ ...
+
+      _La malfeliĉa infano rakontis al li naive ĉion, kio okazis al ŝi_
+          (Z.)—anstataŭ: _estis okazinta_ ...
+
+      _Kiam malriĉa virino petos de vi trinki, vi donos ĝin al ŝi ĝentile_
+          (Z.)—anstataŭ: _estos petinta de vi trinki_.
+
+      _Li ne evitos jam la morton, kiun la bato via eble ne alportis_
+          (Haml. IV. 7),—anstataŭ: _ne estos alportinta_.
+
+160. Tempo uzota, simpla aŭ malsimpla, estas ĉiam montrata de ideo
+esprimota, kaj neniel dependas de aliaj kaŭzoj (konjunkcioj, aliaj verboj,
+k. c.)
+
+  E.: _La filo de la reĝo demandis ŝin, kion ŝi faras tie ĉi_ (Z.).—»Faris«
+          povus montri ion jam pasintan.
+
+      _La princedzino diris, ke via vizaĝo estas al ŝi konata._ (Mary XX.)
+
+      _Adiaŭ! Mi esperis, ke vi estos edzino kara de Hamleto mia._ (Haml.
+          V. 1.)
+
+161. Resume, tempojn malsimplajn oni uzas plej malofte. Se oni uzas ilin,
+tiam:
+
+_A._ Por diri, ke ago _estis_, _estas_, aŭ _estos_ farata en la momento
+mem, pri kiu oni parolas, oni uzas verbon »esti« kun _estanta participo_ de
+verbo esprimanta tiun agon.
+
+_B._ Por diri, ke ago _estis_, _estas_, aŭ _estos_ finita en la momento,
+pri kiu oni parolas, oni uzas »esti« kun _pasinta (estinta) participo_ de
+verbo esprimanta tiun agon.
+
+_C._ Por diri, ke ago _estis_, _estas_, aŭ _estos_ nekomencita ankoraŭ sed
+tamen okazos, oni uzas »esti« kun estonta participo de verbo montranta la
+agon.
+
+
+XIV. ORDONA MODO. (IMPERATIVO.)
+
+162. En ĉefaj propozicioj imperativo montras ordonon de parolanto.
+
+  E.: _Venu tien ĉi!_ (Mi volas, ordonas.)
+
+163. En dependaj propozicioj, imperativo montras ordonon, volon, deziron,
+peton, devon, konvenon, necesecon, timon, k. t. p.
+
+  E.: _Mi deziras, ke li venu._
+
+      _Estas necese, ke li venu._
+
+      _Mi petas, ke vi ne faru tion._
+
+      _Mi timas, ke li venu._
+
+  RIM. 1. Alia modo (e.: indikativo estonta) montrus malpli fortan deziron,
+  peton, k. c.: »mi petas, ke li vizitos tiun malsanulon. Mi timas, ke li
+  venos, kaj eble difektos la ĝardenon«. (V. ekz. 157, 218. R. 2.)
+
+       2. Reciproke oni povas uzi imperativon por montri fortan volon: e.:
+  »mi esperas, ke vi ĉesu petoli«.
+
+164. Por tempoj malsimplaj de imperativo oni agas kiel por indikativo.
+(Estu amanta, aminta, amonta.)
+
+
+XV. KONDIĈA MODO. (KONDICIONALO.)
+
+165. Kondicionalo montras, ke afero dependas de supozo, t. e. de alia afero
+(kondiĉo), kiu ne estas vera, ne ekzistas efektive en momento, kiam oni
+parolas.
+
+  E.: _Se li estus riĉa, li havus multajn amikojn. (Sed li ne estas riĉa,
+          li do ne havas multajn amikojn.)_
+
+      _Se mi tion scius, mi ĝin dirus. (Sed tion mi ne scias.)_
+
+  RIM. 1. Kiam oni volas montri per vorto »se«, ke kondiĉa rilato ekzistas
+  inter du propozicioj, sed neniel celas realecon de enhavo de ambaŭ
+  propozicioj, tiam oni uzas simple indikativon. E.: »Se vi ne faris alian
+  aferon, vi estas sufiĉe rekompencita.«
+
+       2. Kondicionalo povas iafoje montri deziron, timon, minacon, k. c.
+  kiam efektivigo de l' kondiĉo eldirata ŝajnas preskaŭ neebla. E.: »Se mi
+  povus lin venki!—Se iam vi mokus min!...
+
+       3. Oni iafoje uzas kondicionalon eĉ kiam afero estas reala, por
+  montri (pro ĝentileco aŭ alia kaŭzo) malpli da forton en la senco. En tia
+  okazo (kiel en supra) oni alpensas alian frazon kondiĉan. E.: »Mi ne
+  volus tion fari« (se tio okazus).—»Mi estus feliĉa ricevi vian verkon«
+  (se vi havus afablecon ĝin sendi al mi ...)
+
+166. Por tempoj malsimplaj de kondicionalo, oni agas kiel por indikativo.
+
+  E.: _Mi ne farus la eraron, se li estus dirinta al mi la veron._ (Z.)
+
+
+XVI. INFINITIVO.
+
+167. Infinitivo esprimas ideon verban en ĝenerala maniero. Oni uzas ĝin:
+
+_a_) subjekte, kiam ago estas montrata ĝenerale; _b_) komplemente, por
+klarigi ideon.
+
+  E.: _Bone pensi kaj bone agi sufiĉas por vivi bone kaj feliĉe._
+
+      _Vivi estas agi: kiu ne agas, ne vivas._
+
+      _Li ĉesis kuri._
+
+  RIM. 1. Infinitivo uzata subjekte estas vera substantivo, sed neniam
+  akceptas artikolon antaŭ si. Plie adjektivo, uzata kiel ĝia predikato,
+  estas en formo adverba (26, 64). Oni povas ĉiam ŝanĝi tian infinitivon en
+  substantivon, ŝanĝante _i_ en _o_ aŭ _ado_. Tiam oni povas uzi artikolon
+  kaj meti adjektivon en ordinaran formon _a_. E.: »Scii estas utile.« »La
+  sciado estas utila.«
+
+       2. Por participoj uzataj en tempoj malsimplaj, oni ofte uzas formon
+  _a_, eĉ kiam la participo rilatas infinitivon aŭ enhavon de tuta
+  propozicio. E.: »Pli bone estas honorinde vivadi, ol esti honorinde
+  naskita.«
+
+168. Adjektivo aŭ substantivo rilatanta unu el tiaj ĝeneralaj infinitivoj
+(subjektoj) restas ordinare en nominativo. (Pro verbo »esti«.)
+
+  E.: _Promeni estas agrabla okupo._
+
+169. Infinitivon oni povas uzi komplemente post verbo, adjektivo aŭ
+substantivo; prepozicion oni ne antaŭmetas, escepte »por, antaŭ, anstataŭ«.
+(111.)
+
+  E.: _Malbonaj infanoj amas turmenti bestojn._ (Z.)
+
+      _Mi volis ŝlosi la pordon._ (Z.)
+
+      _Mi estas preta ĵuri._ (Haml. IV. 7.)
+
+      _Morgaŭ mi petos la permeson veni antaŭ viajn reĝajn okulojn._ (Haml.
+          IV. 7.)
+
+170. Kiam subjekto de infinitivo estas substantivo aŭ pronomo en akuzativo,
+se ekzistas samtempe komplemento de tiu infinitivo, preferinde estas uzi
+alian modon kun konvena konjunkcio (ke ...). Se la komplemento estas ankaŭ
+en akuzativo, tiam oni _devas_ fari tiun ŝanĝon por eviti malklaraĵon.
+
+  E.: _Mi kredas lin esti bona_ (... ke li estas bona.)
+
+      _Mi kredas lin ami sian edzinon_ (... ke li amas sian edzinon.)
+
+171. Simile tempoj malsimplaj de infinitivo estas maloftaj. (Esti amanta,
+aminta, amonta.) Oni uzas pli volonte konjunkcion kun alia modo.
+
+
+XVII. PARTICIPOJ.
+
+172. Participoj adjektivaj akordiĝas kiel ordinaraj adjektivoj: _nombre kaj
+kaze_, se ili estas apudmetitaj; _nur nombre_, se ili estas uzataj
+predikate. (62, 63.)
+
+  E.: _Mi ne amas infanojn bruantajn._
+
+      _Ni estas lacigataj de la bruado._
+
+      _Ni trovis ilin_ (estantajn) _mortintaj_.
+
+  RIM. Por uzado de participoj en tempoj malsimplaj, vidu XIII.
+
+173. Estonta participo ne montras per si mem devon. Tiel »la konstruota
+domo« ne signifas la domon, kiun oni devas konstrui, sed nur domon, kiun
+oni konstruos. (Beaufront.)
+
+174. Kiam participo montras cirkonstancan komplementon kaj rilatas
+subjekton de frazo, tiam oni plej ofte metas ĝin en adverban formon.
+
+  E.: _Promenante sur la strato, mi falis._ (Z.)
+
+      _Trovinte pomon, mi ĝin manĝis._ (Z.)
+
+      _Li venis al mi tute ne atendite._ (Z.)
+
+  RIM. 1. Tio okazas plej ofte por montri manieron (137) laŭ kelkaj uzoj de
+  latina gerundivo ablativa, aŭ montri samtempecon, malsamtempecon de fakto
+  kun alia.
+
+       2. Se la participo ne rilatas la subjekton de la frazo, tiam oni
+  uzas modan formon kun konjunkcio, adverbo, k. c. aŭ oni ŝanĝas la
+  konstruon de la frazo por ĉion rilatigi al la subjekto. E.: »_Post kiam
+  la malamikoj forkuris, ni transiris la ponton._« Oni ne diras: »la
+  malamikoj forkurinte, ni transiris la ponton.«—»_(Tenante) la okulojn al
+  la ĉielo, li preĝis fervore_,« sed ne: »la okuloj turnite al la ĉielo, li
+  ...«
+
+       3. Kiam participo rilatas rekte subjekton, (aŭ komplementon) t. e.
+  estas uzata kiel apudmetita adjektivo, kompreneble ĝi ne prenas tiun
+  gerundivan formon, sed akordiĝas kiel simpla adjektivo. E.: »Al homo
+  pekinta senintence, Dio facile pardonas.« (Z.)—»La tempo pasinta jam
+  neniam revenos; la tempon venontan neniu ankoraŭ konas.« (Z.)
+
+
+XVIII. PASIVAJ VERBOJ.
+
+175. Pasivaj verboj, estante formataj per kunligo de verbo »esti« kun
+pasivaj participoj, havas nur malsimplajn tempojn. Tiuj tempoj signifas
+absolute kiel tiuj de aktivaj verboj. (XII, XIII.)
+
+176. Pasivaj participoj sekvas regulojn de aktivaj. Iliaj komplementoj
+estas signataj per »de« aŭ »per«. (144.)
+
+177. Oni devas atenti neuzi estantan pasivan participon anstataŭ estinta,
+kaj reciproke. Participo »ata« montras, ke ago daŭras en priparolata
+momento, aŭ ke oni konsideras ĝian daŭradon; participo »ita« montras
+finitecon de ago.
+
+  E.: _La pordo estas fermita. (Oni ĝin fermis.)_
+
+      _La pordo estas fermata. (Oni ĝin fermas nun.)_
+
+      _Pasero kaptita estas pli bona ol aglo kaptota._ (Z.)
+
+      _Mono havata estas pli grava ol havita._ (Z.)
+
+
+XIX. REFLEKSIVAJ VERBOJ.
+
+178. Refleksiva verbo montras agon de subjekto sur sin mem. (80.)
+
+  E.: _Li batis sin._ _Mi lavas min._ _Li sidigis sin._
+
+  RIM. Oni do uzas ilin nur kiam subjekto vere agas sur sin mem, kaj ne,
+  kiel en naciaj lingvoj, en multaj aliaj okazoj. Por esti certa, ke oni
+  povas tiel ripeti personan pronomon, oni povas demandi kaj respondi jese:
+  »ĉu mi povus fari tiun agon sur alian personon?« E.: »Mi lavas min« (mi
+  povus lavi alian).
+
+179. Kiam subjekto fariĝas ia, oni povas uzi sufikson »iĝi« anstataŭ ripeti
+pronomon personan.
+
+  E.: _Li sidiĝis_ (aŭ: _li sidigis sin_). (Z.)
+
+      _Li montriĝis_ (aŭ: _li montris sin_).
+
+180. Se ekzistas multenombra subjekto kaj oni volas montri, ke ago iras de
+unu al alia de tiuj subjektoj, oni uzas vorton »reciproke« aŭ esprimon »unu
+la alian«. (Kun tiu ĉi lasta oni ordinare ne ripetas personan pronomon.)
+(Beaufront.)
+
+  E.: _Ili batas sin reciproke_ (aŭ: _ili batas unu la alian_.)
+
+
+XX. APARTA UZADO DE KELKAJ VERBOJ.
+
+181. »Esti« estas sola helpa verbo. Neniam oni uzas »havi« kun participo
+predikateca.
+
+  E.: _Mi estas alveninta._ _Mi estis manĝinta._
+
+182. Plej ofte (159, 161) oni uzas simplajn tempojn anstataŭ verbo »esti«
+kun participo aktiva.
+
+  E.: _Mi venis, vidis, venkis._
+
+      _Li alvenis de du horoj._
+
+183. Kiam oni havas kelkajn participojn rilatantajn saman subjekton, kaj
+kiam la helpa verbo estas en sama tempo por ĉiu el ili, tiam oni povas ne
+ripeti »esti« antaŭ ĉiuj participoj.
+
+  E.: _Li estis subite alveninta kaj ekkaptinta lian kruron._
+
+184. »Igi, iĝi«, estas ofte uzataj en senco de »farigi, fariĝi«.
+Kompreneble oni tiam ne trovas post ili predikaton adjektivan en akuzativo
+(63).
+
+  E.: _Mi igis lin bona._ _La ĉielo iĝis luma._
+
+185. »Devi« oni ne devas konfuzi kun ŝuldi. Tiu ĉi lasta esprimas nur, ke
+oni estas debitoro je iu ĉu mone ĉu dankeme, k. c. »Devi« kontraŭe montras
+moralan devon, necesecon. Iafoje »devi« egalas »necese estas«.
+
+  E.: _Mi ŝuldas al vi tri mil frankojn._
+
+      _Ni ŝuldas tiun verkon al lia genio._
+
+      _Mi devas vin forlasi, ĉar oni atendas min._
+
+      _Oni devas ami siajn gepatrojn._
+
+      _Oni devas_ (necese estas) _zorgi pri sia eksteraĵo, se oni volas
+          sukcesi en la mondo_.
+
+  RIM. Oni ne uzas »devi« por montri, ke eble oni faros ion, aŭ ke oni jam
+  decidis ion fari. En tia okazo oni uzas »estonton en estanto« (155).
+
+186. »Kuŝi« estas uzata ne nur en senco »esti en lito« aŭ por montri
+ripozadon, sed ankaŭ por esprimi ĉian ajn malstaran staton.
+
+  E.: _La krajono kuŝas sur la libro._ (Z.)
+
+187. »Lasi« estas uzata ofte de D-ro Zamenhof en Hamleto anstataŭ »igi«
+(krom ĝia ordinara senco). Tion ĉi oni ĝis nun ne renkontis aliloke.
+
+  E.: _Mi lasis lin alveni kaj la korpon mi lasis serĉi_ (Haml. IV. 3)
+          anstataŭ: »_mi alvenigis, mi serĉigis_«. #
+
+188. »Meti« estas elasta verbo (_D-ro Zamenhof._ _Letero pri deveno de
+Esperanto._) kion oni uzas por multaj esprimoj.
+
+  E.: _Mi metis la manon sur la tablon._ (Z.)
+
+      _Vortoj kunmetitaj estas kreataj per simpla kunligado de vortoj._
+          (Z.)
+
+      _Oni metis antaŭ mi manĝilaron._ (Z.)
+
+      _Se oni volus kunmeti plenan registron de liaj bonaj ecoj._ (Haml. V.
+          2.)
+
+      _Metu vian ĉapelon sur sian lokon._ (Haml. V. 2.)
+
+      _Neniam vi kunmetu viajn manojn en tia formo ..._ (Haml. I. 1.)
+
+      _La krimulo jam estos elmetita al la meritita puno._ (Esperantisto
+          47.)
+
+      _Multaj personoj estis metitaj en malliberejon._ (Esperantisto 46.)
+
+      _Li metis sian atenton sur la belan Raĥelon_ (id.)
+
+      _La malnoblulo metis ian reton por ŝia patro_ (id.)
+
+      _Mi certe almetos ĉiujn penojn por plenumi vian komision_ (id.)
+
+189. »Sidi«, krom senco »sidi sur seĝo« estas ofte uzata ankaŭ en senco
+»esti en sia difinita loko«.
+
+  E.: _La kuiristo sidas en la kuirejo._ (Z.)
+
+      _La urbo sidas sur monteto._
+
+      _En la kandelingo sidis brulanta kandelo._ (Z.)
+
+190. Por esprimi staton (de l' korpo, de l' animo, k. c.), oni plej ofte
+uzas verbon »esti« kun adjektivo.
+
+  E.: _Mi estas varma, malvarma, malsata, soifa, sesjara, prava, malprava_,
+          k. t. p.—_Miaj manoj estas malvarmaj, sed miaj piedoj estas
+          varmaj._
+
+  RIM. 1. Kelkaj aŭtoroj uzas verbon devenantan el tiuj adjektivoj. Tiu
+  uzado fariĝis pli ofta en lasta tempo. E.: mi hontas, soifas, malsatas,
+  malsanas.
+
+       2. Neniam oni diras: »mi havas varmon«, k. c.
+
+
+
+
+IX.
+
+PREPOZICIO.
+
+I. ESPLORO ĜENERALA.
+
+191. Prepozicio esprimas rilaton inter vortoj; plej ofte ĝi montras
+nerektan aŭ cirkonstancan komplementon de verbo, komplementon de
+substantivo aŭ adjektivo, k. t. p. ĝi anstataŭas kazojn deklinaciajn.
+
+Prepozicio en Esperanto ordinare havas sian komplementon en nominativo. Oni
+uzas akuzativon post prepozicio nur se tiu ĉi kazo estas postulata de alia
+kaŭzo. (Z.) [E.: almovo.] (36. R. 1; 127. R.)
+
+  E.: _La libro estas sur la tablo, kaj la krajono kuŝas sur la fenestro._
+          (Z.)
+
+      _Mi trinkis teon kun kuko kaj konfitaĵo._ (Z.)
+
+      _Mi vivas kun li en granda amikeco._ (Z.)
+
+192. Prepozicio estas ordinare memstara vorto; tamen kelkaj estas ankaŭ
+adverboj (210) aŭ konsistas el tuta esprimo.
+
+  E.: _Kaŭze de la finiĝo de la unua dekjaro..._ (Z. en L. I. n-ro 18, pĝ.
+          83.)
+
+      _Li staris meze de la malamikoj._
+
+193. Prepozicioj estas ofte uzataj kiel prefiksoj aŭ por formi kunmetitajn
+vortojn. Kiam tio ĉi okazas por verbo, oni tre ofte ripetas antaŭ nerekta
+komplemento de la verbo la prepozicion, per kiu oni formis tiun verbon.
+
+  E.: _Tio estis senutila. Mi eliris el la korto._
+
+194. En Esperanto ĉiu prepozicio havas sencon bone difinitan. Se la senco
+de frazo ne montras klare, kian prepozicion oni devas uzi, tiam oni povas
+uzi la komunan prepozicion »je«. Sed estas bone uzi la vorton »je« kiel
+eble pli malofte. (Z.)
+
+  E.: _Mi ridas je lia naiveco._ (Z.)
+
+      _Je la lasta fojo mi vidas lin ĉe vi._ (Z.)
+
+195. Anstataŭ la vorto »je« oni povas ankaŭ uzi akuzativon sen prepozicio.
+Sed oni ne uzas akuzativon tiam, kiam la klareco de la senco tion ĉi
+malpermesas. (37, 114.) (Z.)
+
+  E.: _Mi ridas lian naivecon._ (Z.)
+
+      _Mi veturis du tagojn kaj unu nokton._ (Z.)
+
+      _Mi pardonis mian malamikon._ (Z.)
+
+      _Mi pardonis al la malamiko lian kulpon._ (Z.)
+
+196. Rilatoj plej ofte esprimataj de prepozicioj povas ordiĝi laŭ jena
+tabelo:
+
+  _Loko._ (116-121.) Mi loĝas en Parizo. Li estas apud la pordo.
+
+  _Tempo._ (121-131.) Mi venos post tri tagoj.
+
+  _Celo._ (132.) Mi manĝas por vivi.
+
+  _Kaŭzo._ (131-137.) Rabi pro malsato. Morti de febro. Flari per nazo.
+
+  _Maniero._ (137-140.) Paroli pri io. Agi laŭ sia opinio.
+
+  _Deveno_ (47, 133), _dependo_. Mi ricevis leteron el Parizo. Tiu libro
+  estas verkita de mia frato. La birdo deflugis de la arbo.
+
+  _Posedo_ (_ofte_: _genitivo_). Tio estas la libro de mia frato.
+
+  _Aparteno_, _aldono_ (_ofte_: _dativo_). La rozo apartenas al Teodoro.
+  Donu vestojn al la malriĉuloj.
+
+  _Kunigo._ Venu kun mi. Li estas bona, kaj, krom tio, riĉa.
+
+  _Disigo_, _forigo_. Metu vian manon for de mia kolo. Apartigu pajlon de
+  fojno. Li fariĝis sen mono. Tri rozoj elsaltis el ŝia buŝo.
+
+  _Proksimigo._ Li venis al ni. Kien ili iras? Kontraŭ Polujo. Iru ĝis la
+  rivero.
+
+  _Kontraŭigo._ Voĉdonu por aŭ kontraŭ la propono. Li sukcesis malgraŭ la
+  malhelpoj. Anstataŭ li oni sendis lian fraton. Li estas preskaŭ
+  kuracisto, kvazaŭ reĝo.
+
+
+II. LOKAJ PREPOZICIOJ. (116-121.)
+
+ANTAŬ, APUD, ĈE, ĈIRKAŬ, EKSTER, EN, FOR (DE), ĜIS, INTER, JE, KONTRAŬ,
+POST, PRETER, SUB, SUPER, SUR, TRA, TRANS ...
+
+197. Iaj lokaj prepozicioj povas havi sian komplementon en akuzativo, kiam
+oni volas montri movon al ĝi. (116-121.)
+
+198. »For« (de) estas ofte uzata en senco mala de »apud«, kvankam ĝia
+ordinara senco estas »disigo«.
+
+  E.: _Li estas for de tie ĉi_ (aŭ: forestas de tie ĉi).
+
+199. »Ekster« estas malo de »en«.
+
+  E.: _Li iris en la domon, sed mi mem restis ekster ĝi._
+
+      _Starante ekstere, li povis vidi nur la eksteran flankon de nia
+          domo._ (Z.)
+
+      _Li loĝas ekster la urbo._ (Z.)
+
+  RIM. 1. Malo de »en« povas esti »el«, nur kiam oni celas movon eniran aŭ
+  eliran.
+
+       2. En devenaĵoj ofte radiko »intern'« estas uzata kiel malo de
+  »ekster«. E.: _La ekstero de tiu ĉi homo estas pli bona ol lia interno._
+  (Z.)—_Mi staras ekster la domo, kaj li estas interne._ (Z.)
+
+200. »Inter« diferencas de »en« per tio, ke ĝi montras staton de io rilate
+al kelkaj aferoj, en kiuj oni ne estas, sed en kies aro oni troviĝas. »En«
+supozas, ke oni estas en interno de io; »inter« montras, ke oni restas
+ekster ĉiu objekto konsiderata aparte.
+
+  E.: _Inter Rusujo kaj Francujo estas Germanujo._
+
+201. »Preter« diferencas de »trans« en tio, ke ĝi montras movon de io, kio
+pasas antaŭ alia afero. »Trans« signifas, ke io sin trovas sur alia flanko
+de limo ekzistanta inter du aferoj.
+
+  E.: _La hirundo flugis trans la riveron, ĉar trans la rivero sin trovis
+          aliaj hirundoj._ (Z.)
+
+      _En tiu ĉi minuto iris preter ni du sinjorinoj._ (Mary XI. 29.)
+
+      _Silente mi iris sur la bulvardo preter la fenestroj de l' domo, kie
+          sin kaŝis nia belulino._ (Mary XV. 22.)
+
+  RIM. 1. Devenaĵoj: preteriri, preterlasi, preterdoni. Transiri,
+  transdoni, transskribi, k. t. p.
+
+       2. Malo de »trans« estas eble »ĝis« (latine: cis) kiun oni tiel uzas
+  en senco loka (krom ĝia tempa). E.: Miaj fratoj akompanis la gastojn ĝis
+  ilia domo. (Z.)—Franco diras, ke Parizo sidas ĝis Alpoj kaj Romo trans
+  Alpoj.—Tion ni povos fari ĝis dek tagoj. (127.)
+
+202. »Sur« diferencas de »super« en tio, ke ĝi montras ordinare tuŝadon de
+objektoj. »Super« montras, ke afero estas sub alia, sed ne devige, ke ili
+sin tuŝas reciproke; plie »sur« ne ĉiam rilatas altecon.
+
+  E.: _Li staras supre sur la monto._ (Z.)
+
+      _Mi metis la manon sur la tablo._ (Z.)
+
+      _Sur lia vizaĝo mi vidis ĝojan rideton._ (Z.)
+
+      _Super la tero sin trovas aero._ (Z.)
+
+      _Super mia kapo preterflugis birdo._
+
+      _Li ĵetis ŝtonon super la muron, sed li ne havis sufiĉe da forto kaj
+          la ŝtono falis sur la muron._
+
+  RIM. 1. Devenaĵoj: Suriri, suresti, surmeti, surpremi, k. t. p. Superi,
+  supera, supereco, malsupera, malsuperi, malsupereco.
+
+       2. Adverbe oni uzas pli volonte »supre« ol »sure«. E.: Li staras
+  supre sur la monto. (Z.) »Supre« montras tamen ideon apartan de alteco.
+  (Komparu kun: venu kune kun via amiko. (Z.)
+
+       3. Malo de »sur« kaj »super« estas »sub«. Oni ne faras en
+  multenombro saman distingon, kian en ununombro. Tamen oni povas diri
+  laŭvole »malsuper«, kvankam D-ro Zamenhof uzas malofte prefikson »mal«
+  por prepozicioj.
+
+       4. Malo de »supre« estas »malsupre«, kiun oni uzas ofte anstataŭ
+  »sube«. E.: Li rigardas malsupren sur la kampon. (Z.) Li rapide
+  malsupreniris.
+
+
+III. TEMPAJ PREPOZICIOJ. (121-131.)
+
+ANKORAŬ, ANTAŬ, APENAŬ, ĈE, ĈIRKAŬ, DE, DUM, EN, ĜIS, JE, POST, K. C.
+
+203. Pro komuna uzado de »antaŭ, post« en senco tempa kaj loka, oni devas
+atenti ke oni konstruu sian frazon tiamaniere, ke ne ekzistu malklaraĵo.
+
+  E.: _La gefianĉoj renkontiĝis antaŭ la gepatroj (je ĉeesto de ...)_
+
+      _La gefianĉoj renkontiĝis antaŭ ol la gepatroj_ (aŭ: _antaŭ kiam_).
+
+
+IV. ALIAJ PREPOZICIOJ.
+
+204. »Krom« montras ideon aldonan. Iafoje tiu ideo povas kompreniĝi, kiel
+apartigo, disigo, sed en tia okazo pli bone estas uzi »escepte« aŭ »ekster«
+por eviti ĉiun konfuzaĵon.
+
+  E.: _La pli juna filino, kiu estis la plena portreto de sia patro laŭ sia
+          boneco kaj honesteco, estis krom tio unu el la plej belaj
+          knabinoj kiujn oni povis trovi._ (Z.)
+
+      _Ekster tiuj leĝoj ne ekzistas aliaj_ (»_krom tiuj leĝoj_« estas
+          direbla laŭ uzado sed videble malpli klara).
+
+      _Ni devas rimarki, ke ekster la diversaj verkoj, skribitaj en la
+          lingvo Esperanto mem, kaj ekster diversaj pli grandaj lernolibroj
+          de tiu ĉi lingvo, ekzistas ankaŭ poŝaj lernolibroj._
+          (Esperantisto, 37.)
+
+205. »Laŭ« montras: _a_) rilaton de konformeco je ia afero; _b_) devenon;
+_c_) ilon, manieron.
+
+  E.: _Tiu vazo estas farita laŭ modelo el nia muzeo._
+
+      _Laŭ mia opinio ..._
+
+      _La pli juna filino estis la plena portreto de sia patro laŭ sia
+          boneco._ (Z.)
+
+206. »Da« post ia vorto montras, ke tiu ĉi vorto havas signifon de mezuro.
+(Z.) Oni ĉiam metas ĝian komplementon en nominativon. (46.)
+
+  E.: _En la ĉambro sidis nur kelke da homoj._ (Z.)
+
+      _Sur la arbo sin trovis multo da birdoj._ (Z.)
+
+      _Mi aĉetis dekon da ovoj._ (Z.)
+
+      _Ni trovis sufiĉe da helpantoj._
+
+  RIM. En »Esperantisto« (N-ro 42, pĝ. 96) D-ro Zamenhof diris: »Estas
+  diferenco inter »_multaj homoj_« kaj »_multe da homoj_«: »_multaj homoj_«
+  = diversaj homoj (ĉiu aparte), »_multe da homoj_« = granda nombro da
+  homoj (kune).« Tiu diferenco ne estas atentita de plej multo el aŭtoroj,
+  ĉar plej ofte oni uzas »multe da« anstataŭ »multaj« nur por eviti serion
+  da multenombraj akuzativoj. (239.)
+
+207. »Po« estas disdona prepozicio, kiun oni uzas ordinare nur antaŭ nombra
+nomo. Tiu prepozicio montras, ke ĉiu persono aŭ ĉiu objekto havas saman
+nombron da aferoj. Oni ĉiam uzas nominativon post ĝi. (139, R. 2.)
+
+  E.: _Por miaj kvar infanoj mi aĉetis dekdu pomojn, kaj al ĉiu el la
+          infanoj mi donis po tri pomoj._
+
+
+
+
+X.
+
+ADVERBO.
+
+208. Adverbo valoras prepozicion akompanatan de komplemento. E.: _paroli
+saĝe_ = paroli kun saĝeco.
+
+En Esperanto oni uzas tre ofte adverbojn, ĉar oni povas ĉiam ricevi
+adverbon de ia ajn radiko per aldono de finiĝo _e_.
+
+209. Laŭ supra difino adverbo diferencas de prepozicio en tio, ke ĝi ne
+havas ordinare post si komplementon substantivan aŭ pronoman. Se do oni
+deziras uzi prepozicion sen aldono de komplemento, oni devas igi ĝin
+adverbo per aldono de finiĝo _e_.
+
+  E.: _Mi staras apud li. Li staras apude._
+
+  RIM. Adverboj devenaj estas ofte uzataj prepozicie (kun komplemento
+  substantiva). Tiel S-ro Kofman diras en antaŭparolo de »Kain«: _Konforme
+  malnovajn titolojn_; _rilate vortojn_; _escepte lian biografion_, k. t.
+  p. Kial en tiaj esprimoj oni uzas akuzativon post adverbo? S-ro de
+  Beaufront diras: »adverboj uzataj prepozicie, kiel _koncerne_, _tuŝante_,
+  _ne ofendante_, _supozinte_, _rilate al_, _proksime_, _dank' al_, _meze
+  de_, _dekstre de_, _supre de_, _funde de_, _flanke de_, k. c. regas
+  nominativon aŭ akuzativon, laŭ tio, ke vorto, de kiu ili devenas, regas
+  mem nominativon aŭ akuzativon. La ok lastaj regas nominativon kiel
+  montras la prepozicio, kiu sekvas ilin. Aliaj regas akuzativon, ĉar ili
+  devenas de transitivaj verboj _koncerni_, _tuŝi_, _supozi_, _ofendi_,
+  _escepti_. Tiuj adverboj-prepozicioj havas do kiel rektan komplementon la
+  nomon aŭ pronomon, kiu sekvas ilin.«
+
+  Facile estas vidi unue, ke formoj gerundivaj _esceptinte_, _supozinte_,
+  k. a. estas veraj apartaj formoj de verbo, kaj havas de adverboj nur
+  ŝajnon (174). Sed por formoj _escepte_, _rilate_, _koncerne_, _kompare_,
+  k. a. oni tute ne komprenas, kial oni uzas post ili akuzativon. Eble oni
+  povas diri, ke oni tiel anstataŭas per akuzativo sola nominativon kun
+  prepozicio (37, 114). Tiel oni diras: »rilate al tio, rilate tion;
+  konforme kun tio, konforme tion« (rekta komplemento de »konforme« estas
+  ja malfacile komprenebla), k. t. p. Tiu klarigo ŝajnas malplej malbona.
+  Oni povas ankaŭ demandi, kial oni simple ne donas al adverboj uzataj
+  prepozicie ecojn de prepozicioj, t. e. ne uzas rekte nominativon post
+  ili. Tiel oni legas en »Esperantisto« (n-ro 46, pĝ. 154): »Mi preskaŭ
+  intencis resti sub regna gardo daŭre la nokto.«
+
+210. Vortoj finataj de »aŭ« estas samtempe adverboj kaj prepozicioj, kaj
+tial uzataj indiferente en ambaŭ okazoj. Tamen »kontraŭ, malgraŭ, kvazaŭ,
+anstataŭ, ĉirkaŭ« estas pli ofte uzataj prepozicie.
+
+  E.: _Mi havas almenaŭ dek mil frankojn._
+
+      _Mi havas dek mil frankojn almenaŭ._
+
+      _Mi havas ĉirkaŭ mil frankoj_ (aŭ: frankojn).
+
+      _Mi havas mil frankojn ĉirkaŭ_ (aŭ: ĉirkaŭe).
+
+
+
+
+  POR TEMPAJ, LOKAJ, MANIERAJ ADVERBOJ, VIDU EN »CIRKONSTANCAJ KOMPLEMENTOJ
+  DE VERBO«.
+
+
+
+
+XI.
+
+KONJUNKCIO.
+
+I. ESPLORO ĜENERALA.
+
+211. Propozicio (3, 141) estas ĉefa, kiam ĝi estas simpla eldiro sufiĉanta
+per si mem (e.: _Petro kuras_); aŭ dependa, kiam ĝi ne estas dirata por si
+mem, sed por plenigi alian propozicion. (E.: _Petro kuras, por varmiĝi._)
+
+212. Unu ĉefa propozicio povas havi kelkajn propoziciojn dependajn. (E.:
+_ĉar malamikoj proksimiĝis, oni detruis la ponton, por malhelpi ilian
+transiron_. Al unu helpa propozicio povas rilati ankaŭ dua subhelpa. (E.:
+_oni devas labori dum juneco, por, kiam alvenos maljuneco, honeste
+ripozadi_.
+
+213. Unu ĉefa propozicio, akompanata de sia (aŭ de siaj) dependa
+propozicio, formas kunmetitan propozicion, kiu enhavas plenan penson, je
+kiu parolado povas halti.
+
+214. Dependaj propozicioj estas ligataj kun ĉefa: aŭ per konjunkcio, (e.:
+_tion mi scias, ĉar tie mi estis_); aŭ per pronomo rilata, (e.: _ĉiuj, kiuj
+tie estis, konas tion_); aŭ per demanda vorto, (e.: _mi demandas, kie vi
+sciiĝis tion?_—_ĉu vi venos baldaŭ_, aŭ _ĉu vi ne venos, respondu!_)
+
+215. Kelkaj propozicioj povas, ne estante unuigataj kiel ĉefa kaj dependa,
+interligiĝi per konjunkcioj, eĉ iafoje sen konjunkcio per simpla aldono.
+E.: _Via projekto plaĉas al mi, kaj mia patro ĝin aprobas._—_Via projekto
+plaĉas al mi, sed mia patro ĝin malaprobas._—_Mi komprenas nek kial vi tiel
+aprobas tiun projekton, nek kial via patro tiel malaprobas ĝin._
+
+216. Konjunkcio estas nomata diversmaniere, laŭ rilato, kiun ĝi metas inter
+ĉefa kaj dependa propozicio. Tiel oni distingas: konjunkciojn klarigajn (ke
+...), disigajn (aŭ ...), kunigajn (kaj ...), kontraŭigajn (sed, kvankam
+...), k. t. p.
+
+217. Konjunkcio povas konsisti el tuta esprimo, e.: _por ke_, _tiamaniere
+ke_, _ĉu ... aŭ_, k. t. p.
+
+218. Konjunkcio Esperanta ne postulas post si difinitan modon verban.
+(141.) La modo uzota estas ĉiam montrata nur de ideo esprimota: ion certan
+oni esprimas per indikativo; kondiĉon duban per kondicionalo; ordonon,
+deziron, volon, k. t. p. per imperativo (vidu tiujn modojn en »verbo«).
+Tial oni renkontas plej diversajn modojn por sama konjunkcio.
+
+  E.: _Li staris, kvazaŭ li vidus teruraĵon._
+
+      _... Kaj kvazaŭ malaperis subite la historio kaj la tradicioj._
+          (Haml. IV. 5.)
+
+      _... Li kvazaŭ mem alkreskis al la selo._ (Haml. IV. 7.)
+
+      _... Mi timas, ke vi faras kun mi ŝercojn._ (Haml. V. 2.)
+
+  RIM. 1. Sekvas de tio ĉi, ke »Subjunktivo« ne ekzistas en Esperanto. Tiu
+  modo estas ja difinita: »modo regata de konjunkcioj«. Kelkaj aŭtoroj
+  nomas »subjunktivo« formon imperativan akompanatan de »ke« (e.: _ke mi
+  amu_); sed tie ĉi oni havas simplan imperativon en dependa propozicio,
+  kies ĉefa ne estas esprimita. (E.: _mi volas_, _deziras_, ... _ke mi
+  amu_.) Se oni ne konsentas tion ĉi, tiam tia formo »_ke mi amu_« estas
+  nur nacia apartaĵo, kiun oni neniel bezonas en lingvo internacia, ĉar
+  simpla imperativo »_mi amu_« esprimas tiel bone saman penson.
+
+       2. Kompreneble ĉar iaj konjunkcioj estas pli ofte uzataj por esprimi
+  certan ideon, tial oni renkontas ilin pli ofte kun certa modo. Tiel
+  ekzemple kun »por ke« oni renkontas tre ofte imperativon. (Mi kuras, por
+  ke mi varmiĝu.) Sed se oni ne volas montri fortan celon aŭ volon (163),
+  oni povas uzi ankaŭ alian modon. E.: _Kiu povis pensi antaŭ du jaroj, ke
+  tiu malfeliĉulo, tiel forte laboras, nur por ke li ruiniĝos!_
+
+       3. Post konjunkcio oni uzas infinitivon, nur kiam tiu ĉi estas mem
+  subjekto de dependa prepozicio (ĝenerala infinitivo. 167), sed neniam
+  kiam ĝi estas komplemento. E.: _Mi diras, ke riĉiĝi estas agrable._—Sed
+  oni ne diras »_ni agas, por ke fariĝi riĉaj_« aŭ »_tiamaniere, ke fariĝi
+  riĉaj_«; oni devas en tia okazo uzi personan modon (_por ke ni fariĝu
+  riĉaj_) aŭ se oni volas uzi infinitivon, forigi la konjunkcion: »ni agas,
+  por fariĝi riĉaj.«
+
+
+II. APARTAJ KONJUNKCIOJ.
+
+219. »Kaj« (kuniga konjunkcio) unuigas du propoziciojn, du subjektojn, du
+komplementojn, k. t. p. Oni povas ĝin forigi kaj anstataŭi per komo en
+rapidaj rakontoj, kiam tio ĉi ne difektas klarecon.
+
+  E.: _Tie staris viroj, virinoj, infanoj._
+
+220. Reciproke oni povas ripetadi »kaj« por pli forte insisti.
+
+  E.: _Mi vidis kaj lin, kaj lian fraton._
+
+221. »Aŭ« (disiga konjunkcio) montras diferencon inter du propozicioj aŭ
+aferoj.
+
+  E.: _Li ploras aŭ ridas: oni ne bone scias._
+
+222. Ripetante disigan konjunkcion, oni ricevas pli fortan apartigon. (E.:
+_aŭ ... aŭ_; _ĉu ... ĉu_; _ĉu ... aŭ_). Oni ĝis nun ne faris klaran
+distingon inter »aŭ ... aŭ« kaj »ĉu ... ĉu«.
+
+  E.: _Aŭ vi forlasis la postenon, aŭ vi ne forlasis ĝin, sed tiam
+          malzorgis averti. En ambaŭ okazoj, ĉu vi forlasis, ĉu vi
+          malzorgis, vi estas kulpa._
+
+223. »Ke« estas nur konjunkcio; ĝi montras, ke sekvanta propozicio klarigas
+la unuan, k. t. p. Oni ofte uzas ĝin (kun persona modo) anstataŭ
+infinitivo. (170.)
+
+224. »Se« (kondiĉa konjunkcio) esprimas, ke ia afero estas farata nur se
+alia ekzistas, k. c. Neniam ĝi montras demandon. (98, 165.)
+
+225. Komparaj esprimoj estas »tiel ... kiel; pli ... ol; laŭ; kiel
+ekzemple; kvazaŭ«, k. t. p. (66, 96. R. 1.) Por montri sekvon, rezultaton
+komparan, oni uzas »ju pli ... des pli«.
+
+  E.: _Ju pli bona, des pli amata vi estos._
+
+      _Ju pli ni laboros, des pli ni havos rajton ripozadi._
+
+  RIM. 1. Prefere oni alproksimigas vorton, sur kiun falas ideo. Tiel »ju
+  pli bona« estas preferinde ol »ju pli vi estos bona«.
+
+       2. Ofte unua termino ne estas esprimata. E.: _Mi devas averti vin,
+  ke li eble ne estos hejme._—_Des pli bone! Mi tute ne deziras lin vidi._
+
+       3. »Ju malpli« oni uzas por montri disigan rezultaton.
+
+226. Gradigo estas montrata de »ne nur, ne sole ... sed, sed ankaŭ, sed
+plie«.
+
+  E.: _Ne nur li ŝtelis, sed li mortigis ankaŭ!_
+
+      _Nia gazeto servas ne sole al la vastigado de nia lingvo, sed ankaŭ
+          al interparolado en nia lingvo._ (Z. Esperantisto n-ro 37, 3.)
+
+  RIM. Se gradigo estas nea, oni enkondukas nean vorton, ekzemple »ne«. E.:
+  _Ne nur mi ne incitiĝas kontraŭ vi, sed eĉ mi ne malaprobas vian
+  konduton._
+
+227. Forlaso, forkonsento, kontraŭigo estas montrataj de »kvankam«. Oni
+ofte uzas »tamen« en la dua frazo, se la konsenta propozicio estas la unua.
+
+  E.: _Kvankam li estas riĉa, tamen li ne estas feliĉa._
+
+      _Kvankam mi konsentas vian opinion, tamen mi ne povas akordiĝi kun
+          vi._
+
+      _S-ro Lott diras, ke lia »Lingue« kvankam havas eble difektojn, tamen
+          jam en sia nuna formo estas komprenebla._ (Dombrovski,
+          Esperantisto 40, 54.)
+
+  RIM. Iafoje oni uzas »kvankam« en senco de »eĉ«: _Sinjorino Anneto nur
+  kun granda malfacileco povis kompreni kvankam malmulte tiun ĉi mirindan
+  produktaĵon de la genia aŭtoro_. (Rak. de Devjatnin, Esperantisto, 38,
+  29.)
+
+228. »Jen ... jen« montras kontraŭigon tempan aŭ manieran.
+
+  E.: _Jen li kuras forte, jen li haltas._
+
+
+III. JESO KAJ NEO.
+
+229. Por jese respondi demandon oni uzas »jes«. Oni povas aldoni »ja,
+certe, tamen«, k. t. p. aŭ ripeti la verbon demandan, por pli forte
+insisti, rebati, k. c.
+
+  E.: _Ĉu vi faris tion?—Jes! Jes, mi faris!_
+
+      _Ĉu vi ne faris tion?—Jes, mi faris! Jes, ja! Certe mi faris! Sed ja,
+          mi faris!_
+
+230. Kiel oni vidas, oni simple eldiras verbon en respondo, ne esprimante
+la komplementon.
+
+  E.: _Ĉu vi deziras kafon? Jes! Mi deziras!_ aŭ: _ne! mi jam havas_.
+
+231. Por nei simple en frazo aŭ respondo oni uzas »ne«.
+
+  E.: _Ĉu vi faris tion? Ne!_
+
+      _Mi ne povis manĝi pro dentsufero._
+
+232. Oni uzas neon nur kiam senco de frazo estas vere nea.
+
+  E.: _Mi timas, ke mia frato venos. (Mi esperas, ke li ne venos.)_
+
+      _Mi timas, ke mia frato ne venos. (Mi deziras, ke li venu.)_
+
+      _Li parolas ankaŭ pli bone ol li skribas_ (»_ol li ne_« estus
+          nekompreneble).
+
+      _Kiel ofte mi tremis!_ (»_mi ne tremis_« havus tute alian sencon).
+
+233. Oni ordinare lasas »ne« antaŭ la verbo, kiun ĝi difinas.
+
+  E.: _Mi esperas, ke li ne venos. (Mi deziras, ke li ne venu.)_
+
+  RIM. Se oni dirus: »mi ne esperas, ke li venos«, tio ĉi signifus: »mi
+  deziras, ke li venu, tamen ne kuraĝas esperi, ke li venos, ĉar kredeble
+  li ne povos veni.«
+
+234. Kiam ekzistas jam en frazo vorto nea per si mem, tiam ordinare oni ne
+uzas duan neon, ĉar tiel oni povus ricevi jesan sencon. Tio ĉi okazas plej
+ofte kun »neniu, nenia, neniam, nenio«, k. t. p., »sen«, (kaj devenaĵoj de
+»sen«), »nek«, k. c.
+
+  E.: _Neniu konfesos, ke ... (neniu ne konfesos = ĉiu konfesos)._
+
+      _Sen helpo de iu, sen ia dubo._
+
+      _Nenia homo estas pli bona ol li._
+
+      _Mi renkontis nek lin, nek lian fraton._ (Z.)
+
+  RIM. 1. Tamen oni trovas iafoje duoblan neon en senco de pli forta neo.
+  E.: ... _metu viajn manojn denove sur la glavon kaj ripetu, ke vi neniam
+  al neniu diros pri la apero de la nokto_. (Haml. I. 5.)
+
+       2. Iafoje kun »nek« oni uzas duoblan neon, kiam la dua neo ripetas
+  la unuan en aparta frazero, kaj estas nur disvolvo de la ĝenerala unua
+  neo. E.: _Mi ne scias francan lingvon, nek anglan, nek turkan._—_Nenio
+  estas al mi pli kara nek dolĉa ol vi._—_Mi ne renkontis lin nek lian
+  fraton._ (Z.)
+
+       3. Kompreneble, kiam du neoj rilatas du malsamajn verbojn
+  (esprimitajn aŭ ne esprimitajn), tio ĉi ne estas duobla neo. E.: _Mi ne
+  povis ne skribi._—_Ne nur ne malamiko, sed kunbatalanto li estis._
+
+
+
+
+ALDONO.
+
+I. ORDIGO DE VORTOJ.
+
+235. Frazon oni aranĝas laŭvole en Esperanto, pro nekonfuzebleco inter
+subjekto kaj komplemento.
+
+236. Oni aranĝas propoziciojn kaj vortojn tiamaniere, ke ideo estu plej
+klare esprimita kaj belsoneco plej granda.
+
+237. Sur la unuan lokon oni metas plej gravan vorton aŭ prepozicion. Iafoje
+sur la lastan, se tie atento estas pli facile altirebla. (91. R.)
+
+  E.: _Lin mi renkontis, ne ŝin._
+
+      _Unu aferon ni scias, ke ni konas nenion._
+
+238. Laŭ eblo oni alproksimigas vortojn rilatantajn unu al la alia. (E.
+adverbo estas apud verbo, prepozicio apud komplemento, rilata pronomo apud
+rilatanto, k. t. p.)
+
+  E.: _Li tre amas kuradi._
+
+      _Per letero, kiun mi konservis, li sciigis al mi kaj al mia frato, ke
+          li ŝuldas ankoraŭ mil frankojn._
+
+  RIM. Sekvo de tiu ĉi regulo malhelpas ofte skribi neklarajn frazojn. Se
+  ne tro malbona estus frazo »li sciigis al mi kaj al mia frato per letero,
+  kiun mi konservis, ke ...« kontraŭe oni tuj vidas, ke en jenaj frazoj
+  senco estus tre duba: »Salomono, filo de Davido, kiu konstruigis Templon,
+  ricevis viziton de reĝino.«—»Li amas multe kuradi.« Oni do devas skribi:
+  »Filo de Davido, Salomono, kiu konstruigis ...« kaj: »li multe amas
+  kuradi« aŭ: »li amas kuradi multe«.
+
+239. Ripetadon de multenombraj akuzativoj oni laŭ eblo evitas; aŭ almenaŭ
+oni klopodas por meti ilin antaŭ vorton, kiu komencas per vokalo. Por eviti
+akuzativon, oni povas uzi esprimojn »kelke da«, »multe da« anstataŭ
+»kelkaj«, »multaj«, aŭ prepozicion »al«, k. t. p. (206. R.)
+
+  E.: _Mi havas multe da hundoj, bovoj, ĉevaloj._
+
+      _Mi renkontis ilin akompanantajn iliajn amikinojn_ (aŭ: kiuj
+          akompanas iliajn amikinojn).
+
+
+II. INTERPUNKCIO.
+
+240. D-ro Zamenhof uzas komon inter ĉiu propozicio, t. e. antaŭ ĉiu vorto
+demanda aŭ rilata, inter du terminoj de komparo, k. t. p. Antaŭ »kaj« oni
+plej ofte metas komon, nur se la senco estas nete haltigita. Jen estas tio,
+kion skribis D-ro Zamenhof pri tiu punkto en »Esperantisto« (44, 127):
+
+  »La reguloj pri la uzado de la interpunkcioj estas en nia lingvo
+  pli-malpli tiaj samaj, kiel en ĉiuj aliaj lingvoj; sekve ĉiu povas uzadi
+  en Esperanto la interpunkciojn tiel, kiel li uzas ilin en sia nacia
+  lingvo. Estas vere, ke en diversaj detaloj la uzado de la interpunkcioj
+  estas malegala en diversaj lingvoj; sed ĉar la objekto ne estas tre
+  grava, tial ni pensas, ke ne venis ankoraŭ la tempo por difini en nia
+  lingvo severajn regulojn por tiuj ĉi detaloj. En tiuj ĉi dubaj detaloj
+  ĉiu povas uzi en Esperanto la interpunkciojn tiel, kiel li uzas ilin en
+  sia nacia lingvo, kaj nur la uzo iom post iom ellaboros por tiuj ĉi
+  negravaj detaloj difinitajn regulojn.«
+
+241. »Transportante la vortojn el unu linio en la sekvantan, ni ordinare
+dividas ilin per iliaj partoj gramatikaj, ĉar ĉiu parto gramatika en nia
+lingvo prezentas apartan vorton. Tiel ni ekzemple dividas: »_Esper-anto_«,
+»_ricev-ita_« k. t. p. Sed tio ĉi tute ne estas deviga regulo; ni faras ĝin
+nur por ne rompi subite kun la kutimoj de aliaj lingvoj; efektive tiu ĉi
+maniero havas nenian celon kaj signifon, ĉar la transportado de la vortoj
+estas afero pure papera, havanta nenion komunan kun la leĝoj de la lingvo,
+ni konsilas al vi per nenio vin ĝeni en la dividado de la vortoj kaj fari
+ĝin tute tiel, kiel en la donita okazo estos al vi pli oportune. Eĉ se vi
+dividos ekzemple »_aparteni-s_«, ni vidus en tio ĉi nenion malregulan,
+kvankam la aliaj lingvoj (tute sen ia logika kaŭzo) ne permesas tian
+dividadon.« (Z. _Esperantisto_, 38, 32.)
+
+[Illustration]
+
+
+
+
+LINGVO INTERNACIA
+
+monata revuo en Esperanto
+
+VIII-A JARO—1903.
+
+OFICIALA ORGANO DE DIVERSAJ SOCIETOJ ESPERANTISTAJ.
+
+REDAKCIO:
+
+_Paris, 27, Boulevard Arago 27, Paul Fruictier, ĉefredaktoro._
+
+ADMINISTRACIO:
+
+_Szekszárd, Hungarlando, Paul de Lengyel, direktoro._
+
+
+L. I. publikigas ĉiumonate artikolojn pri plej interesaj novaĵoj
+_sciencaj_, _artaj_, _literaturaj_, _teatraj_, _geografiaj_, k. t. p.
+
+La tutmonda diseco de ĝiaj kunlaborantoj garantias pri la ĉiama diverseco
+de ĝia enhavo.
+
+En ĉiu numero estas ankoraŭ literaturaĵo, originalaj aŭ tradukitaj el plej
+malsamaj lingvoj, noveloj, gajaj rakontoj, versaĵoj, anekdotoj, k. t. p.
+
+Fine, L. I. alportas sciigojn pri la _movado esperantista_ en la mondo,
+enhavas rubrikon specialan por la _opinioj_ kaj _demandoj_ de la legantoj,
+analizas detale ĉiujn _Esperantajn gazetojn_ kaj librojn, klarigas
+gramatikajn demandojn, presas _adresarojn_, aranĝas _konkursojn
+literaturajn aŭ problemajn_, k. t. p. k. t. p.
+
+Speciala monata aldono da 12 paĝoj (Literatura Biblioteko de L. I.) estas
+speciale dediĉita al _literaturo_ kaj enhavas romanojn, analizojn,
+represojn el »Esperantisto« de Doktoro Zamenhof, bagatelojn, rebusojn, k.
+t. p.
+
+Unuvorte, L. I. estas vera internacia kaj centra organo de l'
+Esperantistaro.
+
+
+Jara abono: 4 frankoj.
+
+KUN »LITERATURA BIBLIOTEKO«: 6.50 FRANKOJ.
+
+Oni abonas L. I.
+
+ĉe l' administranto de la gazeto en SZEKSZÁRD,—ĉe la redaktoro de la gazeto
+en PARIS,—cetere:
+ĉe D-ro L. ZAMENHOF, ul. Dzika Nº 9,—en VARSOVIO (= Warszawa) (Ruslando).
+ĉe S-ro P. AHLBERG, Sekretario de Klubo Esperantista, en STOCKHOLM
+(Svedlando), Döbelnsgatan 50.
+ĉe S-ro MANUEL BENAVENTE, Sociedad 14, en MURCIA (Hispanl.)
+
+L. I. estas plej malnova, plej internacia, plej bone informata el ĉiuj
+gazetoj Esperantistaj.
+
+
+
+
+Esperanta Kolekto de »Lingvo Internacia«.
+
+Fondita en januaro 1903 tiu ĉi kolekto enhavas nur verkojn zorge elektitajn
+kaj skribitajn en plej pura Esperanta stilo, laŭ reguloj donitaj de S-ro
+D-ro Zamenhof.
+
+
+  N-ro 1. KURIOZA SUNHORLOĜO, kun figuroj,
+  de S-ro _S. Poljanskij_                                0 fr. 35 centimoj.
+
+  N-ro 2. ESPERANTA FRAZLIBRO DE L' TURISTO,
+  400 frazoj en Esperanto kun tradukoj franca, angla,
+  germana, hispana, itala, kaj adresaro de diversaj
+  grupoj Esperantistaj, de S-ro _M. Merckens_            0 fr. 50 centimoj.
+
+  N-ro 3. ESPERANTA SINTAKSO, laŭ verkoj de S-ro
+  D-ro Zamenhof kaj aliaj aŭtoroj, kun prezenta
+  letero de S-ro P-ro Th. Cart,—verkita de S-ro
+  _Paul Fruictier_, redaktoro de L. I.                   1 fr. 50 centimoj.
+
+  N-ro 4. ESPERANTA PROSODIO, de S-ro _Th. Cart_,
+  agregato de Pariza Universitato, profesoro de
+  germana lingvo ĉe Pariza Lernejo por Politikaj
+  Sciencoj, k. c. (en verkado).
+
+  N-ro 5. MEDICINA VORTARO, de _diversnaciaj
+  aŭtoroj_ (en verkado).
+
+  N-ro 6. REMEMORO PRI SOLFERINO, de _H. Dunant_,
+  granda premio Nobel, promotoro de Ĝeneva
+  Interkonsento, tradukita kun permeso de l' aŭtoro
+  de S-ro _Paul Fruictier_ (en verkado).
+
+_Ni kalkulas: 1 franko—80 pfenigoj—10 pencoj—40 kopekoj._
+
+[Illustration]
+
+
+
+
+S. I. R.
+
+(Societo por Internaciaj Rilatoj.)
+
+Fondita en januaro 1903 de »Lingvo Internacia«.
+
+Provizora sekretario:
+Paul Fruictier, 27 Boulevard Arago, Paris.
+
+
+CELO: Alporti al Esperantistoj tujan profiton per Esperanto.
+
+FAKOJ: I. Sciencoj ĉiuspecaj. II. Komerco. Industrio. III. Vojaĝoj. IV.
+Kolektado. V. Artoj. VI. Literaturo. VII. Diversaj aliaj aferoj.
+
+PROFITOJ: Alporto de korespondantoj, disdono de sciigoj, grupigo de
+specialistoj, helpo al societanoj dum vojaĝoj pri vojoj aŭ hoteloj kaj
+firmoj, preso de komunaj utilaj verkoj, k. t. p.
+
+  La societanoj povas legi senpage ĉiujn gazetojn Esperantajn kaj aliajn
+  naciajn (_Revue du Touring-Club de France_, _Journal des Voyages_, _La
+  Paix par le Droit_, _L' Européen_, _Revue Générale des Sciences_,
+  _Revista de Ciencias_, _Korrespondens_, _Review of Reviews_, k. t. p.) La
+  kuracistoj ricevas senpage cirkuleron pri verkado de medicina oficiala
+  organo de l' societo,—»_Lingvo Internacia_« estas ricevebla por tri
+  frankoj anstataŭ kvar.
+
+JARA KOTIZO: 3 frankoj, aŭ kun »_Lingvo Internacia_« 6 frankoj.
+
+Senpage oni sendas regularon kaj detalajn sciigojn. Sin turni al la
+sekretario.
+
+[Illustration]
+
+
+ENHAVO.
+
+
+
+  _Letero de S-ro Profesoro Th. Cart._                                Paĝoj
+
+  _Kelkaj vortoj de l' aŭtoro_                                            I
+
+  _Tabelo de mallongigoj_                                                IV
+
+  SINTAKSO.
+
+     I. Difino de vortoj                                                  1
+
+    II. Artikolo                                                          3
+        Uzado ĝenerala: 10.—Uzoj apartaj: 11.—Propraj nomoj: 14.—
+        Gradoj de komparo: 17.—Antaŭ adjektivo: 18.—Sezonoj, monatoj,
+        tagoj, festoj: 22.—Aliaj okazoj: 25.—Kvanto, eco, unu, ia: 29.
+
+        _Tabelo unuvida pri difino de vorto per artikolo »la«_           10
+
+   III. Substantivo                                                      11
+        Rilatoj kun verbo: 34.—Rilatoj kun aliaj substantivoj: 40.
+
+    IV. Adjektivo                                                        20
+        Apudmetita adjektivo: 57.—Predikateca adjektivo: 62.—Gradoj
+        de komparo: 66.—Participoj-adjektivoj: 67.—Komplementoj
+        de adjektivoj: 69.
+
+     V. Nombraj nomoj                                                    25
+
+    VI. Personaj pronomoj. Posesivoj                                     28
+        Pronomoj: 78.—Posedaj adjektivoj (posesivoj): 82.—Poseda
+        genitivo: 87.
+
+   VII. Pronomoj-adjektivoj kaj aliaj vortoj                             33
+        Montraj vortoj (demonstrativoj): 88.—Rilataj vortoj
+        (relativoj): 94.—Demandaj vortoj: 97.—Ne difinaj pronomoj:
+        99.—Pronomo aŭ adjektivo: 100.
+
+  VIII. Verbo                                                            38
+        Subjekto: 103.—Predikato: 106.—Rekta komplemento: 109.—
+        Nerekta komplemento: 113.—_Cirkonstancaj komplementoj._
+        Loko: 116. Tempo: 121. Kaŭzo: 131. Maniero: 137.—
+        Akuzativo post netransitivaj verboj: 140.—Modoj kaj tempoj:
+        141.—Indikativo: 143. Indikativo. Tempoj simplaj: 144.
+        Indikativo. Tempoj malsimplaj: 150.—Ordona modo. (Imperativo):
+        162.—Kondiĉa modo. (Kondicionalo): 165.—Infinitivo:
+        167.—Participoj: 172.—Pasivaj verboj: 175.—Refleksivaj
+        verboj: 178.—Aparta uzado de kelkaj verboj: 181.
+
+    IX. Prepozicio                                                       60
+        Esploro ĝenerala: 191.—Lokaj prepozicioj: 197.—Tempaj
+        prepozicioj: 203.—Aliaj prepozicioj: 204.
+
+     X. Adverbo                                                          66
+
+    XI. Konjunkcio                                                       68
+        Esploro ĝenerala: 211.—Apartaj konjunkcioj: 219.—Jeso
+        kaj neo: 229.
+
+  ALDONO                                                                 74
+        Ordigo de vortoj: 235.—Interpunkcio: 240.
+
+[Illustration]
+
+
+PRES. PAUL DE LENGYEL, SZEKSZÁRD.
+
+
+
+PIEDNOTOJ.
+
+[1] Tie ĉi estis ja neeble trovi firman regulon konstante sekvatan eĉ de
+    unu aŭtoro; mi do devis doni mian personan opinion, kiun oni povas tiel
+    resumi: »la« estas utila en kelkaj neoftaj okazoj, kiel mallonga kaj
+    malforta demonstrativo. Ni do uzu ĝin en tiuj okazoj sed ne en multaj
+    aliaj, kie ĝi ne estas nepre utila. Tiel ni evitos perdon da tempo, kaj
+    precipe ni ne trudos senutilan penadon al tiuj el niaj amikoj, kiuj
+    apartenas al gepatra senartikola lingvo.
+
+[2] Oni permesu al mi aparte danki nian fervoran samideanon S-ron
+    Profesoron Cart, kies lingva scienco estis tiel utila por mi. Certe sen
+    lia afabla konsilado, sen niaj longaj amikaj interparoladoj, mi ne
+    povus nun publikigi tiun ĉi libron. Dankon ankaŭ pro la honoro, kiun li
+    faras, prezentante mian verkon al la publiko,—-kaj pardonon por tiu ĉi
+    neanoncita atako al lia tro granda modesteco.
+
+[3] _Objekto_ estas tio, kio ricevas agon.
+
+[4] Participoj-adjektivoj estas veraj adjektivoj, kies regulojn ili sekvas.
+
+[5] En tiu ĉi ĉapitro, »estanta, estinta, estonta« = »participo en anta,
+    participo en inta, participo en onta«.—Pasinto, Estanto, Estonto« =
+    tempo de helpa verbo.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Esperanta sintakso, by Pa?lo Fruictier
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ESPERANTA SINTAKSO ***
+
+***** This file should be named 47855-0.txt or 47855-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/7/8/5/47855/
+
+Produced by Andrew Sly, Andrew Woods, Keith Edkins and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This file was produced from images generously made
+available by The Internet Archive)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

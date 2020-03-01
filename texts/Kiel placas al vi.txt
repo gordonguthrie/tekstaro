@@ -1,0 +1,6154 @@
+﻿The Project Gutenberg EBook of Kiel placas al vi, by William Shakespeare
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Kiel placas al vi
+       komedio en kvin aktoj
+
+Author: William Shakespeare
+
+Translator: Ivy Kellerman Reed
+
+Release Date: January 4, 2020 [EBook #61103]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK KIEL PLACAS AL VI ***
+
+
+
+
+Produced by Andrew Sly, Miroslav Malovec and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+book was produced from images made available by the
+HathiTrust Digital Library.)
+
+
+
+
+
+
+  [Ilustraĵo: D-ro Ivy Kellerman
+  la tradukinto de Kiel Plaĉas al Vi]
+
+  [Ilustraĵo: Robert Nugent Hickman
+  la direktoro de "The Hickman Players"]
+
+
+
+SHAKESPEARE
+
+KIEL PLAĈAS AL VI
+
+KOMEDIO EN KVIN AKTOJ
+
+  Tradukis
+  DRO. IVY KELLERMAN
+
+  Speciale tradukita por, kaj ludita ĉe
+  La Sesa Internacia Kongreso de Esperanto
+
+Washington, D. C., USONO.
+
+MCMX
+
+
+  COPYRIGHT, 1910
+  By IVY KELLERMAN, Ph. D.
+  WASHINGTON, D. C.
+
+
+
+
+La jena tradukaĵo estis ludata sur eksterdoma scenejo, je la
+dekkvina de aŭgusto, 1910a, en la urbo Washington, Distriko
+Kolumbio, Usono, de la "Hickman Players" sub la kontrolo de S-ro
+Robert Nugent Hickman, kiu estis dek du jarojn Scendirektoro por la
+trupoj de Charles Frohman, William Gillette, Annie Russell, k.t.p.,
+el la Empire Teatro en Nov-Jorko, kaj kiu nun estas la Direktoro
+de la "Hickman Players" kaj Direktoro de la "Hickman School of
+Speech and Drama," en Washington, Distrikto Kolumbio.
+
+La ilustraĵoj de diversaj scenoj, kiuj estas en ĉi tiu libro, estas
+fotografaĵoj de la "Hickman Players" ludantaj Kiel Plaĉas al Vi.
+
+
+
+Antaŭparolo.
+
+
+Ĉe antaŭaj kongresoj oni jam rekonis la valoron de la drama arto
+kiel rimedo por prezenti la belecon kaj simplecon de Esperanto,
+ludinte scenojn kaj recitinte elektaĵojn teatrajn; kaj ĉe la Kvara
+kaj Kvina Kongresoj de Esperanto oni ludis tutajn dramojn.
+
+Scenojn kaj recitaĵojn el Shakespeare oni jam donis, sed restis por
+la Sesa Kongreso prezenti je la unua fojo, kiel tutan teatraĵon en
+Esperanto, unu plej popularan el la verkaĵoj de tiu universale
+konata verkisto.
+
+Por tia entrepreno estas bezonita la plej zorga preparado je la
+aranĝado de la teksto, je la tradukado, je la elektado de la
+aktoroj, kaj je la antaŭripetado. La sukceso de la entrepreno ni
+ŝuldas al la nelacemaj klopodoj de D-ro Kellerman kaj S-ro Robert
+Nugent Hickman. Al D-ro Kellerman ni ŝuldas la akuratecon kaj
+bonsonecon de la tradukaĵo, la fidelan altenadon al la originala
+verkaĵo, eĉ ĝis la plej malgranda detalo en versfarado de ĉi tiu
+miriadintenca poeto; al Direktoro Hickman ni ŝuldas la administradon
+de la ludo, la paciencan kontroladon de la antaŭripetoj, kaj la
+kunvenigadon de kapablaj volontaj aktoroj, je libertempa sezono,
+malproksime de la teatra centro de Usono.
+
+  Edwin C. Reed,
+  Sekretario de la Sesa Internacia
+  Kongreso de Esperanto.
+
+
+
+PERSONOJ:
+
+  La Duko, kiu estas ekzilita.
+  Frederiko, lia frato, kiu uzurpis lian dukolandon.
+  Amienso, } lordoj sekvantaj la ekzilitan dukon.
+  Jakveso, }
+  Labelo, kortegano sekvanta Frederikon.
+  Karlo, baraktisto de Frederiko.
+  Olivero, }
+  Jakveso, } filoj de Siro Rolando de Bojz.
+  Orlando, }
+  Adamo,  } servistoj de Olivero.
+  Deniso, }
+  Tuŝ-ŝtono, ŝercemulo.
+  Siro Olivero Martekst, pastro.
+  Koreno, } paŝtistoj.
+  Silvio, }
+  Gulielmo, kamparano, enamiĝinta je Aŭdreo.
+  Persono reprezentanta Himenon.
+  Rozalindo, filino de la ekzilita duko.
+  Celio, filino de Frederiko.
+  Febino, paŝtistino.
+  Aŭdreo, kamparanino.
+  Lordoj, paĝioj, sekvantoj, k.t.p.
+
+Sceno: La domo de Olivero; la kortego de Duko Frederiko;
+kaj la arbaro Ardeno.
+
+
+
+
+Kiel Plaĉas Al Vi
+
+
+
+
+AKTO I.
+
+
+
+SCENO I.
+
+Fruktoĝardeno apud la domo de Olivero.
+
+
+Eniras Orlando kaj Adamo.
+
+Orl.
+
+Kiel mi rememoras, Adamo, okazis laŭ la jena maniero: li donis
+testamente al mi nur du mil kvincent spesmilojn, kaj, kiel vi diras,
+ordonis al mia frato ke li bone min eduku; kaj de tiam komenciĝas
+mia malĝojo. Mian fraton li sendis al la lernejo, kaj rumoro bonege
+parolas pri lia progreso: sed min mem li edukas kamparmaniere ĉi tie
+ĉehejme, aŭ, por diri pli precize, li min ĉi tie maledukas; ĉar ĉu
+oni nomus tion edukado, por sinjoro havanta mian rangon, kio ne
+malsimilas al la endomigo de bovviro? Liaj ĉevaloj estas pli bone
+edukitaj; ĉar krom tio, ke ili estas belaj pro bona nutraĵo, oni
+dresas ilin, kaj por tio oni dungas multekostajn rajdistojn: sed mi,
+lia frato, gajnas ĉe li nenion, krom altkreskadon; pro kio liaj
+bestoj en la farmokorto ŝuldas al li tiom, kiom mi. Aldone al ĉi tiu
+"nenio," kiun li tiel sufiĉege donas al mi, lia konduto ŝajnas
+forpreni de mi tion, kion la Naturo donis al mi: li min lasas manĝi
+kun la servistoj, malpermesas al mi la rangon fratan, kaj laŭ sia
+eblo forprenas mian ĝentilecon per tia maledukado. Estas ĉi tio,
+Adamo, kio min ĉagrenas; kaj la spirito de mia patro, kiu, mi
+kredas, enestas en mi, komencas ribeli kontraŭ tia sklaveco: mi ne
+plu ĝin elportos, kvankam mi ankoraŭ ne konas ian ajn rimedon por
+ĝin eviti.
+
+Adamo.
+
+Jen venas mia mastro, via frato.
+
+Orl.
+
+Flanken iru, Adamo, kaj vi aŭdos kiamaniere li kondutos kontraŭ mi.
+
+Eniras Olivero.
+
+Oli.
+
+Nu, vi! Kion vi faras ĉi tie?
+
+Orl.
+
+Nenion: oni ne instruis al mi kiel fari ion ajn.
+
+Oli.
+
+Do, kion vi difektas?
+
+Orl.
+
+Efektive, mi helpas al vi difekti per senokupeco tion, kion Dio
+faris, kompatindan malindan fraton vian.
+
+Oli.
+
+Nu, vin pli bone okupu, kaj estu pendigita!
+
+Orl.
+
+Ĉu mi paŝtu viajn porkojn, kaj manĝu maizoŝelojn kun ili? Kian
+trograndan porcion mi elspezis, ke mi suferu tian malriĉecon?
+
+Oli.
+
+Ĉu vi scias kie vi estas?
+
+Orl.
+
+Ho jes, tre bone: ĉi tie en via fruktoĝardeno.
+
+Oli.
+
+Ĉu vi scias antaŭ kiu vi staras?
+
+Orl.
+
+Jes, pli bone ol li min konas. Mi scias ke vi estas mia pli maljuna
+frato; kaj laŭ la kondiĉo de altranga deveno, vi devus min tia
+rekoni. La ĝentileco de nacioj faras vin pli altranga ol mi, pro
+tio, ke vi estas la unue naskita; sed la sama tradicio ne forprenas
+de mi mian parencecon, eĉ se naskiĝus dudek fratoj inter ni: mi
+havas en mi tiom de mia patro, kiom vi, kvankam, mi konfesas, via
+plifrua naskiĝo vin rajtigas al pli granda porcio da respekto.
+
+Oli.
+
+Kion, junulo!
+
+Orl.
+
+Nu, nu, pli maljuna frato, vi estas tro juna en ĉi tio.
+
+Oli.
+
+Ĉu vi metos la manon sur min, kanajlo?
+
+Orl.
+
+Mi ne estas kanajlo; mi estas la plej juna filo de Siro Rolando de
+Bojz; li estis mia patro, kaj tiu, kiu diras ke tia patro naskis
+kanajlojn, estas trioble kanajlo. Se vi ne estus mia frato, mi ne
+forprenus la manon de via gorĝo, ĝis post la alia mano estus
+elŝirinta vian langon, kiu tion diris. Vi vin riproĉas.
+
+Adamo.
+
+Karaj mastroj, estu paciencaj: pro la rememoro pri via patro, estu
+pacemaj.
+
+Oli.
+
+Min lasu, mi diras!
+
+Orl.
+
+Mi ne vin lasos, ĝis kiam mi volos: vi devos min aŭdi. Mia patro
+ordonis en sia testamento ke vi bone min eduku; vi min edukis kiel
+kamparanon, malklarigante kaj kaŝante al mi ĉiun noblan econ. La
+spirito de mia patro fariĝas forta en mi, kaj mi ne plu tion
+elportos: tial, permesu al mi tiajn ekzercojn, kiaj decas al nobelo,
+aŭ donu al mi la malgrandan porcion kiun mia patro testamente lasis
+al mi; havante tion, mi iros por aĉeti mian bonŝancon.
+
+Oli.
+
+Kaj kion vi faros? Ĉu vi petos almozojn, post kiam vi estos
+elspezinta tion? Nu, do, eniru: mi ne min plu ĝenos je vi; vi
+ricevos iom, laŭ via volo: mi petas al vi, foriru de mi.
+
+Orl.
+
+Mi ne plu vin ĝenos ol estas necese por mia bonstato.
+
+Oli.
+
+Iru kun li, maljuna hundaĉo.
+
+Adamo.
+
+Ĉu "maljuna hundaĉo" estas mia rekompenco? Efektive ja, mi eluzis
+miajn dentojn servante al vi. Dio gardu mian maljunan mastron! Li ne
+estus tiamaniere parolinta.
+
+[Orlando kaj Adamo foriras.]
+
+Eniras Deniso.
+
+Den.
+
+Ĉu via moŝto vokis?
+
+Oli.
+
+Ĉu Karlo, la baraktisto de la Duko, ne ĵus ĉeestis por paroli kun
+mi?
+
+Den.
+
+Se plaĉas al vi, li jam ĉeestas ĉe la pordo, kaj petas permeson
+eniri ĉe vin.
+
+Oli.
+
+Envoku lin. [Deniso foriras.] Tio estos bona metodo; kaj morgaŭ
+okazos la barakta konkurso.
+
+Eniras Karlo.
+
+Kar.
+
+Bonan matenon al via moŝto.
+
+Oli.
+
+Bona Sinjoro Karlo, kia novaĵo ĉe la nova kortego?
+
+Kar.
+
+Estas nenia novaĵo ĉe la kortego, Sinjoro, krom malnova novaĵo: tio
+estas, ke la maljuna Duko estas ekzilita de sia pli juna frato, la
+nova Duko; kaj kun li sin propravole ekzilis tri aŭ kvar amantaj
+lordoj, kies bienoj kaj rentoj riĉigas la novan Dukon; tial li
+volonte permesas ke ili forvagu.
+
+Oli.
+
+Ĉu vi povas diri ĉu Rozalindo, la filino de la Duko, estas ekzilita
+kun sia patro?
+
+Kar.
+
+Ho ne; ĉar la filino de la nova Duko tiel amas ŝin,--ĉar de infaneco
+ili estas kune edukitaj,--ke ŝi estus sekvinta ŝin en ekzilon, aŭ,
+restinte post ŝi, estus mortinta. Rozalindo estas ĉe la kortego, ne
+malpli amata de la Duko ol estas lia propra filino; kaj neniam du
+sinjorinoj tiom amis reciproke, kiom ili amas.
+
+Oli.
+
+Kie loĝas la maljuna Duko.
+
+Kar.
+
+Oni diras ke li jam estas en la arbaro Ardeno, kaj multe da bonaj
+viroj kun li; kaj tie ili loĝas, same kiel pratempa Robino Hood
+en Anglujo. Oni diras ke multe da junaj viroj iras amase al li,
+ĉiutage, kaj gaje pasigas la tempon tiel, kiel oni ĝin pasigis dum
+la ora epoko.
+
+Oli.
+
+Nu, ĉu vi baraktos ĉe la nova Duko?
+
+Kar.
+
+Jes, certe; kaj mi venis por diri ion al vi. Oni diris sekrete al
+mi, ke via pli juna frato, Orlando, deziras veni maskevestita, por
+provi la baraktadon kontraŭ mi. Morgaŭ, Sinjoro, mi baraktos por mia
+bona famo; kaj tiu, kiu forkuros de mi, ne havante rompitan kruron,
+estos bonega baraktanto. Via frato estas juna kaj delikata; kaj, pro
+amo al vi, mi ne volus lin faligi, se li enirus kontraŭ min; tamen,
+mi devos, pro mia propra honoro; tial, pro mia amo al vi, mi venis
+ĉi tien por vin sciigi, tiucele, ke vi povu lin deteni de lia
+intenco, aŭ bone elporti tian malhonoron, kian li suferos, ĉar li
+mem estos ĝin kaŭzinta, tute kontraŭ mia deziro.
+
+Oli.
+
+Mi dankas vin, Karlo, pro via amo al mi, kiun mi bone rekompencos.
+Min mem oni sciigis pri tiu intenco de mia frato, kaj mi per kaŝitaj
+modoj penis lin deturni de ĝi, sed li estas obstina. Mi diros al vi,
+Karlo: li estas la plej obstinaĉa junulo en Franclando, plena je
+ambicio, enviema imitanto de ĉies bonaj ecoj, kaŝema kaj malbonega
+konspiranto kontraŭ mi, sia propra frato: tial, agu laŭ via
+diskreteco; estas indiferente al mi ĉu vi rompos al li la kolon, ĉu
+la fingron. Kaj, atentu; ĉar se vi lin iomete hontigos, aŭ se li ne
+glore sukcesos kontraŭ vi, li venenos vin, enkaptiligos vin per ia
+perfida rimedo, kaj neniam ellasos vin, ĝis post li iamaniere estos
+vin mortiginta. Ĉar, mi certigas al vi, kaj preskaŭ kun larmoj mi
+ĝin diras, ke ne vivas nuntempe iu ajn, tiel juna kaj kanajla kiel
+li. Mi parolas nur frate pri li; sed se mi detale lin priskribus al
+vi, mi devus ruĝiĝi kaj plori, kaj vi paliĝus kaj miregus.
+
+Kar.
+
+Mi estas kore kontenta ke mi venis ĉi tien ĉe vin. Se li venos
+morgaŭ, mi donos al li pagadon! Se iam poste li povos marŝi
+nehelpate, mi ne plu baraktos por premio; tial, Dio gardu vian
+moŝton!
+
+Oli.
+
+Adiaŭ, bona Karlo. [Karlo foriras.] Nun mi incitos ĉi tiun
+petolulon: mi esperas ke mi vidos lian finiĝon; ĉar mia animo, mi
+ne scias kial, lin malamas kiel eble plej multe. Tamen li estas
+ĝentila, klera, kvankam neniam instruita, plena je nobla spirito,
+multe amata de personoj en ĉiu rango, kaj, efektive, tiel multe oni
+lin amas, precipe inter miaj propraj popolanoj, kiuj lin plej bone
+konas, ke oni tute malestimas min: sed ne longe tio daŭros; ĉi tiu
+baraktisto aranĝos ĉion; nenio restas por fari, escepte ke mi incitu
+la junulon al tio; kion mi nun ekfaros.
+
+[Li foriras.]
+
+
+
+SCENO II.
+
+Herbejeto antaŭ la palaco de la Duko.
+
+
+Eniras Celio kaj Rozalindo.
+
+Cel.
+
+Mi petas al vi, mia kara kuzineto, estu gaja.
+
+Roz.
+
+Kara Celio, mi jam montras pli multe da gajeco ol mi sentas; ĉu vi
+dezirus ke mi estu ankoraŭ pli gaja? Se vi ne povas instrui al mi
+kiel forgesi ekzilitan patron, vi ne devus instrui al mi kiel
+rememori ian eksterordinaran plezuron.
+
+Cel.
+
+Per tio mi vidas ke vi ne tiel multe min amas, kiel mi amas vin. Se
+mia onklo, via ekzilita patro, estus ekzilinta vian onklon, mian
+patron la Dukon, kondiĉe ke vi estu ankoraŭ ĉe mi, mi estus
+instruinta al mia amo akcepti vian patron kiel la mian: tiel vi
+estus lin akceptinta, se via amo al mi estus tiel hardigita kiel
+estas mia amo al vi.
+
+Roz.
+
+Nu, mi forgesos la staton de mia sorto, por ĝoji pri la via.
+
+Cel.
+
+Vi scias ke mia patro havas neniun infanon krom mi, kaj neniun
+havos, kaj, vere, kiam li mortos, vi estos lia heredanto, ĉar tion,
+kion perforte li forprenis de via patro, mi redonos ameme al vi. Je
+mia honoro, mi ĝin redonos; kaj kiam mi rompos tiun ĵuron, mi fariĝu
+monstro: tial, mia dolĉa Rozinjo, mia kara Rozo, estu gaja.
+
+Roz.
+
+De nun mi estos gaja, kuzineto, kaj elpensos amuzaĵojn; mi pensu:
+kion vi opinius pri la enamiĝado?
+
+Cel.
+
+Jes, certe, por nin amuzi: sed amu neniun serioze kaj vere; kaj, por
+vin amuzi, ne pli multe amu ol tiom, ke vi povos poste forkuri kun
+pura ruĝiĝo kaj kun plena honoro.
+
+Roz.
+
+Kiel, do, ni nin amuzos?
+
+Cel.
+
+Ni sidiĝos, kaj formokos de ŝia ŝpinilo la bonan mastrinon la
+Sorton, por ke ŝi de nun donu egale siajn donacojn.
+
+Roz.
+
+Mi volus ke ni povu tion fari, ĉar ŝi treege maljuste disdonas siajn
+bonfaraĵojn, kaj la donacema blindulino plej multe eraras je siaj
+donacoj al virinoj.
+
+Cel.
+
+Tio estas vera; ĉar tiun, kiun ŝi faras bela, ŝi apenaŭ faras
+honesta; kaj tiun, kiun ŝi faras honesta, ŝi faras malbela.
+
+Roz.
+
+Ne, vi pasas nun de la ofico de la Sorto, ĝis tiu de la Naturo; la
+Sorto regas je la donacoj mondaj, ne je la donacoj de la Naturo.
+
+Eniras Tuŝ-ŝtono.
+
+Cel.
+
+Ĉu ne? Post kiam Naturo estas farinta belan kreitaĵinon, ĉu la Sorto
+ne povos faligi ŝin en la fajron? Kvankam la Naturo estas doninta al
+ni spritecon, per kiu ni povas moki je la Sorto, ĉu la Sorto ne
+estas sendinta al ni ĉi tiun ŝercemulon, por ĉesigi la argumentadon?
+
+Roz.
+
+Efektive, jen la Sorto estas tro ruza por la Naturo, kiam la Sorto
+faras el la kreitaĵo de la Naturo la ĉesigonton de ŝia spriteco.
+
+Cel.
+
+Eble ĉi tiun faris ne la Sorto, sed ja la Naturo: kiu trovas niajn
+naturajn spritecojn tro malspritaj por rezonadi pri tiaj diinoj, kaj
+sendas al ni ĉi tiun ŝercemulon por nia akrigilo; tial, ke ĉiam la
+malspriteco de ŝercemulo estas akrigilo por la spriteco. Ho, nu
+spritulo! Kien vi vagadas?
+
+Tuŝ.
+
+Mastrino, vi devos antaŭen veni, al via patro.
+
+Cel.
+
+Ĉu oni sendis vin kiel la dironton?
+
+Tuŝ.
+
+Ne, je mia honoro, sed oni ordonis al mi ke mi venu por vin venigi.
+
+Roz.
+
+Kie vi lernis tiun ĵuron, ŝercemulo?
+
+Tuŝ.
+
+De iu kavaliro, kiu ĵuris je sia honoro ke ili estas bonaj kukoj,
+kaj ĵuris je sia honoro ke la mustardo estas nenio; kaj nun, mi
+atestas ke la kukoj estis nenio, kaj ke la mustardo estis bona,
+tamen la kavaliro ne ĵurorompis.
+
+Cel.
+
+Kiel vi pruvas tion, per la granda amaso da via sciado?
+
+Roz.
+
+Jes, nun malbuŝumu vian saĝecon.
+
+Tuŝ.
+
+Nu, vi ambaŭ antaŭen paŝu: frotu la mentonojn, kaj ĵuru je la barboj
+ke mi estas fripono.
+
+Cel.
+
+Je la barboj, se ni havus tiujn, vi estas fripono.
+
+Tuŝ.
+
+Je mia friponeco, se mi havus tiun, mi ja estus fripono; sed, se oni
+ĵuras je tio, kio ne ekzistas, oni ne ĵurorompas; jes, pli multe
+ĵurorompis tiu kavaliro, ĵurinte je sia honoro, ĉar li havis neniom
+da honoro; aŭ, se li estis iom havinta, li ĝin forĵuris longtempe
+antaŭ ol li vidis tiujn kukojn kaj mustardon.
+
+Cel.
+
+Mi petas, kiun vi intencas?
+
+Tuŝ.
+
+Iun, kiun amas maljuna Frederiko, via patro.
+
+Cel.
+
+La amo al mia patro sufiĉas por lin honori: sufiĉe! Ne plu parolu
+pri li; oni vipos vin iam, pro insultema parolado.
+
+Tuŝ.
+
+Des pli domaĝe, ke ŝercemuloj ne estas permesataj diri saĝe tion,
+kion saĝuloj malsaĝe faras.
+
+Cel.
+
+Je mia honoro, vi diras la veron; ĉar depost kiam oni silentigis la
+malmultan spritecon de ŝercemuloj, la malmulta malspriteco de saĝaj
+viroj faras grandan bruon. Jen venas Sinjoro Labelo.
+
+Roz.
+
+Havante ia buŝon plena je novaĵo.
+
+Cel.
+
+Kiun li sammaniere liveros al ni, kiel kolomboj nutras la idojn.
+
+Roz.
+
+Tiam ni estos novaĵo-plenigita.
+
+Cel.
+
+Des pli bone; ni estos des pli vendeblaj.
+
+Eniras Labelo.
+
+Bonan tagon, Sinjoro Labelo. Kia novaĵo?
+
+Lab.
+
+Bela princino, vi forestis de multe da bona sporto.
+
+Cel.
+
+Sporto? Havanta kian koloron?
+
+Lab.
+
+Havanta kian koloron, Sinjorino! Kiel mi respondos al vi?
+
+Roz.
+
+Tiel, kiel spriteco kaj la Sorto deziras.
+
+Tuŝ.
+
+Aŭ tiel, kiel la Parcoj ordonas.
+
+Cel.
+
+Bone dirite! Tio estas surmetita per trulo.
+
+Tuŝ.
+
+Ne, se mi ne tenas mian rangon,--
+
+Roz.
+
+Vi ĝin perdos.
+
+Lab.
+
+Vi min konfuzas, sinjorinoj; mi volis rakonti al vi pri bona
+baraktado, kiun vi ne vidis.
+
+Roz.
+
+Tamen, rakontu al ni la manieron de la baraktado.
+
+Lab.
+
+Mi rakontos al vi la komencon; kaj, se plaĉos al viaj moŝtoj, vi
+povos vidi la finon; ĉar la plej bona baraktado estas ankoraŭ
+okazonta; kaj ĉi tien, kie vi estas, oni venos por ĝin okazigi.
+
+Cel.
+
+Nu, la komenco estas mortinta kaj enterigita.
+
+Lab.
+
+Venis maljunulo kaj liaj tri filoj,--
+
+Cel.
+
+Mi povus egali ĉi tiun komencon per malnova fabelo.
+
+Lab.
+
+Tri belaj junaj viroj, havantaj bonegajn staturon kaj mienon.
+
+Roz.
+
+Portantaj je la koloj afiŝojn "ĉiu sciiĝu per ĉi tio."
+
+Lab.
+
+La plej maljuna el la tri baraktis kontraŭ Karlo, la baraktisto de
+la Duko; kaj post unu momento Karlo lin faligis, rompinte tri
+el liaj ripoj, tiel, ke estas malmulte da espero je lia vivo;
+sammaniere li faligis ia duan, kaj la trian. Jen ili tie kuŝas; la
+kompatinda maljunulo, ilia patro, tiel kortuŝe malĝojegas pri ili ke
+ĉiu rigardanto ploras pro kompato.
+
+Roz.
+
+Ho ve!
+
+Tuŝ.
+
+Sed kia estas la sporto, Sinjoro, kiun la sinjorinoj ne vidis?
+
+Lab.
+
+Ĉi tio, kion mi priparolas.
+
+Tuŝ.
+
+Tiamaniere oni povas fariĝi pli saĝa ĉiutage; nun, je la unua fojo,
+mi aŭdas ke la rompado de ripoj estas sporto por la sinjorinoj.
+
+Cel.
+
+Mi ankaŭ je la unua fojo, mi certigas al vi!
+
+Roz.
+
+Sed ĉu estas ankoraŭ alia kiu deziras aŭdi tian rompitan muzikon en
+siaj flankoj? Ĉu ankoraŭ alia ŝategas riporompadon? Ĉu ni rigardos
+ĉi tiun baraktadon, kuzino?
+
+Lab.
+
+Vi devos, se vi restos ĉi tie; ĉar tiu ĉi estas la loko decidita por
+la baraktado, kiun ili estas pretaj efektivigi.
+
+Cel.
+
+Jen, efektive, ili venas; ni restu kaj ĝin vidu.
+
+Brumuziko. Eniras Duko Frederiko, lordoj, Orlando, Karlo, kaj
+sekvantoj.
+
+Duko F.
+
+Antaŭen venu; tial, ke oni ne povas forkonvinki la junulon, li
+ŝuldos la danĝeron al sia propra riskemo.
+
+Roz.
+
+Ĉu tiu estas la viro?
+
+Lab.
+
+Jes, Sinjorino, tiu estas la viro.
+
+Cel.
+
+Ho ve, li estas tro juna! Tamen li havas sukceseman vidiĝon.
+
+Duko F.
+
+Kiel, nu, filino kaj kuzino; ĉu vi venis ĉi tien por vidi la
+baraktadon?
+
+Roz.
+
+Jes, via moŝto, se vi afable permesos.
+
+Duko F.
+
+Malmulte vi ĝin ĝuos, mi certigas al vi, ĉar la viroj tute ne estas
+egalfortaj. Kompatante la junecon de la elvokinto, mi volonte lin
+forkonvinkus, sed li obstinas kontraŭ konvinkado. Parolu al li, kaj
+penu lin deturni de la intenco.
+
+Cel.
+
+Lin alvoku ĉi tien, bona Sinjoro Labelo.
+
+Duko F.
+
+Jes, alvoku lin; mi flanken iros.
+
+Lab.
+
+Sinjoro Elvokinto, la princino vin alvokas.
+
+Orl.
+
+Mi ĉeestos kun granda respekto, laŭ mia devo.
+
+Roz.
+
+Juna viro, ĉu vi elvokis Karlon, la baraktiston?
+
+Orl.
+
+Ne, bela princino; li estas la ĝenerala elvokinto: mi nur envenas,
+kiel la aliaj, por provi la forton de mia junaĝo.
+
+Cel.
+
+Juna sinjoro, via spirito estas tro kuraĝa por viaj jaroj. Vi vidis
+kruelan pruvon de ĉi ties forto: se vi vin vidus per viaj okuloj, aŭ
+vin konus per via propra prudento, la timo pri via aventuro vin
+konsilus al pli egala entrepreno. Ni petas vin, pro vi mem, ke vi
+kaptu vian propran sendanĝeron, kaj forlasu ĉi tiun provon.
+
+Roz.
+
+Jes, juna sinjoro; oni ne pro tio malestimos vian reputacion: ni
+petos al la Duko ke la baraktado ne daŭru.
+
+Orl.
+
+Mi petas al vi, ne min punu per severaj pensoj: je tio mi konfesas
+min tre kulpa, ke mi rifuzas ion ajn al tiaj belaj kaj bonaj
+sinjorinoj. Sed permesu ke viaj belaj okuloj kaj bonkoraj pensoj
+kuniru kun mi al mia provo: se mi estos venkita en tio, nur estos
+iu hontigita, kiu neniam estis favorita; se mi estos mortigita, nur
+estos mortigita iu, kiu ne kontraŭvolas: mi ne agos malbone kontraŭ
+miaj amikoj, ĉar mi havas neniom da amikoj por min priplori; mi
+faros nenian malbonon kontraŭ la mondo, ĉar en ĝi mi havas nenion;
+en la mondo mi nur plenigas lokon, kiu eble estos pli bone plenigata
+post kiam mi ĝin malplenigos.
+
+Roz.
+
+La malmulta forto kiun mi havas--mi volus ke ĝi estu ĉe vi.
+
+Cel.
+
+Kaj la mia, por aldoni al la ŝia.
+
+Roz.
+
+Adiaŭ: mi petas la ĉielon ke mi estu trompita pri vi!
+
+Cel.
+
+Ke vi prosperu laŭ la deziroj de via koro!
+
+Kar.
+
+Nu, kie estas tiu juna bravulo kiu tiel multe deziras kuŝi sur sia
+patrino, la tero?
+
+Orl.
+
+Preta, Sinjoro; sed li havas pli modestan ambicion.
+
+Duko F.
+
+Vi provos nur unu faligon.
+
+Kar.
+
+Ne, mi certigas al via duka moŝto, vi ne incitos lin al dua faliĝo,
+tiel insiste lin dekonsilinte de la unua.
+
+Orl.
+
+Vi intencas min moki poste; vi ne devus esti mokinta min antaŭe; sed
+venu, kiel vi volas.
+
+Roz.
+
+Nun Heraklo donu al vi helpon, juna viro!
+
+Cel.
+
+Mi volus ke mi estu nevidebla, por kapti la fortulon je la kruro.
+
+[La du viroj baraktas.]
+
+Roz.
+
+Ho, lerta juna viro!
+
+Cel.
+
+Se mi havus fulmofajron en mia okulo, mi povus diri kiu estos
+faligata.
+
+[Oni ekkrias. Karlo estas faligita.]
+
+Duko F.
+
+Ne plu, ne plu.
+
+Orl.
+
+Jes, mi petas al via duka moŝto: mi ankoraŭ ne malfacile spiras.
+
+Duko F.
+
+Kia estas via stato, Karlo?
+
+Lab.
+
+Li ne povas paroli, via moŝto.
+
+Duko F.
+
+Lin forportu. Kiel vi estas nomata, juna viro?
+
+Orl.
+
+Orlando, via duka moŝto; la plej juna filo de Siro Rolando de Bojz.
+
+Duko F.
+
+  Mi volus ke al ia vir' alia
+  Vi estu filo: lin la mondo taksis
+  Tre honorinda, tamen mi lin trovis
+  Nur malamiko: tial vi pli bone
+  Min estus ekplaĉinta, per la venko,
+  Se vi devenus de alia patro.
+  Sed vivu bone; vi kuraĝa estas:
+  Mi volus nur ke vi alian patron
+  Nominta estu.
+
+[Duko F., sekvantoj, kaj Labelo foriras.]
+
+Cel.
+
+                Kuzineto mia,
+  Se mi la patro estus, ĉu mi farus
+  Ĉi tion?
+
+Orl.
+
+           Nu, mi pli fiera estas,
+  Estante filo, la plej juna filo,
+  De Sir' Rolando, kaj ne volus ŝanĝi
+  Ĉi tion, eĉ ke Duko Frederiko
+  Adoptu min por heredonto sia.
+
+Roz.
+
+  Rolandon mia patro kore amis,
+  La tuta mondo same amis lin;
+  Se mi antaŭe estus eltrovinta
+  En tiu ĉi junulo lian filon,
+  Mi estus aldoninta miajn larmojn
+  Al miaj petoj, ke li ne baraktu.
+
+Cel.
+
+  Kuzino, ni aliru por lin danki,
+  Kaj kuraĝigi: ĉar la karaktero,
+  Severa, enviema, de la patro
+  Min pikas je la koro. Do, Sinjoro,
+  Bonege vi meritas. Se precize
+  Promesojn pri la amo vi plenumas,
+  Tutsame, kiel ĉies atendadon
+  Vi ĵus superis, via amatino
+  Feliĉa estos.
+
+[Ŝi donas al li ĉenon de sia kolo.]
+
+Roz.
+
+                Tion ĉi, Sinjoro,
+  Pro mi portadu, kiu de l' Bonŝanco
+  Ne favorita estas, kaj donacus
+  Pli multe, se pli multe mi posedus.
+  Kuzino, ĉu ni iru?
+
+Cel.
+
+                     Jes. Adiaŭ,
+  Sinjoro.
+
+Orl.
+
+           Ĉu mi ne vin povas danki?
+  L' animo mia estas faligita,
+  Kaj tio, kio staras tie ĉi,
+  Senviva ŝtipo, ludstatuo, estas.
+
+Roz.
+
+  Li nin revokas: la fiero mia
+  Malsupren falis kune kun bonŝanco;
+  Mi lin demandos kion li deziras:
+  Sinjoro, ĉu vi vokis? Vi baraktis
+  Bonege, kaj faligis eĉ pli multe
+  Ol viajn malamikojn.
+
+Cel.
+
+                       Ĉu ni iru,
+  Kuzino?
+
+[Rozalindo kaj Celio foriras.]
+
+Roz.
+
+           Venu kun mi. Vi, adiaŭ.
+
+Orl.
+
+  Pasio kia premas mian langon?
+  Ne povas mi respondi, tamen ŝi
+  Kvazaŭe petis interparoladon!
+  Orlando kompatinda, vin faligis
+  Aŭ Karlo, aŭ ja io malpli forta!
+
+Revenas Labelo.
+
+Lab.
+
+  Sinjoro, tre amike mi konsilas
+  Ke vi foriru de ĉi tiu loko.
+  Ĉar, kvankam vi meritis multan laŭdon,
+  Aplaŭdon veran, kaj amadon, tamen
+  Humoron tian havas nun la Duko
+  Ke li malprave juĝas viajn agojn.
+  Li estas kapricema: efektive,
+  Pli dece estas ke vi nur konceptu
+  Ol ke mi diru kia li ja estas.
+
+Orl.
+
+  Mi dankas vin: el tiuj du fraŭlinoj
+  Ĵus ĉeestintaj ĉe la baraktado,--
+  Bonvole diru al mi,--kiu estas
+  Filino de la Duko?
+
+Lab.
+
+                      Nu, neniu,
+  Se oni juĝas laŭ la karaktero.
+  Sed tiu pli altkreska estas vere
+  Filino lia: kaj l' alia estas
+  Filino de la ekzilita Duko,
+  Ĉi tie restigita de la onklo,
+  La uzurpanto, por ke ŝi kunestu
+  Kun la kuzino: la fraŭlinoj amas
+  Pli kore reciproke ol fratinoj.
+  La Duko, tamen, antaŭ ne tre longe,
+  Ekmalŝategis la nevinon dolĉan,
+  Ĉar oni tre laŭdadas ŝiajn virtojn,
+  Kaj ŝin kompatas pro la bona patro.
+  Mi estas certa ke l' malico lia
+  Subite kontraŭ ŝi montriĝos. Nu,
+  Adiaŭ: iam en pli bona mondo
+  Mi volos bone konatiĝi kun vi.
+
+[Labelo foriras.]
+
+Orl.
+
+  Mi dankas vin, Sinjoro; do, adiaŭ.
+  Mi iros nun el fumo al fumego:
+  De l' Duko al la frato kruelega,
+  Sed Rozalind' ĉiela!
+
+[Li foriras.]
+
+
+
+SCENO III.
+
+Ĉambro en la Palaco.
+
+
+Eniras Celio kaj Rozalindo.
+
+Cel.
+
+Nu, kuzino! nu, Rozalindo! Kupido estu indulga al ni! Ne unu vorto?
+
+Roz.
+
+Ne eĉ unu, por ĵeti kontraŭ hundon!
+
+Cel.
+
+Ne, viaj vortoj estas tro valoraj por esti forĵetataj kontraŭ
+hundaĉojn; ĵetu kelke da ili kontraŭ min; lamigu min per kialoj.
+
+Roz.
+
+Tiam du kuzinoj estus en malbona stato: unu lamigite de kialoj, la
+alia freneza sen ia kialo.
+
+Cel.
+
+Ĉu do ĉio ĉi estas pro via patro?
+
+Roz.
+
+Ne, iom da ĝi estas pro la patro de mia infano. Ho, kiel plena je
+dornoj estas ĉi tiu labortaga mondo!
+
+Cel.
+
+Ili estas nur bardanoj, kuzino, ĵetitaj sur vin pro petoleco: se ni
+ne marŝas laŭ la piedbatita vojeto, eĉ niaj jupoj kaptos ilin.
+
+Roz.
+
+Mi povus ilin forskui de mia vestaĵo; ĉi tiuj bardanoj estas en mia
+koro.
+
+Cel.
+
+Fortusu ilin.
+
+Roz.
+
+Mi penus ilin fortusi, se per tuso mi povus lin havi.
+
+Cel.
+
+Nu, do, baraktu kontraŭ via amo.
+
+Roz.
+
+Ho, mia amo helpas al pli bona baraktisto ol mi mem.
+
+Cel.
+
+Ho, mi volas bone al vi! Vi fine penos, spite faliĝo. Sed,
+forlasante ĉian ŝercadon, ni parolu serioze: ĉu estas eble, ke tiel
+subite vi enamiĝus je la plej juna filo de maljuna Siro Rolando?
+
+Roz.
+
+La Duko mia patro kore amis lian patron.
+
+Cel.
+
+Ĉu tial vi devus kore ami lian filon? Per tia rezonado, mi devus lin
+kore malami, ĉar mia patro kore malamis lian patron: tamen, mi ne
+malamas Orlandon.
+
+Roz.
+
+Ne, certe, pro mi ne lin malamu!
+
+Cel.
+
+Sed kial ne? Ĉu li ne bone meritas?
+
+Roz.
+
+Lasu al mi ami lin pro tio, kaj vi lin amu tial, ke mi lin amas.
+Rigardu, jen venas la Duko.
+
+Cel.
+
+Kun la okuloj plenaj je kolero.
+
+Eniras Duko Frederiko kun lordoj.
+
+Duko F.
+
+  Fraŭlino, kiel eble plej rapide
+  Foriru vi de la kortego nia.
+
+Roz.
+
+  Mi, onklo?
+
+Duko F.
+
+            Vi, kuzino. Post dek tagoj.
+  Se oni trovos vin je dudek mejloj
+  Proksima de l' kortego, vi ekmortos.
+
+Roz.
+
+  Mi petas vian moŝton, mi kunportu
+  Sciiĝon pri la kulpo en ekzilon:
+  Se ion ajn mi scias pri mi mem,
+  Aŭ konas la dezirojn miajn proprajn,
+  Se mi ne revas, ne freneza estas,--
+  Kaj mi ne tia estas,--kara onklo,
+  Neniam eĉ per penso nenaskita
+  Mi vin ofendis, moŝto.
+
+Duko F.
+
+                         Same diras.
+  La perfiduloj ĉiuj: Se en vortoj
+  Konsistus senkulpiĝo, ili estus
+  Senkulpaj, kiel senkulpeco mem:
+  Sufiĉu al vi, ke mi ne vin fidas.
+
+Roz.
+
+  Sed per malfido nura, vi ne povas
+  Min fari perfidulo. Diru al mi
+  Je kio ajn dependas la komparo.
+
+Duko F.
+
+  Vi estas la filin' de via patro,
+  Kaj jen sufiĉe.
+
+Roz.
+
+                 Sed mi tia estis,
+  Eĉ kiam via moŝt' la dukolandon
+  De li forprenis; kaj mi tia estis
+  Eĉ kiam via moŝto lin ekzilis;
+  Perfidon oni ne heredas, moŝto;
+  Kaj, eĉ se oni tiel ĝin akirus,
+  Ĉu tio min rilatas? Mia patro
+  Nenia perfidulo estis: tial
+  Ho bona moŝto, tiom ne trompiĝu,
+  Kredante ke la malriĉeco mia
+  Perfida estas.
+
+Cel.
+
+                 Via moŝt', aŭskultu!
+
+Duko F.
+
+  Celio, jes, pro vi ni ŝin restigis;
+  Aŭ kun la patro estus ŝi irinta.
+
+Cel.
+
+  Mi tiam ne petegis ke ŝi restu;
+  Vi agis nur laŭ volo, kaj pro pento;
+  Je tiu tempo mi tro juna estis
+  Por ŝin estimi. Nun mi konas ŝin.
+  Se ŝi perfida estas, same mi:
+  Ni ĉiam kune dormis, kaj leviĝis;
+  Lernadis kune, kunludadis ankaŭ;
+  Kunmanĝis ĉiam; kien ajn ni iris
+  Eĉ kiel tiuj cignoj de Junono,
+  Ni ĉiam iris kune kaj duope.
+
+Duko F.
+
+  Ŝi estas tro subtila. La ruzeco
+  La pacienco, kaj silento ŝia
+  Parolas al la popolanoj, kiuj
+  Kompatas ŝin; vi estas malsaĝulo:
+  Ŝi rabas al vi vian propran famon.
+  Pli hela vi vidiĝos, kaj pli virta,
+  Post kiam ŝi jam foririnta estos.
+  La lipojn ne malfermu. Neŝanĝebla
+  Kaj certa estas la kondamno, kiun
+  Anoncas mi: ŝi estas ekzilita.
+
+Cel.
+
+  Min same do kondamnu, duka moŝto,
+  Sen ŝia kunuleco mi ne vivos.
+
+Duko F.
+
+  Vi estas malsaĝulo. Vi, nevino,
+  Provizu vin: se vi tro longe restos,
+  Je mia vorto kaj honor', vi mortos.
+
+[Duko Frederiko kaj lordoj foriras.]
+
+Cel.
+
+  Ho kara Rozalind', vi kien iros?
+  Ĉu vi konsentus interŝanĝi patrojn?
+  Mi donos al vi mian! Ho, mi petas,
+  Ne estu pli malĝoja ol mi estas.
+
+Roz.
+
+  Mi havas ja pli multe da kialo.
+
+Cel.
+
+  Kuzino, ne; mi petas, estu gaja.
+  Ĉu vi ne scias ke la Duk' ekzilis
+  Min ankaŭ, la filinon sian?
+
+Roz.
+
+                              Ne.
+
+Cel.
+
+  Ĉu ne? Ho, Rozalind' malhavas do
+  La amon kiu montras ke ni ambaŭ
+  Unuo estas; ĉu ni apartiĝos?
+  Ĉu oni nin disigos, dolĉulino?
+  Ne: mia patro nun por si elserĉu
+  Alian heredonton. Tial, ni
+  Elpensu kiel ni forkuros, kien
+  Ni ekvojaĝos, kion ni kunportos.
+  Ne penu vian sortoŝanĝon preni
+  Sur vin tutsole, por elporti tiel
+  Malĝojon vian, min ellasadante;
+  Ĉar, je l' ĉielo, kiu jam paliĝas
+  Pro nia malĝojego, mi kuniros,--
+  Jes, malgraŭ ĉio, mi kun vi kuniros.
+
+Roz.
+
+  Sed kien iros ni?
+
+Cel.
+
+                    En la arbaron,
+  Ardenon, por elserĉi l' onklon tie.
+
+Roz.
+
+  Ho ve, sed kiel danĝerege estos,
+  Se ni, knabinoj, tiel malproksimen
+  Vojaĝos! La beleco, pli ol oro,
+  Rabistojn allogadas.
+
+Cel.
+
+                       Mi min vestos
+  Malriĉe kaj mallukse. La vizaĝo
+  Per ia ombrotero mi ŝmirados.
+  Vi faru same: ni antaŭen iros
+  Neatakite.
+
+Roz.
+
+              Ĉu ne estus bone,--
+  Ĉar pli ol multaj mi altkreska estas,--
+  Ke mi min vestu tute kiel viro?
+  Kun glavo ĉe la flanko, kaj kun lanco
+  En mia mano? Tiam,--en la koro
+  Sin trovu kia ajn virina timo,--
+  Ni havos eksteraĵon fanfaronan,
+  Kaj militeman, kiel ja aliaj
+  Timuloj virsimilaj havas, kiuj
+  La timon kaŝas sub mieno brava.
+
+Cel.
+
+  Kaj kiel mi vin nomos, kiel viron?
+
+Roz.
+
+  Eĉ kiel la paĝion jupiteran:
+  Min nomu Ganimedo. Kiel vi
+  Nomata estos?
+
+Cel.
+
+                Ho, per ia nomo
+  Al mia nuna stato rilatanta:
+  Ne plu Celio nun, sed Alieno.
+
+Roz.
+
+  Ĉu estus bone ke ni penu ŝteli
+  El la kortego tiun ŝercemulon,
+  De via patro? Ĉu li ne nin helpus
+  En nia vojaĝado?
+
+Cel.
+
+                    Li kuniros
+  Kun mi tra l' tuta mond'. Mi lin konvinkos.
+  Rapidu do, ni amasigu ĉiom
+  De la riĉaĵo kaj juveloj niaj;
+  Elpensu la pli bonan manieron,
+  Kaj tempon, por nin kaŝi de l' sekvado
+  Farota tuj post mia forkurado.
+  Ni iru do, kun tuta kontenteco,
+  Ne en ekzilon, sed al libereco.
+
+[Ambaŭ foriras.]
+
+
+
+
+AKTO II.
+
+
+
+SCENO I.
+
+La arbaro Ardeno.
+
+
+Eniras la Duko, kaj du aŭ tri lordoj, vestitaj kiel arbaristoj.
+
+La Duko.
+
+  Kunuloj miaj, fratoj en ekzilo,
+  Ĉu ne dolĉigas pli la kutimiĝo
+  La nunan vivon, ol la vivon pompan?
+  Ĉu ne l' arbaro pli senriska estas
+  Ol la kortego tiu enviema?
+  Ni sentas nur la sorton de Adamo;
+  Nur ŝanĝojn de l' sezonoj; kiel, mordon
+  De l' vintra vent', glacian, malĝentilan;
+  Kaj kiam mordas ĝi, kaj blovas forte
+  Sur mian korpon, ĝis mi frostotremas,
+  Mi diras ridetante "Jen ĉi tio
+  Ne estas flategado; tiu estas
+  La konsilanto kiu min konvinkas
+  Per sentoj veraj, kio mi ja estas."
+  Dolĉaj l' utiloj de la malbonŝanco:
+  Simile al la bufo, veneneca,
+  Malbela ankaŭ, tamen en la kapo
+  Ĝi portas altvaloran juveleton:
+  Kaj jen la nia viv', liberigite
+  De vizitad' publika, trovas langojn
+  En arboj, librojn en la riveretoj,
+  Predikojn en la ŝtonoj, bonon ĉie.
+  Mi ne ĝin volus ŝanĝi.
+
+Ami.
+
+                         Ho, bonŝanca
+  La duka moŝto estas, kiu povas
+  Traduki l' obstinaĉon de la sorto
+  Laŭ tiel dolĉa kaj trankvila stilo.
+
+La Duko.
+
+  Nu, venu, ĉu ni iru al la ĉaso,
+  Por nin provizi je cervaĵo? Tamen
+  Min ĝenas ke la kompatindaj bestoj,
+  La brune makulitaj malsprituloj,
+  Naskitaj enloĝantoj de l' dezerto
+  En tiu ĉi arbaro, siaj limoj,
+  Per forkpintitaj sagoj tamen estus
+  Je l' kurbaj koksoj trapikitaj.
+
+Unua Lordo.
+
+                                 Certe
+  Jakveso la malgaja tre malĝojas
+  Pro tio, kaj je tio al si ĵuras
+  Ke vi pli multe ja uzurpas tie
+  Ol tiu frato kiu vin ekzilis.
+  Hodiaŭ mi kaj lordo Amienso
+  Postiris lin tre kaŝe, tien, kie
+  Sub kverko kies radikar' antikva
+  Ekrigardetas sur la rivereton
+  Murmurfluantan preter la arbaro:
+  Li kuŝis laŭ ĝi; kaj al tiu loko
+  Ekvenis sekestrita cervo, kiu,
+  Kompatindulo, pro la trafo bona
+  De la ĉasisto, havis vund-doloron.
+  Ĝi venis por suferi; efektive,
+  La malfeliĉa besto tiel ĝemis,
+  Ke tiu ĝemo streĉis lian felon,
+  Ĝis preskaŭ disrompiĝo, kaj la larmoj
+  Globformaj, grandaj, unu la alian
+  Sin sekvis laŭ la senkulpeta nazo,
+  En kompatinda kuro. Tiel staris
+  La malspritulo (multe rimarkite
+  De tiu tre malgaja vir', Jakveso)
+  Sur plej ekstrema bordo de l' fluaĵo,
+  Pligrandigante ĝin per larmoj.
+
+La Duko.
+
+                                Sed, do,
+  Jakveso diris kion? Ĉu li tiam
+  Ne moraligis je spektaklo tia?
+
+Unua Lordo.
+
+  Ho jes, per miloj da komparoj belaj.
+  Unue, pro plorado en la akvon,
+  La rivereton kiu ne bezonis,
+  Li diris "Kompatinda cervo, kiel
+  Monduloj, ankaŭ vi la testamenton
+  Nun faras, dum vi donas vian parton
+  De tiom plu al tio jam havanta
+  Tro multe." Tiam, ĉar ĝi estis sola,
+  Kaj forlasita de l' amikoj kornaj,
+  Li diris "Bone estas: tiel ĉiam
+  Mizero apartigas la kunulojn."
+  Senzorga aro, sata je la herbo,
+  Hazarde preterkuras, ne haltante
+  Por ĝin saluti. Jen Jakveso diras
+  "Ho jes, antaŭen iru, vi, regnanoj,
+  Dikkorpaj, grasaj! Estas ja la modo!
+  Do, kial vi rigardas unufoje
+  La kompatindan bankrotulon tie?"
+  Kaj tiel plej riproĉe li trapikas
+  La korpon de l' kampar', kortego, urbo,
+  Kaj eĉ de nia viv', ĵurante ke ni
+  Nur uzurpuloj estas, aŭ tiranoj,
+  Aŭ eĉ ankoraŭ pli malbonaj homoj,
+  La bestojn timigante, mortigante,
+  En la iliaj difinitaj hejmoj,
+  Kaj ĉe la indiĝena enloĝejo.
+
+La Duko.
+
+  Kaj vi lin lasis en la meditado?
+
+Dua Lordo.
+
+  Jes, via moŝt', plorantan, parolantan
+  Pri tiu ploreganta cervo.
+
+La Duko.
+
+                             Montru
+  Al mi la lokon. Mi tre amas trovi
+  Ĉi tiun viron en cinika stato,
+  Li estas tiam plena je prudento.
+
+Unua Lordo.
+
+  Mi rekte gvidos vin al li antaŭen.
+
+[Ĉiuj foriras.]
+
+
+
+SCENO II.
+
+Ĉambro en la palaco.
+
+
+Eniras Duko Frederiko, kun lordoj.
+
+Duko F.
+
+  Ĉu estas eble ke neniu homo
+  Ekvidis ilin? Ĝi ne povas esti:
+  Kanajloj iuj ĉe l' kortego certe
+  Konsentis kaj en tio partoprenis.
+
+Unua Lordo.
+
+  Neniun, kiu vidis ŝin, mi trovas.
+  La sinjorinoj, servistinoj ŝiaj,
+  Kuŝigis ŝin, kaj frue je l' maten'
+  Ĉi tiuj samaj trovis ŝian liton
+  Je tiu trezoreto senigita.
+
+Dua Lordo.
+
+  Kaj, moŝto via, tiu ŝercemulo,
+  Je kiu tiel ofte vi ridadis,
+  Forestas ankaŭ. Hisperio, ĉefa
+  Princina servistin', konfesas ke ŝi
+  Subaŭdis kaŝe la filinon vian,
+  Kaj ankaŭ la kuzinon Rozalindon,
+  Dum multe ili laŭdis la gracion
+  Kaj lertegecon de la baraktisto,--
+  Li kiu ĵus elvenkis fortan Karlon.
+  Ŝi kredas ke, eĉ kien ajn foriris
+  La sinjorinoj, certe la junulo
+  Kun ili estas.
+
+Duko F.
+
+                 Sendu al la frato
+  De tiu vir'. Konduku lin ĉi tien;
+  Se li forestas, tiam lian fraton
+  Konduku al mi. Lin mi ja devigos
+  La viron trovi. Faru tion tuj,
+  Ne ŝanceliĝu nun la esplorado
+  Kaj la serĉado, antaŭ ol reporti
+  Ĉi tiujn malsaĝetajn forkurintojn.
+
+[Ĉiuj foriras.]
+
+
+
+SCENO III.
+
+Antaŭ la domo de Olivero.
+
+
+Eniras Orlando kaj Adamo, renkonte unu la alian.
+
+Orl.
+
+                          Jen kiu?
+
+Adamo.
+
+  Ho, mia juna mastro? Mastro mia,
+  Ĝentila! Dolĉa mastro! Rememoro
+  Pri Sir' Rolando! Kion nun vi faras
+  Ĉi tie? Kial estas vi virtulo?
+  Kaj kial oni amas vin? Kaj kial
+  Vi estas forta, brava, dolĉanima?
+  Ho, kial vi malsaĝe volis venki
+  La lertan baraktiston de la Duko,
+  La kapricema Duko? Viaj laŭdoj
+  Alvenis antaŭ vi al via hejmo
+  Kun troa rapideco. Mastro mia,
+  Ĉu vi ne scias ke al iaj viroj
+  Iliaj bonaj ecoj estas malamikoj?
+  La viaj same: viaj virtoj, mastro,
+  Nur sanktaj perfidintoj al vi estas.
+  Ho, kia mondo estas nia, kiam
+  Eĉ tio, kio estas bela, tamen
+  Venenas tiun, kiu havas ĝin!
+
+Orl.
+
+  Nu, kion ajn vi havas?
+
+Adamo.
+
+                         Ho, junulo,
+  Tra tiu ĉi pordego ne eniru!
+  Sub tiu ĉi tegmento ja loĝadas
+  La malamik' al ĉiuj viaj virtoj:
+  La frato,--ne, nenia frato, tamen,
+  La filo,--tamen ne la filo; filon
+  Mi ne lin nomos, de la viro, kiun
+  Mi preskaŭ nomis lian patron.--Nu,
+  Li aŭdis vian laŭdon, kaj vespere
+  Hodiaŭ, li intencas ekbruligi
+  La domon kie vi kutime loĝas,
+  Kaj ankaŭ vin mem en ĝi; se je tio
+  Li malsukcesos, tamen li havigos
+  Rimedojn alispecajn, por vin trafi.
+  Mi kaŝe aŭdis lin, kaj la projektojn.
+  Ĉi tio ne loĝejo estas. Por vi
+  Ĉi tiu domo estas nur buĉejo:
+  Ho, ĝin malŝatu! Timu! Ne eniru!
+
+Orl.
+
+  Nu, kien ajn, Adamo, vi deziras
+  Ke mi do iru?
+
+Adamo.
+
+                Kien ajn vi volas.
+  Se nur en tiun domon vi ne iros.
+
+Orl.
+
+  Nu, kion, ĉu vi volas ke mi iru
+  Petante je almozoj por nutraĵo?
+  Aŭ per bruega malĝentila glavo
+  Ŝtelante vivrimedojn laŭ la vojo
+  Perforte? Tion ja mi devos fari,
+  Aŭ esti nescianta kion fari:
+  Ĉi tion, tamen, mi neniel faros,
+  Plivole mi cediĝos je l' malico
+  De korinklino kiu sin forturnis,
+  Kaj sangavida frato.
+
+Adamo.
+
+                       Ne ĝin faru.
+  Mi havas mil spesmilojn, la salajron
+  Sub via patro, de mi mem ŝparitan,
+  Kaj konservitan por min nutri, kiam
+  La servadpovo en la membroj miaj
+  Sin trovos kripligita, kiam ankaŭ
+  La maljuneco estos forĵetita:
+  Ĝin prenu; eĉ Li kiu nutras korvojn,
+  Kaj sufiĉege donas al paseroj,
+  Prizorgu min maljunan! Jen la oro!
+  Mi donas ĉiom da ĝi. Nun permesu
+  Ke mi servisto via estu; kvankam
+  Mi ŝajnas ja maljuna, efektive,
+  Mi estas forta, jes, fortika viro,
+  Ĉar dum juneco mi neniam verŝis
+  Varmigajn kaj ribelajn eltrinkaĵojn
+  En mian sangon, nek mi amindumis,
+  Kun nehontema frunto, la rimedojn
+  De malforteca kaj kaduka stato.
+  Kaj tial mia aĝo tre similas
+  Fortikan vintron, frostan, sed ĝentilan:
+  Permesu ke mi iru kune kun vi,
+  Mi servos kiel pli junkorpa viro,
+  En ĉiu faro, en bezono ĉiu.
+
+Orl.
+
+  Ho bona maljunulo, kiel bone
+  En vi aperas la konstanta servo
+  De l' mond' antikva, kiam servo tia
+  Pro devo ŝvitis, ne por rekompenco!
+  Vi estas ne laŭ modo nunatempa,
+  En kiu ŝvitas, krom por promocio,
+  Neniu viro, kaj, havinte tion,
+  Sufokas ili tute tiun servon,
+  Eĉ je l' havado. Vi ne tia estas.
+  Sed, kompatinda maljunulo, vi
+  Haketas je kaduka arbo, kiu
+  Ne povas unu floron ekprodukti,
+  Eĉ malgraŭ penoj viaj, kaj laboro.
+  Sed venu, do, kuniros ni antaŭen,
+  Kaj antaŭ ol elspezi vian monon
+  Esploru ni, konforme la bezonon.
+
+Adamo.
+
+  Antaŭen iru, mastro, mi postvenos,
+  Kun lojaleco, kaj kun vero penos.
+  Deksepjarul' ekloĝis mi ĉi tie,
+  Havante okdek jarojn, loĝos kie?
+  Deksepjaruloj serĉas bonan sorton,
+  Okdekjaruloj trovos nur la morton.
+  Bonŝancon rekompencos ne pli vante
+  Ol bone morti, mastron ne ŝuldante.
+
+[Ambaŭ foriras.]
+
+
+
+SCENO IV.
+
+La arbaro Ardeno.
+
+
+Eniras Rozalindo por Ganimedo, Celio por Alieno, kaj Tuŝ-Ŝtono.
+
+Roz.
+
+  Ho Jupitero, kiel lacigita
+  Jam estas la spirito en mi mem!
+
+Tuŝ.
+
+Indiferenta estas al mi la spirito, se nur la kruroj ne estus
+lacaj.
+
+Roz.
+
+Mi povus trovi en mia koro la povon malhonori mian vestaĵon viran,
+kaj plori kiel virino; sed mi devas konsoli la pli malfortan animon,
+ĝuste kiel korpvesto kaj ŝtrumpoj devus sin montri kuraĝaj al jupo.
+Tial estu kuraĝa, bona Alieno.
+
+Cel.
+
+Mi petas al vi, estu indulga al mi; mi ne povas plu iri.
+
+Tuŝ.
+
+Miaflanke, mi preferus elporti vin, ol porti vin! Tamen mi ne portus
+krucon, se mi vin portus; ĉar mi opinias ke vi havas neniom da mono
+en via monujo.
+
+Roz.
+
+Nu, ĉi tio estas l' arbaro Ardeno.
+
+Tuŝ.
+
+Jes, nun mi estas en Ardeno; des pli mi estas malspritulo; dum mi
+estis ĉehejme, mi estis en pli bona loko; sed vojaĝantoj devas esti
+kontentaj.
+
+Roz.
+
+Jes, estu tia, bona Tuŝ-ŝtono.
+
+Eniras Koreno kaj Silvio.
+
+Rigardu, kiuj ĉi tien venas; junulo kaj maljunulo, solene
+kunparolante.
+
+Kor.
+
+  Nu, tiamaniere vi nur igos
+  Ke ŝi ankoraŭ malestimu vin.
+
+Sil.
+
+  Koreno, ke vi nur komprenu kiom
+  Mi amas ŝin!
+
+Kor.
+
+                Mi iom ĝin divenas,
+  Ĉar mi mem antaŭ nun ekamis.
+
+Sil.
+
+                                Ne,
+  Estante maljunulo, vi ne povas
+  Diveni, kvankam en juneco via
+  Vi estis eĉ amanto tiel vera,
+  Kiel sopiris sur kusen' noktmeza;
+  Se l' amatino via iam ajn
+  Similis al la mia,--tiel certa
+  Mi estas, ke neniu tiom amis;--
+  Kiom da agoj viaj plej ridindaj
+  Vi faris pro la fantazio via?
+
+Kor.
+
+  Ho, milojn, kiujn jam mi mem forgesas.
+
+Sil.
+
+  Neniam do vi amis tiel kore;
+  Se vi ne rememoras eĉ la plej
+  Malgrandan malsaĝaĵon kiun l' Amo
+  Vin igis fari,--vi ne vere amis.
+  Se vi neniam sidis, kiel mi,
+  Tedante la aŭdantojn per la laŭdo
+  De l' amatino,--vi ne vere amis.
+  Se vi foriris ne de l' kunularo
+  Subite, kiel nun mi mem foriros,
+  Pro la pasio,--vi ne vere amis.
+  Febino, ho Febino, ho Febino!
+
+[Li foriras.]
+
+Roz.
+
+  Ho ve, paŝtisto kompatinda! Jen,
+  La vundon vian esplorante, mi
+  Kruelhazarde trovis mian propran.
+
+Tuŝ.
+
+Kaj mi la mian. Mi rememoras, ke dum mi enamiĝis, mi frakasis mian
+glavon kontraŭ ŝtonon, kaj ordonis al li ricevi tion, ĉar li venis
+nokte, al Ĵanino Smajl'; kaj mi rememoras ke mi kisis ŝian
+lavpadelon, kaj la bovinmamojn kiujn ŝiaj beletaj fendetitaj manoj
+melkis; kaj mi rememoras ke mi amindumis pizoŝelon anstataŭ ŝi. El
+kiu ŝelo mi elprenis du pizojn, kaj redonante ilin mi diris plorante
+al ŝi "Portu ĉi tiujn pro mi;" Ni, kiuj estas veraj amantoj, faras
+strangajn agojn. Sed, kiel ĉio en Naturo estas mortema, same ĉiom da
+Naturo enamiĝinta estas mortema laŭ malsaĝeco.
+
+Roz.
+
+  Pli saĝe vi parolas ol vi scias.
+
+Tuŝ.
+
+Ne, mi neniam sciiĝos pri mia propra spriteco ĝis post mi rompos la
+tibikarnojn kontraŭ ĝi.
+
+Roz.
+
+  Ĉielon! Tiu paŝtista ampasio
+  Min plaĉas multe je l' racio!
+
+Tuŝ.
+
+Min ankaŭ; sed ĝi fariĝas iom teda al mi.
+
+Cel.
+
+  Mi petas, unu el vi tuj demandu
+  Ĉu tiu donos iom da nutraĵo
+  Pro oro, al ni, ĉar mi svenas jam
+  Ĝis preskaŭ morto.
+
+Tuŝ.
+
+                    He, vi ŝercemulo!
+
+Roz.
+
+  Silentu, malsaĝulo; li ne estas
+  Parenco via.
+
+Kor.
+
+                Kiu al mi vokas?
+
+Tuŝ.
+
+  La superuloj viaj.
+
+Kor.
+
+                     Ho, alie
+  Mizereguloj ili certe estas.
+
+Roz.
+
+  Silentu, mi ordonas. Bonan tagon,
+  Amiko mia.
+
+Kor.
+
+             Kaj al vi, Sinjoro.
+  Kaj al vi ĉiuj, gesinjoroj miaj.
+
+Roz.
+
+  Mi petas vin, paŝtisto, se aŭ l' amo
+  Aŭ l' oro en ĉi tiu dezerto povas
+  Aĉeti gastigadon, nin konduku
+  Al ia loko kie estos eble
+  Ripozi kaj nin nutri. Junulino
+  Jen estas, pro l' vojaĝo lacigita,
+  Kaj jam pro helpomanko ŝi eksvenas.
+
+Kor.
+
+  Sinjoro, mi kompatas ŝin, kaj volas,
+  Pro ŝi eĉ pli ol pro la mia stato,
+  Ke la riĉaĵoj miaj pli ebligu
+  Al ŝi la helpon. Sed mi estas nur
+  Paŝtisto por alia viro; tial
+  Mi ne tondadas la lanarojn dikajn
+  De l' ŝafoj kiujn mi mem paŝtas; plie,
+  Tre malafablan karakteron havas
+  La mastro, kiu tute ne penadas
+  La vojon trovi al ĉiela hejmo
+  Per faroj gastamecaj; kaj, aldone,
+  La bestdometon, kaj ŝafarojn, ankaŭ
+  La ŝafpaŝtejon tutan, nun li vendas;
+  Kaj, ĉe la ŝafarejo, jen nenio
+  Kion vi povus manĝi; tamen, venu,
+  Por vidi kio ajn ankoraŭ restas;
+  Per mia voĉo vi bonvenaj estas.
+
+Roz.
+
+  Kaj kiu do aĉetos la ŝafaron
+  Kaj la paŝtejon?
+
+Kor.
+
+                   Tiu amanto.
+  La juna viro kiun ĵus vi vidis,
+  Malmulte li deziras nun aĉeti.
+
+Roz.
+
+  Mi petas al vi, se honeste estas,
+  Ke vi aĉetu la dometon, ŝafojn,
+  Paŝtejon. Vi ricevos de mi mem
+  La monon por pagado.
+
+Cel.
+
+                       Tiam do
+  Ni pligrandigos al vi la salajron.
+  Ĉi tiu loko plaĉas al mi; en ĝi
+  Volonte mi pasigus mian tempon.
+
+Kor.
+
+  Ĝi estas ja vendota. Venu kun mi:
+  Se post klarigo vi aprobos tiam
+  La teron, la profiton, kaj vivmodon,
+  Servisto via estos mi fidele,--
+  Aĉetos ĝin per via mono bele.
+
+[Ĉiuj foriras.]
+
+
+
+SCENO V.
+
+La arbaro.
+
+
+Eniras Amienso, Jakveso, kaj aliaj.
+
+KANTO
+
+Ami.
+
+    Kiu sub l' arb' kun mi
+    Volas sin kuŝigi,
+    Ho jen, la gaja son'
+    Kvazaŭ la birdoton',
+  Ho venu, ho venu, ho venu:
+    Ĝenos lin do
+    Ja nenio,
+    Krom vintro kaj la ventoj.
+
+Jak.
+
+Pli multe, pli multe, mi petas.
+
+Ami.
+
+Ĝi malgajigos vin, Sinjoro Jakveso.
+
+Jak.
+
+Mi dankas al ĝi. Pli multe, mi petas, pli multe. Mi povas elsuĉi la
+melankolion el kanto, same kiel mustelo elsuĉas ovojn. Pli multe, mi
+petas al vi, pli multe.
+
+Ami.
+
+Mia voĉo estas malbelsona. Mi estas certa ke mi ne povas al vi
+plaĉi.
+
+Jak.
+
+Mi ne deziras ke vi plaĉu al mi; mi nur deziras ke vi kantu. Nu, pli
+multe; ankoraŭ unu stanco; ĉu vi nomas ilin stancoj?
+
+Ami.
+
+Kion ajn vi volas, Sinjoro Jakveso.
+
+Jak.
+
+Nu, iliaj nomoj estas indiferentaj al mi; ili ŝuldas nenion al mi.
+Ĉu vi kantos?
+
+Ami.
+
+Plivole pro via peto ol por plaĉi min mem.
+
+Jak.
+
+Nu, do, se iam mi dankas al iu ajn viro, mi dankos al vi; sed tio,
+kion oni nomas komplimento similas la renkonton de du pavianoj, kaj
+kiam oni kore dankas al mi, mi supozas ke mi donis al li pencon, kaj
+li donis al mi la dankaĉon. Sed, kantu. Tamen, se vi ne kantos,
+silentu!
+
+Ami.
+
+Nu, mi finos la kanton. Sinjoroj, preparu la tablon; la Duko
+trinkados sub ĉi tiu arbo. Li serĉis vin la tutan tagon.
+
+Jak.
+
+Kaj mi la tutan tagon evitis lin. Li estas tro malbonfama por mia
+kunuleco. Mi pensas pri tiom da aferoj, kiom li: sed mi dankas al la
+ĉielo, kaj ne fanfaronas pri ili. Nu, kantu, kantu, kantu!
+
+[Ĉiuj kune kantas.]
+
+KANTO
+
+    Kiu sen ambici'
+    Vivas je l' sunradi',
+    Kaj serĉas por si mem
+    Nutraĵon, kun dankem':
+  Ho venu, ho venu, ho venu:
+    Ĝenos lin do
+    Ja nenio,
+  Krom vintro kaj la ventoj.
+
+Jak.
+
+Mi donos al vi verson laŭ ĉi tiu ario, kiun mi elverkis hieraŭ,
+spite mia pensado.
+
+Ami.
+
+Kaj mi ĝin kantos.
+
+Jak.
+
+Ĝi estas la jena:--
+
+    Se viro fariĝus
+    Azen', kaj forgesus
+    Pri lukso kaj riĉec',
+    Pro sia obstinec',
+  Ho, duc da me, duc da me, duc da me:
+    Jen aliaj
+    Ja similaj,
+  Se venos li nur ĉe min.
+
+Ami.
+
+Kio estas tiu "duc da me?"
+
+Jak.
+
+Tio estas greka ensorĉilo, por alvoki malsaĝulojn en cirklon. Mi
+iros por dormi, se mi povas; se ne, mi riproĉos ĉiujn unue-naskitojn
+de Egipto.
+
+Ami.
+
+Kaj mi serĉos la Dukon. La festo estas preparita.
+
+[Ili foriras.]
+
+
+
+SCENO VI.
+
+La arbaro.
+
+
+Eniras Orlando kaj Adamo.
+
+Adamo.
+
+Kara mastro, mi ne povas plu iri; ho, mi mortas pro manko de
+nutraĵo! Ĉi tie mi kuŝiĝos, por mezuri al mi la tombon. Adiaŭ, bona
+mastro.
+
+Orl.
+
+Nu, kio, Adamo! Ĉu vi ne havas pli kuraĝan koron? Vivu ankoraŭ iom;
+konsolu vin iom; gajigu vin iom. Se ĉi tiu sovaĝa arbaro produktadas
+ion sovaĝan, mi aŭ estos nutraĵo al ĝi, aŭ ĝin reportos kiel nutraĵo
+por vi. Via imago estas pli proksima de la morto ol via forto estas
+proksima de ĝi. Pro mi estu komforta; fortenu la morton iom da
+tempo, je la fino de la brako; mi estos baldaŭ ree kun vi; kaj se
+mi alportos al vi nenion por manĝi, mi permesos ke vi mortu: sed se
+vi mortos antaŭ mia reveno, vi estos mokanto je mia laboro. Bone
+dirite! Vi ŝajnas gajeta, kaj mi estos tuj kun vi. Sed vi kuŝas sub
+la vintra aero; venu, mi vin portos al ia ŝirmejo; kaj vi ne mortos
+pro malhavo de manĝo, se io ajn vivas en ĉi tiu dezerto! Estu gaja,
+bona Adamo!
+
+[Ambaŭ foriras.]
+
+
+
+SCENO VII.
+
+La arbaro.
+
+
+Tablo estas preparita. Eniras la Duko, Amienso, kaj lordoj,
+vestitaj kiel leĝforpelitoj.
+
+La Duko.
+
+  Mi opinias ke li jam ŝanĝiĝis
+  En ian beston. Ĉar nenie mi
+  Lin povas trovi sub la homa formo.
+
+Unua Lordo.
+
+  Nu, via moŝto, li ĵus ekforiris:
+  Li estis gaja, kanton aŭskultante.
+
+La Duko.
+
+  Se li fariĝos muzikema, li,
+  Farite el la malbonsono, baldaŭ
+  Ni havos en la sferoj de ĉielo
+  La malmuzikon. Iru, serĉu lin,
+  Kaj diru ke mi volas kunparoli.
+
+Eniras Jakveso.
+
+Unua Lordo.
+
+  Li faras nenecesa mian penon,
+  Ĉar jen li venas. Jen Jakveso mem.
+
+La Duko.
+
+  Nu kio do, Sinjoro, kia vivo
+  Ĉi tiu estas, se l' amikoj viaj
+  La kunulecon vian devas serĉi?
+  Sed kiel nu! Vi ŝajnas gaja, ne?
+
+Jak.
+
+  Ho, ŝercemulo, ŝercemulo! mi lin
+  Renkontis en l' arbaro, multkoloran
+  La ŝercemulon! Ho, mizera mondo!
+  Nu, kiel mi per la nutraĵo vivas,
+  Mi ŝercemulon ĵus renkontis, kiu
+  Kuŝiĝis kaj ripozis je l' sunbrilo,
+  Riproĉegante multe la Bonŝancon,
+  Multege ja, la gaja ŝercemulo!
+  "Nu, bonan tagon, ŝercemulo," mi
+  Parolis; "Ne," li diris, "min ne nomu
+  La ŝercemulon, ĝis al mi Ĉielo
+  Bonŝancon sendos." Tiam li eltiris
+  El sia sako sunhorloĝon, kaj
+  Ĝin rigardante per okul' malhela,
+  Tre saĝe diris "Estas nun la deka:
+  Ni tiel vidas kiamaniere
+  La mond' moviĝas. Antaŭ unu horo
+  La naŭa estis; kaj post horo plu
+  La dekunua estos; same ni
+  De hor' al horo maturiĝas ree,
+  Kaj tiam forputriĝas ĉiuhore;
+  De tio ja dependas fabeleto."
+  Kiam mi aŭdis tiun ŝercemulon
+  En multkolora vest' moraliganta
+  Laŭ tia maniero, pri la tempo,
+  La pulmoj miaj faris kokoblekon,
+  Ke ŝercemuloj estus meditemaj.
+  Mi ridis unu horon, ja senĉese,
+  Laŭ lia sunhorloĝo. Noblanima
+  Indega ŝercemulo! Viaj vestoj,
+  La multkoloraj, estas sole decaj!
+
+La Duko.
+
+  Nu, kiu ŝercemulo estas tiu?
+
+Jak.
+
+  Ho inda ŝercemulo! Iam ajn
+  Li estis kortegano, kaj li diras
+  Ke se la sinjorinoj estas belaj
+  Kaj junaj, ili bone scias tion;
+  En lia cerbo, kiu estas seka,
+  Simile al biskvito post vojaĝo,
+  Li havas strangajn lokojn, plenigitajn
+  Je observado, kiun li ellasas
+  En kripligitaj formoj. Ho, se nur
+  Mi estus ŝercemulo! Mi ja estas
+  Avida je la multkolora vesto!
+
+La Duko.
+
+  Nu, vi ricevos tian.
+
+Jak.
+
+                       Ĝi do estas
+  Por mi la sola vesto. Nur kondiĉe
+  Ke vi senigu vian rezonadon
+  Je ĉia opinio kreskadanta
+  Senzorge tie, ke mi estas saĝa.
+  Mi devas havi ankaŭ la liberon,
+  Liberon tiel grandan kiel vento,
+  Por blovi kontraŭ kiun ajn mi celos;
+  Ĉar tion certe havas ŝercemuloj.
+  Kaj tiuj, kiujn plej la malspriteco
+  Piketas, eĉ plej multe devas ridi.
+  Kaj kial, ho Sinjoro, oni devas?
+  Nu, klara la kialo estas, kiel
+  La vojo al preĝejo. Tiu, kiun
+  La ŝercemulo foje saĝe trafas,
+  Malsaĝe ja kondutus, malgraŭ vundoj,
+  Se li ne ŝajnus ne la sagon senti.
+  Se ne, la malsaĝeco de l' saĝulo
+  Pruvata estas, de l' okazaj vidoj
+  De l' ŝercemulo. Donu al mi tial
+  Vestaĵon multkoloran, kaj permesu
+  Ke mi eldiru mian penson. Tiam
+  Mi tute purigados tiun korpon
+  Malpuran de la mondo infektita,
+  Se oni pacience nur akceptos
+  La sanigilon mian.
+
+La Duko.
+
+                     Fi pro tio!
+  Mi povas diri kion vi ekfarus.
+
+Jak.
+
+  Nu, kion, je la senvalora veto,
+  Mi farus krom la bono?
+
+La Duko.
+
+                         Malbonaĵon
+  Grandegan ja, riproĉadante tiel
+  Al la pekado, ĉar vi mem ja estas
+  Malbonegulo, tre volupta, kiel
+  La bestnaturo mem. Kaj la infekton
+  Maturan, malbonecan, kiun vi
+  Liberpiede laŭ permeso kaptis,
+  Ĉu tion vi ekvomus en la mondon?
+
+Jak.
+
+  Nu, kiu nun riproĉas la fieron,
+  Povante trafi iun ajn personon?
+  Ĉu ĝi ne forfluegas kiel la maro,
+  Ĝis tiu laca materio mem
+  Defluas? Kiun sinjorinon, do,
+  En l' urbo mi eknomas, nur dirante
+  Ke l' urbanino ja la koston portas
+  De princoj, sur la tro malindaj ŝultroj?
+  Nu, kiu povas veni insistante
+  Ke iam mi intencas ŝin, ĉar tia
+  Eĉ kia ŝi la najbarino estas?
+  Aŭ kia estas li, havante staton
+  Malnoblan, kiu diras ke la lia
+  Kuraĝo estas ne je mia kosto,
+  Pensante ke mi lin intencas nomi,--
+  Laŭ tia ago tuj konformigante
+  La malspritecon sian al la senco
+  De miaj vortoj? Nu, do, kiel estas?
+  Nur montru kie mia lango faris
+  La maljustaĵon al li. Se ĝi juste
+  Kondutis kontraŭ li, tiam li mem
+  Malbone ja kondutis kontraŭ si;
+  Se li libera estas, la riproĉo
+  Simile al l' anser' sovaĝa, flugas,
+  Alproprigite de neniu. Kiu venas?
+
+Eniras Orlando, havante la glavon eltirita.
+
+Orl.
+
+  Detenu vin! Ne manĝu plu!
+
+Jak.
+
+                            Ankoraŭ
+  Mi manĝis ja nenion.
+
+Orl.
+
+                       Vi ne manĝos.
+  Ĝis kiam oni servos al neceso.
+
+Jak.
+
+  De speco kia ajn la kok' devenas?
+
+La Duko.
+
+  Ĉu vi kuraĝa estas pro sufero,
+  Aŭ ĉu nur malestimas vi, junulo,
+  Ĝentilajn morojn, ke vi ŝajnas nun
+  Malplena je la ĝentileco?
+
+Orl.
+
+                             Ho,
+  Ektuŝis vi unue miajn nervojn;
+  La dorna pinto de sufero nuda
+  Forprenis jam de mi konduton mian
+  Konforman al la ĝentileco. Tamen
+  Mi estas ja enlande edukita,
+  Kaj konas iom da bonmoroj. Sed
+  Detenu vin, mi diras! Li ekmortos
+  Kiu tuŝos iom da ĉi tiu frukto
+  Ĝis la bezonoj miaj estos sataj!
+
+Jak.
+
+Se vi ne akceptos respondon racian, mi devos morti.
+
+La Duko.
+
+  Vi volas kion? Via dolĉanimo
+  Perfortos pli efike, ol la forto
+  Ekmovos nin por esti dolĉanimaj.
+
+Orl.
+
+  Mi preskaŭ mortas, tiom mi bezonas
+  Nutraĵon. Do, mi havu ĝin!
+
+La Duko.
+
+                            Sidiĝu,
+  Bonvenu al la tablo. Manĝu do.
+
+Orl.
+
+  Ĉu vi respondas tiel malsevere?
+  Pardonu min, mi petas. Mi supozis
+  Ke ĉio tie ĉi sovaĝa estas;
+  Kaj tial mi ŝajnigis la mienon
+  Severe ordonadan. Kiu ajn
+  Vi estas, kiu en ĉi tia loko
+  Neatingebla, sub malgaja ombro,
+  Ignoras, perdas la rampantajn horojn;
+  Se iam vi pli bonan staton havis,
+  Se iam aŭdis preĝosonorilojn,
+  Se iam vi sidiĝis ĉe la festo
+  De bona homo, aŭ se iam vi
+  Forviŝis larmon de l' palpebroj viaj,
+  Kaj scias kio estas la kompato;
+  Malsevereco estu mia helpo:
+  Kaj tion esperante, kun ruĝiĝo
+  Mi metas mian glavon en la ingon.
+
+La Duko.
+
+  Jes, iam havis ni pli bonan staton.
+  Kaj je la sonoriloj sanktaj iris
+  Al la preĝejo; sidis ĉe la festoj
+  De bonaj viroj, kaj forviŝis larmojn
+  Naskitajn de la sankta kompatado.
+  Nun tial vi sidiĝu kun mildeco,
+  Laŭvole ordonante miajn virojn,
+  Por tuj satigi vian malsategon.
+
+Orl.
+
+  Do, vin detenu nur mallongan tempon
+  De l' manĝo, dum mi, kiel la cervino,
+  Elserĉos la cervidon por ĝin nutri.
+  Ĉar estas kompatinda maljunulo,
+  Li kiu multajn lacigantajn paŝojn
+  Min sekvis pro la amo, lamirante.
+  Ĝis kiam li satiĝos, premegate
+  De du ĝenaĵoj de l' malforto, nome,
+  Malsato, maljuneco,--mi gustumos
+  Nenion.
+
+La Duko.
+
+          Iru do, lin serĉu; dume,
+  Ni manĝos ja neniom ĝis vi venos.
+
+Orl.
+
+  Mi dankas vin, kaj benas vin pro tio.
+
+[Li foriras.]
+
+La Duko.
+
+  Iru do, lin serĉu; dume
+  Ni manĝos ja neniom ĝis vi venos.
+  Prezentas pli malgajan teatraĵon
+  Ol tiu sceno kie oni ludas.
+
+Jak.
+
+  La tuta mondo estas ja teatro,
+  La viroj kaj virinoj, nur aktoroj:
+  Havante jen elirojn, jen enirojn;
+  Kaj unu homo ludas multajn rolojn
+  En sia viv', kun aĝoj sep, por aktoj.
+  Unue la infano, ploradante
+  Ĉe l' brakoj de la vartistino. Tiam
+  La juna lernejknabo, plendetante,
+  Havante librosakon, kun vizaĝo
+  Matenopura, rampetante kiel
+  Limako nevolante al lernejo.
+  Kaj tiam la amanto, sopirante
+  Kiel fornego, kun balad' malgaja
+  Al brovo de la amatino. Tiam
+  Soldato, plena je mirigaj ĵuroj,
+  Havante barbon kvazaŭ leopardo,
+  Ĵaluza pri honoro, malpacema,
+  Celante tiun aerglobon, gloron,
+  Eĉ ĉe la faŭko de la pafilego.
+  Kaj tiam, la juĝisto, dikakorpa,
+  Pro multe da donacoj de kaponoj,
+  Severokula, kun tondita barbo
+  Laŭ profesio lia, kaj dirante
+  Sentencojn saĝoplenajn, kaj ekzemplojn
+  Modernajn. Tiel li la rolon ludas.
+  La sesa aĝo transmoviĝas tiam
+  Je grimacul' maldika, en pantofloj,
+  Portanta okulvitrojn, kun saketo
+  Ĉe l' flanko; liaj ŝtrumpoj, konservitaj
+  Ankoraŭ de juneco, jam tro larĝaj
+  Por la malgrasaj kruroj. Lia voĉo
+  Ne plu vireca baso, ŝanĝiĝinte
+  En infanecan sopranaĉon, pepas
+  Kaj fajfas en la son'. La lasta sceno
+  De l' stranga okazplena historio,--
+  Maljunegeco--nura forgeseco,
+  Sen dentoj, sen okuloj, gusto, ĉio.
+
+Revenas Orlando, kun Adamo.
+
+La Duko.
+
+  Bonvenu! Vian respektindan ŝarĝon
+  Demetu, kaj lin lasu tuj manĝi.
+
+Orl.
+
+  Por li mi plej vin dankas.
+
+Adamo.
+
+                             Vi ja devas;
+  Apenaŭ povas mi pro mi paroli,
+  Por danki al vi.
+
+La Duko.
+
+                   Nu, bonvenu. Manĝu!
+  Ankoraŭ mi ne ĝenos, por demandi
+  Pri viaj ŝancoj. Sonu la muziko,
+  Kaj vi, ho mia kuzo, al ni kantu!
+
+KANTO
+
+Ami.
+
+    Ho blovu, vintra vent'!
+    Ne akra via dent',
+      Kiel la maldankem':
+    Ne tiom vundas vi,
+    Ĉar vin ne vidas ni,
+      Malgraŭ la frostotrem'.
+  He ho! nu he ho! je verda ilekso!
+  Malsaĝa la am', l' amikec' nur preteksto!
+    Do, he ho, l' ilekso!
+    Kaj vivo gajeca!
+
+    Frostiĝu, griza ĉiel'!
+    Ne mordas vi tiel,
+      Kiel la sendankec':
+    Kaj spite la glaci',
+    Vi ne doloras pli
+      Ol falsa amikec'.
+  He ho! nu he ho! je verda ilekso
+  Malsaĝa la am', l' amikec' nur preteksto!
+    Do, he ho, l' ilekso!
+    Kaj vivo gajeca!
+
+La Duko.
+
+  Se vi la filo estas de Rolando,
+  Kiel vi al mi subparolis vere,
+  Kaj ĉar mi mem la similecon vidas
+  Pentrita bone, kvazaŭ ja vivanta,
+  Sur la vizaĝo via, tial, estu
+  Ĉe ni la bonveninta. Mi mem estas
+  La Duko kiu vian patron amis:
+  En mia kavernhejmo vi rakontos
+  Al mi la pluan travivaĵon vian.
+  Vi, bona maljunulo, jam fariĝas
+  Bonvena kiel via mastro mem.
+  Subtenu lin ĉe l' brako. Donu vi
+  La manon, kaj al mi rakontu plene
+  Pri viaj ŝancoj, por ke mi sciiĝu.
+
+[Ĉiuj foriras.]
+
+
+
+
+AKTO III.
+
+
+
+SCENO I.
+
+Ĉambro en la palaco.
+
+
+Duko F.
+
+  Vi ne lin poste vidis? Ne, neeble:
+  Sed se el la kompato mi ne estus
+  Plejparte elfarita, mi ne serĉus
+  Viktimon aliloke, por lin puni,
+  Dum vi ĉeestas mem. Aŭskultu tamen:
+  Elserĉu ie ajn la fraton vian;
+  Elserĉu per kandelo; lin reportu
+  Aŭ mortan aŭ vivantan, antaŭ fino
+  De l' jaro nuna, aŭ vi mem ne plu
+  Revenu por en nia lando loĝi.
+  La posedaĵojn viajn, kaj bienojn,
+  Kaj ĉion vian je l' prenad' valoran,
+  Mi jen ekprenas kaj al mi proprigas,
+  Ĝis kiam vi, per vortoj de la frato,
+  Vin senkulpigos je l' kulpigo kiun
+  Mi havas kontraŭ vi en mia menso.
+
+Oli.
+
+  Ke via moŝto nur la koron mian
+  Ekkonu pri ĉi tio! Mi neniam
+  En mia vivo amis mian fraton!
+
+Duko F.
+
+  Kanajlo des pli granda! Lin elpelu!
+  Kaj miaj oficistoj, kies devo
+  Ĉi tio estas, faru tujan kapton
+  Je lia domo kaj bien'. Rapide
+  Ekfaru tion, kaj lin tuj forpelu.
+
+[Ĉiuj foriras.]
+
+
+
+SCENO II.
+
+La arbaro.
+
+
+Eniras Orlando, havante paperon.
+
+Orl.
+
+  Ekpendu tie, poezio mia,
+  Pri mia amo klare atestonte,
+  Kaj vi, reĝino de la nokto, kiu
+  La kronon portas en tri mondoj viaj,
+  Rigardu, per l' okuloj viaj virtaj,
+  De l' pala regiono super ni,
+  La nomon de la ĉasistino via,
+  Reganta plene mian tutan vivon.
+  Ho Rozalind'! Ĉi tiuj arboj estos
+  La libroj miaj, kaj sur ties ŝeloj
+  La pensojn miajn tuj mi enskribados.
+  Por ke l' okuloj ĉiuj, rigardantaj
+  En tiu ĉi arbaro, ĉie vidu
+  La virton vian ĉiam atestatan.
+  Rapidu vi, Orlando, bone skulptu
+  Sur ĉiu arbo, pri la junulin',
+  Neesprimeblan, belan virtan ŝin!
+
+[Li foriras.]
+
+Eniras Koreno kaj Tuŝ-ŝtono.
+
+Kor.
+
+Nu, kiel plaĉas al vi la nuna paŝtista vivmaniero, Sinjoro
+Tuŝ-ŝtono?
+
+Tuŝ.
+
+Efektive, ŝafisto, rilate al si mem, ĝi estas bona vivado. Sed
+rilate tion, ke ĝi estas paŝtista vivmaniero, ĝi estas nenio. Pro
+tio, ke ĝi estas soleca vivado, mi tre ŝatas ĝin; sed pro tio, ke ĝi
+estas individua, ĝi estas vivaĉo. Nu, tial ke ĝi estas en la kampoj,
+ĝi bone plaĉas al mi; sed pro tio, ke ĝi ne estas ĉe la kortego, ĝi
+estas teda. Ĉar ĝi estas ŝparema vivmaniero, notu bone, ĝi plaĉas al
+mia humoro; sed ĉar ne estas en ĝi pli multe da sufiĉego, ĝi treege
+malplaĉas al mi. Ĉu vi havas iom da filozofio en vi, ŝafisto?
+
+Kor.
+
+Ne pli multe ol la sciado ke kiam oni malsaniĝas, des pli oni estas
+malkomforta; kaj tiu, al kiu mankas la mono, posedaĵoj, kaj la
+kontenteco, malhavas tri bonajn amikojn; estas la eco de pluvo, ke
+ĝi malsekigas; la eco de fajro, ke ĝi brulas; bona paŝtejo grasigas
+la ŝafojn; la nokto ekzistas precipe pro la foresto de la suno;
+tiu, kiu lernis neniom da prudento per la naturo aŭ per la arto
+povas plendi pri manko de edukado; alie li devenas de tre malspritaj
+parencoj.
+
+Tuŝ.
+
+Tia homo estas natura filozofo. Ĉu vi iam ĉeestis la kortegon,
+ŝafisto?
+
+Kor.
+
+Ne, vere.
+
+Tuŝ.
+
+Tiam vi estas kondamnita.
+
+Kor.
+
+Mi esperas ke ne.
+
+Tuŝ.
+
+Vere, vi estas kondamnita, kiel ovo malbone rostita, tute je unu
+flanko.
+
+Kor.
+
+Tial, ke mi neniam ĉeestis ĉe la kortego? Nu, kial?
+
+Tuŝ.
+
+Nu, se neniam vi ĉeestis la kortegon, vi neniam vidis ĝentilajn
+morojn; se vi neniam vidis tiajn, nepre viaj moroj estas malbonaj
+kaj la malboneco estas peko, kaj la pekado kondukas al la
+kondamnado. Vi estas en danĝera stato, ŝafisto.
+
+Kor.
+
+Tute ne, Tuŝ-ŝtono: la agmanieroj kiuj estas bonaj ĉe la kortego
+estus tiel ridindaj en la kamparo, kiel la kampara konduto estus
+plej mokinda ĉe la kortego. Vi diris al mi, ke oni ne salutas, ĉe la
+kortego, sed oni kisas la manojn. Tia ĝentilaĵo estus malpura, se
+korteganoj estus ŝafistoj.
+
+Tuŝ.
+
+Citu ekzemplon, mallongavorte; nu, citu ekzemplon.
+
+Kor.
+
+Do, ni ankoraŭ nin okupas je la ŝafinoj, kaj la lanaj feloj estas
+graskovritaj.
+
+Tuŝ.
+
+Sed ĉu la manoj de la kortegano ne ŝvitas? Kaj ĉu la grasaĵo de
+ŝafinoj ne estas tiel pura kiel la ŝvito de la homoj? Malklerega,
+malklerega! Donu pli bonan ekzemplon, mi petas. Rapidu!
+
+Kor.
+
+Aldone, niaj manoj estas malmolaj.
+
+Tuŝ.
+
+Niaj lipoj ilin sentus des pli bone. Ankoraŭ malklerega! Donu pli
+ĝustan ekzemplon. Rapidu!
+
+Kor.
+
+Kaj ili estas ofte kovritaj je gudro, pro la ĥirurgio al niaj
+ŝafinoj; nu, ĉu vi volus ke ni kisu la gudron? La manoj de la
+kortegano estas parfumitaj je cibetaĵo.
+
+Tuŝ.
+
+Ho, plej malklera viro! Vi vermnutraĵo, kompare al bona karno,
+efektive! Lernu de la saĝuloj, kaj pripensu! Cibetaĵo havas pli
+malhonorindan naskiĝon ol gudro, estante la malpura elfluo el ia
+kato. Plibonigu la ekzemplon, ŝafisto!
+
+Kor.
+
+Vi havas tro kortegeman spritecon por mi. Mi restos je tio.
+
+Tuŝ.
+
+Ĉu vi restos malbenita? Dio vin helpu, malkleregulo! Dio donu al vi
+pli bonan racion. Vi estas kruda.
+
+Kor.
+
+Sinjoro, mi estas vera laboristo. Mi gajnas tion, kion mi manĝas,
+ricevas tion, kion mi portas; mi malamas nenion; mi envias nenion
+pro lia feliĉeco; mi ĝojas je la bonŝanco de aliaj; mi estas
+kontenta je miaj malbonŝancoj, kaj la plej granda fiero mia estas,
+vidi miajn ŝafinojn manĝantaj la herbon, kaj miajn ŝafidojn
+suĉantaj.
+
+Tuŝ.
+
+Tio estas alia malsprita peko via. Se vi ne estos malbenata pro tio,
+la diablo mem havos neniujn ŝafistojn; mi ne komprenas kiel alie vi
+forkuros.
+
+Kor.
+
+Jen venas juna mastro Ganimedo, la frato de mia nova mastrino.
+
+Eniras Rozalindo, legante paperon.
+
+Roz.
+
+  Neniu juvelo ĉe la hindo,
+  Similas do al Rozalindo.
+  Rajdante venton, via indo
+  Tra l' mondo iras, Rozalindo.
+  Neniu bildo plej laŭdinda
+  Egalas vin, ho Rozalindo.
+  Neniu vizaĝo memorinda,
+  Krom via bela, Rozalindo.
+
+Tuŝ.
+
+Mi faros rimojn tiajn dum ok jaroj senintermite, esceptinte nur la
+manĝojn kaj la horojn por dormi; ĝi estas ĝuste la falsa galopo de
+la buterfaristino iranta vendejon.
+
+Roz.
+
+Fi, malspritulo!
+
+Tuŝ.
+
+Ekzemple:
+
+  Se serĉas cerv' por cervin' inda,
+  Li kuru tuj al Rozalindo.
+  Sopiras kat' je katin' inda,
+  Nu, same faras Rozalindo.
+  Vestaĵo estas subkovrinda,
+  Kaj beltalia Rozalindo.
+  Rikolto estas kunliginda,
+  Hejmportu ĝin kun Rozalindo.
+  Plej dolĉa nuks' en ŝel' malinda
+  Similas ja al Rozalindo.
+
+Ĉi tio estas la falsa galopo mem de versoj; kial vi vin infektas per
+ili?
+
+Roz.
+
+Silentu, vi stulta ŝercemulo! Mi trovis ilin sur arbo.
+
+Tuŝ.
+
+Vere, la arbo naskas malbonajn fruktojn.
+
+Roz.
+
+Mi ĝin greftos je vi, kaj tiam mi ĝin greftos je mespilo: pro tio ĝi
+naskos la plej frue maturiĝintajn fruktojn en la regiono; ĉar vi
+putriĝos antaŭ ol duone maturiĝi,--kaj tio estas la propra eco de la
+mespilo.
+
+Tuŝ.
+
+Vi tiel diras. Ĉu saĝe aŭ ne, la arbaro decidu.
+
+Eniras Celio, havante paperon.
+
+Roz.
+
+Silentu! Jen la fratino venas. Flanken iru!
+
+Cel. [legas.]
+
+  Nu, kiel ĉi tio dezerto ja estas?
+  Pro tio, ke mankas la homoj? Ho ne.
+  Ĉar langojn en kiuj sentencoj enestas
+  Mi mem ekpendigos sur l' arboj ĉie.
+
+  Jes, kelkaj elmontros ke l' vivo de l' homo
+  Rapide trakuras la vojon eraran;
+  Ke nur tempospaco treege mallonga
+  Enfermas ja tute la vivon homaran.
+
+  Aliaj elmontros la ĵurojn rompitajn
+  Antaŭe faritajn de bonaj amikoj;
+  Je l' fin' de la frazo mi skribos senĉese,
+  Sur ĉiu branĉet' en l' arbaraj portikoj,
+
+  La nomon por ŝi, Rozalindo la bela,
+  Por tiel instrui al li kiu legas,
+  Ke jen kvintesencon de ĉia spirito
+  Ĉiel' per malmulto elmontri amegas.
+
+  Pro tio, Ciel' al Naturo ordonis
+  Ke en unu korpon ŝi tuj enmetu
+  La ĉarmojn plej bonajn de ĉiu virino,
+  Kaj ĉion de l' tempo pasinta ripetu.
+
+  Naturo do baldaŭ distilis la vangon
+  El bela Heleno, sed ne ŝian koron.
+  Kaj el Kleopatro, la grandan majeston,
+  Kaj el Atalanto, la altan honoron.
+
+  Kaj tiam Natur' modestecon sufiĉan
+  En tiu malgaja virin', Lukrecino,
+  Eltrovis por uzi en la kreitaĵo,--
+  Jen kia deveno por mia fraŭlino!
+
+  Jes, tial sinodo ĉiela ja kreis
+  Por ni Rozalindon, kun belaj bonmoroj,
+  Havantan en si ĉiun tuŝon plej karan
+  De multaj vizaĝoj, okuloj kaj koroj.
+
+  Ĉielo volis ke ŝi tia estu,
+  Kaj volis ke mi ŝia sklavo restu.
+
+Roz.
+
+Ho, ĝentila pastrino! Per kiel teda prediko vi enuigas viajn
+paroĥanojn, neniam tamen ekkriante "Estu paciencaj, gebonuloj!"
+
+Cel.
+
+Kio, nu! malproksimiĝu, amikoj! Paŝtisto, foriru iomete. Vi iru kun
+li.
+
+Tuŝ.
+
+Venu, ŝafisto, ni honore nin retiru! Kvankam ne kun ĉiuj propraĵoj,
+tamen kun ĉiuj skribaĵoj!
+
+[Koreno kaj Tuŝ-ŝtono foriras.]
+
+Cel.
+
+Ĉu vi aŭdis ĉi tiujn versojn?
+
+Roz.
+
+Ho jes, mi aŭdis ĉiom, kaj eĉ plu; ĉar kelkaj el ili enhavas pli
+multe da piedoj ol la versoj povas porti.
+
+Cel.
+
+Tio ne estas grava; la piedoj povus porti la versojn.
+
+Roz.
+
+Jes, sed la piedoj estis lamaj, kaj ne povis sin porti sen la
+versoj, tial ili staris lame en la versoj.
+
+Cel.
+
+Sed ĉu vi aŭdis, ne mirante kiel via nomo estas pendigita kaj
+skulptita sur ĉi tiuj arboj?
+
+Roz.
+
+Mi jam sep tagojn eliris el la naŭtaga mirindaĵo, antaŭ ol vi venis.
+Ĉar rigardu ĉi tion, kion mi trovis sur palmarbo. Mi neniam estis
+tiel pririmita depost la epoko de Pitagoro, kiam mi estis Irlanda
+rato,--kion mi apenaŭ povas rememori.
+
+Cel.
+
+Ĉu vi scias kiu faris ĉi tion?
+
+Roz.
+
+Ĉu li estas viro?
+
+Cel.
+
+Havante ĉirkaŭ la kolo ĉenon kiun vi foje portis? Ĉu vi ruĝiĝas?
+
+Roz.
+
+Mi demandas al vi, kiu?
+
+Cel.
+
+Ho, Dio! Renkonti unu la alian estas malfacile por amikoj. Sed
+montoj povas esti formovitaj de tertremoj, kaj tiamaniere renkonti.
+
+Roz.
+
+Ne, sed kiu li estas?
+
+Cel.
+
+Ĉu estas eble?
+
+Roz.
+
+Nu, mi petas al vi per plej petega forto, diru al mi kiu li estas.
+
+Cel.
+
+Ho, mirinde, kaj plej mirinde, mirinde! Kaj ankoraŭ unu fojon,
+mirinde, kaj post tio, ekster ĉia miro!
+
+Roz.
+
+Je mia vizaĝkoloro! Ĉu vi supozas ke kvankam mi estas vestita kvazaŭ
+viro, mi havas viran korpveston kaj ŝtrumpojn en mia humoro? Unu
+colo da prokrasto plu estos suda maro je eltrovo! Mi petas al vi,
+diru tuj al mi kiu li estas, kaj parolu rapide! Mi volus ke vi povu
+balbuti, por elverŝi ĉi tiun kaŝitan viron el via buŝo, same kiel
+vino elvenas el botelo havanta malgrandan faŭkon,--aŭ tro multe je
+unu fojo, aŭ tute neniom. Mi petas al vi, elprenu la ŝtopilon el via
+buŝo, por ke mi eltrinku vian novaĵon. Ĉu li estas farita de Dio?
+Kia viro? Ĉu lia kapo meritas ĉapelon? Aŭ lia mentono barbon?
+
+Cel.
+
+Ne, li havas nur malmulte da barbo.
+
+Roz.
+
+Nu, Dio sendos pli multe se la viro estos dankema. Mi atendos la
+kreskadon de lia barbo, se vi ne prokrastos al mi la konadon de lia
+mentono.
+
+Cel.
+
+Li estas juna Orlando, kiu faligis la baraktiston kaj ankaŭ vian
+koron, ambaŭ samtempe.
+
+Roz.
+
+Ne, nu, la diablo prenu la mokadon! Parolu serioze kiel verema
+junulino.
+
+Cel.
+
+Je mia fido, kuzineto, estas li.
+
+Roz.
+
+Orlando?
+
+Cel.
+
+Orlando.
+
+Roz.
+
+Ho ve! Kion mi faros el miaj korpvesto kaj ŝtrumpoj? Kion li estis
+faranta kiam vi lin vidis? Kion li diris? Kia li vidiĝis? Kien li
+iris? Kion li faras ĉi tie? Ĉu li demandis pri mi? Kie li restas?
+Kiamaniere li adiaŭis vin? Kaj kiam vi ree lin vidos? Respondu al mi
+per unu vorto.
+
+Cel.
+
+Vi devas antaŭe pruntepreni por mi la buŝon de Gargantuo. Tiu vorto
+estas tro granda por iu ajn buŝo havanta la amplekson de la nuna
+epoko. Respondi jes aŭ ne al ĉiu detalo estas pli multe ol respondi
+en kateĥismo.
+
+Roz.
+
+Sed ĉu li scias ke mi estas en ĉi tiu arbaro, portante viran
+vestaĵon? Ĉu li ŝajnas bonsana kiel je tiu tago kiam li baraktis?
+
+Cel.
+
+Estas tiel facile kalkuli atomojn kiel solvi la proponojn de amanto.
+Sed gustumu mian trovadon de li, ĝuante tion per bona observado. Mi
+trovis lin kvazaŭ falintan kverkofrukton, sub arbo.
+
+Roz.
+
+Oni povas prave ĝin nomi la arbo de Jupitero, kiam ĝi elfaligas tian
+frukton.
+
+Cel.
+
+Aŭskultu al mi, bona sinjorino.
+
+Roz.
+
+Daŭrigu.
+
+Cel.
+
+Jen li kuŝis, laŭlonge sterniĝinte kvazaŭ vundita kavaliro.
+
+Roz.
+
+Kvankam kompatinde estas vidi tian vidaĵon, tamen ĝi beligas la
+teron.
+
+Cel.
+
+Diru "haltu" al via lango, mi petas. Ĝi saltetas malĝustatempe. Li
+estis vestata kiel ĉasisto.
+
+Roz.
+
+Ho, malbonsigne! Li venas por mortigi mian koron!
+
+Cel.
+
+Mi volus kanti mian kanton sen rekantaĵo. Vi malagordas min.
+
+Roz.
+
+Ĉu vi ne scias ke mi estas virino? Kiam mi pensas, mi devas paroli.
+Daŭrigu, dolĉulino!
+
+Cel.
+
+Vi malagordas min. Silentu! Ĉu li ne venas ĉi tien?
+
+Eniras Orlando kaj Jakveso.
+
+Roz.
+
+Estas li: mallaŭte preteriru, kaj lin observu.
+
+Jak.
+
+Mi dankas vin pro via kuneco; sed, je bona fido, min tiel multe
+plaĉus esti sola.
+
+Orl.
+
+  Min ankaŭ; sed, por agi laŭ la modo,
+  Mi dankas vin pro la kuneco via.
+
+Jak.
+
+  Adiaŭ. Kiel eble plej malofte
+  Ni do renkontu unu la alian.
+
+Orl.
+
+  Fariĝu ni pli bonaj malkonatoj.
+
+Jak.
+
+Mi petas al vi, ne plu difektu la arbojn, skribante amokantojn sur
+iliaj ŝeloj.
+
+Orl.
+
+Mi petas al vi, ne plu difektu miajn versojn, malafable ilin
+legante.
+
+Jak.
+
+Ĉu Rozalindo estas la nomo de via amatino?
+
+Orl.
+
+Jes, ĝuste.
+
+Jak.
+
+Ŝia nomo ne plaĉas al mi.
+
+Orl.
+
+Oni ne sin ĝenis pri la plaĉado al vi, kiam oni ŝin nomobaptis.
+
+Jak.
+
+Kiel altkreska ŝi estas?
+
+Orl.
+
+Tiel alta kiel mia koro.
+
+Jak.
+
+Vi estas plena je beletaj respondoj. Ĉu vi estas koninta la edzinojn
+de oraĵistoj, lerninte parkere la respondojn, el ringoj?
+
+Orl.
+
+Ne. Sed mi respondas al vi el sentenco-tapetoj el kiuj vi mem
+elstudis viajn demandojn.
+
+Jak.
+
+Vi havas viglan spiriton. Mi opinias ke ĝi estas farita el la
+kalkanoj de Atalanto. Ĉu vi sidiĝos kun mi? Kaj ni du riproĉos nian
+amatinon, la mondon, kaj ĉiom da nia mizero.
+
+Orl.
+
+Mi riproĉos neniun spiranton en la mondo, krom mi mem, kontraŭ kiu
+mi konas plej multe da kulpoj.
+
+Jak.
+
+Via plej malbona kulpo estas, ke vi amas.
+
+Orl.
+
+Tio estas kulpo kiun mi ne donus interŝanĝe por via plej bona virto.
+Mi enuas je vi.
+
+Jak.
+
+Je mia fido, mi ĵus esperis trovi ŝercemulon, kiam mi vin trovis.
+
+Orl.
+
+Li dronis en la rivereto: nur enrigardu, kaj vi lin vidos.
+
+Jak.
+
+Mi vidos tie sole mian propran bildon.
+
+Orl.
+
+Kiu, laŭ mia opinio estas aŭ malsaĝulo aŭ nulo.
+
+Jak.
+
+Mi ne plu restos kun vi: adiaŭ, bona sinjoro Amo.
+
+Orl.
+
+Mi ĝojas pro via foriro: adiaŭ, bona sinjoro Melankolio.
+
+[Jakveso foriras.]
+
+Roz. [mallaŭte al Celio.]
+
+Mi parolos al li kiel petola lakeo, kaj sub tiu rolo ludos la
+ŝercemulon kun li. Ĉu vi aŭdas, arbaristo?
+
+Orl.
+
+Bone: kion vi volas?
+
+Roz.
+
+Mi petas al vi, kioma horo estas?
+
+Orl.
+
+Vi devus demandi al mi, kioma _tago_ estas: ne estas horloĝo en la
+arbaro.
+
+Roz.
+
+Do, estas neniu vera amanto en la arbaro; alie la ĉiuminuta sopirado
+kaj la ĉiuhora ĝemado eltrovus la malrapidan piedon de la Tempo,
+tiel bone kiel horloĝo.
+
+Orl.
+
+Kaj kial ne la rapidan piedon de Tempo? Ĉu tio ne estus tiel prava?
+
+Roz.
+
+Tute ne, Sinjoro: la Tempo iras laŭ diversaj rapidoj por diversaj
+personoj. Mi diros al vi por kiu la Tempo amblas, por kiu la Tempo
+trotas, por kiu la Tempo galopas, kaj por kiu la Tempo staras
+senmove.
+
+Orl.
+
+Mi demandas al vi, por kiu li trotas?
+
+Roz.
+
+Certe, li ageme trotas por junulino inter la kontraktado pri ŝia
+edziniĝo kaj la tago je kiu oni ĝin solenigas; se la tempospaco
+estas nur semajno, la paŝado de la Tempo estas tiel malfacila ke ĝi
+ŝajnas tiel longa kiel sep jaroj.
+
+Orl.
+
+Por kiu amblas la Tempo?
+
+Roz.
+
+Por pastro kiu ne konas latinan, kaj por riĉa viro kiu ne estas
+podagrulo; ĉar unu facile dormas pro tio, ke li ne povas studi, kaj
+la alia gaje vivas pro tio, ke li ne sentas doloron; ĉar unu
+malhavas tiun elportaĵon kiu estas malgrasiga kaj malŝparema
+klereco, kaj la alia ne konas la elportaĵon kiu estas peza teda
+malriĉegeco: por ĉi tiuj la Tempo amblas.
+
+Orl.
+
+Por kiu li galopas?
+
+Roz.
+
+Por ŝtelisto iranta al la pendigilo; ĉar kvankam li iras tiel
+mallaŭte kiel la piedo povas teron tuŝi, li pensas sin tro frue
+alveninta.
+
+Orl.
+
+Por kiu la Tempo staras senmove?
+
+Roz.
+
+Por advokatoj en la libertempo; ĉar ili dormas inter la periodoj,
+kaj tiam ili ne sentas kiel pasas la Tempo.
+
+Orl.
+
+Kie vi loĝas, beleta junulo?
+
+Roz.
+
+Kun ĉi tiu paŝtistino, mia fratino; ĉi tie, en la rando de la
+arbaro, kiel franĝo sur jupo.
+
+Orl.
+
+Ĉu vi estas indiĝeno de ĉi tiu loke?
+
+Roz.
+
+Kiel la kuniklo kiun vi vidas loĝanta tie, kie ŝi naskiĝis.
+
+Orl.
+
+Via akcento estas iom pli bonsona ol tia, kian vi povus akiri en
+tiel malproksima loĝejo.
+
+Roz.
+
+Oni ofte diris tion al mi: sed efektive, maljuna religiulo, onklo
+mia, kiu en sia juneco estis enlandulo, instruis al mi kiamaniere
+paroli; li konis la kortegon tro bone, ĉar tie li enamiĝis. Mi aŭdis
+lin leganta multajn paroladojn kontraŭ ĝi, kaj mi dankas al Dio ke
+mi ne estas virino, tuŝota de tiom da frivolaj peketoj pri kiom li
+kutime akuzis tiun tutan sekson.
+
+Orl.
+
+Ĉu vi povas rememori kelkajn el la ĉefaj peketoj pri kiuj li akuzis
+la virinojn?
+
+Roz.
+
+Estis neniuj ĉefaj; ili ĉiuj similis unu al la alia, same kiel
+moneroj; unu peketo ŝajnis terura ĝis kiam la sekvanta peketo venis
+por ĝin egali.
+
+Orl.
+
+Mi petas al vi, rakontu kelke da ili.
+
+Roz.
+
+Ne, mi ne malŝparos sanigilojn escepte por tiu, kiu estas malsana.
+Estas iu viro kiu vizitadas la arbaron, kaj difektas niajn arbojn
+skulptante "Rozalindon" sur iliaj ŝeloj; kiu pendigas odojn sur
+kratagoj, kaj elegiojn sur dornarbetaĵoj; ĉio ĉi, vere, diigas la
+nomon Rozalindon: se mi povus renkonti tiun amantaĉon, mi donus al
+li iom da bona konsilo, ĉar li ŝajne suferas pro la ĉiutaga
+amofebro.
+
+Orl.
+
+Mi estas tiu, kiu tiel ŝanceliĝas pro amo: mi petas al vi, diru al
+mi la sanigilon de via onklo.
+
+Roz.
+
+Neniuj el la signoj konataj de mia onklo estas sur vi. Li instruis
+al mi kiel malkaŝi viron enamiĝintan; mi estas certa ke vi ne estas
+kaptito en tia kaĝo el junkoj.
+
+Orl.
+
+Kiaj estas liaj signoj?
+
+Roz.
+
+Malgrasa vango, tia, kian vi ne havas; interniĝintaj okuloj, kaj
+lacigitaj, tiaj, kiajn vi ne havas; neparolema humoro, tia, kian vi
+ne havas; nezorgita barbo, tia, kian vi ne havas; sed tion mi
+pardonas al vi, ĉar via nura posedo de barbo estas rento de pli
+juna frato; plie, viaj ŝtrumpoj devus esti neligitaj, via ĉapo sen
+rubando, viaj manikoj nebutonumitaj, viaj ŝuoj nelaĉitaj, kaj ĉio
+sur vi devus montri senzorgan malesperon; sed vi ne estas tia viro;
+vi estas anstataŭe perfekta en via vestaĵo, kvazaŭ amante vin mem,
+pli ol iun alian.
+
+Orl.
+
+Bela junulo, mi volus ke mi povu kredigi vin ke mi amas.
+
+Roz.
+
+Mi kredu tion? Vi povas tiel baldaŭ kredigi ŝin mem, kiun vi amas;
+kaj mi vetas, ke ŝi pli kredeble kredos ol ŝi konfesos sian kredon:
+tio estas unu el la aferoj pri kiuj la virinoj ankoraŭ mensogas al
+siaj konscioj. Sed, vere, ĉu estas vi kiu pendigas sur la arboj la
+versojn en kiuj Rozalindo estas tiel multe admirata?
+
+Orl.
+
+Mi ĵuras al vi, junulo, je la blanka mano de Rozalindo, ke mi estas
+tiu malfeliĉulo.
+
+Roz.
+
+Sed ĉu vi tiel multe enamiĝas kiel viaj rimoj diras?
+
+Orl.
+
+Nek rimado nek rezonado povas esprimi kiel multe.
+
+Roz.
+
+La amo estas nur frenezo; kaj, mi diras al vi, ĝi tiom meritas
+malluman domon kaj vipilon, kiom la frenezuloj: kaj la kialo, pro
+kiu oni ne tiamaniere punas kaj kuracas amantojn, estas, ke tia
+frenezo estas tiel ĝenerala ke la vipistoj mem enamiĝas. Tamen mi
+pretendas ke mi povas ĝin kuraci per konsilado.
+
+Orl.
+
+Ĉu iu ajn tiamaniere ĝin iam kuracis?
+
+Roz.
+
+Jes, unu viro, kaj laŭ la jena maniero: li devis imagi min lia
+amatino; kaj mi ordonis al li ke li ĉiutage min amindumu: je tiuj
+okazoj, estante nekonstanta junulo, mi plendadis, mi min ŝajnigadis
+virineca, ŝanĝema, sopirema, kaj amema; fiera, kapricema, imitema,
+frivola, nekonstanta, plena je larmoj, plena je ridetoj; mi estis
+ia al ĉia pasio, kaj neniel vera al iu ajn pasio; kiel junuloj kaj
+virinoj estas pliparte estaĵoj de tia speco: jen mi lin ametis, jen
+mi lin malamis; jen mi lin amuzis, jen mi lin forpelis; jen mi
+ploris pro li, jen mi lin malestimis; mi pelis mian amindumanton el
+sia freneza amohumoro ĝis vivema frenezohumoro; tio estis, forlasi
+la plenan fluon de la mondo, kaj loĝi en angulo sole monaĥeja. Kaj
+tiel mi lin resanigis; kaj tiel mi prenos sur min lavi vian hepaton
+tiel pura kiel estas la koro de bona ŝafo, ke ne estos tie unu
+makulo da amo.
+
+Orl.
+
+Mi ne volas esti resanigita, junulo.
+
+Roz.
+
+Mi resanigos vin, se vi nur min nomus Rozalindo, kaj venus ĉiutage
+al mia dometo, por min amindumi.
+
+Orl.
+
+Nu, je la fido de mia amo, mi venos: diru al mi kie ĝi estas.
+
+Roz.
+
+Iru kun mi al ĝi kaj mi ĝin montros al vi: kaj survoje vi diros al
+mi kie en la arbaro vi loĝas. Ĉu vi iros?
+
+Orl.
+
+Tre volonte, bona junulo.
+
+Roz.
+
+Ne, vi devas min nomi Rozalindo. Venu, fratino, ĉu vi iros?
+
+[Ĉiuj foriras.]
+
+
+
+SCENO III.
+
+La arbaro.
+
+
+Eniras Tuŝ-ŝtono kaj Aŭdreo; Jakveso postvenas.
+
+Tuŝ.
+
+Venu rapide, bona Aŭdreo: mi alpelos viajn kaprojn, Aŭdreo. Kaj
+kiel, Aŭdreo? ĉu mi estas la viro? ĉu mia simpla mieno kontentigas
+al vi?
+
+Aŭd.
+
+Via mieno! Dio nin gardu! Kia mieno?
+
+Tuŝ.
+
+Mi estas ĉi tie kun vi kaj viaj kaproj, same kiel la plej kapricema
+poeto, honesta Ovido, estis inter la gotoj.
+
+Jak. [mallaŭte.]
+
+Ho sciado malbone loĝanta, pli malbone ol Jupitero en pajltegmentita
+domo!
+
+Tuŝ.
+
+Kiam ies versoj ne povas esti komprenataj, kaj lia spriteco ne povas
+esti helpata de tiu frumatura infano, la komprenado, tio pli
+mortfrapas ol granda kalkulo por malgranda ĉambro. Efektive, mi
+volus ke la dioj vin estu farintaj pli poeta.
+
+Aŭd.
+
+Mi ne scias kio estas "poeta": Ĉu tio estas honesta laŭ vorto kaj
+ago? Ĉu ĝi estas veraĵo?
+
+Tuŝ.
+
+Ne, vere; ĉar la plej vera poezio estas plej ŝajniga; kaj amantoj
+volonte uzadas la poezion, kaj tio, kion ili ĵuras en poezio, povas
+esti dirata kiel amantoj ŝajnigas.
+
+Aŭd.
+
+Ĉu vi volus do ke la dioj estu min farintaj poeta?
+
+Tuŝ.
+
+Jes, vere; ĉar vi ĵuras al mi ke vi estas honesta: do, se vi estus
+poetino, mi povus iom esperi ke vi pretekstas.
+
+Aŭd.
+
+Ĉu vi ne volas ke mi estu honesta?
+
+Tuŝ.
+
+Ne, vere, escepte se vi estus malbela; ĉar honesteco kunigita kun
+beleco similas la uzadon de mielo kiel saŭco por sukero.
+
+Jak. [mallaŭte.]
+
+Li estas materialista ŝercemulo!
+
+Aŭd.
+
+Nu, mi ne estas bela; tial mi preĝas al la dioj, ke ili min faru
+honesta.
+
+Tuŝ.
+
+Nu, tio estu laŭ via volo, sed mi edziĝos je vi; tial mi vizitis
+Siron Oliveron Martekst, la paroĥestron de la plej proksima vilaĝo,
+kiu promesis renkonti nin en ĉi tiu loko en la arbaro, kaj nin
+edzigi.
+
+Jak. [mallaŭte.]
+
+Mi volus vidi ĉi tiun renkonton.
+
+Aŭd.
+
+Nu, la dioj donu al ni la feliĉecon!
+
+Tuŝ.
+
+Amen. Se oni ne havus kuraĝan koron, li povus ja ŝanceliĝi je tia
+provo; tial, ke ni havas ĉi tie nenian templon krom la arbaro,
+nenian kunvenon krom kornhavaj bestoj. Sed kio, nu! Kuraĝu! Same
+kiel kornoj estas malagrablaj, ili estas necesaj. Oni diras, ke
+multe da homoj ne travivas eluzadon de siaj posedaĵoj: prave; multe
+da homoj havas bonajn kornojn, kaj ne travivas eluzadon de ili. Nu,
+tio estas la doto de lia edzino; li mem ne ĝin akiris. Kornoj? Jes,
+certe:--malriĉuloj sole? Ne, ne; la plej nobla cervo havas ilin tiel
+grandaj kiel la fripono. Ĉu la fraŭlo estas tial benita? Ne: same
+kiel murhava urbo estas pli inda ol vilaĝo, tiel la frunto de
+edzigita viro estas pli honorinda ol la nuda frunto de fraŭlo; kaj
+ju pli multe defendado superas mallertecon, des pli multe korno
+estas pli valora ol la bezonado. Jen venas Siro Olivero.
+
+Eniras Siro Olivero Martekst.
+
+Siro Olivero Martekst, vi estas bonvena; ĉu vi finos je ni ĉi tie
+sub tiu ĉi arbo, aŭ ĉu ni iru kun vi al via kapelo?
+
+Siro Oli.
+
+Ĉu estas neniu ĉi tie por fordoni la virinon?
+
+Tuŝ.
+
+Mi ne ŝin akceptos kiel la donacon de iu ajn viro.
+
+Siro Oli.
+
+Vere, ŝi devos esti donita, alie la edziĝo ne estos laŭleĝa.
+
+Jak.
+
+Komencu! komencu! mi ŝin donacos.
+
+Tuŝ.
+
+Bonan vesperon, bona Sinjoro kiel-nomita: kiel vi sanas? Vi estas
+tre bonvena: Dio vin rekompencu pro via ĵusantaŭa kunularo: mi tre
+ĝoje vin vidas: jen bagatelo por fari ĉi tie, Sinjoro: ne, remetu la
+ĉapelon, mi petas.
+
+Jak.
+
+Ĉu vi edziĝos, multkolorulo?
+
+Tuŝ.
+
+Same kiel la bovo havas sian jugon, Sinjoro, la ĉevalo sian bridon,
+kaj la falko siajn sonorilojn, tiel la homo havas siajn dezirojn;
+kiel kolomboj kunbekiĝas, tiel edzigotoj volus gustumi.
+
+Jak.
+
+Sed ĉu vi, viro kun tia edukado, edziĝus sub arbetaĵo, kvazaŭ
+almozulo? Iru al la preĝejo, kaj havu bonan pastron kiu povas
+klarigi al vi, kio estas la edziĝado: ĉi tiu homaĉo nur vin kunigos
+kiel oni kunigas panelaron: tiam unu el vi pruvigos malŝvelita
+panelo, kaj kvazaŭ nematura ligno, kurbiĝos, kurbiĝos, kurbiĝos.
+
+Tuŝ. [mallaŭte.]
+
+Mi ne estas certa ke mi ne preferus esti edzigita de li anstataŭ
+iu alia: ĉar kredeble li ne bone min edzigos; kaj ne estante bone
+edzigite, mi havos pli bonan pretekston por poste forlasi mian
+edzinon.
+
+Jak.
+
+Nu, iru do kun mi; konsilos mi al vi.
+
+Tuŝ.
+
+    Nu venu, ho Aŭdreo, dolĉkore,
+  Ni devas edziĝi, aŭ vivi malbonmore.
+  Adiaŭ, Sinjoro Olivero; ne,--
+      Ho dolĉa Olivero,
+      Ho brava Olivero.
+    Ne min forlasu post vi.
+  Sed,--
+      Forvagu do, foriru,
+      Mi diras, al vi, iru!
+  Mi ne edziĝos per vi.
+
+[Jakveso, Tuŝ-ŝtono, kaj Aŭdreo foriras.]
+
+Siro Oli.
+
+Tio ne estas grava. Neniu fantaziulo el ili formokos min el mia
+profesio.
+
+[Li foriras.]
+
+
+
+SCENO IV.
+
+La arbaro.
+
+
+Eniras Rozalindo kaj Celio.
+
+Roz.
+
+Tute ne parolu al mi: mi volas plori.
+
+Cel.
+
+Nu, ploru, mi petas; sed tamen bonvole memoru ke larmoj ne decas al
+viro.
+
+Roz.
+
+Sed ĉu mi ne havas bonan kialon por plori?
+
+Cel.
+
+Tiel bonan kialon kiel oni povus deziri; tial, ploru.
+
+Roz.
+
+Liaj haroj mem havas hipokritan koloron.
+
+Cel.
+
+Ili havas iom pli brunan koloron ol tiuj de Judaso; efektive, liaj
+kisoj estas la infanoj mem de Judaso.
+
+Roz.
+
+Je mia fido, liaj haroj havas belan koloron.
+
+Cel.
+
+Bonegan koloron. Via kaŝtana koloro estis ĉiam la plej bona.
+
+Roz.
+
+Kaj lia kisado estas tiel plena je sankteco kiel la tuŝado de sankta
+pano.
+
+Cel.
+
+Li aĉetis paron da marmoraj lipoj de Diano: monaĥino de vintra
+fratulinaro ne kisas pli religie: la ĉasteca glacio mem enestas en
+ili.
+
+Roz.
+
+Sed kial li ĵuris ke li venos hodiaŭ matene, kaj tamen ne venas?
+
+Cel.
+
+Nu, certe, enestas neniom da vero en li.
+
+Roz.
+
+Ĉu vi tiel opinias?
+
+Cel.
+
+Jes; mi opinias ke li ne estas ŝtelisto de monujoj aŭ de ĉevaloj;
+sed koncerne lian verecon en amo, mi ja pensas lin tiel malplena
+kiel kovrita pokalo aŭ vermdetruita nukso.
+
+Roz.
+
+Ĉu vi ne pensas lin fidela en amo?
+
+Cel.
+
+Jes, kiam li enamiĝas; sed mi opinias ke li ne enamiĝis.
+
+Roz.
+
+Vi lin aŭdis rekte ĵuri ke li enamiĝis.
+
+Cel.
+
+Ke li estis enamiĝinta, ne ke li ankoraŭ enamiĝas: la ĵuro de amanto
+ne estas pli fidinda al la parolo de vinoĉerpisto: ili ambaŭ pruvas
+falsajn kalkulojn. Li estas sekvanto de via patro la Duko, ĉi tie
+en la arbaro.
+
+Roz.
+
+Mi renkontis la Dukon hieraŭ, kaj multe interparolis kun li: li
+demandis al mi de kia familio mi devenas; mi respondis al li, de
+tiel bona kiel li mem; tiam li ridis, kaj min lasis foriri. Sed kial
+ni parolas pri patroj, kiam ekzistas tia viro kia Orlando?
+
+Cel.
+
+Ho, tiu estas brava viro! Li skribas bravajn versojn, parolas
+bravajn vortojn, ĵuras bravajn ĵurojn, kaj ilin brave rompas, tute
+transe, tra la koro de sia amatino; same kiel mallerta lancisto, kiu
+spronpikas sian ĉevalon sur unu flanko sole, rompas sian bastonon
+kiel vera malspritulo: sed ĉio estas brava kion la juneco rajdas kaj
+la malsaĝeco gvidas. Kiu venas ĉi tien?
+
+Eniras Koreno.
+
+Kor.
+
+  Gemastroj, ofte vi demandis pri
+  Paŝtisto suferanta pro la amo,--
+  Ĉar lin vi foje vidis sur la herbo
+  Sidanta apud mi, laŭdanta
+  La paŝtistinon malŝateman,
+  Fieran, sian amatinon.
+
+Cel.
+
+  Nu, kio pri li?
+
+Kor.
+
+                  Se vi volas vidi
+  La palan haŭton de la vera amo
+  Kaj ruĝan brilon de fiera moko
+  Ludantaj bone bonan teatraĵon,
+  Foriru iom, kaj mi vin kondukos,
+  Se vi ĝin volus vidi.
+
+Roz.
+
+                       Jes, ni iru!
+  Rigardi la amantojn ja konsolas
+  Personon kiu amas. Nin konduku
+  Al tiu vidindaĵo, kaj vi diros
+  Ke mi en tiu lud' ageme ludos.
+
+[Ĉiuj foriras.]
+
+
+
+SCENO V.
+
+Alia parto de la arbaro.
+
+
+Eniras Silvio kaj Febino.
+
+Sil.
+
+  Febino kara, ne min malestimu;
+  Ho ne, Febino, diru ke vi ne
+  Min amas, sed ne tion akre diru.
+  La ordinara eĉ ekzekutisto,
+  Li kies koron la vidad' kutima
+  De morto severigas, tamen ne
+  Faligas la hakilon trans la kolon
+  Antaŭ li kliniĝintan, antaŭ ol
+  Pardonon peti: ĉu vi estos pli
+  Severa ol la viro kiu gajnas
+  La vivrimedojn per la sangaj gutoj?
+
+Eniras Rozalindo, Celio, kaj post ili Koreno.
+
+Feb.
+
+  Ekzekutisto mi ne volus esti:
+  Mi vin evitas, ne volante vundi;
+  Vi diras al mi, ke l' mortigo kuŝas
+  En la okuloj miaj: certe estas,
+  Kredeble ankaŭ, ke okuloj, kiuj
+  Plej delikataj kaj plej molaj estas,
+  Fermante siajn malkuraĝajn pordojn
+  Je eĉ pulveroj, estus do nomataj
+  Tiranoj, mortigistoj, kaj buĉistoj!
+  Nu, kiel eble plej mi eksulkigos
+  La frunton kontraŭ vi, kaj se l' okuloj
+  Vin povas vundi, ili vin mortigu!
+  Ŝajnigu nun svenadon; nun vi falu;
+  Se vi ne tion povas, hontu do!
+  Mensogu ne, dironte ke l' okuloj
+  La miaj estas mortigantoj; nu,
+  La vundon montru, kiun mi ekfaris
+  Per la okuloj miaj: gratu vin
+  Per nura pinglo, kaj ankoraŭ restos
+  Grataĵo ia; kontraŭ junko tiam
+  Apogu vin, kaj via polmo montros
+  Cikatron kaj impreson ja senteblan,
+  Post kelka tempo; sed l' okuloj miaj
+  Celinte al vi, tute ne vin vundis:
+  Mi estas certa ke nenia forto
+  Ekzistas en okuloj, kiu povas
+  Dolori.
+
+Sil.
+
+          Ho, Febino kara, se
+  Vi iam,--kaj vi mem ne scias kiam,--
+  Renkontos ĉe la vango de alia
+  La povon de la Amo, vi eksentos
+  La nevideblan vundon, kiun faras
+  La akraj sagoj de la Amo.
+
+Feb.
+
+                            Dume,
+  Ĝis tiu tempo, ne alproksimiĝu:
+  Kaj, kiam venos tiu temp' malgaja,
+  Min dolorigu per mokado; ne
+  Kompatu min; sammaniere kiel
+  Ĝis tiu tempo mi ne vin kompatos!
+
+Roz.
+
+  Sed kial do? Nu, de patrino kia
+  Devenas vi,--samtempe ĝojegante
+  Kaj insultante je malfeliĉulo?
+  Nu, kvankam vi belecon ja ne havas,--
+  Kaj, je la fido mia, mi ne vidas
+  Pli multe da ĝi sur vizaĝo via
+  Ol povus sen kandelo enlitiĝi,--
+  Ĉu vi, pro tio sole, devas esti
+  Fiera kaj entute senkompata?
+  Nu, kion vi intencas? Kial vi
+  Rigardas min? Pli multe mi ne vidas
+  Ĉe vi, ol ĉe la ordinara speco
+  De ia pretfarita kreitaĵo
+  De la Naturo. Nu, je mia vivo!
+  Mi opinias ke ŝi eĉ intencas
+  Ensorĉi ankaŭ la okulojn miajn!
+  Ho ne, fraŭlin' fiera, ne ĝin celu:
+  Nek brovoj nigraj, nek la nigraj haroj,
+  Silkecaj, nek l' okuloj hele nigraj,
+  Nek via bela vango, povas dresi
+  L' animon mian por vin adoradi.
+  Ŝafisto stulta, kial vi ŝin sekvas,
+  Simile al la nebuleca Sudo,
+  Pro l' vento kaj la pluvo blovetanta?
+  Pli bela viro estas vi miloble,
+  Ol ŝi virino bela estas: plie,
+  Pro tiaj malsprituloj, kiaj vi,
+  La mond' fariĝas plena je infanoj
+  Malbelaj: La spegulo ne ŝin flatas,
+  Ŝin flatas sole vi, kaj ŝi, pro tio,
+  Sin pensas pli belega ol la trajtoj
+  De la vizaĝo ŝia povas montri.
+  Fraŭlino, vin rekonu! Genufleksu,
+  Kaj, dum vi fastas, danku la Ĉielon
+  Pro l' amo de bonulo. Mi konsilas
+  Amike kaj mallaŭte al vi, jene:
+  Ekvendu kiam ajn vi povas. Vi
+  Ne plaĉos ĉiam al la aĉetonto:
+  Pardonon petu de la vir'. Lin amu,
+  Akceptu lin: ĉar malbelino ŝajnas
+  Ankoraŭ pli malbela se ŝi mokas.
+  Ŝin prenu do, paŝtisto, kaj adiaŭ.
+
+Feb.
+
+  Junulo dolĉa, min riproĉu tiel
+  Dum tuta jaro, ĉar mi ja preferas
+  Aŭskulti tian riproĉadon vian
+  Plivole ol amindumadon lian.
+
+Roz.
+
+Li enamiĝis je via malbeleco, kaj ŝi enamiĝos je mia kolero. Se tio
+estas vera, tiel rapide kiel ŝi respondas al vi per malafablaj
+rigardoj, mi petole parolos al ŝi per maldolĉaj vortoj. Kial vi
+tiamaniere rigardas min?
+
+Feb.
+
+Pro nenia malamo al vi.
+
+Roz.
+
+  Mi petas, ne al mi ekenamiĝu!
+  Mi estas pli perfida ol la ĵuroj
+  Faritaj en la vino. Kaj aldone
+  Mi ne vin ŝatas. Se vi volas koni
+  La domon mian, jen ĝi estas, apud
+  La olivarbetaĵo, tre proksima.
+  Fratino, ĉu vi iros? Nu, paŝtisto,
+  Petegu forte. Venu do, fratino.
+  Kondutu, paŝtistino, pli afable,
+  Kaj ne fiera estu. Ĉar neniu
+  Pli malfeliĉa estas ol ĉi tiu.
+  Nu, venu al la ŝafinaro nia.
+
+[Rozalindo, Celio, kaj Koreno foriras.]
+
+Feb.
+
+  Paŝtist' mortinta, nun mi trovas prava
+  La frazon vian, kaj ĝi estas grava:
+  "Neniu amis, ne enamiĝinte,
+  L' amaton unufoje ekvidinte."
+
+Sil.
+
+  Febino kara,--
+
+Feb.
+
+                  Kion do vi diras,
+  Silvio?
+
+Sil.
+
+           Min kompatu, kara.
+
+Feb.
+
+  Nu, mi kompatas vin, Silvio kara.
+
+Sil.
+
+  Sed kie ajn kompato estas, tie
+  Sendolorigo devus esti. Tial
+  Se vi bedaŭras mian amdoloron,
+  Per via amo vi forigos mian
+  Malĝojon, kaj la malgajecon vian.
+
+Feb.
+
+  Vi havas mian amikeman amon.
+
+Sil.
+
+  Mi vin deziras.
+
+Feb.
+
+                  Vi avara estas.
+  Silvio, iam mi malamis vin,
+  Ankoraŭ mi ne amas vin; sed tamen,
+  Ĉar pri la amo bone vi parolas,
+  Mi nun elportos vian kunulecon,
+  Je kiu mi antaŭe tre enuis.
+  Mi ankaŭ donos al vi okupadon:
+  Sed ne deziru pluan rekompencon
+  Ol vian ĝojon pro la okupado.
+
+Sil.
+
+  Perfekta tiel mia amo estas,
+  Kaj sankta, kaj mi tiom ja malhavas
+  Da via komplezemo, ke mi pensos
+  Ke mi rikolton sufiĉegan havas,
+  Kvazaŭe rikoltante nur la spikojn
+  Rompitajn, kiam jam la rikoltistoj
+  Forportis la rikolton mem. Kelkfoje
+  Donacu nur rideton, kaj je tiu
+  Mi nutros min.
+
+Feb.
+
+                 Sed ĉu vi konas tiun,
+  La junan viron kiu ĵus parolis?
+
+Sil.
+
+  Ne bone, sed mi ofte lin renkontis:
+  La domon li aĉetis, kaj bienon,
+  De tiu malagrabla maljunulo.
+
+Feb.
+
+  Mi ne lin amas, kvankam mi demandas
+  Pri li; li estas nur petola knabo;
+  Sed bone li parolis; tamen, vortoj
+  Valoras kion? Sed la vortoj plaĉas
+  Se nur la parolanto kontentigas
+  Al sia aŭdantar'; li estas bela,
+  Sed ne tre bela; li fiera estas,
+  Sed la fiero certe lin beligas;
+  Li estos bela viro. Plej laŭdinda
+  La vizaĝhaŭto lia; kion ajn
+  Li diris malĝentile, li nuligis
+  Per ekrigardoj el l' okuloj belaj.
+  Li ne altkreska estas, sed sufiĉe
+  Por lia aĝo. Liaj lipoj havas
+  Ruĝecon belan, iom pli brilegan
+  Ol liaj vangoj. Tia diferenco
+  Ekzistas inter la konstante ruĝa
+  Kaj multkolora silko. Nu, Silvio,
+  Virinoj iuj, tiel lin vidinte,
+  Detale, kiel mi, sendube estus
+  Je li enamiĝinta; miaflanke,
+  Mi nek lin amas, nek malamas lin;
+  Sed mi pli multe da kialo havas
+  Por lin malami ol por ami lin:
+  Ĉar li pro kia rajto min riproĉis?
+  Li nomis nigraj la okulojn miajn,
+  Kaj miajn harojn nigraj. Ankaŭ nun
+  Mi rememoras, ke li mokis min.
+  Mi miras kial ajn mi ne respondis:
+  Nu, do; nefari ne kvitanci estas;
+  Mi skribos insulteman letereton,--
+  Vi tien portos ĝin, ĉu ne, Silvio?
+
+Sil.
+
+  Febino, tre volonte.
+
+Feb.
+
+                      Tuj mi skribos.
+  Material' por tio jam enestas
+  En mia kor', kaj en la cerbo mia.
+  Maldolĉa kaj abrupta kontraŭ li
+  Mi estos. Nu, Silvio, iru kun mi.
+
+[Ambaŭ foriras.]
+
+
+
+
+AKTO IV.
+
+
+
+SCENO I.
+
+La arbaro.
+
+
+Eniras Rozalindo, Celio kaj Jakveso.
+
+Jak.
+
+Mi petas, bela junulo, permesu ke mi bone konatiĝu kun vi.
+
+Roz.
+
+Oni diras ke vi estas malgajulo.
+
+Jak.
+
+Mi estas tia; mi preferas tion, plivole ol la ridado.
+
+Roz.
+
+Oni kiu estas ekstreme tia aŭ la malo estas abomenulo, kaj meritas
+ĉiun modernan riproĉon, pli multe ol drinkuloj.
+
+Jak.
+
+Nu, estas bone esti malgaja, kaj nenion diri.
+
+Roz.
+
+Sed, do, estus bone esti nura stango.
+
+Jak.
+
+Mi havas nek la konkureman melankolion de klerulo; nek la
+fantazieman melankolion de muzikisto: nek la fieran melankolion de
+kortegano; nek la ambician melankolion de soldato; nek la politikan
+melankolion de advokato; nek la delikatan melankolion de sinjorino;
+nek la melankolion de amanto, kiu enhavas ĉiujn ĉi; sed mi havas
+mian propran melankolion, elfaritan el multaj sanigaj kreskaĵoj,
+eltiritan el multaj objektoj; kaj ankaŭ el la diversa meditado pri
+miaj vojaĝoj, kiu ofta meditado min enprofundigas en plej spritan
+malgajecon.
+
+Roz.
+
+Vi estas vojaĝinto! Je mia fido, vi havas bonan kialon por esti
+malgaja! Mi timas ke vi vendis viajn proprajn bienojn, por povi vidi
+tiujn de aliaj viroj; tial, esti multe vidinta kaj neniom posedanta
+estas havi riĉajn okulojn kaj malriĉajn manojn.
+
+Jak.
+
+Jes, mi gajnis mian spertadon.
+
+Roz.
+
+Kaj via spertado vin malgajigas: mi preferus ŝercemulon por min
+gajigi, plivole ol la spertadon por min malgajigi; kaj plivole ol
+vojaĝi por ĝin akiri.
+
+Eniras Orlando.
+
+Orl.
+
+Ho, bonan tagon, kara Rozalindo.
+
+Jak.
+
+Nu do, adiaŭ, se vi parolas per senrimaj versoj.
+
+[Li foriras.]
+
+Roz.
+
+Adiaŭ, Sinjoro Vojaĝinto. Atentu, ke vi kartavu, kaj portu strangan
+vestaĵon; malalte taksu ĉiun profiton de via propra lando; malŝatu
+vian naskiĝejon, kaj preskaŭ riproĉu Dion, tial, ke Li donis al vi
+tian mienon kian vi havas; aŭ mi apenaŭ pensos ke vi iam naĝis en
+gondolo. Nu, kiel do, Orlando? Kie vi estis la tutan tempon? Ĉu vi
+estas amanto! Se vi duan fojon tiel kondutos kontraŭ mi, neniam plu
+venu antaŭ miajn okulojn!
+
+Orl.
+
+Sed mia bela Rozalindo, mi venis malpli ol unu horon post la
+decidita horo.
+
+Roz.
+
+Vi rompus horan promeson je amo! Li kiu dividos minuton en mil
+partojn, kaj rompos nur parton de la milono de minuto, en aferoj de
+amo,--oni povus diri pri li ke Kupido lin frapis amike sur la
+ŝultron, sed lia koro estas netuŝita.
+
+Orl.
+
+Pardonu al mi, kara Rozalindo.
+
+Roz.
+
+Ne, se vi tiel prokrastos, ne venu al mi plu: mi tiel multe dezirus
+ke limako min amindumu.
+
+Orl.
+
+Limako?
+
+Roz.
+
+Jes, limako: ĉar, kvankam li malrapide venas, li portas sian domon
+sur la kapo; pli bonan doton, mi opinias, ol vi donos al virino;
+aldone, li kunportas sian sorton kun si.
+
+Orl.
+
+Kio estas tio?
+
+Roz.
+
+Nu, kornoj, pro kiuj tia viro, kia vi, volonte ŝuldas al la edzino.
+Sed li venas armite je sia riĉeco, kaj malhelpas la kalumnion de sia
+edzino.
+
+Orl.
+
+La virto ne produktas kornojn; kaj mia Rozalindo estas virta.
+
+Roz.
+
+Kaj mi estas via Rozalindo.
+
+Cel.
+
+Plaĉas al li vin tiel nomi; sed lia Rozalindo havas pli belan
+vizaĝon ol vi.
+
+Roz.
+
+Rapidu, amindumu min, amindumu min; ĉar nun mi estas tre gaja kaj
+kredeble konsentus. Kion vi nun dirus al mi, se mi ja estus via
+Rozalindo mem?
+
+Orl.
+
+Mi vin kisus, antaŭ ol paroli.
+
+Roz.
+
+Ne, vi devus unue paroli; kaj kiam vi havus nenion plu por diri, vi
+povus kapti la okazon por kisi.
+
+Orl.
+
+Kion fari, se ŝi malpermesus la kison?
+
+Roz.
+
+Tiam ŝi vin devigas peti, kaj de tio komenciĝas nova interparolado.
+
+Orl.
+
+Kiu povus havi nenion por diri, estante ĉe sia amata amatino?
+
+Roz.
+
+Certe, vi mem havus nenion por diri, se mi estus via amatino, aŭ mi
+pensus mian honestecon pli granda ol mian spritecon.
+
+Orl.
+
+Kiel! Ĉu mi havus nenion por diri?
+
+Roz.
+
+Ne. Ĉu mi ne estas via Rozalindo?
+
+Orl.
+
+Mi ĝoje diras ke vi estas ŝi, ĉar mi volonte parolos pri ŝi.
+
+Roz.
+
+Nu, pro ŝi persone, mi diras al vi ke mi ne vin akceptos.
+
+Orl.
+
+Do, pro mi persone, mi mortos.
+
+Roz.
+
+Ne, do, mortu per anstataŭanto. La kompatinda mondo havas preskaŭ
+sesmil jarojn, kaj en tiu tuta tempo neniu viro mortis, en sia
+propra persono, pro amo. Oni mortbatis Troilon per greka bastonego;
+tamen li faris sian eblon por antaŭe morti, kaj li estas unu el la
+imitinduloj, rilate al amo. Leandro estus vivinta multajn jarojn,
+kvankam Hero fariĝis monaĥino, escepte pro varma somermeza nokto;
+ĉar la bona junulo nur eliris por sin bani en la Helesponto, kaj,
+venkite de konvulsio, li dronis: kaj la malsaĝaj historiistoj de tiu
+epoko eltrovis ke Hero de Sestoso tion okazigis; sed ĉiuj ĉi estas
+mensogaĵoj; viroj mortis, de tempo al tempo, kaj vermoj ilin manĝis,
+sed ne pro la amo.
+
+Orl.
+
+Mi ne volus ke mia efektiva Rozalindo tiel opiniu: ĉar, mi ja
+kredas, ŝia malrideto povus min mortigi.
+
+Roz.
+
+Ne, je ĉi tiu mano, ĝi ne mortigus eĉ muŝon. Sed nu, mi estos via
+Rozalindo en pli afabla humoro; petu de mi kion ajn vi volas, mi ĝin
+permesos.
+
+Orl.
+
+Do, min amu, Rozalindo.
+
+Roz.
+
+Jes, je mia fido, mi faros tion, vendrede kaj sabate kaj ĉiam.
+
+Orl.
+
+Kaj vi min akceptos?
+
+Roz.
+
+Jes, kaj dudek tiajn virojn.
+
+Orl.
+
+Kion vi diras?
+
+Roz.
+
+Ĉu vi ne estas bona?
+
+Orl.
+
+Mi esperas ke jes.
+
+Roz.
+
+Nu do, ĉu oni povus deziri tro multe da bona afero? Venu, fratino
+mia, vi estu la pastro, kaj nin edzigu. Donu al mi la manon,
+Orlando. Kion vi diras, fratino mia?
+
+Orl.
+
+Mi petas al vi, nin edzigu.
+
+Cel.
+
+Mi ne povas diri la vortojn.
+
+Roz.
+
+Vi devos komenci, "Ĉu vi, Orlando,--"
+
+Cel.
+
+Silentu. Ĉu vi Orlando, prenos ĉi tiun Rozalindon por la edzino?
+
+Orl.
+
+Jes.
+
+Roz.
+
+Jes, sed kiam?
+
+Orl.
+
+Nun, tuj kiam ŝi povos nin edzigi.
+
+Roz.
+
+Tiam vi devos diri "Mi prenas vin, Rozalindo, por la edzino."
+
+Orl.
+
+Mi prenas vin, Rozalindo, por la edzino.
+
+Roz.
+
+Mi povus peti de vi vian rajtskribaĵon; sed mi vin prenas, Orlando,
+por mia edzo: jen estas fraŭlino kiu antaŭiras la pastron; kaj certe
+la virina pensado antaŭiras la virinan agadon.
+
+Orl.
+
+Tion faras ĉiuj pensoj: ili havas flugilojn.
+
+Roz.
+
+Nun diru al mi kiom da tempo vi retenos ŝin, post kiam vi ŝin
+posedas.
+
+Orl.
+
+Ĉiam, kaj unu tagon aldone.
+
+Roz.
+
+Diru "unu tagon," ellasante la "ĉiam." Ne, Orlando; viroj estas
+aprilo kiam ili amindumas, decembro kiam ili edziĝas; fraŭlinoj
+estas majo kiam ili estas fraŭlinoj, sed la vetero ŝanĝiĝas kiam
+ili fariĝas edzinoj. Mi estos pli ĵaluza je vi ol Berbera kolombo
+estas ĵaluza je la kolombino; mi estos pli kriema kontraŭ vi ol
+papago estas kriema kontraŭ la pluvo. Mi ploros pro nenio, same kiel
+Diano en la fontano, kaj mi ploros kiam vi volos esti gaja: mi ridos
+kiel hieno, precipe kiam vi volos dormi.
+
+Orl.
+
+Sed ĉu mia Rozalindo tiamaniere kondutos?
+
+Roz.
+
+Je mia vivo, ŝi kondutos same kiel mi.
+
+Orl.
+
+Ne, ŝi estas saĝa.
+
+Roz.
+
+Jes, alie ŝi ne estus sufiĉe saĝa por fari ĉi tion: ju pli saĝa, des
+pli petola: fermu la pordojn por reteni virinan spritecon, kaj ĝi
+eliros el la fenestro; fermu tiun, kaj ĝi eliros el la seruro; fermu
+tiun, kaj ĝi elflugos kune kun la fumo de la kamentubo.
+
+Orl.
+
+Mi devos vin lasi sola, Rozalindo, la venontajn du horojn.
+
+Roz.
+
+Ho ve, kara amato, mi ne povas elporti vian foreston dum du horoj!
+
+Orl.
+
+Mi devos servi la Dukon je la tagmeza manĝo; je la dua mi estos ree
+ĉe vi.
+
+Roz.
+
+Jes, iru vian vojon; mi scias kia vi estos pruvata; mia amiko diris
+tion al mi, kaj mi ne malpli ĝin suspektis; tiu flatloga lango via
+gajnis mian koron; estante malproksima nur unu ĵeton, venu, tial,
+ho morto! La dua estas la decidita horo?
+
+Orl.
+
+Jes, dolĉa Rozalindo.
+
+Roz.
+
+Je mia fido, kaj plej serioze, kaj je ĉiuj beletaj ĵuroj, kiuj ne
+estas danĝeraj, se vi ne plenumos vian promeson, aŭ se vi venos unu
+minuton post la decidita horo, mi pensos vin la plej kompatinda
+malplenumanto de promesoj, kaj plej falsa amanto, kaj plej malinda
+je Rozalindo, kiun oni povus elekti el la aroj da nefideluloj. Tial,
+evitu mian riproĉon, kaj plenumu vian promeson.
+
+Orl.
+
+Mi ĝin plenumos tiel solene kvazaŭ vi estus efektive mia Rozalindo;
+tial, adiaŭ.
+
+Roz.
+
+Nu, la Tempo estas la maljuna juĝisto kiu esploras pri ĉiu tia
+ofendanto; tial, la Tempo juĝu. Adiaŭ.
+
+[Orlando foriras.]
+
+Cel.
+
+Vi ja malbone kondutis kontraŭ nia sekso en via amparolado.
+
+Roz.
+
+Ho kuzineto, kuzineto, mia kara kuzineto, ke vi komprenu kiel
+profunde mi enamiĝis! Sed oni ne povus sondi mian amon: ĝi havas
+nekonatan fundon, same kiel la golfo Portugala.
+
+Cel.
+
+Pli kredeble ĝi estas senfunda; tuj kiam vi enverŝas amon, la amo
+elverŝiĝos.
+
+Roz.
+
+Ne, tiu sama fileto de Venuso, kiun naskis la pensado, la kolereto,
+kaj la frenezo, tiu blinda petola knabo, kiu atakas ĉies okulojn
+pro tio, ke liaj propraj ne vidas,--li decidu kiel profunde mi
+enamiĝis. Mi diras al vi, Alieno, mi ne povas elporti la foreston de
+Orlando: mi foriros por trovi ombritan lokon kie mi povos sopiri ĝis
+kiam li venos.
+
+Cel.
+
+Kaj mi dormos.
+
+[Ambaŭ foriras.]
+
+
+
+SCENO II.
+
+La arbaro.
+
+
+Eniras Jakveso, lordoj, kaj arbaristoj.
+
+Jak.
+
+Kiu estas li kiu mortigis la cervon?
+
+Lordo.
+
+Estas mi, Sinjoro.
+
+Jak.
+
+Ni lin prezentos al la Duko, kiel Romanan venkinton, kaj estus bone
+meti la kornojn de la cervo sur lian kapon, por venkobranĉo. Ĉu vi
+ne havas kanton, arbaristo, por ĉi tio?
+
+Arb.
+
+Jes, Sinjoro.
+
+Jak.
+
+Ĝin kantu; la melodio estas negrava, se nur ĝi faras sufiĉe da bruo.
+
+KANTO.
+
+Arb.
+
+  Cervon li trafis ja por ni,
+  La felon, kornojn, portu li.
+    Lin kantu hejmen.
+
+[Ceteraj kantas rekantaĵon.]
+
+  Ne estu je la korn' hontem'.
+  Ekzistis ĝi antaŭ vi mem:
+    Ĝin via avo portis,
+    Kaj ĝin la patro portis.
+  La korn', la korn', la brava korn',
+  Ho ne mokinda tiu korn'.
+
+[Ĉiuj foriras.]
+
+
+
+SCENO III.
+
+La arbaro.
+
+
+Eniras Rozalindo kaj Celio.
+
+Roz.
+
+Kion vi opinias nun? Ĉu ne estas jam post la dua? Kaj Orlando ne
+ĉeestas!
+
+Cel.
+
+Mi kredas certe, ke pro pura amo kaj maltrankvila cerbo, li prenis
+sian pafarkon kaj sagojn, kaj foriris por dormi. Rigardu, kiu venas
+ĉi tien?
+
+Eniras Silvio.
+
+Sil.
+
+  Junulo bela, jen por vi sendaĵo:
+  Febino mia kara sendis ĝin.
+  La enhavaĵon mi ne konas, tamen,
+  Pro ŝia frunt' severa, dum ŝi skribis,
+  Kaj akra maniero, mi suspektas
+  Ke ĝi koleran sencon havas; tial
+  Pardonu min, senkulpan alportinton.
+
+Roz.
+
+  La Paciencon mem surprizus tia
+  Letero, kaj ŝi ludus fanfarulon;
+  Nu, oni, kiu tion ĉi elportus,
+  Elportus ĉion: jen ŝi min sciigas
+  Ke mi nebela, malĝentila estas;
+  Ŝi nomas min fiera, kaj informas,
+  Ke ŝi ne povus ami min, se viroj
+  Malmultenombraj kiel la feniksoj
+  Fariĝus! Nu, je mia fido! Mi
+  Ne celas ŝian amon! Kial do
+  Ŝi skribis al mi tiel? Vi, paŝtisto,
+  Vi mem elverkis tiun ĉi leteron.
+
+Sil.
+
+  Ne, mi insistas tute ne mi konas
+  La enhavaĵon. Ĝin Febino skribis.
+
+Roz.
+
+  Ho, malsaĝulo. Vi venkita estas
+  De Amo. Mi ekvidis ŝian manon;
+  Ŝi havas ledan manon, kaj malpalan;
+  Mi ja supozis ke ŝi portas gantojn,
+  Sed estis ŝiaj manoj; ŝi ja havas
+  La manojn de laboristino. Tamen
+  Negrava estas tio. Mi deklaras
+  Ke ŝi ne verkis tiun ĉi leteron.
+  Ne, viro ĝin elverkis, kaj ĝin skribis.
+
+Sil.
+
+  Certe, ŝi skribis ĝin.
+
+Roz.
+
+  Kruela kaj bruega stil' enestas,
+  Eĉ por la elvokantoj al batalo:
+  Ŝi min insultas: la virina cerbo
+  Ne povus naski tian malĝentilan
+  Verkaĵon, tiel etiopajn vortojn,
+  Pli nigrajn laŭ efekto ol mieno.
+  Ĉu vi deziras aŭdi la leteron?
+
+Sil.
+
+  Se plaĉas al vi, ĉar mi ne ĝin aŭdis;
+  Pli multe tamen pri la krueleco
+  De Febineto jam aŭdinte.
+
+Roz.
+
+                           Aŭdu
+  Laŭ kia modo la tirano skribis:
+
+[legas]
+
+    Ĉu vi paŝtist' el di' fariĝis,
+    Ke kor' virina enamiĝis?
+  Ĉu virino povas tiamaniere riproĉegi?
+
+Sil.
+
+  Ĉu vi nomas tion riproĉego?
+
+Roz. [legas]
+
+    Ĉu demetante la diecon,
+    Vi tial mokas koramecon?
+  Ĉu iam vi aŭdis tian riproĉegon?
+    Dum nuraj viroj amindumis,
+    Nenian vundon ĝi plenumis.
+  Ŝi nomas min bruto.
+    Se moko el l' okuloj viaj
+    La amon naskas en la miaj,
+    Ho ve, do kion ili naskus,
+    Se sub mildeco ili maskus!
+    Mi amis vin, malgraŭ riproĉoj,
+    Do kiom gajnus viaj petoj!
+    Li kiu portas tion al vi
+    Ne scias pri la amon en mi;
+    Per li decidon diru vian
+    Ĉu vi akceptos l' amon mian;
+    Se vi rifuzos la proponon,
+    Havante en la koro ŝtonon,
+    Se tion devos li raporti,
+    Mi tuj eltrovos kiel morti.
+
+Sil.
+
+Ĉu vi nomas ĉi tion riproĉo?
+
+Cel.
+
+Ho ve, kompatinda paŝtisto!
+
+Roz.
+
+Ĉu vi lin kompatas? Ne, li ne meritas kompaton. Ĉu vi volas ami tian
+virinon? Jen, ŝi faras el vi instrumenton, por muziki je vi falsajn
+tonojn! Tio estas neelportebla! Nu, iru vian vojon al ŝi,--ĉar mi
+vidas ke la amo jam faris el vi dresitan rampaĵon,--kaj diru ĉi tion
+al ŝi: ke se ŝi min amas, mi ordonas al ŝi ke ŝi vin amu; kaj se ŝi
+ne obeos, mi ne ŝin akceptos, escepte se vi pro ŝi pledos. Se vi
+estas vera amanto, foriru, ne respondante; ĉar jen venas aliaj
+personoj.
+
+[Silvio foriras.]
+
+Eniras Olivero.
+
+Oli.
+
+  Amikoj, bonan tagon! Ĉu vi scias
+  En tiu ĉi landparto kie staras
+  Domet' de olivarboj enbarita?
+
+Cel.
+
+  Jes, okcidente, en valet' apuda:
+  Tenante je la dekstra tiun vicon
+  De saliketoj, laŭ la rivereto
+  Murmuretanta tie, vi alvenos
+  Al tiu eta domo. Sed nuntempe
+  Neniu ĉe ĝi estas.
+
+Oli.
+
+                     Se mi juĝas
+  Laŭ priskribaĵ' donita, mi vin konas:
+  Ĉar oni diris, "La junulo estas
+  Virinsimila, blonda, kaj kondutas
+  Kiel fratin' matura: la virino
+  Malalta estas, kaj pli brunvizaĝa
+  Ol sia frato:" Ĉu vi mem ne estas
+  La posedanto de l' serĉata domo?
+
+Cel.
+
+  Sen fanfaron' ni diros, jes, ni estas.
+
+Oli.
+
+  Orlando al vi sin rememorigas,
+  Sendante nun al tiu ĉi junulo
+  --De li nomita lia Rozalindo,--
+  La jenan sangkovritan poŝotukon.
+  Ĉu vi li estas?
+
+Roz.
+
+                  Jes. Pri kio do
+  Ni devus nun el tio ĉi sciiĝi?
+
+Oli.
+
+  Pri hontindaĵo mia; se vi volas
+  De mi sciiĝi kia vir' mi estas,
+  Kaj kiel, kial, kie la poŝtuko
+  Sangmakulita estas.
+
+Cel.
+
+                     Jes, rakontu!
+
+Oli.
+
+  Orlando, kiam li de vi foriris,
+  Promesis al vi ke post unu horo
+  Li tuj revenos. Tiam tra l' arbaro,
+  Jen dolĉe jen maldolĉe meditante,
+  Formarŝis li. Aŭskultu kio okazis!
+  Ekrigardante flanken, li ekvidis,--
+  Sub kverko kies branĉojn maljuneco
+  Je musko kovris, kies alta supro
+  Pro antikveco tute nuda estis,--
+  Mizeran ĉifonulon, nerazitan,
+  Kaj nekombitan, kiu dormis tie.
+  Kaj ĉirkaŭ lia kolo sin kunplektis
+  Serpent' orverda, kiu sian kapon
+  Alproksimigis, vigle minacante,
+  Al lia buŝo. Tiam ĝi, subite
+  Orlandon ekvidinte, sin malplektis,
+  Kaj per glitad' onduma, tuj forrampis
+  Sub arbetaĵon. En ĉi ties ombro
+  Jen kaŭris leonino, kies mamoj
+  Jam elsuĉitaj estis, kun la kapo
+  Surtere, rigardante katsimile
+  Ĝis kiam ekmoviĝos la dormanto.
+  Ĉar estas laŭ la reĝa karaktero
+  De tiu besto, ke ĝi manĝokaptos
+  Nenion, kio ŝajnas jam mortinta.
+  Vidinte tion ĉi, Orlando iris
+  Proksimen de la viro,--kiu estis
+  La pli maljuna frato, lia propra!
+
+Cel.
+
+  Ho, mi lin ofte aŭdis parolanta
+  Pri tiu frato, kaj li nomis lin
+  La plej kontraŭnatura kiu iam
+  Ekzistis inter homoj.
+
+Oli.
+
+                       Juste tiel
+  Li nomis lin, ĉar mi mem bone scias
+  Ke li kontraŭnatura estis.
+
+Roz.
+
+                             Sed pri
+  Orlando: Ĉu li lasis tiun tie
+  Por formanĝata esti de l' malsata
+  Kaj mamsuĉita leonin'?
+
+Oli.
+
+                         Dufoje
+  Li forturniĝis, tion intencante,
+  Sed bonkorec', pli nobla ol revenĝo,
+  Kaj la Naturo, pli potenca ol
+  Okazo rajtigita, lin devigis
+  Batali kontraŭ tiu leonino;
+  Rapide mortis ŝi per lia mano:
+  Kaj meze de la brua batalado
+  Vekiĝis mi.
+
+Cel.
+
+              Ĉu vi la frato estas?
+
+Roz.
+
+  Ĉu estas vi do kiun li mem savis?
+
+Cel.
+
+  Vi estas tiu, kiu tiel ofte
+  Penadis lin mortigi?
+
+Oli.
+
+                       Estis mi,
+  Sed ne plu estas mi la sama viro;
+  Kaj mi ne hontas, al vi klarigante
+  Eĉ kia mi ja estis, tial ke
+  La konvertiĝo mia al mi donas
+  Tre dolĉan senton, per komparo nuna
+  Al tio, kio mi antaŭe estis.
+
+Roz.
+
+  Sed pri l' poŝtuko, tiu sangkovrita?
+
+Oli.
+
+  Mi tuj klarigos: kiam ni kun larmoj
+  Kaj plej amike unu al l' alia
+  Rakontis ĉion ĝis nun okazintan,--
+  Ekzemple, kiel mi alvenis tien,--
+  Mallongavorte, li min alkondukis
+  Al tiu bona Duko, kiu donis
+  Vestaĵon puran al mi, kaj nutraĵon,
+  Rekomendante min je l' amo zorga
+  De mia frato, kiu, min rapide
+  Al sia groto kondukinte, tie
+  Sin senvestigis: kaj sur lia brako
+  La leonino estis forŝirinta
+  De l' karno iom; kaj la tutan tempon
+  La vundo estis ellasinta sangon;
+  Li svenis tiam; kaj svenante kriis
+  Je Rozalindo; nu, mallongavorte,
+  Mi lin rekonsciigis, kaj bandaĝis.
+  Kaj post nelonga tempo, li, estante
+  Fortkora, min ĉi tien al vi sendis,
+  Eĉ kvankam nekonatan, por rakonti
+  L' okazintaĵon tutan, por ke vi
+  Pardonu al li la promeson lian
+  Malplenumitan; ankaŭ por transdoni
+  Poŝtukon tiun ĉi, sangmakulitan
+  Je lia sango, al la juna viro
+  Paŝtista, kiun li ŝerceme nomas
+  La Rozalindo lia.
+
+[Rozalindo svenas.]
+
+Cel.
+
+                    Ganimedo!
+  Ho Ganimedo! Kara Ganimedo!
+
+Oli.
+
+  Personoj multaj svenas, ekvidante
+  La sangon.
+
+Cel.
+
+            Ne, pli grava la kialo!
+  Ho, Ganimedo! Kara Ganimedo!
+
+Oli.
+
+  Sed jen, li jam rekonsciiĝas iom.
+
+Roz.
+
+  Ho ke mi nur ĉehejme estu nun!
+
+Cel.
+
+  Ni alkondukos vin rapide tien.
+  Mi petas, ĉu vi lin je l' brako prenos?
+
+Oli.
+
+Estu kuraĝa, junulo! Ĉu vi estas viro? Vi ne havas viran koron!
+
+Roz.
+
+Ne, mi konfesas tion! Nu, Sinjoro, ĉu oni ne konsentus ke mi bone
+ŝajnigis tion? Mi petas al vi, diru al via frato kiel bone mi
+ŝajnigis. He, ho!
+
+Oli.
+
+Ĉi tio ne estis ŝajnigado: via vizaĝkoloro tro klare atestas ke ĝi
+estis reala sufero.
+
+Roz.
+
+Ŝajnigita, mi certigas al vi.
+
+Oli.
+
+Nu do, estu kuraĝa, kaj ŝajnigu la virecon.
+
+Roz.
+
+Tion mi faras: sed, efektive, laŭrajte mi devus esti virino.
+
+Cel.
+
+Venu, vi fariĝas pli kaj pli pala; mi petas al vi, iru hejmen.
+
+Oli.
+
+  Mi iros, ĉar mi devas tuj raporti
+  Al mia frato, kiamaniere
+  Vi lin pardonas, Rozalindo lia.
+
+Roz.
+
+Mi elpensos ion. Sed, mi petas ke vi laŭdu al li mian ŝajnigadon.
+
+[Ĉiuj foriras.]
+
+
+
+
+AKTO V.
+
+
+
+SCENO I.
+
+La arbaro.
+
+
+Eniras Tuŝ-ŝtono kaj Aŭdreo.
+
+Tuŝ.
+
+Ni trovos okazon, Aŭdreo; estu pacienca, bona Aŭdreo.
+
+Aŭd.
+
+Certe, la pastro estis sufiĉe taŭga, spite ĉio, kion la maljuna
+sinjoro diris.
+
+Tuŝ.
+
+Li estas tre malbona Siro Olivero, Aŭdreo, tre malbonega Siro
+Martekst. Sed, Aŭdreo, estas junulo ĉi tie en la arbaro, kiu
+pretendas al vi.
+
+Aŭd.
+
+Jes, mi scias kiu li estas; li havas nenian rajton al mi. Jen venas
+la viro kiun vi intencas.
+
+Tuŝ.
+
+Vidi ŝercemulon estas kvazaŭ nutraĵo kaj trinkaĵo al mi: je mia
+fido, oni, kiu havas bonan spriton, estas respondeca; ni devas moki;
+ni ne povas nin deteni de tio.
+
+Eniras Gulielmo.
+
+Gul.
+
+Bonan vesperon, Aŭdreo.
+
+Aŭd.
+
+Bonan vesperon, Gulielmo.
+
+Gul.
+
+Kaj bonan vesperon al vi, Sinjoro.
+
+Tuŝ.
+
+Bonan vesperon, amiko mia. Remetu la ĉapon, remetu la ĉapon; ne, mi
+petas al vi, remetu la ĉapon. Kiom da jaroj vi havas, amiko mia?
+
+Gul.
+
+Dudek kvin, Sinjoro.
+
+Tuŝ.
+
+Tio estas matura aĝo. Ĉu via nomo estas Gulielmo?
+
+Gul.
+
+Gulielmo, Sinjoro.
+
+Tuŝ.
+
+Bona nomo. Ĉu vi naskiĝis en ĉi tiu arbaro?
+
+Gul.
+
+Jes, Sinjoro, mi dankas al Dio.
+
+Tuŝ.
+
+"Mi dankas al Dio,"--bona respondo. Ĉu vi estas riĉa?
+
+Gul.
+
+Nu, do, Sinjoro, nur iomete.
+
+Tuŝ.
+
+"Iomete" estas bona, bonega, tre bonega stato; kaj tamen ĝi ne estas
+bona; ĝi estas nur iomete bona. Ĉu vi estas saĝa?
+
+Gul.
+
+Jes, Sinjoro, mi havas lertan spritecon.
+
+Tuŝ.
+
+Nu, vi bone respondas. Mi nun rememoras sentencon jenan; "la
+malsaĝulo sin pensas saĝa, sed la saĝulo rekonas sian malsaĝecon."
+La idolana filozofo, kiam li deziris manĝi vinberojn, kutime
+malfermis la lipojn kiam li alproksimigis al ili la vinberojn,
+intencante montri tiamaniere, ke vinberojn estas kreitaj por esti
+manĝataj, kaj lipojn por malfermiĝi. Vi amas ĉi tiun fraŭlinon?
+
+Gul.
+
+Mi amas ŝin, Sinjoro.
+
+Tuŝ.
+
+Donu al mi la manon. Ĉu vi estas klera?
+
+Gul.
+
+Ne, Sinjoro.
+
+Tuŝ.
+
+Do, lernu jene de mi: havi estas havi; ĉar estas retorikaĵo, ke
+trinkaĵo, elversite el pokalo en glason, plenigas la glason, kaj
+malplenigas la pokalon; ĉar ĉiu el la verkistoj konsentas ke
+_ipse_ estas tiu; nu, vi ne estas _ipse_, ĉar mi mem estas tiu.
+
+Gul.
+
+Kiu vi estas, Sinjoro?
+
+Tuŝ.
+
+Mi estas tiu, kiu devas edziĝi je ĉi tiu virino. Tial, vi, grimaculo,
+foriru de la ĉeesto de ĉi tiu ina estaĵo,--de ĉi tiu virino,--aŭ,
+grimaculo, vi pereos; aŭ, kiel vi pli bone komprenos, vi mortos; tio
+estas, mi vin mortigos, vin forigos; mi ŝanĝos vian vivon en morton,
+vian liberecon en sklavecon; mi agos kontraŭ vi per veneno, per
+bastonfrapado, per glavo; mi kontraŭstaros vin per argumentoj; mi
+vin superos per strategio; laŭ cent kvindek modoj mi vin mortigos.
+Tial, tremu, kaj foriru.
+
+Aŭd.
+
+Jes, faru tion, bona Gulielmo.
+
+Gul.
+
+Dio vin gardu, Sinjoro.
+
+[Li foriras.]
+
+Eniras Koreno.
+
+Kor.
+
+Niaj gemastroj vin serĉas; venu, for, for!
+
+Tuŝ.
+
+Paŝetu, Aŭdreo! Paŝetu, Aŭdreo! Mi venos, mi venos.
+
+[Ĉiuj foriras.]
+
+
+
+SCENO II.
+
+La arbaro.
+
+
+Eniras Orlando kaj Olivero.
+
+Orl.
+
+Ĉu estas eble ke post tiel mallonga konatiĝo vi ŝin estimus? ke nur
+vidinte ŝin, vi ŝin amus? ke amante ŝin, vi lin amindumus? ke li vin
+akceptus? kaj ĉu vi daŭrigos tion?
+
+Oli.
+
+Ne diskutu pri la kapricemo de ĉi tio, nek pri ŝia malriĉeco, nek
+pri la mallonga konatiĝo, nek la subita amindumado, nek ŝia subita
+konsento; sed diru kun mi, ke mi amas Alienon; diru kun ŝi ke ŝi min
+amas: donu vian konsenton al ni ambaŭ: tio vin prosperigos; ĉar mi
+donos al vi por via heredaĵo la domon de mia patro, kaj ĉiom de la
+rento kiun Siro Rolando posedis; ĉi tie mi vivos kaj mortos paŝtisto.
+
+Orl.
+
+Vi havas mian konsenton. Via edziĝo okazu morgaŭ: tien mi invitos la
+Dukon kaj ĉiun el liaj kontentaj sekvantoj. Iru vi kaj preparu
+Alienon; ĉar, rigardu, jen venas mia Rozalindo.
+
+Eniras Rozalindo.
+
+Roz.
+
+Dio vin gardu, frato mia.
+
+Oli.
+
+Kaj vin, fratino mia.
+
+[Li foriras.]
+
+Roz.
+
+Ho, mia kara Orlando, kiel mi malĝojas, vidante ke vi portas vian
+koron en skarpo!
+
+Orl.
+
+Ĝi estas mia brako.
+
+Roz.
+
+Mi pensis ke vian koron vundis la ungegoj de leono.
+
+Orl.
+
+Ĝi estas vundita, sed de virinaj okuloj.
+
+Roz.
+
+Ĉu via frato rakontis al vi kiamaniere mi ŝajnigis svenadon, kiam li
+montris al mi vian poŝtukon?
+
+Orl.
+
+Jes, kaj ankoraŭ pli mirindajn aferojn.
+
+Roz.
+
+Ho, mi scias kion vi intencas: jes, ĝi estas vera; neniam estis io
+tiel subita, escepte de brutobatalo, aŭ tiu fanfarona diraĵo de
+Cezaro, "Mi venis, vidis, venkis." Ĉar tuj kiam via frato kaj mia
+fratino renkontis unu la alian, ili reciproke sin rigardis; tuj kiam
+ili rigardis unu la alian, ili reciproke sin amis, tuj kiam ili amis
+unu la alian, ili reciproke sopiris; tuj kiam ili sopiris, ili
+serĉis la kialon, kaj eltrovinte la kialon, ili serĉis la kuracilon;
+per tiaj gradoj ili faris ŝtuparon al edziĝo, kiun ili senprokraste
+supren iros; ili amas fervorege; kaj volas esti kune; bastonegoj ne
+povas ilin apartigi.
+
+Orl.
+
+Ili edziĝos morgaŭ, kaj mi invitos la Dukon al la edziĝo. Sed ho,
+kiel maldolĉe estas enrigardi en feliĉecon per la okuloj de alia
+viro! Ju pli mi pensos morgaŭ ke mia frato, atinginte tion, kion li
+deziras, estos feliĉa, des pli mi estos kiel eble plej malĝoja!
+
+Roz.
+
+Ĉu mi ne povos morgaŭ fari al vi servon, anstataŭante Rozalindon?
+
+Orl.
+
+Mi ne povas plu vivi per la pensado.
+
+Roz.
+
+Tial mi ne plu vin enuigos per vana parolado. Sciiĝu tial, ĉar nun
+mi parolas serioze, ke mi scias ke vi estas sinjoro kun bona
+inteligento. Mi ne diras ĉi tion por ke vi estimu mian sciadon, ĉar
+mi diras ke mi scias tion; mi deziras de vi nur tiom da estimo, kiom
+vin devigas kredi je mi, por helpi min, ne por gajni al mi laŭdon.
+Kredu, do, mi petas, ke mi povas elfari strangaĵojn. Depost kiam mi
+havis tri jarojn, mi ofte interparolis kun magiisto, majstro en lia
+arto, tamen ne kondemninda. Se vi ja amas Rozalindon tiel kore, kiel
+via gesto atestas, vi edziĝos je ŝi tiam, kiam via frato edziĝos je
+Alieno. Mi scias kiamaniere la malbonŝanco ŝin premegas, kaj ne
+estas neeble al mi, se ne estos maloportune al vi, ŝin meti antaŭ
+viajn okulojn morgaŭ, en ŝia homa formo, tute sen danĝero.
+
+Orl.
+
+Ĉu vi parolas kun serioza intenco?
+
+Roz.
+
+Jes, je mia vivo; kiun mi alte taksas, kvankam mi diras ke mi estas
+magiisto. Tial, vin plej bele vestu; invitu viajn amikojn; ĉar se
+vi deziras edziĝi morgaŭ, vi povos; kaj je Rozalindo, se vi deziras.
+
+Eniras Silvio kaj Febino.
+
+Rigardu, jen venas amantino mia, kaj amanto ŝia.
+
+Feb.
+
+  Junulo, vi tre malĝentila estis,
+  Montrinte tiun letereton mian.
+
+Roz.
+
+  Negrava tio estas; mi deziras
+  Malica, malĝentila al vi ŝajni;
+  Jen sekvas vin paŝtisto tre fidela;
+  Rigardu, amu lin; li vin adoras.
+
+Feb.
+
+  Paŝtisto, diru kio l' amo estas.
+
+Sil.
+
+  El larmoj kaj sopiroj ĝi konsistas;
+  Kaj tia por Febino estas mi.
+
+Feb.
+
+  Por Ganimedo, tia estas mi.
+
+Orl.
+
+  Por Rozalindo, tia estas mi.
+
+Roz.
+
+  Ne tia, por virino, estas mi.
+
+Sil.
+
+  El fido kaj servemo ĝi konsistas;
+  Kaj tia por Febino estas mi.
+
+Feb.
+
+  Por Ganimedo, tia estas mi.
+
+Orl.
+
+  Por Rozalindo, tia estas mi.
+
+Roz.
+
+  Ne tia, por virino, estas mi.
+
+Sil.
+
+  El fantazio tute ĝi konsistas;
+  Kaj tute el sopiroj kaj pasio,
+  El adorado kaj el servemado,
+  El humileco, kaj el pacienco,
+  Kaj el malpacienco, kaj pureco,
+  El la provado kaj el rigardado;
+  Kaj tia por Febino estas mi.
+
+Feb.
+
+  Por Ganimedo, tia estas mi.
+
+Orl.
+
+  Por Rozalindo, tia estas mi.
+
+Roz.
+
+  Ne tia, por virino, estas mi.
+
+Feb.
+
+  Se tio estas vera, kial vi
+  Min malaprobas, ĉar mi amas vin?
+
+Sil.
+
+  Se tio estas vera, kial vi
+  Min malaprobas ĉar mi amas vin?
+
+Orl.
+
+  Se tio estas vera, kial vi
+  Min malaprobas ĉar mi amas vin?
+
+Roz.
+
+Al kiu vi parolas, dirante "Kial vi min malaprobas ĉar mi amas vin?"
+
+Orl.
+
+Al ŝi forestanta, ne aŭdanta.
+
+Roz.
+
+Mi petas al vi, neniom plu da ĉi tio; ĝi similas la blekado de
+Irlandaj lupoj kontraŭ la luno. [al Sil.] Mi helpos al vi se mi
+povas. [al Feb.] Mi edziĝos je vi, se iam mi edziĝos je virino,
+kaj mi ja edziĝos morgaŭ. [al Orl.] Mi vin kontentigos, se iam
+mi iun ajn kontentigis, kaj vi morgaŭ edziĝos. [al Sil.] Mi vin
+kontentigos, se tio, kio al vi plaĉas, vin kontentigas, kaj morgaŭ
+vi edziĝos. [al Orl.] Se vi amas Rozalindon, venu al la rendevuo.
+[al Sil.] Se vi amas Febinon, venu al la rendevuo; kaj, ĉar mi
+amas neniun virinon, mi venos al la rendevuo. Tial, adiaŭ: mi donis
+al vi ordonojn.
+
+Sil.
+
+Mi ne forestos, se mi vivos.
+
+Feb.
+
+Nek mi.
+
+Orl. Nek mi.
+
+[Ĉiuj foriras.]
+
+
+
+SCENO III.
+
+La arbaro.
+
+
+Eniras Tuŝ-ŝtono kaj Aŭdreo.
+
+Tuŝ.
+
+Morgaŭ estos la ĝoja tago, Aŭdreo; morgaŭ ni edziĝos.
+
+Aŭd.
+
+Kaj mi tutkore tion deziras; kaj esperas ke la deziro esti edzigita
+virino estas nenia malhonesta deziro. Jen venas du el la paĝioj de
+la forpelita Duko.
+
+Eniras du paĝioj.
+
+Unua Paĝio.
+
+Bone renkontita, honesta sinjoro.
+
+Tuŝ.
+
+Je mia fido, bone renkontita. Venu, sidiĝu, sidiĝu, kaj kantu.
+
+Dua Paĝio.
+
+Ni estas je via dispono: sidiĝu inter ni.
+
+Unua Paĝio.
+
+Ĉu ni tuj komencu, ne tusinte, ne kraĉinte, ne dirinte ke ni estas
+raŭkaj, kio estas nur la prologo al malbonsona voĉo?
+
+Dua Paĝio.
+
+Certe, certe; kaj ambaŭ en akordo, kiel du ciganoj sur ĉevalo.
+
+KANTO
+
+  Vagis amanto kaj knabin',
+  Kun la hej, kaj la ho, kaj la hej noni no,
+  Kaj en la kampoj trovis sin,
+  En la printemp', la sola bela ringtemp',
+  Nun kantas fring', hej ding a ding ding,
+  Amantoj amas ĝin.
+
+  Inter la kampoj de sekal',
+  Kun la hej, kaj la ho, kaj la hej noni no,
+  Kuŝadis ili en la val',
+  En la printemp', k. t. p.
+
+  Ekkantis ili je la hor',
+  Kun la hej, kaj la ho, kaj la hej noni no,
+  Ke vivo estas nura flor',
+  En la printemp', k. t. p.
+
+  Ho, ĝoju dum la estantec',
+  Kun la hej, kaj la ho, kaj la hej noni no,
+  Ĉar kronas amon maturec',
+  En la printemp', k. t. p.
+
+Tuŝ.
+
+Vere, junaj sinjoroj, kvankam estis nenia granda materialo en la
+kanteto, tamen la ario estis tre malbelsona.
+
+Unua Paĝio.
+
+Vi vin trompas, Sinjoro; ni kantis laŭtakte, kaj ne perdis la
+taktotempon.
+
+Tuŝ.
+
+Je mia fido, jes; mi pensas la tempon perdita, dum kiu mi aŭdis tiel
+malspritan kanton! Adiaŭ; kaj Dio plibonigu al vi la voĉojn. Venu,
+Aŭdreo.
+
+[Ĉiuj foriras.]
+
+
+
+SCENO IV.
+
+La arbaro.
+
+
+Eniras la Duko, Amienso, Jakveso, Orlando, Olivero, kaj Celio.
+
+La Duko.
+
+  Orlando, ĉu vi kredas ke l' junulo
+  Elfaros ĉion, kion li promesis?
+
+Orl.
+
+  Ho, jen mi kredas, jen mi ne ĝin kredas;
+  Simile ja al tiu, kiu timas
+  Ke li esperas, dum li scias ke
+  Li timas.
+
+Eniras Rozalindo, Silvio, kaj Febino.
+
+Roz.
+
+           Estu pacienca, dum
+  Mi citas la kontrakton: do, vi diras
+  Ke, se mi alkondukos Rozalindon,
+  Vi donos ŝin al tiu ĉi Orlando?
+
+La Duko.
+
+  Mi certe donus ŝin, se mi posedus
+  Reĝlandojn por kundoni.
+
+Roz.
+
+                         Kaj vi diras
+  Ke vi akceptos ŝin, alkondukitan?
+
+Orl.
+
+  Mi certe ŝin akceptus, se mi estus
+  La reĝo de eĉ ĉiuj reĝolandoj.
+
+Roz.
+
+  Vi diras, ke kun mi vi edziniĝos,
+  Se mi konsentos?
+
+Feb.
+
+                   Jes, mi edziniĝos,
+  Kun vi, eĉ se mi mortus horon poste.
+
+Roz.
+
+  Se vi rifuzos je min edziniĝi,
+  Vi donos vin al la paŝtist' fidela?
+
+Feb.
+
+Kontrakto tio estas.
+
+Roz.
+
+  Se ŝi konsentos, vi Febinon prenos?
+
+Sil.
+
+  Eĉ kvankam havi ŝin la morto estus!
+
+Roz.
+
+  Elfari ĉion ĉi mi jam promesis:
+  Plenumu, Duko, la promeson vian,
+  Ke vi filinon donos. Vi, Orlando,
+  Plenumu vian, ke vi ŝin akceptos:
+  Kaj vi, Febino, ke vi edziniĝos
+  Je mi, aŭ rifuzinte min, ke vi
+  Je tiu ĉi paŝtisto edziniĝos:
+  Silvio, vi plenumu vian, ke vi
+  Je ŝi edziĝos, se ŝi min rifuzos:
+  Kaj de ĉi tie mi foriros nun
+  Por ĉion ĉi efektivigi bone.
+
+[Rozalindo kaj Celio foriras.]
+
+La Duko.
+
+  En tiu ĉi junulo mi rekonas
+  Ja kelkajn trajtojn de l' filino mia.
+
+Orl.
+
+  Ho, via moŝto, kiam mi unue
+  Lin vidis, mi supozis ke li estas
+  La frato de l' filino via. Tamen,
+  Naskiĝis en l' arbaro la junulo,
+  Kaj lin instruis, pri la elementoj
+  De multaj riskaj studoj, lia onklo,
+  Tre fama magiisto li lin nomas,
+  Kaŝita ie ajn en la arbaro.
+
+Eniras Tuŝ-ŝtono kaj Aŭdreo.
+
+Jak.
+
+Certe, alia superakvego okazos, kaj ĉi tiuj duoj venas el la arkeo.
+Jen venas paro da tre strangaj bestoj, kiujn en ĉiu lingvo oni nomas
+ŝercemuloj.
+
+Tuŝ.
+
+Mi salutas vin ĉiujn.
+
+Jak.
+
+Via moŝto, lin bonvenu: ĉi tiu estas la multkolorulo kiun mi ofte
+renkontis en la arbaro. Li ĵuras ke li antaŭe estis kortegano.
+
+Tuŝ.
+
+Se iu dubas pri tio, li min provu. Mi estas dancinta; mi estas
+flatinta sinjorinon; mi estis diplomata kun mia amiko, kaj
+glatparolema kun mia malamiko; mi ruinigis tri tajlorojn; mi havis
+kvar malpacojn, kaj preskaŭ duelis pri unu.
+
+Jak.
+
+Kaj kiel vi ree paciĝis?
+
+Tuŝ.
+
+Nu, ni renkontis unu la alian, kaj trovis ke la malpaco estas je la
+sepa kialo.
+
+Jak.
+
+Kiel, je la sepa kialo? Via moŝto, ŝatu ĉi tiun viron.
+
+La Duko.
+
+Mi tre lin ŝatas.
+
+Tuŝ.
+
+Dio vin rekompencu, via moŝto; mi volas la saman al vi; mi venas ĉi
+tien, inter la aliaj edziĝemuloj, por ĵuri kaj por ĵurorompi, tiel,
+kiel la edzigo kunligas, kaj la naturo disrompas: ŝi estas
+malaltvalora virgulino, Sinjoro, malbelaĵo, Sinjoro, sed mia propra;
+estas kompatinda humoro mia, Sinjoro, preni tion, kion neniu alia
+deziras; sufiĉega ĉasteco, kiel avarulo, loĝas en malbona domo,
+Sinjoro; same kiel la perlo troviĝas en la malpura ostro.
+
+La Duko.
+
+Je mia fido, li estas tre rapidpensa, kaj sentencoplena.
+
+Tuŝ.
+
+Laŭ la sago de l' ŝercemulo, Sinjoro, kaj aliaj similaj doloroj.
+
+Jak.
+
+Sed, pri la sepa kialo; kiamaniere vi trovis la malpacon je la sepa
+kialo?
+
+Tuŝ.
+
+Je mensogo sepoble malproksima:--staru pli gracie, Aŭdreo:--jene,
+Sinjoro: mi malaprobis la barbformon de iu kortegano: li sendis al
+mi sciigon, ke, se mi opinias ke la barbo ne estas bone tondita, li
+mem ĝin opinias bone tondita; tion ĉi oni nomas la Respondo Ĝentila:
+Se mi ree anoncus al li ke mi malaprobas la formon, li sendus al mi
+sciigon ke li ĝin tondis laŭ tia modo, kia plaĉas al li; ĉi tion oni
+nomas la Sarkasmo Modesta. Se ree mi malaprobus, li malestimus mian
+juĝpovon; ĉi tion oni nomas la Respondo Malafabla. Se ree mi dirus
+"Ĝi ne estas bone tondita," li respondus, ke mi ne parolas la veron:
+ĉi tion oni nomas la Riproĉo Kuraĝa. Se ree, "Ĝi ne estas bone
+tondita," li respondus, ke mi mensogas: ĉi tion oni nomas la
+Kontraŭaĵo Malpacema: kaj tiel plu, ĝis la Mensogo Cirkonstanca, kaj
+la Mensogo Rekta.
+
+Jak.
+
+Kaj kiel ofte vi diris ke la barbo ne estas bone tondita?
+
+Tuŝ.
+
+Mi ne kuraĝis iri pli antaŭen ol ĝis la Mensogo Cirkonstanca, kaj li
+ne kuraĝis min akuzi je la Mensogo Rekta; tial ni reciproke provis
+nian lertecon je la glavoj, kaj disiris.
+
+Jak.
+
+Ĉu vi povas nun nomi laŭvice la gradojn de la mensogo?
+
+Tuŝ.
+
+Ho, ni malpacadas laŭ presitaj libroj; same kiel vi havas librojn
+pri ĝentilaj manieroj. Mi nomos por vi la gradojn. La unua estas la
+Respondo Ĝentila; la dua, la Sarkasmo Modesta; la tria, la Respondo
+Malafabla; la kvara, la Riproĉo Kuraĝa; la kvina, la Kontraŭaĵo
+Malpacema; la sesa, la Mensogo Cirkonstanca; la sepa, la Mensogo
+Rekta. Ĉiujn ĉi oni povas eviti, escepte de la Mensogo Rekta; kaj
+oni povas eviti ankaŭ tion, per la vorto "se." Mi sciiĝis pri
+malpaco kiun sep juĝistoj ne povis pacigi, sed kiam la malpaciĝintoj
+mem renkontis unu la alian, unu el ili elpensis pri iu "se," jene:
+"Se vi diris tion, mi diris tion ĉi." kaj ili manpremis, kaj ĵuris
+ke ili estos fratoj. La "se" estas la sola paciganto; multe da bono
+enestas en "se."
+
+Jak.
+
+Ĉu li ne estas bonegulo, via moŝto? Li estas tiel saĝa pri io ajn,
+tamen li estas ŝercemulo.
+
+La Duko.
+
+Li uzas sian ŝercemon por enlogilo, kaj kaŝate post tio, li pafas
+per sia spriteco.
+
+Eniras Himeno, Rozalindo, kaj Celio.
+
+[Sonas mallaŭta muziko]
+
+Him.
+
+  Ĝoj' en ĉielo sonas,
+  Ĉar terestaĵoj konas
+    Por si kuniĝon.
+  Filinon, Duko, prenu,
+  Vi ŝuldas al Himeno
+    La belan vidon.
+  Ke vi transdonu ŝin al li
+  Ĉar lin korege amas ŝi.
+
+Roz.
+
+  [al la Duko] Al vi mi donas min, estante via.
+  [al Orl.] Al vi mi donas min, estante via.
+
+La Duko.
+
+  Se vere diras la vidado,
+  Vi estas la filino mia.
+
+Orl.
+
+  Se vere diras la vidado,
+  Vi estas mia Rozalindo.
+
+Feb.
+
+  Nu, pro l' aspekto via,
+  Adiaŭ, amo mia.
+
+Roz.
+
+  Neniun patron volas mi, krom vi.
+  Neniun edzon volas mi, krom vi.
+  Mi ne edziĝos je virin', krom vi.
+
+Him.
+
+  Silentu! Ne krietu!
+  Mi mem la finon metu
+    Al tiuj ĉi strangaĵoj:
+  Vi ok, la manojn prenu,
+  La jenon ĉiam tenu,
+    En ĉiaj travivaĵoj:
+  Nenio vin disigos;
+  La amo vin kunigos;
+  Kaj vi forlasu tute lin,
+  Aŭ edziniĝu je virin'.
+
+  Vi kaj vi nun kune restas,
+  Kiel vent' kun vintro estas.
+  Dum ni kantos por l' edzigo
+  Vi demandu pri klarigo;
+  La kialon vi eltrovos
+  Pri l' renkonto, se vi povos.
+
+KANTO
+
+  Edzeco estas bela kron';
+  Benita lig', la unuiĝ'
+  Plenigas urbojn, por Junon';
+  Honoro tial je edziĝ'!
+  Kaj je Himen', pro tiu bon'
+  Al urboj ĉiuj, por Junon'.
+
+La Duko.
+
+  Nevino kara, estu tre bonvena,
+  Bonvena kiel la filino mia.
+
+Feb.
+
+  Mi ne insistos ke vi estu mia,
+  Al vi min ligas fideleco via.
+
+Eniras Jakveso de Bojz.
+
+Jak. de B.
+
+  Aŭskultu al mi du aŭ tri minutojn:
+  Ĉar mi la dua filo vere estas
+  De Sir' Roland' maljuna, kaj mi portas
+  Novaĵon jenan al ĉi tiu bona
+  Kunveno: nome, Duko Frederiko,
+  Aŭdinte kiel ĉiutage venas
+  Al tiu ĉi arbar' altrangaj viroj,
+  Potencaj ankaŭ, tuj armeon povan
+  Ekipis, kiu sub konduko lia
+  Jam estis tien ĉi almarŝadanta,
+  Celante kapti kaj mortigi tiun,
+  La fraton lian. Al l' arbarorando
+  Li venis, kaj renkontis, per hazardo,
+  Religiulon bonan kaj maljunan,
+  Kaj kun li iom interparolinte
+  La Duko estis tuj forkonvertata,
+  De sia celo, kaj de l' mondo mem.
+  Li donis testamente sian kronon
+  Al l' ekzilita frato, kaj redonis
+  Al ĉiu kun la frato ekzilita
+  La posedaĵojn liajn, kaj bienojn.
+  Ke tio ĉi la vero nepre estas
+  Je mia vivo mi al vi atestas.
+
+La Duko.
+
+  Bonvenu, juna viro! Je l' edziĝo
+  De viaj fratoj bone vi prezenta
+  Al unu la bienon detenitan,
+  Al la alia vastan dukolandon.
+  Unue en l' arbaro ni plenumu
+  Ĉi tion bone tie komencitan,
+  Kaj poste, ĉiu el la aro gaja
+  Kun mi la tagojn vintrajn elportinte,
+  Kaj noktojn vintrajn, kun mi partoprenos
+  La bonon de l' bonŝanco reveninta,
+  Laŭ sia stato. Dume, ni forgesu
+  Ĉi tiun nove alvenintan rangon,
+  Kaj tuj komencu la kamparan feston.
+  Muziko sonu! Vi, geedzoj novaj,
+  Ĝojege dancu, estu facilmovaj.
+
+Jak.
+
+  Sinjoro,--laŭ permeso via bona,--
+  Se mi vin prave aŭdis, vi anoncis
+  Ke l' Duko, forlasinte kortegvivon,
+  Religiulo ĵus fariĝis?
+
+Jak de B.
+                          Jes,
+
+Jak.
+
+  Mi iros al li: oni povas aŭdi
+  Kaj lerni multe de konvertiĝintoj.
+  [al la Duko] Mi donas vin al via rang' antaŭa,
+  Vi ĝin meritas pro la pacienco
+  Kaj pro la virto via. [al Orl.] Vin mi donas
+  Al amo kiun fideleco gajnas:
+  [al Oli.] Vin al la amo via, kaj bienoj,
+  Kaj kunligintoj. [al Tuŝ.] Vin al malpacado,
+  Mi testamente donas: vi provizis
+  Por amvojaĝ' nur du monatojn longa.
+  Do, iru tiel al la ĝojoj viaj:
+  Malsamaj al danctempoj estas miaj.
+
+La Duko.
+
+Restu, Jakveso, restu!
+
+Jak.
+
+  Ne por ĉeesti feston: mi atendos
+  En via groto kion ajn vi sendos.
+
+[Li foriras.]
+
+La Duko.
+
+  Daŭrigu! Nun komencu nia festo,
+  Kiel finiĝos ĝi,--en ĝojatesto!
+
+[Oni dancas.]
+
+
+
+
+Epilogo.
+
+
+Roz.
+
+Ne estas laŭ la modo ke la sinjorino diru la epilogon; sed tio ne
+estas pli malbonmoda ol ke la sinjoro diru la prologon. Se estas
+vere ke bona vino ne bezonas vinberbranĉon, estas vere ke bona
+teatraĵo bezonas neniun epilogon; tamen por bona vino oni ja uzas
+bonajn vinberbranĉojn, kaj bonaj teatraĵoj fariĝas des pli bonaj per
+helpo de bonaj epilogoj. En kia stato mi do estas, nek estante bona
+epilogisto, nek povante fari min plaĉanta al vi pro bona teatraĵo!
+Mi ne estas vestita kiel almozulo, tial ne decos ke mi petu kvazaŭ
+por almozoj; mia metodo estas, vin ensorĉi; kaj mi komencos je la
+virinoj. Mi rekomendas al vi, ho Sinjorinoj, pro la amo kiun vi
+sentas al viroj, ke vi aprobu tiom de la teatraĵo, kiom plaĉas al
+vi: kaj mi rekomendas al vi, ho Sinjoroj, pro la amo kiun vi sentas
+al virinoj,--ĉar mi rimarkas per viaj afektaj ridetoj ke neniu el vi
+malamas ilin,--ke, inter vi kaj la virinoj, la teatraĵo plaĉu al vi.
+Se mi estus virino, mi kisus ĉiun el vi, kies barbo plaĉas al mi,
+kies vizaĝhaŭton mi admiras, kaj kies elspiron mi ne malŝatas: kaj,
+pro mia afabla propono, mi estas certa ke ĉiu el vi, kiu havas bonan
+barbon, bonan vizaĝhaŭton, kaj dolĉan elspiron, volonte, kiam mi
+kliniĝas antaŭ vi, diros al mi adiaŭ.
+
+[Ĉiuj foriras.]
+
+
+
+
+Notoj de transskribinto:
+
+En la originala libro, la rolulonomoj aperis en kompakta formo, por
+konservi spacon je la presita paĝo. Mi iom aliformis ties prezenton
+en ĉi tiu versio de la teksto.
+
+Mi senrimarke ĝustigis etajn interpunkciajn kaj citilajn erarojn,
+kaj registris aliajn ŝanĝojn de mispresaĵoj per html-aj komentoj.
+Ankaŭ originalajn paĝkomencojn mi simile registris.
+
+Mi tute refaris la lokojn de la ilustraĵoj, por meti ilin nur
+inter la scenoj.
+
+Mi aldonis la sekvantan linion en akto I, sceno II:
+  Roz. Tiam ni estos novaĵo-plenigita.
+Ŝajne ĝi erare malaperis en la originala libro.
+
+
+
+
+
+
+End of Project Gutenberg's Kiel placas al vi, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK KIEL PLACAS AL VI ***
+
+***** This file should be named 61103-0.txt or 61103-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/1/1/0/61103/
+
+Produced by Andrew Sly, Miroslav Malovec and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+book was produced from images made available by the
+HathiTrust Digital Library.)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

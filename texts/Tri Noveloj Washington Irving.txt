@@ -1,0 +1,1507 @@
+The Project Gutenberg EBook of Tri Noveloj by Washington Irving
+
+
+
+This eBook is for the use of anyone anywhere at no cost and with almost no
+restrictions whatsoever. You may copy it, give it away or re-use it under
+the terms of the Project Gutenberg License included with this eBook or
+online at http://www.gutenberg.org/license
+
+
+
+Title: Tri Noveloj
+
+Author: Washington Irving
+
+Release Date: April 20,  2007 [Ebook #21195]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+
+***START OF THE PROJECT GUTENBERG EBOOK TRI NOVELOJ***
+
+
+
+
+
+Tri Noveloj
+
+
+by Washington Irving
+
+
+
+
+Edition 1, (April 20,  2007)
+
+
+
+
+
+                         Unua Eldono: Julio 1998
+
+                      Originaj Anglalingvaj Titoloj:
+
+                             "RIP VAN-WINKLE"
+
+                             "TO THE READER"
+
+                    "ADVENTURE OF THE GERMAN STUDENT"
+
+                             Copyright 1998
+                             Edwin P. Grobe
+                for the English-to-Esperanto translations
+
+
+
+
+
+
+RIPO VAN-VINKLO
+
+
+La sekvonta rakonto malkovriĝis en la dokumentaro de forpasinta Didriko
+Knikerbokero, maljuna sinjoro de Nov-Jorkio, kiu tre scivolemis pri la
+Nederlanda historio de la provinco kaj la kutimoj de la posteuloj de ties
+originaj koloniintoj. Siajn historiajn esplorojn li entreprenis tamen
+malpli inter libroj ol inter homoj. Libroj rakontis nur bedaŭrinde
+malmulte pri liaj plej ŝatataj temoj. La maljunajn burĝojn tamen, kaj
+precipe iliajn edzinojn, li konsideris kiel abunde informhavajn pri tiu
+legenda folkloro tiel altvalora por la verfakta historio. Tial, kiam ajn
+li bonŝancis renkonti aŭtentan Nederlandan familion, kompakte enfermitan
+en ĝia malalttegmenta biendomo sub larĝbranĉa platano, li ĝin konsideris
+kiel specon de kvazaŭ presita esplorlibro kaj ĝin studegis kun la avido de
+legemulo.
+
+La rezulto de ĉiuj tiuj esploroj estis historio pri la provinco dum la
+rego de la Nederlandaj provincestroj kiun li publikigis kelkajn jarojn
+poste. Ege diferencas opinioj taksantaj la literaturan kvaliton de la
+verko kaj, verdire, ĝi neniel pli bonas ol taŭgas. Ĝia ĉefa valoro estas
+rigora akurateco kiun efektive oni pridubis okaze de la ekapero de la
+verko sed kiu pli lastatempe nepre konfirmiĝas. Ĉiuj bibliotekoj ĝin
+konservas nun en siaj historiaj kolektaĵoj, juĝante ĝin verko de
+sendubinda aŭtoritato.
+
+La maljuna sinjoro mortis ne longe post la eldono de sia verko pro kio,
+konsidere de tiu malesto-foresto, ni ne povas multe difekti lian restintan
+bonfamon opiniante ke li pli profitdone pasigintus sian vivon plenumante
+plej gravajn taskojn. Li kutimis tamen entrepreni sian ŝatokupon
+siamaniere, kvankam de tempo al tempo ĝi polvotrompis la okulojn de
+najbaroj kaj malĝojigis la spiriton de amikoj pri kiuj li sentis la plej
+aŭtentajn respekton kaj karecon. Tiuj tamen memoras liajn erarojn kaj
+malsaĝecojn "kun pli da malfeliĉo ol da kolero" kaj komencas hipotezi ke
+neniam li celis vundi nek ofendi.
+
+Kiom ajn malalttakse lin juĝas kritikantoj, altvalorajn memoraĵojn pri li
+ankoraŭ retenas multaj homoj kies bonaj opinioj gravas. Inter tiuj
+nombriĝas precipe iuj bakistoj kiuj eĉ entreprenis bildigi lian figuron
+sur siaj Novjaraj kuketoj, efektivigante tiel lian eventualan senmortiĝon,
+preskaŭ similan al tiu de homoj kies bildoj stampiĝas sur Vaterlo-medalo
+aŭ Reĝin-Anjo-kvaronpenco.
+
+                                * * * * *
+
+Kiu ajn navigis kontraŭflue sur Hudsono-Rivero ne povas forgesi Katskilajn
+Montojn. Ili estas distranĉita ero de la granda Apalaĉa familio kaj
+vidiĝas forokcidente de la rivero, suprenŝvelante ĝis sinjora alteco,
+supermoŝtante la ĉirkaŭantan pejzaĝon. Ĉiu sezona ŝanĝiĝo, ĉiu vetera
+aliiĝo, verfakte ĉiu dumtaga novhoriĝo estigas malsamecon en la magiaj
+koloroj kaj formoj de tiuj montoj kiujn ĉiuj bonaj edzinoj proksimaj kaj
+malproksimaj konsideras kiel perfektajn barometrojn. Kiam la vetero estas
+bona kaj konstanta la montoj vestiĝas blu- kaj purpurkolore kaj desegnas
+siajn aŭdacajn siluetojn sur la klaran vesperan ĉielon. Foje, tamen, kiam
+la ĉirkaŭanta pejzaĝo restas sennuba, ili amasigas sur siajn pintojn
+grizvaporajn kapuĉojn kiuj, en la lastaj radioj de la subiĝanta suno,
+brilas kaj lumiĝas glorkrone.
+
+Ĉebaze de tiuj feaspektaj montoj povas okazi al vojaĝanto ekvidi malpezan
+fumon suprenspirali el vilaĝo kies ŝindotegmentoj brilas inter la arboj
+tie mem kie la bluaj kolornuancoj de la altejo fandiĝas en la freŝan
+verdon de la pli proksima pejzaĝo. Eta vilaĝo de granda antikveco ĝi
+estas, fondite de Nederlandaj koloniintoj dum la fruaj tempoj de la
+provinco, ĉirkaŭkomence de la estrado de la bona Petro Stujvesanto (li
+ripozu en paco!), kaj antaŭnelonge ankoraŭ konservante domojn kiujn la
+originaj koloniintoj konstruis el malgrandaj flavaj brikoj alvenigitaj de
+Nederlando, ilin provizante per fenestroj ornamitaj de lignokradaĵoj kaj
+gablofasadoj protektataj de ventoflagoj.
+
+En tiu sama vilaĝo kaj en unu el tiuj samaj domoj (kiu, se ni diru la
+precizan veron, estis bedaŭrinde tempoerodita kaj veterodifektita) loĝis
+multajn jarojn poste, kiam la regiono restis ankoraŭ provinco de Britio,
+senceremonia bonhumorulo nomiĝanta Ripo Van-Vinklo. Li estis posteulo de
+tiuj Van-Vinkloj eminentiĝintaj tiel galante en la kavalirecaj tagoj de
+Petro Stujvesanto kaj kunirintaj tiulastan okaze de la atako kontraŭ
+Fortreso-Kristino. Li heredis tamen nur malmulte la militan karakteron de
+siaj antaŭirintoj.
+
+Mi jam priskribis lin kiel senceremonian bonhumorulon. Krom tio li estis
+ankaŭ afabla najbaro kaj obeema inregata edzo. Efektive, al tiu lasta
+kvalito ŝuldiĝas eble tiu spirita submetiĝemo gajninta al li tiel
+universalan popularecon. Plejmulte emas lakeiĝi kaj bonvoliĝi eksterhejme
+viroj jam spertintaj la disciplinon de ĉehejmaj megeroj. Iliaj
+temperamentoj fleksebliĝis kaj maleebliĝis sendube en la fajra forno de
+ĉehejma malfeliĉo. Ĉehejma prelego egalvaloras ĉiujn ĉepreĝejajn predikojn
+kiam temas pri instrui paciencon kaj toleradon. Tial diabla edzino povas
+esti konsiderata, laŭ multaj vidpunktoj, tolerebla beno. Se tio veras,
+Ripo Van-Vinklo estis trioble benita.
+
+Certe estas ke li multe plaĉis al ĉiuj bonaj edzinoj de la vilaĝo kiuj,
+laŭ la kutimo de la milda sekso, apogis lin en ĉiuj familiaj disputoj kaj
+neniam hezitis, priparolante tiujn aferojn okaze de vesperaj
+klaĉadkunvenoj, atribui la tutan kulpon al Sinjorino Van-Vinklo. La
+infanoj de la vilaĝo, siaflanke, kutimis ekkrii pro ĝojo kiam li
+alproksimiĝis. Li partoprenis en iliaj ludoj, fabrikis ludilojn por ili,
+scipovigis ilin flugigi kajtojn kaj ludruli globetojn kaj rakontis al ili
+longajn fabelojn pri fantomoj, sorĉistinoj kaj Indianoj. Kiam li
+laŭvagadis la vilaĝon, ili ĉirkaŭis lin trupe, posttirante liajn
+vestaĵerojn, surgrimpante lian dorson, lin senpune priŝercante milmaniere.
+Dume tra la tuta najbarejo postbojis lin nenia hundo.
+
+La ĉefa malforto de la karaktero de Ripo estis nesuperebla malamo al ĉiuj
+specoj de profitestiga laboro. Tiaĵo ne povintus rezulti pro manko da
+diligento aŭ persisto ĉar li kutimis sidi sur malseka roko kun
+fiŝkaptokano tiel longa kaj peza kiel Tatara lanco kaj fiŝkapti taglonge
+tute senplende kvankam kuraĝigis lin la ekmordo de nepre nenia fiŝo. Li ne
+hezitis porti pafilon surŝultre dum sinsekvaj horoj, pezpaŝadante tra
+arbaroj kaj marĉoj, laŭmonte kaj laŭvale, cele al mortpafi kelkajn
+sciurojn aŭ sovaĝajn kolombojn. Neniam li malkonsentis helpi najbaron eĉ
+okaze de la plej malfacila tasko kaj dum kamparaj foiroj superis ĉiujn
+konkursantojn dum maiz-senŝelig- aŭ ŝtonmur-konstru-matĉoj. Krome la
+vilaĝaninoj respondecigis lin pri siaj irtasketoj kaj lin invitis plenumi
+hazardajn devetojn kiujn iliaj malkomplezaj edzoj malkonsentis fari por
+ili. Simplavorte, Ripo bonvolis okupiĝi pri ĉies aferoj krom siaj. Pri
+siafamiliaj devoj kaj siabienaj taskoj tamen li nepre ne kapablis
+interesiĝi.
+
+Efektive li diris ke tute senutilas labori sur sia propra bieno. Ĝi estas
+la plej pesta terpeceto de la tuta lando. Ĝia ĉiu enhavaĵo jam malboniĝis
+kaj daŭre malboniĝos, malgraŭ lia laboro. Liaj ĉirkaŭbariloj ade
+dispeciĝas. Lia bovino devojiĝas aŭ tretas la brasikbedon. Trudherboj
+kreskas pli rapide en liaj kampoj ol aliloke. Pluvo ĉiam ekfalas
+sammomente kiam li havas eksterdomajn taskojn por fari. Tial kvankam lia
+hereda bieno ŝrumpis sub lia estrado, akreon post akreo, kaj kvankam
+restis el ĝi ununura bedo da Indiana maizo kaj terpomoj, ĝi persistis esti
+la plej malbone prizorgata bieno de la regiono.
+
+Aldone liaj gefiloj estis tiel ĉifonvestitaj kaj sovaĝkondutaj kiel orfoj
+apartenantaj al neniu. Lia filo Ripo, bubo naskigita laŭ la patra modelo,
+promesis heredi la kutimojn kaj la vestaĵojn de la patro. Li ofte vidiĝis
+postsekvante kvazaŭ ĉevalido la patrinajn kalkanojn, vestite en de la
+patro forĵetita genupantalono kiun unumane kaj malfacile li bezonis reteni
+supergrunde same kiel eleganta sinjorino bezonas suprenlevi sian
+robtrenaĵon okaze de malbona vetero.
+
+Ripo Van-Vinklo tamen estis unu el tiuj feliĉaj homoj kiuj, havante folan,
+facile funkciantan temperamenton, ne maltrankviliĝas pri la mondo, manĝas
+blankan aŭ brunan panon, depende de kiu el la du pli senzorge aŭ pli
+senĝene akireblas, kaj preferus malsufiĉe manĝi pencopreze ol labori
+pundosalajre. Restunte solapersone, li pasigintus sian vivon fajfante pro
+perfekta kontentiĝo. Lia edzino tamen ade plenigis liajn orelojn pri
+plendoj teme de lia senokupeco kaj malzorgeco kaj la ruino kiun li trudas
+al sia familio. Matene, tagmeze kaj nokte ŝia lango senĉese moviĝis kaj
+ĉio tio kion li diris aŭ faris estigis senmanke torenton da ĉehejma
+elokventeco. Ripo disponis pri ununura respondrimedo por ĉiuj tiuj
+prelegoj, respondrimedo kiu, pro ofta funkciado, finfine sin kutimigis. Li
+levis la ŝultrojn, ŝancelis la kapon, suprendirektis la rigardon, tamen
+nenion diris. Sed tio ĉiam instigis la edzinon pafumi novan plendosalvon.
+Kutime rezultis tial ke, forkondukante siajn kunulojn, li retiriĝis al
+eksterdoma sekurejo: la sola ejo kiu apartenas, verdire, al inregata edzo.
+
+La ununura ĉehejma adepto de Ripo estis lia hundo Lupo kiu estis tiel
+inregata kiel sia mastro ĉar Sinjorino Van-Vinklo konsideris ilin kiel
+kunbatalantojn en senokupeco. Ŝi eĉ rigardis Lupon kun malbondeziraj
+okuloj, supozante ĝin la kaŭzo de la ofta erarvagado de la mastro. Vere
+estas, ke teme pri ĉiuj temperamentaj kvalitoj konvenantaj al respektinda
+hundo, ĝi estis la plej kuraĝa besto iam esplorinta la arbarojn. Sed kiu
+kuraĝo kapablas kontraŭstari la senĉesajn kaj ĉiosieĝantajn terurojn de
+virina lango? Ekde la momento kiam Lupo eniris la domon, ĝia hupo falis,
+ĝia vosto velkis ĝisplanke aŭ bukliĝis interkrure, ĝi ŝteliradis kun mieno
+de pendumoto, ĵetante multajn ĝisflankajn rigardetojn al Sinjorino
+Van-Vinklo. Kiam ajn ŝi eksvingetis balailon aŭ kuleregon, la hundo
+alkuregis haste kaj jelpante la pordon.
+
+La tempoj ade kaj senĉese malpliboniĝis por Ripo Van-Vinklo dume ke la
+jaroj de lia geedziĝa ekzisto ade kaj senĉese plinombriĝis. Aĝo ne
+malakrigas akran humoron kaj akra lango estas la sola randohava ilo kiu
+pliakriĝas pro utiligo. Dum longa tempo li kutimis sin konsoli, post
+eldoma forpeliĝo, partoprenante en speco de klubo de saĝuloj, filozofoj
+kaj ceteraj vilaĝaj senokupuloj kiuj kunvenis sur benko staranta antaŭ
+malgranda gastejo ornamita per ruĝvanga portreto pri Lia Reĝa Moŝto Georgo
+la Tria. Tie ili kutimis sidi subombre daŭre de longa senzorga somertago,
+parolante senentuziasme pri vilaĝaj klaĉaĵoj aŭ rakontante senfinajn
+dormigajn anekdotojn pri nenio. Sed valorintus ŝtatistan salajron la
+bonŝanco aŭskulti la profundajn diskutojn okazintajn fojfoje kiam malnova
+ĵurnalo hazarde atingis iliajn manojn pere de preterpasinta vojaĝinto.
+Kiel solene ili aŭskultis ties enhavaĵon trenparole deklamatan de Deriko
+Van-Bumelo, la lernejestro, eleganta, lerta vireto kiu alfrontis tute
+sentime la plej gigantajn vortojn de la vortaro. Kaj kiel saĝe ili
+kunmeditadis pri publikaj eventoj jam okazintaj antaŭ pluraj monatoj.
+
+La opiniojn de tiu konsilio entute estris Nikolao Vedero, vilaĝa patriarko
+kaj mastro de la gastejo antaŭ kies pordo li sidis de la mateno ĝis la
+nokto, moviĝante nur sufiĉadistance por resti sub la ombro de granda arbo
+kaj eviti sin sunbruligi. Efektive, la najbaroj scipovis kalkuli la
+taghoron laŭ liaj movoj tiel akurate kiel laŭ sunhorloĝaj indikoj. Vere
+estas ke preskaŭ neniam li aŭdiĝis parolante, preferante fumi senĉese sian
+pipon. Liaj adeptoj tamen (ĉar ĉiu granda homo havas siajn adeptojn)
+komprenis lin bonege kaj sukcesis ekscii liajn opiniojn.
+
+Kiam malplaĉis al li legata aŭ rakontata temo, laŭoniobserve, li fumis la
+pipon arde kaj eligis mallongajn, oftajn, kolerajn blovaĵojn. Se la temo
+tamen plaĉis al li, li enspiris la fumon malhaste kaj trankvile, ĝin
+elblovante en malpezaj serenaj nubetoj. Foje, forprenante la pipon elbuŝe,
+lasante la bonodoran vaporon kirliĝi ĉirkaŭnaze, li kapjesis solene en
+signo de nepra aprobo.
+
+El tiu sekurejo tamen Ripon tempofine forpelis lia megera edzino, subite
+interrompinte la trankvilon de la kunveno kaj mallaŭdinte ties anojn. Nek
+tiu eminentulo Nikolao Vedero scipovis eviti la langobatadon kiun trudis
+al li la terura diablino, kondamne dirante ke la gastejestro respondecas
+pri la senokupeco de ŝia edzo.
+
+La kompatindan Ripon preskaŭ entute malesperigis la afero. Lia sola rimedo
+eskapi bienan laboron kaj edzinan kriadon estis enmanigi la pafilon kaj
+forvagi en la arbaron. Tie li kutimis sidiĝi arbobaze kaj dividi la
+enhavaĵon de sia dorsosako kun Lupo kiun li kondolencis kiel kunviktimon
+de persekutado. "Estimata Lupo," li diris, "via mastrino hundovivigas vian
+vivon. Sed ne maltrankviliĝu pri tio, kara kunaĵo. Daŭre de mia vivado
+neniam mankos al vi apudstaranta amiko!" Lupo vostojesis, enrigardis
+sopire la mastran vizaĝon kaj, se eblas al hundoj senti kompaton, mi
+opinias sincere ke tiu plenkore kunspertis la emocion.
+
+Okaze de longa, bela, aŭtuntaga vagpromenado tiuspeca, senkonscie Ripo
+surgrimpis unu el la plej altaj partoj de Katskila-Montaro kie li okupiĝis
+pri sciurĉasado, sia plej ŝatata sportentrepreno, kaj la silentaj
+solecejoj eĥis kaj reeĥis lian pafilbruadon. Anhelante, laciĝinte, li sin
+malsuprenĵetis malfru-posttagmeze sur verdan teraltaĵon, kovritan de
+montara herbaro, situantan sur klifeg-rando. Tra interarba malfermaĵo li
+povis superspektadi tutan malsuprekuŝantan pejzaĝon etendiĝantan trans
+multajn mejlojn da fertilaj arbaroj. Li vidis fordistance la sinjoran
+Hudsonon, moviĝantan ege, ege malsupre de li laŭ sia silenta sed moŝta
+fluvojo, elmontrantan reflekton de purpura nubo aŭ velon de malhasta
+boateto haltinta por dormpaŭzo diversloke sur ĝia vitrobrila surfaco, tiam
+malaperantan finfine en la blua altaĵaro.
+
+Aliflanke li enrigardis profundan, sovaĝan, solecan, dikvilan abismon kies
+fundon plenigis falintaj kliferoj kaj kiun apenaŭ atingis la reflektitaj
+radioj de la subiranta suno. Dum kelke da tempo Ripo restis kuŝante,
+primeditante tiun vidaĵon. Iompostiome la vespero antaŭenvenis. La montoj
+komencis ĵeti siajn longajn bluajn ombrojn trans la valojn. Prikonsciinte
+ke la ĉielo noktiĝos jam longe antaŭ ol li povos atingi la vilaĝon, li
+suspiris fortasone, antaŭpensante pri la teruroj kiujn estigos por li rea
+renkontiĝo kun Sinjorino Van-Vinklo.
+
+En la momento kiam li eke entreprenis malsupreniri li aŭdis malproksiman
+voĉon kriegi: "Ripo Van-Vinklo! Ripo Van-Vinklo!" Li ĉirkaŭrigardis sed
+nenion vidis krom korvo fluganta solece trans la monton. Opiniante ke lin
+trompis iu fantazio, li forturniĝis cele denove al malsupreniri kiam li
+reaŭdis tra la silenta vesperaero la saman kriadon: "Ripo Van-Vinklo! Ripo
+Van-Vinklo!"
+
+Samtempe Lupo hirtigis la dorsan hararon kaj, graŭlante mallaŭte aliris
+kaŭrante la mastran flankon, enrigardante time la valeton. Nun Ripo sentis
+ekregi lin malprecizan anksiecon. Li rigardis maltrankvilege en la sama
+direkto kaj ekvidis strangan figuron suprenvenadi labore laŭ la rokaro,
+antaŭenkliniĝante sub la pezo de iu surdorsa ŝarĝo. Surprizis Ripon vidi
+homan estaĵon en tiu soleca kaj malfrekventata ejo. Supozante tamen ke
+temas pri samregionano bezonanta helpon li hastis malsuprengrimpi por
+apogi tiun.
+
+Alveninte pli proksime li eĉ pli surpriziĝis pro la malkutima aspekto de
+la nekonato. Tiu estis malalta kvadratformulo havanta dikan vepran hararon
+kaj griziĝintan barbon. Li vestiĝis laŭ la antikva Nederlanda modo,
+surportante senmanikan veŝton ĉirkaŭligitan ĉetalie kaj plurajn ĝisgenuajn
+pantalonojn (el kiuj la ekstera estis ege ampleksa) ornamitajn laŭflanke
+per butonvicoj kaj ĉegenue per ŝtofpufaĵoj. Li portis surŝultre pezan
+bareleton, laŭŝajne plenigitan je alkoholaĵo, kaj pergeste invitis Ripon
+alproksimiĝi kaj kunsubteni la ŝarĝon. Kvankam iom timida kaj malfidante
+la novan konaton, Ripo konsentis kun sia kutima entuziasmo kaj, reciproke
+apogante unu la alian, ili suprengrimpis laŭ mallarĝa ravineto, verŝajne
+la seka fluejo de montotorento.
+
+Dum ili suprengrimpis Ripo aŭdis de tempo al tempo longajn ruliĝantajn
+sonoradojn, kvazaŭ foran tondradon, sendube elfontintajn profundan ravinon
+aŭ fendegon situantan inter altaj rokoj ĝis kiuj ilia malfacila irvojo
+ilin kondukis. Li paŭzis momenton, supozante ĝin la murmurado de unu el
+tiuj efemeraj fulmpluvegoj tiel ofte okazantaj altamontare, tiam
+antaŭeniris. Trapasinte la ravinon ili atingis amfiteatroaspektan valeton
+ĉirkaŭatan de perpendikularaj klifegoj preter kies randoj pendigis siajn
+branĉojn sursupraĵaj arboj, rezulte de kio la vojaĝanto nur malofte
+ekvidis eretojn da blua ĉielo kaj klara vespernubo. Dum la tuta tempo Ripo
+kaj lia kuniranto penadis silente ĉar, kvankam la helpanto scivolemis
+ekscii por kiu celo la nekonato entreprenis porti alkoholaĵbarelon laŭ la
+sovaĝa monto, tiulasta tamen havis iom strangan kaj malkompreneblan
+manieron kiu estigis miron kaj bremsis interkoniĝon.
+
+Kiam ili eniris la amfiteatron, sin ekvidigis novaj mirigaĵoj. Sur centra
+ebenejo aro da malkutimaspektaj personoj kegloludadis. Ili vestiĝis en
+kurioza pasintepoka modo. Iuj surportis mallongajn Renesancstilajn jakojn;
+aliaj preferis senmanikajn jakojn kaj kunportis longajn tranĉilojn en siaj
+zonoj; preskaŭ ĉiuj elmontris ampleksajn ĝisgenuajn pantalonojn, konforme
+al la jam anoncita modo de la gvidanto.
+
+Strangaj estis ankaŭ la mienoj. Unu havis grandan kapon, larĝan vizaĝon
+kaj etajn porkajn okulojn. Alia vizaĝo ŝajnis konsisti entute el nazo kaj
+kroniĝis per blanka sukerbloksimila ĉapelo ornamita de eta ruĝa kokvosto.
+Ĉiuj surportis barbojn malsamformajn kaj -kolorajn.
+
+Unu el tiuj ŝajnis esti la estro. Dika, maljuna sinjoro kun veterbatita
+vizaĝo, li surportis laĉitan jakon, larĝan zonon kun mallonga kurbiĝinta
+glavo, altan kronhavan ĉapelon kun plumo, ruĝajn ŝtrumpojn kaj
+altkalkanumajn ŝuojn ornamitajn de kokardoj. La tuta ludantaro memorigis
+Ripon pri la figuroj aperantaj en malnova Flandra pentraĵo pendanta en la
+salono de Pastoro Van-Ŝajko, la vilaĝa preĝejestro, kunportita el
+Nederlando epoke de la koloniado.
+
+La plej stranga aspekto de la afero, laŭ Ripo, estis tio ke, kvankam la
+ludantoj verŝajne distriĝis, ili elmontris la plej seriozajn mienojn kaj
+estigis la plej misteran silenton, fariĝante la plej malfeliĉa festantaro
+kiun li iam vidis. Interrompis la silenton de la okazaĵo nenio krom la
+bruo de la kugloj kiuj, ruliĝante, eĥis laŭmontare kiel muĝantaj
+tondrojkrakoj.
+
+Kiam Ripo kaj lia kuniranto atingis ilin, subite tiuj ĉesis ludi kaj
+fiksrigardis la novalvenintojn kun tiel statumaniera senmoviĝo kaj tiel
+strangaj, krudaj, senentuziasmaj mienoj ke la koro de Ripo ŝanceliĝis en
+lia brusto kaj liaj genuoj intermarteliĝis. Lia kunulo nun malplenigis la
+bareleton je ties enhavaĵo, elverŝante tiun en grandajn flakonojn kaj
+indikante pergeste ke Ripo ilin disdonu al la ludantaro. Temante kaj
+tremante, li obeis. Tiuj trinkis la alkoholaĵon en nepra silento, tiam
+reaktivigis sian ludadon.
+
+Iompostiome malpligrandiĝis la miro kaj anksieco de Ripo. Li eĉ kuraĝis,
+kiam neniu lin rigardis, gustumi la trinkaĵon kiu, li ekkonsciis, havis
+preskaŭ la saman saporon kiel bonkvalita Holando-Ĝino. Li estis denaska
+soifulo kaj baldaŭ ne rezistis al la tento denove trinki. Unu ĉerpo
+invitis ceteran kaj li ripetis tiel ofte siajn vizitojn al la flakono ke
+tempofine liaj sensoj superfortiĝis, liaj okuloj naĝumis en la kapo kiu
+gradon post grado antaŭenkliniĝis ĝis kiam finfine li profunde ekdormis.
+
+Vekiĝinte, li konsciis situi sur la sama verda altaĵo de kie li unuafoje
+ekvidis la maljunulon suprengrimpadi el la valeto. Li frotis la okulojn:
+matena suno brilis; la birdoj saltetis kaj kvivitis; aglo radflugis supre,
+alfrontante puran montozefiron. "Certe," pensis Ripo, "mi ne dormis ĉi-tie
+la tutan nokton!" Li ekmemoris la antaŭdormajn okazintaĵojn: la strangulon
+kun la alkoholaĵbareleto; la montoravinon; la sovaĝan retiriĝejon inter la
+rokoj; la veaspektan kugloludantaron; la flakonon. "Ho, tiu flakono! Tiu
+abomena flakono!" pensis Ripo. "Kiun senkulpigaĵon mi rakontu al Sinjorino
+Van-Vinklo?"
+
+Li ĉirkaŭrigardis, serĉante sian pafilon, sed anstataŭ pura, bonoleita
+birdofusilo li trovis malnovan musketaĉon lin apudkuŝantan: rustotavolo
+kovris ĝian paftubon, ĝia seruro forfalis, ĝian fuston vermoj elmanĝis. Li
+nun suspektis ke la seriozmienaj festintoj de la montaro lin priŝercis
+kaj, dozinte al li fortan alkoholaĵon, forŝtelis lian pafilon. Aldone,
+Lupo malaperis sed eblas ke ĝi forvagis ĉasante sciuron aŭ perdrikon. Li
+fajfvokis la hundon kaj kriegis ĝian nomon, sed la entrepreno entute
+senrezultiĝis. La eĥooj resonigis liajn fajfojn kaj kriegojn sed alvenis
+nenia hundo.
+
+Li elektis reviziti la scenejon de la pasintvespera kapriolado, kaj
+renkontonte tie restintan distriĝinton, informiĝi ĉe tiu pri siaj pafilo
+kaj hundo. Ekstariĝinte por survojiĝi, li sentis rigidon en la artikoj kaj
+malfacilecon en sia irkapablo. "Ĉi-tiuj montaraj litoj ne konvenas al mi,"
+pensis Ripo, "kaj se tiu ludaventuro spertigos al mi reŭmatismon,
+Sinjorino Van-Vinklo min pagigos altpreze."
+
+Iom malfacile li atingis la valeton kaj trovis la ravinon laŭ kiu li kaj
+lia kunulo suprengrimpis la antaŭan vesperon. Surprizege, monta rojo nun
+fluis ŝaŭme malsupren laŭ la ravino, saltante de roko al roko, plenigante
+la valeton je babilumaj murmuradoj. Li sukcesis tamen suprengrimpaĉi laŭ
+ties bordoj, antaŭenpenigante tra densaĵoj de betulo, sasafraso kaj
+hamamelido, foje stumblante aŭ implikiĝante en la sovaĝaj vitoj
+spiraligintaj siajn buklojn aŭ ĉirojn de arbo al arbo kaj etendintaj
+kvazaŭan kaptoreton laŭ lia irvojo.
+
+Tempofine li atingis la lokon kie antaŭe la ravino eniris la klifojn en la
+direkto al la amfiteatro sed restis tie neniaj indikaĵoj pri tia
+malfermaĵo. La rokoj estigis altan nepenetreblan muron super kiu la
+kaskado alvenis falante en tavolo da pluma ŝaŭmo, trafante malsupre larĝan
+profundan basenon nigrigitan per la ombroj de la ĉirkaŭanta arbaro. Ĉi-tie
+tial necesis ke Ripo haltu. Denove li alvokis voĉe kaj fajfe sian hundon.
+Respondis al li nur la grakado de aro da senokupaj korvoj, distriĝante
+alte en la aero super seka arbo apudstaranta sunan klifegrandon kaj kiuj,
+sekuraj en sia altejo, ŝajnis malsuprenrigardi kaj primoki la konfuzon de
+la malbonŝanca viro.
+
+Kion fari? La mateno forpasadis kaj Ripo ege malsatis ĉar mankis al li iu
+ajn matenmanĝo. Li malĝojiĝis pro la perdo de hundo kaj pafilo. Li timegis
+renkonti sian edzinon. Sed ne decas ke homo malsatmortu en la montaro. Li
+skuis la kapon, surŝultrigis la rustan armilon kaj, korsuferante pro ĝeno
+kaj anksieco, ekhejmeniris.
+
+Dum li alproksimiĝis la vilaĝon li renkontis plurajn homojn sed rekonis
+neniajn. Tio lin surprizis ĉar li opiniis koni ĉiujn tiuregionanojn.
+Cetere, ili vestiĝis malsammode kiel lia kutimo. Ĉiuj lin fiksrigardis
+reciproke surprizite kaj senescepte frotis la mentonon lin ekvidinte. La
+konstanta ripetado de la gesto instigis Ripon senatente ĝin imiti, post
+kio li ekkonsciis, mirindege, ke lia barbo aktuale plilongiĝis je unu
+piedo.
+
+Nun li jam eniris la antaŭkvartalojn de la vilaĝo. Aro da strangaj
+geknaboj lin postkuris, kriegante primokante, indikante perfingre lian
+grizan barbon. Aldone la hundoj, neniun el kiuj li identigis kiel antaŭan
+konataĵon, postbojis lin dum li preterpasis. La vilaĝo mem ŝanĝiĝintis. Ĝi
+estis pli granda kaj pli dense enloĝata. Aperis loĝdomvicoj kiujn li
+neniam antaŭe vidis. Malaperintis aliaj domoj kiujn antaŭe li frekventis.
+Super la pordoj estis skribitaj strangaj nomoj. Ĉe la fenestroj
+elmontriĝis strangaj vizaĝoj. Ĉio strangis.
+
+Sian menson li nun malfidis. Li komencis dubi ĉu li kaj la ĉirkaŭanta
+mondo ne estas sorĉitaj. Certe tiu-ĉi estas lia denaska vilaĝo kiun li
+forlasis nur hieraŭ. Jen elstaras Katskila Montaro. Jen mezdistance
+preterfluas la arĝenta Hudsono. Jen situas ĉiu monteto, ĉiu valeto precize
+same kiel ĉiam antaŭe. Ripo ege perpleksiĝis. "Tiu hieraŭvespera flakono,"
+li pensis, "malfeliĉe konfuzis mian kompatindan kapon!"
+
+Nur iom malfacile li trovis la vojon alirantan lian propran domon kiun li
+alproksimiĝis kun silenta miro, atendante ĉiun momenton aŭdi la stridan
+voĉon de Sinjorino Van-Vinklo. Li ekkonsciis ke la domo ege malkomponiĝis:
+la tegmento enfalis; la fenestroj disiĝis; la pordoj disĉarniriĝis.
+Duongrade malsatmortinta hundo aspektanta iom kiel Lupo kaŭraĉis proksime
+al ĝi. Ripo alvokis la beston laŭnome, sed tiu knaris, vidigis la dentojn
+kaj foriris. Efektive tio estis malafablega ofendo. "Eĉ mia hundo,"
+suspiris la malbonŝanca Ripo, "min forgesis!"
+
+Li eniris la domon, kiun, verdire, Sinjorino Van-Vinklo ĉiam antaŭe
+enbonordigis. Ĝi estis malplena, mizera, verŝajne forlasita. Tiu dezerteco
+venkis ĉiujn geedzajn timojn liajn. Laŭte li alvokis siajn edzinon kaj
+infanojn. Dummomente lia voĉo sonigis la solecajn ĉambrojn. Tiam denove
+ĉio silentis.
+
+Haste li eliris la domon kaj ege rapide survojiĝis en la direkto al sia
+antaŭa distriĝejo, la vilaĝa gastejo. Ankaŭ tiu malestis. Anstataŭis ĝin
+disfalema ligna konstruaĵego kun gapantaj fenestregoj el kiuj kelkaj estis
+rompitaj kaj riparitaj per malnovaj ĉapeloj kaj subjupoj. Super la pordo
+estis pentritaj la vortoj: "Unio-Hotelo, de Jonatono Dolitlo". Anstataŭ la
+arbego antaŭe ombradinta la antikvan trankvilan Nederlandan gastejeton nun
+elstaris tie alta nuda stango suprekronita de iu similanta ruĝan dormĉapon
+kaj malsuprenpendante de kiu flirtadis flago sur kiu estis desegnita
+malkutima kunigaĵo da steloj kaj strioj. Tio ĉio strangis kaj
+malkompreneblis.
+
+Sur la signo tamen li rekonis la rubenruĝan vizaĝon de Reĝo Georgo sub kiu
+li tiel ofte antaŭe fumis trankviligan pipon. Sed eĉ tiu-ĉi kurioze
+metamorfoziĝintis. La ruĝan mantelon anstataŭis blu- kaj ĉamkoloraĵo. Ne
+sceptron sed glavon retenis la mano. Deklivangulan ĉapelon portis la kapo.
+Sube, pentrite en grandaj literoj, aperis la nomo: GENERALO VAŜINGTONO.
+
+Laŭkutime ĉirkaŭ la pordo homamaso kunpremiĝis sed Ripo rekonis nenian
+vizaĝon. Ŝajne la karaktero mem de la homoj ŝanĝiĝis. Ĝi havis aktivan,
+okupatan, disputeman kvaliton anstataŭ la kutimaj flegmo kaj dormema
+trankvilo. Vane li serĉis la saĝan Nikolaon Vederon, kun lia larĝa vizaĝo,
+duobla mentono kaj bela longa pipo, eligantan ne sencelajn diskursojn sed
+tabakajn fumnubojn. Vane li serĉis Van-Bumelon, la lernejestron, dise
+informantan pri la enhavaĵo de malnovega ĵurnalo. Anstataŭe maldika
+galulo, kun poŝoj plenigitaj je flugfolioj, bombastadis fervore pri
+civitanrajtoj, elektoj, kongresanoj, libereco, Bunker-Monteto, herooj de
+sepdek ses kaj aliaj vortoj kiuj konsistigis por la mistifikita Sinjoro
+Van-Vinklo nepre Babelan ĵargonon.
+
+La aspekto de Ripo, kun lia longa grizigita barbo, lia rusta pafilo, lia
+kruda vestaĵaro kaj la armeo da virinoj kaj infanoj lin postsekvantaj
+ĉekalkane baldaŭ atentigis la tavernajn politikistojn. Ili ĉirkaŭamasiĝis
+lin, okulkontrolante lin ege scivoleme de kapo al piedo. La oratoro
+alvenis lin hastacele kaj, iom lin apartigante, demandis "por kiu partio
+li votis?" Ripo lin fiksrigardis kun senpensa stulteco. Alia malalta sed
+aktiva uleto altiris lian brakon kaj leviĝinte piedpinten, demandis
+apudorele "ĉu li estas Federalisto aŭ Demokrato?" Same kiel antaŭe Ripo ne
+sukcesis kompreni la demandon. Sciŝajna sinadmira maljunulo, surportante
+deklivangulan ĉapelon, malfermis vojon tra la homamaso, dum la trapasado
+perkubute situigante apartajn homojn dekstra- kaj maldekstraflanken. Sin
+ekstariginte antaŭ Van-Vinklo, arkiginte unu brakon, ripoziginte la alian
+sur sian lambastonon, samtempe dum liaj akravidaj okuloj kaj akrangula
+ĉapelo kvazaŭ penetris la animon mem de la reveninto, li demandis gravtone
+"kio lin alvenigis al la elekto kunportantan pafilon surŝultre kaj
+postsekvatan de kanajlaro kaj ĉu li celas estigi tumulton en la urbo?"
+
+"Ho, ve! Sinjoroj," lamentis Ripo, iom konsternite, "mi estas simpla
+pacema viro, denaska ĉi-lokano, lojala servanto de la reĝo, Dio benu lin!"
+
+La ĉirkaŭantoj eligis ĝeneralan kriegon. "Lojalisto! Lojalisto! Spiono!
+Rifuĝinto! Forigu lin! Li haste foriru!" Nur ege malfacile la sinadmiranto
+surportanta la oblikvangulan ĉapelon repacigis la spektantaron kaj,
+dekoble plisoleniginte la frunto, denove demandis al la nekonata kulpinto
+kial li tien alvenis kaj kiun li serĉas? La kompatindulo deklaris humile
+ke li nepre ne celas estigi malbonon, alveninte nur serĉe de kelkaj
+najbaroj antaŭe frekventintaj la tavernon.
+
+"Nu, kiuj ili estas? Ilin nomu."
+
+Ripo pensegis momenton, tiam demandis: "Kie estas Nikolao Vedero?"
+
+Estiĝis iomtempa silento. Tiam maljunulo respondis en malpeza fajfsona
+voĉo. "Nikolao Vedero! Nu, li jam mortis kaj forpasis antaŭ dek ok jaroj!
+Antaŭe en la preĝeja tombo vidiĝis ligna tombosignaĵo informanta pri li
+sed poste ankaŭ tiu putris kaj foriris."
+
+"Kie estas Bromo Duĉero?"
+
+"Ho, li soldatiĝis komence de la milito. Iuj diras ke li mortis okaze de
+la atako ĉe Ŝtona-Kabo. Aliaj diras ke li dronis dum tempesto ekestiĝinta
+ĉebaze de Antonio-Nazo. Mi ne scias. Li neniam revenis."
+
+"Kie estas Van-Bumelo, la lernejestro?"
+
+"Ankaŭ li soldatiĝis, generaliĝis grandhonore, kaj nun postenulas en
+Kongreso."
+
+La koro de Ripo mortumis kiam li priaŭdis la malfeliĉigajn ŝanĝojn
+okazintajn en lia hejmvilaĝo kaj ĉe liaj hejmamikoj. Li sentis sin sola en
+la mondo. Ankaŭ lin mistifikis ĉiu respondo ĉar temis pri grandegaj
+tempotruoj kaj malkompreneblaj aferoj: milito, kongreso, Ŝtona Kabo.
+Mankis al li sufiĉe da kuraĝo por demandi informojn pri ceteraj amikoj kaj
+malespere li kriegis: "Ĉu neniu konas Ripon Van-Vinklon?"
+
+"Ho, Ripo Van-Vinklo!" ekkriis du-tri homoj. "Ho, certe! Jen situas Ripo
+Van-Vinklo tie for, sin apogante kontraŭarben."
+
+Ripo rigardis kaj vidis akuratan duoblaĵon de si en la epoko kiam li
+surgrimpis la monton: verŝajne tiel pigran kaj certe tiel malbone
+vestitan. Nun la kompatindulo entute konsterniĝis. Li pridubis sian
+propran identecon: ĉu li estas si mem, ĉu li estas aliulo? Meze de tiu
+konsterniĝo la deklivangul-ĉapelulo demandis kiu li estas kaj kio estas
+lia nomo?
+
+"Dio scias!" li ekkriis, sen daŭra penskapablo. "Mi ne estas mi. Mi estas
+iu alia. Jen mi estas tie for. Ne, tiu forulo estas alia homo staranta en
+miaj ŝuoj. Hieraŭvespere mi estis mi, sed mi ekdormis surmonte kaj oni
+ŝanĝis mian pafilon kaj ĉio ŝanĝiĝis kaj mi ŝanĝiĝis kaj nun mi ne plu
+scias kiel mi nomiĝu nek kiu mi estu!
+
+La apudstarantoj nun komencis sin rigardu unu la alian, kapjesi,
+palpebrumi gravmiene, bateti la fingrojn kontraŭfrunten. Oni proponis
+flustravoĉe sekurigi la pafilon cele al malhelpi la maljunulon sin
+malbonfartigi. Aŭdinte tiun proponon la sinadmiranto surportanta la
+sensimetrian ĉapelon iom haste retiriĝis.
+
+En tiu grava momento freŝvizaĝa belforma virino sin antaŭenŝovumis tra la
+homamaso, celante ekvidi la grizbarban viron. Ŝi portis en la brakoj
+diketan infanon kiu, ektiminte pro la aĉa aspekto de la grizbarbulo,
+ekploregis. "Silentu, Ripo!" ŝi kriordonis. "Silenton, mi petas,
+stultuleto! La maljunulo ne vin difektos." La nomo de la infano, la
+maniero de ties patrino, la tono de ŝia voĉo, ĉio aktivigis en lia menso
+sinsekvon da memoraĵoj. "Kio estas via nomo, estimata bonvirino?" li
+petis.
+
+"Ĝudito Gardenjero."
+
+"Kaj la nomo de via patro, kio ĝi estis?"
+
+"Ho, la kompatindulo! Ripo Van-Vinklo li nomiĝis sed jam forpasis dudek
+jaroj ekde kiam li forlasis nian hejmon kun sia pafilo kaj neniam poste
+reaŭdigis novaĵojn pri si. Lia hundo hejmenrevenis sen li. Ĉu li sin
+mortpafis, ĉu Indianoj lin forkaptis, pri tio neniu certas. Mi estis tiam
+nur knabineto."
+
+Restis al Ripo nur unu plua demando por starigi, sed li starigis ĝin kun
+hezita voĉo.
+
+"Kie estas via patrino?"
+
+"Ho, ŝi mortis antaŭ nur mallonga tempo, rompinte sangoangion okaze de
+kverelo kun Nov-Anglia kolportisto."
+
+Almenaŭ tiu informero sentigis al Ripo iom da konsolo. La honesto viro ne
+plu kapablis sin reteni. Li ĉirkaŭbrakis kaptomode sian filinon kaj ŝian
+infanon. "Mi estas via patro!" li ekkriis. "Antaŭe Ripo Van-Vinklo la
+juna! Hodiaŭ Ripo Van-Vinklo la maljuna! Ĉu neniu rekonas la kompatindan
+Ripon Van-Vinklon?"
+
+Ĉiuj staradis mirigite, ĝis kiam maljunulino, elirante ŝancelpaŝe la
+amason, metis la manon surfrunten kaj dummomente okulkontrolante sub ĝi la
+vizaĝon de Ripo, proklamis: "Certege! Ripo Vin-Vinklo li estas! Ripo mem!
+Bonan hejmenrevenon, longtempa najbaro! Nu, kie vi pasigis tiujn dudek
+longajn jarojn?"
+
+Sian aventuron Ripo rapide rakontis ĉar la dudek jarojn li pasigis same
+kiel unu nokton. La najbaroj fiksrigardis, aŭskultante la rakonton. Iuj
+palpebrumis unu al la alia kaj envangenigis la langon. La sin admiranto
+kun la deklivangula ĉapelo, alreveninte la scenejon nur fine de ĉiu
+danĝero, malgajigis la buŝon kaj ŝancelis la kapon, responde al kio okazis
+ĝenerala kapŝanceliĝo tra la tuta kunvenintaro.
+
+Tiuj kunkonsentis tamen agi laŭ la opinio de Petro Vanderdonko kiun ili
+vidis ĵus tiam antaŭenveni malrapide laŭ la vojo. Li estis posteulo de la
+samnoma historiisto kiu verkis unu el la plej fruaj raportoj pri la
+provinco. Petro, la plej aĝa loĝanto de la vilaĝo, estis bone informita
+pri ĉiuj mirindaj okazintaĵoj kaj tradicioj de la regiono. Tuj li memoris
+Ripon kaj konfirmis en ege kontentiga maniero la raporton de tiu. Li
+certigis al la vilaĝanoj tion ke, laŭ informo transdonita al li fare de
+lia historiista antaŭulo, ekde ĉiam strangaj estaĵoj hantis Katskilajn
+Montojn. Ekzemple, la multfama Hendriko Hudsono, unua malkovrinto de la
+rivero kaj la regiono, rendevuas en tiu loko ĉiujn dudek jarojn kun la
+ŝipanaro de Duon-Luno, tiel sukcesante reviziti la agadejon de sia antaŭa
+entreprenado kaj prizorgi la riveron kaj la urbon portantajn lian nomon.
+Aldonekzemple, la patro de Petro vidis ilin foje, vestitajn laŭ antikva
+Nederlanda modo kaj ludkuglantajn en la montovaleto. Petro aŭdis
+proprapersone iun someran posttagmezon iliajn forajn tondrokraksonajn
+kuglopilkojn.
+
+Por mallongigi longan historion, la kuniĝintaro diskuniĝis, preferante
+okupiĝi denove pri la pli gravaj aferoj de la elekto. La filino de Ripo
+lin hejmenkondukis ĉe si. Ŝi pridisponis komfortan bonmeblitan dometon kaj
+dikan gajan kultivistan edzon kiun Ripo rekonis kiel unu el la buboj
+antaŭe surgrimpadintaj lian dorson. Rilate al la filo kaj heredonto de
+Ripo, kiu estis la duoblulo de la patro kaj kiu vidiĝis antaŭe sin
+apogante kontraŭarben, tiu dungiĝis kiel laboristo sur la familia bieno.
+Li elmontris tamen heredan preferon okupiĝi pri ĉio ajn krom siaj
+proprabienaj devoj.
+
+Ripo nun reaktivigis siajn antaŭajn promenadojn kaj kutimojn. Baldaŭ li
+rerenkontis multajn antaŭajn kunulojn, kvankam ili iomege suferis pro
+uzdifektado kaj tempoerodado, kaj li komencis preferi amikiĝi kun la
+noveminentiĝanta generacio ĉe kiu li baldaŭ sin ege estimigis.
+
+Havante nenion farotan ĉehejme, atinginte tiun feliĉan aĝon kiam viro
+rajtas senokupiĝi senriproĉe, li reprenis denove sian surbenkan sidlokon
+ĉe la gasteja pordo kaj eminentiĝis kiel unu el la patriarkoj de la vilaĝo
+kaj kronikistoj pri la forpasintaj "antaŭmilitaj" jaroj. Necesis al li iom
+da tempo antaŭ ol povi sin ĝisdatigi pri aktualaj klaĉaĵoj aŭ ekkompreni
+la strangajn eventojn okazintajn dum lia dormado: ekzemple, tion ke okazis
+sendependeca milito; ke la lando maljungiĝis disde malnova Anglio; ke,
+anstataŭ esti servanto de Lia Reĝa Moŝto Georgo la Tria li nun estis
+libera civitano de Unuiĝintaj Ŝtatoj.
+
+Efektive, Ripo neniel estis politikisto. Ŝtataj kaj imperiaj ŝanĝoj neniel
+lin afekciis. Restis tamen unu specio de despotismo sub kiu li longe
+suferis: virinjupa regado. Feliĉe, tio nun finiĝis. Li forigis la kolon el
+la jugo de la geedza vivo. Li rajtis forlasi kaj reveni la hejmon laŭvole
+sen timi la tiranecon de Sinjorino Van-Vinklo. Tamen kiam ajn oni menciis
+ŝian nomon, li ŝancelis la kapon, levis la ŝultrojn, rigardis
+ĉieldirekten: konduto kiu interpreteblis kiel aŭ rezignacio pri lia sorto
+aŭ ĝojo pri lia savo.
+
+Li kutimis rakonti sian historion al ĉiu fremdulo alveninta la gastejon de
+S-ro Dolitlo. Komencaetape, laŭ onia observo, li iom ŝanĝis diversajn
+detalojn okaze de ĉiu nova rakontado, pro tio sendube ke li nur tre
+lastatempe vekiĝis. Finfine tamen la evento konkretiĝis en la rakonton
+kiun mi ĵus raportis kaj ĉiuj viroj, virinoj kaj infanoj de la regiono ĝin
+parkerigis. Iuj ĉiam pretendis dubi ties veron, deklarante ke Ripo
+freneziĝis kaj ke raportante pri la afero li ĉiam malkonstantas. La
+maljunaj Nederlandaj loĝantoj tamen, preskaŭ senescepte, bonvolis ĝin
+kredi. Eĉ hodiaŭ, kiam ajn ili aŭdas somerposttagmezan fulmotondron en
+Katskilaj Montoj, ili diras ke Hendriko Hudsono kaj lia ŝipanaro
+ludkuglas. Komuna deziro de ĉiuj virinregataj edzoj de la regiono estas,
+kiam la vivo tro monotoniĝas, ekpovi trinki trankviligan ĉerpon el la
+flakono de Ripo Van-Vinklo.
+
+
+
+
+
+AL LA LEGANTO
+
+
+Estimata kaj Kara Leganto! Ĉu iam perfida malsano vin embuskis meze de
+agrabla ekskurso? Ĉu ĝi stumbligis viajn kalkanojn kaj izoligis vin en la
+soleco de gasteja ĉambro, nombrantan la lacigajn horojn dum tiuj
+preterpasis? Se jes, vi scipovos min kompati. Jen mi estas, interrompite
+dum la evoluo de mia ekskurso sur la belaj bordoj de Rejno-Rivero kaj
+enlitigite pro malbonfarto en tiu-ĉi malnova landlima urbo Majenco. Mi
+elĉerpis ĉiun distriĝrimedon. Mi konas la voĉon de ĉiu horloĝo kiu anoncas
+kaj la sonon de ĉiu sonorilo kiu sonoras en la loko. Mi scias precize en
+kiu sekundo aŭskulti la unuan ekbaton de la Prusa tamburo kiu alvokas la
+garnizonon al la paradejo, aŭ je kiu horo atendi la foran muzikon de la
+Aŭstria militbando. Ĉiuj tiuj finestiĝis lacigaj por mi. Eĉ la bone konata
+promenpaŝaro de mia kuracisto dum li laŭiras malrapide la koridoron,
+efektivigante kuracadon en la grincado mem de siaj ŝuoj, ne plu estigas
+plaĉan interrompon al la monotonio de mia apartamento.
+
+Dum iom da tempo mi entreprenis ĉarmi la lacigajn horojn lernante la
+Germanan lingvon sub la estrado de Katarino, la bela filineto de mia
+gastiganto. Baldaŭ tamen mi konsciis ke eĉ la Germana ne havas sufiĉan
+forton por kontentigi malviglajn orelojn kaj la konjugado de la verbo _ich
+liebe_ povus senpotenciĝi, kiel ajn rozkoloraj estu la ĝin eldirantaj
+lipoj.
+
+Mi deziris legi sed mia menso malkonsentis koncentriĝi. Mi kontrolis
+volumon post volumo sed ilin forĵetis kun malplezuro. "Nu, tial," diris mi
+tempofine, senesperigite, "se mi ne kapablas legi libron, mi verku unu."
+Neniam ekkonceptiĝis pli bonŝanca ideo. Tuj ĝi havigis al mi okupiĝon kaj
+distriĝon. Verki libron konsideriĝis en malnovaj tempoj kiel labora kaj
+malfacila entrepreno, ĉar oni nomis "verko" la plej sengravecan
+elpensaĵaĉon kaj la mondo parolis kun miro kaj pietato pri "la laboro de
+la saĝemuloj". Tiujn aferojn oni pli bone komprenas hodiaŭ.
+
+Danke al la plibonigoj okazigitaj en ĉiuj specoj de fabrikado, la
+librofara arto jam sin konigis eĉ en siaj plej malaltnivelaj detaletoj.
+Ĉiu estas aŭtoro. La senokupuloj skribaĉas foliantojn por pasigi la
+tempon. Junaj ĝentlemanoj ĵetverkas paron da dozavoj dum la paŭzintervaloj
+de la sportsezono. La junulino estigas sian volumaron kun la sama facilo
+kun kiu ŝia avino fabrikis aron da seĝmalsupraĵoj.
+
+Tial ankaŭ mi eksentis la deziron verki libron kaj la legonto konscios
+facile ke kontentigi la deziron ne estis malfacila afero. Mi serĉfosis
+mian tekon kaj serĉkontrolis inter miaj memoraĵoj tiujn ŝvebantajn
+materialojn kiujn homo kutime kolektas vojaĝante, kaj mi ilin aranĝis en
+ĉi-tiu verketo.
+
+Ĉar mi konscias ke ni vivas en rakontdira kaj rakontlega epoko kaj ke la
+mondo ŝatas instruiĝi pere de apologio, mi kunresumas en kelkajn rakontojn
+la lecionojn kiujn plaĉus al mi transdoni. Povas esti ke ili ne havas
+distripovon, malsame kiel la rakontoj kiujn raportas multaj el miaj
+samepokuloj. Tamen mi alttaksas ilin pro la solida moralaĵo kiun enhavas
+ĉiu el ili.  Eblas ke tio ne videblas en la unuaj legmomentoj sed la
+leganto certe konscios pri tio ilin finleginta. Mi preferas sanigi la
+mondon per mildaj aliigaĵoj, ne per perfortaj dozoj. Efektive, necesas ke
+la malsanulo neniam konsciu pri tio ke li prenas dozon. Mi lernis almenaŭ
+tion rezulte de miaj spertoj submane de la estimata Hipokrato de Majenco.
+
+Mi ne favoras tial tiujn nudvizaĝajn rakontojn portantajn siajn moralaĵojn
+sursurface, fiksrigardantajn senpere la vizaĝon de la leganto. Ili sufiĉas
+por forturni la ofendiĝeman leganton. Tute kontraŭe, mi ofte kaŝis mian
+moralaĵon, kamuflante ĝin laŭeble plej multe per sukeraĵoj kaj spicaĵoj
+por ke, dum la ordinara leganto aŭskultas kun malfermita buŝo fantom- aŭ
+amrakonton, li ricevu en la gorĝon solidan moralecboluson tien
+ruzenŝovitan sen iam konscii pri la ruzo.
+
+Pro tio ke la publiko emas scivoli pri la fontoj el kiuj aŭtoro ĉerpas
+siajn rakontojn, ne certante ĉu ĝi rajtas nek ĝis kiu punkto ilin fidi, mi
+informu ke Aventuro de la Germana Studento, aŭ la lasta parto de ĝi,
+baziĝas sur anekdoto transdisponigita al mi el, laŭraporte, Franclingva
+fonto. Efektive, oni diris al mi, post kiam mi jam verkis ĝin, ke Angla
+aŭtoro estigis genian samfonte bazitan rakonton. Mi neniam vidis tamen
+presitan ekzempleron aŭ de la unua aŭ de la dua. Kelkaj cirkonstancoj de
+Aventuro de la Mistera Pentraĵo kaj de Rakonto de la Juna Italo estas
+svagaj memoraĵoj pri anekdotoj rakontitaj al mi antaŭ kelkaj jaroj sed mi
+ne scias el kiuj fontoj mi ilin akiris. Aventuro de la Juna Pentristo
+inter la banditoj pruntepreniĝis preskaŭ entute de aŭtenta manuskripta
+rakontaĵo.
+
+Pri la ceteraj rakontoj enhavataj en ĉi-tiu verko, kaj efektive pri miaj
+rakontoj ĝenerale, mi povas starigi nur unu komenton. Mi estas maljuna
+vojaĝanto. Mi iom legis, aŭdis kaj vidis pli, kaj pleje revadis. Mia cerbo
+tial plenas je multegaj diversaĵoj. Kiam mi vojaĝas, tiuj heterogenaj
+temoj miksiĝas en mia menso, same kiel vestaĵoj miksiĝas en malbone pakita
+ekskursokofro. Tial kiam mi entreprenas eltiri fakton mi ne certas ĉu mi
+legis, aŭdis aŭ revis ĝin. Kaj mi ĉiam dubas pri kiom el miaj propraj
+rakontoj mi rajtas kredi.
+
+Atentinte tiujn informojn, vi nun eklegu, estimata legonto, kun bona
+deziro, kaj preter ĉio, kun bona humoro, la kolektaĵon kiu ĉi-tie
+prezentiĝas. Se finestiĝas malbonaj la rakontoj per kiuj mi vin provizas,
+almenaŭ ili finestiĝas mallongaj. Tial neniu laciĝos dum longa tempo
+legante ununuran rakonton. "Malsameco ĉarmas," deklaras iu poeto.
+
+Ŝanĝo trankviligas, eĉ se la ŝanĝo iras de malbono al plimalbono. Kiel mi
+multofte konsciis vojaĝante en diliĝenco, eblas al la sidanto iom sin
+komfortigi ŝanĝante sidpozon kaj kontuziĝante en nova parto de la korpo.
+
+                                                                Ĉiam via,
+                                                           Ĝofredo Krajono
+
+Datigita ĉe Hotel-Darmŝtato
+kontraŭvide de Hotel-Parizo
+Majnco, alie nomiĝanta Majenco
+
+
+
+
+
+AVENTURO DE LA GERMANA STUDENTO
+
+
+En ŝtorma nokto, en la tempesta epoko de Franca Revolucio, juna Germano
+revenis al sia loĝejo je malfrua horo trans la malnovan parton de Parizo.
+La fulmo brilis kaj la laŭtaj tondrokrakoj klakadis laŭ la altaj mallarĝaj
+stratoj. Sed unue mi iom parolu al vi pri tiu juna Germano.
+
+Gotfredo Volfgango estis juna viro de bona familio. Li studis dum kelke da
+tempo en Gotingeno, sed havante vizian kaj entuziasman karakteron, li
+vagrenkontis tiujn senbridajn kaj spekulativajn doktrinojn tiel ofte
+mistifikintajn Germanajn studentojn. Lia izolita vivmaniero, lia intensa
+diligenteco kaj la aparta naturo de liaj studobjektoj efikis sur lin ne
+nur mense sed ankaŭ korpe. Lia sano estis difektita; lia imago,
+malsanigita. Li sin indulgis farante fantaziajn konjektojn pri spiritaj
+esencoj ĝis kiam, kiel Svedenborgo, li konsistigis ĉirkaŭ si idealan
+mondon sian. Li konceptis la ideon, fontintan el mi ne scias kiu kaŭzo, ke
+lin superpendas malbona influo: malica genio aŭ spirito celanta lin
+malliberigi kaj certigi lian damnon. Tia ideo trudis al lia melankolia
+temperamento, estigis la plej malĝojajn efikojn. Li marasmiĝis kaj
+deprimitiĝis. Liaj amikoj ekkonsciis pri la lin ĝenanta mensa malsano kaj
+opiniis ke la plej bona sanigo estos translokiĝo. Tial oni sendis lin al
+Parizo por finplenumi sian lernadon inter la tieaj pompoj kaj distraĵoj.
+
+Volfgango atingis Parizon je la ekkomenco de la revolucio. Unue la popola
+deliro kaptis lian entuziasman menson kaj lin ravis la tiamaj politikaj
+kaj filozofiaj teorioj. Tamen la sekvintaj sangaj scenoj ŝokis lian
+tuŝiĝeman naturon, naŭzigis lin pri la socio kaj la mondo kaj des pli
+hermitigis lin. Li sin izoligis en soleca apartamento de Latin-Lando, la
+kvartalo de la studentoj. Tie, en morna strato proksime al la monaĥecaj
+muroj de Sorbono, li entreprenis siajn plej ŝatatajn spekulativadojn. Foje
+li pasigis sinsekvajn horojn en la grandaj bibliotekoj de Parizo, tiuj
+katakomboj de forpasintaj aŭtoroj, serĉfosante iliajn amasojn da polvaj
+kaj arkaikaj verkoj esperante malkovri nutraĵon por sia malsana apetito.
+Li estis, por tiel diri, literatura nekrofiliulo, bankedante en la ostejo
+de putrinta literaturo.
+
+Volfgango, kvankam soleca kaj ermitema, havis ardan temperamenton, sed dum
+kelke da tempo ĝi influis nur lian imagon. Li estis tro timida kaj
+malmondeca por amindumi belulinojn sed li admiris entuziasme la virinan
+belecon kaj en sia soleca ĉambro ofte sin perdis revante pri viditaj
+formoj kaj vizaĝoj kaj lia fantazio ornamis bildojn pri beleco multe
+superantajn tiujn de la reala mondo.
+
+Dum lia menso enestis tiun ekscititan kaj sublimitan staton, sonĝo estigis
+eksterordinaran efekton ĉe li. Ĝi estis virina vizaĝo de transcenda
+beleco. Tiel forta estis la efekto ke li prisonĝis ĝin foje kaj refoje. Ĝi
+hantis liajn dumtagajn pensadojn, liajn dumnoktajn dormadojn. Finfine li
+arde enamiĝis al tiu sonĝombro. Ĝi daŭris tiel longe ke ĝi fariĝis unu el
+tiuj fiksitaj ideoj kiuj hantas la mensojn de melankoliaj viroj kaj ofte
+misidentiĝas kun frenezio.
+
+Tia estis Gotfredo Volfgango kaj tia lia stato en la tempo kiun mi
+menciis. Li hejmenrevenis malfruhore iun ŝtorman nokton laŭ kelkaj
+malnovaj kaj malhelaj stratoj de Marĉo-Kvartalo, la antikva parto de
+Parizo. La laŭtaj tondrokrakoj klakadis inter la altaj domoj de la
+mallarĝaj stratoj. Li atingis Grevo-Placon, la lokon kie ekzekutoj
+efektiviĝis. La fulmo tremetis inter la altaĵoj de la antikva Urbodomo kaj
+faligis flagretantajn briletojn sur la malplenejon antaŭ ĝi. Dum li
+transiris la placon, Volfgango kaŭre retiriĝis pro hororo sin trovinte
+apud la gilotino. Estis la kulmino de la terorregno kiam tiu timigega
+mortilo staris ĉiam en preteco kaj ĝian eŝafodon konstante malsekigis la
+sango de honestaj kaj kuraĝaj homoj. Tiun tagon mem ĝi jam vigle ludrolis
+en buĉoentrepreno kaj tie ĝi staris, makabre armite, meze de silenta kaj
+dormanta urbo, atendante freŝajn viktimojn.
+
+La koro de Volfgango malsaniĝis en li kaj li forturniĝis tremaĉante disde
+la horora aparato kiam li ekvidis ombran formon kvazaŭ kaŭrantan ĉebaze de
+la ŝtuparo supreniranta al la gilotino. Sinsekvo da brilegaj
+fulmoflagraĵoj malkovris ĝin pli klare. Ĝi estis virina figuro vestita
+nigrakolore. Ŝi sidis sur unu el la malsupraj ŝtupoj de la eŝafodo,
+antaŭenkliniĝante, kaŝante sian vizaĝon sur la genuoj. Ŝiaj longaj
+taŭzitaj harbukloj pendis ĝistere malsupren funelante la pluvon kiu falis
+torente.
+
+Volfgango paŭzis. Tiu soleca vemonumento kamuflis ion teruran. La virino
+aspektis kiel malkomunrangulino. Li sciis ke la epoko plenas je
+sortoŝanĝoj kaj multaj belaj kapoj antaŭe dormintaj sur lanugo nun
+vagnomadas senhejme. Eble ĉi-tiu kompatinda lamentanto malĝojigita far la
+timiga hakilo sidis surrande de la ekzisto disde kie estis jam lanĉita en
+foran eternecon ĉio kion ŝi altvalorigis.
+
+Li alproksimiĝis kaj alparolis ŝin kun kompataj akcentoj. Ŝi levis la
+kapon kaj lin rigardis sovaĝe. Vi konceptu lian surprizon kiam li ekvidis
+en la hela fulmlumo la vizaĝon mem lin hantintan en liaj sonĝoj. Ĝi estis
+pala kaj malĝoja, tamen rave belega.
+
+Tremante pro potencaj kaj kontraŭstarantaj emocioj, denove Volfgango
+alparolis ŝin. Li diris ion pri ŝia estado en malŝirmiĝo je tiel malfrua
+noktohoro kaj pri la furiozo de la ŝtormo kaj proponis ŝin konduki ĝis ĉe
+ŝiaj amikoj. Ŝi indikis la gilotinon kun fingrogesto de horora signifo.
+
+"Mi havas nenian surteran amikon," diris ŝi.
+
+"Tamen vi havas hejmon," diris Volfgango.
+
+"Jes. En la tombo!"
+
+La studenta koro fandumiĝis reage al tiuj vortoj.
+
+"Se nekonato rajtus starigi inviton," diris li, "sen riski sin
+miskomprenigi, mi proponus mian modestan loĝejon kiel ŝirmejon kaj min
+kiel lojalan amikon. Mi mem havas neniajn amikojn en Parizo kaj estas
+fremdulo en ĉi-tiu lando. Sed se mia vivo povus vin servi, ekdisponu ĝin.
+Ĝin mi eĉ oferos antaŭ ol permesi difekton aŭ humiligon vin atingi."
+
+Estigis efekton la honesta seriozo de la konduto de la junulo. Favoris lin
+ankaŭ lia fremdalanda parolmaniero, pruvante ke li ne estis banaldiraĵa
+Parizano. Efektive, aŭtenta entuziasmo havas maldubendan elokventecon. La
+senhejma nekonatino sin konfidis senrezerve al la protektado de la
+studento.
+
+Li subtenis ŝiajn hezitajn paŝojn dum ili transiris Nov-Ponton proksime al
+la loko kie popolamaso lastatempe terenĵetis la statuon pri Henriko la
+Kvara. La ŝtormo jam paciĝis kaj la tondro muĝetis en la fora distanco.
+Parizo entute silentis. Tiu granda vulkano da homaj pasioj dormis
+dumtempe, kunigante freŝan potencon por la venonttaga erupcio.
+
+La studento kondukis sian zorgatinon tra la antikvaj stratoj de
+Latin-Lando, laŭlonge de la malhelaj muroj de Sorbono, ĝis la granda morna
+hotelo kiun li enloĝis. La maljuna pordistino ilin enlasinta fiksrigardis
+surprizite la malkutiman vidaĵon kiun konsistigis la melankolia Volfgango
+kaj lia nova amikino.
+
+Enirante sian apartamenton, la studento ruĝiĝis kiel neniam antaŭe pro la
+malabundeco kaj ordinareco de sia loĝejo. Li disponis ununuran
+ĉambron--malnovmodan salonon--ege ornamitan per ĉizaĵoj kaj fantazie
+meblitan per restintaĵoj de antaŭa lukso ĉar ĝi situis en unu el tiuj
+domegoj de Luksemburgo-Palaco-kvartalo antaŭe apartenintaj al nobeloj. Ĝi
+plenegis je libroj kaj paperoj kaj ĉiuj kutimaj studentaj havaĵoj kaj lia
+lito staris en ĉambroekstremaĵa alkovo.
+
+Kiam lumoj alportiĝis kaj Volfgango povis pli bone rigardi la nekonatinon,
+ŝia aspekto des pli forte ravis lin. Ŝia vizaĝo estis pala sed blindige
+bela, reliefigite per abundo da korakkolora hararo ĝin ĉirkaŭpendanta en
+bukloj. Ŝiaj okuloj estis grandaj kaj brilaj kaj havis apartan
+rigardmanieron kiu ŝajnis preskaŭ sovaĝa. Ŝia korpo, laŭ la kelkaj indicoj
+kiujn elmontris ŝia nigra robo, havis perfektan simetrion. Ŝia tuta
+aspekto estis ege impona, kvankam ŝi vestiĝis en modo ege simpla. La
+ununura ornamaĵo kiun ŝi surportis estis larĝa, nigra, ĉirkaŭkola rubando
+agrafita per diamantoj. Nun ekstariĝis antaŭ la studento la problemo kiel
+pritrakti la senrimedan estaĵon enirintan ĵetrapide lian respondecejon. Li
+konsideris forlasi sian ĉambron al ŝi kaj serĉi aliloke ŝirmejon por si.
+Tamen tiel ravis lin ŝia beleco, sorĉo ŝajnis tiel forte influi liajn
+pensojn kaj sensojn ke li ne sukcesis sin apartigi disde ŝia kompanio.
+Ankaŭ ŝia maniero estis malkutima kaj neklarigebla. Ŝi ne plu parolis pri
+la gilotino. Ŝia malĝojo malpligrandiĝis. La atentoj de la studento venkis
+unue ŝian fidon kaj tiam, verŝajne, ŝian koron. Ŝi estis, laŭindikaĵe,
+entuziasmulino, same kiel li estis entuziasmulo, kaj la samspecanoj baldaŭ
+sin komprenis unu la alian.
+
+En la furoramo de la momento, Volfgango konfesis la pasion kiun li sentis
+pri ŝi. Li rakontis al ŝi sian misteran sonĝon, kiel ŝi venkis lian koron
+jam antaŭ ol li iam vidis ŝin. La rakonto ŝin afekciis strange kaj ŝi
+konfesis esti sentinta por li altiron egale neklarigeblan. Estis epoko de
+senbrida teorio kaj senbridaj agoj. Malnovaj antaŭjuĝoj kaj superstiĉoj
+forbalaiĝis. Ĉio evoluis subrege de la Diino de Rezonado. Inter aliaj
+stultaĵoj de la antikva periodo, la formoj kaj ceremonioj de geedziĝo
+komencis konsideriĝi ĉe honoraj mensoj kiel superfluaj ligoj. Sociaj
+interkonsentoj fariĝis furormodo. Volfgango estis tro teoriulema por ke ne
+infektu lin la liberalaj doktrinoj de la epoko.
+
+"Kial ni apartiĝu unu disde la alia?" diris li. "Niaj koroj estas
+unuiĝintaj. Antaŭ la rigardo de rezono kaj honoro ni estas kvazaŭ unu.
+Kial ni bezonu malpurajn formojn por kunligi superajn animojn?"
+
+La fremdulino aŭskultis emocie. Verŝajne ŝi jam edukiĝis pri la sama
+filozofio.
+
+"Vi havas nek hejmon, nek familion," li daŭre parolis. "Mi estu ĉio por
+vi, aŭ pli bone, ni estu ĉio unu por la alia. Se formon ni bezonas, formon
+ni observu. Jen mia mano. Mi devontigas min al vi por ĉiam."
+
+"Ĉu por ĉiam?" diris solene la nekonatino.
+
+"Por ĉiam!" ripetis Volfgango.
+
+La fremdulino alprenis la etenditan manon. "Tial mi estas via," ŝi
+murmuris kaj falis sur lian bruston.
+
+La sekvintan matenon la studento forlasis sian dormantan edzinon kaj
+eliris fruhore serĉonte apartamenton kiu pli konvenu al lia nova situacio.
+Kiam li revenis, li trovis la virinon kuŝantan sur la lito kun unu brako
+kaj la kapo preterpendantaj la randon de la meblo. Li alparolis ŝin sed ŝi
+ne respondis. Li antaŭenpaŝis por veki ŝin el ŝia malkomforta kuŝpozo.
+Kiam li alprenis ŝian manon, ĝi estis malvarma. Li sentis nenian
+pulsobatadon. Ŝia vizaĝo estis pala kaj makabra. Unuvorte, kadavro ŝi
+estis. Hororigite, frenezigite, li alarmis la domloĝantaron. Sekvis sceno
+de konfuzo. La polico alvokiĝis. Policano eniris la ĉambron. Li retiriĝis
+salte ekvidinte la kadavron.
+
+"Bonĉielo!" li ekkriis. "Kiel tiu virino alvenis ĉi-tien?"
+
+"Ĉu vi havas informaĵojn pri ŝi?" diris avide Volfgango.
+
+"Ĉu informaĵojn mi havas?" respondis la policano. "Ŝi gilotiniĝis hieraŭ."
+
+Li antaŭenpaŝis, disigis la nigran kolumon ĉirkaŭantan la kolon de la
+kadavro kaj la kapo terenruliĝis.
+
+La studento ekfrenezegiĝis. "La diablo! La diablo min ekposedis!" li
+ŝirkriis. "Mi estas eterne perdita!"
+
+Ili entreprenis lin trankviligi sed vane. Ekposedis lin la timiga kredo ke
+malica spirito revivigis la mortan korpon por forkapti lin. Li
+senbonsenciĝis kaj mortis en frenezejo.
+
+Ĉi-tie la maljunulo kun la hantita kapo findiris sian rakonton.
+
+"Kaj ĉu ĉi-tio estas aŭtenta fakto?" diris la scivolema viro.
+
+"Nedubenda fakto," respondis la alia. "Mi aŭdis ĝin de la plej bona
+aŭtoritato. La koncerna studento mem rakontis ĝin al mi. Mi vidis lin en
+frenezejo de Parizo."
+
+
+
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK TRI NOVELOJ***
+
+
+
+CREDITS
+
+
+April 20,  2007
+
+            Project Gutenberg Edition
+            Robert L Read
+            Joshua Hutchinson
+            Online Distributed Proofreading Team
+
+
+
+A WORD FROM PROJECT GUTENBERG
+
+
+This file should be named 21195-0.txt or 21195-0.zip.
+
+This and all associated files of various formats will be found in:
+
+
+    http://www.gutenberg.org/dirs/2/1/1/9/21195/
+
+
+Updated editions will replace the previous one — the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg™ electronic works to protect the Project
+Gutenberg™ concept and trademark. Project Gutenberg is a registered
+trademark, and may not be used if you charge for the eBooks, unless you
+receive specific permission. If you do not charge anything for copies of
+this eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given away
+— you may do practically _anything_ with public domain eBooks.
+Redistribution is subject to the trademark license, especially commercial
+redistribution.
+
+
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+
+_Please read this before you distribute or use this work._
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work (or
+any other work associated in any way with the phrase Project Gutenberg),
+you agree to comply with all the terms of the Full Project Gutenberg™
+License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.
+
+
+General Terms of Use & Redistributing Project Gutenberg™ electronic works
+
+
+1.A.
+
+
+By reading or using any part of this Project Gutenberg™ electronic work,
+you indicate that you have read, understand, agree to and accept all the
+terms of this license and intellectual property (trademark/copyright)
+agreement. If you do not agree to abide by all the terms of this
+agreement, you must cease using and return or destroy all copies of
+Project Gutenberg™ electronic works in your possession. If you paid a fee
+for obtaining a copy of or access to a Project Gutenberg™ electronic work
+and you do not agree to be bound by the terms of this agreement, you may
+obtain a refund from the person or entity to whom you paid the fee as set
+forth in paragraph 1.E.8.
+
+
+1.B.
+
+
+Project Gutenberg is a registered trademark. It may only be used on or
+associated in any way with an electronic work by people who agree to be
+bound by the terms of this agreement. There are a few things that you can
+do with most Project Gutenberg™ electronic works even without complying
+with the full terms of this agreement. See paragraph 1.C below. There are
+a lot of things you can do with Project Gutenberg™ electronic works if you
+follow the terms of this agreement and help preserve free future access to
+Project Gutenberg™ electronic works. See paragraph 1.E below.
+
+
+1.C.
+
+
+The Project Gutenberg Literary Archive Foundation (the Foundation or
+PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg™ electronic works. Nearly all the individual works in the
+collection are in the public domain in the United States. If an individual
+work is in the public domain in the United States and you are located in
+the United States, we do not claim a right to prevent you from copying,
+distributing, performing, displaying or creating derivative works based on
+the work as long as all references to Project Gutenberg are removed. Of
+course, we hope that you will support the Project Gutenberg™ mission of
+promoting free access to electronic works by freely sharing Project
+Gutenberg™ works in compliance with the terms of this agreement for
+keeping the Project Gutenberg™ name associated with the work. You can
+easily comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when you
+share it without charge with others.
+
+
+1.D.
+
+
+The copyright laws of the place where you are located also govern what you
+can do with this work. Copyright laws in most countries are in a constant
+state of change. If you are outside the United States, check the laws of
+your country in addition to the terms of this agreement before
+downloading, copying, displaying, performing, distributing or creating
+derivative works based on this work or any other Project Gutenberg™ work.
+The Foundation makes no representations concerning the copyright status of
+any work in any country outside the United States.
+
+
+1.E.
+
+
+Unless you have removed all references to Project Gutenberg:
+
+
+1.E.1.
+
+
+The following sentence, with active links to, or other immediate access
+to, the full Project Gutenberg™ License must appear prominently whenever
+any copy of a Project Gutenberg™ work (any work on which the phrase
+Project Gutenberg appears, or with which the phrase Project Gutenberg is
+associated) is accessed, displayed, performed, viewed, copied or
+distributed:
+
+
+    This eBook is for the use of anyone anywhere at no cost and with
+    almost no restrictions whatsoever. You may copy it, give it away
+    or re-use it under the terms of the Project Gutenberg License
+    included with this eBook or online at http://www.gutenberg.org
+
+
+1.E.2.
+
+
+If an individual Project Gutenberg™ electronic work is derived from the
+public domain (does not contain a notice indicating that it is posted with
+permission of the copyright holder), the work can be copied and
+distributed to anyone in the United States without paying any fees or
+charges. If you are redistributing or providing access to a work with the
+phrase Project Gutenberg associated with or appearing on the work, you
+must comply either with the requirements of paragraphs 1.E.1 through 1.E.7
+or obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+
+1.E.3.
+
+
+If an individual Project Gutenberg™ electronic work is posted with the
+permission of the copyright holder, your use and distribution must comply
+with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed
+by the copyright holder. Additional terms will be linked to the Project
+Gutenberg™ License for all works posted with the permission of the
+copyright holder found at the beginning of this work.
+
+
+1.E.4.
+
+
+Do not unlink or detach or remove the full Project Gutenberg™ License
+terms from this work, or any files containing a part of this work or any
+other work associated with Project Gutenberg™.
+
+
+1.E.5.
+
+
+Do not copy, display, perform, distribute or redistribute this electronic
+work, or any part of this electronic work, without prominently displaying
+the sentence set forth in paragraph 1.E.1 with active links or immediate
+access to the full terms of the Project Gutenberg™ License.
+
+
+1.E.6.
+
+
+You may convert to and distribute this work in any binary, compressed,
+marked up, nonproprietary or proprietary form, including any word
+processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg™ work in a format other than
+Plain Vanilla ASCII or other format used in the official version posted on
+the official Project Gutenberg™ web site (http://www.gutenberg.org), you
+must, at no additional cost, fee or expense to the user, provide a copy, a
+means of exporting a copy, or a means of obtaining a copy upon request, of
+the work in its original Plain Vanilla ASCII or other form. Any alternate
+format must include the full Project Gutenberg™ License as specified in
+paragraph 1.E.1.
+
+
+1.E.7.
+
+
+Do not charge a fee for access to, viewing, displaying, performing,
+copying or distributing any Project Gutenberg™ works unless you comply
+with paragraph 1.E.8 or 1.E.9.
+
+
+1.E.8.
+
+
+You may charge a reasonable fee for copies of or providing access to or
+distributing Project Gutenberg™ electronic works provided that
+
+    - You pay a royalty fee of 20% of the gross profits you derive from
+      the use of Project Gutenberg™ works calculated using the method you
+      already use to calculate your applicable taxes. The fee is owed to
+      the owner of the Project Gutenberg™ trademark, but he has agreed to
+      donate royalties under this paragraph to the Project Gutenberg
+      Literary Archive Foundation. Royalty payments must be paid within 60
+      days following each date on which you prepare (or are legally
+      required to prepare) your periodic tax returns. Royalty payments
+      should be clearly marked as such and sent to the Project Gutenberg
+      Literary Archive Foundation at the address specified in Section 4,
+      Information about donations to the Project Gutenberg Literary
+      Archive Foundation.
+
+      You provide a full refund of any money paid by a user who notifies
+      you in writing (or by e-mail) within 30 days of receipt that s/he
+      does not agree to the terms of the full Project Gutenberg™ License.
+      You must require such a user to return or destroy all copies of the
+      works possessed in a physical medium and discontinue all use of and
+      all access to other copies of Project Gutenberg™ works.
+
+      You provide, in accordance with paragraph 1.F.3, a full refund of
+      any money paid for a work or a replacement copy, if a defect in the
+      electronic work is discovered and reported to you within 90 days of
+      receipt of the work.
+
+      You comply with all other terms of this agreement for free
+      distribution of Project Gutenberg™ works.
+
+
+1.E.9.
+
+
+If you wish to charge a fee or distribute a Project Gutenberg™ electronic
+work or group of works on different terms than are set forth in this
+agreement, you must obtain permission in writing from both the Project
+Gutenberg Literary Archive Foundation and Michael Hart, the owner of the
+Project Gutenberg™ trademark. Contact the Foundation as set forth in
+Section 3 below.
+
+
+1.F.
+
+
+1.F.1.
+
+
+Project Gutenberg volunteers and employees expend considerable effort to
+identify, do copyright research on, transcribe and proofread public domain
+works in creating the Project Gutenberg™ collection. Despite these
+efforts, Project Gutenberg™ electronic works, and the medium on which they
+may be stored, may contain Defects, such as, but not limited to,
+incomplete, inaccurate or corrupt data, transcription errors, a copyright
+or other intellectual property infringement, a defective or damaged disk
+or other medium, a computer virus, or computer codes that damage or cannot
+be read by your equipment.
+
+
+1.F.2.
+
+
+LIMITED WARRANTY, DISCLAIMER OF DAMAGES — Except for the Right of
+Replacement or Refund described in paragraph 1.F.3, the Project Gutenberg
+Literary Archive Foundation, the owner of the Project Gutenberg™
+trademark, and any other party distributing a Project Gutenberg™
+electronic work under this agreement, disclaim all liability to you for
+damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE
+NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH
+OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3. YOU AGREE THAT THE
+FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT
+WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL,
+PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY
+OF SUCH DAMAGE.
+
+
+1.F.3.
+
+
+LIMITED RIGHT OF REPLACEMENT OR REFUND — If you discover a defect in this
+electronic work within 90 days of receiving it, you can receive a refund
+of the money (if any) you paid for it by sending a written explanation to
+the person you received the work from. If you received the work on a
+physical medium, you must return the medium with your written explanation.
+The person or entity that provided you with the defective work may elect
+to provide a replacement copy in lieu of a refund. If you received the
+work electronically, the person or entity providing it to you may choose
+to give you a second opportunity to receive the work electronically in
+lieu of a refund. If the second copy is also defective, you may demand a
+refund in writing without further opportunities to fix the problem.
+
+
+1.F.4.
+
+
+Except for the limited right of replacement or refund set forth in
+paragraph 1.F.3, this work is provided to you ’AS-IS,’ WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+
+1.F.5.
+
+
+Some states do not allow disclaimers of certain implied warranties or the
+exclusion or limitation of certain types of damages. If any disclaimer or
+limitation set forth in this agreement violates the law of the state
+applicable to this agreement, the agreement shall be interpreted to make
+the maximum disclaimer or limitation permitted by the applicable state
+law. The invalidity or unenforceability of any provision of this agreement
+shall not void the remaining provisions.
+
+
+1.F.6.
+
+
+INDEMNITY — You agree to indemnify and hold the Foundation, the trademark
+owner, any agent or employee of the Foundation, anyone providing copies of
+Project Gutenberg™ electronic works in accordance with this agreement, and
+any volunteers associated with the production, promotion and distribution
+of Project Gutenberg™ electronic works, harmless from all liability, costs
+and expenses, including legal fees, that arise directly or indirectly from
+any of the following which you do or cause to occur: (a) distribution of
+this or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any Defect
+you cause.
+
+
+Section  2.
+
+
+           Information about the Mission of Project Gutenberg™
+
+
+Project Gutenberg™ is synonymous with the free distribution of electronic
+works in formats readable by the widest variety of computers including
+obsolete, old, middle-aged and new computers. It exists because of the
+efforts of hundreds of volunteers and donations from people in all walks
+of life.
+
+Volunteers and financial support to provide volunteers with the assistance
+they need, is critical to reaching Project Gutenberg™’s goals and ensuring
+that the Project Gutenberg™ collection will remain freely available for
+generations to come. In 2001, the Project Gutenberg Literary Archive
+Foundation was created to provide a secure and permanent future for
+Project Gutenberg™ and future generations. To learn more about the Project
+Gutenberg Literary Archive Foundation and how your efforts and donations
+can help, see Sections 3 and 4 and the Foundation web page at
+http://www.pglaf.org.
+
+
+Section 3.
+
+
+   Information about the Project Gutenberg Literary Archive Foundation
+
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the state of
+Mississippi and granted tax exempt status by the Internal Revenue Service.
+The Foundation’s EIN or federal tax identification number is 64-6221541.
+Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf. Contributions to the Project
+Gutenberg Literary Archive Foundation are tax deductible to the full
+extent permitted by U.S. federal laws and your state’s laws.
+
+The Foundation’s principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations. Its business office is located at 809 North
+1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org. Email contact links and up to date contact information
+can be found at the Foundation’s web site and official page at
+http://www.pglaf.org
+
+For additional contact information:
+
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+
+Section 4.
+
+
+  Information about Donations to the Project Gutenberg Literary Archive
+                                Foundation
+
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing the
+number of public domain and licensed works that can be freely distributed
+in machine readable form accessible by the widest array of equipment
+including outdated equipment. Many small donations ($1 to $5,000) are
+particularly important to maintaining tax exempt status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United States.
+Compliance requirements are not uniform and it takes a considerable
+effort, much paperwork and many fees to meet and keep up with these
+requirements. We do not solicit donations in locations where we have not
+received written confirmation of compliance. To SEND DONATIONS or
+determine the status of compliance for any particular state visit
+http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we have
+not met the solicitation requirements, we know of no prohibition against
+accepting unsolicited donations from donors in such states who approach us
+with offers to donate.
+
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside the
+United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation methods
+and addresses. Donations are accepted in a number of other ways including
+checks, online payments and credit card donations. To donate, please
+visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.
+
+
+      General Information About Project Gutenberg™ electronic works.
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared with
+anyone. For thirty years, he produced and distributed Project Gutenberg™
+eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed editions,
+all of which are confirmed as Public Domain in the U.S. unless a copyright
+notice is included. Thus, we do not necessarily keep eBooks in compliance
+with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook’s eBook
+number, often in several formats including plain vanilla ASCII, compressed
+(zipped), HTML and others.
+
+Corrected _editions_ of our eBooks replace the old file and take over the
+old filename and etext number. The replaced older file is renamed.
+_Versions_ based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+
+    http://www.gutenberg.org
+
+
+This Web site includes information about Project Gutenberg™, including how
+to make donations to the Project Gutenberg Literary Archive Foundation,
+how to help produce our new eBooks, and how to subscribe to our email
+newsletter to hear about new eBooks.
+
+
+
+
+
+
+***FINIS***
+

@@ -1,0 +1,6598 @@
+﻿The Project Gutenberg EBook of Hedda Gabler, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Hedda Gabler
+       Dramo en kvar aktoj
+
+Author: Henrik Ibsen
+
+Translator: Odd Tangerud
+
+Release Date: September 5, 2006 [EBook #19183]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HEDDA GABLER ***
+
+
+
+
+Produced by William Walter Patterson, Geraldine Wright and Andrew Sly
+
+
+
+
+
+
+HENRIK IBSEN
+
+HEDDA GABLER
+
+Dramo en kvar aktoj
+
+(1890)
+
+Tradukis
+Odd Tangerud
+
+Eldonejo: Jec Scandinavia a/s
+Postboks 54. N - 3401 Lier
+Tlf. 32 85 50 01, Fax. 32 85 50 82
+ISBN 82-91707-61-8
+
+
+ROLOJ:
+
+  JØRGEN TESMAN, stipendiulo pri arthistorio
+  SINJORINO HEDDA TESMAN, lia edzino
+  FRAŬLINO JULIANE TESMAN, lia onklino
+  SINJORINO ELVSTED
+  ASESORO BRACK
+  EJLERT LØVBORG
+  BERTE, servistino en la domo de la geedzoj Tesman
+
+  (Brack prononciĝas: _Brak_
+   Jochum prononciĝas: _Jokum_
+   ø prononciĝas: franca _eu_ aŭ germana _oe_)
+
+(La intrigo okazas en la vilao de _Tesman_ en la okcidenta
+parto de la urbo.)
+
+
+
+
+UNUA AKTO
+
+
+(Grandspaca, bele kaj elegante meblita salono kun dekoro en malhelaj
+koloroj. Sur la fona muro estas larĝa pordaperturo kun
+flankentiritaj kurtenoj. Tiu aperturo kondukas en pli malgrandan
+ĉambron, meblitan en la sama stilo kia la salono. Sur la dekstra
+muro de tiu ĉi estas duala pordo, kiu kondukas al la antaŭĉambro.
+Sur la kontraŭa, maldekstra muro estas vitra pordo, ankaŭ tiu kun
+flankentirita kurteno. Tra la fenestroj oni vidas parton de ekstera
+verando kun tegmento kaj foliarboj kun aŭtunaj koloroj. Antaŭe sur
+la planko staras ovala tablo kovrita de tuko kaj kun seĝoj
+ĉirkaŭe. Antaŭe sur la dekstra muro estas larĝa, malhela
+porcelana forno, altdorsa apogseĝo, skabelo kun kuseno kaj du
+taburetoj. En la dekstra angulo estas angulsofo kaj malgranda ronda
+tablo. Antaŭe, iom tirita de la muro, estas sofo. Interne apud la
+vitra pordo estas piano. Ambaŭflanke de la fona pordo staras
+etaĝeroj kun aĵoj el terakoto kaj majoliko. Ĉe la fona muro de la
+malantaŭa ĉambro oni vidas sofon, tablon kaj kelkajn seĝojn. Super
+tiu sofo pendas portreto de belaspekta, maljuna viro en uniformo de
+generalo. Super la tablo pendas lampo kun neklara, laktokolora, vitra
+kupolo. -- Ĉirkaŭe en la salono estas multaj florbukedoj metitaj en
+vazojn. Aliaj kuŝas sur la tabloj. Sur la plankoj de ambaŭ ĉambroj
+kuŝas dikaj tapiŝoj. -- Matena lumo. La suno brilas tra la vitra
+pordo.)
+
+(_Fraŭlino Juliane Tesman_, kun ĉapelo kaj sunombrelo, envenas de
+la antaŭĉambro, akompanata de _Berte_, kiu portas bukedon,
+ĉirkaŭvolvitan de papero. _Fraŭlino Tesman_ estas bonaspekta kaj
+bonanima sinjorino de proksimume 65 jaroj. Belete sed simple vestita
+en griza promena vesto. _Berte_ estas iom aĝa servistino kun
+ordinara kampara aspekto.)
+
+FRAŬLINO TESMAN
+(haltas interne de la pordo, aŭskultas kaj diras mallaŭte) Vere mi
+kredas, ke ili ankoraŭ ne ellitiĝis.
+
+BERTE
+(same mallaŭte) Estas ja kiel mi diris, fraŭlino. Pensu, -- tiom
+malfrue kiom la vaporŝipo alvenis en la nokto. Kaj jen poste! Dio
+mia, -- kiom la juna sinjorino volis elpaki, antaŭ ol sin retiri por
+ripozi.
+
+FRAŬLINO TESMAN
+Jes, ja, -- lasu ilin nur bone ripozi. Sed freŝan matenan aeron ili
+almenaŭ havu enen al si, kiam ili venos. (ŝi iras al la vitra
+pordo kaj tute malfermas ĝin)
+
+BERTE
+(apud la tablo, iom konfuzita kun la bukedo en la mano) Honto al mi
+se plu estas konvena loko. Mi opinias, ke mi metu ĝin ĉi tien,
+fraŭlino. (metas la bukedon antaŭe sur la pianon)
+
+FRAŬLINO TESMAN
+Do nun vi havas novajn gemastrojn, mia kara Berte. Dio sciu, ke estis
+por mi pli ol zorgoplene rezigni pri vi.
+
+BERTE
+(plorprete) Tamen pri mi, fraŭlino! Kion mi diru? Mi, kiu dum tiom
+da jaroj estis en la servo de la fraŭlinoj.
+
+FRAŬLINO TESMAN
+Ni devas trankvile akcepti la staton. Vere estas nenio alia farebla.
+Vidu, Jørgen _devas_ havi vin en la domo ĉe si. Li devas. Vi ja
+kutimiĝis mastrumi por li ek de kiam li estis knabeto.
+
+BERTE
+Jes, sed tamen, fraŭlino, mi tiom zorge pensas pri ŝi, kiu kuŝas
+hejme. Kompatinda ŝi, kiu mem estas tute senhelpa. Kaj jen kun la
+nova servistino! Neniam en la mondo lernas ŝi kontentigi al la
+bezonoj de tiu malsana homo.
+
+FRAŬLINO TESMAN
+Nu, mi certe sukcesos instrui ŝin al tio. Kaj la plimulton mi
+kompreneble prenos sur min mem. Pro mia malfeliĉa fratino vi ne
+bezonas maltrankviliĝi, mia kara Berte.
+
+BERTE
+Nu jes, sed estas ankaŭ alia afero, fraŭlino. Mi multe timas, ke mi
+ne povos sufiĉe kontentigi al la juna sinjorino.
+
+FRAŬLINO TESMAN
+Nu bona Dio, -- en la unua tempo eble okazos io tia.
+
+BERTE
+Ĉar aspekte ŝi estas tre pretendema.
+
+FRAŬLINO TESMAN
+Kompreneble. Filino de generalo Gabler. Kaj pripensu al kio ŝi estis
+kutimita dum la generalo vivis. Ĉu vi memoras, kiam ŝi kune kun sia
+patro rajdis laŭ la vojo? En la longa, nigra draprobo? Kaj kun plumo
+en la ĉapelo?
+
+BERTE
+Jes, jes, -- estu certa! -- Sed vere mi ne tiam imagis, ke fariĝus
+paro el ŝi kaj la kandidato.
+
+FRAŬLINO TESMAN
+Ankaŭ mi ne. -- Sed atentu -- Berte, -- dum mi memoras: De nun vi ne
+titolu Jørgen kandidato. Vi devas diri "la doktoro".
+
+BERTE
+Jes, ankaŭ la juna sinjorino menciis tion -- ĉinokte, -- ĵus kiam
+ili envenis la pordon. Ĉu vere _estas_ tiel, fraŭlino?
+
+FRAŬLINO TESMAN
+Jes, efektive estas tiel. Imagu, Berte, -- ili faris lin doktoro
+eksterlande. Nun dum la vojaĝo, komprenu. Pri tio mi aŭdis eĉ ne
+vorteton, -- antaŭ ol li mem rakontis tie malsupre sur la ŝipkajo.
+
+BERTE
+Jes, ja, li certe kapablas fariĝi kio ajn. Tiom lerta kiom _li_
+estas. Sed mi neniam kredis, ke li ankaŭ volis komenci kuraci
+homojn.
+
+FRAŬLINO TESMAN
+Ne, ne estas tia doktoro, kia li fariĝis. -- (kapskuas
+signifoplene) Tamen baldaŭ vi eble nomu lin io alia, kio estas
+ankoraŭ pli grandioza.
+
+BERTE
+Ĉu vere! Kio estos tio, fraŭlino?
+
+FRAŬLINO TESMAN
+(ridetas) Hm, -- nu, tion vi scius! (emociita) Aj, Dio mia, -- se
+karmemora Jochum povus rigardi el sia tombo, kaj vidi, kio fariĝis
+el lia knabeto! (ĉirkaŭrigardas) Sed aŭskultu, Berte, -- kial vi
+_jenon_ faris? -- Forprenis la kovraĵojn de ĉiuj mebloj?
+
+BERTE
+Sinjorino diris, ke mi tion faru. Ŝi ne ŝatas kovraĵojn sur la
+seĝoj, ŝi diris.
+
+FRAŬLINO TESMAN
+Ĉu ili do uzos ĉi tiun ĉambron -- ĉiutage?
+
+BERTE
+Jes, ŝajne. Almenaŭ laŭ Sinjorino. Ĉar li mem, -- la doktoro, --
+li nenion diris.
+
+(_Jørgen Tesman_ venas kantetante de la dekstra flanko de la
+malantaŭa ĉambro, portante malplenan, malfermitan valizon. Li estas
+mezstatura, juneca viro de 33 jaroj, iom diketa, kaj kun fidema,
+ronda, kontenta vizaĝo, blondaj haroj kaj barbo. Li portas
+okulvitrojn, kaj estas vestita en komforta, iom neglektema hejma
+vestaĵo.)
+
+FRAŬLINO TESMAN
+Bonan matenon, bonan matenon, Jørgen!
+
+TESMAN
+(ĉe la pordo) Onklino Julle! Kara onklino Julle! (proksimiĝas kaj
+vigle agitas ŝian manon) Vi, ĉi tie -- tiom frue en la tago! Ĉu?
+
+FRAŬLINO TESMAN
+Jes, kompreneble ke mi devis fari etan viziton al vi.
+
+TESMAN
+Kaj tio eĉ se vi ne havis sufiĉan ripozon dum la nokto!
+
+FRAŬLINO TESMAN
+Ho, neniel afektas min.
+
+TESMAN
+Nu, cetere vi venis bone hejmen de la kajo? Ĉu?
+
+FRAŬLINO TESMAN
+Jes, vere mi faris, -- dank' al Dio. La asesoro ĝentile akompanis
+min ĝis la pordo.
+
+TESMAN
+Domaĝe ke ni ne povis kunpreni vin en la veturilo. Sed vi ja mem
+vidis --. Hedda havis tiom da skatoloj, kiujn ni devis kunpreni.
+
+FRAŬLINO TESMAN
+Jes, vere ege multe da skatoloj ŝi havis.
+
+BERTE
+(al Tesman) Eble mi eniru por demandi Sinjorinon, ĉu estus io pri
+kio mi povus ŝin helpi?
+
+TESMAN
+Ne, dankon, Berte, -- vi ne faru. Se ŝi ion deziras, ŝi sonorigos,
+ŝi diris.
+
+BERTE
+(dekstren) Nu tiel.
+
+TESMAN
+Sed jen, -- kunprenu tiun ĉi valizon.
+
+BERTE
+(prenas ĝin) Mi metos ĝin en la subtegmentejon.
+
+(Ŝi eliras tra la pordo de la antaŭĉambro.)
+
+TESMAN
+Imagu, onklino, -- tiun valizon mi havis tute plenŝtopita de nuraj
+kopioj. Estas nekredeble kiom mi sukcesis kolekti en la arkivoj.
+Malnovaj, strangaj dokumentoj pri kiuj neniu ion sciis --
+
+FRAŬLINO TESMAN
+Jes certe, vi ne malŝparis vian tempon dum la nuptovojaĝo, vi,
+Jørgen.
+
+TESMAN
+Ne, tion mi ja povas diri. Sed demetu vian ĉapelon. Jen! permesu al
+mi malnodi la banton. Ĉu?
+
+FRAŬLINO TESMAN
+(dum li tion faras) Ho Dio mia, -- tio ĉi estas ja kvazaŭ vi
+ankoraŭ estus hejme ĉe ni.
+
+TESMAN
+(turnas la ĉapelon en sia mano) Jen, -- kian belan, grandiozan
+ĉapelon vi havigis al vi!
+
+FRAŬLINO TESMAN
+Mi aĉetis ĝin pro Hedda.
+
+TESMAN
+Pro Hedda? Ĉu?
+
+FRAŬLINO TESMAN
+Jes, por ke Hedda ne hontu pri mi, kiam ni kune promenos surstrate.
+
+TESMAN
+(karese frapetas ŝian vangon) Vi ja pensas pri ĉio, vi, onklino
+Julle! (metas la ĉapelon sur seĝon ĉe la tablo) Kaj nun, -- jen,
+-- ni eksidu ĉi tie en la sofo. Kaj iom babilu ĝis Hedda venos.
+
+(Ili sidigas sin; ŝi metas sian sunombrelon en la angulon de la
+sofo.)
+
+FRAŬLINO TESMAN
+(prenas ambaŭ liajn manojn kaj rigardas lin) Kiom benate bone estas
+denove havi vin vigle vivanta antaŭ miaj okuloj, Jørgen! Ho vi, filo
+de nia karmemora Jochum!
+
+TESMAN
+Kaj kiom por mi! Ree rigardi vin, onklino Julle! Vin, kiu estis por
+mi kaj patro kaj patrino.
+
+FRAŬLINO TESMAN
+Jes, mi certe scias, ke vi daŭre amos viajn maljunajn onklinojn.
+
+TESMAN
+Sed estas do neniu plibonigo por onklino Rina. Ĉu?
+
+FRAŬLINO TESMAN
+Ho ne, kara, -- estas ja neniu plibonigo atendebla por ŝi,
+povrulino. Ŝi kuŝas tiel, kiel ŝi kuŝis dum tiuj multaj jaroj.
+Sed Dio permesu al mi havi ŝin ankoraŭ iom da tempo! Ĉar alie mi
+ne scias por kio vivi, Jørgen. Eĉ pli nun, komprenu, kiam mi ne plu
+havas vin por kiu mastrumi.
+
+TESMAN
+(frapetas ŝian dorson) Nu, nu, nu, --!
+
+FRAŬLINO TESMAN
+(abrupte ŝanĝas temon) Kaj jen eĉ imagi ke vi estas edziĝinta
+viro, Jørgen! -- Kaj ke estas vi, kiu kaptis Hedda Gabler! La
+ĉarmegan Hedda Gabler. Jen imagu! Ŝi, kiu havis tiom da
+amindumantoj ĉirkaŭ si!
+
+TESMAN
+(kantetas kaj ridetas kontente) Jes, mi vere kredas ke mi havas
+sufiĉe da bonaj amikoj promenantaj en la urbo, kiuj min envias. Ĉu
+ne?
+
+FRAŬLINO TESMAN
+Kaj ke vi ankaŭ povis fari tian longan nuptovojaĝon! Pli ol kvin,
+-- preskaŭ ses monatojn --
+
+TESMAN
+Nu, -- por mi estis ja ia studvojaĝo samtempe. Kiom da arkivoj kiom
+mi devis ekzameni! Kaj kiom da libroj kiom mi devis tralegi, kara!
+
+FRAŬLINO TESMAN
+Nu jes, tiel do estas. (pli intime kaj iom mallaŭte) Sed aŭskultu
+nun, Jørgen, -- ĉu vi ne havas ion -- ion kroman rakontindan?
+
+TESMAN
+De la vojaĝo?
+
+FRAŬLINO TESMAN
+J-e-e-s.
+
+TESMAN
+Ne, mi ne scias pri io alia ol tio, kion mi rakontis al vi en la
+leteroj. Ke mi ricevis la doktoran rangon tie sude -- tion mi ja
+rakontis al vi hieraŭ.
+
+FRAŬLINO TESMAN
+Jes, tiaj aferoj, jes. Sed mi pensas, -- ĉu vi ne havas iujn, --
+iujn tiajn -- esperojn --?
+
+TESMAN
+Esperojn?
+
+FRAŬLINO TESMAN
+Dio mia, Jørgen, -- mi ja estas via maljuna onklino!
+
+TESMAN
+Jes certe mi havas esperojn, ho jes.
+
+FRAŬLINO TESMAN
+Nu?
+
+TESMAN
+Mi havas ja la plej bonajn esperojn fariĝi profesoro post nelonge.
+
+FRAŬLINO TESMAN
+Jes, profesoro, jes --
+
+TESMAN
+Aŭ, -- mi povas rekte diri, ke mi certe scias, ke mi fariĝos. Sed
+kara, bona onklino Julle, -- tion vi ja mem bone scias!
+
+FRAŬLINO TESMAN
+(ridetante) Jes, certe mi scias. Vi pravas. (ŝanĝas temon) --
+Sed ni parolis pri la vojaĝo. -- Ĝi certe postulis multe da mono,
+Jørgen?
+
+TESMAN
+Nu, bona Dio, -- la granda stipendio helpis ja longe.
+
+FRAŬLINO TESMAN
+Sed mi vere ne komprenas, ke ĝi estis sufiĉa por du.
+
+TESMAN
+Ne, ne. Tio ne estas facile komprenebla. Ĉu?
+
+FRAŬLINO TESMAN
+Kaj aldone _tio_, ke estas sinjorino, kun kiu oni vojaĝas. Ĉar tio
+estas ekstreme pli multekosta, laŭdire.
+
+TESMAN
+Jes, kompreneble, -- iom pli multekosta tio ja estas. Sed Hedda
+_devis_ havi tiun vojaĝon, onklino! Ŝi vere _devis_. Io alia ne
+konvenus.
+
+FRAŬLINO TESMAN
+Ne, ne, ja ne konvenus. Ĉar nuptovojaĝo estas ja kutimo nuntempe.
+-- Sed diru nun, -- ĉu vi jam sufiĉe trarigardis la apartamenton?
+
+TESMAN
+Ho jes, kredu. Mi jam estis surpiede de post heliĝo.
+
+FRAŬLINO TESMAN
+Kaj kiel ĉio al vi plaĉas?
+
+TESMAN
+Bonege! Tute bonege! Estas nur tio kion mi ne komprenas, por kio ni
+uzu la du malplenajn ĉambrojn, kiuj situas inter jena malantaŭa
+ĉambro kaj la dormoĉambro de Hedda?
+
+FRAŬLINO TESMAN
+(ridetas) Ho, mia kara Jørgen, tiujn vi certe bezonos -- post iom da
+tempo.
+
+TESMAN
+Jes, certe vi pravas, onklino Julle! Ĉar kiam mia libraro kreskos,
+tiam --. Ĉu?
+
+FRAŬLINO TESMAN
+Ĝuste, mia kara knabo. Ĝuste pri via libraro mi pensis.
+
+TESMAN
+Plej kontenta mi ja estas pro Hedda. Antaŭ nia fianĉiĝo, ŝi ja
+ofte diris, ke ŝi nenie ŝatus loĝi krom en la vilao de ministrino
+Falk.
+
+FRAŬLINO TESMAN
+Jen imagu, -- ke okazis, ke ĝi estis por vendo. Ĵus post via
+foriro.
+
+TESMAN
+Jes, onklino Julle, bonŝanco akompanis nin. Ĉu?
+
+FRAŬLINO TESMAN
+Sed multekoste, mia kara Jørgen! Multekoste estos por vi, -- ĉio
+ĉi.
+
+TESMAN
+(rigardas ŝin iom timeme) Jes, eble fariĝos, onklino?
+
+FRAŬLINO TESMAN
+Ho, granda Dio!
+
+TESMAN
+Kiom, vi opinias? Proksimume? Ĉu?
+
+FRAŬLINO TESMAN
+Ne, tio neeblas por mi scii antaŭ ol ni estos ricevintaj ĉiujn
+fakturojn.
+
+TESMAN
+Nu, feliĉe ke asesoro Brack akiris avantaĝajn kondiĉojn por mi.
+Tion li mem skribis en letero al Hedda.
+
+FRAŬLINO TESMAN
+Jes ja, pri tio neniam timu, mia knabo. -- Krome por mebloj kaj
+tapiŝoj mi garantiis.
+
+TESMAN
+Garantiis? Vi? Kara onklino Julle, -- kian garantion povis _vi_ doni?
+
+FRAŬLINO TESMAN
+Mi asignis miajn rentojn.
+
+TESMAN
+(eksaltas) Kion! Viajn -- kaj la rentojn de onklino Rina!
+
+FRAŬLINO TESMAN
+Jes, mi ne trovis alian eblecon, kara.
+
+TESMAN
+(starigas sin antaŭ ŝin) Sed ĉu vi tute freneziĝis, onklino!
+Tiuj rentoj, -- estas ja la sola vivtenado por vi kaj onklino Rina.
+
+FRAŬLINO TESMAN
+Nu, nu, -- ne ekscitiĝu pro tio. Estas ja nur afero de formo,
+komprenu. Tion ankaŭ diris asesoro Brack. Ĉar estas li, kiu tiom
+bonvoleme ordigis ĉion por mi. Nur afero de formo, li diris.
+
+TESMAN
+Jes, eble bone. Sed tamen --
+
+FRAŬLINO TESMAN
+Ĉar nun vi ja ricevos vian propran salajron por pagi. Kaj, Dio mia,
+eĉ se ni devus iom elspezi --? Iom aldoni komence --? Estus ja nur
+ia feliĉo por ni.
+
+TESMAN
+Ho, onklino, -- neniam vi laciĝas oferi vin por mi!
+
+FRAŬLINO TESMAN
+(ekstaras kaj metas siajn manojn sur liajn ŝultrojn) Ĉu mi do
+havas iun alian ĝojon en tiu ĉi mondo, krom ebenigi la vojon por
+vi, mia kara knabo? Vi, kiu havis nek patron nek patrinon al kiuj vin
+teni. Kaj nun ni staras ĉe la celo, kara! Aspektis malespere
+kelkfoje. Sed, bona Dio, nun vi superas, Jørgen!
+
+TESMAN
+Jes, estas strange kiel ĉio aranĝis sin avantaĝe.
+
+FRAŬLINO TESMAN
+Jes, -- kaj tiuj, kiuj kontraŭstaris vin -- kaj volis bari al vi la
+vojon, -- ili devas nun resti sube. Ili falis, tiuj, Jørgen! Tiu kiu
+estis por vi la plej danĝera, -- li falis plej fatale, li. -- Kaj
+nun li kuŝas tiel, kiel li por si sternis, -- povra, miskonduta
+homo.
+
+TESMAN
+Ĉu vi ion aŭdis pri Ejlert? Nome post kiam mi forvojaĝis?
+
+FRAŬLINO TESMAN
+Nenion krom tio ke li eldonus novan libron.
+
+TESMAN
+Kion? Ejlert Løvborg? Ĵus nun? Ĉu?
+
+FRAŬLINO TESMAN
+Jes, tion oni diras. Dio scias ĉu ĝi ion valoras, ĉu? Ne, sed kiam
+la _via_ nova libro aperos, -- tio estos ja io alia, Jørgen! Pri kio
+ĝi temos?
+
+TESMAN
+Ĝi temos pri la hejma industrio en Brabant en la Mezepoko.
+
+FRAŬLINO TESMAN
+Jen, imagu, -- ke vi povas skribi ankaŭ pri tia temo!
+
+TESMAN
+Cetere eble daŭros ankoraŭ longe pri tiu libro. Mi havas ja tiujn
+kompleksajn kolektojn, kiujn mi devas unue ordigi, komprenu.
+
+FRAŬLINO TESMAN
+Jes, ordigi kaj kolekti, -- tion vi vere scipovas. Ne vane vi estas
+la filo de karmemora Jochum.
+
+TESMAN
+Mi tre antaŭĝojas komenci pri tio. Precipe nun, kiam mi ekhavis
+mian propran domon kaj hejmon kie labori.
+
+FRAŬLINO TESMAN
+Kaj antaŭ ĉio nun, kiam vi gajnis ŝin, kiun via koro sopiris, kara
+Jørgen.
+
+TESMAN
+(ĉirkaŭbrakas ŝin) Ho jes, jes, onklino Julle! Hedda, -- ŝi
+estas ja la plej ŝatinda el ĉio! (rigardas al la pordo) Jen mi
+kredas, ke ŝi venas. Ĉu?
+
+(_Hedda_ venas de maldekstre tra la malantaŭa ĉambro. Ŝi estas
+sinjorino de proksimume 29 jaroj. Vizaĝo kaj staturo aspektas noble.
+La koloro de la haŭto iom pala. La okuloj estas ŝtalgrizaj kaj
+esprimas malvarman, serenan trankvilon. La hararo estas bele bruneta,
+sed ne tre densa. Ŝi estas vestita en eleganta, libere pendanta
+antaŭtagmeza kostumo.)
+
+FRAŬLINO TESMAN
+(iras al Hedda renkonte) Bonan matenon, kara Hedda! Kore al vi bonan
+matenon!
+
+HEDDA
+(donas al ŝi la manon) Bonan matenon, kara fraŭlino Tesman!
+Vizitante tiom frue? Estas ja tre afable.
+
+FRAŬLINO TESMAN
+(aspektas iom ĝenata) Nu, -- ĉu la juna sinjorino bone dormis en
+sia nova hejmo?
+
+HEDDA
+Nu ja, dankon! Elteneble.
+
+TESMAN
+(ridas) Elteneble! Jen, jen, vi trovas esprimon, Hedda! Vi vere
+dormis profunde kiel ŝtono, kiam mi ellitiĝis.
+
+HEDDA
+Feliĉe. Krome oni devas ja sin kutimigi al ĉio nova, fraŭlino
+Tesman. Iom post iom. (rigardas maldekstren) Hu, -- jen la
+ĉambristino lasis la pordon de la altano malferma. Enondas
+kvazaŭ maro da suno.
+
+FRAŬLINO TESMAN
+(iras al la pordo) Nu, do ni ĝin fermu.
+
+HEDDA
+Ne, ne, tion ne! Kara Tesman, kuntiru la kurtenojn. Tio donas pli
+malakran lumon.
+
+TESMAN
+(ĉe la pordo) Nu jes, -- nu jes. Jen, Hedda, -- nun vi havas ombron
+kaj ankaŭ freŝan aeron.
+
+HEDDA
+Jes, freŝa aero estas ĉi tie vere bezonata. Ĉiuj tiuj benitaj
+floroj --. Sed, kara, -- bonvolu preni sidlokon, fraŭlino Tesman!
+
+FRAŬLINO TESMAN
+Ne, dankon. Nun mi ja scias, ke ĉio statas bone, -- dank' al Dio!
+Kaj nun mi devas trovi mian vojon hejmen. Al ŝi, kiu kuŝas kaj
+sopire atendas, la kompatinda.
+
+TESMAN
+Do vi kore salutu ŝin multfoje de mi. Kaj diru al ŝi, ke mi faros
+viziton al ŝi iom poste hodiaŭ.
+
+FRAŬLINO TESMAN
+Jes, ja, tion mi faros. Sed jen atentu, Jørgen -- (serĉas en la
+poŝo de sia robo) Tion mi preskaŭ forgesis. Jen io kion mi
+kunportis por vi.
+
+TESMAN
+Kio estas do tio, onklino? Ĉu?
+
+FRAŬLINO TESMAN
+(eltiras platan paketon en gazetpapero kaj donas ĝin al li) Jen,
+mia kara knabo.
+
+TESMAN
+(elpakas) Ho, bona Dio, -- ĉu vi vere gardis ilin por mi, onklino
+Julle! Hedda! Estas vere kortuŝe, kara! Ĉu?
+
+HEDDA
+(ĉe la etaĝeroj dekstre) Jes, kara, kio do estas?
+
+TESMAN
+Miaj malnovaj matenŝuoj! La pantofloj, vidu!
+
+HEDDA
+Nu do. Mi memoras, ke vi ofte parolis pri ili dum la vojaĝo.
+
+TESMAN
+Jes, mi vere sentis la mankon de ili. (proksimiĝas al ŝi) Jen,
+rigardu ilin, Hedda!
+
+HEDDA
+(iras al la forno) Ne, dankon, ili vere ne interesas min.
+
+TESMAN
+(postsekvas ŝin) Imagu -- tiujn onklino Rina brodis por mi kuŝante
+en sia lito. Eĉ malsana kia ŝi estis. Ho, vi ne povas imagi, kiom
+da memoroj ili revokas.
+
+HEDDA
+(ĉe la tablo) Efektive ne por mi.
+
+FRAŬLINO TESMAN
+Pri tio Hedda ja pravas, Jørgen.
+
+TESMAN
+Jes, sed mi opinias, ke nun, kiam ŝi apartenas al la familio --
+
+HEDDA
+(interrompante) Kun tiu ĉambristino ni certe neniam interakordos,
+Tesman.
+
+FRAŬLINO TESMAN
+Ne interakordos kun Berte?
+
+TESMAN
+Kara, -- kial vi _tiel_ ekpensas? Ĉu?
+
+HEDDA
+(montras) Jen rigardu! Tie ŝi postlasis sian malnovan ĉapelon sur
+la seĝo.
+
+TESMAN
+(konsternita, perdas la pantoflojn sur la plankon) Tamen Hedda do
+--!
+
+HEDDA
+Imagu, -- se iu venus kaj tiaĵon vidus.
+
+TESMAN
+Tamen, Hedda, estas ja la ĉapelo de onklino Julle!
+
+HEDDA
+Ĉu?
+
+FRAŬLINO TESMAN
+(prenas la ĉapelon) Jes vere, ĝi estas mia. Kaj cetere ĝi ne
+estas malnova, kara sinjorineto Hedda.
+
+HEDDA
+Mi vere ne proksime rigardis ĝin, fraŭlino Tesman.
+
+FRAŬLINO TESMAN
+(ligas la ĉapelon sur sin) Kredu min, vere la unuan fojon mi nun
+portas ĝin. Jes, Dio scias ke tiel estas.
+
+TESMAN
+Kaj grandioza ĝi estas. Vere grandioza!
+
+FRAŬLINO TESMAN
+Nu, ne bombastu, mia kara Jørgen. (ĉirkaŭrigardas) La sunombrelon
+--? Nu, jen. (prenas ĝin) Ĉar ankaŭ tiu estas mia. (grumbletas)
+Ne tiu de Berte.
+
+TESMAN
+Novan ĉapelon kaj novan sunombrelon! Jen, Imagu, Hedda!
+
+HEDDA
+Belaj, eĉ belegaj ili estas.
+
+TESMAN
+Jes, ĉu ne? Ĉu? Sed onklino, pririgardu nun vere Hedda antaŭ ol vi
+foriros! Vidu kiom belega ŝi estas!
+
+FRAŬLINO TESMAN
+Ho, kara, _tio_ estas ja nenio nova. Hedda estis ja ĉarmega ĉiujn
+siajn tagojn. (ŝi kapsalutas kaj foriras dekstren)
+
+TESMAN
+(sekvas ŝin) Jes, sed ĉu vi rimarkis ke ŝi fariĝis iomete
+korpulenta kaj floranta? Kiom ŝi ete dikiĝis dum la vojaĝo?
+
+HEDDA
+(transpaŝas la plankon) Ho, lasu nun tion --!
+
+FRAŬLINO TESMAN
+(haltas kaj sin turnas) Dikiĝis?
+
+TESMAN
+Jes, onklino Julle, vi ne povas tion bone vidi nun, kiam ŝi portas
+tiun robon. Sed _mi_, kiu havas okazon --
+
+HEDDA
+(ĉe la vitra pordo, senpacience) Ho, vi ne havas okazon al io ajn!
+
+TESMAN
+Certe estas la montara aero tie sude en Tirolo --
+
+HEDDA
+(abrupte, interrompante) Mi estas nun ĝuste tia, kia mi estis je la
+forvojaĝo.
+
+TESMAN
+Jes, tion vi pretendas, vi. Sed honto al mi se vi estas. Ĉu ne
+ankaŭ al vi tiel aspektas, onklino?
+
+FRAŬLINO TESMAN
+(kunplektas la manojn kaj rigardas ŝin) Rava, -- rava, -- rava
+estas Hedda. (iras al ŝi, per ambaŭ manoj klinigas ŝian kapon,
+kaj kisas ŝian hararon) Dio benu kaj gardu Hedda Tesman. Pro
+Jørgen.
+
+HEDDA
+(sin zorgeme deŝirante) Ho --! Lasu min nun.
+
+FRAŬLINO TESMAN
+(en kvieta kortuŝo) Ĉiun opan tagon mi enrigardos ĉe vi du.
+
+TESMAN
+Jes, tion faru, onklino. Ĉu?
+
+FRAŬLINO TESMAN
+Adiaŭ, adiaŭ!
+
+(Ŝi eliras tra la pordo de la antaŭĉambro. _Tesman_ akompanas ŝin
+elen. La pordo restas malferma. Oni aŭdas _Tesman_ ripeti siajn
+salutojn al onklino _Rina_, kaj danki pro la matenŝuoj)
+
+(Samtempe _Hedda_ iras tien kaj reen sur la planko, suprenlevas la
+brakojn, pugnigas la manojn kvazaŭ en kolero. Ŝi tiras la kurtenojn
+for de la vitra pordo, restas tie staranta, kaj elrigardas.)
+
+(Iom poste _Tesman_ ree envenas kaj fermas la pordon post si.)
+
+TESMAN
+(prenas la pantoflojn de la planko) Al kio estas vi rigardanta,
+Hedda?
+
+HEDDA
+(denove trankvila kaj sinrega) Mi simple staras rigardante la
+foliaron. Ĝi estas tre flava. Kaj kiom velka!
+
+TESMAN
+(enpakas la ŝuojn kaj metas ilin sur la tablon) Jam estas ja
+Septembro.
+
+HEDDA
+(denove maltrankvila) Jes, pensu, -- jam estas -- estas Septembro.
+
+TESMAN
+Ĉu vi ne trovas, ke onklino Julle aspektis tre strange? Preskaŭ
+solene? Ĉu vi povas kompreni ŝian konduton? Ĉu?
+
+HEDDA
+Mi apenaŭ konas ŝin. Ĉu ŝi ne ofte estas tia?
+
+TESMAN
+Ne, ne kia hodiaŭ.
+
+HEDDA
+(iras for de la vitra pordo) Ĉu vi kredas, ke ŝi sentas sin
+afliktita pro tio pri la ĉapelo?
+
+TESMAN
+Eh, ne multe. Eble iom en la momento --
+
+HEDDA
+Sed kia maniero estas do tio, deĵeti la ĉapelon ĉi tie en la
+salono. Tio ne estas kutimo.
+
+TESMAN
+Nu, vi povas esti certa, ke onklino Julle tion neniam plu faros.
+
+HEDDA
+Cetere mi certe trankviligos ŝin.
+
+TESMAN
+Jes, kara, kara Hedda, se vi tion volus!
+
+HEDDA
+Kiam vi iros al ili poste hodiaŭ, vi povos ja inviti ŝin ĉe ni por
+la vespero.
+
+TESMAN
+Jes, tion mi efektive faros. Kaj estas ankaŭ alia afero, per kiu vi
+povus ege ĝojigi ŝin.
+
+HEDDA
+Nu?
+
+TESMAN
+Se vi nur povus decidigi vin familiane alparoli ŝin. Pro mi, Hedda?
+Ĉu?
+
+HEDDA
+Ne, ne, Tesman -- je Dio, ne petu min pri tio. Mi tion al vi diris
+iam antaŭe. Mi provos nomi ŝin onklino. Kaj tio sufiĉu.
+
+TESMAN
+Nu do tiel. Sed mi opinias, ke nun, kiam vi apartenas al la familio,
+nun --
+
+HEDDA
+Hm, -- mi ne ĝuste scias ĉu --
+
+(Ŝi iras trans la plankon al la porda aperturo.)
+
+TESMAN
+(iom poste) Ĉu io estas al vi, Hedda? Ĉu?
+
+HEDDA
+Mi ja rigardas mian malnovan pianon. Ĝi ne bone harmonias kun la
+aliaj mebloj.
+
+TESMAN
+La unuan fojon kiam mi ricevos salajron, mi aranĝu por ĝin ŝanĝi.
+
+HEDDA
+Ne, ne, -- ne ŝanĝi. Mi ne volas malhavi ĝin. Prefere ni metu ĝin
+tien en la malantaŭan ĉambron. Kaj anstataŭe ni povos havi alian
+ĉi tie. Laŭokaze, mi opinias.
+
+TESMAN
+(iom embarasita) Jes, -- tion ni ja povos fari.
+
+HEDDA
+(prenas la bukedon de sur la piano) Tiuj floroj ne estis ĉi tie
+ĉinokte, kiam ni venis.
+
+TESMAN
+Eble onklino Julle kunportis ilin por vi.
+
+HEDDA
+(rigardas en la bukedon) Vizitkarton. (elprenas ĝin kaj legas)
+"Revenos iom poste". Ĉu vi povas diveni de kiu?
+
+TESMAN
+Ne. De kiu do? Ĉu?
+
+HEDDA
+Estas subskribite "Sinjorino notario Elvsted".
+
+TESMAN
+Ĉu vere? Sinjorino Elvsted! Fraŭlino Rysing, kiel ŝi nomiĝis
+antaŭe.
+
+HEDDA
+Jes, ĝuste. Tiu kun la iritanta hararo, per kiu ŝi parade
+sensaciis. Via antaŭa flamo, laŭdire.
+
+TESMAN
+(ridas) Nu, ne daŭris longe. Kaj estis ja antaŭ ol mi konatiĝis
+kun vi, Hedda. Sed imagu, -- ke ŝi estas en la urbo.
+
+HEDDA
+Strange ke ŝi vizitas nin. Mi konas ŝin ja nur de la instituto.
+
+TESMAN
+Jes, mi vere ne vidis ŝin de post -- Dio scias, kiom da tempo.
+Strange ke ŝi eltenas tie norde en tia izolejo. Ĉu?
+
+HEDDA
+(iom pripensas kaj subite diras) Aŭdu, Tesman, -- ĉu ne estas tie
+norde, ke li loĝas, -- tiu, -- Ejlert Løvborg?
+
+TESMAN
+Jes, estas ĝuste norde en tiu regiono.
+
+(_Berte_ venas ĉe la pordo de la antaŭĉambro)
+
+BERTE
+Sinjorino, nun ŝi revenis, tiu sinjorino, kiu antaŭ iom da tempo
+enrigardis kaj donis florojn. (montras) Tiujn, kiujn Sinjorino
+tenas.
+
+HEDDA
+Aha, ŝi venis? Jes, envenigu ŝin.
+
+(_Berte_ malfermas la pordon por _sinjorino Elvsted_, kaj mem eliras.
+-- _Sinjorino Elvsted_ estas stature svelta kun belaj, molaj
+vizaĝtrajtoj. Helbluaj okuloj, grandaj, rondaj kaj iom elstarantaj,
+kun timema, demanda esprimo. La hararo estas frapante hela, preskaŭ
+blankeflava, kaj neordinare riĉa kaj ondanta. Ŝi estas nur paron da
+jaroj pli juna ol _Hedda_. La vestaĵo estas malhela vizitkostumo,
+eleganta, sed ne tute laŭ la plej nova modo.)
+
+HEDDA
+(proksimiĝas amike) Bonan tagon, kara sinjorino Elvsted. Ŝatinde
+foje revidi vin.
+
+ELVSTED
+(nervoza, provas regi sin) Jes, estas longa tempo post kiam ni laste
+renkontiĝis.
+
+TESMAN
+(donas al ŝi la manon) Kaj same ni du. Ĉu?
+
+HEDDA
+Dankon pro viaj ravaj floroj --
+
+ELVSTED
+Ho, mi petas --. Mi volis viziti vin jam hieraŭ posttagmeze. Sed mi
+sciiĝis, ke vi estas for, vojaĝante --
+
+TESMAN
+Vi ĵus venis urben? Ĉu?
+
+ELVSTED
+Mi venis ĉi tien hieraŭ tagmeze. Ho, mi vere malesperis, kiam mi
+aŭdis, ke vi ne estas hejme.
+
+HEDDA
+Malesperis! Kial do?
+
+TESMAN
+Sed bona, kara sinjorino Rysing -- sinjorino Elvsted mi volus diri --
+
+HEDDA
+Espereble ne estas malbono okazonta?
+
+ELVSTED
+Vere estas. Kaj mi konas eĉ ne unu homon ĉi tie, al kiu mi povus
+min turni.
+
+HEDDA
+(metas la florbukedon sur la tablon) Venu, -- kaj ni eksidu ĉi tien
+sur la sofon --
+
+ELVSTED
+Ho, mi havas eĉ ne momentan kvieton sidi!
+
+HEDDA
+Certe vi havas. Nu, venu.
+
+(Ŝi tiras _sinjorinon Elvsted_ malsupren sur la sofon, kaj eksidas
+apud ŝi.)
+
+TESMAN
+Nu? Kaj kio, Sinjorino --?
+
+HEDDA
+Ĉu io eksterordinara okazis tie norde ĉe vi?
+
+ELVSTED
+Jes, -- okazis kaj ne okazis. Ho, -- mi ege dezirus, ke vi ne min
+miskomprenu --
+
+HEDDA
+Sekve vi vere plej saĝe faros malkaŝe rakonti, sinjorino Elvsted.
+
+TESMAN
+Ĉar estas ja pro tio, ke vi venas. Ĉu?
+
+ELVSTED
+Jes, ja, estas ja pro tio. Kaj jenon mi devas diri al vi, sinjorino,
+-- se vi tion ne jam scias, -- ke ankaŭ Ejlert Løvborg estas en la
+urbo.
+
+HEDDA
+Løvborg estas --!
+
+TESMAN
+Ĉu vere! Ejlert Løvborg revenis! Jen imagu, Hedda!
+
+HEDDA
+Ho Dio, mi ja aŭdas.
+
+ELVSTED
+Li jam estas ĉi tie dum semajno. Imagu tion -- tutan semajnon! En
+ĉi danĝera urbo. Sola! Kun aro de malbona societo troviĝanta ĉi
+tie.
+
+HEDDA
+Sed kara sinjorino Elvsted, -- kiel _li_ vere koncernas vin?
+
+ELVSTED
+(rigardas ŝin timeme kaj diras rapide) Li estis instruisto por la
+infanoj.
+
+HEDDA
+Por viaj infanoj?
+
+ELVSTED
+Por tiuj de mia edzo. Mi neniujn havas.
+
+HEDDA
+Do, por la edzinfanoj.
+
+ELVSTED
+Jes.
+
+TESMAN
+(iom hezitante) Ĉu li estis tiom, -- mi ne scias kiel min esprimi,
+-- tiom -- regula en vivado kaj konduto, ke oni povis dungi lin al
+tio? Ĉu?
+
+ELVSTED
+Dum la lastaj kelkaj jaroj li nenion mallaŭdindan faris.
+
+TESMAN
+Vere ne? Jen imagu, Hedda!
+
+HEDDA
+Mi aŭdas.
+
+ELVSTED
+Eĉ ne ereton, mi asertas al vi, sinjoro! En neniu rilato. Sed tamen
+--. Nun, kiam mi scias, ke li estas ĉi tie -- en la granda urbo --.
+Kaj kun tiom da mono en la manoj. Nun mi morte timas pro li.
+
+TESMAN
+Sed kial li ne prefere restis tie norde, kie li estis? Ĉe vi kaj via
+edzo? Ĉu?
+
+ELVSTED
+Kiam la libro estis eldonita, li ne plu kontentiĝis en kvieto tie
+fore ĉe ni.
+
+TESMAN
+Jes vere, -- onklino Julle diris, ke li eldonis novan libron.
+
+ELVSTED
+Jes, grandan, novan libron, kiu temas pri la kultura progreso -- tiel
+iom ĝenerale. Okazis antaŭ dek kvar tagoj. Kaj ĉar la publiko ĝin
+aĉetis kaj legis tiom avide -- kaj ĝi vekis tian grandan atenton --
+
+TESMAN
+Nu, jenon ĝi do faris? Do certe estas io, kion li havis kŭsanta ĉe
+si de la bonaj tagoj.
+
+ELVSTED
+De pli frue, vi opinias?
+
+TESMAN
+Nu jes.
+
+ELVSTED
+Ne, li ĉion skribis norde ĉe ni. Nun -- la lastan jaron.
+
+TESMAN
+Vere ĝojige aŭdi. Hedda! Jen imagu!
+
+ELVSTED
+Ah jes, se nur daŭrus.
+
+HEDDA
+Ĉu vi renkontis lin ĉi tie?
+
+ELVSTED
+Ankoraŭ ne. Mi tiom klopodis trovi lian adreson. Sed ĉi-matene mi
+fine sukcesis.
+
+HEDDA
+(rigardas ŝin esplore) Vere mi opinias, ke estas strange de via
+edzo -- hm --
+
+ELVSTED
+(skuiĝas nervoze) De mia edzo! Kio?
+
+HEDDA
+Ke li sendas _vin_ al la urbo en tia komisio. Ke li ne mem iras por
+atenti sian amikon.
+
+ELVSTED
+Ho ne, ne, -- mia edzo ne havas tempon por tio. Kaj estas ankaŭ --
+kelkaj aĉetoj, kiujn mi devus fari.
+
+HEDDA
+(ridetas supraĵe) Do, tio estas ja alia afero.
+
+ELVSTED
+(ekstaras maltrankvila) Kaj nun mi humile petas vin, sinjoro Tesman,
+amike akceptu Ejlert Løvborg, se li vizitos vin! Kaj tion li certe
+faros. Bona Dio, -- vi du estis ja tiom bonaj amikoj pasinte. Estas
+ja ĝuste la samaj studoj, kiujn vi ambaŭ faras. La samaj sciencoj,
+-- laŭ mia kompreno.
+
+TESMAN
+Nu, tiel estis ja almenaŭ pasinte.
+
+ELVSTED
+Jes, kaj tial mi insiste petas vin, ke vi absolute -- ankaŭ vi -- ke
+vi zorge atentu lin. Ĉu ne, sinjoro Tesman, -- vi promesas tion al
+mi?
+
+TESMAN
+Jes, tre volonte, sinjorino Rysing --
+
+HEDDA
+Elvsted.
+
+TESMAN
+Mi certe faros por Ejlert ĉion, kio al mi eblas. Pri tio vi fidu.
+
+ELVSTED
+Ho kiom benite afabla vi estas! (premas liajn manojn) Dankon,
+dankon, dankon! (timigita) Ĉar mia edzo ja tiom multe ŝatas lin!
+
+HEDDA
+(ekstaras) Vi devus sendi al li leteron, Tesman. Ĉar eble li ne
+venos al vi tiel el propra instigo.
+
+TESMAN
+Jes, estus eble pli ĝuste, tiel, Hedda? Ĉu?
+
+HEDDA
+Kaj faru ju pli frue des pli bone. Tuj, mi opinias.
+
+ELVSTED
+(pete) Ho jes, se vi tion volus!
+
+TESMAN
+Mi skribos tuj ĉi-momente. Ĉu vi havas lian adreson, sinjorino --
+sinjorino Elvsted?
+
+ELVSTED
+Jes. (prenas el la poŝo slipeton, kaj donas al li) Jen ĝi estas.
+
+TESMAN
+Bone, bone. Mi eniros -- (ĉirkaŭrigardas) Momenton, -- la
+pantoflojn? Nu, jen. (prenas la paketon kaj volas foriri)
+
+HEDDA
+Skribu nun vere kore kaj amike. Kaj ankaŭ sufiĉe longe.
+
+TESMAN
+Jes certe, tion mi faru.
+
+ELVSTED
+Sed nepre neniun vorton, ke mi petis por li!
+
+TESMAN
+Ne, tio ja estas memkomprenebla. Ĉu?
+
+(Li trairas la malantaŭan ĉambron dekstren.)
+
+HEDDA
+(proksimiĝas al _sinjorino Elvsted_, ridetas kaj diras) Jen! Nun ni
+batis du muŝojn en unu frapo.
+
+ELVSTED
+Kiel tio?
+
+HEDDA
+Ĉu vi ne komprenis, ke mi volis forigi lin?
+
+ELVSTED
+Jes, por skribi tiun leteron --
+
+HEDDA
+Kaj por mi sola paroli kun vi.
+
+ELVSTED
+(konfuzita) Pri tio sama!
+
+HEDDA
+Jes, ĝuste pri tio.
+
+ELVSTED
+(timigita) Tamen ne _estas_ pli, sinjorino Tesman! Vere ne pli!
+
+HEDDA
+Efektive estas. Estas konsiderinde pli. Tiom mi ja komprenas. Jen
+venu, -- kaj ni eksidu konfideme kune.
+
+(Ŝi devigas _sinjorinon Elvsted_ eksidi sur la apogseĝon apud la
+forno, kaj mem sidigas sin sur unu el la taburetoj.)
+
+ELVSTED
+(timema, rigardas sian horloĝon) Sed kara, bona Sinjorino --. Mi
+vere intencis nun foriri.
+
+HEDDA
+Ho, ne tiom urĝas. -- Nu? Rakontu al mi iom kiel vi fartas en via
+hejmo.
+
+ELVSTED
+Ho, estas ĝuste _tio_, kion mi plej malvolonte tuŝu.
+
+HEDDA
+Sed al mi, kara --? Bona Dio, ni estis ja kune en la instituto.
+
+ELVSTED
+Jes, sed vi estis en klaso super mi. Ho, kiom mi tiam vin timis!
+
+HEDDA
+Vi min timis?
+
+ELVSTED
+Jes, mi estis ege timema. Ĉar kiam ni renkontiĝis en la ŝtuparo,
+vi kutimis taŭzi miajn harojn.
+
+HEDDA
+Ne, ĉu mi _tion_ faris?
+
+ELVSTED
+Jes, kaj iam vi diris, ke vi volis per fajro senharigi min.
+
+HEDDA
+Ho, tio estis ja nur babilaĉo, vi komprenu.
+
+ELVSTED
+Jes, sed tiam mi estis ja tiom stulta. -- Kaj poste almenaŭ -- ni
+disiĝis -- foren disiĝis unu de la alia. Niaj rondoj estis ja ege
+malsimilaj.
+
+HEDDA
+Nu, do ni denove alproksimiĝu. Aŭskultu nun! En la instituto ni
+intimiĝis kaj antaŭnomis unu la alian --
+
+ELVSTED
+Ne, en tio vi certe eraras.
+
+HEDDA
+Ho ne, certe ne! Mi memoras tute klare. Kaj tial ni estu koramikinoj,
+nun kiel antaŭe. (proksimiĝas sur la tabureto) Jen! (kisas ŝin
+sur la vangon) Nun ni estu amikinoj kaj vi nomas min Hedda.
+
+ELVSTED
+(premas kaj frapetas ŝiajn manojn) Ho, tiom da boneco kaj afableco
+--! Al tio mi tute ne estas kutimiĝinta.
+
+HEDDA
+Nu, nu, nu! Kaj mi estas via amikino, kiel antaŭe, kaj nomas vin
+mia kara Tora.
+
+ELVSTED
+Tea mi nomiĝas.
+
+HEDDA
+Jes ĝuste. Kompreneble. Tea mi dirus. (rigardas ŝin kompateme) Do
+vi ne kutimiĝis al boneco kaj afableco, vi, Tea? En via propra
+hejmo?
+
+ELVSTED
+Ho, se mi vere havus hejmon! Sed mi neniun havas. Mi neniam havis.
+
+HEDDA
+(iom rigardas ŝin) Mi komprenetis, ke estus io tia.
+
+ELVSTED
+(rigardas antaŭen senhelpe) Jes, -- jes, -- jes.
+
+HEDDA
+Mi ne certe memoras nun. Sed ĉu ne estis unue kiel mastrumistino, ke
+vi venis tien norde al la notario?
+
+ELVSTED
+Vere mi estus guvernistino. Sed lia edzino -- la tiama, -- ŝi estis
+malsaneca, -- kaj plej ofte kuŝis en lito. Jen, mi devis ankaŭ
+ŝarĝi min pri la mastrumado.
+
+HEDDA
+Sed poste, -- fine, vi fariĝis dommastrino.
+
+ELVSTED
+(peze) Jes, fine mi tio fariĝis.
+
+HEDDA
+Mi pripensu --. Kiom longe estas de tiam, -- proksimume?
+
+ELVSTED
+Post kiam mi edziniĝis?
+
+HEDDA
+Jes.
+
+ELVSTED
+Estas nun kvin jaroj de tiam.
+
+HEDDA
+Jes, ĝuste; tiom devas esti.
+
+ELVSTED
+Ho, tiuj kvin jaroj --! Aŭ pli ĝuste la du -- tri lastaj. Ho, se
+vi, Sinjorino, povus imagi al vi --
+
+HEDDA
+(frapetas ŝian manon) _Sinjorino_? Hontu, Tea!
+
+ELVSTED
+Ne, ne, mi provos. -- Ja, -- se vi nur povus imagi kaj kompreni --
+
+HEDDA
+(preterpase rimarkante) Ejlert Løvborg loĝas ja tie norde dum tri
+jaroj, mi opinias.
+
+ELVSTED
+(rigardas ŝin iom necerte) Ejlert Løvborg? Jes -- li faras.
+
+HEDDA
+Ĉu vi konis lin jam ĉi tie en la urbo?
+
+ELVSTED
+Apenaŭ. Nu ja, -- de nomo, kompreneble.
+
+HEDDA
+Sed tie norde, -- li do venis en vian domon?
+
+ELVSTED
+Jes li vizitis nin ĉiun tagon. Li devis ja legi kun la infanoj. Ĉar
+laŭtempe mi sola ne kapablis ĉion fari.
+
+HEDDA
+Ne, kompreneble. -- Kaj via edzo --? Li verŝajne ofte vojaĝas?
+
+ELVSTED
+Jes. Sinjorino, -- ne Hedda, -- vi komprenas, ke kiel notario li
+devas ofte vojaĝi ĉirkaŭe en la distrikto.
+
+HEDDA
+(apogante sin al la seĝbrako) Tea, -- kompatinda, dolĉa Tea, --
+nun vi ĉion rakontu al mi, -- tiel kiel estas.
+
+ELVSTED
+Jes, kaj jen vi demandu.
+
+HEDDA
+Kia vere estas via edzo, Tea? Mi pensas, -- kia en -- ĉiutagaj
+rilatoj. Ĉu li traktas vin bone?
+
+ELVSTED
+(eviteme) Li certe mem kredas, ke li ĉion plej eble bone faras.
+
+HEDDA
+Ŝajnas al mi, ke li estas tro maljuna por vi. Certe pli ol dudek
+jarojn pli maljuna?
+
+ELVSTED
+(incitita) Ankaŭ tio. Unu rilato aldone al alia. Ĉio pri li estas
+por mi malsimpatia! Ni havas eĉ ne unu penson kune. Nenion en la
+mondo, -- li kaj mi.
+
+HEDDA
+Sed ĉu li tamen ne iel amas vin? Tiel siamaniere?
+
+ELVSTED
+Ho, mi ne scias kion li sentas. Mi vere nur estas utila por li. Kaj
+ne kostas multe dungi min. Mi estas malmultekosta.
+
+HEDDA
+Estas malsaĝe de vi.
+
+ELVSTED
+(agitas la kapon) Ne povas esti alimaniere. Ne kun li. Ŝajne li
+vere ŝatas neniun alian krom si mem. Eble iomete la infanojn.
+
+HEDDA
+Kaj ankaŭ Ejlert Løvborg, Tea.
+
+ELVSTED
+(rigardas ŝin) Ŝatas Ejlert Løvborg! Kiel vi havas tiun ideon?
+
+HEDDA
+Sed, kara, -- ŝajnas al mi, ke ĉar li sendas vin eĉ ĉi tien al la
+urbo post lin -- (ridetas preskaŭ nerimarkeble) Kaj krome vi ja
+mem tion diris al Tesman.
+
+ELVSTED
+(kun nervoza spasmeto) Nu do? Jes, eble mi tion faris. (eldiras
+kviete) Nu. -- Pli bone ke mi diru al vi ĉion. Ĉar tamen
+malkaŝiĝos.
+
+HEDDA
+Sed, mia kara Tea --?
+
+ELVSTED
+Do, mallonge kaj rekte! Mia edzo tute ne sciis, ke mi forvojaĝis.
+
+HEDDA
+Ĉu vere! Via edzo nenion sciis?
+
+ELVSTED
+Kompreneble ne. Krome li ne estis hejme. Faris vojaĝon, ankaŭ li.
+Ho, mi ne plu eltenis, Hedda! Tute neeble! Tiel sola kia mi de nun
+estus tie norde.
+
+HEDDA
+Nu? Kaj poste?
+
+ELVSTED
+Jen, mi pakis kelkajn el miaj aĵoj. La plej necesajn. Tiel kaŝe.
+Kaj jen mi forlasis la domon.
+
+HEDDA
+Senpere?
+
+ELVSTED
+Jes. Kaj vojaĝis per fervojo rekte ĉi tien al la urbo.
+
+HEDDA
+Sed, mia kara, bona Tea, -- ke vi tion kuraĝis!
+
+ELVSTED
+(ekstaras kaj paŝas sur la planko) Nu ja, kion en la tuta mondo mi
+alie farus!
+
+HEDDA
+Sed kion via edzo diros, kiam vi revenos hejmen?
+
+ELVSTED
+(ĉe la tablo, rigardas ŝin) Tien norden al _li_?
+
+HEDDA
+Nu jes, nu jes?
+
+ELVSTED
+Tien norden al li mi neniam plu revenos.
+
+HEDDA
+(ekstaras kaj proksimiĝas) Vi do -- tute serioze, -- forvojaĝis de
+ĉio?
+
+ELVSTED
+Jes. Mi ne opiniis, ke por mi estas io alia farebla.
+
+HEDDA
+Kaj -- ke vi foriris tiel tute malsekrete.
+
+ELVSTED
+Ho, tiaĵon oni tamen ne povas teni sekreta.
+
+HEDDA
+Sed kion vi pensas, ke homoj diros pri vi, Tea?
+
+ELVSTED
+Kara Dio, ili diru, kion ili volas. (sidigas sin inerte kaj peze sur
+la sofon) Ĉar mi faris nenion alian ol kion mi _devis_ fari.
+
+HEDDA
+(post mallonga paŭzo) Kion vi nun intencas fari? Kiun okupon vi
+volas komenci?
+
+ELVSTED
+Tion mi ankoraŭ ne scias. Mi nur scias ke mi devas vivi tie, kie
+Ejlert Løvborg vivas. -- Se mi do _pluvivu_.
+
+HEDDA
+(prenas seĝon de ĉe la tablo, eksidas ĉe ŝi kaj frotetas ŝiajn
+manojn) Vi Tea, -- kiel estiĝis tiu -- tiu amikeco -- inter vi kaj
+Ejlert Løvborg?
+
+ELVSTED
+Nu, evoluis tiel iom post iom. Mi ekhavis kvazaŭ ian influon sur
+lin.
+
+HEDDA
+Nu?
+
+ELVSTED
+Li formetis siajn antaŭajn kutimojn. Ne ĉar mi petis lin pri tio.
+Ĉar tion mi neniam kuraĝis fari. Sed li certe notis, ke tiaĵojn mi
+ne emis. Kaj tial li ilin forlasis.
+
+HEDDA
+(kaŝas spontanan mokridon) Vi do restarigis lin -- kiel oni diras,
+-- vi, eta Tea.
+
+ELVSTED
+Jes, tion li almenaŭ mem diras. Kaj li -- siavice, -- li faris ian
+veran homon el mi. Lernigis min pensi -- kaj kompreni ion kaj tion.
+
+HEDDA
+Ĉu li legis ankaŭ kun _vi_?
+
+ELVSTED
+Ne precize legis. Sed li parolis kun mi. Parolis pri senfine
+profundaj pensoj. Kaj poste venis tiu rava, feliĉa tempo, kiam mi
+partoprenis lian laboron! Kiam mi permesiĝis helpi lin!
+
+HEDDA
+Do, tion vi povis?
+
+ELVSTED
+Jes. Kiam li ion skribis, ni devis ĉiam labori kune.
+
+HEDDA
+Do, kiel du bonaj kamaradoj.
+
+ELVSTED
+(viglece) Kamaradoj! Jes, imagu, Hedda -- tiel ankaŭ li nomis nin!
+-- Ho, mi devus ja senti min korege ĝoja. Sed eĉ tion mi ne povas.
+Ĉar mi ja ne scias, ĉu tio daŭros kun la tempo.
+
+HEDDA
+Ĉu via fido al li ne estas pli forta ol tio?
+
+ELVSTED
+(peze) Virina ombro staras inter Ejlert Løvborg kaj mi.
+
+HEDDA
+(rigardas ŝin intense) Kiu _tiu_ estus?
+
+ELVSTED
+Mi ne scias. Iu aŭ alia de -- de lia pasinteco. Iu kiun li verŝajne
+neniam forgesas.
+
+HEDDA
+Kion li diris -- pri tio?
+
+ELVSTED
+Nur unu fojon -- preterpase -- li aludis.
+
+HEDDA
+Do! Kaj kion li jen diris?
+
+ELVSTED
+Li diris, ke kiam ili disiĝis, tiam ŝi volus pafi lin per pistolo.
+
+HEDDA
+(malvarme, sinrege) Ho ĉu! Tiaĵon oni ne kutimas fari ĉi tie.
+
+ELVSTED
+Ne. Kaj tial mi kredas, ke estas la ruĝhara kantistino, kun kiu li
+dum tempo --
+
+HEDDA
+Jes, povas esti.
+
+ELVSTED
+Ĉar mi memoras, ke oni diris pri ŝi, ke ŝi kunportis ŝargitajn
+armilojn.
+
+HEDDA
+Nu, -- do kompreneble estas ŝi.
+
+ELVSTED
+(tordas la manojn) Jes, sed pensu, Hedda, -- nun mi aŭdas, ke tiu
+kantistino, -- ŝi estas denove en la urbo! Ho, -- mi estas tute
+malespera --
+
+HEDDA
+(ekrigardas al la malantaŭa ĉambro) Ts! Tesman venas. (ekstaras
+kaj flustras) Tea, -- ĉio devas resti inter vi kaj mi.
+
+ELVSTED
+(eksaltas) Ho jes, -- jes! Pro Dio --!
+
+(_Jørgen Tesman_, kun letero en la mano, venas de dekstre tra la
+malantaŭa ĉambro.)
+
+TESMAN
+Jen, -- nun la epistolo estas prete verkita.
+
+HEDDA
+Estas ja bone. Sed sinjorino Elvsted jam volas foriri, mi kredas.
+Atendu iomete. Mi akompanos al la ĝardenpordego.
+
+TESMAN
+Jen, Hedda, -- eble Berte povas ekspedi tiun ĉi?
+
+HEDDA
+(prenas la leteron) Mi diros al ŝi.
+
+(_Berte_ venas de la antaŭĉambro.)
+
+BERTE
+Asesoro Brack venis, kaj diras, ke li deziras viziti la gesinjorojn.
+
+HEDDA
+Jes, petu la asesoron bonvole enveni. Kaj, jen -- metu tiun ĉi
+leteron en la poŝtkeston.
+
+BERTE
+(prenas la leteron) Jes, Sinjorino.
+
+(Ŝi malfermas la pordon por _asesoro Brack_ kaj mem eliras. La
+asesoro estas 45 jara sinjoro. Diktrunka, sed de bona staturo kaj kun
+elastaj movoj. La vizaĝo estas ronda, sed kun nobla profilo. La
+haroj estas tonditaj mallongaj kaj estas preskaŭ ankoraŭ nigraj kaj
+zorge frizitaj. Okuloj vivece ludantaj. Brovoj dikaj. Same la
+lipharoj, kun tonditaj pintoj. Li portas elegantan promenan kostumon,
+tamen iom tro juneca por lia aĝo. Li uzas nazpinĉilon, kiun li foje
+kaj refoje lasas pendi.)
+
+ASESORO BRACK
+(kun la ĉapelo en la mano; salutas) Ĉu oni kuraĝas fari viziton
+tiom frue en la tago?
+
+HEDDA
+Kompreneble oni kuraĝas.
+
+TESMAN
+(premas lian manon) Ĉiam bonvena vi estu.
+(prezentas) Asesoro Brack -- sinjorino Rysing --
+
+HEDDA
+Oho --!
+
+BRACK
+(reverence) Ah, -- treege ĝojigas min --
+
+HEDDA
+(rigardas lin kaj ridas) Estas vere amuze rigardadi vin dum hela
+tago, asesoro!
+
+BRACK
+Ŝanĝigita -- vi eble trovas?
+
+HEDDA
+Jes, iomete pli juna, ŝajnas al mi.
+
+BRACK
+Dankas kompleze.
+
+TESMAN
+Sed kion vi diras pri Hedda! Ĉu? Ĉu ŝi ne aspektas florante? Ŝi
+rekte --
+
+HEDDA
+Ho, lasu nun min netuŝita. Prefere danku la asesoron pro la peno,
+kiun li havis --
+
+BRACK
+Nu, nu, -- estis por mi nura plezuro --
+
+HEDDA
+Jes vi estas fidela estaĵo. Sed por mia amikino urĝas foriri. Ĝis
+revido, asesoro. Mi baldaŭ revenos.
+
+(Reciprokaj salutoj. _Sinjorino Elvsted_ kaj _Hedda_ eliras tra la
+antaŭĉambra pordo.)
+
+BRACK
+Nu, -- ĉu via edzino estas sufiĉe kontenta --?
+
+TESMAN
+Jes, ni ne povas sufiĉe danki vin. Konsentite ke -- ioma ŝanĝo
+estos necesa, mi aŭdas. Kaj io kaj io mankas. Fariĝos necese havigi
+aldone kelkajn aĵojn.
+
+BRACK
+Nu do? Vere?
+
+TESMAN
+Sed pri tio vi ne estu ĝenata. Hedda diris, ke ŝi mem volas aranĝi
+pri tio kio mankas. -- Sed ĉu ni ne sidiĝu? Ĉu?
+
+BRACK
+Dankon, momenton. (eksidas ĉe la tablo) Estas io, pri kio mi volus
+paroli kun vi, kara Tesman.
+
+TESMAN
+Nu? Aha, mi komprenas! (eksidas) Estas verŝajne la serioza parto
+de la festeno, kiu nun komencas. Ĉu ?
+
+BRACK
+Nu, tiuj monaferoj ankoraŭ ne tiom urĝas. Krome mi dezirus, ke ni
+estus nin aranĝintaj iom pli simple.
+
+TESMAN
+Sed tio ja tute ne decus! Pensu do pri Hedda, kara! Vi kiu konas ŝin
+tiel bone --. Ne eblis ja proponi al ŝi tute etburĝajn
+ĉirkaŭaĵojn!
+
+BRACK
+Ne, ne, -- estas ja tio la dilemo.
+
+TESMAN
+Kaj -- feliĉe -- ne povas longe daŭri, ĝis mi estos nomita
+profesoro.
+
+BRACK
+Nu, jen vidu, -- tiaj aferoj ofte estas longedaŭraj.
+
+TESMAN
+Ĉu vi eble aŭdis ion pli detale? Ĉu?
+
+BRACK
+Nenion deciditan --. (interrompante) Sed, jen mi memoras, --
+novaĵon, kiun mi povas rakonti.
+
+TESMAN
+Nu?
+
+BRACK
+Via iama amiko, Ejlert Løvborg, revenis urben.
+
+TESMAN
+Tion mi jam scias.
+
+BRACK
+Nu? Kie vi kaptis tiun sciigon?
+
+TESMAN
+Ŝi tion rakontis, la sinjorino, kiu eliris kun Hedda.
+
+BRACK
+Nu tiel. Kiel ŝi nomiĝas? Mi ne bone aŭdis --
+
+TESMAN
+Sinjorino Elvsted.
+
+BRACK
+Aha, -- do la edzino de la notario. Jes, -- estas ja ĉe ili, ke li
+restadis.
+
+TESMAN
+Kaj pensu, -- kun ĝojo mi aŭdas, ke li refariĝis tute bonkonduta
+homo!
+
+BRACK
+Jes, oni ja tion pretendas.
+
+TESMAN
+Kaj laŭdire li ankaŭ estas eldoninta novan libron. Ĉu?
+
+BRACK
+Jes ja, vere!
+
+TESMAN
+Kaj ĝi ankaŭ vekis atenton!
+
+BRACK
+Eĉ ege neordinaran atenton ĝi vekis!
+
+TESMAN
+Imagu, -- ĉu tio ne estas ĝojige aŭdi? Li, kun siaj mirindaj
+talentoj --. Mi estis senespere konvinkita, ke li komplete perdiĝis
+por ĉiam.
+
+BRACK
+Tio estis ja la ĝenerala opinio pri li.
+
+TESMAN
+Sed mi ne povas imagi, kion li nun volas komenci! De kio li do nun
+poste vivu? Ĉu?
+
+(_Hedda_ dum la lastaj vortoj envenis tra la pordo de la
+antaŭĉambro.)
+
+HEDDA
+(al _Brack_, ridas moke) Tesman ĉiam kunportas zorgojn pri la
+enspezoj por vivi.
+
+TESMAN
+Nu Dio, -- ni sidas ĉi tie parolante pri tiu kompatinda Ejlert
+Løvborg.
+
+HEDDA
+(rapide rigardas lin) Nu tiel? (eksidas sur la apogseĝon apud la
+forno, kaj demandas indiferente) Kio estas al _li_?
+
+TESMAN
+Ja, -- la heredon li certe jam foruzis antaŭ longe. Kaj novan libron
+li apenaŭ povas skribi ĉiun jaron. Ĉu? Nu, -- kaj jen mi vere
+demandas, kio fariĝos el li?
+
+BRACK
+Pri tio mi povus eble iom informi vin.
+
+TESMAN
+Do?
+
+BRACK
+Vi devas memori, ke li havas parencojn kun ne malgranda influo.
+
+TESMAN
+Ho, bedaŭrinde, -- la parencoj, ili al li ja turnis la dorson.
+
+BRACK
+Iam ili nomis lin la espero de la familio.
+
+TESMAN
+Jes ja, iam! Sed tiun esperon li ja mem perdigis.
+
+HEDDA
+Kiu scias? (ridetas) Norde ĉe la notario Elvsted ili ja restarigis
+lin --
+
+BRACK
+Kaj aldone tiu libro, kiu eldoniĝis --
+
+TESMAN
+Bone, bone, Dio permesu, ke ili vere lin helpu al io aŭ alia. Mi
+ĵus skribis al li leteron. Hedda, mi invitis lin ĉe ni hodiaŭ
+vespere.
+
+BRACK
+Tamen kara, vi partoprenos ja mian fraŭlofestenon ĉivespere. Tion
+vi ja promesis sur la kajo ĉinokte.
+
+HEDDA
+Ĉu vi tion forgesis, Tesman?
+
+TESMAN
+Jes vere, tion mi forgesis.
+
+BRACK
+Cetere vi povas esti trankvila, kaj fidi ke li ne venos.
+
+TESMAN
+Kial vi tion supozas? Ĉu?
+
+BRACK
+(iom hezitante, ekstaras kaj apogas la manojn sur la seĝdorso) Kara
+Tesman --. Kaj ankaŭ vi, Sinjorino --. Mi ne povas lasi vin en
+nescio pri io, kio -- kio --
+
+TESMAN
+Kio koncernas Ejlert --?
+
+BRACK
+Ambaŭ vin; vin kaj lin.
+
+TESMAN
+Sed, kara asesoro, diru do!
+
+BRACK
+Vi devas antaŭvidi, ke via enoficiĝo eble ne okazos tiom frue, kiom
+vi deziras kaj atendas.
+
+TESMAN
+(eksaltas maltrankvile) Ĉu io intervenis? Ĉu?
+
+BRACK
+La enoficiĝo por la posteno estos eble submetata al konkuro --
+
+TESMAN
+Konkuro! Jen imagu, Hedda!
+
+HEDDA
+(duonkuŝigas sin pli malantaŭen en la seĝo) Aha, jen, jen!
+
+TESMAN
+Sed kun kiu do! Vere ne kun --?
+
+BRACK
+Jes, ĝuste. Kun Ejlert Løvborg.
+
+TESMAN
+(kunfrapas la manojn) Ne, ne, -- tio ĉi estas ja tute nepensebla!
+Tute neebla! Ĉu?
+
+BRACK
+Hm, -- tamen ni tion do eble spertos.
+
+TESMAN
+Sed, sed asesoro Brack, -- estus nekredebla senkonsidero kontraŭ mi!
+(agitas per la brakoj) Jes, ĉar -- konsideru, -- mi estas
+edziĝinta homo! Ni ja geedziĝis sub tiuj perspektivoj, Hedda kaj
+mi. Akiris pezan ŝuldon. Prunteprenis monon eĉ de onklino Julle.
+Ĉar, Dio mia, -- mi ja preskaŭ ricevis promeson pri la posteno.
+Ĉu?
+
+BRACK
+Nu, nu, nu, -- la postenon vi probable ricevos. Sed nur post konkuro.
+
+HEDDA
+(senmova en la apogseĝo) Imagu, Tesman, -- estos kvazaŭ ia sporto.
+
+TESMAN
+Sed, plej kara Hedda, kiel vi povas trakti tion ĉi tiel senzorge!
+
+HEDDA
+(kiel antaŭe) Tion mi tute ne faras. Mi vere estas streĉe
+interesita pri la rezulto.
+
+BRACK
+Ĉiuokaze, sinjorino Tesman, estas bone, ke vi nun sciu, kiel statas
+la aferoj, -- jam antaŭ ol vi komencos aĉetadi, pri kio vi minacas,
+kiel mi aŭdis.
+
+HEDDA
+Tio ĉi povas neniun ŝanĝon fari.
+
+BRACK
+Nu tiel? Tio estas alia afero. Adiaŭ! (al _Tesman_) Kiam mi faros
+mian posttagmezan promenadon, mi enrigardos por vin serĉi.
+
+TESMAN
+Ho, jes ja, -- el tio ĉi mi ne vidas vojon, nek elen nek enen.
+
+HEDDA
+(kuŝanta, antaŭenstreĉas la manon) Adiaŭ, Asesoro. Kaj bonvenon
+reen.
+
+BRACK
+Koran dankon. Adiaŭ, adiaŭ.
+
+TESMAN
+(akompanas lin al la pordo) Adiaŭ, kara Asesoro! Mi vere petas vin
+pardoni -- (_Asesoro Brack_ eliras tra la pordo de la antaŭĉambro)
+
+TESMAN
+(paŝas tien reen sur la planko) Ho, Hedda, -- oni neniam devus
+riski enpenetri la fabelolandon. Ĉu?
+
+HEDDA
+(rigardas lin ridetante) Ĉu _vi_ tion faras?
+
+TESMAN
+Ho jes, -- ne eblas nei, -- _estis_ fabelriske edziĝi kaj aĉeti
+domon kun nuraj necertaj perspektivoj.
+
+HEDDA
+Vi eble pravas.
+
+TESMAN
+Nu, -- nian ŝatindan hejmon ni tamen havas, Hedda! Imagu, -- la
+hejmon, pri kiu ni kune revadis. Reve fantaziadis mi dirus. Ĉu?
+
+HEDDA
+(ekstaras malrapide kaj lace) La interkonsento estis, ke ni vivu
+festene. Grandsinjore.
+
+TESMAN
+Jes, bona Dio, -- kiom mi antaŭĝojis al tio! Imagu, -- vidi vin
+kiel mastrinon, -- en elektita rondo! Ĉu? -- Jes ja, -- intertempe
+ni du devas elteni kune en soleco, Hedda. Nur foje vidi onklinon
+Julle ĉe ni. -- Ho vi, kiu devus sperti ion alian -- ion tute alian
+--!
+
+HEDDA
+Livre-vestitan serviston mi kompreneble unue ne ricevos.
+
+TESMAN
+Ho ne, -- bedaŭrinde. Dungi serviston, -- vidu, pri tio ne eblas
+pensi.
+
+HEDDA
+Kaj la rajdĉevalon, kiun mi havus --
+
+TESMAN
+(timigita) La rajdĉevalon!
+
+HEDDA
+-- pri ĝi mi certe nun eĉ ne plu kuraĝas pensi.
+
+TESMAN
+Ne, Dio gardu min, -- estas ja memkompreneble!
+
+HEDDA
+(paŝas sur la planko) Nu -- per unu afero mi almenaŭ povas min
+ĝojigi dume.
+
+TESMAN
+(ĝoje) Ho, Dio benata, dankon! Kaj kio estas do tio, Hedda? Ĉu?
+
+HEDDA
+(ĉe la pordo, rigardas lin kun kaŝata moko) Miaj pistoloj, --
+Jørgen.
+
+TESMAN
+(timigate) La pistoloj!
+
+HEDDA
+(kun glaciaj okuloj) La pistoloj de generalo Gabler.
+
+(Ŝi eliras tra la malantaŭa ĉambro maldekstren.)
+
+TESMAN
+(kuras al la pordaperturo kaj vokas post ŝi) Ne, Dio benu vin, plej
+kara Hedda, -- ne tuŝu tiujn danĝerajn objektojn! Pro mi, Hedda!
+Ĉu?
+
+
+
+
+DUA AKTO
+
+
+(La sama ĉambro de _gesinjoroj Tesman_, sed la piano estas elmetita;
+kaj eleganta, eta skribotablo estas tie lokigita anstataŭe. Ĉe la
+sofo maldekstre estas metita malgranda tablo. La plejmultaj
+florbukedoj estas forportitaj. La bukedo de _sinjorino Elvsted_
+staras sur pli granda tablo iom antaŭe sur la planko. -- Estas
+posttagmezo.)
+
+(_Hedda_, vestita por akceptado, estas sola en la ĉambro. Ŝi staras
+ĉe la malferma vitra pordo ŝargante revolverpistolon. Alia egala
+kuŝas en malfermita pistolskatolo sur la skribotablo.)
+
+HEDDA
+(rigardas malsupren en la ĝardenon kaj krias) Bonan tagon, sinjoro
+Asesoro!
+
+BRACK
+(aŭdata de malsupre iom fore) Dankon, same, sinjorino Tesman!
+
+HEDDA
+(suprenlevas la pistolon kaj celumas) Nun mi pafas vin, sinjoro
+Brack!
+
+BRACK
+(krias de tie) Ne -- ne -- ne! Ne staru tiel celumante ĝuste al mi!
+
+HEDDA
+Tio rezultas el ŝteliro laŭ sekreta vojo! (ŝi pafas)
+
+BRACK
+(pli proksime) Ĉu vi estas tute freneza --!
+
+HEDDA
+Ho, Dio, -- ĉu eble mi trafis vin?
+
+BRACK
+(ankoraŭ ekstere) Ĉesu pri tiuj stultaĵoj!
+
+HEDDA
+Do, envenu, Asesoro.
+
+(_Asesoro Brack_, vestita por sinjora festeno, envenas tra la vitra
+pordo. Li portas malpezan mantelon sur la brako.)
+
+BRACK
+Pro diablo, -- ĉu vi ankoraŭ faras tiun sporton? Al kio vi pafas?
+
+HEDDA
+Ho, mi nur staras tiel pafante en la bluan aeron.
+
+BRACK
+(zorge prenas la pistolon el ŝia mano) Pardonu, Sinjorino. (rigardas
+ĝin) Aha, tiun ĉi, -- tiun mi bone konas. (ĉirkaŭrigardas) Kie
+ni havas la skatolon? Nu, jen. (metas la pistolon enen kaj fermas)
+Ĉar nun ni sufiĉe ŝercis hodiaŭ.
+
+HEDDA
+Sed kara Dio, pri kio vi volas ke mi okupiĝu?
+
+BRACK
+Ĉu vi ne akceptis vizitantojn?
+
+HEDDA
+(fermas la vitran pordon) Eĉ ne unu. Ĉiuj la intimaj verŝajne
+ankoraŭ estas en la kamparo.
+
+BRACK
+Kaj eble ankaŭ Tesman ne estas hejme?
+
+HEDDA
+(ĉe la skribotablo, metas la pistolskatolon en la tirkeston) Ne.
+Tuj post kiam li manĝis, li kuris al la onklinoj. Ĉar li ne atendis
+vin tiel frue.
+
+BRACK
+Hm, -- domaĝe ke mi ne tion suspektis. Estis stulte de mi.
+
+HEDDA
+(turnas la kapon kaj rigardas lin) Kial stulte?
+
+BRACK
+Nu, ĉar tial mi estus veninta ĉi tien ankoraŭ iom -- pli frue.
+
+HEDDA
+(paŝas trans la plankon) Nu ja, sed tiam vi tute ne estus iun
+renkontanta. Ĉar mi estis en mia ĉambro ŝanĝante vestojn post la
+tagmanĝo.
+
+BRACK
+Kaj ne troviĝas eta pordofendo, tra kiu oni povus intertrakti?
+
+HEDDA
+Vi ja forgesis tian aranĝi.
+
+BRACK
+Jen, ankaŭ _tio_ estis stulta de mi.
+
+HEDDA
+Nu, do ni sidiĝu ĉi tie. Kaj atendu. Ĉar Tesman verŝajne ne
+revenos hejmen tiom frue.
+
+BRACK
+Nu do, kara Dio, mi estu pacienca.
+
+(_Hedda_ sidigas sin en la sofoangulon. _Brack_ metas sian mantelon
+super la dorson de la plej proksima seĝo kaj eksidas, sed daŭre
+tenas la ĉapelon en la mano. Mallonga paŭzo. Ili rigardas unu la
+alian.)
+
+HEDDA
+Nu?
+
+BRACK
+(per la sama voĉo) Nu?
+
+HEDDA
+Estas mi, kiu demandis unue.
+
+BRACK
+(klinas sin iom antaŭen) Do, ni permesu al ni etan, agrablan
+babiladon, sinjorino Hedda.
+
+HEDDA
+(kuŝigas sin iom pli malantaŭen en la sofo) Ĉu ne ŝajnas al vi,
+ke estas kvazaŭ eterneco post kiam ni laste kunparolis? -- Nu, la
+rimarkoj preterpasante hieraŭ vespere kaj hodiaŭ matene -- mi ne
+grave konsideras.
+
+BRACK
+Sed tiel inter ni du? -- Du solaj vi aludas?
+
+HEDDA
+Nu jes. Proksimume.
+
+BRACK
+Ĉiun opan tagon mi iris sopirante, ke vi baldaŭ bone revenus
+hejmen.
+
+HEDDA
+Kaj eĉ mi la tutan tempon sopiris pri la sama.
+
+BRACK
+Vi? Vere, sinjorino Hedda? Kaj mi, kiu kredis, ke vi tiom bone
+amuziĝis dum la vojaĝo!
+
+HEDDA
+Ho, jen kredu!
+
+BRACK
+Sed tion Tesman ĉiam skribis.
+
+HEDDA
+Jes _li_! Ĉar li ja trovas, ke estas por li plej ŝatinde
+ĉirkaŭflari en la librejoj. Kaj havi ŝancon sidi kopiante
+malnovajn pergamenfoliojn, -- aŭ ion tian.
+
+BRACK
+(iom malice) Nu, tio estas ja lia tasko en la vivo. Almenaŭ parte.
+
+HEDDA
+Jes, tio ja estas. Kaj tiam oni kompreneble --. Sed por mi! Ho ne,
+kara Asesoro, -- por mi estis terure tede.
+
+BRACK
+(simpatiante) Ĉu vere vi tion diras? Tute serioze?
+
+HEDDA
+Jes, vi povas ja mem imagi --! Tiel tute duonan jaron neniam renkonti
+homon, kiu iom konas nian rondon. Kaj kun kiu oni povas paroli pri
+niaj propraj aferoj.
+
+BRACK
+Ne, ne, -- ankaŭ mi sentus tion manko.
+
+HEDDA
+Kaj aldone tio, kio estas la plej netolerebla --
+
+BRACK
+Nu?
+
+HEDDA
+-- ĉiam kaj eterne esti devigata pasi la tagojn kune kun -- kun unu
+sola kaj la sama --
+
+BRACK
+(kapklinas samopiniante) Kaj frue kaj malfrue, -- jes. Imagu, -- je
+ĉiuj okazoj.
+
+HEDDA
+Mi diris: ĉiam kaj eterne.
+
+BRACK
+Jen komprenite. Sed kun nia deca Tesman mi opinias, ke oni devus
+kapabli --
+
+HEDDA
+Tesman estas -- fakulo, kara.
+
+BRACK
+Sendiskute.
+
+HEDDA
+Kaj kun fakuloj ne estas amuze vojaĝi. Almenaŭ ne dumlonge.
+
+BRACK
+Eĉ ne -- kun la fakulo, kiun oni _amas_?
+
+HEDDA
+Hu, -- ne uzu tiun sukergluan vorton!
+
+BRACK
+(ekmiras) Jen kio, sinjorino Hedda?
+
+HEDDA
+(duone ridante, duone ĉagrenita) Jes, vi provu tion, vi! Aŭdi pri
+kulturhistorio frue kaj malfrue --
+
+BRACK
+Ĉiam kaj eterne --
+
+HEDDA
+Jes -- jes -- jes! Kaj pri tiu hejma industrio en la mezepoko --! Tio
+estas ja la plej monstra!
+
+BRACK
+(rigardas ŝin esplorante) Sed diru al mi, -- kiel devas mi kompreni
+ke --? Hm --
+
+HEDDA
+Ke fariĝis paro de mi kaj Jørgen Tesman, vi aludas?
+
+BRACK
+Nu ja, esprimu nin tiel.
+
+HEDDA
+Bona Dio, ĉu vi do trovas tion stranga?
+
+BRACK
+Kaj jes, kaj ne, -- sinjorino Hedda.
+
+HEDDA
+Mi vere estis dancinta ĝis laciĝo, kara Asesoro. Mia tempo estis
+pasinta -- (skuiĝas) Hu ne, -- tion mi tamen ne dirus. Eĉ ne tion
+pensi!
+
+BRACK
+Al tio vi verdire havas neniun kialon.
+
+HEDDA
+Ho, -- kialon --, (rigardas lin kvazaŭ kaŝobservante) Kaj Jørgen
+Tesman, -- oni devas ja rigardi lin kiel bonkondutan homon en ĉiuj
+rilatoj.
+
+BRACK
+Bonkondutan kaj fidindan. Bona Dio.
+
+HEDDA
+Kaj ion rekte ridindan ĉe li mi ne povas trovi. Ĉu vi ion tian
+trovas?
+
+BRACK
+Ridindan? Ne-e, -- ĝuste tion mi ne volas diri --
+
+HEDDA
+Do, kaj cetere li ja estas tre diligenta kolektanto? -- Certe eblas,
+ke fine li tamen atingos alten.
+
+BRACK
+(rigardas ŝin iom necerte) Mi kredis, ke vi opinias, same kiel
+ĉiuj aliaj, ke li fariĝus aparte elstara viro.
+
+HEDDA
+(kun esprimo de laceco) Jes, mi opiniis. -- Kaj kiam li nepre kaj
+absolute volis havi la permeson prizorgi min --. Mi ne scias, kial mi
+ne tion akceptus.
+
+BRACK
+Ne -- ne. De tiu flanko rigardate --
+
+HEDDA
+Estis efektive pli ol kion miaj aliaj amikoj volis fari, kara
+Asesoro, tiuj kiuj provis altiri mian favoron.
+
+BRACK
+(ridas) Nu vere, mi ne povas respondi por ĉiuj aliaj. Sed koncerne
+min, vi ja scias, ke mi ĉiam subtenis iun -- iun respekton por la
+geedza ligo. Ja tiel ĝenerale, sinjorino Hedda.
+
+HEDDA
+(ŝercante) Ho, mi vere neniam nutris min per esperoj koncerne
+_vin_.
+
+BRACK
+Ĉio, kion mi deziras, estas bona, intima rondo, en kiu mi povas
+servi per konsilo kaj helpo, kaj havas la permeson enveni aŭ eliri
+kiel -- kiel elprovita amiko --
+
+HEDDA
+Amiko de la edzo en la domo vi sugestas?
+
+BRACK
+(klinas sin) Por diri la veron, -- prefere de la sinjorino. Sed
+krome ankaŭ de la edzo, kompreneble. Sciu, -- tia -- diru triangula
+rilato, -- ĝi estas funde granda komforto por ĉiuj partoj.
+
+HEDDA
+Jes, mi ofte sopiris havi trian ulon dum la vojaĝo. Hu, -- sidi nur
+du solaj en la kupeo --!
+
+BRACK
+Feliĉe la nuptovojaĝo estas nun finita --
+
+HEDDA
+(skuas la kapon) Evidente la vojaĝo estos longa, -- longa ankoraŭ.
+Mi nur atingis haltejon dumvojaĝe.
+
+BRACK
+Nu, do oni elsaltas. Kaj iom sin distras, sinjorino Hedda.
+
+HEDDA
+Mi neniam elsaltos.
+
+BRACK
+Vere ne?
+
+HEDDA
+Ne. Ĉar ĉiam ĉeestas iu, kiu --
+
+BRACK
+(ridante) -- kiu rigardas ies krurojn, vi aludas?
+
+HEDDA
+Jes ĝuste.
+
+BRACK
+Nu, sed, bona Dio --
+
+HEDDA
+(kun deturnanta mansvingo) Mi ne ŝatas tion. -- En tia okazo mi
+prefere restas sidanta, -- kie mi fine troviĝas. En sola duopo.
+
+BRACK
+Nu, sed jen envenas tria persono al la paro.
+
+HEDDA
+Nu jes, -- _tio_ estas io tute alia!
+
+BRACK
+Elprovita, komprenema amiko --
+
+HEDDA
+-- plezuriga en ĉiuj vivecaj sferoj --
+
+BRACK
+-- kaj tute ne estante fakulo!
+
+HEDDA
+(kun aŭdebla ĝemspiro) Jes, tio estus ja efektive malŝarĝo.
+
+BRACK
+(aŭdas ke iu malfermas la enirejpordon, kaj rigardas tien) La
+triangulo formata.
+
+HEDDA
+(mallaŭte) Kaj jen la trajno pluen veturas.
+
+(_Jørgen Tesman_, en griza promenadkostumo kaj kun mola felta
+ĉapelo, envenas tra la antaŭĉambro. Li havas plurajn nebinditajn
+librojn sub la brako kaj en la poŝoj.)
+
+TESMAN
+(iras al la tablo apud la sofo en la angulo) Puf, -- vere estis
+varme kuntiri, -- ĉion ĉi. (demetas la librojn) Mi eĉ ŝvitas,
+Hedda. Jen, jen, -- vi jam alvenis, kara Asesoro? Ĉu? Tion Berte ne
+menciis.
+
+BRACK
+(ekstaras) Mi iris tra la ĝardeno.
+
+HEDDA
+Kiajn librojn vi kunportas?
+
+TESMAN
+(staras foliumante) Estas novaj sciencfakaj verkoj, kiujn mi nepre
+devas havi.
+
+HEDDA
+Fakaj verkoj?
+
+BRACK
+Aha, estas fakaj verkoj, sinjorino Tesman.
+
+(_Brack_ kaj _Hedda_ interŝanĝas kompreneman rideton.)
+
+HEDDA
+Ĉu vi bezonas ankoraŭ pli da fakaj verkoj?
+
+TESMAN
+Jes, kara Hedda, el tiuj oni neniam ekhavas tro. Oni devas ja
+orientiĝi pri kio estas verkita kaj presita.
+
+HEDDA
+Nu ja, verŝajne oni tion devas.
+
+TESMAN
+(serĉas inter la libroj) Kaj, rigardu, -- jen mi kaptis ankaŭ la
+novan libron de Ejlert Løvborg. (ĝin etendante) Ĉu vi eble emus
+ĝin rigardi, Hedda? Ĉu?
+
+HEDDA
+Ne, multan dankon. Aŭ -- jes, eble poste.
+
+TESMAN
+Mi ĝin iom foliumis dumvoje.
+
+BRACK
+Nu, kion do vi opinias -- kiel fakulo?
+
+TESMAN
+Mi trovas, ke estas strange kiom atenteme li sin esprimas. Tiel li
+neniam skribis antaŭe. (kolektas la librojn) Sed nun mi volas
+enporti ĉion ĉi. Estos plezuro foliume tranĉi --! Kaj jen mi
+ankaŭ devas ŝanĝi vestaĵojn. (al _Brack_) Ĉar ni ja ne bezonas
+tuj foriri? Ĉu?
+
+BRACK
+Kompreneble ne, -- ne urĝas ankoraŭ dum longe.
+
+TESMAN
+Do mi permesas al mi iom da tempo. (eliras kun la libroj, sed haltas
+en la pordaperturo kaj turnas sin) Jen, mi memoras, Hedda, --
+onklino Julle ne vizitos vin ĉivespere.
+
+HEDDA
+Ĉu ne? Ĉu estas la epizodo kun la ĉapelo, kiu malhelpas?
+
+TESMAN
+Ho, tute ne. Kial vi pensas tiel pri onklino Julle? Imagu --! Sed
+onklino Rina estas tiom malsana, sciu.
+
+HEDDA
+Tia ŝi ja ĉiam estas.
+
+TESMAN
+Jes, sed hodiaŭ ŝia malsano multe malboniĝis, la kompatindulino.
+
+HEDDA
+Do ja, estas konvene, ke la alia restas ĉe ŝi. Mi devas rezigni.
+
+TESMAN
+Kaj vi ne povas imagi, vi, kiom ĝoja onklino Julle tamen estis, --
+ĉar vi tiom prosperis dum la vojaĝo!
+
+HEDDA
+(duonlaŭte, ekstaras) Ho, -- tiuj eternaj onklinoj!
+
+TESMAN
+Kion?
+
+HEDDA
+(iras al la vitra pordo) Nenion.
+
+TESMAN
+Nu do. (li eliras tra la malantaŭa ĉambro kaj dekstren)
+
+BRACK
+Pri kiu ĉapelo vi parolis?
+
+HEDDA
+Ho, estis epizodo kun fraŭlino Tesman ĉimatene. Ŝi estis metinta
+sian ĉapelon tien sur la seĝon. (rigardas lin kaj ridetas)
+Kaj mi pretende kredis, ke estas la ĉapelo de la servistino.
+
+BRACK
+(skuas la kapon) Sed kara, bona sinjorino Hedda, kiel vi igis vin
+mem tion fari! Kontraŭ tiu honesta, maljuna sinjorino!
+
+HEDDA
+(nervoza, paŝas trans la plankon) Nu, komprenu, -- tento al tia
+konduto foje ĵetiĝas sur min. Kaj tiam mi _ne povas_ rezisti.
+(ĵetas sin sur la apogseĝon ĉe la forno) Ho, mi ne mem scias,
+kiel tion ekspliki.
+
+BRACK
+(malantaŭ la apogseĝo) Vi ne estas vere feliĉa, -- tio estas la
+kialo.
+
+HEDDA
+(rigardas antaŭen) Krome mi ne scias, kial mi estu -- feliĉa. Aŭ
+eble vi povas al mi tion diri?
+
+BRACK
+Jes -- interalie ĉar vi ricevis ĝuste tiun hejmon, kiun vi deziris.
+
+HEDDA
+(rigardas lin kaj ridas) Ĉu ankaŭ vi kredas pri tiu dezirhistorio?
+
+BRACK
+Ĉu do estas nenio en ĝi?
+
+HEDDA
+Kompreneble, -- io estas en ĝi.
+
+BRACK
+Kaj?
+
+HEDDA
+Estas _tio_ en ĝi, ke mi uzis Tesman por akompani min hejmen de la
+vesperaj festenoj pasintan someron --
+
+BRACK
+Bedaŭrinde, -- ke mi ja havis alian vojon.
+
+HEDDA
+Vero. Vi ja sekvis aliajn vojojn pasintan someron.
+
+BRACK
+(ridas) Honto al vi, sinjorino Hedda! Nu, -- sed vi kaj Tesman do?
+
+HEDDA
+Jen, hazarde iun vesperon ni preterpasis ĉi tie. Kaj Tesman,
+kompatindulo, li ade turnis -- turnadis. Ĉar li ne sciis pri kio
+paroli. Kaj mi kompatis tiun multesciantan homon --
+
+BRACK
+(ridetas dubante) _Vi_ kompatis? Hm --
+
+HEDDA
+Jes vere, mi faris. Kaj jen -- por lin helpi el la embaraso -- mi
+hazarde, senpripense diris ke en tiu vilao mi ŝatus loĝi.
+
+BRACK
+Ne pli ol tio?
+
+HEDDA
+Ne _tiun_ vesperon.
+
+BRACK
+Sed poste do?
+
+HEDDA
+Jes. Mia facilanimeco kuntiris sekvojn, kara Asesoro.
+
+BRACK
+Bedaŭrinde, -- tion faras niaj facilanimecoj tro ofte, sinjorino
+Hedda.
+
+HEDDA
+Dankon! Sed estis en tiu fantaziado pri la vilao de ministrino Falk,
+ke Jørgen Tesman kaj mi renkontiĝis en kompreno! _Tio_ tiris post si
+fianĉiniĝon kaj edziniĝon kaj nuptovojaĝon kaj ĉion. Nu ja,
+Asesoro, -- kiel oni sternas, tiel oni kuŝas, -- mi dirus.
+
+BRACK
+Komike! Kaj funde vi neniel interesiĝis pri la tuta afero.
+
+HEDDA
+Ne, Dio scias ke ne.
+
+BRACK
+Sed nun do? Nun, kiam ni fine aranĝis por vi hejmecan lokon?
+
+HEDDA
+Hu, -- ŝajnas al mi, ke odoras lavendo kaj peklitaj rozoj en ĉiuj
+ĉambroj. -- Sed tiun odoron eble onklino Julle kunportis.
+
+BRACK
+(ridas) Ho ne, mi prefere pensas, ke estas postresto de la karmemora
+ministrino.
+
+HEDDA
+Do, io formortinta algluiĝas. Memorigas al mi balflorojn --
+posttagajn. (interplektante la manojn malantaŭ la nukon,
+duonkuŝante malantaŭen sur la seĝo, kaj lin rigardante) Ho, kara
+Asesoro, -- vi ne povas imagi, kiel terure mi enuos ĉi tie.
+
+BRACK
+Ĉu la vivo ne havus iun taskon por oferti ankaŭ al vi, sinjorino
+Hedda?
+
+HEDDA
+Taskon, -- iun, kiu estus iom alloga?
+
+BRACK
+Prefere tian, kompreneble.
+
+HEDDA
+Dio scias, kia tasko tiu estus. Multfoje mi pripensas -- (interrompante)
+Sed ankaŭ tio certe ne eblas.
+
+BRACK
+Kiu scias? Nur diru.
+
+HEDDA
+Se mi povus igi Tesman fariĝi politikisto, jen sugesto.
+
+BRACK
+(ridas) Tesman! Ne, sed pensu do, -- por tiaĵoj kiel politiko li ja
+tute ne taŭgas -- tute ne.
+
+HEDDA
+Ne, tion mi vere kredas. -- Sed se mi nun tamen kapablus puŝi lin al
+tio?
+
+BRACK
+Pa, -- kia kontentigo estus por vi en tio? Ĉar li ja ne taŭgas.
+Kial vi tamen volas lin al tio puŝi?
+
+HEDDA
+Ĉar mi enuas, aŭdu! (iom poste) Ĉu vi do opinias, ke estus tute
+neeble, ke Tesman fariĝu ĉefministro?
+
+BRACK
+Hm, -- jen, kara sinjorino Hedda, -- por _tio_ fariĝi, li devus unue
+esti sufiĉe riĉa viro.
+
+HEDDA
+(ekstaras senpacienca) Jen, tio estas! Estas tiuj mizeraj kondiĉoj,
+en kiujn mi falis -- (paŝas sur la planko) Estas tiuj, kiuj igas
+la vivon tiel bedaŭrinda! Rekte ridinda! -- Ĉar _tiel_ ja estas.
+
+BRACK
+Mi fakte opinias, ke la kulpo troviĝas aliloke.
+
+HEDDA
+Kie do?
+
+BRACK
+Vi neniam travivis iun skuan vekiĝon.
+
+HEDDA
+Ion seriozan, vi aludas?
+
+BRACK
+Jes, tiel oni povas ja ankaŭ sin esprimi. Sed nun ĝi eble okazos.
+
+HEDDA
+(rektigas la nukon) Ho, vi pensas pri la kontraŭaĵoj rilate tiun
+bagatelan postenon de profesoro! Sed tiu estu la propra afero de
+Tesman. Pri ĝi mi vere ne malŝparas penson.
+
+BRACK
+Nu -- pri tiu ne. Sed kiam nun prezentiĝos al vi, -- kion oni --
+kiel en pompa stilo -- nomas seriozajn kaj -- gravajn postulojn pri
+respondeco? (ridetas) Novajn postulojn, eta sinjorino Hedda.
+
+HEDDA
+(kolere) Silentu! Neniam vi spertos iun tiaĵon!
+
+BRACK
+(atenteme) Ni interparolos proksimume post jaro -- maksimume.
+
+HEDDA
+(interrompante) Mi ne havas talenton por tiaĵo, sinjoro Asesoro.
+Por nenio kun postuloj al mi!
+
+BRACK
+Ĉu vi ne, kiel la plimulto de virinoj, havus talenton por rolo, kiel
+--?
+
+HEDDA
+(ĉe la vitra pordo) Ho, silentu, mi diras! -- Multfoje ŝajnas al
+mi, ke mi havas talenton por nur unu rolo en la mondo.
+
+BRACK
+(proksimiĝas) Kaj kiu estas do tiu, se mi kuraĝas demandi?
+
+HEDDA
+(staras rigardante eksteren) Por el mi enuigi la vivon. Nun vi
+scias. (turnas sin, rigardas al la malantaŭa ĉambro, kaj ridas)
+Jes, tute ĝuste! Jen ni havas la profesoron.
+
+BRACK
+(mallaŭte, avertante) Nu, nu, nu, sinjorino Hedda!
+
+(_Jørgen Tesman_, festene vestita, kun gantoj kaj ĉapelo enmane,
+venas de dekstre tra la malantaŭa ĉambro.)
+
+TESMAN
+Hedda, -- ĉu ne venis malinvito de Ejlert Løvborg? Ĉu?
+
+HEDDA
+Ne.
+
+TESMAN
+Nu, do jen vidu, ni certe havos lin post iom da tempo.
+
+BRACK
+Ĉu vi vere kredas, ke li venos?
+
+TESMAN
+Jes, pri tio mi preskaŭ certas. Ĉar verŝajne estas nur senfunda
+onidiro, tio kion vi rakontis antaŭtagmeze.
+
+BRACK
+Vere?
+
+TESMAN
+Jes, almenaŭ onklino Julle diris, ke ŝi kredas, ke neniel estonte
+li volus bari al mi la vojon. Jen imagu!
+
+BRACK
+Nu, do ĉio estas ja en bona ordo.
+
+TESMAN
+(metas la ĉapelon kun la gantoj en ĝi sur seĝon dekstre) Jes, sed
+vi devas permesi al mi atendi lin kiom eble plej longe.
+
+BRACK
+Por tio ni havas abundan tempon. Neniu venos al mi antaŭ la sepa --
+la sepa kaj duono.
+
+TESMAN
+Nu, do ni povas ja dume plezurigi Hedda. Kaj tiel pasigi la tempon.
+Ĉu?
+
+HEDDA
+(portas la surtuton kaj ĉapelon de Brack al la sofo en la angulo)
+Kaj se tro malfaciliĝas, sinjoro Løvborg povas ja restadi ĉi tie
+ĉe mi.
+
+BRACK
+(volas mem preni la vestaĵojn) Ho, pardonu, Sinjorino! -- Al kio vi
+aludas per "tro malfaciliĝas"?
+
+HEDDA
+Se li ne volas iri kun vi kaj Tesman.
+
+TESMAN
+(rigardas ŝin sendecide) Sed, kara Hedda, -- ĉu vi kredas ke tio
+decas, ke li restos ĉi tie ĉe vi? Ĉu? Memoru ke onklino Julle ne
+povas veni.
+
+HEDDA
+Ne, sed sinjorino Elvsted venos. Kaj tiam ni tri kune trinkos tason
+da teo.
+
+TESMAN
+Jes, _jen_ kio konvenas.
+
+BRACK
+(ridetas) Kaj estus eble la plej saniga por li.
+
+HEDDA
+Kial do?
+
+BRACK
+Bona Dio, Sinjorino, vi ja sufiĉe ofte mokaludis miajn etajn
+fraŭlofestenojn. Ili konvenus sole por vere principfidelaj viroj, vi
+opiniis.
+
+HEDDA
+Sed certe sinjoro Løvborg nun estas sufiĉe principfidela. Konvertita
+pekulo --
+
+(_Berte_ envenas tra la pordo de la antaŭĉambro.)
+
+BERTE
+Sinjorino, venas sinjoro, kiu deziras viziti --
+
+HEDDA
+Jes, envenigu lin.
+
+TESMAN
+(mallaŭte) Mi certas, ke estas li! Jen, imagu!
+
+(_Ejlert Løvborg_ envenas de la antaŭĉambro. Li estas svelta kaj
+malgrasa; samaĝa kun Tesman, sed aspektas iom pli aĝa kaj kaduka.
+Haroj kaj barbo estas nigrebrunaj, la vizaĝo iom longa, pala, kun
+nur paro de du ruĝetaj makuloj sur la vangoostoj. Li estas vestita
+en eleganta, nigra, tute nova vizitkostumo. Malhelaj gantoj kaj
+cilindra ĉapelo en la mano. Li restas starante ĉe la pordo kaj
+rapide kline salutas. Aspektas iom ĝenata.)
+
+TESMAN
+(al li kaj mansalutas) Jen, kara Ejlert, -- ni do fine ankoraŭfoje
+renkontiĝas!
+
+LØVBORG
+(parolas per kvieta voĉo) Dankon al vi pro la letero. (proksimiĝas
+al _Hedda_) Ĉu mi kuraĝu ankaŭ al vi doni mian manon, sinjorino
+Tesman?
+
+HEDDA
+(prenas lian manon) Bonvenon, sinjoro Løvborg. (kun mangesto) Mi
+ne scias ĉu tiuj du sinjoroj --?
+
+LØVBORG
+(ete klinas sin) Asesoro Brack, mi opinias.
+
+BRACK
+(same) Evidente. Antaŭ kelkaj jaroj --
+
+TESMAN
+(al _Løvborg_, kun la manoj sur liaj ŝultroj) Kaj nun vi kondutu
+kvazaŭ hejme, Ejlert! Ĉu ne, Hedda? -- Ĉar vi volas ja denove
+loĝi ĉi tie en la urbo, mi aŭdas? Ĉu ne?
+
+LØVBORG
+Jes, mi faros.
+
+TESMAN
+Nu, estas ja kompreneble. Aŭdu, -- mi akiris vian novan libron. Sed
+mi vere ankoraŭ ne havis tempon legi ĝin.
+
+LØVBORG
+Tion vi vere povas ŝpari al vi.
+
+TESMAN
+Kial do, vi opinias?
+
+LØVBORG
+Ĉar ne estas io atentinda en ĝi.
+
+TESMAN
+Ho, imagu, ke vi tion diras!
+
+BRACK
+Tamen ĝi estas ja ege laŭdata, mi aŭdas.
+
+LØVBORG
+Estas ĝuste tio, kion mi celis. Kaj tial mi verkis la libron tia, ke
+ĉiuj povus ĝin pense sekvi.
+
+BRACK
+Tre saĝe.
+
+TESMAN
+Sed kara Ejlert, --!
+
+LØVBORG
+Ĉar nun mi volas provi restarigi min. Komenci denove.
+
+TESMAN
+(iom ĝenata) Jes, tion vi do volas? Ĉu?
+
+LØVBORG
+(ridetas, formetas la ĉapelon kaj tiras paketon en paperkovraĵo el
+la poŝo de la mantelo) Sed kiam tio ĉi eldoniĝos, Jørgen Tesman
+-- tiam vi nepre legu. Ĉar _jen_ definitive la ĝusta. Tio en kio mi
+mem estas.
+
+TESMAN
+Nu? Kaj kio do tio estas?
+
+LØVBORG
+Estas la daŭrigo.
+
+TESMAN
+La daŭrigo? De kio?
+
+LØVBORG
+De la libro.
+
+TESMAN
+De la nova?
+
+LØVBORG
+Kompreneble.
+
+TESMAN
+Jes, sed kara Ejlert, -- ĝi enhavas ja la temon ĝis niaj tagoj!
+
+LØVBORG
+Ĝi enhavas. Kaj tiu ĉi temas pri la estonteco.
+
+TESMAN
+Pri la estonteco! Sed bona Dio, pri ĝi ni ja nenion scias!
+
+LØVBORG
+Ne. Sed tamen estas io kaj tio pri ĝi direnda. (malfermas la
+paketon) Jen, rigardu --
+
+TESMAN
+Sed ne estas via manskribo.
+
+LØVBORG
+Mi diktis. (foliumas la paperojn) Ĝi estas dividita en du
+sekciojn. La unua temas pri la kultur-potencoj de la estonteco. Kaj
+tiu dua -- (foliumas iom pli antaŭen) -- tiu temas pri la estonta
+kultur-evoluo.
+
+TESMAN
+Mirinde! Pri tiaj temoj mi neniam ekpensus skribi.
+
+HEDDA
+(ĉe la vitra pordo, frapetadas la vitron) Hm -- Ho -- ne.
+
+LØVBORG
+(metas la paperojn en la kovraĵon kaj metas la paketon sur la
+tablon) Mi ĝin kunprenis, ĉar mi intencis iom legi por vi
+ĉivespere.
+
+TESMAN
+Jes, estas tre afable de vi. Sed ĉivespere --? (rigardas al
+_Brack_) Mi vere ne scias, kiel tio ordiĝus --
+
+LØVBORG
+Nu, do alian fojon. Ne urĝas.
+
+BRACK
+Mi devas klarigi al vi, sinjoro Løvborg, -- okazos eta aranĝo ĉe mi
+ĉivespere. Precipe por Tesman, komprenu --
+
+LØVBORG
+(serĉas la ĉapelon) Nu, -- do mi ne pli longe --
+
+BRACK
+Ne, aŭskultu nun. Ĉu vi ne povus fari al mi la plezuron kunveni?
+
+LØVBORG
+(abrupte kaj decide) Ne, tion mi ne povas. Mi sincere dankas vin.
+
+BRACK
+Jen kio? Kunvenu. Ni estos eta elektita rondo. Kaj kredu, ke estos
+vivece, kiel sinjorino Hed --, kiel sinjorino Tesman diras.
+
+LØVBORG
+Pri tio mi ne dubas. Sed tamen --
+
+BRACK
+Kaj vi povus kunpreni vian manuskripton, kaj legi por Tesman _tie_
+ĉe mi. Ĉar mi havas sufiĉe da ĉambroj.
+
+TESMAN
+Jes pensu, Ejlert, -- tion vi povus fari! Ĉu?
+
+HEDDA
+(intervenas) Sed kara, ĉar sinjoro Løvborg tute ne _volas_! Mi
+estas certa, ke sinjoro Løvborg multe pli ŝatas resti ĉi tie kaj
+havi vespermanĝon kun mi.
+
+LØVBORG
+(ekrigardas ŝin) Kun vi, sinjorino!
+
+HEDDA
+Kaj kun sinjorino Elvsted.
+
+LØVBORG
+Ĉu? -- (pasante) Ŝin mi preterpase renkontis tagmeze.
+
+HEDDA
+Ĉu vere? Jes, ŝi venos ĉi tien. Kaj tial estas preskaŭ necese, ke
+vi restos, sinjoro Løvborg. Ĉar alie ŝi ne havos iun por akompani
+sin hejmen.
+
+LØVBORG
+Jen vero. Jes, multan dankon, Sinjorino, -- do mi restos ĉi tie.
+
+HEDDA
+Kaj mi nur donu al la servistino etan informon --
+
+(Ŝi iras al la pordo de la antaŭĉambro kaj sonorigas. _Berte_
+envenas. _Hedda_ parolas mallaŭte kun ŝi kaj montras al la
+malantaŭa ĉambro. _Berte_ kapjesas kaj ree eliras.)
+
+TESMAN
+(samtempe al _Ejlert Løvborg_) Aŭdu, Ejlert, -- ĉu estas tiu ĉi
+nova temo, -- tiu pri la estonteco, -- pri kiu vi intencas fari
+prelegojn?
+
+LØVBORG
+Jes.
+
+TESMAN
+Ĉar mi aŭdis ĉe la librovendisto, ke vi eble donos serion da
+prelegoj ĉi tie dum la aŭtuno.
+
+LØVBORG
+Jes, mi faros. Vi ne devas riproĉi min pro tio, Tesman.
+
+TESMAN
+Ne, pro Dio, kompreneble ne! Sed --?
+
+LØVBORG
+Mi bone komprenas, ke por vi iom kontraŭas.
+
+TESMAN
+(malgaja) Ho, mi ne povas ja postuli, ke pro mi vi --
+
+LØVBORG
+Sed mi atendas ĝis kiam vi ekhavos vian oficon.
+
+TESMAN
+Vi atendas! Jes sed, -- jes sed, -- ĉu vi ne volas konkuri? Ĉu?
+
+LØVBORG
+Ne. Mi nur volas venki vin. En la opinio de la publiko.
+
+TESMAN
+Sed, bona Dio, -- do onklino Julle tamen praviĝis! Ho jes, -- mi
+_tion_ ja sciis! Hedda! Jen imagu, -- Ejlert Løvborg tute ne volas
+kontraŭi nin!
+
+HEDDA
+(abrupte) Nin? Tenu min ekster tio.
+
+(Ŝi iras al la malantaŭa ĉambro, kie _Berte_ staras metante sur la
+tablon pleton kun karafoj kaj glasoj. _Hedda_ kapsignas aprobe, kaj
+ree venas antaŭen. _Berte_ eliras.)
+
+TESMAN
+(samtempe) Sed vi, asesoro Brack, -- Kion vi diras al tio ĉi? Ĉu?
+
+BRACK
+Nu, mi diras, ke gloro kaj venko -- hm, -- povas ja esti treege belaj
+aferoj --
+
+TESMAN
+Jes certe povas esti. Sed tamen --
+
+HEDDA
+(rigardas Tesman kun malvarma rideto) Ŝajnas al mi, ke vi staras
+kvazaŭ fulmofrapita.
+
+TESMAN
+Jes, -- proksimume tia, -- mi opinias --
+
+BRACK
+Estis ja vere fulmotondro, kiu pasis super ni, Sinjorino.
+
+HEDDA
+(montras al la malantaŭa ĉambro) Ĉu la sinjoroj bonvolas eniri
+por preni glason da frida punĉo?
+
+BRACK
+(rigardas sian horloĝon) Forirsalute? Jes, eble ne estus rifuzinde.
+
+TESMAN
+Bonege, Hedda! Vere bonege! En tia sangvina animstato, en kia mi nun
+troviĝas --
+
+HEDDA
+Bonvolu, ankaŭ vi, sinjoro Løvborg.
+
+LØVBORG
+(rifuzante) Ne, multan dankon. Ne por mi.
+
+BRACK
+Sed, bona Dio, -- frida punĉo vere ne estas veneno, mi scias.
+
+LØVBORG
+Eble ne por ĉiuj.
+
+HEDDA
+Jen, mi distru sinjoron Løvborg dume.
+
+TESMAN
+Nu ja, kara Hedda, tion faru do.
+
+(Li kaj _Brack_ iras en la malantaŭan ĉambron, eksidas, trinkas
+punĉon, fumas cigaredojn kaj parolas gajhumore dum la sekvanta
+sceno. _Ejlert Løvborg_ restas staranta ĉe la forno. _Hedda_ iras al
+la skribotablo.)
+
+HEDDA
+(per iom laŭtigita voĉo) Nun mi montros al vi kelkajn fotojn, se
+vi emas. Ĉar Tesman kaj mi -- ni faris ekskurson tra Tirolo dum la
+hejmenvojaĝo.
+
+(Ŝi venas kun albumo, kiun ŝi metas sur la tablon apud la sofo, kaj
+eksidas en ties superan angulon. _Ejlert Løvborg_ proksimiĝas,
+haltas kaj rigardas ŝin. Poste li prenas seĝon kaj eksidas ĉe ŝia
+maldekstra flanko kun la dorso al la malantaŭa ĉambro.)
+
+HEDDA
+(malfermas la albumon) Jen rigardu tiun montodorson, sinjoro
+Løvborg! Estas la Ortlermontaro. Tesman skribis sube. Jen estas:
+Ortlermontaro ĉe Meran.
+
+LØVBORG
+(kiu konstante ŝin rigardas, diras mallaŭte kaj malrapide) Hedda
+-- Gabler --
+
+HEDDA
+(ekrigardas lin rapide) Nu! Ts!
+
+LØVBORG
+(ripetas malrapide) Hedda Gabler!
+
+HEDDA
+(rigardas en la albumon) Jes, tiel mi nomiĝis en pli frua tempo.
+Tiam, -- kiam ni du konis unu la alian.
+
+LØVBORG
+Kaj de nun, -- kaj dum la tuta vivo, -- mi do devas kutimigi min ne
+plu diri Hedda Gabler.
+
+HEDDA
+(daŭre foliumante) Jes, vi devas. Kaj mi opinias, ke vi devas
+praktiki sufiĉe frutempe. Ŝajnas al mi, ke ju pli frue, des pli
+bone.
+
+LØVBORG
+(kun indignoplena voĉo) Hedda Gabler edziniĝita? Kaj tia kun --
+Jørgen Tesman!
+
+HEDDA
+Jes, -- tiel okazas.
+
+LØVBORG
+Ho, Hedda, Hedda, -- kiel povis vi do forĵeti vin mem!
+
+HEDDA
+(rigardas lin akre) Nu? Ne tiele nun.
+
+LØVBORG
+Kiel do? (_Tesman_ envenas kaj iras al la sofo)
+
+HEDDA
+(aŭdas lin veni kaj diras indiferente) Kaj tio ĉi, sinjoro
+Løvborg, tio estas vido de malsupre en la Ampezzovalo. Jen rigardu
+tiujn montopintojn. (afable rigardas _Tesman_) Kio do nomiĝas tiuj
+strangaj montopintoj?
+
+TESMAN
+Lasu min rigardi. Ho, estas la Dolomitoj, tiuj.
+
+HEDDA
+Ĝuste ja! -- estas la Dolomitoj, sinjoro Løvborg.
+
+TESMAN
+Hedda, -- mi nur volis demandi, ĉu ni ne tamen enmetu iom da punĉo?
+Almenaŭ al vi, Hedda. Ĉu?
+
+HEDDA
+Jes, dankon. Kaj eble kelkajn kukojn.
+
+TESMAN
+Ne cigaredojn?
+
+HEDDA
+Ne.
+
+TESMAN
+Bone.
+
+(Li iras en la malantaŭan ĉambron kaj dekstren. _Brack_ sidas tie
+kaj observadas _Hedda_ kaj _Løvborg_.)
+
+LØVBORG
+(mallaŭte kiel antaŭe) Nu, respondu al mi, Hedda, -- kiel vi povis
+tion ĉi fari?
+
+HEDDA
+(aspekte profunde studante la albumon) Se vi daŭre kondutos intime,
+mi ne volas kun vi paroli.
+
+LØVBORG
+Ĉu mi ne rajtas eĉ kiam ni estas solaj?
+
+HEDDA
+Ne. Vi povas tiel pensi. Sed vi ne rajtas tiel paroli.
+
+LØVBORG
+Aha, mi komprenas. Tio ofendas vian amon -- al Jørgen Tesman.
+
+HEDDA
+(ekrigardas lin kaj ridetas) Amon? Ne, nun vi estas sprita!
+
+LØVBORG
+Do ne amon!
+
+HEDDA
+Tamen nenian malfidelecon! Tiaĵon mi ne volas akcepti.
+
+LØVBORG
+Hedda, -- respondu al mi nur tion solan --
+
+HEDDA
+Ts!
+
+(_Tesman_ kun pleto venas de la malantaŭa ĉambro.)
+
+TESMAN
+Jen! Jen la bonaĵoj. (li metas la pleton sur la tablon)
+
+HEDDA
+Kial vi mem servas?
+
+TESMAN
+(verŝas en la glasojn) Jes, ĉar mi trovas, ke estas tiom amuze
+servi vin, Hedda.
+
+HEDDA
+Sed vi ja verŝis en ambaŭ glasojn. Kaj sinjoro Løvborg ja ne
+deziras --
+
+TESMAN
+Ne, sed sinjorino Elvsted ja baldaŭ venos.
+
+HEDDA
+Jes, vere, -- sinjorino Elvsted --
+
+TESMAN
+Ĉu vi ŝin forgesis? Ĉu?
+
+HEDDA
+Ni tiom profundiĝis en tion ĉi. (montras al li bildon) Ĉu vi
+memoras tiun etan vilaĝon?
+
+TESMAN
+Ho, estas _tiu_ malsupre de Brennerpasejo! Estas tie, kie ni devis
+restadi la tutan nokton --
+
+HEDDA
+-- kaj renkontis tiun aron da vivecaj somergastoj.
+
+TESMAN
+Jes, vere estis _tie_. Imagu -- se ni tiam povus havi _vin_ kun ni,
+Ejlert! Nu! (li iras kaj sidigas sin ĉe _Brack_)
+
+LØVBORG
+Respondu al mi sole tion, Hedda --
+
+HEDDA
+Nu?
+
+LØVBORG
+Ĉu ne estis amo, eĉ ne en la rilato kun _mi_? Ne guto, -- ne
+simileco de amo, eĉ ne en tio?
+
+HEDDA
+Nu, ĉu vere estis? Por mi aspektis, kvazaŭ ni estas du bonaj
+kamaradoj. Du vere intimaj amikoj. (ridetas) Precipe vi estis tre
+nekaŝema.
+
+LØVBORG
+Estis vi, kiu tion deziris.
+
+HEDDA
+Kiam mi retropensas, ŝajnas al mi, ke estis io bela, io alloga, --
+io kuraĝa en -- en tiu kaŝema intimeco -- tiu kamaradeco, pri kiu
+neniu vivanta homo ion flaris.
+
+LØVBORG
+Jes, ĉu ne, Hedda! Ĉu ne tiel estis? -- Kiam mi vizitis vian patron
+tiel dum la posttagmezoj --. Kaj la generalo sidis ĉe la fenestro
+legante la gazetojn, -- kun la dorso al ni turnita --
+
+HEDDA
+Kaj ni du en la sofo en la angulo --
+
+LØVBORG
+Ĉiam kun la sama ilustrita revuo antaŭ ni --
+
+HEDDA
+Pro manko de albumo, jes.
+
+LØVBORG
+Jes, Hedda, -- kaj kiam mi konfesis por vi --! Rakontis al vi pri mi
+mem tion, kion neniu alia tiam sciis. Sidis tie kaj konfesis, ke mi
+eliris diboĉante tagojn kaj noktojn. Diboĉis tagnokton post
+tagnokto. Ho, Hedda, kia estis tiu potenco en vi, kiu devigis min
+konfesi tiaĵojn?
+
+HEDDA
+Ĉu vi imagas, ke estis iu potenco en mi?
+
+LØVBORG
+Jes, kiel mi alie tion klarigu al mi? Kaj ĉiuj tiuj -- en pudoro
+volvitaj demandoj, kiujn vi al mi faris --
+
+HEDDA
+Kaj kiujn vi ege bone komprenis --
+
+LØVBORG
+Jen, ke vi povis sidi kaj tiel fari demandojn! Tute senhonte!
+
+HEDDA
+En pudoro volvitaj do estis.
+
+LØVBORG
+Jes, tamen senhonte. Elĉerpige demandi min pri -- pri ĉiuj tiaĵoj!
+
+HEDDA
+Kaj ke vi igis vin respondi, sinjoro Løvborg.
+
+LØVBORG
+Jes, estas ja ĝuste tio, kion mi ne komprenas -- nun poste. Sed diru
+do al mi, Hedda, -- ĉu ne estis amo funde en nia rilato? Ĉu ne
+estis de via flanko, kvazaŭ vi dezirus lavi min pura, -- kiam mi
+rifuĝis al vi por konfesi? Ĉu ne estis tiel?
+
+HEDDA
+Ne, ne ekzakte.
+
+LØVBORG
+Kio vin do instigis?
+
+HEDDA
+Ĉu aspektas por vi tiom nekompreneble, se junulino -- kiam povas
+okazi tiel -- sekrete --
+
+LØVBORG
+Nu?
+
+HEDDA
+Ke ŝi dezire volas rigardi en mondon, pri kiu --
+
+LØVBORG
+Pri kiu --?
+
+HEDDA
+-- pri kiu oni ne rajtas ion scii?
+
+LØVBORG
+Jen, tio do estis?
+
+HEDDA
+Ankaŭ tio. Ankaŭ tio, -- mi imagas.
+
+LØVBORG
+Kamaradeco en avido de la vivoĝuo. Sed kial _tio_ do ne povus
+daŭri?
+
+HEDDA
+Pro tio vi mem kulpas.
+
+LØVBORG
+Estas vi, kiu rompis.
+
+HEDDA
+Jes, kiam danĝero minacis, ke realiĝo venus en la rilato. Honto al
+vi, Ejlert Løvborg, kiel povis vi atenci vian -- vian fideman
+kamaradon!
+
+LØVBORG
+(premegas la manojn) Ho, kial vi ne realigis la minacon? Kial vi ne
+mortpafis min, kiel vi minacis!
+
+HEDDA
+_Tiom_ mi timas la skandalon.
+
+LØVBORG
+Jes, Hedda. Funde vi estas malkuraĝa.
+
+HEDDA
+Terure malkuraĝa. (ŝanĝas sintenon) Sed estis ja feliĉe por vi.
+Kaj poste vi ja konsolis vin tiom rave ĉe la familio Elvsted.
+
+LØVBORG
+Mi scias, kion Tea konfidis al vi.
+
+HEDDA
+Kaj eble vi konfidis ion pri ni du?
+
+LØVBORG
+Eĉ ne vorton. Tiaĵojn ŝi estas tro stulta por kompreni.
+
+HEDDA
+Stulta?
+
+LØVBORG
+En tiaj aferoj ŝi estas stulta.
+
+HEDDA
+Kaj mi estas malkuraĝa. (klinas sin pli proksimen al li, sen lin
+rigardi en la okulojn, kaj diras pli mallaŭte) Sed nun _mi_ volas
+ion konfidi al _vi_.
+
+LØVBORG
+(atente) Nu?
+
+HEDDA
+_Tio_ ke mi ne kuraĝis mortpafi vin --
+
+LØVBORG
+Jes?!
+
+HEDDA
+-- _tio_ ne estis mia plej fia malkuraĝo -- tiun vesperon.
+
+LØVBORG
+(rigardas ŝin momenton, komprenas, kaj flustras pasie) Ho, Hedda!
+Hedda Gabler! Nun mi ekvidas kaŝitan fundon sub nia kamaradeco! Vi
+kaj mi --! _Tamen_ estis la deziro pri vivo en vi --
+
+HEDDA
+(mallaŭte, sed kun akra ekrigardo) Gardu vin! Ne imagu ion tian!
+
+(Mallumiĝadas. La pordo de la antaŭĉambro estas de ekstere
+malfermata de _Berte_.)
+
+HEDDA
+(klake fermas la albumon kaj vokas ridetante) Nu, fine! Kara Tea, --
+jen do, envenu!
+
+(_Sinjorino Elvsted_ venas de la antaŭĉambro. Ŝi estas vizite
+vestita. La pordo fermiĝas malantaŭ ŝi.)
+
+HEDDA
+(en la sofo, etendas la brakojn al ŝi) Dolĉa Tea, -- vi ne povas
+imagi, kiom mi atendis vin!
+
+(_Sinjorino Elvsted_ preterpase interŝanĝas etan saluton kun la
+sinjoroj en la malantaŭa ĉambro, iras al la tablo kaj donas al
+Hedda la manon. _Ejlert Løvborg_ ekstaris. Li kaj _sinjorino Elvsted_
+sin salutas per muta kapklino.)
+
+ELVSTED
+Eble mi devus eniri por iom paroli kun via edzo?
+
+HEDDA
+Ho, tute ne. Lasu tiujn du sidi. Ili baldaŭ foriros.
+
+ELVSTED
+Ili foriros?
+
+HEDDA
+Jes, ili eliros drinkfesteni.
+
+ELVSTED
+(rapide al Løvborg) Sed certe vi ne?
+
+LØVBORG
+Ne.
+
+HEDDA
+Sinjoro Løvborg -- li restos ĉe ni.
+
+ELVSTED
+(prenas seĝon kaj volas eksidi apud li) Ho, kiom agrable ĉi tie
+estas!
+
+HEDDA
+Ne dankon, mia eta Tea. Ne _tie_! Bele venu ĉi tien al mi. Mi volas
+esti meze inter vi.
+
+ELVSTED
+Jes, tute kiel vi volas.
+
+(Ŝi ĉirkaŭiras la tablon kaj eksidas en la sofon dekstre de
+_Hedda_. _Løvborg_ ree eksidas sur la seĝon.)
+
+LØVBORG
+(post mallonga paŭzo, al _Hedda_) Ĉu ŝi ne estas ĝue rigardinda?
+
+HEDDA
+(glite tuŝetas ŝiajn harojn) Nur rigardinda?
+
+LØVBORG
+Jes. Ĉar _ni_ du -- ŝi kaj mi, -- _ni_ estas du veraj kamaradoj. Ni
+absolute fidas unu la alian. Kaj ni povas sidi kune kaj libere
+interparoli --
+
+HEDDA
+Sen pudoraj diskretaĵoj, sinjoro Løvborg? --
+
+LØVBORG
+Nu --
+
+ELVSTED
+(mallaŭte, sin kroĉante al _Hedda_) Ho, kiom feliĉa mi estas,
+Hedda! Ĉar, -- imagu, -- li diras, ke mi ankaŭ inspiris lin.
+
+HEDDA
+(rigardas ŝin ridetante) Aj, ĉu li tion diras?
+
+LØVBORG
+Kaj tian kuraĝon en agoj, kian ŝi havas, sinjorino Tesman?
+
+ELVSTED
+Ho, Dio, -- _mi_ kuraĝon!
+
+LØVBORG
+Treege -- kiam temas pri la kamarado.
+
+HEDDA
+Jes, _kuraĝon_ -- ja! Se oni nur _tian_ havus.
+
+LØVBORG
+Kaj kion do vi pensas?
+
+HEDDA
+Tiam oni povus eble ankoraŭ vivi la vivon. (subite ŝanĝiĝas)
+Sed nun, mia plej kara Tea, -- nun vi trinku glason da frida punĉo.
+
+ELVSTED
+Ne dankon, -- mi neniam trinkas tiaĵojn.
+
+HEDDA
+Nu, do vi, sinjoro Løvborg.
+
+LØVBORG
+Dankon, ankaŭ mi ne.
+
+ELVSTED
+Ne, ankaŭ li ne!
+
+HEDDA
+(rigardas lin firme) Tamen ĉar mi nun tion volas?
+
+LØVBORG
+Neniel utilas.
+
+HEDDA
+(ridas) Mi do tute ne havas iun povon super vi, mi povrulino?
+
+LØVBORG
+Ne en _tiu_ rilato.
+
+HEDDA
+Serioze dirite, mi tamen opinias ke vi devus tion fari. Pro vi mem.
+
+ELVSTED
+Ho ne, Hedda --!
+
+LØVBORG
+Kaj kial?
+
+HEDDA
+Aŭ pro la homoj, ĝuste dirite.
+
+LØVBORG
+Vere?
+
+HEDDA
+Alie oni povus ja ekhavi la opinion, ke vi -- tiel funde -- ne sentas
+vin sufiĉe hardita -- ne sufiĉe certa pri vi mem.
+
+ELVSTED
+(mallaŭte) Ho, ne, ne, Hedda --!
+
+LØVBORG
+La homoj povas kredi, kion ili volas, -- ĝis plue.
+
+ELVSTED
+(ĝoje) Jes, ĉu ne vere!
+
+HEDDA
+Tion ja montris klare la vizaĝo de asesoro Brack.
+
+LØVBORG
+Kiel do?
+
+HEDDA
+Li ridetis iom moke, kiam vi ne kuraĝis eniri tien al la tablo.
+
+LØVBORG
+Mi ne kuraĝis! Mi prefere volis ja resti ĉi tie kaj paroli kun
+_vi_.
+
+ELVSTED
+Estis ja tute kompreneble, Hedda.
+
+HEDDA
+Sed tion la asesoro ne povis suspekti. Kaj mi ankaŭ vidis, ke li
+ekridetis kaj ĵetis okulumon al Tesman, kiam vi eĉ ne kuraĝis
+kunveni al tiu povra, eta festeno.
+
+LØVBORG
+Kuraĝis! Vi diras ke mi ne kuraĝis?
+
+HEDDA
+Ne mi. Sed tiel asesoro Brack komprenis la staton.
+
+LØVBORG
+Lasu nur tion al li.
+
+HEDDA
+Vi do ne kuniros?
+
+LØVBORG
+Mi restos ĉe vi kaj Tea.
+
+ELVSTED
+Jes, Hedda, -- tion vi ja povas pensi.
+
+HEDDA
+(ridetas kaj kapklinas aprobe al _Løvborg_) Do fundamente solide
+masonita. Principofirma por ĉiam. Jen kia devas esti viro! (turnas
+sin al _sinjorino Elvsted_ kaj frapetas ŝin) Nu, ĉu mi ne tion
+diris, kiam vi, tute freneza, venis ĉi tien ĉimatene --
+
+LØVBORG
+(mirigita) Freneza!
+
+ELVSTED
+(terurigita) Hedda, -- Hedda do --!
+
+HEDDA
+Jen, rigardu nur mem! Ne estas ja necese iri en tiu morta timo --
+(interrompante) Do, jen ni tri povas esti gajaj!
+
+LØVBORG
+(estas skuita) Aha, -- kio do estas tio ĉi, sinjorino Tesman!
+
+ELVSTED
+Ho Dio, ho Dio, Hedda! Kion vi diras! Kion vi faras!
+
+HEDDA
+Restu nur trankvila! La abomena asesoro sidas vin observante.
+
+LØVBORG
+En morta timo, do. Pro mi.
+
+ELVSTED
+(mallaŭte, plende) Ho, Hedda, -- nun vi igis min tute malfeliĉa!
+
+LØVBORG
+(rigardas ŝin dum momento fikse; grimacas) Do _tio_ estis de la
+kamarado la senrezerva fido al mi.
+
+ELVSTED
+(petoplene) Ho, kara amiko, -- vi devas unue aŭskulti --!
+
+LØVBORG
+(prenas unu el la plenaj punĉoglasoj, suprenlevas ĝin, kaj diras
+malrapide per raŭka voĉo) Via tosto, Tea! (li malplenigas
+la glason, demetas ĝin kaj prenas la alian)
+
+ELVSTED
+(mallaŭte) Ho, Hedda, Hedda, -- kial vi tion volus!
+
+HEDDA
+Volus! Mi? Ĉu vi estas freneza?
+
+LØVBORG
+Kaj ankaŭ toston por vi, sinjorino Tesman. Dankon pro la vero. Ĝi
+vivu! (li trinkas kaj volas denove plenigi la glason)
+
+HEDDA
+(metas la manon sur lian brakon) Nu, nu, -- ne pli nune. Memoru, ke
+vi iros en festenon.
+
+ELVSTED
+Ne, ne, ne!
+
+HEDDA
+Ŝ-ŝ! Ili sidas vin rigardante.
+
+LØVBORG
+(demetas la glason) Vi, Tea, -- diru nun la veron.
+
+ELVSTED
+Jes!
+
+LØVBORG
+Ĉu la notario sciis, ke vi postvojaĝus min?
+
+ELVSTED
+(tordas siajn manojn) Ho, Hedda, -- vi aŭdas pri kio li demandas!
+
+LØVBORG
+Ĉu estis interkonsento inter vi kaj li, ke vi vojaĝu al la urbo por
+observi min? Eble estis la notario mem, kiu igis vin tion fari? Aha,
+vi, -- eble li denove bezonis min en la oficejo! Aŭ ĉu estas ĉe la
+kartotablo ke mi mankis al li?
+
+ELVSTED
+(mallaŭte, ĝemplende) Ho, Løvborg, Løvborg --!
+
+LØVBORG
+(prenas glason kaj volas ĝin plenigi) Ankaŭ tosto por la maljuna
+notario!
+
+HEDDA
+(lin deturnante) Ne pli nun. Memoru, ke vi eliru por legi por
+Tesman!
+
+LØVBORG
+(trankvile, demetas la glason) Estis stulte de mi, Tea, tio ĉi. Jen
+konduti tiel, mi pensas. Ne koleru pro mi, vi kara, kara kamarado. Vi
+vidos, -- kaj vi kaj la aliaj, -- ke kvankam mi iun fojon falis, do
+--. Nun mi restariĝis! Pere de _via_ helpo, Tea.
+
+ELVSTED
+(ĝojbrile) Ho Dio, dankon --!
+
+(_Brack_ intertempe rigardis sian horloĝon. Li kaj _Tesman_ ekstaras
+kaj venas en la salonon.)
+
+BRACK
+(prenas sian ĉapelon kaj mantelon) Jen, sinjorino Tesman, nun estas
+horo por foriri.
+
+HEDDA
+Nun do estas.
+
+LØVBORG
+(ekstaras) Ankaŭ por mi, sinjoro Asesoro.
+
+ELVSTED
+(mallaŭte kaj petante) Ho, Løvborg, -- ne faru!
+
+HEDDA
+(pinĉas ŝian brakon) Ili aŭdas vin!
+
+ELVSTED
+(krias malforte) Aj!
+
+LØVBORG
+(al _Brack_) Vi bonvole invitis min kunveni.
+
+BRACK
+Jen, vi tamen venos?
+
+LØVBORG
+Jes, multan dankon.
+
+BRACK
+Por mi ĝojege --
+
+LØVBORG
+(ekprenas la paketon de paperoj kaj diras al _Tesman_) Ĉar mi
+dezirus montri al vi ion kaj aliaĵon antaŭ ol ĝin transdoni.
+
+TESMAN
+Jen, imagu, -- estos amuze! -- Sed kara Hedda, kiel vi hejmenirigos
+sinjorinon Elvsted? Ĉu?
+
+HEDDA
+Nu, por tio ni ĉiuokaze trovos rimedon.
+
+LØVBORG
+(rigardas la sinjorinojn) Sinjorino Elvsted? Kompreneble mi revenos
+por ŝin serĉi. (pli proksime) Proksimume je la deka, sinjorino
+Tesman? Ĉu tio konvenas?
+
+HEDDA
+Jes, certe. Ege konvene.
+
+TESMAN
+Nu, do ĉio estas en bona ordo. Sed min vi ne devas atendi tiom frue,
+Hedda.
+
+HEDDA
+Ho, kara, vi restu tiom longe -- tiom longe, kiom vi volas.
+
+ELVSTED
+(en obtuza timo) Sinjoro Løvborg, -- mi do restos ĉi tie, ĝis vi
+revenos.
+
+LØVBORG
+(kun la ĉapelo en la mano) Memkompreneble, Sinjorino.
+
+BRACK
+Kaj jen ekveturas la amuzad-trajno, miaj sinjoroj! Mi esperas, ke ni
+festenos vivece, kiel certa bela sinjorino diradas.
+
+HEDDA
+Aj, se la bela sinjorino povus ĉeesti nevidata --!
+
+BRACK
+Kial nevidata?
+
+HEDDA
+Por aŭskulti iujn el viaj spritaĵoj sen pudoraj diskretaĵoj,
+sinjoro Asesoro.
+
+BRACK
+(ridas) Tion mi ne volas konsili al la bela sinjorino.
+
+TESMAN
+(ankaŭ li ridas) Ne, nun vi estas amuza, Hedda. Jen, imagu!
+
+BRACK
+Nu, adiaŭ, adiaŭ, sinjorinoj!
+
+LØVBORG
+(kapklinas adiaŭe) Do je la deka.
+
+(_Brack_, _Løvborg_ kaj _Tesman_ eliras tra la pordo de la
+antaŭĉambro. Samtempe _Berte_ venas de la malantaŭa ĉambro kun
+eklumigita lampo, kiun ŝi metas sur la salontablon, kaj eliras la
+saman vojon.)
+
+ELVSTED
+(ekstaris kaj maltrankvile paŝas sur la planko) Hedda, -- Hedda, --
+al kio tio ĉi kondukos!
+
+HEDDA
+Je la deka, -- tiam li do revenos. Mi vizie vidas lin. Kun vitfolioj
+en la hararo. Verva kaj vigla --
+
+ELVSTED
+Dio donu ke tiel estos.
+
+HEDDA
+Kaj tiam, vidu, -- tiam li estos regajninta la regadon de si mem.
+Tiam li estos libera homo dum ĉiuj siaj tagoj.
+
+ELVSTED
+Ho Dio, jes, -- se nur tiel li venos, kiel vi lin vizias.
+
+HEDDA
+Tiel kaj ne alimaniere li venos! (ekstaras kaj sin proksimigas)
+Dubu pri li, vi, tiom longe kiom vi volas. Mi fidas lin. Kaj nun ni
+testu --
+
+ELVSTED
+Vi havas iun kaŝ-intencon, Hedda!
+
+HEDDA
+Jes, estas. Unu fojon en la vivo mi volas havi potencon sur la sorto
+de homo.
+
+ELVSTED
+Ĉu vi ne tion havas?
+
+HEDDA
+Ne havas -- kaj neniam havis.
+
+ELVSTED
+Sed sur via edzo do?
+
+HEDDA
+Hoj, _tio_ efektive valorus la penon. Ho, se vi povus kompreni, kiom
+malriĉa mi estas. Kaj _vi_ havu la favoron esti tiom riĉa!
+(ĉirkaŭbrakas ŝin pasie) Mi pensas, ke mi tamen forbruligos
+viajn harojn.
+
+ELVSTED
+Lasu min! Lasu min! Mi timas vin, Hedda!
+
+BERTE
+(en la pordaperturo) La tetablo estas pretigita en la manĝoĉambro,
+Sinjorino.
+
+HEDDA
+Bone. Ni venos.
+
+ELVSTED
+Ne, ne, ne! Mi prefere iru hejmen sola! Tuj!
+
+HEDDA
+Sensencaĵo! Unue vi havu tiun teakvon, vi eta stultulino. Kaj poste,
+-- Je la deka, -- revenos Ejlert Løvborg -- kun vitfolioj en la
+hararo.
+
+(Kvazaŭ perforte ŝi tiras _sinjorinon Elvsted_ al la pordo.)
+
+
+
+
+TRIA AKTO
+
+
+(La ĉambro de _gesinjoroj Tesman_. La pordokurtenoj estas tiritaj
+antaŭ la aperturo. Tiel same antaŭ la vitra pordo. Sur la tablo la
+kerosenlampo kun ŝirmilo, meĉo malsuprenŝraŭbita, lumas malklare.
+En la forno, kies pordo estas malferma, estis fajro, kiu nun preskaŭ
+estingiĝis.)
+
+(_Sinjorino Elvsted_, envolvita en granda ŝalo kaj kun la piedoj sur
+skabelo, sidas tute apud la forno, malantaŭenklinita en la
+apogseĝo. _Hedda_ kuŝas vestita, dormante sur la sofo kun kovrilo
+sur si.)
+
+ELVSTED
+(post paŭzo, ekrektigas sin en la seĝo kaj aŭskultas atente.
+Poste, laca, ŝi denove malleviĝas kaj mallaŭte plendas) Ankoraŭ
+ne! -- Ho Dio, -- ho Dio, -- ankoraŭ ne.
+
+(_Berte_ singardeme ŝteliras enen tra la pordo de la antaŭĉambro.
+Ŝi havas leteron en la mano.)
+
+ELVSTED
+(turnas sin kaj flustras maltrankvile) Nu, -- ĉu iu venis?
+
+BERTE
+(mallaŭte) Jes, ĵus venis knabino kun tiu ĉi letero.
+
+ELVSTED
+(rapide, etendas la manon) Letero! Donu al mi!
+
+BERTE
+Ne, ĝi estas por la doktoro, Sinjorino.
+
+ELVSTED
+Nu tiel.
+
+BERTE
+Estis la servistino de fraŭlino Tesman, kiu alportis ĝin. Mi metos
+ĝin ĉi tien sur la tablon.
+
+ELVSTED
+Jes, tion faru.
+
+BERTE
+(demetas la leteron) Estas plej bone, ke mi estingu la lampon. Ĝi
+fumas.
+
+ELVSTED
+Jes, estingu. Baldaŭ fariĝos taglumo.
+
+BERTE
+(estingas) Jam estas taglumo, Sinjorino.
+
+ELVSTED
+Jes, hela tago! Kaj ankoraŭ ne hejmenveninta --!
+
+BERTE
+Ho, Dio, -- mi pensis ke tiel okazus.
+
+ELVSTED
+Vi tion pensis?
+
+BERTE
+Jes, kiam mi vidis ke certa viro estas reveninta al la urbo, tiam --.
+Kaj ilin kuntiris. Ĉar pri tiu sinjoro oni ja aŭdis sufiĉe antaŭ
+iom da tempo.
+
+ELVSTED
+Ne tiom laŭte parolu. Vi vekas Sinjorinon.
+
+BERTE
+(rigardas al la sofo kaj suspiras) Ne, Dio, -- lasu ŝin nur dormi,
+kompatindulinon. -- Ĉu mi metu ion pli en la fornon?
+
+ELVSTED
+Dankon, ne por mi.
+
+BERTE
+Jen do. (ŝi malrapide eliras tra la pordo de la antaŭĉambro)
+
+HEDDA
+(vekiĝas pro la fermo de la pordo kaj suprenrigardas) Kio estas --!
+
+ELVSTED
+Estis nur la servistino --
+
+HEDDA
+(ĉirkaŭrigardas) Ha, jen en la salono --! Jes nun mi ja memoras --
+(rektigas sin, sidanta sur la sofo, streĉas sin kaj frotas siajn
+okulojn) Kioma horo estas, Tea?
+
+ELVSTED
+(rigardas sian horloĝon) Ĝi jam pasis la sepan.
+
+HEDDA
+Kiam revenis Tesman?
+
+ELVSTED
+Li ankoraŭ ne revenis.
+
+HEDDA
+Ankoraŭ ne hejmenvenis?
+
+ELVSTED
+(ekstaras) Eĉ ne unu revenis.
+
+HEDDA
+Kaj ni, kiuj sidis ĉi tie maldormante kaj atendante ĝis la kvara --
+
+ELVSTED
+(tordas la manojn) Kaj _tiel_ kiel mi lin atendis!
+
+HEDDA
+(oscedas kaj diras kun la mano kovrante la buŝon) Ho jes, -- pro
+tio ni estus nin ŝparintaj.
+
+ELVSTED
+Ĉu vi iom dormis poste?
+
+HEDDA
+Ho jes, Mi opinias, ke mi dormis sufiĉe bone. Ĉu vi ne?
+
+ELVSTED
+Eĉ ne momenton. Mi ne povis, Hedda. Estis tute neeble por mi.
+
+HEDDA
+(ekstaras kaj proksimiĝas al ŝi) Nu, nu, nu! Ne estas kaŭzo por
+maltrankvilo. Mi bone komprenas kiel statas.
+
+ELVSTED
+Jes, kaj kion vi do kredas? Ĉu vi povas al mi diri?
+
+HEDDA
+Nu, kompreneble tre longe daŭris ĉe la asesoro --
+
+ELVSTED
+Ho Dio, jes, -- certe daŭris. Sed tamen --
+
+HEDDA
+Kaj jen, vidu, tiam Tesman ne volis hejmenveni kaj fari bruon kaj
+sonorigi meze dum la nokto. (ridas) Eble li ankaŭ ne volis montri
+sin -- tia ĵus post viveca festeno.
+
+ELVSTED
+Sed kara, -- kien li do estus irinta?
+
+HEDDA
+Kompreneble li iris al la onklinoj kaj sin kuŝigis _tie_. Ili havas
+ja lian antaŭan ĉambron atendanta.
+
+ELVSTED
+Ne, ĉe _ili_ li ne povas esti. Ĉar ĵus venis letero al li de
+fraŭlino Tesman. Jen ĝi kuŝas.
+
+HEDDA
+Ĉu? (rigardas la surskribon) Jes, vere estas de onklino Julle
+propramane. Nu, do li kompreneble restas ĉe la asesoro. Kaj Ejlert
+Løvborg, li sidas legante kun vitfolioj en la hararo.
+
+ELVSTED
+Ho Hedda, vi nur paroladas kaj diras ion pri kio vi mem ne kredas.
+
+HEDDA
+Vi vere estas stulta, Tea.
+
+ELVSTED
+Ho ja, bedaŭrinde, mi do eble tia estas.
+
+HEDDA
+Kaj kiel morte laca vi aspektas.
+
+ELVSTED
+Jes, mi vere _estas_ morte laca.
+
+HEDDA
+Nu, tial vi faru, kiel mi diras. Iru en mian ĉambron kaj kuŝigu vin
+tempeton sur mia lito.
+
+ELVSTED
+Ho ne, ne, -- mi tamen ne kapablas dormi.
+
+HEDDA
+Certe vi kapablas.
+
+ELVSTED
+Sed via edzo certe estos baldaŭ revenanta. Kaj jen mi devas tuj
+scii --
+
+HEDDA
+Mi atentigos vin, kiam li revenos.
+
+ELVSTED
+Do, vi tion promesas, Hedda?
+
+HEDDA
+Jes, tion vi povas fidi. Nur eniru kaj dormu dume.
+
+ELVSTED
+Dankon. Do mi tion provu. (ŝi iras tra la malantaŭa ĉambro)
+
+(_Hedda_ iras al la vitra pordo kaj flankentiras la kurtenojn. Hela
+taglumo ŝutiĝas en la salonon. Poste ŝi prenas de la skribotablo
+malgrandan manspegulon, rigardas sin en ĝi kaj ordigas la harojn.
+Ŝi iras al la pordo de la antaŭĉambro kaj premas la butonon de la
+sonorilo.)
+
+(_Berte_ iom poste envenas tra la pordo.)
+
+BERTE
+Ĉu Sinjorino ion deziras?
+
+HEDDA
+Jes, bonvole metu ion pli en la fornon. Mi ja vere frostadas.
+
+BERTE
+Jes brr, -- tuj kaj senprokraste estu varme.
+
+(Ŝi kunrastas la ardaĵojn kaj enmetas lignopecon.)
+
+BERTE
+(haltas kaj aŭskultas) Nun oni sonorigas ĉe la ĉefpordo,
+Sinjorino.
+
+HEDDA
+Do eliru, kaj malfermu. Mi mem okupiĝu pri la forno.
+
+BERTE
+Baldaŭ ekflamos. (ŝi eliras tra la antaŭĉambra pordo)
+
+(_Hedda_ genuas sur la skabelon kaj metas plurajn lignopecojn en la
+fornon.)
+
+(Post mallonga daŭro _Jørgen Tesman_ envenas de la antaŭĉambro. Li
+aspektas laca kaj iom serioza. Ŝteliras piedpinte direkte al la
+pordaperturo, kaj volas engliti inter la kurtenojn.)
+
+HEDDA
+(apud la forno, ne suprenrigardante) Bonan matenon.
+
+TESMAN
+(turnas sin) Hedda! (proksimiĝas) Sed kara vi, -- tiom frue
+ellitiĝinta! Ĉu?
+
+HEDDA
+Jes, mi tre frue ellitiĝis hodiaŭ.
+
+TESMAN
+Kaj mi, kiu estis certa, ke vi ankoraŭ kuŝus dormante! Jen imagu,
+Hedda!
+
+HEDDA
+Ne parolu tiom laŭte. Sinjorino Elvsted kuŝas ene ĉe mi.
+
+TESMAN
+Sinjorino Elvsted, ĉu ŝi restis dum la nokto?
+
+HEDDA
+Jes, neniu ja venis por ŝin serĉi.
+
+TESMAN
+Ne, do neniu faris.
+
+HEDDA
+(fermas la pordon de la forno kaj ekstaras) Nu, ĉu estis tiom amuze
+ĉe la asesoro?
+
+TESMAN
+Ĉu vi estis timoplena pro mi? Ĉu?
+
+HEDDA
+Ne, pri tio mi eĉ ne momenton pensis. Sed mi demandis, ĉu vi bone
+amuziĝis.
+
+TESMAN
+Jes vere. Tiun ĉi fojon, do --. Sed pleje en la komenco, ŝajnas al
+mi. Ĉar tiam Ejlert legis por mi. Ni alvenis ja pli ol horon tro
+frue, -- jen imagu! Kaj Brack tiom okupiĝis pri la aranĝo. Sed dume
+Ejlert legis.
+
+HEDDA
+(eksidas dekstre de la tablo) Nu? Rakontu --
+
+TESMAN
+(eksidas sur skabelon ĉe la forno) Sciu, Hedda, neeblas por vi
+imagi, kia verko tiu fariĝos! Certe estas io el la plej rimarkinda
+skribita. Jen imagu!
+
+HEDDA
+Ja, ja, tio ne interesas min --
+
+TESMAN
+Mi devas ion konfesi al vi, Hedda. Kiam li estis leginta, -- io
+malica kreskis en mi.
+
+HEDDA
+Io malica?
+
+TESMAN
+Mi sidis kaj enviis Ejlert, ke li kapablis skribi tiaĵon. Jen imagu,
+Hedda!
+
+HEDDA
+Jes, ja, mi ja imagas!
+
+TESMAN
+Kaj scii ke li, -- tiel naturdotita -- bedaŭrinde tamen estas
+neplibonigebla.
+
+HEDDA
+Ĉu vi ne sugestas, ke li havas pli da vitaleco ol la aliaj?
+
+TESMAN
+Ne, bona Dio --. Jen vidu, li tute ne povas moderigi sin meze en la
+ĝuo.
+
+HEDDA
+Kaj en kio rezultiĝis ĉio -- fine?
+
+TESMAN
+Nu, mi trovas, ke vere estis bakanalo, Hedda.
+
+HEDDA
+Ĉu li havis vitfoliojn en la hararo?
+
+TESMAN
+Vitfoliojn? Ne, tion mi eĉ ne videtis. Sed li donis longan, konfuzan
+paroladon por la virino, kiu inspiris lin dum la laboro. Ja, tiel li
+sin esprimis.
+
+HEDDA
+Ĉu li nomis ŝin?
+
+TESMAN
+Ne, tion li ne faris. Sed mi ne povas imagi, ke estus iu alia ol
+sinjorino Elvsted.
+
+HEDDA
+Nu, -- kie vi disiĝis de li?
+
+TESMAN
+Sur la vojo hejmen. Ni ekiris, -- la lastaj de ni, -- samtempe. Kaj
+Brack ankaŭ kuniris por spiri freŝan aeron. Kaj jen, vidu, ni
+decidis akompani Ejlert hejmen. Jes, ĉar li estis ja vere
+superŝarĝita!
+
+HEDDA
+Do li estis.
+
+TESMAN
+Sed nun vi aŭdu la plej rimarkindan, Hedda! Aŭ la bedaŭrindan mi
+estus prefere dirinta. Ho, -- mi preskaŭ hontas -- pro Ejlert --
+tion rakonti --
+
+HEDDA
+Jen do --?
+
+TESMAN
+Nu, dum ni tiel iris laŭvoje, vidu, jen mi hazarde iom
+malantaŭiĝis. Nur kelkajn minutojn, -- jen imagu!
+
+HEDDA
+Jes, ja, Dio, sed --?
+
+TESMAN
+Kaj kiam mi rapidas post la aliajn, jen, ĉu vi scias, kion mi trovas
+ĉe la vojrando? Ĉu?
+
+HEDDA
+Ne, kiel mi povus tion scii!
+
+TESMAN
+Nepre ne tion al iu ajn diru, Hedda. Atentu bone! Promesu al mi pro
+Ejlert. (tiras paketon en papervolvaĵo el la poŝo de la mantelo)
+Jen, imagu, -- tion ĉi mi trovis.
+
+HEDDA
+Ĉu ne estas la paketo, kiun li kunportis ĉi tien hieraŭ?
+
+TESMAN
+Jes, ĝuste, estas lia valora, unika manuskripto! Kaj tiun li tie
+promenante perdis -- sen tion rimarki. Jen nur imagu, Hedda! Kiom
+bedaŭrinde --
+
+HEDDA
+Sed kial do vi ne tuj redonis al li la paketon?
+
+TESMAN
+Ne, tion mi ne kuraĝis -- pro lia tiama stato --
+
+HEDDA
+Ĉu vi eĉ ne diris al iuj el la aliaj, ke vi ĝin trovis?
+
+TESMAN
+Ho, tute ne. Kompreneble ke tion mi ne volis fari respekte al Ejlert.
+
+HEDDA
+Do estas neniu, kiu scias, ke vi havas la manuskripton de Ejlert
+Løvborg?
+
+TESMAN
+Ne, kaj tion ankaŭ neniu sciu.
+
+HEDDA
+Kaj poste, pri kio vi kun li interparolis?
+
+TESMAN
+Mi ne plu havis ŝancon kun li paroli. Ĉar kiam ni venis en la
+stratojn, tiam li kaj du aŭ tri aliaj tute malaperis por ni. Jen
+imagu!
+
+HEDDA
+Nu? Ili do akompanis lin hejmen.
+
+TESMAN
+Jes, aspekte ili tion faris. Kaj ankaŭ Brack foriris.
+
+HEDDA
+Kaj kien vi poste stumblis?
+
+TESMAN
+Jen, mi kaj kelkaj el la aliaj, ni akompanis unu el la vivecaj uloj,
+kaj trinkis matenkafon tie ĉe li. Aŭ pli ĝuste nomi ĝin
+noktokafo. Ĉu? Sed kiam mi nun estos iom ripozinta -- kaj kiam mi
+opinios ke Ejlert, la kompatindulo, satdormis, tiam mi devos iri al
+li kun tio ĉi.
+
+HEDDA
+(etendas la manon por la paketo) Ne, -- ne transdonu ĝin! Ne tuj,
+mi diras. Lasu min legi ĝin unue.
+
+TESMAN
+Ne, kara, bona Hedda, je Dio, tion mi ne kuraĝas.
+
+HEDDA
+Vi ne kuraĝas?
+
+TESMAN
+Ne, -- ĉar vi bone povas imagi, kiom malespera li fariĝos, kiam li
+vekiĝas, kaj mankas al li la manuskripto. Ĉar sciu ke li ne havas
+kopion! Tion li mem diris.
+
+HEDDA
+(rigardas lin kvazaŭ esplorante) Kaj tiaĵon oni ne povas denove
+skribi? Ankoraŭ fojon, ĉu?
+
+TESMAN
+Tio neniam eblus, mi kredas. Ĉar la inspiro, -- jen vidu --
+
+HEDDA
+Jes, ja, -- ĝuste tiel do estas -- (pasante) Sed mi memoras, --
+jen letero por vi.
+
+TESMAN
+Ĉu, imagu --!
+
+HEDDA
+(ĝin donante) Venis frue ĉi-matene.
+
+TESMAN
+De onklino Julle. Kio do estas? (metas la paketon sur la alian
+skabelon, malfermas la leteron, trakuras ĝin kaj eksaltas)
+
+TESMAN
+Ho Hedda, -- ŝi skribas, ke la bedaŭrinda onklino Rina kuŝas ĉe
+la morto!
+
+HEDDA
+Tion oni devus ja atendi.
+
+TESMAN
+Kaj se mi dezirus ankoraŭ fojon vidi ŝin, mi devas rapidi. Mi tuj
+kuros tien.
+
+HEDDA
+(subpremas rideton) Vi eĉ volas kuri?
+
+TESMAN
+Ho, plej kara Hedda, -- se vi povus decidigi vin kuniri! Jen imagu!
+
+HEDDA
+(ekstaras kaj diras lace kaj repuŝante) Ne, ne; ne petu min pri
+tiaĵo. Mi ne volas vidi malsanon kaj morton. Ne trudu al mi ion
+malbelan.
+
+TESMAN
+Nu, Dio do --! (ĉirkaŭkuras) Mian ĉapelon --? Mian mantelon --?
+Nu, en la antaŭĉambro --. Mi kore esperas, ke mi ne venos tro
+malfrue, Hedda? Ĉu?
+
+HEDDA
+Ho, nur kuru, kaj --
+
+(_Berte_ venas ĉe la pordo de la antaŭĉambro.)
+
+BERTE
+Asesoro Brack staras ekstere, kaj demandas ĉu li povus enveni.
+
+TESMAN
+Je tiu ĉi tempo! Ne, nun ne eblas por mi akcepti lin.
+
+HEDDA
+Sed mi povas. (al _Berte_) Petu la asesoron enveni. (_Berte_
+eliras)
+
+HEDDA
+(rapide flustrante) La paketon, Tesman! (ŝi prenas ĝin de la
+skabelo)
+
+TESMAN
+Jes, donu ĝin al mi!
+
+HEDDA
+Ne, ne, mi kaŝos ĝin por vi dume.
+
+(Ŝi iras al la skribotablo, kaj metas ĝin en la librobreton.
+_Tesman_ penas pro urĝeco kaj ne kapablas surtiri la gantojn.)
+
+(_Asesoro Brack_ envenas de la antaŭĉambro.)
+
+HEDDA
+(kapklinas al li) Nu, vi ja estas frumatena birdo.
+
+BRACK
+Jes, vi trovas, ĉu ne? (al _Tesman_) Ĉu ankaŭ vi eliros?
+
+TESMAN
+Jes, mi nepre devas viziti la onklinojn. Imagu, -- la malsana, ŝi
+kuŝas ĉe la morto, la bedaŭrinda.
+
+BRACK
+Nu Dio, ĉu tiel? Sed jen ne lasu min reteni vin. En tia serioza
+momento --
+
+TESMAN
+Jes, mi vere devas kuri --. Adiaŭ! Adiaŭ!
+
+(Li rapidas eksteren tra la antaŭĉambra pordo.)
+
+HEDDA
+(proksimiĝas) Aspekte estis pli ol vivece hejme ĉe vi ĉi tiun
+nokton, sinjoro Asesoro.
+
+BRACK
+Mi eĉ ankoraŭ ne ŝanĝis vestojn, sinjorino Hedda.
+
+HEDDA
+Ankaŭ vi ne?
+
+BRACK
+Ne, kiel vi vidas. Sed kion Tesman rakontis pri la noktaj
+travivaĵoj?
+
+HEDDA
+Oho, ion tedegan. Nur ke ili ie eniris kaj trinkis kafon.
+
+BRACK
+Pri tiu kafokunveno mi jam estas informita. Tie Ejlert Løvborg ne
+partoprenis, mi opinias?
+
+HEDDA
+Ne, antaŭe ili jam akompanis lin hejmen.
+
+BRACK
+Ankaŭ Tesman?
+
+HEDDA
+Ne, sed kelkaj aliaj, li diris.
+
+BRACK
+(ridetas) Jørgen Tesman vere estas naiva animo, sinjorino Hedda.
+
+HEDDA
+Jes, Dio scias ke li estas. Sed ĉu io kaŝiĝas en la afero?
+
+BRACK
+Jes, via suspekto ne estas senfunda.
+
+HEDDA
+Nu jen! Eksidu, kara Asesoro. Tiel vi rakontos pli bone.
+
+(Ŝi eksidas maldekstre de la tablo. _Brack_ ĉe la longa flanko de
+la tablo proksime al ŝi.)
+
+HEDDA
+Nu jen, do?
+
+BRACK
+Mi havis apartajn kialojn por postsekvi la vojojn de miaj gastoj --
+aŭ pli ĝuste dirite, de kelkaj el miaj gastoj ĉi-nokte.
+
+HEDDA
+Kaj inter ili eble estis ankaŭ Ejlert Løvborg?
+
+BRACK
+Mi devas konfesi -- li estis.
+
+HEDDA
+Nun vi vere igas min scivolema --
+
+BRACK
+Ĉu vi scias, kie li kaj kelkaj el la aliaj pasigis la reston de la
+nokto, sinjorino Hedda?
+
+HEDDA
+Se decas tion rakonti, jen faru.
+
+BRACK
+Kompreneble, decas rakonti. Nu, ili vizitis neordinare animitan
+vesperkunvenon.
+
+HEDDA
+De la pasia speco?
+
+BRACK
+De la plej pasia speco.
+
+HEDDA
+Iom pli pri tio ĉi, Asesoro --
+
+BRACK
+Løvborg estis antaŭe invitita, ankaŭ ili. Mi pri tio estis bone
+informita. Sed tiam li rifuzis veni. Ĉar nun li ja surmetis novan
+homecon, kiel vi scias.
+
+HEDDA
+Tie norde ĉe la notario Elvsted. Sed li tamen iris?
+
+BRACK
+Jes, vidu, sinjorino Hedda, -- jen, bedaŭrinde, ĉe mi vizitas lin
+la genio ĉivespere --
+
+HEDDA
+Jes, tie li ja inspiriĝis, mi aŭdas.
+
+BRACK
+Treege inspiriĝis. Nu, jen li ekhavis alian ideon, mi opinias. Ĉar
+ni virhomoj, bedaŭrinde ne ĉiam estas tiom principfirmaj kiom ni
+devus esti.
+
+HEDDA
+Nu, vi mem ja estas escepto, asesoro Brack. Sed jen pri Løvborg --?
+
+BRACK
+Jes, mallonge, -- la fino estis, ke li alvenis en la salonojn de
+fraŭlino Diana.
+
+HEDDA
+De fraŭlino Diana?
+
+BRACK
+Estis fraŭlino Diana, kiu prezentis la vesperkunvenan programon. Por
+elektita rondo de amikinoj kaj admirantoj.
+
+HEDDA
+Ĉu tiu estas iu ruĝhara?
+
+BRACK
+Ĝuste.
+
+HEDDA
+Iu tia -- kantistino?
+
+BRACK
+Nu ja, -- ankaŭ tio. Kaj krome ega ĉasistino -- de sinjoroj, --
+sinjorino Hedda. Vi certe aŭdis pri ŝi. Ejlert Løvborg estis unu el
+ŝiaj plej varmaj protektantoj -- en siaj pli prosperaj jaroj.
+
+HEDDA
+Kaj kiel tio ĉi finiĝis?
+
+BRACK
+Ne tre amikece, aspektas. Fraŭlino Diana verŝajne de la plej
+kortuŝa akcepto transiris al luktado --
+
+HEDDA
+Kontraŭ Løvborg?
+
+BRACK
+Jes. Li kulpigis ŝin aŭ la amikinojn, ke ili priŝtelis lin. Li
+pretendis, ke lia poŝbiletujo malaperis. Kaj ankaŭ aliaj aĵoj.
+Mallonge, li estus farinta teruregan tumulton.
+
+HEDDA
+Kaj en kion rezultis tio?
+
+BRACK
+Tio rezultis en komunan bataladon inter kaj sinjorinoj kaj sinjoroj.
+Feliĉe fine alvenis la polico.
+
+HEDDA
+Ĉu ankaŭ la polico?
+
+BRACK
+Jes. Sed tio certe fariĝos multekosta ŝerco por Ejlert Løvborg, tiu
+freneza homo.
+
+HEDDA
+Nu!
+
+BRACK
+Laŭdire li senbride kontraŭstaris. Li estus frapinta unu el la
+policistoj sur la orelon kaj disŝirinta lian mantelon. Jen li sekve
+estis kondukata al la stacio.
+
+HEDDA
+De kie vi nun sciiĝis pri tio?
+
+BRACK
+De la polico mem.
+
+HEDDA
+(rigardas penseme antaŭen) Tiel do ĉio okazis. Kaj sekve li ne
+havis vitfoliojn en la hararo.
+
+BRACK
+Vitfoliojn, sinjorino Hedda?
+
+HEDDA
+(ŝanĝas voĉtonon) Sed diru al mi nun, Asesoro, -- kial vi do tiel
+postsekvas kaj kaŝobservas Ejlert Løvborg?
+
+BRACK
+Unue ne estas tute indiferente por mi se informiĝos dum la
+ekzamenadoj, ke li venis rekte de mi.
+
+HEDDA
+Ĉu ankaŭ fariĝos ekzamenoj?
+
+BRACK
+Kompreneble. Cetere tio estu kiel tio estas. Sed mi opinias, ke mi,
+kia amiko de la familio, devis havigi al vi kaj al Tesman kompletan
+informon pri liaj noktaj heroaĵoj.
+
+HEDDA
+Kial vere tion, asesoro Brack?
+
+BRACK
+Nu, ĉar mi havas vivan suspekton, ke li volas uzi vin kiel ian
+ŝirmilon.
+
+HEDDA
+Ĉu, sed kial povas vi imagi tiaĵon!
+
+BRACK
+Ho Dio, -- ni ja ne estas blindaj, sinjorino Hedda. Atentu nur! Tiu
+sinjorino Elvsted, verdire ŝi certe ne forlasos la urbon tiom frue.
+
+HEDDA
+Nu, ĉu estus io inter tiuj du, jen estas multaj aliaj lokoj, kie ili
+povos renkontiĝi.
+
+BRACK
+Neniu hejmo. Ĉiuj decaj domoj estos de nun denove fermitaj por
+Ejlert Løvborg.
+
+HEDDA
+Kaj tia ankaŭ la mia devas esti, vi opinias?
+
+BRACK
+Jes. Mi konfesas, ke estus por mi pli ol ĝene, se tiu sinjoro estus
+enlasita ĉi tien. Se li, kia superflua -- kaj entrudulo -- sin
+enŝovus en --
+
+HEDDA
+En la triangulon?
+
+BRACK
+Ĝuste. Estus por mi same kiel fariĝi senhejma.
+
+HEDDA
+(rigardas lin ridetante) Do, -- sola koko en la korto, -- tio estas
+via celo.
+
+BRACK
+(kapklinas malrapide kaj malaltigas la voĉon) Jes, estas mia celo.
+Kaj por tiu celo mi batalos -- kun ĉiuj rimedoj, pri kiuj mi
+disponas.
+
+HEDDA
+(perdante sian rideton) Aspekte vi estas danĝera homo, -- kiam
+temas pri realigo.
+
+BRACK
+Vi tion opinias?
+
+HEDDA
+Jes, mi nun komencas tion kredi. Kaj mi estas kore ĝoja -- tiom
+longe, ke vi ne potencas super mi.
+
+BRACK
+(ridas dusence) Ja-ja, sinjorino Hedda, -- vi eble pravas pri tio.
+Kiu scias, ĉu mi okaze ne estus viro por elpensi eĉ ion kaj alian.
+
+HEDDA
+Do, sed aŭskultu nun, asesoro Brack! Aspektas ja kvazaŭ vi sidas
+tie minacante.
+
+BRACK
+(ekstaras) Ho, tute ne! La triangulo, vidu, -- ĝi prefere
+fortikiĝu kaj defendiĝu libervole.
+
+HEDDA
+Tion ankaŭ mi opinias.
+
+BRACK
+Jen mi do diris kion mi deziras. Kaj mi nun ree devas trovi la vojon
+urben. Adiaŭ, sinjorino Hedda!
+
+(Li iras al la vitra pordo.)
+
+HEDDA
+(ekstaras) Vi iras tra la ĝardeno?
+
+BRACK
+Jes, por mi estas pli mallonge.
+
+HEDDA
+Jes, kaj krome estas ja vojo kaŝa.
+
+BRACK
+Tute ĝuste. Mi ne estas kontraŭ kaŝaj vojoj. Foje ili povas esti
+sufiĉe pikantaj.
+
+HEDDA
+Kiam oni pafas per kugloj, vi opinias?
+
+BRACK
+(ĉe la pordo, ridas al ŝi) Ho, oni vere ne pafas siajn dresitajn
+kortkokojn!
+
+HEDDA
+(ankaŭ ŝi ridas) Ho ne, kiam oni ne havas pli ol unu solan, --
+
+(Ili kapsalutas adiaŭe, sub ridado. Li foriras. Ŝi fermas la pordon
+post li.)
+
+(_Hedda_ staras momenton serioze rigardante eksteren. Poste ŝi iras
+kaj rigardas tra la kurteno de la fona muro. Ŝi iras al la
+skribotablo, prenas la paketon de _Løvborg_ el la librobretaro kaj
+volas foliumi la paperojn. La laŭta voĉo de _Berte_ aŭdiĝas de la
+antaŭĉambro. _Hedda_ turnas sin kaj aŭskultas. Rapide ŝi metas la
+paketon en la tirkeston, ŝlosas kaj metas la ŝlosilon sur la
+skribilaron.)
+
+(_Ejlert Løvborg_ en mantelo kaj kun ĉapelo en la mano, tirmalfermas
+la pordon de la antaŭĉambro. Li aspektas freneze kaj ekscitite.)
+
+LØVBORG
+(turnita al la pordo de la antaŭĉambro) Kaj mi diras al vi, ke mi
+devas kaj volas eniri! Jen do!
+
+(Li fermas la pordon, turnas sin, vidas _Hedda_, regas sin tuj kaj
+salutas.)
+
+HEDDA
+(ĉe la skribotablo) Nu, sinjoro Løvborg, estas ege malfrue ke vi
+venas serĉi Tea.
+
+LØVBORG
+Aŭ ege frue ke mi envenas ĉe vi. Mi petas vin pardoni.
+
+HEDDA
+Kiel vi scias, ke ŝi daŭre estas ĉe mi?
+
+LØVBORG
+Oni diris en ŝia loĝejo, ke ŝi estis ekstere la tutan nokton.
+
+HEDDA
+(iras al la salona tablo) Ĉu vi povis ion rimarki en la mienoj,
+kiam ili tion diris?
+
+LØVBORG
+(rigardas ŝin demande) Rimarki en la mienoj?
+
+HEDDA
+Mi aludas, ĉu aspektis, kvazaŭ ili pensus ion aŭ iel pri tio?
+
+LØVBORG
+(subite komprenas) Ho jes, tiel ja estas! Mi tiras ŝin malsupren
+kun mi! Cetere mi nenion povis rimarki. -- Tesman eble ankoraŭ ne
+ellitiĝis?
+
+HEDDA
+Ne, -- mi ne kredas --
+
+LØVBORG
+Kiam li hejmenvenis?
+
+HEDDA
+Tre malfrue.
+
+LØVBORG
+Ĉu li ion al vi rakontis?
+
+HEDDA
+Jes, mi aŭdis ke estis sufiĉe viglece ĉe asesoro Brack.
+
+LØVBORG
+Nenion pli?
+
+HEDDA
+Ne, mi kredas ke ne. Krome mi estis tiel ege dormema --
+
+(_Sinjorino Elvsted_ envenas tra inter la kurtenoj sur la fona muro.)
+
+ELVSTED
+(proksimiĝas al li) Ho, Løvborg! Fine --!
+
+LØVBORG
+Jes, fine. Kaj tro malfrue.
+
+ELVSTED
+(rigardas lin en timo) Kio estas tro malfrue!
+
+LØVBORG
+Nun ĉio estas tro malfrue. Pri mi estas finite.
+
+ELVSTED
+Ho ne, ne, -- tion ne diru!
+
+LØVBORG
+Vi mem diros la samon, kiam vi aŭdos --
+
+ELVSTED
+Mi volas nenion aŭdi!
+
+HEDDA
+Vi eble deziras paroli kun ŝi sola? Ĉar do mi foriros.
+
+LØVBORG
+Ne, restu, -- ankaŭ vi. Mi petas vin pri tio.
+
+ELVSTED
+Jes, sed mi nenion volas aŭdi, mi diras!
+
+LØVBORG
+Ne estas pri la noktaj travivaĵoj, ke mi volas paroli.
+
+ELVSTED
+Pri kio do --?
+
+LØVBORG
+Estas pri tio, ke niaj vojoj devas nun disiĝi.
+
+ELVSTED
+Disiĝi!
+
+HEDDA
+(senvole) Mi tion sciis!
+
+LØVBORG
+Ĉar mi ne plu bezonas vin, Tea.
+
+ELVSTED
+Kaj jenon vi povas diri! Ne plu bezonas min! Mi ja helpos vin nun
+kiel antaŭe? Kompreneble ni daŭre kunlaboru?
+
+LØVBORG
+De nun mi ne plu intencas labori.
+
+ELVSTED
+(rezigne) Por kio mi do uzu mian vivon?
+
+LØVBORG
+Vi devas provi vivi, kvazaŭ vi neniam konis min.
+
+ELVSTED
+Sed tion mi ja ne kapablas!
+
+LØVBORG
+Provu ĉu vi kapablus, Tea. Vi devas revojaĝi hejmen --
+
+ELVSTED
+(ribele) Neniam en tiu ĉi mondo! Kie vi estas, tie ankaŭ mi
+deziras esti! Mi ne lasas min tiel forpeliĝi! Mi volas esti ĉi tie!
+Esti kune kun vi, kiam la libro eldoniĝos.
+
+HEDDA
+(duonlaŭte, en streĉa atento) Ho, la libro, -- jes!
+
+LØVBORG
+(rigardas ŝin) La libro mia kaj de Tea. Ĉar _tia_ ĝi estas.
+
+ELVSTED
+Jes, tia mi sentas, ke ĝi estas. Kaj tial mi ankaŭ rajtas esti ĉe
+vi, kiam ĝi venos! Mi volas vidi, ke denove ŝutiĝas estimo kaj
+honoro super vin. Kaj la ĝojo, -- la ĝojo, tiun mi volas dividi kun
+vi.
+
+LØVBORG
+Tea, -- nia libro neniam eldoniĝos.
+
+HEDDA
+Aj!
+
+ELVSTED
+Ne eldoniĝos!
+
+LØVBORG
+Neniam eldoniĝos.
+
+ELVSTED
+(en timema suspekto) Løvborg, -- kien vi formetis la kajerojn!
+
+HEDDA
+(rigardas lin atente) Jes, la kajerojn --?
+
+ELVSTED
+Kie vi havas ilin!
+
+LØVBORG
+Ho, Tea, -- prefere ne demandu min pri tio.
+
+ELVSTED
+Jes, jes, mi volas tuj ekscii. Mi rajtas tion tuj ekscii.
+
+LØVBORG
+La kajerojn -- Nu do, -- la kajerojn, tiujn mi disŝiris en mil
+pecojn.
+
+ELVSTED
+(krias) Ho ne, ne --!
+
+HEDDA
+(senvole) Sed tio ja tute ne --!
+
+LØVBORG
+(rigardas ŝin) Ne vero, vi opinias?
+
+HEDDA
+(regas sin) Nu jes. Kompreneble. Ĉar vi mem tion diras. Sed ŝajnis
+al mi nekredeble --
+
+LØVBORG
+Tamen vero.
+
+ELVSTED
+(tordas la manojn) Ho Dio, -- ho Dio, Hedda, -- disŝiris sian
+propran verkon.
+
+LØVBORG
+Mi disŝiris mian propran vivon. Sekve mi ankaŭ povis disŝiri mian
+vivoverkon --
+
+ELVSTED
+Kaj tion vi do faris ĉinokte!
+
+LØVBORG
+Jes, aŭdu. En mil pecojn. Kaj ŝutis ilin en la fjordon. Tre fore.
+Tie almenaŭ estas freŝa salakvo. Lasu ilin flosi en ĝi. Flosi laŭ
+fluo kaj vento. Kaj post ioma tempo ili subakviĝos. Pli kaj pli
+profunden. Kiel mi, Tea.
+
+ELVSTED
+Sciu do, Løvborg, ke tio pri la libro --. Ĉiujn miajn tagojn tio
+staros antaŭ mi, kvazaŭ vi mortigus etan infanon.
+
+LØVBORG
+Vi pravas. Estas kvazaŭ infanmortigo.
+
+ELVSTED
+Sed kiel vi do povis --! Ankaŭ mi havis ja mian parton de la infano.
+
+HEDDA
+(preskaŭ senvoĉe) Ho, la infano --
+
+ELVSTED
+(spiras peze) Do, finite. Ja, ja, nun mi foriros, Hedda.
+
+HEDDA
+Sed vi tamen ne forvojaĝos?
+
+ELVSTED
+Ho, mi ne mem scias, kion mi faros. Nun ĉio antaŭ mi estas mallumo.
+
+(Ŝi eliras tra la pordo de la antaŭĉambro.)
+
+HEDDA
+(_Hedda_ staras, iom atendante) Vi do ne volas akompani ŝin hejmen,
+sinjoro Løvborg?
+
+LØVBORG
+Mi? Tra la stratoj? Do la homoj vidus, ke ŝi irus kune kun mi?
+
+HEDDA
+Mi ja ne scias, kio cetere okazis ĉi-nokte. Sed ĉu do estas tiom
+tute neripareble?
+
+LØVBORG
+Tiu ĉi nokto ne restos la sola. Tion mi certe scias. Sed ankaŭ
+estas _tio_, ke mi eĉ ne emas pluvivi tian vivon. Ne nun denove.
+Estas la vivoforto kaj necedemo, kiujn ŝi rompis en mi.
+
+HEDDA
+(rigardas penseme antaŭen) La dolĉa, eta stultulino fingrumis
+homan sorton. (rigardas lin) Sed tamen kial vi povis esti tiom
+senkora kontraŭ ŝi?
+
+LØVBORG
+Ho, ne diru, ke mi estis senkora!
+
+HEDDA
+Tiel detrui tion, kio plenigis ŝian animon dum longaj, longaj
+tempoj! Tion vi ne nomas senkora!
+
+LØVBORG
+Al vi mi povas diri la veron, Hedda.
+
+HEDDA
+La veron?
+
+LØVBORG
+Unue promesu al mi, -- donu al mi vian promeson, ke tio, kion mi nun
+konfidas al vi, pri tio Tea neniam sciiĝu.
+
+HEDDA
+Jen mia promeso.
+
+LØVBORG
+Bone. Do mi volas diri al vi, ke ne estas vero, kion mi al ŝi
+rakontadis.
+
+HEDDA
+Tio pri la kajeroj?
+
+LØVBORG
+Jes. Mi ne disŝiris ilin. Ankaŭ ne ĵetis ilin en la fjordon.
+
+HEDDA
+Ne, ne -- sed kie do ili estas?
+
+LØVBORG
+Mi tamen detruis ilin. Funde kaj efike, Hedda!
+
+HEDDA
+Tion ĉi mi ne komprenas.
+
+LØVBORG
+Tea diris, ke tio, kion mi faris, al ŝi estas kvazaŭ infanmortigo.
+
+HEDDA
+Jes, -- tion ŝi diris.
+
+LØVBORG
+Sed mortigi sian infanon, -- ne estas la plej fia, kion patro povas
+fari kontraŭ ĝi.
+
+HEDDA
+Tio ne la plej fia?
+
+LØVBORG
+Ne, sed aŭdi la plej fian, de tio mi volis ŝpari Tea.
+
+HEDDA
+Kaj kio do estas tio, la plej fia?
+
+LØVBORG
+Imagu nun, Hedda, ke viro, -- tiel je frua matena horo, -- post
+freneza, diboĉega nokto revenis hejmen al la patrino de sia infano
+kaj diris: Jen aŭdu -- tie mi estis kaj tie. En tiuj kaj tiuj lokoj.
+Kaj mi kunprenis nian infanon. En tiajn kaj tiajn lokojn. La infano
+por mi perdiĝis. Tute perdiĝis. Diablo scias en kies manojn ĝi
+falis. Kies manoj kaptis ĝin.
+
+HEDDA
+Ho, -- sed finfine tio -- ĉi tio estis ja nur libro --
+
+LØVBORG
+La pura animo de Tea estis en tiu libro.
+
+HEDDA
+Jes, mi komprenas.
+
+LØVBORG
+Kaj tial vi ja ankaŭ komprenas, ke inter ŝi kaj mi neniu estonteco
+estas.
+
+HEDDA
+Kaj kiun vojon vi nun iros?
+
+LØVBORG
+Neniun. Nur aranĝi pri fino de ĉio. Ju pli frue, des pli bone.
+
+HEDDA
+(paŝon pli proksimen) Ejlert Løvborg, -- jen aŭskultu -- Ĉu vi ne
+povus aranĝi, ke -- ke okazos en beleco?
+
+LØVBORG
+En beleco? (ridetas) Kun vitfolioj en la hararo, kiel vi en pli
+fruaj tagoj imagis --
+
+HEDDA
+Ho ne. La vitfolioj, -- je tiuj mi ne plu kredas. Sed tamen en
+beleco! Unu solan fojon! -- Adiaŭ! Foriru nun. Kaj ne pli ofte
+revenu.
+
+LØVBORG
+Adiaŭ, sinjorino. Kaj salutu Jørgen Tesman de mi. (li volas
+foriri)
+
+HEDDA
+Ne, atendu! Kunprenu memoraĵon de mi.
+
+(Ŝi iras al la skribotablo kaj malfermas la tirkeston kaj la
+skatolon kun pistoloj. Ŝi returnas al _Løvborg_ kun unu el la
+pistoloj.)
+
+LØVBORG
+(rigardas ŝin) Tiun? Do _tiu_ estas la memoraĵo?
+
+HEDDA
+(kapklinas malrapide) Vi rekonas ĝin? Iam ĝi leviĝis kontraŭ
+vin.
+
+LØVBORG
+Tiam vi estus devinta ĝin uzi.
+
+HEDDA
+Jen! Uzu ĝin _vi_ nun.
+
+LØVBORG
+(metas la pistolon en la brustpoŝon) Dankon!
+
+HEDDA
+Kaj en beleco, Ejlert Løvborg. Promesu al mi nur tion!
+
+LØVBORG
+Adiaŭ, Hedda Gabler. (li eliras tra la pordo de la antaŭĉambro)
+
+(_Hedda_ aŭskultas momenton ĉe la pordo. Poste ŝi iras al la
+skribotablo, kaj elprenas la paketon kun la manuskripto, iom rigardas
+inter la kovraĵon, duone elprenas kelkajn foliojn kaj rigardas ilin.
+Poste ŝi kunprenas ĉion kaj eksidas en la apogseĝon apud la forno.
+La paketon ŝi havas ĉe la sino. Iom poste ŝi malfermas la pordon
+de la forno kaj poste ankaŭ la paketon.)
+
+HEDDA
+(ĵetas unu el la kajeroj en la fajron kaj flustras antaŭen) Nun mi
+forbruligas vian infanon, Tea! -- Vi kun la krispa hararo!
+(ĵetas pliajn kajerojn en la fornon) Vian infanon kaj tiun de
+Ejlert Løvborg. (enĵetas la restantajn) Nun bruligas, -- nun
+bruligas mi la infanon.
+
+
+
+
+KVARA AKTO
+
+
+(La samaj ĉambroj ĉe la _gesinjoroj Tesman_. Estas vespero. La
+salono estas malluma. La malantaŭa ĉambro estas lumigita de la
+penda lampo super la tablo tie. La kurtenoj antaŭ la vitra pordo
+estas kuntiritaj.)
+
+(_Hedda_, nigre vestita, paŝadas sur la planko en la nelumigita
+ĉambro. Ŝi iras en la malantaŭan ĉambron kaj tie iras
+maldekstren. Aŭdiĝas kelkaj akordoj de la piano. Poste ŝi ree
+aperas kaj iras en la salonon.)
+
+(_Berte_ envenas de dekstre tra la malantaŭa ĉambro kun lumigita
+lampo, kiun ŝi metas sur la tablon antaŭ la sofo en la angulo de la
+salono. Ŝiaj okuloj estas plorŝvelaj, kaj ŝi havas nigrajn bendojn
+sur la manteleto. Ŝi eliras singardeme dekstren. _Hedda_ iras al la
+vitra pordo, iom tiras la kurtenon flanken kaj rigardas eksteren en
+la mallumon.)
+
+(Mallonge poste enen de la antaŭĉambro venas _fraŭlino Tesman_,
+funebre vestita, kun ĉapelo kaj vualo. _Hedda_ iras al ŝi renkonte
+kaj etendas al ŝi la manon.)
+
+FRAŬLINO TESMAN
+Nu, Hedda, jen mi venas en koloroj de funebro. Ĉar nun mia
+kompatinda fratino finis sian agonion.
+
+HEDDA
+Mi jam scias, kiel vi certe vidas. Tesman sendis al mi karton.
+
+FRAŬLINO TESMAN
+Jes, li ja promesis. Sed mi tamen opiniis, ke al Hedda, -- ĉi tie en
+la domo de vivo, -- ĉi tie devas mi mem raporti pri la morto.
+
+HEDDA
+Estas tre ĝentile de vi.
+
+FRAŬLINO TESMAN
+Ho, Rina ne devus forpasi ĝuste nun. La domo de Hedda ne devus
+funebri en tiu ĉi tempo.
+
+HEDDA
+(deturnante la temon) Ŝi ja mortis tre trankvile, fraŭlino Tesman?
+
+FRAŬLINO TESMAN
+Ho, tiom bele, -- tiom pace ŝi fine feliĉiĝis. Kaj aldone tiu
+nepriskribebla feliĉo, ke ŝi ankoraŭ fojon revidis Jørgen. Kaj
+povis al li diri la finan adiaŭon. -- Ĉu eble li ankoraŭ ne
+hejmenvenis?
+
+HEDDA
+Ne. Li skribis, ke mi ne atendu lin tiom frue. Sed bonvolu eksidi.
+
+FRAŬLINO TESMAN
+Ne dankon, kara -- benita Hedda. Mi vere emus. Sed mi ne havas
+sufiĉe da tempo. Nun mi devas prizorgi ŝin kaj beligi tiel kiel mi
+povas. Vere bela ŝi venu en sian tombon.
+
+HEDDA
+Ĉu ne mi povas pri io helpi?
+
+FRAŬLINO TESMAN
+Ho, ne pensu pri tio! Tiajn aferojn Hedda ne devas tuŝi per siaj
+manoj. Kaj ankaŭ ne al ili ligi siajn pensojn. Almenaŭ ne dum tiu
+ĉi tempo, certe ne.
+
+HEDDA
+Ho, la pensoj, -- ili ne lasas sin tiel regi --
+
+FRAŬLINO TESMAN
+(daŭrigante) Ja, bona Dio, tiel fariĝas en tiu ĉi mondo. Hejme
+ĉe mi ni nun kudros lintolon por Rina. Kaj mi opinias ke ankaŭ ĉe
+vi oni baldaŭ kudros. Sed tio estos de alia speco, tio, -- dankon al
+Dio!
+
+(_Jørgen Tesman_ envenas de la antaŭĉambro.)
+
+HEDDA
+Nu, estas bone ke vi fine revenas.
+
+TESMAN
+Ĉu vi estas ĉi tie, onklino Julle? Ĉe Hedda? Jen imagu!
+
+FRAŬLINO TESMAN
+Mi ĵus intencis foriri, mia kara knabo. Nu, ĉu vi sukcesis fari
+ĉion, kion vi promesis al mi?
+
+TESMAN
+Ne, mi vere timas, ke mi forgesis la duonon. Mi devas denove enkuri
+ĉe vi morgaŭ. Ĉar hodiaŭ mia kapo estas kvazaŭ konfuzita. Mi ne
+povas kunteni la pensojn.
+
+FRAŬLINO TESMAN
+Sed kara Jørgen, vi ne devas reagi tiel.
+
+TESMAN
+Do? Kiel do, vi opinias?
+
+FRAŬLINO TESMAN
+Vi devas ami la funebron. Esti ĝoja pro tio kio okazis. Kia mi
+estas.
+
+TESMAN
+Ho jes, jes. Vi pensas pri Rina, ĉu?
+
+HEDDA
+Fariĝos solece por vi nun, fraŭlino Tesman.
+
+FRAŬLINO TESMAN
+La unuajn tagojn, jes. Sed ne daŭros longe, espereble. Mi intencas,
+ke la ĉambreto de karmemora Rina ne restu malplena.
+
+TESMAN
+Nu? Kiun vi volas, ke enloĝiĝu? Ĉu?
+
+FRAŬLINO TESMAN
+Nu, troviĝas ĉiam iu aŭ alia malsana kompatindulino, kiu bezonas
+zorgadon kaj flegon, bedaŭrinde.
+
+HEDDA
+Ĉu vi vere ankoraŭfoje volas preni sur vin tian krucon?
+
+FRAŬLINO TESMAN
+Krucon! Dio pardonu vin, infano, -- ne estis ja kruco por mi.
+
+HEDDA
+Sed se nun venus fremda homo kaj --
+
+FRAŬLINO TESMAN
+Ho, kun malsanaj homoj oni baldaŭ amikiĝas. Kaj mi ja vere bezonas
+iun por kiu vivi, ankaŭ mi. Nu, dankon al Dio, -- en via domo eblus
+ankaŭ okazi io aŭ alia por laborigi la manojn de maljuna onklino.
+
+HEDDA
+Ho, ne parolu pri niaj aferoj.
+
+TESMAN
+Jes, imagu kiom bonege ni tri povus kune vivi, se --
+
+HEDDA
+Se --?
+
+TESMAN
+(maltrankvila) Ho, nenio. Certe ordiĝos. Esperu tion. Ĉu?
+
+FRAŬLINO TESMAN
+Ja, ja. Vi du certe havas ion priparolendan, mi komprenas. (ridetas)
+Kaj Hedda eble havas ion rakontindan por vi, Jørgen. Adiaŭ!
+Nun mi devas hejmeniri al Rina. (turnas sin ĉe la pordo)
+Bona Dio, kiel strange imagi! Nun Rina estas ĉe mi kaj ĉe karmemora
+Jochum samtempe.
+
+TESMAN
+Jes, jen imagu, onklino Julle! Ĉu?
+
+(_Fraŭlino Tesman_ eliras tra la pordo de la antaŭĉambro.)
+
+HEDDA
+(sekvas _Tesman_ per la okuloj malvarme kaj esplore) Mi vere kredas,
+ke la morto atakas _vian_ koron pli ol ŝian.
+
+TESMAN
+Ho, ne estas sole jena morto. Estas Ejlert pro kiu mi estas tiom
+maltrankvila.
+
+HEDDA
+(rapide) Ĉu estas io nova pri li?
+
+TESMAN
+Mi intencis kuri supren al li nun posttagmeze, kaj diri al li, ke la
+manuskripto estas sendifekta.
+
+HEDDA
+Nu? Vi ne renkontis lin?
+
+TESMAN
+Ne. Li ne estis hejme. Sed poste mi renkontis sinjorinon Elvsted, kaj
+ŝi diris, ke li estis ĉe ni frue ĉi-matene.
+
+HEDDA
+Jes, tuj post via foriro.
+
+TESMAN
+Kaj, laŭdire, li estis disŝirinta la manuskripton. Ĉu?
+
+HEDDA
+Jes, li tion asertis.
+
+TESMAN
+Sed, bona Dio, do li estis ja tute freneza! Kaj sekve vi ne kuraĝis
+redoni ĝin al li, Hedda?
+
+HEDDA
+Ne, li ĝin ne ricevis.
+
+TESMAN
+Sed vi certe diris al li, ke ni ĝin havas?
+
+HEDDA
+Ne. (rapide) Eble vi tion diris al sinjorino Elvsted?
+
+TESMAN
+Ne, tion mi ne volis. Sed al li mem vi estus tion dirinta. Imagu, se
+li en malespero ekpensus sin meti en danĝeron de morto! Donu al mi
+la manuskripton, Hedda! Mi tuj kuros kun ĝi al li. Kie vi havas la
+paketon?
+
+HEDDA
+(malvarma kaj nemoviĝanta, sin apogante al la apogseĝo) Mi ĝin ne
+plu havas.
+
+TESMAN
+Vi ĝin ne plu havas! Pro la ĉielo kion vi aludas per tio!
+
+HEDDA
+Mi forbruligis ĝin -- ĉion.
+
+TESMAN
+(eksaltas en timo) Forbruligis! Forbruligis la manuskripton de
+Ejlert!
+
+HEDDA
+Ne kriu tiel. La servistino povus eble vin aŭdi.
+
+TESMAN
+Forbruligis! Sed bona Dio --! Ne, ne, ne, -- tio estas tute neebla!
+
+HEDDA
+Jes, sed tiel tamen estas.
+
+TESMAN
+Sed ĉu vi mem komprenas, kion vi faris, Hedda! Estas ja
+kontraŭleĝa traktado de trovitaĵo. Jen imagu! Jes, demandu nur al
+asesoro Brack, kaj vi aŭdos.
+
+HEDDA
+Estas pli konsilinde, ke vi ne parolu pri tio, -- nek al la asesoro,
+nek al iu alia.
+
+TESMAN
+Sed kiel povis vi ekpensi iun tiagrade neaŭditan agon! Kiel povis vi
+ekhavi tiun ideon? Kiel tia koncepto obsedis vin? Respondu al mi pri
+tio. Ĉu?
+
+HEDDA
+(subpremas preskaŭ nerimarkeblan rideton) Mi tion faris por vi,
+Jørgen.
+
+TESMAN
+Por mi!
+
+HEDDA
+Kiam vi revenis hejmen ĉi-matene kaj rakontis, ke li legis por vi --
+
+TESMAN
+Jes, jes, kaj kio jen?
+
+HEDDA
+Tiam vi konfesis, ke vi enviis al li lian verkon.
+
+TESMAN
+Ho Dio, ne prenu tion laŭlitere --.
+
+HEDDA
+Tamen. Mi ne povis toleri la penson, ke iu alia superombru vin.
+
+TESMAN
+(kun ekkrio inter dubo kaj ĝojo) Hedda, -- ho, ĉu estas vero, kion
+vi diras! -- Tamen, -- tamen -- tiel mi neniam antaŭe spertis vian
+amon. Jen imagu!
+
+HEDDA
+Nu, do estas plej bone ke vi eksciu -- ke ĝuste en tiu ĉi tempo --
+(impete, interrompante) Ne, ne, -- vi povas pridemandi ĉe onklino
+Julle. Kaj certe ŝi donos al vi informon.
+
+TESMAN
+Ho, mi preskaŭ kredas ke mi komprenas vin, Hedda! (kunfrapas la
+manojn) Eja, bona Dio, vi --, ĉu tio estus ebla! Ĉu?
+
+HEDDA
+Ne kriu tiel. La servistino povus aŭdi vin.
+
+TESMAN
+(ridante en senrega ĝojo) La servistino! Ne, nun vi estas vere
+amuzega, Hedda! La servistino, -- tiu estas ja Berte, tiu! Mi mem
+iros tion rakonti al Berte.
+
+HEDDA
+(premegas la manojn kiel en malespero) Ho, mi krevos, -- mi krevos
+en ĉio ĉi!
+
+TESMAN
+En kio do, Hedda? Ĉu?
+
+HEDDA
+(malvarme, sinrege) En ĉio tio -- ridinda, -- Jørgen.
+
+TESMAN
+Ridinda? Ke mi estas tiom ĝojega. Sed tamen --. Eble ne estas saĝe,
+ke mi ion diru al Berte.
+
+HEDDA
+Ho ja, -- kial ne ankaŭ tio?
+
+TESMAN
+Ne, ne, ankoraŭ ne. Sed onklino Julle nepre devas tion scii. Kaj
+ankaŭ _tio_ ke vi komencis nomi min Jørgen! Jen imagu. Ho, onklino
+Julle, ŝi fariĝos ege ĝoja, -- ege ĝoja!
+
+HEDDA
+Kiam ŝi aŭdos ke mi forbruligis la paperojn de Ejlert Løvborg --
+por vi?
+
+TESMAN
+Ne, jen vere! Tion pri la paperoj, tion kompreneble neniu devas
+ekscii. Sed ke vi forbruligas por mi, Hedda, -- en tiu scio vere
+ankaŭ onklino Julle partoprenu! Cetere mi ŝatus scii, mi, ĉu tia
+sinteno estas kutima ĉe junaj edzinoj? Ĉu?
+
+HEDDA
+Vi devas demandi al onklino Julle ankaŭ pri _tio_, mi opinias.
+
+TESMAN
+Jes, tion mi certe okaze faros. (denove aspektas maltrankvile kaj
+hezitante) Tamen, -- tamen, la manuskripto? Bona Dio, estas ja tamen
+terure pensi pri la kompatinda Ejlert.
+
+(_Sinjorino Elvsted_, vestita kiel je la unua vizito, kun ĉapelo kaj
+supervestoj, envenas tra la pordo de la antaŭĉambro.)
+
+ELVSTED
+(salutas rapide kaj diras ekscitite) Ho, kara Hedda, ne ofendiĝu
+pro tio, ke mi revenas.
+
+HEDDA
+Kio okazis al vi, Tea?
+
+TESMAN
+Ĉu denove estas io pri Ejlert Løvborg? Ĉu?
+
+ELVSTED
+Ho jes, -- mi terure timas, ke akcidento okazis al li.
+
+HEDDA
+(prenas ŝian brakon) Ho, -- vi tion kredas!
+
+TESMAN
+Ne do. bona Dio, -- kial vi povas ekpensi pri tiaĵo, sinjorino
+Elvsted!
+
+ELVSTED
+Ja, ĉar mi aŭdis, ke oni parolis pri li en la pensiono, -- ĝuste
+kiam mi envenis. Ho, disvastiĝas ja la plej nekredeblaj onidiroj pri
+li en la urbo hodiaŭ.
+
+TESMAN
+Jes, imagu, tion ankaŭ mi aŭdis! Kaj tamen mi povas atesti, ke li
+iris rekte hejmen kaj kuŝigis sin. Jen imagu!
+
+HEDDA
+Nu, -- kion oni diris en la pensiono?
+
+ELVSTED
+Ho, mi eksciis nenion. Aŭ ĉar ili nenion certe sciis aŭ --. Ili
+silentiĝis, kiam ili min vidis. Kaj demandi mi ne kuraĝis.
+
+TESMAN
+(maltrankvile paŝadante) Ni esperu -- ni esperu, ke vi misaŭdis,
+sinjorino Elvsted!
+
+ELVSTED
+Ne, ne, mi estas certa, ke pri li oni parolis. Kaj jen mi aŭdis, ke
+oni ion menciis pri malsanulejo aŭ --
+
+TESMAN
+Malsanulejo!
+
+HEDDA
+Ne, -- tio do vere neeblas!
+
+ELVSTED
+Ho, mi morte timas pro li. Kaj sekve mi supreniris al lia loĝejo,
+kaj serĉis lin _tie_.
+
+HEDDA
+Ĉu vere vi _povis_ decidigi vin al tio, Tea!
+
+ELVSTED
+Jes, kion do mi alie farus? Ĉar ŝajnis al mi, ke mi ne plu povis
+elteni tiun necertecon.
+
+TESMAN
+Sed vi ne renkontis lin? Ankaŭ vi ne? Ĉu?
+
+ELVSTED
+Ne. Kaj la aliaj loĝantoj nenion sciis pri li. Li ne estis hejme de
+post hieraŭ posttagmeze, ili diris.
+
+TESMAN
+Hieraŭ! Imagu, ke ili povis tion diri!
+
+ELVSTED
+Ho, ŝajnas al mi, ke devas esti okazinta iu akcidento al li!
+
+TESMAN
+Vi, Hedda, -- ĉu mi iru urben, kaj tie informiĝu pri li en diversaj
+lokoj --?
+
+HEDDA
+Ne, ne, vi ne impliku vin en tio ĉi.
+
+(_Asesoro Brack_, kun ĉapelo en la mano, envenas tra la pordo de la
+antaŭĉambro, kiun _Berte_ malfermas kaj poste malantaŭ li fermas.
+Li aspektas serioze kaj salutas silente.)
+
+TESMAN
+Ho, jen vi, kara Asesoro? Ĉu?
+
+BRACK
+Jes, mi nepre devis viziti vin ĉivespere.
+
+TESMAN
+Mi povas vidi laŭ via aspekto, ke vi ricevis mesaĝon de onklino
+Julle.
+
+BRACK
+Ankaŭ tiun mi ricevis, jes.
+
+TESMAN
+Ĉu ne estas malĝojige? Ĉu?
+
+BRACK
+Nu, kara Tesman, tio estas kiel oni tion konceptas.
+
+TESMAN
+(rigardas lin necerte) Ĉu estas okazinta io alia?
+
+BRACK
+Jes, vere estas.
+
+HEDDA
+(ekscitita) Io malĝojiga, asesoro Brack?
+
+BRACK
+Ankaŭ tio laŭkoncepte, Sinjorino.
+
+ELVSTED
+(senvole ekĝemas) Ho, estas io pri Ejlert Løvborg!
+
+BRACK
+(iom rigardas ŝin) Kial Sinjorino ekpensas pri _tio_? Ĉu eble
+Sinjorino jam ion scias --?
+
+ELVSTED
+(konfuzita) Ne, ne, mi tute nenion scias; sed --
+
+TESMAN
+Sed bona Dio, diru do!
+
+BRACK
+(ŝultrotiras) Nu, -- bedaŭrinde, -- Ejlert Løvborg estas portita
+al la malsanulejo. Li certe jam estas mortonta.
+
+ELVSTED
+(ekkrias) Ho Dio, ho Dio --!
+
+TESMAN
+En la malsanulejo! Kaj eĉ mortonta!
+
+HEDDA
+(senvole) Tiom rapide do --!
+
+ELVSTED
+(lamentante) Kaj ni, kiuj disiĝis sen repaciĝo, Hedda!
+
+HEDDA
+(flustras) Sed, Tea, -- Tea do!
+
+ELVSTED
+(sen atenti ŝin) Mi devas iri al li! Mi devas vidi lin en vivo.
+
+BRACK
+Vi neniel povas, Sinjorino. Neniu estas permesata enveni al li.
+
+ELVSTED
+Ho, sed diru do al mi nur tion, kio okazis al li! Kio do estas?
+
+TESMAN
+Jes, ĉar li kredeble ne mem --! Ĉu?
+
+HEDDA
+Jes, mi certas ke li mem faris.
+
+TESMAN
+Hedda, -- kial vi povas --!
+
+BRACK
+(kiu konstante ŝin rigardas) Bedaŭrinde vi ĝuste divenis,
+sinjorino Tesman.
+
+ELVSTED
+Ho, kiom terure!
+
+TESMAN
+Li mem do! Jen imagu!
+
+HEDDA
+Sin pafis!
+
+BRACK
+Ankaŭ nun vi ĝuste divenis, Sinjorino.
+
+ELVSTED
+(provas sin regi) Kiam tio okazis, sinjoro Asesoro?
+
+BRACK
+Nun, posttagmeze. Inter la tria kaj la kvara.
+
+TESMAN
+Sed bona Dio, -- kie li do tion faris? Ĉu?
+
+BRACK
+(iom necerta) Kie? Jes, kara, -- eble li tion faris en sia loĝejo.
+
+ELVSTED
+Ne, tiel ne povas esti. Ĉar tie mi enrigardis inter la sesa kaj la
+sepa.
+
+BRACK
+Nu, do en iu alia loko. Tion mi ne precize scias. Mi nur scias, ke
+oni trovis lin --. Li estis sin pafinta -- tra la brusto.
+
+ELVSTED
+Ho, kiom terure imagi! Jen ke pri li tiel finiĝis!
+
+HEDDA
+(al _Brack_) Ĉu estas tra la brusto?
+
+BRACK
+Jes, -- kiel mi diras.
+
+HEDDA
+Do ne tra la tempio?
+
+BRACK
+Tra la brusto, sinjorino Tesman.
+
+HEDDA
+Ja, ja, -- la brusto estas ankaŭ bona.
+
+BRACK
+Kiel, Sinjorino?
+
+HEDDA
+(repuŝante) Ho ne, -- nenio.
+
+TESMAN
+Kaj la vundo estas vivdanĝera, vi diras? Ĉu?
+
+BRACK
+La vundo estas absolute mortiga. Verŝajne jam estas finite pri li.
+
+ELVSTED
+Ja, Ja, tion mi antaŭsentas! Estas finite! Finite! Ho, Hedda --!
+
+TESMAN
+Sed diru al mi, -- kie vi eksciiĝis pri ĉio tio?
+
+BRACK
+(abrupte) Tra iu el la policistoj. Iu kun kiu mi interparolus.
+
+HEDDA
+(laŭte) Fine heroaĵo!
+
+TESMAN
+(timigita) Dio gardu min, -- kion vi diras, Hedda!
+
+HEDDA
+Mi diras, ke en tio ĉi estas beleco.
+
+BRACK
+Hm, sinjorino Tesman --
+
+TESMAN
+Beleco! Ne, jen imagu!
+
+ELVSTED
+Ho, Hedda, kiel vi do povas paroli pri beleco en tiaĵo!
+
+HEDDA
+Ejlert Løvborg faris la saldon pri sia vivo. Li kuraĝis tion fari,
+kio -- kio estis farenda.
+
+ELVSTED
+Ne, neniel kredu, ke tiel okazis! Kion li faris, tion li faris en
+deliro.
+
+TESMAN
+En malespero li tion faris!
+
+HEDDA
+Tiel ne estas. Pri tio mi estas certa.
+
+ELVSTED
+Jes, li faris! En deliro! Ĝuste kiel kiam li disŝiris niajn
+kajerojn.
+
+BRACK
+(ekmiras) La kajerojn? La manuskripton, vi aludas? Ĉu li disŝiris
+ĝin?
+
+ELVSTED
+Jes, tion li faris ĉi-nokte.
+
+TESMAN
+(flustras mallaŭte) Ho, Hedda, el tio ni neniam liberiĝos.
+
+BRACK
+Hm, estas strange.
+
+TESMAN
+(paŝadante sur la planko) Jen imagu, ke Ejlert tiel forlasas la
+mondon! Kaj ne postlasas tion, kio daŭre famigus lian nomon --
+
+ELVSTED
+Ho, se eblus tion rekonstrui!
+
+TESMAN
+Jes, imagu, se tio eblus! Mi ne scias kiom mi donus --
+
+ELVSTED
+Eblus, sinjoro Tesman.
+
+TESMAN
+Kion vi sugestas?
+
+ELVSTED
+(serĉas en la poŝo de la robo) Jen, vidu. Mi gardis la foliaĵojn,
+kiujn li kunportis, kiam li diktis.
+
+HEDDA
+(paŝon pli proksimen) Aĥ --!
+
+TESMAN
+Ilin vi gardis, sinjorino Elvsted! Ĉu?
+
+ELVSTED
+Jen ili estas. Mi kunprenis ilin, kiam mi forvojaĝis. Kaj ili restis
+en la poŝo --
+
+TESMAN
+Ho, permesu al mi rigardi!
+
+ELVSTED
+(donas al li amaseton da folietoj) Sed estas tiom konfuzite. Tiom
+intermiksite.
+
+TESMAN
+Imagu, ĉu ni tamen povus trovi vojon en ĝi! Eble kiam ni du helpus
+unu la alian --
+
+ELVSTED
+Ho jes, ni almenaŭ provu --
+
+TESMAN
+Ni _plenumu_! Ni _devas_ sukcesi! Mi metas mian vivon en tion!
+
+HEDDA
+Vi, Jørgen? Vian vivon?
+
+TESMAN
+Jes, aŭ pli ĝuste dirite la tutan tempon je mia dispono. Miaj
+propraj kolektoj, ili kuŝu dume. Hedda, -- vi komprenas min? Ĉu?
+Estas io kion mi ŝuldas al la renomo de Ejlert.
+
+HEDDA
+Eble tio.
+
+TESMAN
+Kaj jen, kara sinjorino Elvsted, ni do al la laboro. Bona Dio, ne
+utilas kovi sur tio, kio estas okazinta. Ĉu? Ni provu tiom retrovi
+animan trankvilon, ke --
+
+ELVSTED
+Jes, jes, sinjoro Tesman, mi provos kiom eble plej bone.
+
+TESMAN
+Nu, venu do ĉi tien. Ni devas tuj ekzameni la noticojn. Kie ni sidu?
+Ĉi tie? Ne, tie en la malantaŭa ĉambro. Pardonu, kara Asesoro!
+Venu do kun mi, sinjorino Elvsted.
+
+ELVSTED
+Ho Dio, -- se nur estus fareble!
+
+(_Tesman_ kaj _sinjorino Elvsted_ iras en la malantaŭan ĉambron.
+Ŝi deprenas ĉapelon kaj supervestojn. Ambaŭ sidigas sin ĉe la
+tablo sub la penda lampo kaj sin profundigas en fervora ekzameno de
+la paperoj. _Hedda_ iras al la forno kaj eksidas sur la apogseĝon.
+Iom poste _Brack_ iras al ŝi.)
+
+HEDDA
+(duonlaŭte) Ho Asesoro, -- kia liberiĝo estas en tio ĉi pri
+Ejlert Løvborg.
+
+BRACK
+Liberiĝo, sinjorino Hedda? Jes, por li ja efektive estas
+liberiĝo --
+
+HEDDA
+Mi pensas, por mi. Liberiĝo scii, ke almenaŭ io kuraĝa povas
+libervole okazi en tiu ĉi mondo. Io, sur kio falas lumo de spontanea
+beleco.
+
+BRACK
+(ridetas) Hm, -- kara sinjorino Hedda --
+
+HEDDA
+Ho, mi certe scias, kion vi volas diri. Ĉar vi estas ia fakulo,
+ankaŭ vi, kiel -- nu!
+
+BRACK
+(rigardas ŝin firme) Ejlert Løvborg signifis por vi pli ol vi eble
+volas agnoski por vi mem. Aŭ ĉu mi eraras en tio?
+
+HEDDA
+Pri tiaĵo mi ne al vi respondas. Mi nur scias, ke Ejlert Løvborg
+havis kuraĝon vivi la vivon laŭ sia propra animo. Kaj nun -- la
+heroaĵo! El kiu brilas beleco. Tio, ke li havis forton kaj volon
+elŝiri sin el la vivofesteno -- tiom frue.
+
+BRACK
+Mi bedaŭras, sinjorino Hedda, -- sed mi estas devigata tiri vin el
+bela iluzio.
+
+HEDDA
+Iluzio?
+
+BRACK
+El kiu vi tamen baldaŭ elŝiriĝus.
+
+HEDDA
+Kaj kiu estas do tiu?
+
+BRACK
+Li ne mortpafis sin mem -- libervole.
+
+HEDDA
+Ne libervole!
+
+BRACK
+Ne. La afero pri Ejlert Løvborg ne estas tia, kia mi ĝin prezentis.
+
+HEDDA
+(emociita) Ĉu vi ion prisilentis? Kaj kion?
+
+BRACK
+Pro la kompatinda sinjorino Elvsted mi iomete ŝanĝis la esprimojn.
+
+HEDDA
+Kiujn do?
+
+BRACK
+Unue tiun, ke li jam vere estas morta.
+
+HEDDA
+En la malsanulejo.
+
+BRACK
+Jes. Kaj sen regajni konscion.
+
+HEDDA
+Kion pli vi prisilentis?
+
+BRACK
+Tion, ke la evento ne okazis en lia ĉambro.
+
+HEDDA
+Nu, tio povas ja esti sufiĉe indiferenta.
+
+BRACK
+Ne tute. Ĉar mi al vi diru, -- Ejlert Løvborg troviĝis mortpafita
+en -- la buduaro de fraŭlino Diana.
+
+HEDDA
+(volas eksalti, sed refalas) Neeblas, asesoro Brack! Tie li ne
+denove troviĝus hodiaŭ!
+
+BRACK
+Li estis tie hodiaŭ posttagmeze. Li venis por postuli ion, kion
+oni estus forpreninta de li. Parolis konfuzite pri infano, kiu
+malaperis --
+
+HEDDA
+Aĥ, -- tial do --
+
+BRACK
+Mi pensis, ke eble povus esti lia manuskripto. Sed tiun li ja mem
+neniigis, mi aŭdas. Do eble estis lia poŝbiletujo.
+
+HEDDA
+Eble estis ĝi. -- Kaj tie, -- tie oni trovis lin.
+
+BRACK
+Jes, tie. Kun elpafita pistolo en la brustpoŝo. La kuglo trafis lin
+mortige.
+
+HEDDA
+En la brusto, -- jes.
+
+BRACK
+Ne, -- ĝi trafis lin en la abdomenon.
+
+HEDDA
+(ekrigardas lin kun esprimo de abomeno) Aldone tio! Ho ridindaĵo
+kaj abomenaĵo, kiuj suprenmetas sin kiel malbenon sur _ĉion_, kion
+mi nur tuŝas.
+
+BRACK
+Aldoniĝas ankaŭ io alia, sinjorino Hedda. Io, kion oni ankaŭ
+klasifiku sub la fia.
+
+HEDDA
+Kaj kio estas tio?
+
+BRACK
+La pistolo, kiun li ĉe si havis --
+
+HEDDA
+(senspire) Nu! Kio pri ĝi!
+
+BRACK
+Ĝin li devas esti ŝtelinta.
+
+HEDDA
+(eksaltas) Ŝtelinta! Ne estas vero! Tion li ne faris.
+
+BRACK
+Nenio alia eblas. Li certe estas ĝin ŝtelinta --. Ŝ-ŝt!
+
+(_Tesman_ kaj _sinjorino Elvsted_ ekstaris ĉe la tablo en la
+malantaŭa ĉambro kaj venas en la salonon.)
+
+TESMAN
+(kun la paperoj en ambaŭ manoj) Aŭdu, Hedda, -- preskaŭ neeblas
+por mi vidi tie sub la penda lampo. Jen imagu.
+
+HEDDA
+Jes, mi imagas.
+
+TESMAN
+Ĉu povus ni sidi ĉe via skribotablo. Ĉu?
+
+HEDDA
+Volonte. (rapide) Ne, atendu! Lasu min unue iom ordigi.
+
+TESMAN
+Ho, tion vi tute ne bezonas, Hedda. Estas sufiĉe da loko.
+
+HEDDA
+Ne, ne, lasu min nur ion forigi, mi diras. Porti tion ĉi tien sur la
+pianon dume. Jen do!
+
+(Ŝi tiras objekton, kovritan de notfolioj, el sub la bretaro,
+almetas pliajn notfoliojn, kaj portas ĉion maldekstren en la
+malantaŭan ĉambron. _Tesman_ metas la paperfoliojn sur la
+skribotablon kaj translokigas tien la lampon de la tablo en la
+angulo. Li kaj _sinjorino Elvsted_ eksidas kaj rekomencas la laboron.
+_Hedda_ revenas.)
+
+HEDDA
+(malantaŭ la seĝo de _sinjorino Elvsted_, mole palpante ŝiajn
+harojn) Nu, dolĉa Tea, -- ĉu eblas pri la monumento de Ejlert
+Løvborg?
+
+ELVSTED
+(rigardas ŝin senespere) Ho Dio, -- certe fariĝos ege malfacile
+trovi sistemon.
+
+TESMAN
+Ni devas kapabli. Estas la sola vojo. Kaj ordigi la paperojn de
+aliuloj, -- tio estas ĝuste io por kio mi taŭgas.
+
+(_Hedda_ iras al la forno kaj eksidas sur unu el la taburetoj.
+_Brack_ staras super ŝi, apoganta al la apogseĝo.)
+
+HEDDA
+(flustras) Kion vi diris pri la pistolo?
+
+BRACK
+(mallaŭte) Ke li nepre estas ĝin ŝtelinta.
+
+HEDDA
+Kial ĝuste ŝtelinta?
+
+BRACK
+Ĉar ĉiu alia klarigo devas esti neebla, sinjorino Hedda.
+
+HEDDA
+Ĉu?
+
+BRACK
+(rigardas ŝin iom ekzamene) Ejlert Løvborg kompreneble estis ĉi
+tie hodiaŭ matene. Ĉu ne?
+
+HEDDA
+Jes.
+
+BRACK
+Vi estis sola kun li, ĉu?
+
+HEDDA
+Jes, momenton.
+
+BRACK
+Ĉu vi ne forlasis la ĉambron, dum lia ĉeesto?
+
+HEDDA
+Ne.
+
+BRACK
+Pripensu. Ĉu vi ne eliris momenton?
+
+HEDDA
+Jes, eble mallongan momenton -- eksteren en la antaŭĉambron.
+
+BRACK
+Kaj kie vi dume havis vian pistolskatolon?
+
+HEDDA
+Ĝi estis ene en --
+
+BRACK
+Nu, sinjorino Hedda?
+
+HEDDA
+La skatolo staris tie sur la skribotablo.
+
+BRACK
+Ĉu vi poste rigardis ĉu ambaŭ pistoloj estas tie?
+
+HEDDA
+Ne.
+
+BRACK
+Ankaŭ ne estas necese. Mi vidis tiun pistolon, kiun Løvborg havis
+ĉe si. Kaj mi tuj rekonis ĝin de hieraŭ. Kaj ankaŭ de pli frue.
+
+HEDDA
+Ĉu vi eble havas ĝin?
+
+BRACK
+Ne, la polico ĝin havas.
+
+HEDDA
+Kion la polico faros pri la pistolo?
+
+BRACK
+Serĉos sciiĝon pri la posedanto.
+
+HEDDA
+Ĉu vi kredas, ke oni tion povas malkaŝi?
+
+BRACK
+(klinas sin super ŝi malsupren kaj flustras) Ne, Hedda Gabler, --
+ne tiom longe kiom mi silentas.
+
+HEDDA
+(rigardas lin timeme) Kaj se vi ne silentas, -- kio do?
+
+BRACK
+(ŝultrotiras) Estas ja ĉiam la klarigo, ke la pistolo estas
+ŝtelita.
+
+HEDDA
+(firme) Prefere morti!
+
+BRACK
+(ridetas) Tiaĵon oni diras, sed oni tion ne faras.
+
+HEDDA
+(ne respondante) Kaj se la pistolo do ne estas ŝtelita. Kaj la
+posedanto troviĝas. Kio tiam sekvos?
+
+BRACK
+Ja, Hedda, -- tiam sekvos la skandalo.
+
+HEDDA
+La skandalo!
+
+BRACK
+La skandalo, jes, -- kiun vi tiom morte timas. Kompreneble vi estos
+vokata antaŭ la tribunalon. Kaj vi kaj fraŭlino Diana. Ŝi devas ja
+klarigi kiel ĉio okazis. Se estis akcidenta pafo aŭ intenca
+mortigo. Ĉu li tirus la pistolon el la poŝo por ŝin minaci? Kaj
+jen la kuglo pafiĝus? Aŭ ĉu ŝi tirus la pistolon el lia mano, kaj
+jen mortpafus lin, kaj remetus la pistolon en lian poŝon? Ŝi certe
+kapablus tion fari. Ĉar ŝi estas fortika knabineto, tiu sama
+fraŭlino Diana.
+
+HEDDA
+Sed ĉio ĉi abomena ne koncernas _min_.
+
+BRACK
+Ne. Sed vi devas respondi tiun demandon: Kial vi donis la pistolon al
+Ejlert Løvborg? Kaj kiujn konkludojn oni tiros el la fakto, ke vi al
+li ĝin donis?
+
+HEDDA
+(mallevas la kapon) Vere. Pri tio mi ne pensis.
+
+BRACK
+Nu, feliĉe neniu danĝero estas, tiom longe kiom mi silentas.
+
+HEDDA
+(rigardas supren al li) Mi do estas sub via potenco, Asesoro. De nun
+vi regas mian korpon kaj animon.
+
+BRACK
+(flustras pli mallaŭte) Plej kara Hedda, -- kredu min -- mi ne
+misuzos la staton.
+
+HEDDA
+Tamen same sub via potenco. Dependanta de viaj postuloj kaj volo.
+Mallibera. Do mallibera! (ekstaras impete) Ne, -- tiun penson
+mi ne eltenos! Neniam.
+
+BRACK
+(rigardas ŝin duone mokante) Kutime oni rezignas antaŭ la
+neevitebleco.
+
+HEDDA
+(reciprokas lian rigardon) Ja, eble.
+
+(Ŝi iras al la skribotablo.)
+
+HEDDA
+(subpremas senperan rideton kaj imitas la akcenton de Tesman) Ĉu vi
+do sukcesas, Jørgen? Ĉu?
+
+TESMAN
+Dio scias, kara. Estos laboro almenaŭ de pluraj monatoj, tio ĉi.
+
+HEDDA
+(kiel antaŭe) Jen imagu! (rapidas leĝere per la manoj tra la
+hararo de _sinjorino Elvsted_) Ĉu ne estas strange por vi, Tea? Nun
+vi sidas ĉi tie kune kun Tesman -- ĝuste kiel vi antaŭe sidis kune
+kun Ejlert Løvborg.
+
+ELVSTED
+Ho Dio, se mi nur povus inspiri ankaŭ vian edzon.
+
+HEDDA
+Ho, tio certe venos -- kun la paso de tempo.
+
+TESMAN
+Ja, sciu, Hedda, -- jam vere ŝajnas al mi, ke mi komencas ion tian
+percepti. Sed retrovu seĝon ĉe la asesoro.
+
+HEDDA
+Ĉu estas nenio, por kio vi du povas uzi min en tio?
+
+TESMAN
+Ne, absolute nenio. (turnas la kapon) De nun vi vere devas esti
+tiom afabla teni al Hedda kompanion, kara Asesoro!
+
+BRACK
+(kun ekrigardo al Hedda) Estos por mi ega plezuro.
+
+HEDDA
+Dankon. Sed ĉivespere mi estas laca. Mi volas iom kuŝi tie ene sur
+la sofo.
+
+TESMAN
+Jes, tion faru, kara. Ĉu?
+
+(_Hedda_ iras en la malantaŭan ĉambron kaj kuntiras la kurtenojn
+post si. Mallonga paŭzo. Subite oni aŭdas, ke ŝi ludas sovaĝan
+dancmelodion tie ene sur la piano.)
+
+ELVSTED
+(eksaltas de sur la seĝo) Hu, kio do estas!
+
+TESMAN
+(kuras al la pordaperturo) Sed, plej kara Hedda, -- ne ludu do por
+danco ĉivespere! Memoru do onklinon Rina! Kaj ankaŭ Ejlert!
+
+HEDDA
+(metas la kapon antaŭen inter la kurtenoj) Kaj ankaŭ onklinon
+Julle. Kaj la tutan aron. -- De nun mi estos silenta.
+
+(Ŝi denove fermas post si.)
+
+TESMAN
+(ĉe la skribotablo) Ŝi eble suferas vidi nin ĉe tiu ĉi doloriga
+laboro. Sciu, sinjorino Elvsted, -- vi transloĝiĝu al onklino
+Julle. Kaj jen mi venos en la vesperoj. Kaj ni povos sidi laborante
+_tie_. Ĉu?
+
+ELVSTED
+Jes, estus eble pli bone --
+
+HEDDA
+(en la malantaŭa ĉambro) Mi bone aŭdas kion vi diras, Tesman. Sed
+kiel mi pasigu la vesperojn ĉi tie?
+
+TESMAN
+(foliumas la paperojn) Ho, asesoro Brack certe estas tiom ĝentila,
+ke li tamen vizitos vin.
+
+BRACK
+(sur la apogseĝo, krietas ĝoje) Kun plezuro ĉiun laŭvican
+vesperon, sinjorino Tesman! Ni kune certe bone amuziĝu ĉi tie, ni
+du!
+
+HEDDA
+(klare kaj aŭdeble) Jes, ĉu vi ne nutras tiun esperon, Asesoro?
+Vi, kia sola koko en la korto -- --
+
+(Pafo aŭdiĝas tie ene. _Tesman_, _sinjorino Elvsted_ kaj _Brack_
+eksaltas.)
+
+TESMAN
+Aj, nun ŝi denove fingrumas la pistolojn.
+
+(Li distiras la kurtenojn kaj kuras enen. _Sinjorino Elvsted_ same.
+_Hedda_ kuŝas senviva, sternita sur la sofo. Konfuzo kaj kriado.
+Konfuzita _Berte_ envenas de dekstre.)
+
+TESMAN
+(krias al _Brack_) Pafis sin! Pafis sin tra la tempio! Jen imagu!
+
+BRACK
+(duone paralizita sur la apogseĝo) Sed Dio kompatu, -- tiaĵon oni
+ja _ne faras!_
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Hedda Gabler, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK HEDDA GABLER ***
+
+***** This file should be named 19183-0.txt or 19183-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/9/1/8/19183/
+
+Produced by William Walter Patterson, Geraldine Wright and Andrew Sly
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

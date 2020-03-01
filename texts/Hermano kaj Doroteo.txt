@@ -1,0 +1,2872 @@
+﻿Project Gutenberg's Hermano kaj Doroteo, by Johann Wolfgang von Goethe
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Hermano kaj Doroteo
+       Eposo idilia
+
+Author: Johann Wolfgang von Goethe
+
+Translator: Benno Küster
+
+Release Date: October 6, 2019 [EBook #60429]
+
+Language: Esperanto
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HERMANO KAJ DOROTEO ***
+
+
+
+
+Produced by Andrew Sly, Andrew Woods and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+book was produced from scanned images of public domain
+material from the Google Books project.)
+
+
+
+
+
+
+  INTERNACIA
+  MONDLITERATURO
+
+  Kolekto de la plej famaj verkoj
+  el Äiuj naciaj literaturoj
+
+  FERDINAND HIRT & SOHN EN LEIPZIG / 1922
+  ESPERANTO-FAKO
+
+
+J. W. v. GOETHE
+
+HERMANO KAJ DOROTEO
+
+Eposo idilia
+
+  El la germana originalo tradukis
+  Benno KÃ¼ster
+
+2a, korektita eldono
+
+[devizo: Ni fosu nian sulkon]
+
+  FERDINAND HIRT & SOHN EN LEIPZIG / 1922
+  ESPERANTO-FAKO
+
+
+
+
+  ÄIUJ RAJTOJ ESTAS REZERVATAJ
+  COPYRIGHT 1922 BY FERDINAND HIRT & SOHN EN LEIPZIG
+
+PRESEJO BREITKOPF & HÃRTEL, LEIPZIG
+
+
+
+
+AntaÅ­parolo.
+
+
+Depost la jaro 1790 Goethe travivis periodon, dum kiu Äesis lia
+kapableco kaj ankaÅ­ lia emo, krei kiel verkisto de dramoj. Li okupis
+sin nun--precipe sub la influo de sia nova amiko Schiller--pri la
+eposa poezio. Krome li nun havis personajn interrilatojn kun Joh. H.
+VoÃ, la tradukinto de Homer-o, kaj mem studis la Homer-an poezion.
+
+En Äi tiu âeposa periodoâ (1796-97) naskiÄis la Germana eposo
+âHermann und Dorotheaâ, la unua pli granda poeziaÄµo, kiu estas
+signifa por la amikeco de Goethe kaj Schiller. Äi estas poezia
+produktaÄµo, nepre specife Germana, en antikva formo, pri kiu Äiuj
+konsentas, ke Äi estas unu el la plej eminentaj verkoj ne nur de
+Goethe kaj de la Germana literaturo, sed de la tuta mondliteraturo.
+
+Schiller esprimis sian opinion pri Äi tiu poemo (la 20an de aÅ­gusto
+1797) per jenaj vortoj: âmi nun denove legis la poemon kun la Äiam
+nova, nemalfortigebla impreso kaj kun nova kortuÅeco; Äi estas
+nepre perfekta en sia speco, Äi estas, kvankam pasia-patosa, tamen
+alloga en la plej alta grado, resume, Äi estas bela, kion ajn oni
+volas esprimi per Äi tiu vortoâ.
+
+Äu la anoj de negermanaj popoloj legos Äin same impresataj? Certe
+jam ankaÅ­ multaj Germanoj ne havos la tutan Äarmplenan impreson de
+la poemo, se ili ne konas kaj sentas la Äarmon de la Homer-a poezio.
+Kaj Äiu, kiu volas havi la plenan Äuon de Hermano kaj Doroteo
+nature devas legi la poemon en la lingvo de la Germana originalo.
+Tamen traduko en Esperanto pli multe ol tradukoj en aliaj lingvoj,
+kiuj ne kapablas imiti la formon de la heksametra verso, donos la
+eblecon, iomete senti la Äarmojn de la Germana eposo. Pro tio mi
+forigis Äiujn dubojn kaj metis Äi tiun verkon--ânepre perfektan
+(laÅ­ Schiller) en sia specoâ--en la unuan lokon de la nova
+âMondliteraturoâ, eldonota laÅ­ la plano de la eldonejo F. Hirt kaj
+filo.
+
+  *  *  *  * *
+
+La traduko de Hermano kaj Doroteo unuafoje aperis en la jaro 1911,
+verkita de nia Germana samideano Benno KÃ¼ster, kiun subtenis dum la
+presigo la redaktoroj Mangelsdorf kaj Hoen. Mangelsdorf aldonis
+âpostparolonâ, el kiu mi nur citas jenajn vortojn: âB. KÃ¼ster certe
+mem pruviÄis poeto, esperantigante tiun verkon.â Mi konsentas Äi
+tiun juÄon kaj dankeme rememoras la Äefajn datojn el la vivo de
+Benno KÃ¼ster. -- Li naskiÄis la 9an de julio 1861 en Wildeshausen
+(Oldenburg) kaj mortis kiel kalkulkonsilanto post longa malsano
+la 24an de oktobro 1916 en BreslaÅ­. Li fariÄis Esperantisto jam
+dum sia antaÅ­a restado en GÃ¶rlitz, kie li, en malgranda rondo,
+tre diligente studis nian lingvon kaj per korespondado amike
+interrilatiÄis precipe kun Anglaj kaj Rusaj samideanoj. Li estis
+kunlaboranto de la âRevuoâ kaj de la âVagabondoâ. Dum sia partopreno
+al la Dresden-a internacia kongreso li interkonatiÄis kun D-ro
+Zamenhof, kiu kuraÄigis lin, eldoni la tradukon de Hermano kaj
+Doroteo. Jam depost la jaro 1910 KÃ¼ster malsaniÄis kaj restis
+malsana Äis sia morto.
+
+  *  *  *  * *
+
+Tradukante la Germanan eposon, KÃ¼ster--kun sendube laÅ­dinda gusto--ne
+imitis la heksametran verson de Goethe, kiu--laÅ­ maniero
+taÅ­ga por la Germana, sed ne por la Esperanta poezio--almiksas
+kvazaÅ­-spondeojn (â â) kaj -troÄ¥eojn (â â) al la daktiloj
+(â â â). KÃ¼ster uzis nur daktilojn. -- Mi Äi tie ne volas paroli pri
+la fakto, ke en Esperanto (ankaÅ­ ne en la Germana lingvo) ne
+ekzistas âdaktilojâ â â â en la senco de la greka kaj latina
+lingvoj, Äar nia lingvo havas nek longedaÅ­rajn nek mallongedaÅ­rajn
+silabojn. Tamen Äi havas akcentatajn kaj ne akcentatajn silabojn kaj
+krom tio aliajn kun Åvebanta akcento. Do, oni en Esperanto povas
+imiti la formojn de la antikvaj, klasikaj versoj.
+
+KÃ¼ster konsekvente kaj senerare formis pure daktilajn heksametrojn
+
+âÌ â â âÌ â â âÌ â â âÌ â â âÌ â â âÌ â
+
+-- procedo des pli admirinda, Äar la manko de unusilabaj vortoj
+(krom la personaj pronomoj, kelkaj konjunkcioj, prepozicioj,
+interjekcioj kaj adverboj) treege malfaciligas la Esperantigon de la
+heksametra formo. Nenie mi, korektante la verkon, estas devigita,
+korekti la verson pro iu ajn metrika eraro. Do, restis nur: 1e)
+la korektado de evidentaj preseraroj, kaj 2e) de tiaj partoj kaj
+esprimoj, kiujn laÅ­ mia opinio samideano KÃ¼ster tradukis tro
+laÅ­vorte kaj pro tio ne sufiÄe kompreneble por anoj de aliaj
+popoloj. -- Precipe admirinda estas ankaÅ­ la fakto, ke KÃ¼ster
+nenie, eÄ ne unufoje, apostrofis la âoâ-n de la substantivo. Mi ne
+volas mallaÅ­di la kutimon de tia apostrofado en aliaj versritmoj;
+persone mi ne tre Åatas Äin, kaj laÅ­ mia opinio Äi estu nepre
+evitata en la heksametra verso. KÃ¼ster nur apostrofas la artikolon
+-- kaj plej ofte, farante tion, li estas prava. Sed kelkfoje li
+eraras; tamen la eraro ne estas tiom grava, ke mi pro Äi aliformigis
+la tutan verson.
+
+  D-ro Dietterle.
+
+
+
+
+I. Kalliope.
+
+Sorto kaj kompatemo.
+
+
+  âStratojn ja kaj foirejon neniam mi vidis dezertaj
+  Kiel nun! Åajnas al mi balaita, senviva la urbo!
+  Kvindek ne hejme restadis el Äiuj loÄantoj, mi kredas.
+  Kion ne kaÅ­zas scivolo! Nun Äiu rapidas por vidi
+  La irantaron de l' forelpelitoj tre malfeliÄegaj.              5
+  Äis la digvojo, de ili uzata, ja unu horeto
+  Estas kaj oni en polvo varmega tagmeze kuregas
+  Tamen malsupren. Mi vere ne irus de tie Äi, sole
+  Nur por observi mizeron de tiuj senkulpaj migrantoj,
+  Kiuj el lando transrheina[1], la bela, savinte havaÄµon       10
+  Sian, nun venas al ni kaj tramigras Äi tiun feliÄan
+  Nian angulon de l' valo fruktdona kaj Äiajn kurbiÄojn.
+  Faris bonege, edzino, vi, ke vi forsendis la filon,
+  Ke li alportu malnovan tolaÄµon, manÄaÄµon, trinkaÄµon
+  Al mizeruloj; Äar por la riÄuloj konvenas donaci. --          15
+  Kiel la knabo veture dresadas la virajn Äevalojn!
+  Estas tre bona vidaÄµo, Äu ne? KaleÅeto la nova,
+  Spacon Äi havas por kvar kaj ankoraÅ­ por veturigisto.
+  Sola foriris li nun kaj malpeze Äi tien ruliÄis!â
+
+  Tiel al sia edzino la mastro âAl Ora Leonoâ                   20
+  Diris, plezure sidante sub la foireja dompordo.
+  Kaj la prudenta mastrino, la sperta, al tio respondis:
+  âMi ne volonte donacas tolaÄµon de ni eluzitan;
+  Ofte Äi estas utila kaj ne por moneroj havebla,
+  Kiam Äin oni bezonas. Bonvole mi donis hodiaÅ­                 25
+  Kelkan pli bonan peceton de lit- kaj Äemizaj tolaÄµoj;
+  Äar pri maljunaj kaj junaj mi aÅ­dis tutnudaj migrantoj.
+  Äu vi pardonos min? Årankon la vian sekrete elrabis
+  Mi ja, kaj vian domrobon el plej delikata katuno,
+  Hindaj floretoj sur Äi, delikata flanelo interne,             30
+  AnkaÅ­ mi donis; Äi estas malnova kaj ne plu laÅ­moda.â
+  Sed la bonega dommastro pri tio ridetis kaj diris:
+
+  âVere volonte ne perdis mi tiun katunan domrobon
+  El orienta Hindujo; mi saman neniam ricevos.
+  Plu mi ne portis Äin. Vere ja estas, ke viro nun Äiam         35
+  Iru en botoj, surtuto, vidigu sin en la bekeÅo,
+  Kaj forigitaj ekstere nun estas pantoflo kaj Äapo.â
+
+  âVidu nur tien,â respondis Åi, âkelkaj de tie revenas
+  Kiuj rigardis jam la irantaron; Äi certe nun pasis.
+  Kiel la Åuoj de polvo nun estas kovritaj kaj ardas            40
+  Äiuj vizaÄoj! Per sia naztuko forviÅas la Åviton
+  Äiu. Mi nepre ne kurus hodiaÅ­ pro tia vidaÄµo
+  Kaj kunsuferus! Min vere jam plenkontentigos rakonto.â
+  Tiam la patro, la bona respondis gravege la jenon:
+  âTia vetero malofte aperis al tia rikolto,                    45
+  Kaj ni enportos la grenon nun, kiel la fojnon, sekita;
+  Äar la Äielo heliÄis, neniu nubeto vidiÄas
+  Kaj malvarmigon alblovas la vento al ni orienta.
+  Vere konstanta vetero; la greno jam tromaturiÄis;
+  MorgaÅ­ matene ekfalÄos ni nian riÄegan rikolton.â             50
+
+  Dum li Äi tion parolis, multiÄis la aroj da viroj
+  Kaj da virinoj nun tra l' foirejo jam hejmrevenantaj.
+  AnkaÅ­ de tie veture revenis kun siaj filinoj
+  Al la kontraÅ­a placflanko rapide la riÄa najbaro,
+  Äefa vendisto de l' loko, al domo la renovigita,              55
+  En nefermita kaleÅo (en âLandaÅ­â Äin oni fabrikis).
+  Stratoj viviÄis; Äar nombris la urbo sufiÄe da burÄoj,
+  AnkaÅ­ Äi havis fabrikojn kaj plu metiistojn diversajn.
+
+  Tiel la paro pacema kunsidis nun en la pordejo
+  Inter si paroladante pri la revenantoj bonkore.               60
+  âVidu,â subite la tre respektinda edzino ekvokis,
+  âTie alvenas la pastro, la apotekisto najbara
+  Kune kun li. Ili certe raportos pri multaj suferoj,
+  Kiujn la forelpelitoj travivis dum sia migrado.â
+
+  Ili alvenis, afable kaj kore salutis la paron,                65
+  Poste eksidis sur benkojn el ligno, apude starantajn,
+  Skuis la polvon de siaj piedoj, ventumis sin ankaÅ­.
+  Post reciproka saluto unue la apotekisto
+  Interparoli komencis kaj diris nun preskaÅ­ Äagrene:
+  âTiaj nun estas la homoj, verdire, kaj Äiuj egalas            70
+  Okulumante plezure malÄojon de siaj kunfratoj!
+  Äiu rapidas por vidi flamantan la fajron teruran,
+  EÄ la krimulon mizeran al ekzekutejo irantan.
+  Nun por rigardi de l' forelpelitoj mizeron aliras
+  Äiu, pripensas neniu, ke eble li ankaÅ­ suferos                75
+  Saman mizeron, Äu baldaÅ­, Äu poste en tempoj venontaj.
+  Nepardonebla facilanimeco! sed homa Äi estas.â
+
+  Poste parolis la pastro, la nobla, prudenta klerulo,
+  Li, la ornamo de l' urbo, junulo, sed preskaÅ­ jam viro.
+  Tiu Äi konis la vivon kaj sciis la homajn bezonojn,           80
+  Li konvinkiÄis pri l' grava valoro de l' Sankta Biblio,
+  Kiu malkovras la sorton kaj senton internan de l' homoj;
+  AnkaÅ­ li konis bonege la librojn plej bonajn profanajn.
+  âKiajn ajn nemalutilajn instinktojn la bona naturo
+  Donis patrine al ni, ne volonte mi tion mallaÅ­das;            85
+  Kion prudento kaj saÄo ne Äiam atingas, ja povas
+  Tia feliÄa emeco, Äi pelas nekontraÅ­stareble.
+  Se ne allogus la homon per fortaj incitoj scivolo,
+  Äu li entute sciiÄus do, kiel la mondaj aferoj
+  Interrilatas belege? Unue li volas novaÄµon,                   90
+  Poste li serÄas utilon, senlaca en sia fervoro,
+  Laste bonaÄµon, per kiu li havas valoron, indecon.
+  Al la juneco do estas kunulo la senpripensemo,
+  Kiu danÄeron kaÅemas kaj tuje postsignojn estingas
+  De la dolora, feliÄe nun preterpasinta malbono.               95
+  Estas laÅ­dota la viro, verdire, al kiu naskiÄis
+  Poste matura prudento el tia gajecanimeco,
+  Kiu ageme penadas en tagoj feliÄaj aÅ­ malaj;
+  Äar Äi estigas la bonon kaj Äi la malbonon forigas.â
+
+  Tuj la mastrino ekdiris aminde, sed senpacience:             100
+  âKion vi vidis, nun diru, Äar tion mi scii deziras.â
+
+  âVere ja,â nun energie respondis la apotekisto,
+  âNur malfacile mi baldaÅ­ ekÄojos post Äio vidita.
+  Kiu ajn povas rakonti pri tiu multobla mizero!
+  De malproksime ni vidis la polvon, jam antaÅ­ ol veni         105
+  Al la herbejoj malsupren; de unu monteto jam marÅis
+  Äis la alia l' amaso, ni povis malmulte ekkoni.
+  Kiam ni poste atingis la vojon tra l' valo irantan,
+  Estis ankoraÅ­ terura tumulto de l' homoj kaj Äaroj.
+  Preterpasantajn sufiÄe da malfeliÄuloj ni tie                110
+  Vidis, bedaÅ­re, kaj aÅ­dis pri tiu dolora forkuro
+  Kaj pri la Äoja sentado de l' vivo rapide savita.
+  Estis malÄoja vidaÄµo, la tuta diversa havaÄµo,
+  Kiun alie enhavas la domo bonstata, kaj kiun
+  Mastro bonega starigas en lokojn konvenajn, por uzi          115
+  Äin Äiutage, Äar Äio do estas necesa, utila,
+  Äio videbla nun sur veturiloj diversaj kaj Äaroj,
+  Pro la rapida foriro, lokita sen ia elekto:
+  Jen la kribilo, la lana kovrilo nun kuÅas sur Åranko,
+  En la knedujo la lito kaj super spegulo la tolo.             120
+  Äar la danÄero forprenas, estinte ni tion ja vidis,
+  AntaÅ­ duoble dek jaroj, Äe l' brulo, al homo pripenson
+  Äian, li kaptas malgravajn, sed lasas valorajn objektojn.
+  AnkaÅ­ simile Äi tie nun ili fortrenis sensperte
+  SennecesaÄµojn ajn, Äiujn Äevalojn ÅarÄinte kaj bovojn,       125
+  Lignojn malnovajn, barelojn, birdkaÄon kaj eÄ anserujon.
+  Tiel pakaÄµojn portante spiregis l' infanoj, virinoj
+  Same sub korboj kaj kuvoj kun Äiaj objektoj negravaj.
+  Äar ja la laston de l' havo la homo klopodas konservi.
+  Tiel senorde kaj tutkonfuzite la interpremantaj              130
+  En la polvaro nun tien foriris. Pro bestoj malfortaj
+  Volis la unu veturi senurÄe, l' alia rapidis.
+  Jen, ha, okazis kriado de tiuj premitaj virinoj
+  Kaj de l' infanoj, blekado de l' bestoj, bojado de l' hundoj,
+  AnkaÅ­ Äemado de gemaljunuloj kaj gemalsanuloj                135
+  BalanciÄantaj en litoj sur Äaro tro multe ÅarÄita.
+  Jen, al la rando de l' flanka altvojo premita el sia
+  Äusta vojsulko nun unu el tiuj en foson falegis
+  Kaj renversiÄis; la homoj terure kriantaj sur kampon
+  Kaj malproksimen per svingo elfalis; sed tamen feliÄe.       140
+  Äar la havaÄµo, sekvante, defalis proksime de l' Äaro;
+  Kiu, verdire, Äin vidis elfali, li devis supozi
+  Certe, ke l' ÅarÄo de l' kestoj kaj Årankoj frakasus la homojn.
+  Tiel la Äaro rompita kaj l' homoj senhelpaj jen kuÅis,
+  Äar preterpasis rapide kaj pluen foriris l' aliaj            145
+  Nur pro si mem singardemaj, kaj mem de l' amaso Åovataj.
+  Sed ni rapidis al tio kaj trovis la malfeliÄulojn,
+  Kiuj sur hejma kuÅejo apenaÅ­ suferojn tolerus,
+  Jen sur la tero malmola, dolore Äemantaj, plendantaj,
+  Sunbruligitaj kaj sufokiÄintaj per polvo fluganta.â          150
+
+  Tiam elvokis, tuÅite en koro, la mastro homama:
+  âIlin Hermano renkontu kaj tuj refreÅigu, vestigu!
+  Mi nevolonte rigardus mizeron la trodolorigan.
+  KortuÅiÄinte jam de la unua sciigo pri tiaj
+  Grandaj suferoj ni sendis rapide obolon de nia               155
+  Troa havaÄµo por helpi al kelkaj kaj nin trankviligi.
+  Sed ni ne volas rakonti la pluajn malgajajn aferojn!
+  BaldaÅ­ ja vere la timo aliras la koron de l' homoj,
+  AnkaÅ­ la zorgo; Äi pli min timigas ol eÄ la malbono.
+  Nun ni eniru la postan kaj pli malvarmetan haleton!          160
+  Tien neniam la suno briladis, nek varma aero
+  Murojn la multe pli dikajn penetras; alportos patrinjo
+  Da âokdektriaâ glaseton, kaj nia humoro revenos.
+  Tie Äi estas negaja trinkado, pro l' muÅozumado.â
+
+  Äiuj eniris post tio kaj Äojis pri l' malvarmetiÄo.          165
+  Portis la zorgemulino la vinon bonegan, la klaran,
+  En polurita botelo, sur pleto brilstana kun romaj
+  Glasoj verdetaj, jen por la rheinvino la Äustaj pokaloj.
+  ÄirkaÅ­ la bruna rondtablo, brilege vaksita,--Äi staris
+  Sur multampleksaj piedoj--sidadis la tri nun amike.          170
+  Tuj kunsonoris la glaso de l' mastro kun tiu de l' pastro;
+  Gaje, sed senemocie, pripense Äin tenis la tria,
+  Tiel ke lin ekadmonis la mastro kun vortoj afablaj:
+
+  âTrinku, najbaro, mi petas! AnkoraÅ­ protektis favore
+  Dio nin kaj ni esperu, ke plue nin ankaÅ­ li gardos.          175
+  Kiu el ni ne ekkonas, ke post la terura brulego,
+  Kiam Li grave nin punis, Li Äiam Äojigis kaj Äiam
+  Åirmis nin, kiel la homo la multevaloran okulon
+  Gardas, prefere Åatatan el Äiuj aliaj de l' membroj.
+  Äu Li ne ankaÅ­ nin plue indulgos kaj helpos favore?          180
+  Äar en danÄeroj nur klare ekkonas ni, kiom Li povas.
+  Äu Li la urbon florantan, post kiam Li rekonstruigis
+  Äin el la cindro per laboremuloj kaj tiam Äin benis
+  RiÄe, nun ree detruos kaj Äiujn penadojn nuligos?
+
+  Tiam serene kaj milde la pastro bonega ekdiris:              185
+  âÄiam konservu la kredon, restadu Äe sama sentado!
+  Dum la prospero Äi faras nin saÄaj kaj certaj; cetere
+  Estas plej bona konsolo, vivigas plej belan esperon.â
+
+  Nun la prudenta kaj vira pensema gastmastro rediris:
+  âKiel salutis mi ofte mirege de l' Rhein-o la ondojn,        190
+  Kiam laÅ­ mia negoco vojaÄe mi alproksimiÄis!
+  Äiam Äi Åajnis potenca, Äojigis animon kaj koron.
+  Sed mi ne povis ekpensi, ke Äia Äarmega bordejo
+  BaldaÅ­ fariÄus remparo por certe deteni la Frankon,
+  Same la larÄa litego fosaÄµo la limon baronta.                195
+  Tiel, jen, Åirmas naturo, defendas la bravaj Germanoj,
+  Gardas mem Dio nin! Kiu do senkuraÄiÄos malsaÄe?
+  La batalantoj laciÄis, kaj pacon promesis jam Äio.
+  Ho, ke nur en la preÄejo dum tago de ni dezirata,
+  Kiam sonoros kun nia orgeno la sonorilaro                    200
+  Kaj sonegantaj trumpetoj la altan âTedeumâ elvokos,
+  Ho, ke nur tiam Hermano je tiu Äi tago, sinjoro
+  Pastro, decide aperu Äe vi kaj Äe via altaro
+  Kun fianÄino, ke festo konata en Äiuj la landoj
+  AnkaÅ­ revenu Äe mi, kiel tago festega de l' domo!            205
+  Sed mi Äagrene ekvidas la filon ekstere timema
+  Kaj malrapida nur, dum laboreme li hejme rapidas,
+  Meze de l' homoj li sin kaj publike vidigi malÅatas;
+  Ja, li evitas eÄ Äiun kunvenon kun belaj knabinoj,
+  AnkaÅ­ la gajan dancadon Åatatan de Äiu junulo.â              210
+
+  Tiel dirinte li nun ekaÅ­skultis. Jen oni ekaÅ­dis
+  De malproksime bruadi piedofrapantajn Äevalojn
+  Kaj veturilon; rapide Äi tondris nun sub la pordejon.
+
+
+
+
+II. Terpsichore.
+
+Hermano.
+
+
+  Kiam la filo bonforma eniris la Äambron, atente
+  Lin observadis la pastro per fiksaj rigardoj, kaj ankaÅ­
+  Lian staturon kaj tutan konduton, per sperta okulo
+  De l' esploranto nun, kiu mienojn facile deÄifras,
+  Kaj ridetante al li li ekdiris per vortoj afablaj:             5
+  âTute ja aliigita vi Åajnas! neniam mi vidis
+  Tian viglecon Äe vi kaj tielan vivplenan rigardon.
+  Gaje, serene vi venas; tuj oni eksentas, ke vi la
+  MalfeliÄulojn donacis kaj benon ilian ricevis.â
+
+  Sed serioze kaj tute trankvile la filo respondis:             10
+  âÄu mi laÅ­dinde Äin faris, ne scias mi; Äion ordonis
+  Fari la koro, pri kio precize al vi mi rakontos.
+  Kara patrino, vi serÄis tro longe malnovajn objektojn,
+  Kaj vi tro longe elektis; la pako malfrue pretiÄis;
+  AnkaÅ­ la vinon kaj vian bieron vi pakis trozorge.             15
+  Kiam mi fine elvenis ekstere de l' pordo sur straton,
+  Jam refluegis la multo da burÄoj, virinoj, infanoj,
+  Al mi renkonten, la forelpelitoj jam malproksimiÄis.
+  Mi rapidiÄis kaj tuje veturis al tiu vilaÄo,
+  Kie--mi tion eksciis ja--Äiuj nun nokte ripozos.              20
+  Kiam mi pluen, laÅ­longe de l' nova kampstrato veturis
+  Jen veturilo el trunkoj fortikaj rigardojn altiris,
+  Kiun du bovoj fremdlandaj, tre grandaj kaj fortaj, fortiris;
+  PaÅis apude knabino, tutfreÅe antaÅ­eniranta,
+  Kiu per longa bastono la bestojn fortegajn direktis,          25
+  Ilin antaÅ­en jen puÅis kaj jen malakcelis prudente.
+  Min ekvidinte, trankvile Åi miajn Äevalojn aliris,
+  Jene dirante: Ne Äiam ni estis en tia mizero,
+  Kiel hodiaÅ­ vi vidas nin kaj nun sur tiu Äi marÅo.
+  Mi ne kutimis Äis nun de l' fremdulo donacon petegi,          30
+  Kiun li donas malvole, nur por malriÄulon forigi;
+  Sed la neceso nun urÄas paroli. Äi tie sur pajlo
+  KuÅas l' edzino de riÄa kampulo Äµus akuÅiÄinta,
+  Kiun apenaÅ­ mi savis kun bovoj kaj kun veturilo.
+  Laste ni sekvas l' aliajn; apenaÅ­ Åi restis vivanta.          35
+  KuÅas nun nuda, Äe l' brusto, la Äµus naskiÄinta infano;
+  Nur per malmulto la niaj ja povos nin helpi, kondiÄe
+  Ke ni atingu l' aliajn hodiaÅ­ en tiu vilaÄo,
+  Kie ni volas restadi; mi timas neniun plu trovi.
+  Se superfluan tolaÄµon vi havas kaj loÄas proksime,            40
+  Tiam donacu bonfare do Äin al la malfeliÄuloj.
+
+  Tiel Åi diris kaj lace leviÄis de l' pajlo la pala
+  Min rigardanta akuÅiÄintino; kaj mi nun respondis:
+  Superterulo do ofte instigas, ke l' koro bonfara
+  AntaÅ­eksentas mizeron de sia malriÄa homfrato;                45
+  AntaÅ­sentinte pri via Äagreno do mia patrino
+  Pakon kunmetis, por doni Äin tuj al la tutnudigitaj.
+  Kaj mi malligis la nodon de l' laÄo kaj donis la varman
+  Patran domrobon al Åi kaj donacis Äemizojn kaj tolon.
+  Äoje dankante ekkriis Åi: Ho, feliÄulo ne kredas,             50
+  Ke mirindaÄµo okazas ankoraÅ­; nur en la mizero
+  Oni ekkonas la manon de Dio, Äar Li la bonulon
+  Igas bonfari. Li helpu vin kiel vi helpis nin Äiujn.
+  Kaj la akuÅiÄintinon mi vidis gajece pripalpi
+  Tolon diversan, aparte la molan flanelon de l' robo.--        55
+  Ni rapidiru al tiu vilaÄo, en kiu la niaj
+  Certe ripozos dumnokte!--Åin petis la bona knabino--
+  Tie prizorgos mi tuj la infanan vestaÄµon kaj Äion.
+  Kaj salutante tutkore Åi dankis min, puÅis la bovojn;
+  Jen ekveturis la Äaro; sed mi plu ankoraÅ­ restadis,           60
+  Kaj la Äevalojn retenis; Äar mi konsideris ankoraÅ­,
+  Äu mi rapide veturu Äis tiu proksima vilaÄo,
+  Por la manÄaÄµojn donaci al tie estantaj, aÅ­ donu
+  Äion al tiu knabino, por ke Åi Äin juste disdonu.
+  Tiel mi tuj decidiÄis en koro; mi post Åi veturis             65
+  Nur malrapide kaj Åin atinginte mi diris fervore:
+  Bona knabino! ne sole tolaÄµon patrino surmetis
+  Zorge sur mian kaleÅon por vesti la indajn nudulojn,
+  Sed Åi aldonis ankoraÅ­ manÄaÄµojn kaj Äian trinkaÄµon,
+  Kaj mi posedas sufiÄe da Äio en mia Äarkesto.                 70
+  Sed nun mi volas transdoni ankoraÅ­ Äi tiujn donacojn
+  AnkaÅ­ al vi kaj plej bone mi tiel plenumos l' ordonon;
+  SaÄe vi Äion uzados, dum mi laÅ­hazarde disdonus.
+  Jen la knabino respondis: mi plej singardeme disdonos
+  Viajn donacojn; la plej mizerulo pri tio ekÄoju.              75
+  Tiel Åi diris. Rapide malfermis mi de l' veturilo
+  Kestojn, elportis la Åinkojn, la pezajn, eltiris la panojn,
+  AnkaÅ­ botelojn da vino, biero kaj Äion transdonis.
+  Mi ja volonte ankoraÅ­ pli donus, sed pli mi ne havis.
+  Al la akuÅiÄintino Åi Äion nun metis manprete                 80
+  Kaj forpaÅadis; kun miaj Äevaloj mi hejmen rapidis.â
+
+  Kiam Hermano silentis, la komunikema najbaro
+  Tuj ekkriante komencis: âFeliÄa do, kiu en tagoj
+  De la forkuro kaj tia konfuzo nur sola vivadas,
+  Kiun ne ÄirkaÅ­prenadas timeme l' edzino, infanoj!             85
+  Mi nun feliÄa min sentas; hodiaÅ­ mi tute ne volas
+  Patro nun esti kaj pri l' familio la zorgon trenadi.
+  AnkaÅ­ mi ofte pripensis forkuron kaj tial kunpakis
+  Äiujn plej bonajn objektojn, monerojn antikvajn, la Äenojn
+  De la mortinta patrino, el kio nenion mi vendis.              90
+  Multo ankoraÅ­ postrestus do, kiun mi kare akiris.
+  EÄ la radikojn kaj herbojn, la tre diligente serÄitajn,
+  Nur malvolonte mi perdus, cetere ne tre valorantajn.
+  Se l' provizoro postrestos, trankvile mi iros eksteren.
+  Se l' kontantaÄµon mi savis kaj mian personon, mi savis        95
+  Äion; la unuopulo sendube sin savas facile.â
+
+  Tuj energie respondis la juna Hermano: âNajbaro,
+  Kiel vi tute ne mi opinias kaj mi ne konsentas.
+  Eble Äu estas indulo, ho, kiu en tagoj feliÄaj
+  AÅ­ malfeliÄaj pri si atentema nur estas, kaj kora            100
+  Partoprenanto en Äojoj kaj zorgoj de l' homoj ne estas?
+  Mi decidiÄus edziÄi hodiaÅ­ prefere ol iam;
+  Kelka Äar bona knabino por si defendanton bezonas
+  Kaj la gajigan edzinon la viro en malfeliÄaÄµoj.â
+
+  Nun ridetante la patro! âVolonte vin tiel mi aÅ­das!          105
+  Tian prudentan parolon al mi vi malofte parolis.â
+
+  Tuj ekparolis la bona patrino kun gaja vigleco:
+  âVere, Hermano, vi estas tutprava, ni faris la samon.
+  Äar ne en tagoj serenaj ni ambaÅ­ korame nin trovis,
+  Sed nin kunigis kontraÅ­e malÄojo kaj eÄ malfeliÄo.           110
+  Lundon matene--mi scias Äin certe, Äar tagon antaÅ­e
+  Estis la brulo terura, per kiu pereis l' urbeto--
+  AntaÅ­ nun dudek da jaroj; dimanÄon hodiaÅ­ similan,
+  Estis varmege kaj seke, kaj akvo malmulte ekzistis.
+  Äiuj personoj promenis en festaj vestaÄµoj aÅ­ gaje            115
+  En muelejoj, gastejoj kaj niaj vilaÄoj troviÄis.
+  Jen Äe la fino de l' urbo la fajro naskiÄis. La brulo
+  Tiam rapidis tra l' stratoj, kreante nur novan ekbrulon.
+  Kaj la garbejoj bruladis, la tuta riÄega rikolto,
+  Kaj en la stratoj la domoj bruladis Äis la foirejo.          120
+  Tiu Äi domo kaj ankaÅ­ l' apuda gepatra pereis.
+  Kelkon nur povis ni savi. Mi sidis la nokton malgajan
+  Sur antaÅ­urba paÅtejo, la kestojn kaj litojn Åirmante;
+  Fine mi lace ekdormis; kaj kiam matene nun vekis
+  Min la matena malvarmo, la Äe la tagiÄo blovanta,            125
+  Tiam mi vidis la fumon, la ardon, muraÄµojn kavitajn.
+  Tio premegis la koron al mi; jen la suno denove
+  Nun pli brilege ol iam leviÄis kaj min kuraÄigis.
+  Mi tuj rapide ekstaris. Mi volis nun vidi la lokon
+  De la antaÅ­a loÄejo kaj kien la kokoj rifuÄis,               130
+  Kiujn precipe mi amis; infane mi sentis ankoraÅ­.
+  Kiam mi nun la ruinojn de l' domo kaj korto transiris,
+  Kiuj ankoraÅ­ fumiÄis, kaj mi la loÄejon ekvidis
+  Tiel nun tutdetruitan, jen transe vi venis serÄante.
+  Restis en via bestejo Äevalo, la subbruletantaj              135
+  Traboj kaj rubo Äin kovris, la besto ne estis vidata.
+  Tiel ni kontraÅ­ ni staris, malgaje kaj konsiderante;
+  AnkaÅ­ la muro rompiÄis, komuna al niaj bienoj.
+  Poste ekkaptis vi min Äe la mano kaj diris afable:
+  Kiel vi tien Äi venas, Luinjo? Foriru! Vi viajn              140
+  Plandojn bruligos, la botojn pli multe fortikajn varmega
+  Rubo al mi bruldifektis. Vi tiam min levis kaj portis
+  Transen min! Tie ankoraÅ­ la doma pordego troviÄis,
+  Kiel nun, kun la arkaÄµo; Äi sola el Äio nur restis.
+  Kaj vi nun teren min metis kaj kisis min; mi ja protestis,   145
+  Sed vi parolis al mi nun per vortoj afable signifaj:
+  Vidu, la fajro detruis la domon. Äi tie nun restu,
+  Helpu Äin ree konstrui, mi helpos la vian starigi.
+  Mi ne komprenis, Äis via patrino alvenis al mia
+  Patro kaj gaje fariÄis solena edziÄa promeso.                150
+  Äoje ankoraÅ­ memoras mi pri la duonbruligitaj
+  Traboj kaj vidas ankoraÅ­ la sunon belegan leviÄi;
+  Äar al mi donis la tago la edzon, la tempoj unuaj
+  De la terura detruo donacis al mi ja la filon.
+  Tial mi laÅ­das vin, ke vi kun fido sincera nun ankaÅ­         155
+  Pensas pri ia knabino en tiu Äi tempo terura,
+  Kaj kuraÄiÄas edziÄi en nia malpaca epoko.â
+
+  Tuje la patro respondis kaj diris viglece al tio:
+  âEstas laÅ­dinda intenco kaj pri la fariÄo vi diris,
+  Panjo, la veron, Äar Äio okazis laÅ­ via rakonto.             160
+  Sed la pli bono restadas pli bona. Ne Äiu bezonas
+  Sian vivadon kaj sian estadon denove komenci,
+  Kiel ni devis kaj kelkaj, ne Äiu laboru en zorgoj.
+  Kiel feliÄa do estas, al kiu gepatroj bonstatan
+  Domon transdonas, kaj kiu prospere Äin plue beligas?         165
+  Malfacilega ja estas komenco de Äia mastrumo.
+  Homo bezonas ja multe da aÄµoj; de tago al tago
+  Äio fariÄas pli kosta, li tial penadu riÄiÄi.
+  Tiel mi ankaÅ­ esperas, ke vi nun, Hermano, plej baldaÅ­
+  Hejmen kondukos kun doto riÄhava la fianÄineton;             170
+  Äar al la brava junulo konvenas akiri knabinon
+  RiÄan, kaj estas agrable, se kun dezirita edzino
+  AnkaÅ­ alvenas en korboj kaj kestoj la doto utila.
+  Ne senintence dum kelke da jaroj patrino pretigas
+  Multe da tolo, fortike teksita, al sia filino;               175
+  Ne senintence donacas baptanoj al Åi arÄentaÄµojn,
+  Kaj ormonerojn maloftajn la patro aparte konservas;
+  Äar Åi kun sia havaÄµo kaj Äiuj donacoj Äojigu
+  Iam la fraÅ­lon amatan do, kiu Åin sola elektis.
+  Certe mi scias Äin, kiel agrabla sin sentas edzino           180
+  Inter la propraj objektoj de l' Äambroj kaj de l' kuirejo,
+  Kiam Åi mem al si tute preparis la tablon kaj liton.
+  Nur fianÄinon bonege dotitan por vi mi dezirus;
+  Laste Äar malriÄulinon ja nur malestimos la viro,
+  EÄ servistino nur estos Åi, kiu eniris senhava.              185
+  Estas nejustaj la viroj, foriÄas la tempoj de l' amo.
+  Mia Hermano, vi min maljunulon treege Äojigus,
+  Se vi kondukus en domon plej baldaÅ­ la bofilineton
+  El najbaraÄµo, de tie el tiu domego, la verda.
+  Vere, la viro riÄiÄis, komerco kaj liaj fabrikoj             190
+  Pli Äiutage riÄigas lin. Äu li ne Äiam profitas?
+  Nur tri filinoj ekzistas kaj lian propraÄµon heredos.
+  Jam la unua elektis, mi scias Äin, sed akireblaj
+  Estas ankoraÅ­ la dua, la tria, kaj eble ne longe.
+  Se mi anstataÅ­ vi estus, mi ne ÅanceliÄus Äis nune,          195
+  Unu el tiuj knabinoj forportus mi, kiel la panjon.â
+
+  Tiam rediris modeste la filo al patro trudanta:
+  âMi efektive intencis laÅ­ via deziro elekti
+  Unu el tiuj najbaraj filinoj. Ni kune lernadis,
+  Ludis apude de l' puto sur nia urbplaco pli frue,            200
+  Ofte kaj ilin protektis mi kontraÅ­ la knaboj petolaj.
+  Tio de longe jam pasis; kaj dece restadas en domo
+  Nun la plenkreskaj knabinoj, timante la ludojn petolajn.
+  Estas ja bonedukitaj knabinoj! LaÅ­ via deziro
+  Transen mi iris kelkfoje do kiel antaÅ­a konato;              205
+  Sed pri la interrilatoj kun ili neniam mi gajis,
+  Ili mallaÅ­dis min Äiam; trankvile mi devis toleri
+  Äin: Äar tro longa la jako, la drapo tro maldelikata
+  Estis, koloro tro simpla, la haroj ne bele frizitaj.
+  Fine mi ankaÅ­ intencis orname min vesti, simile              210
+  Kiel la buboj komercaj, Äe ili dimanÄe estantaj,
+  Kiuj somere ornamas sin dande per duonsilkaÄµoj.
+  Sed Äustatempe ankoraÅ­ mi sentis, ke ili ridetis
+  Äiam min; tio do vere ofendis min, mian fieron;
+  Sed ÄagreniÄis mi ankaÅ­ treege, ke ili, precipe              215
+  Minjo, la tria, neniam ekkonis la emon amikan.
+  Laste, dum Pasko, mi ankaÅ­ transiris, mi vestis per nova
+  Jako min, kiu nun pendas nur supre en Åranko, kaj ankaÅ­
+  Estis laÅ­mode frizita mi, kiel l' aliaj junuloj.
+  Ili subridis dum mia eniro, pro mi--mi ne kredis.            220
+  Minjo Äe l' fortepiano Äµus sidis; la patro Äeestis,
+  Li bonhumore aÅ­skultis la kanton de siaj filinoj.
+  Mi ne komprenis ja kelkon pri kio la kanto rakontis;
+  Sed pri âPaminaâ kaj ankaÅ­ âTaminoâ mi multe aÅ­skultis.
+  Kaj mi do ankaÅ­ ne volis silenti. Post kanto finita          225
+  Mi nun demandis pri l' teksto kaj pri la personoj diritaj.
+  Äiuj post tio silentis kaj Äiuj ridetis; nun Åerce
+  Diris la patro: âÄu ne, vi ja konas nur âAdamâ kaj âEvaâ!â
+  Sed reteniÄis neniu nun, laÅ­te ekridis la knaboj
+  Kaj la knabinoj, la patro ridante sin tenis la ventron.      230
+
+  Pro embaraso defalis Äµus mia Äapelo, kaj daÅ­ris
+  Nun subridado senÄesa, eÄ dum la kantado kaj ludo.
+  Mi hontigite kaj tede foriris rapide kaj ree
+  Hejmen, pendigis la jakon en Årankon, konfuzis la harojn
+  Ree kaj Äµuris, neniam transiri denove la sojlon.             235
+  Prava mi estis; Äar ili ja estas senamaj, koketaj,
+  Kaj mi sciiÄis, ke ili ankoraÅ­ min nomas âTaminoâ.â
+
+  Nun la patrino rediris: âHermano, vi do ne trolonge
+  Kun la infanoj koleru; Äar ili ja estas infanoj.
+  Minjo ja estas bonega kaj Äiam nur vin Åi favoris;           240
+  AntaÅ­ ne longe pri vi Åi demandis jam. Åin do elektu!â
+
+  Nun meditante la filo rediris: âMi tamen ne scias,
+  Tiu Äagreno troenradikiÄis Äe mi; Åin, je vero,
+  Mi nun ne volas rigardi ludantan kaj aÅ­di kantantan.â
+
+  Sed nun la patro eksplodis kaj diris la vortojn kolerajn:    245
+  âÄojon malmultan mi havas pri vi! Mi jam Äiam Äin diris,
+  Äar vi deziris nur vin okupadi je l' kampoj, Äevaloj;
+  Kion bienoservisto de riÄa kampulo plenumas,
+  Faras vi; sed via patro nur devas rezigni je l' filo,
+  Kiu ja ankaÅ­ laÅ­more sin povis prezenti publike.             250
+  Kaj la patrino min trompis pli frue per vanta espero,
+  Äar la legado, skribado, lernado neniam prosperis
+  En lecionoj longtempaj, kaj Äiam vi estis la lasta.
+  Vere! de tio Äi venas, se ne ambicio ekzistas
+  Äe la junulo kaj se li ne volas pli alten sin levi.          255
+  Se nur por mi la gepatroj egale estadus zorgintaj,
+  Kaj min sendintaj pli frue en bonan kaj taÅ­gan lernejon,
+  Certe mi estus alia ol mastro de l' Ora Leono.â
+
+  Jen la junulo sin levis kaj alproksimiÄis silente
+  Kaj malrapide, senbrue al pordo; sed kriis la patro          260
+  Tutindignite: âForiru nur! vin obstinulon mi konas!
+  Kaj mastrumadu nur plue, por ke mi ne vin eÄ insultu.
+  Tamen ne kredu, ke iam vi volos al ni enirigi
+  Iun vilaÄan knabinon edziÄe, la nelertulinon.
+  Longe mi vivis kaj scias traktadi la homojn kaj scias        265
+  AnkaÅ­ gastigi sinjorojn kaj eÄ sinjorinojn, ke ili
+  Estas kontentaj; mi scias kompleze flatadi fremdulojn.
+  Sed mi deziras nun bofilineton Äi tie ricevi,
+  Kiu amuze dolÄigos al mi la multegajn penadojn.
+  AnkaÅ­ Åi ludu por mi la pianon! La plej eminentaj            270
+  Homoj de l' urbo plezure alvenu en mian gastejon,
+  Kiel dimanÄe okazas en domo najbara.â MallaÅ­te
+  Premis Hermano la anson kaj tiel forlasis la Äambron.
+
+
+
+
+III. Thalia.
+
+La burÄoj.
+
+
+  Tiel la filo evitis la pluajn parolojn kolerajn
+  Tute modeste; sed kiel antaÅ­e la patro daÅ­rigis:
+  âKio en homo ne estas, el li ne elvenas: apenaÅ­
+  Iam la efektiviÄo de mia korega deziro
+  Min do Äojigos, ke l' filo pli multe valoru ol mi mem.         5
+  Kiaj fariÄus la domo, la urbo, se Äiu ne Äiam
+  Äoje penadus pro kunkonservado kaj renovigado
+  AnkaÅ­ pro plibonigado, laÅ­tempe kaj laÅ­alilande!
+  Certe la homo ne kiel la fungo elkresku el tero
+  Kaj reputriÄu rapide en loko Äin nur produktinta,             10
+  Ne postlasinte postsignojn de sia vivplena estado!
+  Kia la mastro, la domo tuj klare vidigas al Äiuj,
+  Kiel ja oni prijuÄas l' estraron, venante urbeton.
+  Kie nun jam ruiniÄas la turoj kaj muroj, la fosoj
+  Nur malpuraÄµon enhavas kaj tiu Äi Äie vastiÄas,               15
+  Kie murÅtono moviÄas, kaj oni Äin ne remasonas,
+  Kie la trabo putriÄas kaj vane la dome atendas
+  Novan apogon: La urbo malbone regata restadas.
+  Äar la estraro atentu la ordon kaj Äie purecon,
+  BurÄo alie facile fariÄas senzorga, nepura,                   20
+  Kiel kutimas je vestoj Äifonaj Äe ni almozulo.
+  Tial mi volus, ke baldaÅ­ Hermano vojaÄu, almenaÅ­
+  Vidu la belajn Strassburg-on, Frankfurt-on, la Äarman Mannheim-on[2],
+  Kies bonega, regula konstruo gajigas; Äar kiu
+  Vidis la urbojn, la grandajn kaj purajn, penados ornami       25
+  Tiam la urbon gepatran, eÄ se Äi nur estas malgranda.
+  Äu la fremdulo la bonriparitajn pordegojn, la turon
+  Novblankigitan, la renovigitan preÄejon ne laÅ­das
+  Tie Äi? AÅ­ la pavimon, la bone lokitajn, kovritajn
+  Tre akvoriÄajn kanalojn eÄ, kiuj utilon, certecon             30
+  Al ni promesas jam tuj Äe l' unua naskiÄo de fajro?
+  Äu ne Äi Äio fariÄis de tiu terura brulego?
+  Mi ja sesfoje konstrukonsilano fariÄis kaj koran
+  Dankon meritis al mi kaj aprobon de bonaj geburÄoj.
+  Kion mi faris, mi faris fervore kaj tiel mi finis             35
+  AnkaÅ­ projektojn de viroj honestaj ne tute finitajn.
+  Tiel ekkaptis fervoro nun Äiun konsilantaranon.
+  Äiuj klopodas nun; ankaÅ­ la nova ÅosekonstruaÄµo,
+  Kiu kunigos nin kun la Äefstrato, definitiviÄis.
+  Sed mi nur timas, ke tiel la nunaj junuloj ne faros!          40
+  Äar nur plezuron kaj ornamiÄamon paseman la unuj
+  Celas; l' aliaj malvigle restadas malantaÅ­ la forno.
+  Kiel la lastaj, mi timas, Hermano do Äiam estados.â
+
+  Tuj nun la bona prudenta patrino rediris: âHo, Äiam,
+  Patro, vi estas tromulte nejusta al nia Hermano!              45
+  Kaj plenumiÄos per tio plej laste nur via deziro.
+  Äar ni ne povas modeli la idojn laÅ­ niaj projektoj;
+  Kiel ajn ilin donacis Dipatro, nun ilin ni amu,
+  Ilin plej bone eduku kaj maltrankviligu neniun.
+  Unu posedas Äi tiujn didonojn, alia aliajn;                   50
+  Äiu aplikas la siajn kaj Äiu laÅ­ sia naturo
+  Estas feliÄa kaj bona; ne mian Hermanon insultu;
+  Äar li, mi scias, tutplene meritas l' estontan heredon,
+  Estos bonega dommastro, modelo al burÄoj, kampuloj,
+  Kaj ne la lasta, mi kredas, de l' konsilantaro li estos.      55
+  Sed per insultaj mallaÅ­doj vi ja malakcelas nur Äiam
+  Äiun kuraÄon de l' filo, jen kiel hodiaÅ­ vi faris.â
+  Kaj Åi forlasis la Äambron kaj posten rapide Åi iris,
+  Por ke Åi ie la filon retrovu kaj lin reÄojigu
+  Per kompatemaj paroloj laÅ­ lia reala merito.                  60
+
+  Poste la patro ridante, tuj kiam Åi estis irinta,
+  Diris nun: âStrangaj estadas virinoj kaj niaj infanoj!
+  Äiu nur vivas volonte laÅ­ sia arbitro kaj plaÄo,
+  Kaj ni post tio nur Äiam karesu kaj laÅ­du la niajn.
+  Sed unufoje por Äiam valoras malnova proverbo:                65
+  Kiu antaÅ­en ne iras, reiros! Proverbo tre prava!â
+
+  Tiam pripense rediris la apotekisto: âVolonte
+  Mi vin konsentas, najbaro, kaj pri plibonaÄµo mi Äiam
+  Zorgas volonte, kondiÄe: Äi estu ne kosta, sed nova;
+  Sed Äu utilas, verdire, se oni ne havas da mono               70
+  Pli ol sufiÄe, ageme labori, interne, ekstere?
+  Estas Äenata la burÄo tro multe; konatan bonaÄµon
+  Do li ne povas akiri pro sia neplena monujo;
+  Äia bezono grandiÄas, kaj Äio malhelpas lin tiel.
+  Kelkon mi estus farinta, sed kiu ne timas elspezojn           75
+  Tiajn de ÅanÄo, precipe en tiuj Äi tempoj danÄeraj!
+  Longe jam starus la domo al mi ja en vesto laÅ­moda,
+  Kaj la fenestroj brilegus per vitrotavoloj grandegaj:
+  Sed kiu povas provizi simile sin al komercisto,
+  Kiu, riÄulo, la vojon de bona aÄeto ekscias.                  80
+  Vidu nur transe la domon, la novan! Belege vidiÄas
+  De l' spiralaÄµoj blankegaj stukaÄµo sur verdebenaÄµoj!
+  Äiuj fenestroj tre grandaj, la vitroj spegulas kaj brilas,
+  Staras nun mallumigitaj l' aliaj fenestroj de l' placo.
+  Tiam tuj post la brulego aspektis plej bone la domoj          25
+  âL' Ora Leonoâ kaj âAl la AnÄeloâ, la apotekejo.
+  Äie do ankaÅ­ ja Äiu la mian Äardenon Äi tie
+  Gloris kaj Äiu vojaÄe ekstaris kaj tra la barilo
+  RuÄa rigardis al l' Åtonalmozuloj, pigmeoj koloraj.
+  Poste, al kiu mi donis la kafon eÄ en la belega               90
+  Groto, staranta nun plena je polvo kaj preskaÅ­ duone
+  RuiniÄinta, li Äojis pri Äia kolora brillumo
+  De la bonordaj konkegoj, kaj per surprizitaj okuloj
+  EÄ la konanto rigardis la belan galenon, koralojn.
+  Same ja oni admiris en Äia Äambrego pentraÄµon,                95
+  Kies belegornamitaj sinjoroj kaj sinjorinetoj
+  Äardenpromenas, la florojn per fingroj afektaj tenante.
+  Kiu ankoraÅ­ rigardus Äi tion! Äagrene, apenaÅ­
+  Mi ja eliras; Äar Äio nun estu alia, plengusta,
+  Kiel Äin ili nun nomas, kaj blankaj la latoj kaj benkoj.     100
+  Äio nun estas tre simpla kaj glata, skulptaÄµon, oraÄµon
+  Oni ne volas plu, kaj la fremdlignoj valoras plej multe.
+  Nun mi kontenta ja estus provizi je iu novaÄµo,
+  AnkaÅ­ progresi laÅ­tempe kaj ÅanÄi la doman meblaron.
+  Äiu sed timas, la eÄ plej malgrandan nur nun aliigi,         105
+  Kiu Äar povus do pagi nuntempe la gelaborantojn?
+  AntaÅ­ ne longe ekpensis mi, ree l' anÄelon MiÄ¥ael,
+  Kiu la apotekejon distingas, belege orumi,
+  AnkaÅ­ la drakon teruran piede de li sin tordantan;
+  Tamen mi lasis Äin bruna, Äar min la postulo timigis.â       110
+
+
+
+
+IV. Euterpe.
+
+Patrino kaj filo.
+
+
+  Tiel la viroj tre vigle parolis. La bona patrino
+  Dume iradis, por antaÅ­ la domo komence serÄadi
+  Sur la Åtonbenko la filon, sur kiu li sidis kutime.
+  Sed ne trovinte lin tie Åi iris al stalo, por vidi,
+  Äu li la virajn Äevalojn, la belajn, persone provizos,         5
+  Kiujn li junaj aÄetis kaj ne al fremdulo konfidis.
+  Sed la servisto parolis: âLi iris en vian Äardenon.â
+  Tiam rapide trapaÅis Åi ambaÅ­ la vastajn domkortojn,
+  Preter la staloj kaj bonkonstruitaj garbejoj, eniris
+  En la Äardenon nun, etendiÄantan Äis muro de l' urbo,         10
+  PaÅis tra Äi kaj ekÄojis pri Äia kreskado, starigis
+  Tuj apogilojn bonorde, sur kiuj la branÄoj plenegaj
+  De la pomujo kaj de la pirujo fruktportaj kuÅadis,
+  AnkaÅ­ forprenis tuj kelke da raÅ­poj de l' bela brasiko,
+  Äar laborema virino ne faros eÄ unu vanpaÅon                  15
+  Tiel Åi estis veninta al fino de l' vasta Äardeno
+  Nun Äis la laÅ­bo kovrita de loniceraro; ne trovis
+  Tie Åi lin kaj nenie Åi vidis lin en la Äardeno.
+  Sed fermetita nur estis pordeto nun, kiun de laÅ­bo
+  Iam kun tute aparta permeso tra l' muro de l' urbo            20
+  Estis rompinta prapatro, la tre honorinda urbestro.
+  Kaj oportune Åi tiel nun iris trans foson tutsekan,
+  Kie Äe l' strato la bonÄirkaÅ­ita vinmonto pli krute
+  Tuje stariÄas kaj sian ebenon alturnas al suno.
+  Tiun Åi nun suprenpaÅis kaj Äojis irante pri l' multo         25
+  Da vinberaroj apenaÅ­ kaÅantaj sin sub la folioj.
+  Per foliaro kovrita kaj ombra la alta mezvojo
+  Supren kondukis sur Åtupoj el nepretigitaj plataÄµoj.
+  Pendis beraroj de l' vino âBonnobloâ kaj de l' muskatvino
+  Tie Äi, kaj ruÄetbluaj, aparte grandegaj, apude,              30
+  Äiuj zorgeme plantitaj, por gastan deserton ornami.
+  Sed izolitaj vintrunkoj surstaris l' alian montparton
+  Kun pli malgrandaj beraroj donantaj la vinon Äarmegan.
+  Tiel Åi nun suprenpaÅis Äojante jam pri la aÅ­tuno
+  Kaj la festtago, en kiu Äi tie la homoj gajege                35
+  Berojn kolektos kaj frapos piede, per mosto plenigos
+  Äiujn barelojn, en kiu vespere Äi Äie fajraÄµoj
+  Lumos kaj krakos honore al tiu plej bela rikolto.
+  Pli malkviete Åi iris, post kiam Åi vokis la filon
+  Du- aÅ­ trifoje, kaj sole revenis multfoje la eÄ¥o,             40
+  Kiu nun tre babileme sonoris de l' turoj de l' urbo.
+  Äar Åi neniam bezonis lin serÄi; li malproksimiÄis,
+  Ne Äin dirinte, neniam, por ke li detenu la zorgon
+  Pri malfeliÄa okazo de sia amanta patrino.
+  Sed Åi esperis ankoraÅ­ lin jen sur la vojo eltrovi,           45
+  Äar de l' vinmonto pordetoj, la supra kaj ankaÅ­ malsupra,
+  Ja malfermitaj nun estis. Åi plue eniris la kampon,
+  Kiu ebene kaj vaste la dorson de l' monto plenkovris.
+  Äiam ankoraÅ­ Åi iris sur propra kamparo kaj pri la
+  Propra semaÄµo ekÄojis kaj pri la belega grenaro,              50
+  BalanciÄanta fortike kaj ore sur Äiu loketo.
+  Plue la limovojeton laÅ­longe de l' kampoj Åi paÅis
+  Kaj sin direktis al tiu grandega pirujo, staranta
+  Sur la monteto Äe limo de l' kampoj de Åia bieno.
+  Kiu Äin plantis? neniu Äin sciis; Äi estis videbla            55
+  Vaste ÄirkaÅ­e, kaj estis tre famaj la fruktoj de l' arbo;
+  Sub Äi kutime la grenrikoltistoj kun Äojo tagmanÄis,
+  Kaj la paÅtistoj la bestojn gardadis, Äuante la ombron;
+  Benkoj el Åtonoj, per herbo kovritaj, troviÄis ja tie.
+  Kaj ne eraris Åi; tie trankvile sidadis Hermano               60
+  Sin apogante per brakoj kaj transen li Åajnis rigardi
+  Al la montaro; li turnis la dorson al sia patrino.
+  Al li senbrue Åi glitis kaj tuÅis mallaÅ­te la Åultron.
+  Tuj li rapide sin turnis: jen larmojn de l' filo Åi vidis.
+
+  Embarasite li diris: âPatrino, ho, vi min surprizas!â         65
+  Kaj li forviÅis la larmojn, honteme li kaÅis molecon.
+  âKiel? vi ploras, Hermano?â rediris Åi, ektimigite:
+  âMi vin ne konas hodiaÅ­! Neniam mi vidis vin tia!
+  Diru nur, kiu premegas la koron al vi kaj vin urÄas,
+  Tie Äi sidi solece, kaj kaÅ­zis la larmojn maloftajn.â         70
+
+  Sed la bonega junulo Åajnigis sin tute trankvila.
+  âTiuâ, li diris, âja koron rigidan posedus, verdire,
+  Kiu hodiaÅ­ ne sentus de l' forelpelitoj mizeron.
+  Tiu neÄuste eksentus nun, kiu ne zorgus pri sia
+  Propra bonfarto kaj pri la bonstato de sia patrujo.           75
+  Kion hodiaÅ­ mi vidis kaj aÅ­dis, min forte kortuÅis;
+  Nun mi eliris kaj vidis la vastan belegan pejzaÄon,
+  Kiu ÄirkaÅ­e jen antaÅ­ ni kuÅas sur fruktaj montetoj,
+  AnkaÅ­ mi vidis la grenon orflavan nun baldaÅ­ maturan,
+  RiÄan fruktaron, al ni promesantan tutplenajn grenejojn.      80
+  Sed, ho ve! kiel proksimaj nun estas malbonaj fremduloj;
+  Nin la ondegoj de l' Rhein-o ja Åirmas; sed ondoj kaj montoj
+  Ne la teruran popolon fulmtondre venontan detenos!
+  Äar la junulojn kaj eÄ maljunulojn el Äie kunvokas
+  Ili kaj iras antaÅ­en fortege kaj ankaÅ­ la morton              85
+  Tiu amaso ne timas; tuj post Äi postvenas alia.
+  Ha! kaj Germano ne hontas nun dome restadi kaj eble
+  Tion eviti esperas li, kio nun Äion minacas!
+  Kara patrino, mi diras al vi, ke mi nun ÄagreniÄas,
+  Ke liberiÄis mi tiam, dum oni elektis aliajn                  90
+  BurÄojn al servo milita. Mi estas ja via solulo
+  Kaj vi posedas tre grandan bienon kaj gravan metion;
+  Sed Äu ne estus pli bone por mi, kunbatali Äe limo
+  Tie, ol tie Äi malliberecon mizeran atendi?
+  Ja, la sentado min tute vivigis kaj pleje interne             95
+  Nun ekmoviÄas kuraÄo kaj granda celemo, por vivi
+  Pro la patrujo kaj morti kaj doni bonegan ekzemplon.
+  Vere, se niaj Germanaj junuloj kuniÄus, la fortaj,
+  Apud la limo por nun kontraÅ­stari al tiuj fremduloj,
+  Certe, ha, ili neniam enirus la belan hejmteron,             100
+  Nek forkonsumus en nia Äeesto la fruktojn de l' kampoj,
+  Kaj ne komandus la virojn kaj rabus virinojn, knabinojn!
+  Vidu, patrino, mi nun decidiÄis profunde, ekfari,
+  Kio nun Åajnas prudenta kaj Äusta al mi; Äar verdire,
+  Kiu trolonge pripensas, ne Äiam plej bone sukcesos.          105
+  Tial mi nun ne revenos, sed iros de tiu Äi loko
+  Urbon kaj tiun Äi brakon kaj tiun Äi koron transdonos
+  Al militestro, por ankaÅ­ servadi al nia patrujo.
+  Tiam la patro do diru, Äu ne de l' honoro eksento
+  AnkaÅ­ vivigas min, Äu mi ne volas pli alten celadi.â         110
+
+  Nun la prudenta kaj bona patrino respondis gravege,
+  Larmojn sekretajn, facile al Åi eliÄantajn, verÅante:
+  âKio, Hermano, en vi aliiÄis, en via animo,
+  Ke vi ne kiel hieraÅ­ kaj Äiam al via patrino
+  Tute libere parolas kaj vian deziron esprimas?               115
+  Se nun alia ekaÅ­dus Äi tion, li, vere, treege
+  LaÅ­dus vin, ankaÅ­ laÅ­degus l' intencon ja kiel plejnoblan,
+  Sed nur logite de via gravega parolo kaj diro.
+  Sed mi mallaÅ­das vin nur, Äar mi konas vin certe plibone,
+  Koron la vian vi kaÅas; pri io alia vi pensas.               120
+  Äar mi ja scias, ne logas vin iaj tamburoj, trumpetoj,
+  Vi ne deziras vidigi vin al la knabinoj soldato.
+  Via destino ja, kiel ajn estas vi brava kaj bona,
+  Estas, mastrume la domon konservi, la kampon provizi.
+  Tial konfesu do: kio vin trudas al tiu decido?â              125
+
+  Tuj serioze la filo: âPatrino, vi certe trompiÄas.
+  Estas egalaj neniam la tagoj; junulo viriÄas
+  Ofte sekrete pli bone ol en la bruego de l' vivo
+  ÅanceliÄanta, sovaÄa, en kiu pereis kelkiu.
+  Se ajn trankvila mi estas kaj estis, nun tamen naskiÄis      130
+  Koro en mi, malamanta l' aferojn maljustajn, malbonajn,
+  AnkaÅ­ mi scias tre bone nun diferencigi mondaÄµojn;
+  Kaj la laboro fortigis treege piedojn kaj brakojn.
+  Äio Äi estas vereca, kuraÄe mi tion certigas.
+  Tamen sed prave vi nun min mallaÅ­dis, patrino, kaj kaptis    135
+  Min Äe paroloj duone nur veraj, duone Åajnigaj.
+  Äar mi konfesas ja, ne la proksima danÄero min vokas
+  El la gepatra bieno kaj ne la altega deziro,
+  Helpi al mia patrujo, kontraÅ­i al la malamikoj.
+  Estis nur vortoj, Äar ili nur antaÅ­ vi estis kaÅontaj        140
+  Äiujn eksentojn al mi disÅirantajn la koron malgajan.
+  Tial min lasu, patrino! Äar mi en la koro konservas
+  Vanajn dezirojn, kaj vane pasadu nun mia vivado.
+  Bone mi scias ja: La unuopa sin mem malutilas,
+  Sin dediÄante, se ne al Äiomo sin Äiuj aligas.â              145
+
+  âÄiam daÅ­rigu nurâ--tiel instigis la sperta patrino--
+  âÄion rakontu al mi, la gravegan kaj ankaÅ­ negravan,
+  Äar koleriÄas la viroj, pripensas nur Äiam la laston,
+  Ia baraÄµo facile do ilin depuÅas de l' vojo;
+  Sed la virino nur estas kapabla por trovi rimedojn,          150
+  Migras eÄ vojon malrektan por lerte intencon plenumi.
+  Diru nur Äion, pri kio vi nun kortuÅiÄis troforte,
+  Kiel neniam, kaj kial la sango en vi ekscitiÄis,
+  Kial malvole en viaj okuloj la larmoj montriÄas.â
+
+  Jen la junulo sin tute al sia doloro transdonis              155
+  Kaj Äe la brusto de sia patrino ploregis kaj diris:
+  âVere, hodiaÅ­ la diroj insultaj de l' patro ofendis
+  Min, sed neniam mi tion meritis, ne nun nek antaÅ­e,
+  Äar la gepatrojn honori de Äiam mi kore penadis,
+  Kaj al mi Åajnis neniu pli esti prudenta kaj saÄa,           160
+  Nepre ol vi nur, l' infanon malkleran, min, Äiam gvidintaj.
+  Multon mi vere suferis de l' gekunludantoj iamaj,
+  Ili ja ofte repagis per ruzo nur mian bonvolon;
+  Ofte mi ankaÅ­ ne venÄis la Äµetojn kaj batojn de ili;
+  Sed kiam ili ekmokis la patron, dimanÄe per paÅo             165
+  Inda kaj grava el nia preÄejo venantan, kaj ridis
+  Pri la rubando de l' Äapo, pri l' floroj de lia domrobo,
+  Kiun li portis gravege, kaj ni fordonacis hodiaÅ­:
+  Miaj du manoj terure pugniÄis; jen tutfurioze
+  Ilin mi tuje atakis kaj batis blindule kaj trafis,           170
+  Tute ne, kien, vidinte. Nun ili ploregis kun sangaj
+  Nazoj, forsaltis pro batoj kaj miaj piedoj frapantaj.
+  Tiel mi kreskis, grandiÄis, kaj multon suferis de l' patro,
+  Kiu anstataÅ­ aliaj min ofte per vortoj insultis,
+  Kiam dum konsilantara kunsido lin io ekscitis;               175
+  Kaj mi suferis pro Äiuj ruzaÄµoj de liaj kolegoj.
+  Ofte vi mem min bedaÅ­ris, Äar multon mi Äiam toleris,
+  Äiam peninte honori bonfarojn de miaj gepatroj,
+  Kiuj nur zorgis pripense, bienon kaj havon riÄigi
+  Nian kaj ofte rezignis, por Åpari nur por la infanoj.        180
+  Sed, ho, ne sola Åparado, por Äui pli poste, feliÄon
+  Faras, kaj ankaÅ­ ne l' aro Äe l' aro kaj kampo Äe kampo,
+  Kiel praktike kaj bele eÄ ankaÅ­ la kampoj kuniÄas.
+  Äar maljuniÄas la patro, kaj ankaÅ­ mi, filo, sen ia
+  Äojo pri l' taga vivado kaj nur kun la zorgo pri morgaÅ­.     185
+  Diru al mi kaj malsupren rigardu jen, kiel belege
+  KuÅas la riÄa kamparo kaj sube vinmonto, Äardeno,
+  Tie la staloj kaj niaj garbejoj, la bela komplekso!
+  Sed kiam tie mi vidas la postan dometon, jen, kie
+  En la frontono vidiÄas al ni la fenestro de mia              190
+  Gaja Äambreto, kaj mi rememoras pri l' tempoj, en kiuj
+  Ofte mi nokte atendis la lunon, matene la sunan
+  Lumon, Äar por mi sufiÄis malmulta saniga dormado:
+  Sed nun al mi ekaperas nur nepre solecaj la Äambro,
+  Nia Äardeno kaj korto kaj kampoj belegaj vastegaj;           195
+  Äio nun estas dezerta, Äar mankas al mi la edzino.â
+
+  Sed nun post tio la bona patrino prudente respondis:
+  âVi ne pli multe deziras, Hermano, ol mi kaj la patro,
+  Hejmen konduki al vi fianÄinon, ke l' nokto fariÄu
+  Bela duono por vi de la vivo, kaj Äia laboro                 200
+  Tage fariÄu al vi pli libera. Ni Äiam konsilis
+  Vigle, ja preskaÅ­ vin puÅis, elekti knabinon plej baldaÅ­.
+  Sed mi ja scias kaj ankaÅ­ la koro nun laÅ­te ripetas:
+  Kiam ne venas la horo la Äusta, la Äusta knabino
+  Ne nun vidiÄas, nur tre malproksime elekto restados,         205
+  Kaj des pli multe superas la timo, elekti malÄustan.
+  Mi al vi diras, Hermano, ke vi jam elektis, mi kredas;
+  Äar korfrapita vi estas kaj pli ol kutime sentema.
+  Rekte konfesu nur, Äar la animo jam Äin al mi diras:
+  Estas la forelpelita knabino; vi tiun elektis.â              210
+
+  âKara patrino, tutprave!â, respondis virece Hermano,
+  âJes, Åi nur estas kaj se ne hodiaÅ­ fianÄe mi gajnos
+  Åin, Åi foriros kaj nun malaperos, kredeble por Äiam
+  En la milita konfuzo kaj en la malÄoja vagado.
+  Äiam tutvane, patrino, la riÄa bieno prosperos               215
+  Por mi, kaj estos benitaj nur vane la jaroj venontaj.
+  Antipatiaj ja estos la domo kaj nia Äardeno;
+  Ho, mem la amo patrina konsolos ne min kompatindan.
+  Äar, mi eksentas, la amo disigas tuj Äian kuniÄon,
+  Kiam Äi kreas la novan; nek sole knabino forlasas            220
+  Siajn gepatrojn, sekvante la viron de Åi elektitan,
+  AnkaÅ­ junulo forgesas patrinon kaj patron, vidante
+  La forirantan knabinon, korege de li adoratan.
+  Tial mi iros nun, kien min la malespero instigas!
+  Nun ja la patro parolis la vortojn por mi decidigajn,        225
+  Kaj ne la domo gepatra plu estos la mia, se l' patro
+  Tiun knabinon forpuÅos, je kiu mi sole edziÄos.â
+
+  Tuj nun rapide respondis la bona prudenta patrino:
+  âKiel Åtonegoj jen staras du viroj amataj kontraÅ­e!
+  Kun obstinega fiero neniu aliras l' alian,                   230
+  AmbaÅ­ rifuzas paroli, unue esprimi bondiron.
+  Tial mi diras, Hermano, ankoraÅ­ mi kore esperas,
+  Ke li al vi ne rifuzos Åin, se Åi fidela kaj bona,
+  Kvankam malriÄa, eÄ kiam decide li tion esprimis.
+  Kelkon ja, koleriÄante, li ofte parolas kaj tamen            235
+  Tion ne efektivigas; li ankaÅ­ nun ne kontraÅ­staros.
+  Sed li postulas infanan bondiron kaj povas postuli;
+  Estas li patro. Ni scias, ke lia kolero post manÄo,
+  Kiam li forte parolas kaj pri la aliaj rezonoj
+  Dubas, ne estas gravega, Äar tiam la vino grandigas          240
+  Lian memvolon kaj igas, ke li ne komprenas la dirojn
+  De la aliaj, li aÅ­das kaj sentas ja tiam sin mem nur.
+  Sed la vespero alvenas; kaj estas finitaj la multaj
+  Konversacioj nun inter li mem kaj la paroladintoj.
+  Vere li pli malseveras, tuj kiam la ebrieteco                245
+  Tute foriÄis kaj li maljustaÄµon faritan nun sentas.
+  Venu, ni riskos Äin tuj; nur la tuja riskado sukcesas.
+  Kaj ni bezonas ja liajn amikojn, ankoraÅ­ konvene
+  Äe li sidantajn, precipe nin helpos la pastra sinjoro.â
+
+  Tiel Åi vigle parolis kaj de l' Åtonsidejo leviÄis           250
+  Manon prenante de l' filo, bonvole sekvanta. Silente
+  AmbaÅ­ malsupren foriris, pensante la gravan projekton.
+
+
+
+
+V. Polyhymnia.
+
+La kosmopolito.
+
+
+  Ili triope ankoraÅ­ kunsidis kaj interparolis,
+  Apud la pastra sinjoro la apotekisto Äe l' mastro;
+  Äiam ankoraÅ­ la konversacio nun estis la sama,
+  Kiu turniÄis multoble jen tien kaj reen, jen Äien.
+  Sed nun la pastro bonege respondis kun bela indeco:
+  âMi ne protestos vin! Tion mi scias, ke l' homo aspire         5
+  Äiam al io pli bona; kaj, kiel ni vidas, li ankaÅ­
+  Celas al io pli alta, almenaÅ­ li serÄas la novan.
+  Sed ne tromulton postulu! Äar krom la dirita sentado
+  AnkaÅ­ donacis al ni la naturo la emon, persisti
+  Je la malnova kaj Äoji pri longe provita kutimo.              10
+  Äiu natura kaj ankaÅ­ prudenta estado bonestas.
+  Multon deziras la homo, sed fakte bezonas malmulton;
+  Estas mallongaj la tagoj, malvasta la sorto de l' homoj;
+  Tiun neniam mallaÅ­dis mi, kiu sen ia ripozo
+  Äiam ageme tra l' maro kaj stratoj de l' mondo vagadas,       15
+  Ne laciÄante, kuraÄe, kaj Äojas pri Äia profito
+  AmasiÄinta riÄege por li kaj la liaj ÄirkaÅ­e.
+  Sed ankaÅ­ tiun mi Åatas, verdire, la burÄon trankvilan,
+  Kiu silente trapaÅas la patran heredon kaj lerte,             20
+  Kiel sezono postulas, laboras sur sia kamparo.
+  Ne Äiujare al li aliiÄas la tero, kaj l' arbo,
+  Ä´us nur plantita, ne siajn branÄbrakojn etendas Äielon
+  Tute rapide kaj tuj ornamite per multaj floretoj.
+  Ne, tia viro bezonas je pacienceco, kaj ankaÅ­                 25
+  Äiam je sento pureca, trankvila, je Äusta prudento;
+  Äar li konfidas nur semojn malmultajn al tero nutranta,
+  Kaj li penadas nur bestojn malmultajn profite kreskigi,
+  Sole ja lia pensado koncernas aferojn utilajn.
+  Al feliÄulo nur donis naturo tielan sentadon!                 30
+  Äiujn nin nutras li. Benon al burÄo de urbo malgranda,
+  Kiu kunigas kamparan metion kun urba metio!
+  Sur li ne pezas la premo, sub kiu timeme kampulo
+  Zorgas, kaj lin ne konfuzas la zorgo de l' burÄoj avidaj,
+  Kiuj sen havo kutimas nur Äiam imiti pli riÄajn               35
+  Klasojn de samurbanaro; precipe virinoj, knabinoj.
+  Tial do benu trankvilan penadon de l' filo kaj ankaÅ­
+  Lian edzinon, la samideanan, de li elektotan.â
+
+  Tiel la pastro. Nun kune la filo kun sia patrino
+  Äambron eniris; Åi manekondukis lin antaÅ­ la patron           40
+  Kaj nun parolis: âDum ofte jam, patro, ni interbabilis,
+  Äoje ni pensis pri l' tago venonta, en kiu Hermano,
+  FianÄineton estontan trovinte, nin fine Äojigus!
+  Tien kaj reen ni pensis; jen tiun knabinon proponis
+  Ni, jen Äi tiun, al li babilante gepatre kaj zorge.           45
+  Vidu, nun venis la tago; al li la Äielo kondukis
+  Nun fianÄinon kaj certe la koro nun mem decidiÄis.
+  Tiam Äu ni ne konsentis, ke iam li sole elektu?
+  Äu vi ne antaÅ­ ne longe deziris, ke li por knabino
+  Sentu afable kaj vigle? Nun estas veninta la horo!            50
+  Ja li eksentis, elektis kaj vire nun mem decidiÄis.
+  Tiu knabino jen estas, la fremda, al li renkontinta.
+  Donu aprobon pro Åi, aÅ­ li restos, laÅ­Äµure, fraÅ­lulo.â
+
+  AnkaÅ­ la filo parolis: âKonsentu do, patro! La koro
+  Äuste kaj pure elektis; Åi estos plej inda filino.â           55
+
+  Sed Äar la patro silentis, la pastro rapide sin levis
+  Kaj nun parolis: âJes, nur la momento decidas pri l' vivo
+  Kaj pri la sorto, la tuta, de l' homo; Äar ankaÅ­ ja estas
+  Äiu decido post konsiderado eÄ longa nur kreo
+  De la momento; saÄulo do sole la Äustan ektrovas.             60
+  Äiam danÄere ja estas, apude pripensi Äi tion
+  Äe l' elektado, aÅ­ tion, kaj tiel konfuzi la senton.
+  Pura li estas, Hermano--; mi konas lin de la naskiÄo;
+  Li ne etendis la manojn al tio aÅ­ tio Äi; kion
+  Li Äu junulo Äu knabo deziris, konvena Äi estis.              65
+  Vi ne ekmiru timeme, ke nun jam subite okazis,
+  Kion vi longe deziris. La formo de via deziro
+  Al vi alia aperas nun, ol vi antaÅ­e imagis.
+  Äar la deziroj ja mem al ni kaÅas la celon de l' volo;
+  Venas de supre la donoj en sia natura apero.                  70
+  Ne la knabinon malÅatu, unue movintan la koron
+  Puran de l' filo amata, prudenta kaj bona, Hermano.
+  Ho feliÄulo, al kiu unua jam la amatino
+  Sekvas, al kiu la Äarma sopiro ne svenas fantome.
+  Lia aspekto ja montras, ke nun decidiÄis la sorto.            75
+  Vera inklino virigas junulon, lin faras matura.
+  Li ÅanÄanima ne estas; mi timas, se tion rifuzos
+  Vi, li pasigos la jarojn plej belajn dum vivo malgaja.â
+
+  Tuje post tio la apotekisto, al kiu jam longe
+  Volis la vorto desalti de lipoj, pripense respondis:          80
+  âNi tiufoje do ankaÅ­ nur iru sur meza la vojo!
+  Nur malrapide rapidu! Devizo jen jam de AÅ­gusto
+  Imperiestro. Volonte mi servos al karaj najbaroj
+  Kaj per malgrava kapablo vin helpos por via utilo;
+  La junularo precipe bezonas, ke oni Äin gvidu.                85
+  Lasu eksteren min nun! La knabinon mi volas esplori,
+  La komunumon demandi, en kiu Åi vivas konata.
+  Tiel facile neniu min trompos; mi scias esplori.â
+
+  Tiam la filo respondis tuj vigle per vortoj rapidaj:
+  âFaru, najbaro, Äin! Iru, demandu, sed kore mi petas,         90
+  Ke la sinjoro, la pastro, troviÄu en via proksimo;
+  Tiel du viroj indegaj atestos malkaÅe kaj Äuste.
+  Patro, Åi certe devenas de bonaj gepatroj kaj Åi ne
+  Vagas tra landoj serÄante nur aventuraÄojn, kaj Åi ne
+  Ruze klopodas delogi kaj gajni senspertan junulon.            95
+  Ne, nur la sorto terura de la pereiga milito,
+  Kiu detruas la mondon kaj eÄ konstruaÄµojn firmegajn
+  Levis el fundo, senhelpe elpelis la virtan knabinon.
+  Äu ne mizere nun vagas ranguloj de alta deveno?
+  Princoj forkuras en fremdaj vestaÄµoj, kaj reÄoj ekzile       100
+  Vivas. Ho, oni Åin ankaÅ­ nun tiel elpelis el lando,
+  Åin, la plej bonan; ja Åi forgesante la propran mizeron
+  Helpas l' aliajn kaj estas senhelpa ankoraÅ­ helpema.
+  Estas mizero, Äagreno grandegaj, tra l' mondo irantaj;
+  Povus ne ankaÅ­ fariÄi feliÄo el tiu mizero,                  105
+  Ke en la brako de l' fianÄineto, edzino fidinda,
+  Benus militon mi, kiel vi mem la pasintan brulegon?â
+
+  Tiam respondis la patro per akcentigata parolo:
+  âKiel do nun liberiÄis, Hermano, la lango, konstante,
+  Longe en buÅo ligita kaj nur moviÄinta malofte!              110
+  Tion hodiaÅ­ mi spertas, kaj tio minacas al Äiu,
+  Ke la patrino volonte la volon de l' filo favoras
+  Milde, indulge, kaj Äiu najbaro fariÄas partia,
+  Kiam nur oni atakas la patron aÅ­ ankaÅ­ la edzon.
+  Sed mi ne volas vin nun kontraÅ­stari, Äar kion utilus?       115
+  Äar mi jam vidas antaÅ­e Äi tie nur larmojn, obstinon.
+  Iru kaj provu kaj domen konduku en nomo de Dio
+  Tiun filinon! Se ne, jen li tiun knabinon forgesu!â
+
+  Tiel la patro. Sed tuje la filo elvokis Äojgeste:
+  âAntaÅ­ vespero ankoraÅ­ filino plej bona Äeestos,             120
+  Kiel Åin viro prudenta elektas plej taÅ­ga edzino.
+  Tiam Åi ankaÅ­ fariÄos feliÄa, mi tion esperas.
+  Ja Åi eterne min dankos, ke anstataÅ­ante gepatrojn
+  Vin mi redonis al Åi kaj prudente Åi tion komprenos.
+  Sed mi ne plue prokrastos, mi tuj la Äevalojn aljungos       125
+  Kaj la amikojn kondukos eksteren en Åian proksimon;
+  Sole l' amikojn laÅ­ propra prudento mi lasos agadi
+  Kaj, mi Äin Äµuras, mi tute ilian decidon obeos,
+  Kaj ne pli frue mi vidos Åin, Äis Åi fariÄis la mia.â
+  Tiel eksteren li iris, kaj dume l' aliaj l' aferon           130
+  Gravan saÄece pripensis kaj konsiderante pritraktis.
+
+  Sed rapidegis Hermano al stalo, en kiu troviÄis
+  Liaj kuraÄaj Äevaloj kaj manÄis la puran avenon,
+  Fojnon la sekan kaj sur la plej bona herbejo tranÄitan.
+  Tiam rapide al ili enmetis li ÅtalenbuÅaÄµon                  135
+  Brilan, li tiris rimenojn tra bukoj, la arÄentumitaj,
+  Tiam almetis li longajn pli larÄajn rimenkondukilojn
+  Kaj elkondukis la bestojn en korton, sur kiun servisto
+  Jam la kaleÅon bonvole alÅovis, timonon tirinte.             140
+  Ili aljungis per Ånuroj fortikaj al tiu kaleÅo
+  Tiam bonorde la fortajn, facile tirantajn Äevalojn,
+  Poste Hermano ekkaptis la vipon kaj nun veturigis.
+  Kiam l' amikoj okupis la vastajn sidbenkojn, ruliÄis
+  La veturilo rapide for sur la pavimo de l' urbo,
+  Kaj Äi postlasis la murojn kaj turojn, la novblankigitajn.   145
+  Tiel Hermano veturis al tiu konata Åoseo
+  Nun senprokraste, rapide, de l' monto malsupren kaj supren.
+  Sed kiam li nun ekvidis la turon de tiu vilaÄo,
+  Kaj jam proksime troviÄis la domoj ÄardenÄirkaÅ­itaj,
+  Li tuj ekpensis haltigi surstrate nun siajn Äevalojn.        150
+
+  De l' serioza mallumo de altaj tilioj ombrita,
+  Kiuj jam enradikiÄis Äi tie dum kelkaj jarcentoj,
+  Estis vastega herbejo, verdanta, de herboj kovrita,
+  AntaÅ­ l' vilaÄo, gajejo kampara kaj por la urbanoj.
+  Nur malprofunde fosita troviÄis sub arboj la puto.           155
+  Dum la irado sur Åtupoj malsupren, jen Åtonaj sidbenkoj
+  ÄirkaÅ­metitaj Äe fonto vidiÄis; Äi fluis senÄese,
+  Nur borderita malalte, facile Äerpebla kaj pura.
+  Tie en ombra mallumo Hermano decidis haltigi
+  Kun veturilo la fortajn Äevalojn. Kaj tiel farinte           160
+  Li nun parolis: âEliru, amikoj kaj iru, por ke vi
+  BaldaÅ­ sciiÄu, Äu vere Åi indas la manon de mi ja
+  Ame donatan! Mi kredas Äin certe; vi diros nenion
+  Novan pri Åi; se mi sole nun agus, mi irus rapide
+  Tien kaj baldaÅ­ malkaÅe Åi mian vivsorton destinus.          165
+  Kaj vi Åin certe kaj baldaÅ­ el Äiuj aliaj ekkonos;
+  Äar malfacile al Åi komparebla nur estas alia
+  LaÅ­ edukeco. Mi vin atentigas pri Åiaj vestaÄµoj:
+  Kovras la ruÄa tuketo kaj montras la volbon de l' brusto,
+  Bele laÄitan, kaj nigrekoloran korsaÄµon Åi havas,            170
+  Zorge Åi faldis la Äemizborderon je l' krispo, el kiu
+  Åia rondforma mentono Äarmege antaÅ­en aspektas;
+  Gaje, libere vidiÄas de l' kapo gracia ovrondo;
+  ÄirkaÅ­ arÄentaj pinglegoj multfoje la fortaj harligoj
+  Estas volvitaj; la jupo, la blua kaj multe faldita           175
+  La maleolojn belformajn dum Åia irado ÄirkaÅ­as.
+  Sed vin ankoraÅ­ mi volas sciigi kaj kore petegi:
+  Ke vi kun Åi ne parolu nek nian intencon konigu,
+  Sed pridemandu kaj aÅ­du pri kio aliaj rakontos!
+  Kiam vi havos sciigon sufiÄan por miaj gepatroj,             180
+  Tiam revenu al mi kaj ni poste pripensos la pluon.
+  Tiel mi Äion pripensis dum nia veturo Äi tien.â
+  Tiel li diris. L' amikoj nun paÅis al tiu vilaÄo,
+  Kie en domoj, Äardenoj, garbejoj la multo da homoj
+  Svarmis kaj Äaro post Äaro sur strato la larÄa staradis.     185
+  Viroj provizis la bestojn blekantajn, Äevalojn Äe l' Äaroj,
+  Kaj diligente virinoj sekigis tolaÄµon sur Äiuj
+  Plektobariloj, kaj ludis infanoj en akvo plaÅ­danta.
+  Tiel premante sin tra l' veturiloj, tra l' homoj kaj bestoj
+  Dekstren, maldekstren la du alsenditoj rigardis, Äu ili      190
+  Ne la staturon de tiu knabino spione ekvidus;
+  Tamen nenie Äis nun virgulino la bela aperis.
+  Nun interpremo pli forta okazis: Jen estis disputo
+  De malpaculoj pro Äaroj, en kiu virinoj kriante
+  IntermiksiÄis. Jen alproksimiÄis rapide, gravege             195
+  Viro maljuna, aliris al malpacemuloj; la bruo
+  Tuj silentiÄis nun, kiam li patre postulis trankvilon,
+  Jenon dirante: âÄu ne kvietigis nin nia mizero,
+  Ke ni nun fine komprenu toleri kaj interkonsenti
+  Unu l' alian, se ankaÅ­ ne Äiu la agojn pripensas?            200
+  Homo feliÄa ne estas indulga. Äu fine instruos
+  Vin la suferoj, ne, kiel alie, malpaci kun frato?
+  Ha, malenviu do nur reciproke la lokon sur fremda
+  Tero kaj, kion vi havas, dividu, por trovi kompaton.â
+
+  Tiel li diris kaj Äiuj silentis; paceme la homoj             205
+  Ree nun kvietigitaj ordigis la bestojn kaj Äarojn.
+  Sed nun la pastro, aÅ­dinte de l' viro parolojn laÅ­dindajn,
+  AnkaÅ­ sentinte la senton, la pacan, de l' fremda juÄanto,
+  Tiun aliris kaj diris la jenajn gravegajn parolojn:
+  âPatro, se, vere, en tagoj feliÄaj vivadas popolo            210
+  Kaj sin nutradas de l' tero, la larÄe kaj vaste kreita,
+  Kiu rekreas monate kaj jare la donojn petitajn,
+  Äio fariÄas per si, per si mem ja, kaj Äiu sin sentas
+  Pleje prudenta kaj bona; kaj Äiuj komune ekzistas,
+  AnkaÅ­ la viro plej saÄa valoras nur kiel alia;               215
+  Äio ja, kio okazas, sen ia alhelpo daÅ­riÄas.
+  Kiam mizero disÅiras la vojojn kutimajn de l' vivo,
+  Domojn kaj ejojn detruas, Äardenojn kaj kampojn subfosas,
+  Kaj la virinon kaj viron forpelas de l' hejma loÄejo,
+  Ilin fortrenas en sorton malcertan dum tempoj timigaj:       220
+  Tiam, ho, oni ÄirkaÅ­e tuj serÄas la viron plej saÄan
+  Kaj nun Äi tiu parolos ne vane prudentajn parolojn.
+  Patro, permesu; vi estas ja certe la estro de tiuj
+  Forelpelitoj, Äar tuje vi nun trankviligis l' animojn?
+  Vere simila al tiuj plej saÄaj gvidantoj vi estas,           225
+  Kiuj la forelpelitojn gvidadis tra vastaj dezertoj.
+  Ä´us mi ekpensas, ke mi kun Josua aÅ­ Moses parolas.â
+
+  Kaj serioze rigardis la estro post tio kaj diris:
+  âVere, similas la nuno al tempoj eÄ plej maloftegaj,
+  Kiujn konigas la temphistorio profana aÅ­ sankta;             230
+  Äar kiu vivis en tiuj Äi tagoj, hieraÅ­, hodiaÅ­,
+  Vivis jam jarojn; Äar tiel premiÄas nun Äiuj aferoj.
+  Kiam mi iom pripensas, jam aÄo grizega sur mia
+  Kapo jen Åajnas kuÅadi kaj tamen la forto tradaÅ­ras.
+  Ni nur komparu nin mem eÄ al tiuj, al kiuj aperis            235
+  En arbareto fajrega la Dia Sinjoro en grava
+  Horo; Li ankaÅ­ al ni ja aperis per nuboj kaj fajro.â
+
+  Kiam la pastro nun estis volema ankoraÅ­ paroli
+  Plu kaj deziris sciiÄi pri l' sorto de l' forelpelitoj,
+  Tuj la kunulo sekrete parolis al li en l' orelon:            240
+  âPlu nur parolu kun l' estro kaj pri la knabino esploru!
+  Sed mi nun iros ÄirkaÅ­e por serÄi Åin, poste mi, kiam
+  Mi Åin eltrovis, revenos.â La pastro jesante konsentis;
+  Sed tiu serÄis tra l' plektobariloj, Äardenoj, garbejoj.
+
+
+
+
+VI. Klio.
+
+La epoko[3].
+
+
+  Kiam la pastro demandis la estron fremdlandan nun, kion
+  La komunumo suferis, de kiom da tempo de l' hejmo
+  Estis pelita Äi, tiam la viro respondis: âNi longe
+  Jam nun suferas, kaj Äion maldolÄan ni trinkis de Äiuj
+  Jaroj teruraj, Äar oni detruis l' esperon plej belan           5
+  Nian: Äar kiu ne dirus, ke alte la koro sin levis
+  Kaj pli libere la brusto per pulsoj pli puraj moviÄis;
+  Kiam eklumis la brilo unua de l' suno noviga,
+  Kiam ni aÅ­dis pri l' rajto de l' homoj, al Äiuj komuna,
+  Pri libereco belega kaj pri l' egaleco laÅ­dinda!
+  Tiam ja Äiu esperis vivadi al si mem, solviÄi                 10
+  Åajnis la Äeno, la landojn plej multajn perforte kaptinta,
+  Kiun mantenis nur senokupado kaj nur profitemo.
+  Äu ne rigardis en tagoj tiamaj la homoj de Äie
+  Al la Äefurbo de l' mondo nur, kiu ja tia jam longe           15
+  Estis kaj nun pli ol iam meritus la nomon belegan?
+  Äu ne la nomoj de tiuj eÄ, kiuj unue anoncis
+  Tiun promeson, egalis al niaj plej famaj sur tero?
+  Äu ne altkreskis al Äiu l' animo, kuraÄo kaj lingvo?
+  Kaj ni unue ja kiel najbaroj vivege flamiÄis.                 20
+  Jen la milito komencis kaj bandoj de Frankoj armitaj
+  AlproksimiÄis; sed ili ja Åajne alportis bonaÄµon.
+  Fakte Äin ili alportis; Äar Äies animo nun revis.
+  Ili plezure plantadis la arbojn de la libereco,
+  Nur promesinte al Äiu la lian kaj propran regadon.            25
+  Jen la junuloj ekÄojis kaj ankaÅ­ la maljunularo,
+  Vigla dancado komencis nun ÄirkaÅ­ la nova standardo.
+  Tiel la Frankoj, supere, komence, plej baldaÅ­ okupis
+  Per entreprenoj afablaj l' animon de l' viroj, kaj tiam
+  Tute la korojn virinajn per Äarmo nekontraÅ­starebla.          30
+  Åajnis la premo do eÄ de la multpostulema milito
+  Eta al ni, Äar l' espero vualis l' okazojn venontajn,
+  Kaj la rigardojn forlogis en novmalfermitan arenon.
+
+  Tempo Äarmega ja! Kiam fianÄo sin kun fianÄino
+  Svingas dancante kaj baldaÅ­ kuniÄon celatan atendas.          35
+  Sed eÄ pli bele nun, kiam vidiÄis al ni la plej alta
+  Kiel proksima nun kaj atingebla laÅ­ homa pensado.
+  Äiuj libere parolis; la viroj, junuloj kaj ankaÅ­
+  EÄ maljunuloj parolis nun laÅ­te kaj entuziasme.
+
+  Sed malheliÄis Äielo. Äar pro la estreco batalis              40
+  Malbonigita viraro, neinda por krei la bonon.
+  Unu l' alian mortigis kaj ili subpremis la novajn
+  Fratojn najbarajn kaj sendis Äi tien avidajn amasojn.
+  Äe ni diboÄis la viroj altrangaj kaj rabis senÄene
+  Kaj tielsame la malaltranguloj diboÄis kaj rabis;             45
+  Äiu nur zorgis, por ke ja nenio restadu por morgaÅ­.
+  Estis trogranda mizero kaj tagon post tago la premo
+  Kreskis; neniu aÅ­skultis la krion; kaj tiuj nur estris.
+  Jen kolerego, Äagreno ekkaptis eÄ ankaÅ­ l' animon
+  Indiferentan; nur Äiu meditis kaj Äµuris l' ofendojn           50
+  VenÄi kaj de la duoble trompita espero malgajnon.
+  Kaj la feliÄo turniÄis al flanko Germana, kaj fine
+  Tuj returniÄis la Frankoj per marÅoj rapidaj. Ho, tiam
+  Ni nur eksentis la sorton malgajan de tiu milito!
+  Äar la venkinto ja estas potenca kaj bona; almenaÅ­            55
+  Åajne; la viron venkitan indulgas li kiel propraÄµon,
+  Se li utilas al li Äiutage kaj servas laÅ­povo.
+  Sed forkurinto ne leÄon obeas; Äar li nur la morton
+  KontraÅ­batalas kaj nur senindulge konsumas la sian.
+  Tiam ja ankaÅ­ pasio ardiÄas kaj la malespero                  60
+  Kreas la kriman agadon el Äies profundo de l' koro.
+  Ia sanktaÄµo ne estas; li rabas Äin. La avideco
+  Seksa perfortas virinojn kaj faras plezuron teruro.
+  Äie li vidas la morton, la lastajn minutojn kruele
+  Äuas kaj Äojas pri sango kaj pri krieganta Äemado.            65
+
+  La kolerego post tio Äe ni avidege ekflamis,
+  Nun la perditan venÄadi, defendi la lastajn restaÄµojn.
+  Äiuj ekkaptis l' armilojn nun kontraÅ­ la fremdaj rabistoj,
+  Kiuj fuÄadis kun pala vizaÄo, timemaj rigardoj.
+  Tiam Äe ni sonoriloj senÄese svingataj bruadis                70
+  Kaj la danÄero venonta ne tenis la furiozantojn.
+  AliformiÄis rapide la paca ilaro de l' kampo
+  Nun al armiloj, kaj sango gutegis de forkoj, falÄiloj.
+  La malamiko pereis nun sen amnestia indulgo;
+  Äie nur koleregeco kaj malkuraÄeco kaj ruzo                   75
+  Nun furiozis. Mi plu ne revidu samspecan eraron
+  Homan! La besto sovaÄa ja estas pli bona vidaÄµo.
+  Iu parolu ne pri libereco, ha, kvazaÅ­ sin mem li
+  Povus regadi! VidiÄas libera tuj Äio malbona,
+  Kiam bariloj forestas, Äi flanken forpuÅas la leÄon.â         80
+
+  âViro bonega!â post tio la pastro gravege rediris:
+  âSe vi la homon riproÄas, pro tio mi ne vin mallaÅ­di
+  Povas, Äar vi ja sufiÄan malbonon suferis pro tiuj
+  Faktoj teruraj! Sed nun rigardante la tagojn malgajajn
+  Ree, vi certe konsentus, ke ofte vi ankaÅ­ bonaÄµon             85
+  Vidis, ja kelkon bonegan en koro sekrete restintan,
+  Se la danÄero ne tiun ekscitas kaj homon mizero
+  UrÄas, ke kiel anÄelo li al la aliaj vidiÄis.â
+
+  Nun kun rideto respondis la estro maljuna kaj inda:
+  âVi memorigas prudente min, kiel ni mastron malÄojan          90
+  Ofte post brulo de l' domo pri oro, arÄento avizas
+  Eble en rubo kuÅanta, fandita nun kaj disÄµetita.
+  Vere, Äi estas malmulta, sed certe Äi tio valora,
+  Kaj Äin elfosas la malriÄiÄinta kaj Äojas pri l' trovo.
+  Tiel mi turnas la pensojn serenajn volonte al tiuj            95
+  Tagoj malmultaj sed bruaj, en mia memoro restintaj.
+  Ja, mi ne povas Äin nei, mi vidis eÄ malpacemulojn
+  Sin repacigi por savi la urbon de io malbona,
+  AnkaÅ­ la amon de kelkaj amikoj, gepatroj, infanoj
+  Riski neeblon, ja, kiel subite junulo viriÄis                100
+  Kaj maljunulo juniÄis, kaj eÄ junuliÄis infano.
+  Ja, kaj la âgento malfortaâ, pri kiu tre ofte ni mokas,
+  Forta vidiÄis kaj brava kaj de atentema spirito.
+  Tuj do mi volas precipe aludi la faron bravegan,
+  Kiun bonega knabino plej grandaanime plenumis,               105
+  Kiu en granda bieno postrestis nur kun knabinetoj
+  Sola; Äar kontraÅ­ la bando fremdula la viroj foriris.
+  Jen diskurinta amaso de tiaj kanajloj, rabante,
+  Tiun bienon atakis kaj Äµetis sin tuj en la Äambron
+  De la virinoj. Nun ili ekvidis la belan knabinon,            110
+  La knabinetojn aliajn, la preskaÅ­ ankoraÅ­ infanajn.
+  Jen avideco sovaÄa ekkaptis la virojn; sensente
+  Ili kuregis al tiu tremanta anaro kaj tiu
+  Grandaanima knabino. Sed tuj Åi forkaptis al unu
+  Sabron de l' flanko kaj teren lin batis; li falis sangante.  115
+  Poste per batoj tutviraj Åi brave defendis la siajn,
+  Kvar de l' rabantoj Åi trafis ankoraÅ­; nun ili forkuris.
+  Tiam Åi fermis la domon kaj helpon atendis armita.â
+
+  Kiam la pastro ekaÅ­dis la laÅ­don nun pri la knabino,
+  Kreskis tuj en la animo l' espero por lia amiko,             120
+  Kaj demandonta li estus plu, kie Åi estas kaj Äu nun
+  Inter la aro malÄoja, senhejma Åi ankaÅ­ troviÄas.
+
+  Sed jen la apotekisto rapide aliris, pinÄetis
+  Tiam la pastran sinjoron kaj murmuretante parolis:
+  âFine mi trovis Äi tiun knabinon el multe da centoj          125
+  Tute laÅ­skize! Nun venu kaj vidu Åin mem per okuloj!
+  Kun vi alprenu la estron, por ke ni la pluon aÅ­skultu!â
+  Ili sin turnis, sed foren vokita jam estis de l' siaj
+  L' estro, Äar ili treege bezonis je lia konsilo.
+  Kaj nun la pastro tuj sekvis la apotekiston al breÄo         130
+  De la barilo kaj tiu ruzete almontris kaj diris:
+  âÄu la knabinon vi vidas? l' infanon Åi vindis. Kaj bone
+  Tiun malnovan katunon kaj bluan kusenotegilon,
+  Kiun Hermano en pako alportis al Åi, mi rekonas.
+  Vere! Rapide kaj bone Åi tiujn donacojn uzadis.              135
+  Signoj tre klaraj! Kaj eÄ akordiÄas la Äiuj ceteraj:
+  Kovras la ruÄa tuketo kaj levas la volbon de l' brusto,
+  Bele laÄitan, kaj nigrekoloran Åi havas korsaÄµon.
+  Zorge Åi faldis la Äemizborderon je l' krispo, el kiu
+  Åia rondforma mentono Äarmege antaÅ­en aspektas,              140
+  Gaje, libere vidiÄas de l' kapo gracia ovrondo;
+  ÄirkaÅ­ arÄentaj pinglegoj multfoje la fortaj harligoj
+  Estas volvitaj; ni, kvankam Åi sidas, la grandan staturon
+  Vidas, la jupon, la bluan, la multefaldite kaj bele
+  Äis maleoloj belformaj pendantan malsupren de l' brusto.     145
+  Estas, sendube, Äi tiu. Nun venu, por ke ni sciiÄu,
+  Äu bonmastruma knabino Åi estas kaj bona kaj virta.â
+
+  Sed, la sidantan okulesplorante, la pastro respondis:
+  âVere, mi tute ne miras, ke Åi la junulon ekravis,
+  Äar Åi plenumas la provon eÄ antaÅ­ ekvido plej sperta.       150
+  Homo feliÄa, al kiu patrina naturo donacis
+  Äustan figuron! Äar lin rekomendas Äi Äiam, nenie
+  Estas fremdulo li. Äiu volonte alvenos kaj restos,
+  Se afableco ankoraÅ­ kuniÄas kun tia figuro.
+  Mi vin certigas, Hermano Äi tie eltrovis knabinon,           155
+  Kiu belege gajigos la tagojn venontajn de l' vivo
+  Kaj al li Äiam fidele asistos kun forto virina.
+  Äar tia korpo perfekta konservas ja certe animon
+  Puran, kaj sana juneco promesas daÅ­rantan feliÄon.â
+
+  Poste la apotekisto dubeme respondis: âLa Åajno              160
+  Trompas pli ofte! Mi povas ne fidi nur al eksteraÄµo;
+  Äar mi tre ofte jam trovis Äi tiun proverbon provita:
+  AntaÅ­ ol manÄi buÅelon da salo kun novaj konatoj
+  Vi ne facile konfidu al iu; vin faros la tempo
+  Sole pli certa, Äu inda li estas kaj restos amiko.           165
+  Tial unue ni volas demandi Äe bonaj personoj,
+  Kiuj Åin konas kaj pluon rakontos nun pri la knabino.â
+
+  âAnkaÅ­ mi laÅ­das singardonâ, rediris la pastro sekvante.
+  âNi ja ne svatas por ni; kaj responde ja estas Äin fari
+  Por la aliaj.â Kaj ili iradis renkonte la bravan             170
+  Estron, jen kiu sur straton revenis Äµus multokupita.
+  Tuj singardeme la pastro prudenta parolis al tiu:
+  âDiru, ni vidis knabinon Äµus, kiu proksime sidadas
+  Sub la Äardena pomujo kaj vestojn infanajn pretigas
+  El eluzita katuno, verÅajne al Åi donacita.                  175
+  PlaÄas al ni la staturo; Åi Åajnas al ni bravulino,
+  Diru do, kion vi scias; ni petas pro celo laÅ­dinda.â
+
+  Kiam la estro aliris por vidi en tiun Äardenon,
+  Diris li: âVi jam Äi tiun nun konas, Äar kiam rakontis
+  Mi pri la faro bonega de iu bravega knabino,                 180
+  Kiu ekkaptis la glavon kaj sin kaj la siajn defendis--
+  Estis Äi tiu! Vi vidas, Åi estas el gento fortika,
+  Sed al forteco la Åia egalas boneco; parencon
+  Sian maljunan Åi flegis Äis morto, Äar lin la Äagreno
+  Pri la danÄera mizero de l' urbo kaj havo mortigis.          185
+  AnkaÅ­ Åi vere trankvile toleris dolorojn pri l' morto
+  De la fianÄo, tre nobla junulo, ho, kiu ardege
+  Kaptis la penson altegan celadi al homlibereco,
+  Kaj alirinte Paris-on suferis mem morton teruran;
+  Äar li atakis, kaj dome kaj tie, arbitron kaj ruzon.â        190
+
+  Tiel parolis la estro. Nun ambaÅ­ dankante salutis,
+  Kaj unu oran moneron la pastro elprenis (l' arÄenton
+  El la monujo li antaÅ­ ne longe bonfare fordonis,
+  Kiam li vidis trapasi la forelpelitojn malgajajn)
+  Kaj al la estro Äin donis dirante: âDividu la monon          195
+  Inter la malfeliÄuloj kaj Dio multigu la donon!â
+  Sed Äin rifuzis la viro kaj diris: âNi kelkan taleron
+  Savis kaj kelkajn vestaÄµojn kaj aÄµojn; mi certe esperas
+  Ke ni ankoraÅ­ revenos ja, antaÅ­ ol Äin ni konsumis.â
+
+  Tiam respondis la pastro kaj premis la monon en manon:       200
+  âDoni neniu prokrastu en tiuj Äi tagoj, neniu
+  Ion akcepti rifuzu do, kion boneco donacis,
+  Äar, kiel longe li havos trankvile la nunan posedon
+  Scias neniu, kaj ne, kiel longe li restos fremdulo,
+  Devos rezigni je l' kampo, Äardeno, lin bone nutrantaj.â     205
+
+  âSe mi do havusâ--post tio la apotekisto ekkriis
+  Tede, ânun monon en poÅo, vi Äion ricevus, valoran,
+  Malpli valoran; Äar multe da viaj ja tian bezonas.
+  Tamen mi vin ne forlasos sen ia donaco, por ke vi
+  Vidu la volon, eÄ kiam la faro postrestas post volo.â        210
+
+  Tiel li diris, eltiris la ledan broditan saketon
+  Per la rimenoj, en kiu tabako troviÄis, gracie
+  Äin nun malfermis, dividis; sufiÄis por kelke da pipoj.
+  âEstas malgranda donacoâ, li diris. Sed l' estro maljuna
+  Gaje rediris: âBonega tabako ja estas agrabla                215
+  Dum la vojaÄo.â Treege Äin laÅ­dis la apotekisto.
+
+  Sed lin la pastro fortiris kaj ili disiÄis de l' estro.
+  âNi rapidiÄuâ,--ekkriis la viro prudenta,--âtimeme
+  Nin la junulo atendos. Li baldaÅ­ ekaÅ­du gajaÄµon.â
+  Ili rapide alvenis kaj trovis lin apud la Äaro               220
+  Sub la tilioj. La bestoj vivege la herbokovraÄµon
+  Frapis: li ilin je brido tenadis kaj staris pripense,
+  AntaÅ­ si nun rigardante li nur la amikojn rimarkis,
+  Kiam lin ili venantaj alvokis per signoj gajigaj.
+  De malproksime jam l' apotekisto komencis paroli;            225
+  Sed pli proksime nun ili aliris. La pastro manprenis
+  Tiam lin kaj, forprenante al sia kunulo la diron,
+  Diris; âHa, savon! junulo! elektis l' okulo kaj via
+  Koro fidela tre Äuste! FeliÄon al vi kaj la via!
+  Inda Åi estas, kaj tial nun venu kaj turnu kaleÅon,          230
+  Ke ni atingu l' angulon de tiu vilaÄo! Åin svatu
+  Kaj Åin, la bonan, konduku plej baldaÅ­ al patra bieno!â
+
+  Sed la junulo staradis kaj, Äojon nun ne vidigante,
+  AÅ­dis li tiujn Äielajn konsolajn parolojn de l' pastro,
+  Äemis kaj diris: âNi venis per rapidiÄanta kaleÅo            235
+  Kaj ni kredeble veturos kun honto kaj nur malrapide
+  Hejmen; Äar, ho, min ekkaptis, de kiam mi tie atendis,
+  Zorgo, suspekto kaj dubo kaj kio turmentas amanton.
+  Äu vi fidadas, ke Åi al ni sekvos tuj kiam ni venos,
+  Tial ke riÄaj ni estas, sed Åi elpelita, malriÄa             240
+  Vagas? Ho, eÄ malriÄeco, la nemeritita, fieron
+  Kreas. Åi Åajnas ja kontentiÄema, agema kaj tial
+  Mondo al Åi apartenas; Äu vere ne tia virino,
+  Tiel belega, bonega, jam iun junulon ekscitis?
+  Äu vi supozas, ke Åi Äis hodiaÅ­ fermadis la koron?           245
+  Ni ne rapide veturu Äis tien! Trankvile ni eble
+  Domen la bestojn returnos je nia hontiÄo. Mi timas:
+  Iu junulo posedas la koron; la manon bravegan
+  Åi promesinte fidelon jam donis al iu feliÄa.
+  AntaÅ­ Åi tre hontigite mi starus kun mia propono.â           250
+
+  Por lin konsoli la pastro malfermis la buÅon jam, tamen
+  Lia kunulo lin tuj interrompis nun komunikeme:
+  âTiel neniam ni estus ja embarasitaj pli frue,
+  Kiam ni Äian aferon laÅ­ modo tiama finigis!
+  Kiam gepatroj knabinon elektis edzino por filo,              255
+  Oni unue alvokis konfide amikon de l' domo;
+  Tiun Äi oni post tio alsendis nun kiel svatiston
+  Al la gepatroj de la fianÄino; li belornamita
+  Tiam vizitis dimanÄe post meztagmanÄado la burÄon,
+  Kun li komence parolojn afablajn komunajn ÅanÄante           260
+  Kaj jam prudente turnante la diron laÅ­ sia intenco.
+  Fine post longa preteksto li ankaÅ­ aludis glorante
+  Ties filinon kaj ankaÅ­ la viron kaj domon, de kiu
+  Estis sendita li. SaÄaj personoj rimarkis la celon
+  BaldaÅ­; li sentis aprobon kaj povis la pluon klarigi.        265
+  Se oni tiun proponon rifuzis, ja tia rifuzo
+  Estis ne teda; sed se li sukcesis, svatisto l' unua
+  En familio kaj domo Äeestis al Äia festeno.
+  Äar la geedzoj memoris dum tuta la vivo, ke lerta
+  Mano la nodon unuan ligadis. Sed Äio Äi estas                270
+  Nun kun aliaj bonegaj kutimoj ja ne plu laÅ­modo,
+  Äiu junulo nun mem por si svatas. Jen kial li ankaÅ­
+  Prenu sur sin propramane rifuzon al li fariÄontan
+  Eble, kaj mem hontigite li staru nun antaÅ­ knabino.â
+
+  âEstu do, kiel Äi estas!â respondis Hermano. Li preskaÅ­      275
+  Ne la parolojn aÅ­skultis kaj jam decidiÄis sekrete;
+  âMem nun mi iros kaj volas sciiÄi pri mia vivsorto
+  Mem el la buÅo de tiu knabino, al kiu konfidas
+  Tiel mi, kiel ajn viro konfidas al ia virino.
+  Kion Åi diros, Äi estos prudenta kaj bona, mi scias.         280
+  Se mi Åin ankaÅ­ lastfoje ekvidos, mi tamen denove
+  Volas ankoraÅ­ renkonti nun tiun puregan rigardon
+  De la nigrega okulo, eÄ se mi ne premos al koro
+  Åin nun, la bruston kaj Åultrojn, ha, kiujn mi kore deziras
+  ÄirkaÅ­prenadi, kaj ankaÅ­ la buÅon rigardi, ho, kies          285
+  Kiso kaj âjesâ feliÄigos min, malfeliÄigos la neo.
+  Sed nun forlasu min! Vi ne atendu! Reiru al patro
+  Kaj al patrino, ke ili sciiÄu, ke mi ne trompiÄis
+  Kaj la knabinon vi inda estimas. Jes, lasu min sola!
+  Sur la limvojo trans tiu monteto kaj preter pirujo           290
+  Nia, malsupren sur nia vinmonto mi ja pli proksime
+  Domen reiros. Ho, ke mi la bonegulinon rapide
+  Hejmenkonduku kaj gaje! Sed eble mi sola sekrete
+  Domen reglitos kaj Äoje ne iros denove la vojojn.â
+
+  Tiel dirinte li donis al pastro la bestkondukilojn.          295
+  Tiu Äi ilin tutsperte ekkaptis, la bestojn ÅaÅ­mantajn
+  Regis, rapide eniris kaleÅon kaj de l' kondukanto
+  Sidon okupis. Sed l' apotekisto atendis dirante:
+  âMi ja volonte transdonas al vi, plejkarulo, l' animon
+  Kaj la spiriton, sed korpo kaj ostoj ne bone Åirmataj        300
+  Estas, se al si proprigas la pastro la mondan gvidilon.â
+
+  Sed jen la pastro prudenta ridetis al tio kaj diris:
+  âHa, nur eniru, transdonu senzorge al mi nur la korpon
+  Kiel l' animon! mi longe jam bestkondukilojn uzadi
+  Scias, kaj sperte la Äaron laÅ­ deco kaj arto turnadi.        305
+  Äar mi kutimis en Strassburg direkti la etan kaleÅon,
+  Kiam mi tien kondukis la junan baronon; ruliÄis
+  Ja Äiutage kaleÅo, de mi direktita, eksteren
+  Tra la sonanta pordego Äis malproksimegaj herbejoj,
+  Meze tra aroj da homoj, Äi tie plezure irantaj.â             310
+
+  Iom nun trankviligita la apotekisto eniris,
+  Sidis, sed kiel al tuja elsalto singarde pretega.
+  Nun la Äevaloj, avidaj je l' stalo, kuregis al hejmo,
+  Kaj sub iliaj fortegaj hufegoj polvaro naskiÄis.
+  Longe ankoraÅ­ Hermano staradis--vidante la polvon,           315
+  Jen leviÄantan kaj jen disflugantan--sen ia pensado.
+
+
+
+
+VII. Erato.
+
+Doroteo.
+
+
+  Kiel la viro migranta Äe sunmalleviÄo la sunon
+  Foje ankoraÅ­ atente rigardas, la Äµus foriÄantan,
+  Äian la bildon tiame ekvidas en tute malluma
+  Arbetareto kaj Äe la apuda Åtonego, kaj Äie
+  Äi balanciÄas, en plej diversspecaj koloroj brilanta:          5
+  Tiel la Äarma figuro de lia knabino moviÄis
+  AntaÅ­ Hermano preteren kaj Åajnis eniri grenkampon.
+  Sed li subite vekiÄis el sonÄo miriga, trankvile
+  Turnis sin al la vilaÄo kaj ree miregis; Äar ree
+  Venis renkonte al li nun la alta belega knabino.              10
+  Fikse rigardis li Åin; Åi ne estis fantomo; Åi vere
+  Venis. Åi paÅis portante kruÄegon kaj kruÄon malgrandan,
+  Äe la prenilo po unu, zorgeme en mano, al puto.
+  Äoje li iris renkonte al Åi. La vidaÄµo redonis
+  Forton al li kaj kuraÄon. Åi miris, sed vive li diris:        15
+  âNun mi renkontas denove vin, kara knabino, kaj ree
+  Jam okupitan asisti aliajn helpeme, volonte!
+  Diru nur, kial vi venas al tiu Äi fonto ekstera,
+  Dum kontentiÄas l' aliaj per akvo de tiu vilaÄo?
+  Certe Äi tiu aparte fortigas kaj havas Äarmguston.            20
+  Äu vi alportos Äin al la malsana virino, fidele
+  De vi savita?â Tuj gaje salutis Åi nun la junulon:
+  âNun mi ja havas Äi tie jam la rekompencon de l' iro,
+  Vin, la bonulon, mi trovis ja, kiu alportis multegon
+  Por ni; Äar kiel donacoj Äojigas, Äojigas l' aspekto          25
+  De l' donacinto. Nun venu kaj vidu do, kiuj ricevis
+  Vian bonaÄµon, akceptu la dankon de l' refreÅiÄintoj!
+  Sed ke vi aÅ­du nun, kial mi venis elÄerpi Äi tie,
+  Kie senÄese kaj pure la fonto elfluas, mi diras
+  Jenon al vi: Nesingardaj el ni malklarigis la tutan           30
+  Akvon vilaÄan, Äar ili travadis kun bovoj, Äevaloj
+  Tuje la fonton, donantan al Äiuj loÄantoj la akvon.
+  Per la purigo kaj lavo nun estas la trogoj vilaÄaj
+  Malpurigitaj kaj ankaÅ­ eÄ makulegitaj la putoj.
+  Äiu nur pensis sin mem kontentigi rapide kaj baldaÅ­           35
+  Sian plej urÄan bezonon, kaj ne pri l' afero venonta.â
+
+  Tiel dirante Åi kun la kunulo alvenis la larÄajn
+  Åtupojn malsupren; nun ili sidigis sin sur la mureton
+  Rondan de l' puto. Åi klinis sin por elÄerpadi la akvon,
+  Kaj li ekkaptis la kruÄon alian kaj ankaÅ­ sin klinis.         40
+  Ili ekvidis nun siajn vizaÄojn, la speguliÄantajn
+  En la Äiela bluaÄµo kaj gaje salutis sin ambaÅ­.
+  âLasu min trinkiâ, post tio gajege parolis Hermano;
+  Kaj Åi prezentis la kruÄon. Nun ambaÅ­ ripozis, kviete
+  Sin apogante sur kruÄo po unu; kaj tiam Åi diris:             45
+  âDiru do, kial mi trovas vin tie Äi sen veturilo
+  Kaj sen Äevaloj nun, tro malproksime de l' loko en kiu
+  Jam mi vin vidis, kaj kiel vi venis?â Hermano pripense
+  Teren rigardis; kaj tiam li Åin ekrigardis afabla
+  Kaj li esperis; sed plue paroli pri amo, neeble               50
+  Estis al li nun; Äar Åia okulo ne montris la amon
+  Sed nur prudenton kaj klare postulis, prudente paroli.
+  Li trankviliÄis rapide kaj poste afable parolis:
+  âTion mi diros, knabino, kaj viajn demandojn respondos!
+  Venis pro vi nur Äi tien mi! Kial ankoraÅ­ Äin kaÅi?           55
+  Äar mi vivadas feliÄe kun miaj amantaj gepatroj,
+  Kiujn mi helpas fidele mastrumi la domon, bienon,
+  Kiel la filo, la sola, kaj niaj aferoj multoblaj
+  Estas. La kampojn mi zorgas; la patro disponas en domo
+  Kaj la patrino agema vivigas la tutan mastraÄµon.              60
+  Certe vi scias jam, kiom per malfideleco turmentas
+  La servistaro mastrinon kaj per la facilanimeco,
+  Äiam devigas Åin, ÅanÄi kaj Äiajn erarojn korekti.
+  Tial jam longe deziris patrino, la mia, knabinon
+  Dome ja, kiu ne sole per mano sed ankaÅ­ el koro               65
+  Helpus, anstataÅ­ filino, la frue, bedaÅ­re, mortinta.
+  Kiam nun vin mi Äojlerta hodiaÅ­ Äe l' Äaro ekvidis,
+  Kaj la fortecon de l' brako kaj plenan sanecon de l' membroj,
+  Kiam mi aÅ­dis la dirojn prudentajn, mi tute miregis,
+  Domen rapidis kaj gloris nun tuj laÅ­merite la fremdan         70
+  Inon al miaj gepatroj, amikoj. Por ke mi sciigu
+  Vin pri iliaj deziroj kaj miaj mi venis. -- Pardonu
+  La balbutatan diradon. âSed tuj Åi elvokis:â Ne timu
+  Pluon paroli; vi ne min ofendas, mi danke sentadas.
+  Diru senÄene! Min tia parolo ne povas timiÄi.                 75
+  Kiel bienservistinon vi dungus min al la gepatroj,
+  Pro mastrumado de l' domo, de l' bonkonservita propraÄµo;
+  Vi opinias en mi la kapablan knabinon eltrovi,
+  Spertan je Äia laboro kaj virtan kaj tute fidelan.
+  Via propono nur estis mallonga; jen estu egala                80
+  Mia respondo: Jes, mi kun vi iros kaj sekvos sortvokon.
+  Mi ja plenumis la devon, alportis la akuÅintinon
+  Ree al Åiaj parencoj kaj Äiuj la savon priÄojis;
+  Jam la plej multaj kunestas, kaj ankaÅ­ l' aliaj alvenos.
+  Äiuj esperas post kelke da tagoj ja hejmen reveni;
+  Tiel de l' forelpelito kutimo ja estas, esperi.               85
+  Tamen mi mem ne trompiÄas per vanta espero, en tiuj
+  Tagoj malÄojaj, al ni promesantaj ankoraÅ­ aliajn;
+  Äiuj Äar ligoj de l' mondo solviÄis kaj ilin denove
+  Äiujn kunligos nenio ol nur la plej granda mizero!            90
+  Se mi servante Äe viro bonega min povos nutradi
+  Kaj Äe aÄema virino, mi faros volonte Äin; Äiam
+  Pri la vaganta knabino malice la homoj moketas.
+  Jes, mi vin sekvos, tuj kiam al miaj amikoj mi portis
+  Tiujn Äi kruÄojn kaj petis ankoraÅ­ la benon de ili:           95
+  Venu! Vi vidu Äi tiujn, ke min vi de ili ricevu.â
+
+  Äoje ekaÅ­dis Hermano de l' preta knabino decidon,
+  Dube, Äu li nun konfesu la tutan veraÄµon. Sed Åajnis
+  Esti al li konsilinde, Åin lasi en Åia bonkredo,
+  Åin nur konduki al hejmo, kaj tie klopodi pro amo.           100
+  Ha! Jen li vidis orringon Äe l' fingro de l' kara knabino!
+  Kaj li Åin lasis paroli, atente aÅ­dante la diron.
+  Sed Åi daÅ­rigis: âNi reen nun iru! Knabinojn Äe l' puto
+  Longe restantajn ja oni mallaÅ­das nur Äiam; kaj tamen
+  Estas tro Äarme babili Äe ia fluanta fontakvo.â              105
+  Ili ekstaris kaj foje ankoraÅ­ nun ili rigardis
+  Ree la puton kaj ambaÅ­ jen ilin ekkaptis sopiro.
+
+  Poste silente Åi prenis la kruÄojn po Äe la prenilo
+  Kaj supreniris la Åtupojn; li sekvis l' amatan knabinon,
+  Unu de l' kruÄoj de Åi, por dividi la ÅarÄon, li petis.      110
+  âLasu,â Åi diris, âpli bone la ÅarÄon egalan mi portos.
+  Kaj ne la mastro, la poste estonta, nun devas min servi.
+  Ne min rigardu do tro serioze, eÄ kvazaÅ­ la sorto
+  Mia nun estus dubinda! Äusttempe eklernu virino
+  LaÅ­ la destino servadi! Äar sole per tio alvenos             115
+  Fine Åi al la regado kaj povo konvena, en hejmo
+  Apartenanta al Åi. Ha! Unue fratino ja servas
+  Fraton kaj tiam gepatrojn kaj Äiam Äiama irado
+  Kaj revenado, levado, portado, zorgado por iuj
+  Åian vivadon regadas; kaj bone, se Åi nun kutimas,           120
+  Ke tro maldolÄa nenia vojeto fariÄu, ke l' horoj
+  Nokte kaj tage egalu, kaj Åi ne tro grava laboron
+  Trovu, ke Åi sin forgesu kaj vivu nur por la aliaj!
+  Certe, patrino bezonas la virtojn ja Äiujn, tuj kiam
+  La suÄinfano, vekante la malsanulinon, postulas              125
+  Sian nutraÄµon, kaj zorgoj aliÄas al Åiaj doloroj.
+  Dudek da viroj eÄ kune ne tian turmenton tolerus;
+  Ili ne devas plenumi Äin, sed Äin dankeme kompreni.â
+
+  Tiel Åi diris kaj venis kun sia silenta kunulo
+  Tra la Äardeno, kaj Äis la draÅejo de tiu garbejo,           130
+  Kie la akuÅintino troviÄis nun, kiu Åin gaje
+  Kun la savitaj filinoj, emblemoj de virto, atendis.
+  AmbaÅ­ eniris kaj de aliflanke samtempe eniris
+  L' estro Äe Äiu de l' manoj tenante infanon. Äi tiuj
+  Äis nun perdiÄis de sia Äemanta patrino. Sed ilin            135
+  Tiu maljuna eltrovis nun el la svarmado. Kaj ili
+  Gaje alsaltis, saluti la karan patrinon, kaj Äojis
+  Pri la frateto, la tutnekonata Äis nun kunludonto;
+  Tiam alsaltis la du Doroteon kaj gaje salutis
+  AnkaÅ­ Åin, panon petante kaj fruktojn, precipe trinkaÄµon.    140
+  Nun Åi prezentis la akvon al Äiuj. L' infanoj tuj trinkis,
+  Trinkis kun siaj filinoj la akuÅintino kaj fine
+  L' estro; nun Äiuj satinte laÅ­degis la akvon belegan;
+  Estis Äi ja acideta kaj freÅa, saniga por Äiuj.
+
+  Nun Doroteo parolis, ÄirkaÅ­en vidante, pripense:             145
+  âEble lastfoje mi, vi geamikoj, prezentas la kruÄon,
+  Por el Äi trinki, kaj nun malsekigas la lipojn per akvo;
+  Tamen vi, kiam dum tago varmega vin trinko freÅigos,
+  Kaj vi Äuados en ombro trankvilon kaj fontojn la purajn,
+  Tiam memoru do ankaÅ­ pri mi kaj pri l' servo afabla,         150
+  Kiun mi pli pro la amo ol pro parenceco plenumis!
+  Äiun bonfaron de vi dum la vivo estonta mi dankos.
+  Mi ne volonte forlasas vin; Äiu sed estas nuntempe
+  Al la alia pli ÅarÄo ol ia konsolo, kaj Äiuj
+  Fine ni devos disiÄi ja, se ni ne povos reiri.               155
+  Vidu Äi tiun junulon, al kiu ni Åuldas la donojn,
+  Tiun Äi kovron por via infano kaj tiujn manÄaÄµojn
+  Tute Åatindajn. Äi tiu min dungis por sia bieno,
+  Por ke mi servu Äi tie la riÄajn bonegajn gepatrojn.
+  Mi ne rifuzas; Äar Äie knabino servadas kaj por Åi           160
+  ÅarÄo fariÄus, servate ripozi anstataÅ­ labori.
+  Tial volonte mi sekvos, li Åajnas prudenta junulo,
+  Kaj tielsamaj do estos nature la riÄaj gepatroj.
+  Tial adiaÅ­, amata karino, kaj Äoju pri via
+  SuÄinfaneto, jen kiu vin jam tutprudente rigardas!           165
+  Kiam vi poste Äin premos al brusto en tiuj bindaÄµoj
+  Multekoloraj, memoru pri l' bona junulo, jen, kiu
+  Ilin alportis kaj min nun, la vian, nutrados, vestigos!
+  Kaj mi vin dankas koregeâ--Åi diris al l' estro maljuna,
+  âViro bonega, ke vi por mi estis multfoje la patro.â         170
+
+  Poste genuis Åi al la akuÅiÄintino, kisadis
+  Nun la plorantan virinon kaj aÅ­dis de l' beno murmuron.
+  Dume la estro, la tre honorinda, parolis al Herman':
+  âVi apartenas, amiko, sendube al mastroj bonegaj,
+  Kiuj zorgadas mastrumi kun homoj kapablaj kaj bravaj.        175
+  Mi ja jam ofte observis, ke oni Äevalojn kaj bovojn
+  AnkaÅ­ la Åafojn detale rigardas dum ÅanÄo, komerco;
+  Homon nur, kiu konservas la tuton, se bona li estas,
+  Sed kiu Äion detruas kaj disas per falsa uzado,
+  Tiun Äi oni alprenas nur kvazaÅ­ laÅ­ Åanco en domon           180
+  Kaj tro malfrue pentante decidon trorapidiÄintan.
+  Åajnas, ke bone vi scias Äin; Äar vi elektis bravegan,
+  Bonan knabinon por servi al vi kaj al viaj gepatroj.
+  Sciu Åin Åati nur! Äiam, dum kiam Åi pro l' mastrumado
+  Penos, al vi kaj gepatroj ne mankos fratino, filino.â        185
+
+  Dume alvenis parencoj de tiu akuÅiÄintino,
+  Kelkon portante kaj eÄ anoncante pli bonan loÄejon.
+  Äiuj aÅ­skultis de l' kara knabino decidon kaj benis
+  Nun kun signifaj ekvidoj kaj pensoj apartaj Hermanon.
+  AnkaÅ­ parolis virino al iu alia mallaÅ­te:                    190
+  âSe el la estro fariÄos fianÄo, Åi venis havenon.â
+
+  Poste Åin prenis Hermano Äe l' mano kaj diris: âNi iru!
+  Jam ekfiniÄas la tago, l' urbeto ne estas proksima.â
+  Vivbabileme la multaj virinoj nun Åin ÄirkaÅ­prenis.
+  Foren Åin tiris Hermano kaj multajn salutojn Åi mendis.      195
+  Sed jen l' infanoj kriante kaj laÅ­tploregante Åin prenis
+  Äe la vestaÄµoj, ne volis forlasi la duan patrinon.
+  Tamen nun kelkaj virinoj ordone parolis: âInfanoj,
+  Nun trankviliÄu! Åi iros al urbo kaj reen alportos
+  DolÄajn, bonegajn frandaÄµojn, de frato por vi ja menditajn,  200
+  Kiam lin super la sukeraÄµistoj Äi tien flugportis
+  La cikonio, kaj baldaÅ­ vi vidos Åin kun sukeraÄµoj.â
+  Jen la infanoj eklasis Åin, kaj Åin apenaÅ­ Hermano
+  Povis forÅiri el ÄirkaÅ­prenadoj kaj lastaj salutoj.
+
+
+
+
+VIII. Melpomene.
+
+Hermano kaj Doroteo.
+
+
+  Ili nun iris renkonte al suno la malleviÄanta,
+  Kiu sin, jam avizante fulmtondron, profunde en nuboj
+  KaÅis kaj el la vualo jen tien, jen tien Äi lumis
+  Super la kampojn per flamaj kaj suspektigantaj radioj.
+  âKe ne alportu la nun minacanta vetero pluvegonâ,              5
+  Diris Hermano, âkaj hajlon, Äar bela ja estos rikolto.â
+  Kaj pri la greno altkreska kaj ÅanceliÄanta ekÄojis
+  Ili nun, kiu la altajn paÅantajn staturojn atingis
+  PreskaÅ­. Sed jen Doroteo al l' akompananto parolis:
+  âBaldaÅ­, bonulo, al kiu precipe mi Åuldas afablan             10
+  Sorton kaj hejmon, ha, dume ekstere ventego minacas
+  Äiujn aliajn senhejmajn, instruu min pri la gepatroj,
+  Kiujn fervore servadi mi estas volema; se iu
+  Konas la mastron, li povas al li pli facile sufiÄi,
+  Se li pripensas la aÄµojn al tiu laÅ­Åajne plej gravajn         15
+  Kaj deziratajn de li plej volonte aÅ­ jam destinitajn.
+  Tial ekdiru: Kiamaniere mi gajnos la patron
+  Kaj la patrinon?â La bona prudenta junulo respondis:
+  âCerte vi estas tutprava, vi kara, perfekta knabino,
+  Ke vi unue demandas pri de la gepatroj proprecoj.             20
+  Vere! Äar vane mi penis Äis nun kontentigi la patron,
+  Kiam mi zorgis pri nia mastraÄµo samkiel pri mia,
+  Frue, malfrue la kampon, vinmonton kaj Äion prizorgis.
+  Mian patrinon mi ja kontentigis, Åi sciis min Åati.
+  AnkaÅ­ Åi vin el la plej diligentaj knabinoj preferos,         25
+  Se vi mastrumos en domo, pensante zorgadi la vian.
+  Tia ne estas la patro; la Åajnon li ankaÅ­ estimas.
+  Bona knabino, ne trovu min tute senkora, sensenta,
+  Ke mi la patron al vi, fremdulino, malkaÅe priskribas:
+  Ja, mi Äin Äµuras, ke estas la fojo unua, ke tia               30
+  Diro memvole forlasas la langon, alie silentan.
+  Sed vi ja logas el brusto la mia nun Äiun konfidon.
+  Kelkan ornamon postulas en vivo la patro, la bona,
+  AnkaÅ­ li signojn eksterajn de l' amo, estimo deziras;
+  Eble li estus kontenta pri ia malbona servisto,               35
+  Kiu lin scias flateti, kaj eÄ malfavorus pli bonan.â
+
+  Äoje al tio Åi diris, samtempe la paÅojn rapidajn
+  Nun facilmove sur vojo mallumiÄadanta ankoraÅ­
+  Duobligante: âMi certe esperas ilian kontenton;
+  Äar la patrina sentado egalas al mia esenco,                  40
+  Kaj la eksteran ornamon mi Åatas de l' tempo infana.
+  Niaj najbaroj, la Frankoj, tre Åatis en tempoj pli fruaj
+  HomÄentilecon, Äi estis kaj al nobeluloj kaj burÄoj
+  Kaj vilaÄanoj mempropra, kaj ili Äin plu rekomendis.
+  Tiel ja ankaÅ­ Äe ni Germanflanke esprimis l' infanoj          45
+  Per manokisoj kaj genufleksetoj matene kutime
+  Benodezirojn al siaj gepatroj kaj estis modestaj
+  Tage. Ja, kion mi lernis kaj de l' infaneco kutimis,
+  Kion la koro ordonas--mi Äion al patro plenumos.
+  Sed kiu nun al mi diros: Kiamaniere kondutu                   50
+  Poste mi mem en rilato al vi, la estonta domestro?â
+
+  Tiel Åi diris kaj ili Äµus sub la pirujo alvenis.
+  Brilis belege la luno, la plena, de l' vasta Äielo;
+  BaldaÅ­ noktiÄis kaj tute kovriÄis la lasta sunbrilo.
+  AntaÅ­ la du jen kuÅadis amaso da lumoj taghelaj               55
+  Kaj la ombregoj de l' nokto malluma. Hermano aÅ­skulti
+  Åian afablan demandon volonte en ombro de tiu
+  Arbo belega, sur loko de li plej amata, kaj kiu
+  Vidis ankoraÅ­ hodiaÅ­ la larmojn pri l' elpelitino.
+  Kiam nun ili sidiÄis, por ankaÅ­ malmulte ripozi,              60
+  Diris l' amanta junulo, la manon la Åian prenante:
+  âLasu paroli la koron, libere obeu Äin Äielâ.
+  Sed li ne pluan parolon riskemis--la horo ja Åajnis
+  Esti favora--li timis nur Åian trofruan rifuzon.
+  Ha! Kaj li sentis la ringon Äe l' fingro, doloran la signon.  65
+  Ili do sidis nun kune trankvile, silente. Komencis
+  Jen la knabino: âHa, kiel dolÄega mi trovas la belan
+  Brilon de luno! Äi al la klareco de l' tago similas.
+  Tie en l' urbo mi vidas tutklare la domojn kaj kortojn,
+  Äe la frontono fenestron; facile mi nombrus la vitrojn.â      70
+
+  âKion vi vidas,â respondis al tio la gaja junulo,
+  âNia loÄejo ja estas, en kiu mi vin nun kondukos,
+  Kaj la fenestro Äi estas fenestro de mia Äambreto,
+  Kiu kredeble fariÄos la via; ni ÅanÄos en domo.
+  Tiuj Äi kampoj, la maturiÄantaj al posta rikolto,             75
+  Estas la niaj; Äi tie en ombro ni poste ripozos!
+  Sed ni nun iru malsupren tra nia vinmonto, Äardeno;
+  Äar, vidu, alproksimiÄas jam la fulmotondro gravega,
+  Tie sentondre fulmante, kovronte la Äarman plenlunon.â
+  Ili ekstaris kaj migris malsupren la kampon nun plue          80
+  Tra la grandega grenaro, Äojante pri l' nokta klareco,
+  Al la vinmonto alvenis kaj en malhelaÄµon eniris.
+
+  Tie Äi Åin li gvidadis malsupren la multajn plataÄµojn,
+  Kiuj kuÅadis tutnepretigite jam kiel ÅtonÅtupoj.
+  Åi malrapide malsupren paÅadis, la manon sur liaj             85
+  Åultroj, kaj tra l' foliaro la luno tremanta rigardis,
+  AntaÅ­ ol Äi nun kovrite de nuboj la paron relasis
+  En malhelaÄµo, sur ilin. Li zorge kaj forte subtenis
+  Åin. Sed Åi neinformite pri l' vojo kaj krudaj ÅtonÅtupoj
+  Unu maltrafis; tuj krakis piedo; Åi estis falonta.            90
+  Tuj la zorgema junulo sin turnis, etendis la brakon
+  Kaj l' amatinon starigis; sed Åi malleviÄis malpeze
+  Al li sur Åultron; jen brusto al brusto kaj vango al vango
+  AmbaÅ­. Kaj tiel li staris, rigide, ja kiel marmoro,
+  Kaj sin regante li Åin ne alpremis pli forte; li kontraÅ­      95
+  Åian pezaÄµon apogis sin. Jen li sentadis la Äarman
+  ÅarÄon, de l' koro varmecon, la spiron balzaman de lipoj,
+  Portis kun vira sentado la bravan, heroan virinon.
+
+  Tamen Åi kaÅis doloron kaj diris la vortojn Åercantajn:
+  âTio signifas Äagrenon--la homoj dubemaj parolas--           100
+  Se la piedo, la domeniranta, proksime de l' sojlo
+  Krakas; mi estus ja nun dezirinta pli bonan versignon!
+  Iom restadu ni, por ke vin ne la gepatroj mallaÅ­du
+  Pro l' servistino lamanta, kaj Åajnu vi mastro malbona.â
+
+
+
+
+IX. Urania.
+
+Plenumo.
+
+
+  Muzoj, vi, kiuj volonte favoras la amon koregan,
+  Äis nun sur vojo kondukis la bravan junulon, al lia
+  Brusto ankoraÅ­ ja antaÅ­ la fianÄiÄfesto knabinon
+  Premis: Bonvolu do helpi konfirmi la ligon de l' Äarma
+  Paro, tuj distri la nubojn, Äenantajn l' ambaÅ­an feliÄon!      5
+  Plue precipe rakontu do, kio nun dome okazas!
+
+  Nun la mastrino jam malpacience eniris je l' tria
+  Fojo la Äambron de l' viroj--apenaÅ­ Åi Äin nur forlasis--
+  Pri l' fulmotondro venonta, pri l' lunmallumiÄo rapida,
+  Pri l' forrestado de l' filo kaj pri la danÄeroj de l' noktoj 10
+  Paroladante kaj tre mallaÅ­dante l' amikojn, ke ili,
+  Ne parolinte, svatinte knabinon, forlasis Hermanon.
+
+  âNe la malbonon grandigu pli!â tede respondis la patro;
+  âÄar vi ja vidas, ke mem ni Äi tie decidon atendas.â
+
+  Sed la najbaro, sidante, trankvile komencis paroli:           15
+  âVere mi Åuldas ja en maltrankvilaj okazoj nur dankon
+  Al mia patro, Äar li al la knabo elÅiris de Äia
+  Malpacienco radikojn, ke restis neniu fibreto,
+  Kaj ke mi lernis atendi, pli bone ol Äiu alia.â
+  âDiruâ, demandis la pastro nun; âkiel Äin faris la patro?â    20
+  âÄin mi volonte rakontos, Äar tio utilos al Äiuâ,
+  Tuj la najbaro respondis: âMi kiel infano dimanÄe
+  Malpacience starante, kaleÅon sopire atendis,
+  Kiu transportus eksteren nin al la tilioj Äe l' puto.
+  Sed Äi ne venis; Äi tien kaj tien mi kvazaÅ­ mustelo           25
+  Kuris, malsupren kaj supren la Åtupojn, kaj de la fenestro
+  Äis la dompordo, kaj malkvietiÄis la manoj; mi gratis
+  Tablojn, piedobatadis ÄirkaÅ­e kaj jam mi ekploris.
+  Äion la patro trankvile rigardis, sed kiam mi fine
+  Tromalprudente kondutis, li prenis trankvile nun mian         30
+  Brakon, kondukis min al la fenestro kaj diris instrue:
+  Äu vi jen vidas la lignaÄµistejon, hodiaÅ­ fermitan,
+  Transe? Sed morgaÅ­ moviÄos segilo kaj la rabotilo,
+  Kaj de l' mateno Äis lasta taghoro jen oni laboros
+  Tre diligente. Sed tion pripensu: Mateno aperos,              35
+  Kiam la majstro kun Äiuj el siaj kunuloj penados,
+  Por vi prepari la Äerkon kaj lerte, rapide fabriki,
+  Kaj laboreme alportos la domon el ligno, ja kiu
+  Pacienculon kaj ankaÅ­ malpacienculon plejlaste
+  Certe akceptos, kaj portos eÄ baldaÅ­ premantan tegmenton.     40
+  Äion spirite mi vidis reale okazi kaj vidis
+  Jen kunmetitajn tabulojn kaj jen kolorilon la nigran;
+  Nun pacience mi sidis kaj tiel kaleÅon atendis.
+  Kiam aliaj ÄirkaÅ­e kuregas en duba atendo
+  Malpacience kaj tede nun, mi rememoras la Äerkon.â            45
+
+  Sed ridetante la pastro: âDe l' morto altega bildaÄµo
+  Ne al saÄulo teruron, piulo finiÄon signifas.
+  Tiun Äi en la vivadon repuÅas kaj igas lin agi;
+  Äi al Äi tiu fortigas l' esperon al posta feliÄo;
+  Tiel la morto fariÄas al ambaÅ­ la vivo. La patro              50
+  Montris malprave al vi, la sentema infano, la morton
+  Per mortbildaÄµo. Do de l' maljuneco valoran al knabo
+  Oni vidigu kaj al maljunulo junecon, ke Äiu
+  Äoju pri l' rondo eterna, ke vivo en vivo solviÄu!â
+
+  Ä´us malfermiÄis la pordo. VidiÄis la paro belega              55
+  Kaj la amikoj miregis kaj ankaÅ­ l' amantaj gepatroj
+  Pri la knabina figuro, simila al tiu de l' filo;
+  Ja, tro malalta nun Åajnis la pordo, la altajn staturojn,
+  Kiuj nun kune transiris la sojlon, tralasi. Hermano
+  Åin nun prezentis al siaj gepatroj, rapide dirante:           60
+  âVidu knabinon, jen, kian vi dome deziras. Amata
+  Patro, akceptu Åin bone laÅ­ Åia merito. Kaj kara
+  Panjo, tuj pri l' mastrumado entute demandu Åin, por ke
+  Vi nun sciiÄu, ke Åi bonmeritas fariÄi la via.â
+  Poste rapide li tiris aparten la pastron bonegan.             65
+  âInda sinjoro,â li diris, âmin helpu nun baldaÅ­ el tiu
+  Zorgo, malligu la nodon tuj, kies disvolvon mi timas!
+  Mi ne jam diris al Åi, ke fariÄu Åi mia edziÄo,
+  Sed servistino Åi pensas eniri la domon; mi timas
+  Ke Åi indigne foriros aÅ­dinte pri posta edziÄo.               70
+  Tuja klarigo fariÄu. Åi ne en eraro plilonge
+  Devas restadi kaj mi ne pli longe eltenos la dubon.
+  Nun rapidiÄu kaj vian saÄecon de ni honoratan
+  Montru Äi tie.â La pastro tuj turnis sin al la aliaj.
+  Sed bedaÅ­rinde nun estis jam malÄojigita l' animo             75
+  De la knabino per konversacio de l' patro. Afable
+  Kaj bonanime li estis dirinta la gajajn parolojn:
+  âTio, infano, tre plaÄas al mi, Äar mi vidas plezure,
+  Kiel la patro posedas la filo do guston; mi pruvis
+  Äin miatempe, kaj Äiam kondukis la plej belulinon             80
+  Al la dancado kaj fine venigis Åin domen: la panjon.
+  Tuj ja elekto de l' fianÄineto tutklare vidigas,
+  Kian spiriton la viro posedas kaj mem Äu li sentas
+  Propran valoran. Sed certe mallonge vi Äin konsideris?
+  Mi opinias, ke estis ne tro malfacile, lin sekvi.â            85
+
+  Nur senatente Hermano aÅ­skultis la diron, la membroj
+  Tremis al li, silentiÄis subite la Äeestantaro.
+
+  Sed la bonega knabino, nun emociita profunde
+  Kaj ofendita interne de tiaj tre mokaj paroloj,
+  SuperÅutita sur vango Äis nuko per tuja ruÄiÄo                90
+  Staris; sed Åi tuj sin regis kaj restis ekstere trankvila
+  Kiam Åi al la dommastro parolis, ne tute kaÅante
+  Siajn dolorojn: âHo, vere, al tia akcepto la filo
+  Ne min preparis; li mem ja priskribis la patron bonega;
+  Kaj mi bonscias, ke antaÅ­ vi, viro klerula, mi staras,        95
+  Kiu prudente kondutas al Äiuj, kaj laÅ­ la personoj.
+  Tamen nun Åajnas, ke vi ne sufiÄan kompaton sentadas
+  Pri mi, la malriÄulino, mi, kiu la sojlon transiris
+  Por vin servadi; alie vi certe ne montrus per akra
+  Moko, ke tre diferencas la sorto la mia de via.              100
+  Certe, malriÄe nur mi kun malgranda paketo eniras.
+  Domo per Äio por vi provizita vin igas fieraj.
+  Kiu mi estas, mi scias kaj sentas la tutan rilaton
+  Inter ni. Sed Äu nun estas kornoble per tiaj mokvortoj
+  Tuj min akcepti, min preskaÅ­ sur sojlo jam reen forpuÅi?â    105
+
+  Maltrankvilege Hermano al pastro nun faris per mano
+  Signon, ke li enmiksiÄu helpeme, l' eraron forpeli.
+  Tuj la saÄulo aliris kaj jen de l' knabino Äagrenon
+  KaÅan, bridatan doloron, plorantan okulon rigardis.
+  Sed li decidis ne tuje la dubon dissolvi, kontraÅ­e           110
+  Provi la emociplenan animon de tiu knabino.
+  Kaj li post tio al Åi per tentantaj paroloj komencis:
+  âCerte vi ne konsideris sufiÄe, fremdlanda knabino,
+  Kiam vi trorapidege pretiÄis servadi Äe l' homoj
+  Fremdaj, ha, kiom signifas, eniri la domon de l' estro;      115
+  Äar la manpremo destinas la sorton de tuta la jaro,
+  Kaj unuopa jesdiro Åuldigas vin, multon suferi.
+  Vojoj lacigaj ne estas la pleja gravaÄµo de servo,
+  AnkaÅ­ ne l' Åvito maldolÄa de Äiam urÄanta laboro;
+  Kune Äar kun la servisto penadas la mastro agema.            120
+  Sed la kapricon de l' estro elteni, se li tutmaljuste
+  Äion mallaÅ­das, aÅ­ li kun si mem malkonsente postulas
+  Tion Äi, tion; kaj plu de l' mastrino koleron facile
+  OkaziÄantan kaj de la infanoj petolajn, malklerajn
+  MalÄentilaÄµojn: Ja, tion toleri kaj lerte plenumi            125
+  Devon kaj mem ne malgaje haltadi, ne estas facile.
+  Sed vi ne Åajnas kapabla al tio, Äar Åercoj de l' patro
+  Vin jam ofendis, kaj tamen nenio pli ofte okazas
+  Ol inciteti knabinon, ke plaÄas al Åi la junulo.â
+
+  Kaj Dorotea komprenis la Äustajn bonegajn parolojn           130
+  Kaj sin ne plue retenis; montriÄis nun Åiaj sentaÄµoj,
+  Forte leviÄis la brusto, el kiu ekÄemo eliris;
+  Kaj ploregante Åi tuj nun parolis: âNeniam ja scias
+  Viro prudenta, celanta al ni dum doloro konsili,
+  Kiel malmulte nur lia rigida parolo sukcesas,                135
+  Bruston senigi je iu sufero al ni destinita.
+  Kiel do Åerco vin vundus; vi estas feliÄaj kaj gajaj!
+  Sed malsanulo eksentas eÄ plej delikatan tuÅadon.
+  Ne; Äar neniel utilus eÄ trompa Åajnigo, montriÄu
+  BaldaÅ­ nun, kio en tempoj venontaj pli grandajn dolorojn     140
+  KaÅ­zus kaj eble min puÅus en mutan mortigan mizeron.
+  Lasu min ree foriri! Äe vi mi do povas ne resti;
+  Foren mi volas kaj iros, la miajn, la tre kompatindajn
+  En malfeliÄo de mi forlasitajn, serÄadi; pli bonon
+  Nur por mi mem mi elektis. Ja tiel mi nun decidiÄis;         145
+  Tial mi povas konfesi nun, kio alie dum jaroj
+  Estus Äe mi kaÅiÄinta. Jes, trafis profunde de l' patro
+  Moko min, ne, Äar mi estas fiera, maljuste sentema,
+  Sed Äar, verdire, en koro la mia inklino naskiÄis
+  Al la junulo, jen kiu hodiaÅ­ helpinto aperis.                150
+  Kiam li min nur forlasis sur strato, mi lin rememoris
+  Äiam; mi pensis pri tiu feliÄa knabino, ho, kiu
+  Eble jam fianÄineto la lia fariÄis. Kaj kiam
+  Mi lin retrovis Äe l' puto, mi Äojis revidi lin, tiel,
+  KvazaÅ­ ja estus al mi aperinta de la Äieluloj                155
+  Unu; kaj mi nun lin sekvis volonte, post kiam li kiel
+  Domservistinon min dungis. Sed mi ja konfesas, la koro
+  Flatis survoje al mi, ke mi eble lin povus meriti
+  Iam, se mi helpulino valora de l' domo fariÄus.
+  Sed, ho, mi vidis nur nun la danÄerojn, en kiujn mi iris,    160
+  Tiel proksime Äe tiu sekrete amato loÄadi.
+  Nun nur mi sentas, ha, kiom malriÄa knabino valoras
+  Male al riÄa junulo, se eÄ Åi mem estus plej taÅ­ga.
+  Äion mi diris, por ke vi do ne malkomprenu la koron,
+  Kiun okazo ofendis, al kiu mi Åuldas la propran              165
+  RekonsciiÄon. Äar mi, la sekretajn dezirojn kaÅante,
+  Devis supozi, ke baldaÅ­ li la fianÄinon kondukus
+  Hejmen. Kaj kiel mi tiam eltenus la mutajn dolorojn!
+  Mi avertita ja estas feliÄe kaj elliberiÄis
+  Mia sekreto el l' brusto, nun, dum Äi ankoraÅ­ saniÄos        170
+  De la malbono. Nenio plu min nun Äi tie restigos,
+  Kie mi staras timeme nur kaj hontigite, Äar mi ja
+  TutmalkaÅeme konfesis l' inklinon, l' esperon malsaÄan.
+  Kaj ne la nokto per malleviÄanta nubaro vastege
+  Nun kovriÄanta, nek tondro rulanta (mi aÅ­das Äin) povas      175
+  Min embarasi, nek la flueganta pluvego ekstere,
+  Nek la bruanta ventego. Äi Äion mi dum la forkuro
+  En la proksimo de la malamikoj nin persekutintaj
+  Äiel eltenis. Mi ree nun iros eksteren. De longe
+  Mi ja kutimis, laÅ­tempe puÅite, disiÄi de Äio.               180
+  Restu feliÄaj! Mi ne plu pli longe restadas; adiaÅ­.â
+
+  Tiel Åi diris kaj reen rapide turniÄis al pordo
+  Åi, sub la brako ankoraÅ­ tenante la pakon la sian.
+  Sed la patrino ekkaptis, per manoj Åin tuj kaj la korpon
+  ÄirkaÅ­prenante, kaj tutsurprizite en miro elvokis:           185
+  âDiru do, kion signifas Äi tio kaj tiuj Äi larmoj?
+  Mi ne forlasas vin. Äar fianÄino de l' filo vi por mi
+  Estas!â Sed nun malvolonte la patro kontraÅ­is kaj diris,
+  Al la ploranta vidante, la tedajn parolojn: âJen, kio
+  Laste hodiaÅ­ fariÄas pro mia plej granda indulgo,            190
+  Ke min ankoraÅ­ je l' tagofiniÄo la plej malagrabla
+  Trafas! Nenio Äar estas pli netolerebla por mi ol
+  Larmoj virinaj, pasia kriado, ho, kiu komencas
+  Tion absurde nur, kion ni, iom pripense, plenumus
+  Vere kviete. Sed plu mi ne havas inklinon rigardi
+  Viajn strangaÄµojn. Do finu Äin mem nur! Sed mi nun kuÅiÄos.â 195
+  Kaj li rapide sin turnis por iri en sian Äambreton,
+  Kie la litoj troviÄis kaj li ja kutime ripozis.
+  Sed lin retenis la filo, dirante kaj lin petegante:
+  âPatro, ne iru nun foren kaj ne pri l' knabino koleru!       200
+  Mi ja nur kulpas je l' tuta konfuzo, kaj poste l' amiko
+  Ne atendite ankoraÅ­ Äin per Åajnigado pliigis.
+  Inda sinjoro, parolu! Al vi mi konfidis l' aferon.
+  Ne amasigu Äagrenon kaj timon, plenumu pli bone
+  Äion! Äar mi vin ne poste honorus samalte, se vi nur         205
+  Äojon malican vidigus anstataÅ­ belegan saÄecon.â
+
+  Nun ridetante la pastro respondis: âJa, kia prudento
+  Estus do nun elloginta el nia knabino la belan
+  Åian konfeson, al ni malkovrintan la virgan animon?
+  Äu ne la zorgo samtempe fariÄis por vi plezurego,            210
+  Äojo! Parolu vi mem! Ne atendu pri fremda klarigo.â
+  Tiam Hermano aliris kaj diris afable: âVi do ne
+  Pentu la larmojn, nek tiujn Äi malaperontajn dolorojn!
+  Ili Äar mian feliÄon plenigas, kaj vian, espere.
+  Mi ne por dungi la fremdan bonegan knabinon pro servo        215
+  Venis al puto; mi venis, por amon la vian akiri.
+  Mia sed, ho, malkuraÄa rigardo l' inklinon de via
+  Koro ne vidis, sed nur afablecon en via okulo,
+  Kiam vi el la spegulo de l' puto trankvila salutis.
+  Domen vin gvidi, jam estis duono de mia feliÄo,              220
+  Sed nun vi tute por mi Äin plenigas. Ho, estu benita!â--
+  Kaj la knabino, la kortuÅiÄinta rigardis Hermanon
+  Kaj ne rifuzis nun la ÄirkaÅ­prenon kaj kison, de l' Äojo
+  Supron plej altan, Äar ili ja estas certigo jam longe
+  Deziregita de l' posta feliÄo, senfina Åajnanta.             225
+
+  Dume la pastro klarigis al Äiuj aliaj l' aferon.
+  Nun la knabino alvenis kaj, antaÅ­ la patro Äarmege
+  Kapon klinante kaj manon la lian kisante, parolis:
+  âCerte vi juste pardonos al tutsurprizita knabino
+  Larmojn unue de Åia doloro, nun larmojn de l' Äojo.          230
+  Tiun sentaÄµon pardonu kaj ankaÅ­ Äi tiun, kaj lasu
+  Min entroviÄi en mian feliÄon, la nove gajnitan.
+  Ja, la unua Äagreno, de mi konfuzite kaÅ­zita
+  Estu samtempe la lasta. Al kio sin la servistino
+  Ligis, al servo plenama, Äin via filino plenumos.â           235
+
+  Kaj ÄirkaÅ­prenis la patro Åin tuje, kaÅante la larmojn;
+  Kaj la patrino ameme alvenis kaj kisis Åin kore,
+  Åiajn du manojn skuante, kaj ambaÅ­ plorante silentis.
+
+  Poste rapide la pastro prudenta ekkaptis unue
+  Manon de l' patro kaj poste de l' fingro fortiris l' edziÄan 240
+  Ringon (ne tiel facile, Äin tenis la membro diketa),
+  Kaj de l' patrino ringeton, kaj nun fianÄigis l' infanojn.
+  Diris li: âFoje ankoraÅ­ de l' oraj ringetoj destino
+  Estu, firmligi kunligon nun, kiu egalu tutplene
+  Al la maljuna. Äi tiun junulon profunde penetras             245
+  L' amo al tiu knabino kaj Åi ja konfesas l' inklinon
+  Al la junulo. Jen kiel mi vin fianÄigas benante
+  Kun la gepatra konsento kaj de la amiko atesto.â
+
+  Tuj la najbaro kun benodeziroj aliris. Sed kiam
+  Fine la pastra sinjoro la oran ringeton je l' fingro         250
+  De la knabino ekmetis, li nun miregante alian
+  Ringon ekvidis, la jam de Hermano pli frue Äe l' puto
+  Tie viditan, kaj diris afable la Åercajn parolojn:
+  âKiel, vi fianÄiniÄis je fojo la dua jam? Ke ne
+  Via unua fianÄo vidiÄu kun ia protesto                       255
+  Äe la altaro.â Sed Åi tuj parolis: âPermesu, ke mi nun
+  Unu momenton dediÄu al tiu memoro! Äar tute
+  Äin la bonulo meritas, ho, kiu la ringon donacis
+  Äe la foriro kaj reen ne venis. Li Äion suspektis,
+  Kiam la amo al homlibereco, la volo agadi                    260
+  Plu en aliaj rilatoj lin pelis Paris-on, ho, kie
+  Malliberecon kaj morton li trovis. âVivadu feliÄe!â
+  Tiel li diris. -- âMi iras; nun Äio moviÄas sur tero,
+  Äio ja Åajnas solviÄi, praleÄoj de l' Åtatoj plej firmaj
+  AnkaÅ­ nuliÄas, kaj la posedaÄµo disiÄas de l' nuna            265
+  Rajtposedanto, l' amikoj disiÄas kaj amo de amo.
+  Mi vin forlasas Äie tie, kaj kie mi iam vin trovos,
+  Kiu Äin scias? Ja, eble Äi tiuj paroloj nun estos
+  Niaj plej lastaj. Fremdulo nur estas la homo sur tero,
+  (Oni Äin rajte asertas), sed nun pli ol iam do, Äiu.         270
+  Ne plu al ni apartenas la tero; trezoroj ÅanÄiÄas;
+  Oro, arÄento fandiÄas el sanktaj antikvaj figuroj;
+  Äio moviÄas, ja kvazaÅ­ la mondo formita solviÄus
+  RemalantaÅ­en en nokton, Ä¥aoson, kaj nove formiÄus.
+  Äiam konservu fidelon! Ni kiam nin poste retrovos            275
+  Sur la ruinoj de l' mondo, ni estos pli bone kreitaj,
+  Aliformitaj, liberaj kaj tutsendependaj de l' sorto.
+  Tiun nenio katenos ja, kiu travivis tielajn
+  Tagojn! Sed se Äi ne estos, ke iam ni post la danÄeroj
+  Nin ÄirkaÅ­prenos, denove feliÄe kaj Äoje, ho, tiam           280
+  Mian memoron konservu en koro kaj pensoj, ke Äiam
+  Vi kun egala kuraÄo pretiÄu al Äiuj okazoj.
+  Kiam vin logos la fremda loÄejo kaj nova kuniÄo,
+  Danke Äuadu nur, kion la sorto al vi nun pretigos.
+  Amu amotojn sincere kaj restu dankema por Äio,               285
+  Sed ankaÅ­ tiam ne tro al ÅanÄema fatalo vi fidu.
+  Äar la duobla doloro de l' nova malgajno minacas.
+  Åatu la vivon, sed nepre ne Åatu Äi tiun pli alte
+  Ol nur alian donacon, Äar Äio ja estas trompema.â
+  Tiel li diris. Neniam mi lin, la noblulon, revidis.          290
+  Dume mi Äion forperdis kaj pensis milfoje l' averton.
+  AnkaÅ­ mi nun pri la vortoj memoras, Äar l' amo donacas
+  Novan kaj belan feliÄon al mi kaj promesas esperojn
+  Tute belegajn. Pardonu, amiko, ke mi vin tenante
+  Tremas! Ja tiel al Äiu maristo nun albordiÄinta              295
+  Åajnas la tero kaj fundo plej firmaj ankoraÅ­ tremantaj.â
+
+  Tiel dirante Åi kune surmetis la ringojn sur fingron.
+  Sed la fianÄo parolis kun nobla kaj vira kortuÅo:
+  âEstu Äe l' revolucio Äiea la ligo pli firma
+  Nur, Doroteo! Ja, daÅ­re la bonon konservi ni volas,          300
+  Firme nin teni kaj ankaÅ­ posedon de l' bela bieno.
+  Homo Äar, kiu en tempo ÅanÄema mem ÅanceliÄema
+  Estas, ja nur multobligas malbonon kaj Äin disvastigas
+  Plue. Sed kiu konstante persistas, la mondon por si mem
+  Formas. Ne al la Germano konvenas, daÅ­rigi aferon            305
+  Vere teruran kaj mem ÅanceliÄi Äi tien kaj tien.
+  Tio Äi estas la nia! Ja, tiel ni diru kaj tiel
+  Äin ni konservu. Äar Äiam nur oni laÅ­degas popolojn,
+  Kiuj decide batalis por Dio kaj leÄo, gepatroj,
+  Idoj, virinoj, kaj mortis, al la malamikoj komune            310
+  KontraÅ­starinte. Vi estas la mia; la mio nun estas
+  Multe pli mia ol iam. Mi ne kun Äagreno kaj zorgo
+  Äuos, sed forte, kuraÄe. Kaj kiam nin la malamikoj
+  Nun ekminacos aÅ­ poste, mem armu min per la armiloj!
+  Se mi nur scias per vi defendata la domon, la miajn,         315
+  Al malamiko sentime sin kontraÅ­starigos la brusto.
+  Kaj se nur Äiu eksentus simile al mi, la potenco
+  KontraÅ­ potenco leviÄus, kaj Äiuj ni Äojus pri paco.â
+
+
+
+
+Piednotoj
+
+
+[1] Parolu: rejna (t. e. la adjektivo de âRheinâ, la granda germana
+rivero).
+
+[2] Germanaj urboj.
+
+[3] En Äi tiu parto de la poemo Goethe aludas la okazintaÄµojn de la
+granda Franca revolucio, dum kiu la âelpelitojâ, pri kiuj rakontas
+la poemo, devis forlasi sian hejmlandon.
+
+
+
+
+Bennemann, Paul: Internacia legolibro
+
+TRA LA MONDO
+
+1a parto: Por komencantoj. Kun multaj bildoj kaj muziknotoj.
+1922. 2a eldono. 96 paÄoj. Kartonita.
+
+2a parto: Por progresintoj. Kun aldono de 4 komponaÄµoj.
+1922. 144 paÄoj. Kun 12 paÄa muzika aldono. Kartonita.
+
+-- Internacia Kantaro. 3a eldono de la Esperantista
+Kantaro. Kolekto de 64 popolaj kantoj el 26 nacioj.
+Kun aldono de 3 famaj koncertarioj (HÃ¤ndel--Mozart--Wagner)
+Tekstaro. 1922. 64 paÄoj. BroÅurita.
+
+-- -- Muzika eldono. AranÄita de Josef AchtÃ©lik, iama
+orkestrestro Äe la opero en Leipzig. 1922. 80 paÄoj. BroÅurita.
+Bindita.
+
+Dietterle, Joh., Prof. D-ro.: La Vendreda Klubo. 11 diversaj
+originalaj artikoloj, verkitaj de la Vendredoklubanoj en Leipzig.
+Kun unu portreto kaj kelkaj desegnaÄµoj. 1921. 115 paÄoj. BroÅurita.
+
+Hankel, M.: Sableroj. PoeziaÄµoj kaj skizoj. Kun portreto
+de la altÅatata aÅ­torino. 1911. 91 paÄoj. BroÅurita.
+
+Hebbel, Friedrich: Gyges kaj lia ringo. Tragedio kvinakta.
+El la germana originalo trad. P. Bennemann. 1916. 151 paÄoj. Bindita.
+
+Luyken, H. A., F. B. E. A.: Stranga HeredaÄµo. Romano
+originale verkita. 1922. 320 paÄoj. BroÅurita kaj bindita.
+
+MoliÃ¨re: La malsanulo pro imago. Komedio en tri aktoj.
+El la franca originalo trad. W. Velten. 1913. 98 paÄoj. BroÅurita.
+
+Zahn, Ernst: Svisaj rakontoj. El la germana originalo trad.
+Ch. Pulvers. 1913. 68 paÄoj. BroÅurita.
+
+  FERDINAND HIRT & SOHN--LEIPZIG
+  ESPERANTO-FAKO
+
+
+
+
+Internacia Mondliteraturo
+
+La kolekto estas submetita al la gvidado de Prof. D-ro Joh. Dietterle,
+direktoro de la Esperanto-Instituto por la Germana Respubliko.
+
+Äi enhavas nur la plej famajn verkojn el Äiuj naciaj literaturoj.
+Nur tiuj tradukoj estas publikigotaj, kiujn faris samnacianoj de
+la koncernaj naciaj verkistoj. Äis nun aperis la jenaj verkoj:
+
+Volumo 1:
+
+Goethe, J. W. von: Hermano kaj Doroteo. Eposo idilia. El la
+germana originalo trad. B. KÃ¼ster. 2a, korektita eldono. Kun
+antaÅ­parolo de Prof. D-ro Joh. Dietterle. 1922. 77 paÄoj. Kartonita.
+
+Volumo 2/3:
+
+Niemojewski, A.: 12 Legendoj. El la pola originalo trad. B.
+Kuhl. Kun antaÅ­parolo de Antoni Grabowski. 1911. 232 paÄoj. Bindita.
+
+Volumo 4:
+
+Raabe, Wilhelm: La nigra galero. Historia rakonto. El la
+germana originalo trad. Prof. D-ro Fritz Wicke. 2a, korektita eldono.
+1922. 64 paÄoj. Kartonita.
+
+Volumo 5/6:
+
+Meier, E. L.: Kvin germanaj noveloj de bone konataj aÅ­toroj
+(Rumohr--KÃ¶rner--Seidl--Grillparzer--Halm). 1914. 254 paÄoj. Bindita.
+
+Volumo 7:
+
+Chamisso, A. de: La mirinda historio de Petro Schlemihl. El la
+germana originalo trad. Eug. WÃ¼ster. 1922. 84 paÄoj. Kartonita.
+
+Volumo 8:
+
+Stamatov, G. P.: Nuntempaj rakontoj. El la bulgara originalo
+trad. Iv. H. Krestanoff. Kartonita.
+
+La kolekto estas daÅ­rigota.
+
+  FERDINAND HIRT & SOHN-LEIPZIG
+  ESPERANTO-FAKO
+
+
+
+
+Noto de transskribinto:
+
+Mi Äustigis malmultajn mispresaÄµojn de la originala libro, kaj
+registriÄis ilin per html-aj komentoj. AnkaÅ­ originalajn
+paÄkomencojn mi simile registris.
+
+
+
+
+
+
+
+End of Project Gutenberg's Hermano kaj Doroteo, by Johann Wolfgang von Goethe
+
+*** END OF THIS PROJECT GUTENBERG EBOOK HERMANO KAJ DOROTEO ***
+
+***** This file should be named 60429-8.txt or 60429-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/0/4/2/60429/
+
+Produced by Andrew Sly, Andrew Woods and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+book was produced from scanned images of public domain
+material from the Google Books project.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

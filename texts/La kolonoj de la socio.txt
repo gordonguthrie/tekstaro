@@ -1,0 +1,6596 @@
+﻿The Project Gutenberg EBook of La kolonoj de la socio, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: La kolonoj de la socio
+       Dramo en kvar aktoj
+
+Author: Henrik Ibsen
+
+Translator: Odd Tangerud
+
+Release Date: December 22, 2006 [EBook #20162]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA KOLONOJ DE LA SOCIO ***
+
+
+
+
+Produced by Andrew Sly
+
+
+
+
+
+Noto de tekstpreparulo:
+En ĉi tiu teatraĵo, la tradukisto uzas komencemajuskla “Vi” por
+signifi norvega formala alparola pronomo.
+
+
+
+HENRIK IBSEN
+
+LA KOLONOJ DE LA SOCIO
+
+Dramo en kvar aktoj
+
+(Samfundets støtter 1877)
+
+Tradukis: Odd Tangerud
+
+Eldonejo JEC Scandinavia a/s
+Postboks 54
+N - 3401 Lier
+Tel 32 85 50 03
+Fax 32 85 50 82
+
+ISBN 82 91 707-52-9
+
+
+
+LA KOLONOJ DE LA SOCIO
+
+ROLOJ:
+
+  KONSULO BERNICK.
+  SINJORINO BERNICK, lia edzino.
+  OLAF, ilia filo, 13 jara.
+  FRAŬLINO BERNICK, fratino de la konsulo.
+  JOHAN TØNNESEN, pli juna frato de sinjorino Bernick.
+  FRAŬLINO HESSEL, ŝia pli aĝa duonfratino.
+  HILMAR TØNNESEN, kuzo de sinjorino Bernick.
+  ADJUNKTO RØRLUND.
+  GRANDKOMERCISTO RUMMEL.
+  KOMERCISTO VIGELAND.
+  KOMERCISTO SANDSTAD.
+  DINA DORF, juna knabino en la domo de la konsulo.
+  PLENRAJTIGITO KRAP.
+  ŜIPKONSTRUISTO AŬNE.
+  LA EDZINO DE GRANDKOMERCISTO RUMMEL.
+  LA EDZINO DE POŜTESTRO HOLT.
+  LA EDZINO DE DOKTORO LYNGE.
+  FRAŬLINO RUMMEL.
+  FRAŬLINO HOLT.
+  BURĜOJ kaj ALIAJ LOĜANTOJ, FREMDAJ MARISTOJ, PASAĜEROJ
+  sur VAPORŜIPO k.t.p.
+
+
+(La agado okazas en la domo de konsulo _Bernick_ en eta norvega
+ĉemara urbo.)
+
+
+
+
+UNUA AKTO
+
+
+(Spaca ĝarden-salono en la domo de _konsulo Bernick_. Maldekstre en
+la antaŭo pordo kondukas al la ĉambro de la konsulo; pli malantaŭe
+en la sama muro estas simila pordo. Meze sur la kontraŭa pordo estas
+pli granda enir-pordo. La fona muro estas preskaŭ tute el spegula
+vitro kun malferma pordo al larĝa ĝarden-ŝtuparo, super kiu estas
+etendita sunŝirmilan velon. Sube de la ŝtuparo vidiĝas parto de la
+ĝardeno, enkadrigita de krado kun mallarĝa enir-pordego. Ekstere
+kaj laŭ la krado laŭas strato, kies kontraŭa flanko havas
+malgrandajn hele-koloritajn lignajn domojn. Estas somero kaj varma
+sunbrilo. Kelkaj homoj foje preterpasas en la strato; oni haltas kaj
+interparolas; fariĝas komerco en vendejo situanta ĉe la angulo
+k.t.p.)
+
+(Ene en la ĝardena salono sidas ĉirkaŭ tablo aro da sinjorinoj.
+Meze antaŭ la tablo sidas _sinjorino Bernick_. Ĉe ŝia maldekstra
+flanko sidas _sinjorino Holt_ kun _filino_, kaj laŭvice _sinjorino
+Rummel_ kaj _fraŭlino Rummel_. Dekstre de _sinjorino Bernick_
+sidas _sinjorino Lynge, fraŭlino Bernick_ kaj _Dina Dorf_. Ĉiuj
+sinjorinoj estas okupataj pri manlaboro. Sur la tablo kuŝas grandaj
+amasoj da duone pretigitaj kaj prettonditaj linaĵoj kaj aliaj
+vestaĵoj. Pli fone, ĉe malgranda tablo sur kiu staras du florpotoj
+kaj glaso da suker-akvo, sidas _adjunkto Rørlund_ legante el libro
+ore randita, tamen tiel ke nur opaj vortoj aŭdiĝas de la publiko.
+Ekstere en la ĝardeno kuras _Olaf Bernick_ ĉirkaŭe pafante al celo
+per arko.)
+
+(Post momento venas _ŝipkonstruisto Aŭne_ kviete enen tra la pordo
+dekstre. Okazas ioma interrompiĝo de la legado; _sinjorino Bernick_
+kapsignas al li kaj montras al la pordo maldekstre. _Aŭne_ trankvile
+iras tien kaj frapas kelkajn fojojn sur la pordon de la konsulo
+kviete kaj kun interspacoj. _Plenrajtigito Krap_, kun ĉapelo en la
+mano kaj paperoj sub la brako venas el tiu ĉambro.)
+
+PLENRAJTIGITO KRAP
+Ĉu estas vi, kiu frapas?
+
+ŜIPKONSTRUISTO AŬNE
+La konsulo serĉas min.
+
+PLENRAJTIGITO KRAP
+Li faris; sed ne povas akcepti Vin; li transdonis al mi — —
+
+ŜIPKONSTRUISTO AŬNE
+Al Vi? Mi preferus — —
+
+PLENRAJTIGITO KRAP
+— — transdonis al mi diri, ke Vi devas ĉesi pri tiuj sabat-tagaj
+prelegoj por la laboristoj.
+
+ŜIPKONSTRUISTO AŬNE
+Ĉu? Mi pensis ke mi povus uzi mian libertempon — —
+
+PLENRAJTIGITO KRAP
+Vi ne devas uzi Vian libertempon por fari la laboristojn sentaŭgaj
+en la labortempo. Lastan sabaton Vi parolis pri la damaĝo, kiun la
+laboristoj ricevus de niaj novaj maŝinoj kaj de la nova labormetodo
+en la ŝipfarejo. Kial Vi tion faras?
+
+ŜIPKONSTRUISTO AŬNE
+Tion mi faras por subteni la socion.
+
+PLENRAJTIGITO KRAP
+Strange! La konsulo diras, ke tio estas soci-disrompo.
+
+ŜIPKONSTRUISTO AŬNE
+Mia socio ne estas tiu de la konsulo, sinjoro plenrajtigito! Kiel
+estro de la laborista asocio mi devas — —
+
+PLENRAJTIGITO KRAP
+Vi unue kaj ĉefe estas laborestro de la ŝipfarejo de konsulo
+Bernick. Vi unue kaj ĉefe faru Vian devon al la socio, kiu nomiĝas
+la firmao de konsulo Bernick; ĉar estas de _tiu_ ke ni ĉiuj vivas.
+— Jes, nun Vi scias kion la konsulo dirus al Vi.
+
+ŜIPKONSTRUISTO AŬNE
+La konsulo ne estus tion _tiel_ dirinta, sinjoro plenrajtigito! Sed
+mi ja komprenas kiun mi povas danki por tio ĉi. Estas la damnita
+usona averiulo. Tiuj homoj volas progresigi la laboron, kiel ili
+kutimiĝis tie transe, kaj tio —
+
+PLENRAJTIGITO KRAP
+Nu ja, nu ja; mi ne povas lasi min tiriĝi enen en detalojn. Nun Vi
+konas la opinion de la konsulo; jen sufiĉe! Bonvolu returni al
+la farejo; certe bezoniĝas; mi baldaŭ mem venos. — Pardonu
+sinjorinoj!
+
+(Li salutas kaj eliras tra la ĝardeno kaj malsupren laŭ la strato.
+_Ŝipkonstruisto Aŭne_ eliras silente dekstre. La _adjunkto, _kiu
+dum la pasinta mallaŭta interparolo daŭrigis la legadon, baldaŭ
+poste finlegis la libron, kaj batfermas ĝin.)
+
+ADJUNKTO RØRLUND
+Jen, miaj karaj aŭskultantinoj, pri tio finite.
+
+SINJORINO RUMMEL
+Oh, kia instruplena rakonto!
+
+SINJORINO HOLT
+Kaj kun bona moralo!
+
+SINJORINO BERNICK
+Tia libro vere donas multon pripensindan.
+
+ADJUNKTO RØRLUND
+Ho jes; ĝi estas bonfara kontraŭeco al tio, kion ni bedaŭrinde
+ĉiutage povas vidi, kaj en gazetoj kaj en periodaĵoj. Ĉi tiu
+ŝminkita eksteraĵo, kiun la grandaj socioj vidigas, — kion ĝi
+vere kaŝas? Vantecon kaj putrecon, se mi povas min tiel esprimi.
+Neniu morala fundamento sub la piedoj. Per unu vorto, — ili estas
+kalkumitaj tombejoj, tiuj grandaj socioj nuntempe.
+
+SINJORINO HOLT
+Jes tutcerte.
+
+SINJORINO RUMMEL
+Ni ja nur bezonas rigardi al la usona ŝipanaro, kiu nun troviĝas
+ĉi tie.
+
+ADJUNKTO RØRLUND
+Nu, pri tia kanajlaro el la homaro mi ne degnas paroli. Sed eĉ en la
+plej altaj tavoloj, kiel statas _tie_? Dubo kaj fermanta maltrankvilo
+en ĉiuj lokoj; malpaco en la animoj kaj necerteco en ĉiuj rilatoj.
+Kiel ja estas subfosita la familia vivo tie? Kiel ja esprimas sin
+aŭdacaj deziroj renversi eĉ la plej gravajn verojn?
+
+DINA
+(sen suprenrigardi) Tamen ĉu ne ankaŭ multaj grandaj faroj okazas?
+
+ADJUNKTO RØRLUND
+Grandaj faroj —? Mi ne komprenas —
+
+SINJORINO HOLT
+(surprizita) Sed, Dio, Dina —!
+
+SINJORINO RUMMEL
+(sammomente) Tamen, Dina, kiel Vi do povas —?
+
+ADJUNKTO RØRLUND
+Mi opinias ke ne estus sane se tiaj faroj trovis enlason ĉe ni. Ne,
+ni ĉi-hejme devas danki al Dio, ke statas ĉe ni kiel estas. Certe
+kreskas fiherboj inter la tritiko ankaŭ ĉi tie, bedaŭrinde; sed
+ĝin ni sincere klopodas sarki plej eble bone. Gravas ke ni tenu la
+socion pura, miaj sinjorinoj, — teni ekstere ĉion tion neprovitan,
+kiun senpacienca tempo volas trudi al ni.
+
+SINJORINO HOLT
+Kaj el tio bedaŭrinde troviĝas pli ol sufiĉe.
+
+SINJORINO RUMMEL
+Jes, pasintan jaron pendis de hareto, ke ni ricevus fervojon al la
+urbo.
+
+SINJORINO BERNICK
+Nu, tion ja Karsten sukcesis malhelpi.
+
+ADJUNKTO RØRLUND
+La providenco, sinjorino Bernick. Vi povas esti certa, ke Via edzo
+estis ilo en la mano de iu pli alta, kiam li rifuzis okupiĝi pri tiu
+kaprico.
+
+SINJORINO BERNICK
+Kaj tamen li spertis sufiĉe da malico el la gazetoj. Sed ni tute
+forgesas danki Vin, sinjoro adjunkto. Vere estas tre afable de Vi, ke
+Vi oferas tiom da tempo por ni.
+
+ADJUNKTO RØRLUND
+Ho nu, nun dum la lerneja ferio —
+
+SINJORINO BERNICK
+Ja, ja, tamen estas ja ofero, sinjoro adjunkto.
+
+ADJUNKTO RØRLUND
+(lokigas sian seĝon pli proksimen.) Ne parolu pri tio, kara
+sinjorino. Ĉu Vi mem ne faras oferon por la bona afero? Kaj ĉu Vi
+ĝin ne donas ĝoje? Tiuj morale koruptitaj, por kies plibonigo Vi
+laboras, estas rigardendaj kiel vunditaj soldatoj sur batalkampo;
+Vi, karaj sinjorinoj estas la diakoninoj, la kompatemaj fratinoj,
+kiuj ŝirkolektas ĉarpion por tiuj malfeliĉaj vunditoj, metas la
+bandaĝon milde sur la vundon, kuracas kaj sanigas ilin —
+
+SINJORINO BERNICK
+Certe estas granda donaco de graco vidi ĉion en tia bela lumo.
+
+ADJUNKTO RØRLUND
+Multo estas denaska tiurilate; sed multo eblas esti akirata. Gravas
+vidi la aferojn en la lumo de sincera vivotasko. Jes, kion nun Vi
+diras, fraŭlino Bernick? Ĉu Vi ne trovis kvazaŭ pli sekuran
+fundamenton kiam Vi oferis vin al la tasko instrui?
+
+FRAŬLINO BERNICK
+Aĥ, mi ne scias kion respondi. Ofte kiam mi iras tie en la lerneja
+ĉambro, mi deziras esti ege fore sur la sovaĝa maro.
+
+ADJUNKTO RØRLUND
+Nu aŭdu, estas la malkvieto, kara fraŭlino. Sed kontraŭ tiaj
+maltrankvilaj gastoj oni devas fermi la pordon. La sovaĝa maro, —
+tion Vi kompreneble ne pensas litere; Vi pensas pri la granda ondanta
+homa socio, kie multaj submergiĝas. Kaj ĉu Vi vere tiom alte
+taksas la vivon, kiun Vi aŭdas zumi kaj brui ekstere? Rigardu
+nur la straton. Tie la homoj iras en la sunbrulo, ŝvitantaj kaj
+baraktantaj kun siaj etaj aferoj. Por ni vere estas pli kontentige
+sidi malvarmete ĉi tie interne turnante la dorson al tiu flanko,
+de kie venas la perturbo.
+
+FRAŬLINO BERNICK
+Jes, Dio, vi ja eble tute pravas —
+
+ADJUNKTO RØRLUND
+Kaj en domo kia tiu ĉi, — en bona kaj pura hejmo, kie la familia
+vivo montras sin en la plej bela aspekto, — kie paco kaj konkordo
+regas — — (al _sinjorino Bernick_) Al kio Vi aŭskultas, sinjorino?
+
+SINJORINO BERNICK
+(turnita al la plej antaŭa pordo maldekstre) Kiel laŭtvoĉaj ili
+fariĝas tie interne.
+
+ADJUNKTO RØRLUND
+Ĉu io aparte okazas?
+
+SINJORINO BERNICK
+Mi ne scias. Mi aŭdas ke estas iuj ene ĉe mia edzo.
+
+(_Hilmar Tønnesen_, kun cigaro en la buŝo, envenas tra la pordo
+dekstre, sed haltas je la vido de tiom da sinjorinoj.)
+
+HILMAR TØNNESEN
+Ho, pardonu — (volas retiri sin)
+
+SINJORINO BERNICK
+Ne, Hilmar, proksimu do; vi ne ĝenas. Ĉu vi ion volas?
+
+HILMAR TØNNESEN
+Ne, mi nur volis enrigardi. Saluton, sinjorinoj. (al _sinjorino
+Bernick_) Nu, kio do fariĝos?
+
+SINJORINO BERNICK
+Pri kio?
+
+HILMAR TØNNESEN
+Bernick estas ja kunvokinta kunvenon.
+
+SINJORINO BERNICK
+Ĉu? Pri kio do?
+
+HILMAR TØNNESEN
+Ho, estas ja denove tiu fervoj-sensencaĵo.
+
+SINJORINO RUMMEL
+Ne, ĉu eblas?
+
+SINJORINO BERNICK
+Bedaŭrinda Karsten, ĉu li havu eĉ pliajn malagrablaĵojn —
+
+ADJUNKTO RØRLUND
+Sed kiel ni komprenu tion ĉi, sinjoro Tønnesen? Konsulo Bernick jam
+lastan jaron konigis, ke li ne volas havi iun fervojon.
+
+HILMAR TØNNESEN
+Jes, tion ankaŭ mi opinias; sed mi renkontis plenrajtigiton Krap,
+kaj li rakontis, ke la fervoja afero denove traktiĝos, kaj ke
+Bernick havas kunvenon kun tri el la monhavantoj en la urbo.
+
+SINJORINO RUMMEL
+Jes, ĉu ne estas kiel ŝajnis al mi, ke mi aŭdis la voĉon de
+Rummel.
+
+HILMAR TØNNESEN
+Jes, kompreneble Rummel kunestas, kaj ankaŭ komercisto Sandstad el
+la deklivo kaj Mikkel Vigeland, — “Mikelo Sanktulo”, kiel oni nomas
+lin.
+
+ADJUNKTO RØRLUND
+Hm —
+
+HILMAR TØNNESEN
+Pardonu, sinjoro adjunkto.
+
+SINJORINO BERNICK
+Kaj nun estis ja tie ĉi tiel bone kaj trankvile.
+
+HILMAR TØNNESEN
+Nu ja, miaparte mi ne bedaŭrus, ke ili komencus denove kvereli.
+Estus ja ioma amuzado.
+
+ADJUNKTO RØRLUND
+Nu, tiajn amuzadojn mi pensas, ke oni povas senesti.
+
+HILMAR TØNNESEN
+Tio estas laŭ natura emo. Certaj naturoj bezonas foje ŝirantaj
+bataloj. Sed de tio la etburĝa vivo ne havas multe oferenda, kaj ne
+estas por ĉiu donita — (foliumas la libron de la adjunkto) “La
+virino kiel la servantino de la socio”. Kia sensencaĵo estas tio?
+
+SINJORINO BERNICK
+Dio, Hilmar, tion vi ne diru. Vi sendube ne legis tiun libron.
+
+HILMAR TØNNESEN
+Ne kaj mi ne intencas legi ĝin.
+
+SINJORINO BERNICK
+Vi verŝajne ne bone fartas hodiaŭ.
+
+HILMAR TØNNESEN
+Ne, mi ne fartas.
+
+SINJORINO BERNICK
+Ĉu vi eble ne bone dormis ĉi-nokte?
+
+HILMAR TØNNESEN
+Ne, mi dormis vere malbone. Mi faris promenadon hieraŭ vespere pro
+mia malsano. Poste mi paŝadis al la klubo kaj legis vojaĝpriskribon
+pri la norda poluso. Estas io hardanta en tio sekvi la homojn en ilia
+lukto kontraŭ la elementoj.
+
+SINJORINO RUMMEL
+Sed tio ne bone efikis al Vi, sinjoro Tønnesen.
+
+HILMAR TØNNESEN
+Ne; ĝi malbone efikis; la tutan nokton mi turnadis duondorme
+sonĝante, ke min persekutis abomena rosmaro.
+
+OLAF
+(kiu envenis supre sur la ĝardena ŝtuparo) Ĉu persekutis vin
+rosmaro, onklo?
+
+HILMAR TØNNESEN
+Mi tion sonĝis, vi stultulo! Sed ĉu vi daŭre ĉirkaŭiras ludante
+per tiu ridinda arko? Kial vi ne havigis al vi veran pafilon?
+
+OLAF
+Jes, mi volus, sed —
+
+HILMAR TØNNESEN
+Ĉar vera pafilo, tiu do havas iun sencon; ĉiam estas io
+nervostreĉa kiam oni estas pafonta.
+
+OLAF
+Kaj tiam mi povus pafi ursojn, onklo. Sed patro ne permesos al mi.
+
+SINJORINO BERNICK
+Vi ne devas meti tiaĵojn en lian kapon, Hilmar.
+
+HILMAR TØNNESEN
+Hm, — tiela parencaro edukiĝas hodiaŭ! Oni parolas pri sporto kaj
+sporto, — Ho Dio, — sed ĉio estas nur ludo; neniam serioza urĝo
+al tio hardanta, kio troviĝas en kuraĝa renkonto okulon al okulo
+antaŭ la danĝero. Ne staru celante al mi per la arko, vi stultulo;
+vi povus malpreni.
+
+OLAF
+Ne, onklo, ĝi ne havas sagon.
+
+HILMAR TØNNESEN
+Vi ne povas scii; ĝi tamen povas havi sagon. Forprenu ĝin, mi
+diras! — Kial pro diablo vi neniam vojaĝis transen al Ameriko en iu
+el la ŝipoj de via patro? Tie vi povus vidi ĉason al bizonoj aŭ
+lukto kontraŭ la ruĝuloj.
+
+SINJORINO BERNICK
+Tamen Hilmar do —
+
+OLAF
+Tion mi volonte farus, onklo; kaj eble mi renkontus onklon Johan kaj
+onklinon Lona.
+
+HILMAR TØNNESEN
+Hm —; sensencaĵo.
+
+SINJORINO BERNICK
+Nun vi povas reen iri en la ĝardenon, Olaf.
+
+OLAF
+Panjo, ĉu mi ankaŭ povos eliri sur la straton?
+
+SINJORINO BERNICK
+Jes; sed ne tro foren.
+
+(_Olaf_ kuras elen tra la kradpordo.)
+
+ADJUNKTO RØRLUND
+Vi ne devus meti tiajn kapricojn en la kapon de la infano, sinjoro
+Tønnesen.
+
+HILMAR TØNNESEN
+Ne, kompreneble, li devas iri ĉi tie kaj fariĝi fornosidulo, kiel
+tiom da aliuloj.
+
+ADJUNKTO RØRLUND
+Sed kial Vi mem ne transvojaĝos?
+
+HILMAR TØNNESEN
+Mi? Kun mia malsano? Nu, tio kompreniĝas; ĝin oni ne multe
+konsideras en la urbo. Sed tamen, — oni havas ja certajn devojn al
+la socio al kiu oni apartenas. Devas almenaŭ esti _iuj_ kiuj tenas
+la standardon alte. Uŝ, nun li denove krias!
+
+LA SINJORINOJ
+Kiu krias?
+
+HILMAR TØNNESEN
+Nu ja, mi ne scias. Ili estas iom laŭtvoĉaj tie interne, kaj tio
+igas min nervoza.
+
+SINJORINO RUMMEL
+Certe estas mia edzo, sinjoro Tønnesen. Sed mi diru al Vi, li tiom
+kutimiĝis paroli en grandaj kunvenoj —
+
+ADJUNKTO RØRLUND
+Ankaŭ la aliaj ne estas mallaŭtaj, ŝajnas al mi.
+
+HILMAR TØNNESEN
+Ne, Dio gardu, kiam temas pri defendo de la monujo, jen —; ĉio ja
+rezultas en kalkulo de bagatelaĵoj ĉi tie. Uŝ!
+
+SINJORINO BERNICK
+Estas almenaŭ pli bone ol pasinte, kiam ĉio foruziĝis en amuzadoj.
+
+SINJORINO LYNGE
+Ĉu vere estis tiel malbone pasinte?
+
+SINJORINO RUMMEL
+Jes, Vi kredu, sinjorino Lynge. Nomu Vin feliĉa, ke Vi tiam ne
+loĝis ĉi tie.
+
+SINJORINO HOLT
+Jes, vere okazis ŝanĝoj! Ho, kiam mi pensas pri miaj knabinaj
+tagoj —
+
+SINJORINO RUMMEL
+Ho pensu nur antaŭ dekkvar — dekkvin jaroj. Dio gardu nin kia vivo
+estis ĉi tie! Tiam ekzistis kaj la pilk-klubo kaj la muzik-asocio —
+
+FRAŬLINO BERNICK
+Kaj la drama-asocio. Ĝin mi bone memoras.
+
+SINJORINO RUMMEL
+Jes, estas _tie_ ke via teatraĵo prezentiĝis, sinjoro Tønnesen.
+
+HILMAR TØNNESEN
+(iras al la fono) Nu, kio, kio —!
+
+ADJUNKTO RØRLUND
+Teatraĵo de studento Tønnesen?
+
+SINJORINO RUMMEL
+Jes, estis longe antaŭ ol _Vi_ venis ĉi tien, sinjoro adjunkto.
+Cetere ĝi prezentiĝis nur unu fojon.
+
+SINJORINO LYNGE
+Ĉu ne estis en _tiu_ teatraĵo, ke Vi aktoris kiel amorantino, laŭ
+kio Vi diris, sinjorino Rummel?
+
+SINJORINO RUMMEL
+(ekrigardas post la _adjunkto_) Mi? Tion mi vere ne memoras,
+sinjorino Lynge. Sed mi bone memoras la bruantaj sociaj aranĝoj en
+la familioj.
+
+SINJORINO HOLT
+Jes, mi eĉ scias pri la domoj, kie ili prezentis du grandajn
+tagmanĝojn semajne.
+
+SINJORINO LYNGE
+Kaj ankaŭ venis ĉi tien vojaĝanta aktor-grupo laŭdire.
+
+SINJORINO RUMMEL
+Jes, tio estis ja la plej malbona —!
+
+SINJORINO HOLT
+(maltrankvila) Hm, hm —
+
+SINJORINO RUMMEL
+Nu, aktoroj? Ne, tion mi tute ne memoras.
+
+SINJORINO LYNGE
+Jes, tiuj homoj laŭdire faris tiom da petolaĵoj. Kiel efektive
+statas pri tiuj historioj?
+
+SINJORINO RUMMEL
+Ho, vere estas nenio, sinjorino Lynge.
+
+SINJORINO HOLT
+Kara Dina, donu al mi tiun linaĵon.
+
+SINJORINO BERNICK
+(samtempe) Kara Dina, eliru kaj petu al Katrine enporti la kafon.
+
+FRAŬLINO BERNICK
+Mi iru kun vi, Dina.
+
+(_Dina_ kaj _fraŭlino Bernick_ eliras tra la plej supera pordo
+maldekstre.)
+
+SINJORINO BERNICK
+(ekstaras) Kaj nun vi pardonu al mi momenton, miaj sinjorinoj; mi
+pensas, ke ni trinku kafon tie ekstere.
+
+(Ŝi eliras sur la ĝardenan ŝtuparon kaj pretigas tablon; la
+adjunkto staras ĉe la pordo kaj parolas kun ŝi. _Hilmar Tønnesen_
+sidas tie ekstere fumante.)
+
+SINJORINO RUMMEL
+(mallaŭte) Dio, sinjorino Lynge, kiel Vi timigis min!
+
+SINJORINO LYNGE
+Mi?
+
+SINJORINO HOLT
+Jes, sed estis ja Vi mem kiu komencis, sinjorino Rummel.
+
+SINJORINO RUMMEL
+Mi? Ne, kiel Vi povas tion diri, sinjorino Holt? Venis eĉ ne vivanta
+vorto el mia buŝo.
+
+SINJORINO LYNGE
+Sed kio do _estas_?
+
+SINJORINO RUMMEL
+Kiel povis Vi komenci paroli —! Pensu, — ĉu Vi ne vidis, ke Dina
+ĉeestas?
+
+SINJORINO LYNGE
+Dina? Sed Dio gardu, ĉu estas io pri —?
+
+SINJORINO HOLT
+Kaj eĉ ĝuste en _tiu ĉi_ domo! Ĉu Vi do ne scias, ke estis la
+frato de sinjorino Bernick —?
+
+SINJORINO LYNGE
+Ĉu li? Mi ja scias nenion; mi estas ja tute nova —
+
+SINJORINO RUMMEL
+Ĉu Vi do ne aŭdis ke —? Hm — (al la filino) Iru en la ĝardenon,
+vi Hilda.
+
+SINJORINO HOLT
+Kaj ankaŭ vi, Netta. Kaj estu ĝentilaj al la bedaŭrinda Dina, kiam
+ŝi revenas.
+
+(_Fraŭlino Rummel_ kaj _fraŭlino Holt_ eliras en la ĝardenon.)
+
+SINJORINO LYNGE
+Nu, kio do estis pri la frato de sinjorino Bernick?
+
+SINJORINO RUMMEL
+Ĉu Vi ne scias ke li estis tiu en la terura afero?
+
+SINJORINO LYNGE
+Ĉu studento Tønnesen estis en terura afero?
+
+SINJORINO RUMMEL
+Ne, je Dio, la studento estas ja ŝia kuzo, sinjorino Lynge. Mi
+parolas pri la frato —
+
+SINJORINO HOLT
+— la perditulo Tønnesen —
+
+SINJORINO RUMMEL
+Johan li nomiĝis. Li fuĝis al Ameriko.
+
+SINJORINO HOLT
+_Devis_ fuĝi, pripensu.
+
+SINJORINO LYNGE
+Kaj _li_ do estis en terura afero?
+
+SINJORINO RUMMEL
+Jes, estis io tia —; kiel mi do nomu ĝin? Estis io pri la patrino
+de Dina. Ho, mi memoras kvazaŭ tio estus hodiaŭ. Johan Tønnesen
+tiam estis en la oficejo de maljuna sinjorino Bernick; Karsten
+Bernick ĵus estis veninta de Parizo, — ankoraŭ ne estis
+fianĉiĝinta —
+
+SINJORINO LYNGE
+Nu, sed tiu terura historio?
+
+SINJORINO RUMMEL
+Jes, vidu, — tiun vintron la aktora trupo de Møller ĉeestis en la
+urbo —
+
+SINJORINO HOLT
+— kaj en tiu trupo estis la aktoro Dorf kaj lia edzino. Ĉiuj junaj
+homoj profunde ĉarmiĝis de ŝi.
+
+SINJORINO RUMMEL
+Jes, Dio scias kiel ili povis trovi, ke _ŝi_ estas bela. Sed jen la
+aktoro Dorf revenis hejmen malfrue iun vesperon —
+
+SINJORINO HOLT
+— tute neatendite —
+
+SINJORINO RUMMEL
+— Kaj li trovas —; ne; tio vere ne estas rakontinda.
+
+SINJORINO HOLT
+Ne, sinjorino Rummel, li trovis nenion, ĉar la pordo estis ŝlosita
+interne.
+
+SINJORINO RUMMEL
+Jes, estas ja tio kion mi diras; li trovis la pordon ŝlosita. Kaj
+pensu, sinjorino, tiu, kiu estis interne, devas salti tra la
+fenestro.
+
+SINJORINO HOLT
+Tute supre de mansardo!
+
+SINJORINO LYNGE
+Kaj tiu estis la frato de sinjorino Bernick?
+
+SINJORINO RUMMEL
+Jes, efektive estis.
+
+SINJORINO LYNGE
+Kaj post tio li fuĝis al Ameriko?
+
+SINJORINO HOLT
+Jes, li ja devis fuĝi, komprenu.
+
+SINJORINO RUMMEL
+Ĉar poste malkovriĝis io preskaŭ same malbona; imagu, li estis
+atencinta la kason —
+
+SINJORINO HOLT
+Sed tion oni ne certe scias, sinjorino Rummel; eble estis nur
+onidiroj.
+
+SINJORINO RUMMEL
+Sed nun aŭdu do —! Ĉu _tio_ ne estis konata en la tuta urbo? Ĉu
+maljuna sinjorino Bernick ne preskaŭ bankrotis pro tiu afero? Tion
+mi ja aŭdis de Rummel mem. Sed Dio gardu _mian_ buŝon.
+
+SINJORINO HOLT
+Nu, al sinjorino Dorf la mono almenaŭ ne iris, ĉar ŝi —
+
+SINJORINO RUMMEL
+Ja, Dorf forvojaĝis de edzino kaj de infanoj. Sed la sinjorino tamen
+estis tiel aŭdaca resti ĉi tie tutan jaron. Montri sin en la teatro
+ŝi ne plu kuraĝis; sed ŝi vivtenis sin lavante kaj kudrante por
+homoj —
+
+SINJORINO HOLT
+Kaj ŝi provis komenci danc-lernejon.
+
+SINJORINO RUMMEL
+Tio kompreneble ne sukcesis. Kiuj gepatroj volus konfidi siajn
+infanojn al iu tia? Sed ne daŭris longe pri ŝi; la bela sinjorino
+ne estis kutimita al laboro; kaptiĝis ŝia brusto, kaj ŝi mortis.
+
+SINJORINO LYNGE
+Hu, estas vere teruraj historioj!
+
+SINJORINO RUMMEL
+Jes, kredu, estis severe elteni por la familio Bernick. Estas la
+malluma makulo en la suno de ilia feliĉo, kiel Rummel iam esprimis
+sin. Tial neniam parolu pri tiuj aferoj ĉi tie en la domo, sinjorino
+Lynge.
+
+SINJORINO HOLT
+Kaj pro Dio ankaŭ ne pri la duonfratino!
+
+SINJORINO LYNGE
+Jes, sinjorino Bernick havas ja ankaŭ duonfratinon?
+
+SINJORINO RUMMEL
+Havis — feliĉe; ĉar nun la parenceco certe estas finita inter la
+du. Jes, ŝi estis iu precipa! Imagu, ŝi fortondis la harojn, kaj
+iris en viraj botoj en pluva vetero.
+
+SINJORINO HOLT
+Kaj kiam la duonfrato — la perdita subjekto — estis forkurinta,
+kaj la tuta urbo kompreneble ŝokiĝis pro li, — ĉu Vi scias kion
+ŝi tiam faras? Ŝi vojaĝas transen al li!
+
+SINJORINO RUMMEL
+Jes, kaj la skandalo, kiun ŝi faris antaŭ ol forvojaĝi, sinjorino
+Holt!
+
+SINJORINO HOLT
+Tŝŝ, ne parolu pri tio.
+
+SINJORINO LYNGE
+Dio, ĉu ŝi ankaŭ faris skandalon?
+
+SINJORINO RUMMEL
+Jes, nun Vi aŭdu, sinjorino Lynge. Bernick estis ĵus sin
+fianĉiĝinta al Betty Tønnesen; kaj ĝuste kiam li venis kun ŝi ĉe
+la brako enen al ŝia onklino por informi —
+
+SINJORINO HOLT
+La gefratoj Tønnesen estis orfaj, Vi sciu —
+
+SINJORINO RUMMEL
+— kaj Lona Hessel ekstaras de la seĝo kie ŝi sidas, kaj donas al
+la ĝentila, kulturita Karsten Bernick vangofrapon, ke resonis en li.
+
+SINJORINO LYNGE
+Ne, nun mi neniam —!
+
+SINJORINO HOLT
+Estas tute certe.
+
+SINJORINO RUMMEL
+Kaj ŝi pakis sian kofron kaj forvojaĝis al Ameriko.
+
+SINJORINO LYNGE
+Sed do ŝi ja mem estus havinta inklinon al li.
+
+SINJORINO RUMMEL
+Jes, kredu ke ŝi havis. Ŝi imagis ke fariĝus paro el tiuj du, kiam
+li revenus el Parizo.
+
+SINJORINO HOLT
+Jes, imagu, ke ŝi kredus tiaĵon! Bernick, — tiu juna bonkonduta
+grandmonda sinjoro, — perfekta galantulo, — favorato de ĉiuj
+virinoj —
+
+SINJORINO RUMMEL
+— kaj tamen deca, sinjorino Holt; kaj tiel morala.
+
+SINJORINO LYNGE
+Sed pri kio okupiĝis tiu fraŭlino Hessel en Ameriko?
+
+SINJORINO RUMMEL
+Nu, vidu, super tio kuŝas, kiel Rummel iam esprimis sin, vualo, kiu
+ne estas levinda.
+
+SINJORINO LYNGE
+Kion tio signifas?
+
+SINJORINO RUMMEL
+Ŝi ja ne plu havas iun rilaton kun la familio, Vi komprenu; sed tiom
+scias ja la tuta urbo, ke ŝi kantis por mono en la gastejoj tie —
+
+SINJORINO HOLT
+— kaj ŝi faris prelegojn en la salonoj —
+
+SINJORINO RUMMEL
+— kaj ŝi eldonis nenormalan libron.
+
+SINJORINO LYNGE
+Ĉu vere —!
+
+SINJORINO RUMMEL
+Ho jes, Lona Hessel efektive estas unu el la sunmakuloj en la familia
+feliĉo de la Bernikoj. Sed nun Vi ja scias pri la aferoj, sinjorino
+Lynge. Je Dio, mi nur parolis pri tio ĉi, por ke Vi gardu Vin.
+
+SINJORINO LYNGE
+Jes, pri tio Vi povas esti certa ke mi faru. — Sed tiu bedaŭrinda
+Dina Dorf! Mi vere sentas bedaŭron por ŝi.
+
+SINJORINO RUMMEL
+Nu, por ŝi estis ja pura feliĉo. Imagu se ŝi restus en la manoj de
+la gepatroj! Ni ĉiuj kompreneble zorgis pri ŝi, admonis ŝin plej
+eble bone. Post ioma tempo fraŭlino Bernick decidigis, ke ŝi venu
+en ĉi tiun domon.
+
+SINJORINO HOLT
+Sed malfacila infano ŝi ĉiam estis. Imagu, — ĉiuj la malbonaj
+ekzemploj. Tia infano ja ne estas kiel unu el niaj propraj; oni devas
+preni ŝin per la bono, sinjorino Lynge.
+
+SINJORINO RUMMEL
+Tŝŝ, — jen ŝi. (laŭte) Jes, tiu Dina vere estas diligenta
+knabino. Nu, ĉu vi venas, Dina? Ni sidas ĉi tie formetante la
+kudraĵojn.
+
+SINJORINO HOLT
+Ho, kiel bonodoras via kafo, dolĉa Dina. Tia antaŭtagmeza taso da
+kafo —
+
+SINJORINO BERNICK
+(ekstere sur la ĝardena ŝtuparo) Bonvolu, sinjorinoj!
+
+(_Fraŭlino Bernick_ kaj _Dina_ estas jam helpinta al la servistino
+enporti la kafaĵojn. Ĉiuj sinjorinoj prenas lokon tie ekstere; ili
+parolas supermezure amike al _Dina_. Iom poste ŝi iras en la salonon
+kaj serĉas sian manlaboron.)
+
+SINJORINO BERNICK
+(ekstere apud la kafotablo) Dina, ĉu ne ankaŭ vi —?
+
+DINA
+Ne, dankon; mi ne volas.
+
+(Ŝi eksidas kun sia kudraĵo. _Sinjorino Bernick_ kaj la _adjunkto_
+interŝanĝas kelkajn vortojn; momenton poste li eniras en la
+salonon.)
+
+ADJUNKTO RØRLUND
+(improvizas pretekston por iri al la tablo kaj diras mallaŭte:)
+Dina.
+
+DINA
+Jes.
+
+ADJUNKTO RØRLUND
+Kial Vi ne volas sidi tie ekstere?
+
+DINA
+Kiam mi envenis kun la kafo, mi povis vidi sur la fremda sinjorino,
+ke ili estis parolintaj pri mi.
+
+ADJUNKTO RØRLUND
+Kaj ĉu Vi ne ankaŭ vidis, kiel amike ŝi kondutis al Vi tie
+ekstere?
+
+DINA
+Sed tion mi ne toleras!
+
+ADJUNKTO RØRLUND
+Vi havas obstinan animon, Dina.
+
+DINA
+Jes.
+
+ADJUNKTO RØRLUND
+Sed kial Vi kondutas tiel?
+
+DINA
+Mi ne estas alia.
+
+ADJUNKTO RØRLUND
+Ĉu Vi ne povus konduti alimaniere?
+
+DINA
+Ne.
+
+ADJUNKTO RØRLUND
+Kial ne?
+
+DINA
+(rigardas lin) Mi ja apartenas al la morale perdituloj.
+
+ADJUNKTO RØRLUND
+Fi, Dina!
+
+DINA
+Ankaŭ patrino apartenis al la morale perdituloj.
+
+ADJUNKTO RØRLUND
+Kiu parolis al Vi pri tiaĵoj?
+
+DINA
+Neniuj; ili neniam parolas. Kial ili tion ne faras? Ĉiuj ili
+kondutas al mi tiel konvene, kvazaŭ mi rompiĝus, se —. Ho, kiom mi
+malamas tiun bonkorecon.
+
+ADJUNKTO RØRLUND
+Kara Dina, mi bone komprenas, ke Vi sentas premon ĉi tie, sed —
+
+DINA
+Jes, se mi povus iri longe foren. Mi certe helpus min mem antaŭen,
+se mi ne vivus inter homoj, kiuj estas tiel — tiel —
+
+ADJUNKTO RØRLUND
+Kiel kiaj?
+
+DINA
+Tiel decaj kaj tiel moralaj.
+
+ADJUNKTO RØRLUND
+Tamen Dina, tion Vi ne pensas.
+
+DINA
+Ho, Vi bone komprenas kiel mi pensas. Ĉiun tagon Hilda kaj Netta
+venas, por ke mi prenu ilin kiel modelojn. Mi neniam povos fariĝi
+tiel deca kiel ili. Mi ne _volas_ tiel fariĝi. Ho, se mi estus longe
+fore, mi certe fariĝus saĝa.
+
+ADJUNKTO RØRLUND
+Vi ja _estas_ saĝa, kara Dina.
+
+DINA
+Kiel tio helpas min ĉi tie?
+
+ADJUNKTO RØRLUND
+Do vojaĝi —. Ĉu Vi pensas serioze pri _tio_?
+
+DINA
+Mi ne restus tagon pli longe, se _Vi_ ne estus.
+
+ADJUNKTO RØRLUND
+Diru Dina, — kial Vi vere tiel volonte estas kune kun mi?
+
+DINA
+Ĉar Vi lernigas al mi tiom da belaĵoj.
+
+ADJUNKTO RØRLUND
+Belaĵoj? Ĉu Vi nomas tion kion mi povas lernigi al Vi belaĵoj?
+
+DINA
+Jes. Aŭ vere — Vi lernigas al mi ion; sed kiam mi aŭdas vin
+paroli, mi ekrigardas tiom da belaĵoj.
+
+ADJUNKTO RØRLUND
+Kio do estas por Vi belaĵo?
+
+DINA
+Tion mi neniam pripensis.
+
+ADJUNKTO RØRLUND
+Pripensu do nun. Kio do estas por Vi belaĵo?
+
+DINA
+Belaĵo estas io granda — kaj tre fora.
+
+ADJUNKTO RØRLUND
+Hm. — Kara Dina, mi kore sentas zorgon pro Vi.
+
+DINA
+Nur _tio_?
+
+ADJUNKTO RØRLUND
+Vi certe bone scias kiel nedireble kara Vi estas por mi.
+
+DINA
+Se mi estus Hilda aŭ Netta, Vi ne timus observigi tion al aliuloj.
+
+ADJUNKTO RØRLUND
+Ho Dina, Vi ne povas facile prijuĝi la mil konsiderojn —. Kiam viro
+estas starigita kiel morala subteno por la socio en kiu li vivas,
+jen —; oni ne povas esti tro singardema. Se mi nur estus certa, ke
+oni ĝuste komprenus kaj interpretus miajn motivojn —. Sed egale;
+Vi _devas_ esti kaj _estos_ helpata supren. Dina, ĉu estas
+interkonsento, ke kiam mi venos — kiam la kondiĉoj permesos al mi
+veni — kaj mi diros: jen mia mano, — Vi volos akcepti ĝin kaj
+fariĝi mia edzino? — Ĉu Vi tion promesas al mi Dina?
+
+DINA
+Jes.
+
+ADJUNKTO RØRLUND
+Dankon, dankon! Ĉar ankaŭ por mi —. Ho Dina, mi tenas Vin kara —.
+Tŝŝ; iu venas. Dina, pro mi, — eliru al la aliuloj.
+
+(Ŝi eliras al la kafotablo. En la sama momento venas
+_grandkomercisto Rummel_, _komercisto Sandstad_ kaj _komercisto
+Vigeland_ el la antaŭa ĉambro maldekstre, sekvataj de _konsulo
+Bernick_, kiu tenas amaseton da paperoj en la mano.)
+
+KONSULO BERNICK
+Nu; do la afero estas decidita.
+
+KOMERCISTO VIGELAND
+Jes, je la nomo de Dio, lasu ĝin nun tia.
+
+GRANDKOMERCISTO RUMMEL
+Ĝi estas decidita, Bernick! Vorto de norvego staras fikse kiel la
+rokoj de la Dovre montaro, tion vi scias!
+
+KONSULO BERNICK
+Kaj neniu perfidos; neniu retiros sin, kia ajn opozicio ni renkontos.
+
+GRANDKOMERCISTO RUMMEL
+Ni staras kaj falas kune, Bernick!
+
+HILMAR TØNNESEN
+(kiu venas de la ĝardena pordo) Falas? Permesu, ĉu ne estas la
+fervojo, kiu falas?
+
+KONSULO BERNICK
+Ne, kontraŭe, ĝi estos iranta —
+
+GRANDKOMERCISTO RUMMEL
+— per vaporo, sinjoro Tønnesen.
+
+HILMAR TØNNESEN
+(pli proksime) Ĉu?
+
+ADJUNKTO RØRLUND
+Kiel?
+
+SINJORINO BERNICK
+(ĉe la ĝardena pordo) Sed, kara Karsten, kio do vere estas —?
+
+KONSULO BERNICK
+Ho, kara Betty, kiel tio do interesas _vin_? (al la tri sinjoroj) Sed
+nun ni devas ellabori la listojn, ju pli frue, des pli bone. Estas
+memsekvo, ke ni kvar subskribas unue. La pozicio, kiun ni havas en la
+socio, devigas nin streĉi nin tiel foren kiel eblas.
+
+KOMERCISTO SANDSTAD
+Kompreneble, sinjoro konsulo.
+
+GRANDKOMERCISTO RUMMEL
+Fariĝos, Bernick; ĵurite.
+
+KONSULO BERNICK
+Jes ja, mi ne dubas pri la rezulto. Ni devas agi ĉiu en sia rondo de
+konatuloj; kaj se ni fine povos montri al vigla partopreno en ĉiuj
+tavoloj de la socio, sekvos de si mem, ke ankaŭ la komunumo devos
+kontribui.
+
+SINJORINO BERNICK
+Tamen, Karsten, vi nepre devas veni por rakonti al ni —
+
+KONSULO BERNICK
+Ho kara Betty, estas io en kio sinjorinoj ne povas trovi komprenon.
+
+HILMAR TØNNESEN
+Vi tamen zorgos pri la fervoja afero?
+
+KONSULO BERNICK
+Jes, kompreneble.
+
+ADJUNKTO RØRLUND
+Sed lastan jaron, sinjoro konsulo —?
+
+KONSULO BERNICK
+Lastan jaron estis tute alia afero. Tiam temis pri marborda linio —
+
+KOMERCISTO VIGELAND
+— kiu estus tute superflua, sinjoro adjunkto; ĉar ni ja havas
+vapor-ŝipojn —
+
+KOMERCISTO SANDSTAD
+— kaj kiu fariĝus ekstreme multekosta, —
+
+GRANDKOMERCISTO RUMMEL
+— jes kaj kiu malutilus al gravaj interesoj en nia urbo.
+
+KONSULO BERNICK
+La esenca afero estis, ke ĝi ne utilus al la pli granda socio. Tial
+mi kontraŭis ĝin, kaj tial la intern-landa linio elektiĝis.
+
+HILMAR TØNNESEN
+Jes, sed tiu ne tuŝos la urbojn en nia regiono.
+
+KONSULO BERNICK
+Ĝi tuŝos _nian_ urbon, mia kara Hilmar; ĉar nun ni konstruos
+flankan fervojon ĉi tien.
+
+HILMAR TØNNESEN
+Aha; nova elpensaĵo do.
+
+GRANDKOMERCISTO RUMMEL
+Jes, ĉu ne estas bonega elpensaĵo? Ĉu?
+
+ADJUNKTO RØRLUND
+Hm —
+
+KOMERCISTO VIGELAND
+Ne estas neinde, ke la providenco aranĝis la terenon por flanka
+fervojo.
+
+ADJUNKTO RØRLUND
+Ĉu vere ke tiel estas, sinjoro Vigeland?
+
+KONSULO BERNICK
+Jes, mi devas konfesi, ke ankaŭ mi rigardas tion kiel providencan
+aranĝon, ke mi ĉi tiun printempon veturis laŭvale en komerco, kaj
+hazarde mi venis en valon, kie mi neniam antaŭe estis. Frapis min
+kvazaŭ fulmo, ke tie ni povus konstrui flankan fervojon al ni.
+Mi dungis inĝenieron por inspekti la terenon; jen mi havas la
+intertempajn kalkulojn kaj taksojn; nenio kontraŭas.
+
+SINJORINO BERNICK
+(daŭre kune kun la sinjorinoj ĉe la ĝardena pordo) Sed, kara
+Karsten, ke vi tenis ĉion tion kaŝita por ni.
+
+KONSULO BERNICK
+Ho, mia bona Betty, vi tamen ne povus kapti la veran konekson. Cetere
+mi ne priparolis tion al iu ajn vivanta homo antaŭ hodiaŭ. Sed nun
+la decida momento venis; nun ni agu nekaŝite kaj plenforte. Jes, eĉ
+se mi metu ĉiun mian ekziston sur tiun aferon, mi realigu ĝin.
+
+GRANDKOMERCISTO RUMMEL
+Ni kune, Bernick; pri tio vi fidu.
+
+ADJUNKTO RØRLUND
+Ĉu Vi do atendas tiom multe el tiu ĉi entrepreno, sinjoroj?
+
+KONSULO BERNICK
+Jes, tion mi devus pensi. Kia levstango tio estu por nia tuta socio!
+Imagu nur la vastajn arbarejojn, kiuj fariĝos atingeblaj; imagu la
+riĉajn erc-ejojn, kiujn ni povos ekspluati; imagu la riveron kun
+aro da akvofaloj laŭvice en la valo! Kia fabrikado _tie_ povos esti
+efektivigata!
+
+ADJUNKTO RØRLUND
+Kaj vi ne timas, ke pli ofta interrilato kun malvirta ekstera
+mondo —?
+
+KONSULO BERNICK
+Ne; estu tute trankvila, sinjoro adjunkto. Nia eta laborema loko
+kuŝas, laŭdo al Dio, nuntempe sur sana morala fundo; ni ja ĉiuj
+kunhelpis por dreni ĝin, se mi rajtas tion diri; kaj tion ni faros
+estonte, ĉiu siamaniere. Vi, sinjoro adjunkto daŭrigos Vian
+benoriĉan agadon en la lernejo kaj en la hejmoj. Ni, la homoj de la
+praktika laboro, subtenas la socion disvastigante bonfarton en plej
+eble vastan rondon; — kaj niaj virinoj, — jes, nur proksimiĝu,
+miaj sinjorinoj; Vi bonvole devas aŭdi — niaj virinoj, mi diras,
+niaj edzinoj kaj filinoj, — jes, agadu neĝenitaj en la servo de
+bonfarado, miaj sinjorinoj, kaj cetere estu helpo kaj komforto por
+Viaj proksimuloj, kiel mia kara Betty kaj Marta estas por mi kaj Olaf
+— (ĉirkaŭrigardas) Nu, kie estas Olaf hodiaŭ?
+
+SINJORINO BERNICK
+Ho, nun dum la feritagoj ne eblas teni lin hejme.
+
+KONSULO BERNICK
+Do li certe estas malsupre ĉe la maro! Vidu, li ne finos antaŭ ol
+okazos akcidento.
+
+HILMAR TØNNESEN
+Bah — eta ludo kun la naturfortoj —
+
+SINJORINO RUMMEL
+Kiel bele de Vi, ke Vi havas tiom da familia sento, sinjoro Bernick.
+
+KONSULO BERNICK
+Nu, la familio estas ja la kerno de la socio. Bona hejmo, honestaj
+kaj fidelaj amikoj, eta dense kunligita rondo, kie neniuj
+maltrankviligaj elementoj enĵetas sian ombron —
+
+(_Plenrajtigito Krap_ envenas de dekstre kun leteroj kaj gazetoj.)
+
+PLENRAJTIGITO KRAP
+Eksterlandaj poŝtaĵoj, sinjoro konsulo; — kaj telegramo el New
+York.
+
+KONSULO BERNICK
+(prenas) Ah, de la ŝipa societo de “Indian Girl”.
+
+GRANDKOMERCISTO RUMMEL
+Nu, la poŝto venis? Jes, do mi petas permeson.
+
+KOMERCISTO VIGELAND
+Jes, ankaŭ mi.
+
+KOMERCISTO SANDSTAD
+Adiaŭ, sinjoro konsulo.
+
+KONSULO BERNICK
+Adiaŭ, adiaŭ, miaj sinjoroj. Kaj memoru do nian kunvenon hodiaŭ
+posttagmeze je la kvina.
+
+LA TRI SINJOROJ
+Jes; bone; kompreneble. (Ili foriras dekstre.)
+
+KONSULO BERNICK
+(Li legis la telegramon) Ne, tio ĉi estas vere pure usona! Vere
+ŝoka —
+
+SINJORINO BERNICK
+Dio, Karsten, kio estas?
+
+KONSULO BERNICK
+Jen, vidu, sinjoro Krap; legu!
+
+PLENRAJTIGITO KRAP
+(legas) “Faru nur plej etan riparon, sendu ‘Indian Girl’ transen tuj
+kiam flosebla; bona sezono; okaze naĝas sur la kargo.” Nu, tion mi
+diru —
+
+KONSULO BERNICK
+Naĝas sur la kargo! Tiuj sinjoroj bone scias, ke kun tia kargo la
+ŝipo sinkos funden kiel ŝtono, se io okazos.
+
+ADJUNKTO RØRLUND
+Jen ni vidas kiel statas en tiuj laŭdataj grandaj socioj.
+
+KONSULO BERNICK
+Vi pravas; eĉ ne respekto por homa vivo, tuj kiam profito venas en
+la ludon. (al _Krap_) Ĉu “Indian Girl” estos mar-preta post kvar —
+kvin tagoj?
+
+PLENRAJTIGITO KRAP
+Jes, se komercisto Vigeland akceptas, ke ni haltigas la laboron sur
+“La Palmo” intertempe.
+
+KONSULO BERNICK
+Hm, tion li ne faros. Nu, bonvolu tralegi la poŝtaĵojn. Aŭdu, ĉu
+Vi ne vidis Olaf tie sur la kajo?
+
+PLENRAJTIGITO KRAP
+Ne, sinjoro konsulo. (Li iras en la plej antaŭan ĉambron
+maldekstre.)
+
+KONSULO BERNICK
+(denove legas la telegramon) Riski la vivon de dek ok homoj! Por tio
+tiuj sinjoroj ne hezitas —
+
+HILMAR TØNNESEN
+Nu, estas la destino de maristo spiti la elementojn; devas esti io
+nervostreĉa en tio, kun maldika tabulo inter si kaj la abismo —
+
+KONSULO BERNICK
+Jes, mi dezirus vidi tiun ŝipposedanton ĉe ni, kiu povus decidigi
+sin al tiaĵo! Eĉ ne unu, eĉ ne unu sola — (ekvidas _Olaf_) Nu,
+laŭdo al Dio, la knabo ĉeestas.
+
+(_Olaf_ kun fiŝŝnuro en la mano venis kurante laŭ la strato kaj
+enen tra la ĝardena pordego.)
+
+OLAF
+(ankoraŭ en la ĝardeno) Onklo Hilmar, mi malsupreniris kaj rigardis
+la vapor-ŝipon.
+
+KONSULO BERNICK
+Ĉu vi nun denove iris sur la kajon.
+
+OLAF
+Ne, mi nur estis en boato. Sed imagu, onklo Hilmar; venis surkajen
+tuta aro da cirkistoj kun ĉevaloj kaj bestoj; kaj estis multaj
+pasaĝeroj.
+
+SINJORINO RUMMEL
+Ho, ĉu ni vere vidos cirkon!
+
+ADJUNKTO RØRLUND
+Ni? Tion mi ne supozas.
+
+SINJORINO RUMMEL
+Ne, kompreneble ne ni, sed —
+
+DINA
+Mi ŝatus vidi cirkon.
+
+OLAF
+Jes, ankaŭ mi.
+
+HILMAR TØNNESEN
+Vi estas stultulo. Ĉu _tio_ estas io rigardinda? Nura dreso. Ne,
+kontraŭe estas io alia vidi la gaŭĉon flugi trans la Pampo sur sia
+spireganta mustango. Sed Dio gardu, ĉi tie en la urbetoj —
+
+OLAF
+(tiras la jupon de _fraŭlino Bernick_) Onklino Marta, vidu, vidu —
+jen ili venas!
+
+SINJORINO HOLT
+Jes, je Dio, jen ni havas ilin.
+
+SINJORINO LYNGE
+Hu, la teruraj homoj!
+
+(Multaj _pasaĝeroj_ kaj aro da _urbanoj_ venas supren laŭ la
+strato.)
+
+SINJORINO RUMMEL
+Jes, certe estas arlekenoj el la ĝusta specio. Rigardu tiun en la
+griza robo, sinjorino Holt; ŝi portas la valizon sur la dorso.
+
+SINJORINO HOLT
+Jes, imagu, ŝi portas ĝin sur la ombreltenilo! Kompreneble ŝi
+estas la edzino de la direktoro.
+
+SINJORINO RUMMEL
+Kaj jen estas la direktoro mem; tiu kun la barbo. Nu, li ja aspektas
+kiel rabisto. Ne rigardu lin, Hilda!
+
+SINJORINO HOLT
+Ankaŭ vi ne, Netta.
+
+OLAF
+Panjo, la direktoro salutas al ni.
+
+KONSULO BERNICK
+Kion do?
+
+SINJORINO BERNICK
+Kion vi diras, infano?
+
+SINJORINO RUMMEL
+Jes, je Dio, jen ankaŭ la virino salutas!
+
+KONSULO BERNICK
+Ne, _tio_ estas do tro senhonta!
+
+FRAŬLINO BERNICK
+(kun nevolonta ekkrio) Ah —!
+
+SINJORINO BERNICK
+Kio estas, Marta?
+
+SINJORINO BERNICK
+Ho ne, nenio; ŝajnis nur al mi —
+
+OLAF
+(krias el ĝojo) Vidu, vidu, jen venas la aliuloj kun la ĉevaloj kaj
+la bestoj! Kaj jen ankaŭ la usonanoj! Ĉiuj la maristoj sur “Indian
+Girl” —
+
+(Oni aŭdas “Yankee Doodle” akompanata de klarneto kaj tamburo.)
+
+HILMAR TØNNESEN
+(kovras la orelojn) Uf, uf, uf!
+
+ADJUNKTO RØRLUND
+Mi kredas, ke ni izolu nin iomete, miaj sinjorinoj; tio ĉi ne estas
+io por ni. Ni reiru al nia laboro.
+
+SINJORINO BERNICK
+Ĉu ni eble antaŭen tiru la kurtenojn?
+
+ADJUNKTO RØRLUND
+Jes, jen ĝuste kion mi pensis.
+
+(La _sinjorinoj_ trovas siajn sidlokojn ĉe la tablo; la _adjunkto_
+fermas la ĝardenan pordon kaj antaŭen tiras la kurtenojn al ĝi kaj
+al la fenestroj; fariĝas duone mallume en la ĉambro.)
+
+OLAF
+(kiu ŝtele rigardas) Panjo, nun la direktor-edzino staras ĉe la
+akvokrano lavante sian vizaĝon.
+
+SINJORINO BERNICK
+Ĉu! Meze sur la vendoplaco!
+
+SINJORINO RUMMEL
+Kaj tio dum brile hela tago!
+
+HILMAR TØNNESEN
+Nu, se mi vojaĝis en dezerto kaj trovis cisternon, ankaŭ mi ne
+hezitus —. Uf, tiu terura klarneto!
+
+ADJUNKTO RØRLUND
+Estas vere evidenta kaŭzo por la polico por procedi.
+
+KONSULO BERNICK
+Nu do; kun eksterlandanoj oni ne devas esti tro severa; tiuj homoj ja
+ne havas la enradikitan senton de deco, kiu tenas _nin_ ene inter la
+ĝustaj baroj. Lasu ilin nur devojiĝi. Kiel tio afektas nin? Tiu
+ĝena konduto, kiu kontraŭas kutimon kaj bonajn morojn, feliĉe ne
+rilatas al nia socio, se mi rajtas tiel paroli. — Jen kio!
+
+(La _fremda sinjorino_ rapide envenas tra la pordo dekstre.)
+
+LA SINJORINOJ
+(timigite sed mallaŭte) La rajdistino! La direktoredzino!
+
+SINJORINO BERNICK
+Dio, kion tio signifu!
+
+FRAŬLINO BERNICK
+(eksaltas) Ah —!
+
+LA SINJORINO
+Bonan tagon, kara Betty! Bonan tagon, Marta! Bonan tagon bofrato!
+
+SINJORINO BERNICK
+(ekkrie) Lona —!
+
+KONSULO BERNICK
+(ekretiriĝas) Je mia vivo —!
+
+SINJORINO HOLT
+Sed Dio kompatu —!
+
+SINJORINO RUMMEL
+Vere ne eblas —!
+
+HILMAR TØNNESEN
+Nu! Uf!
+
+SINJORINO BERNICK
+Lona —! Ĉu vere —?
+
+FRAŬLINO HESSEL
+Ĉu estas mi? Jes, efektive ke estas mi; Vi bonvole povas
+ĉirkaŭbraki min por tio.
+
+HILMAR TØNNESEN
+Uf; uf!
+
+SINJORINO BERNICK
+Kaj nun vi venas ĉi tien kiel —?
+
+KONSULO BERNICK
+— kaj vere volas ludi rolon —?
+
+FRAŬLINO HESSEL
+Ludi rolon? Kiel ludi rolon?
+
+KONSULO BERNICK
+Jes, mi pensas — kun la rajdistoj —
+
+FRAŬLINO HESSEL
+Hahaha! Ĉu vi estas freneza, bofrato? Ĉu vi kredas, ke mi apartenas
+al la rajdistoj? Ne; vere faris mi multajn artaĵojn, kaj arlekenis
+multmaniere —
+
+SINJORINO RUMMEL
+Hm —
+
+FRAŬLINO HESSEL
+— sed akrobataĵojn sur ĉevaldorso mi neniam faris.
+
+KONSULO BERNICK
+Do ne —
+
+SINJORINO BERNICK
+Ah, dank' al Dio!
+
+FRAŬLINO HESSEL
+Ne, ni venis ĝuste kiel aliaj decaj homoj, — tamen kun dualoka
+bileto, sed al tio ni estas kutimitaj.
+
+SINJORINO BERNICK
+Vi diras ni?
+
+KONSULO BERNICK
+(paŝon pli proksimen) Kiuj ni?
+
+FRAŬLINO HESSEL
+Mi kaj la infano, kompreneble.
+
+LA SINJORINOJ
+(ekkrie) La infano!
+
+HILMAR TØNNESEN
+Kio!
+
+ADJUNKTO RØRLUND
+Nu, jen io direnda —!
+
+SINJORINO BERNICK
+Sed kion vi aludas, Lona?
+
+FRAŬLINO HESSEL
+Kompreneble mi aludas al John; mi ja ne havas alian infanon ol John,
+mi scias, — aŭ Johan, kiel vi nomis lin.
+
+SINJORINO BERNICK
+Johan —!
+
+SINJORINO RUMMEL
+(mallaŭte al _sinjorino Lynge_) La perdita frato!
+
+KONSULO BERNICK
+(hezite) Ĉu Johan kunvenis?
+
+FRAŬLINO HESSEL
+Nu jes; nu jes; mi ja ne vojaĝas sen li. Sed vi aspektas tiel
+triste. Kaj vi sidas en krepusko kudrante ion blankan. Ĉu estas
+morto en la familio?
+
+ADJUNKTO RØRLUND
+Fraŭlino, vi trovas vin en la asocio por morale perditaj —
+
+FRAŬLINO HESSEL
+(duonlaŭte) Kion vi diras? Tiuj belaj, silentemaj sinjorinoj
+estus —?
+
+SINJORINO RUMMEL
+Ne _nun_ mi diru —!
+
+FRAŬLINO HESSEL
+Ah, komprenas, komprenas! Sed diable, estas ja sinjorino Rummel! Kaj
+jen ankaŭ sinjorino Holt! Nu, ni tri ne juniĝis de post lastfoje.
+Sed aŭskultu nun bonuloj; lasu nun la morale perditaj atendi
+almenaŭ tagon; ili ne plimalboniĝos pro tio. Ĝoja momento kiel
+tiu ĉi —
+
+ADJUNKTO RØRLUND
+Hejmenveno ne ĉiam estas ĝoja momento.
+
+FRAŬLINO HESSEL
+Ĉu? Kiel vi legas vian biblion, pastoro?
+
+ADJUNKTO RØRLUND
+Mi ne estas pastoro.
+
+FRAŬLINO HESSEL
+Nu; tamen tia vi certe fariĝos. — Sed fi, fi, fi, — tiu ĉi morala
+linaĵo odoras tiel putre, — ĝuste kiel mortotuko. Mi kutimiĝis al
+la aero sur la prerioj, mi; mi diru.
+
+KONSULO BERNICK
+(sekigas la frunton) Jes vere estas iom naŭze ĉi ene.
+
+FRAŬLINO HESSEL
+Atendu, atendu; ni tamen elvenu el la tomba kelo. (tiras la kurtenojn
+flanken) Plenan taglumon ni havu, kiam la knabo venos. Kaj vi vidos
+knabon kiu forlavis la infanecon —
+
+HILMAR TØNNESEN
+Uf!
+
+FRAŬLINO HESSEL
+(malfermas pordon kaj fenestrojn) — Nu, tio signifas, kiam li
+_estos_ sin lavinta — tie supre en la hotelo; ĉar sur la
+vapor-ŝipo li fariĝis malpura kiel porko.
+
+HILMAR TØNNESEN
+Uf, uf!
+
+FRAŬLINO HESSEL
+Uf? Jes vere, ĉu ne estas —! (montras al _Hilmar_ kaj demandas al
+la aliuloj) Ĉu _li daŭre_ drivas dirante sian uf?
+
+HILMAR TØNNESEN
+Mi ne drivas; mi estas ĉi tie pro mia malsano.
+
+ADJUNKTO RØRLUND
+Hm, miaj sinjorinoj, mi opinias ke ne —
+
+FRAŬLINO HESSEL
+(ekvidante _Olaf_) Ĉu _tiu_ estas la _via_, Betty? — Donu la
+manegon, knabo! Aŭ ĉu vi timas vian maljunan, malbelan onklinon?
+
+ADJUNKTO RØRLUND
+(metante sian libron sub la brakon) Miaj sinjorinoj, mi opinias ke ne
+estas animstato por pluen labori hodiaŭ. Sed morgaŭ ni ja denove
+kunvenos?
+
+FRAŬLINO HESSEL
+(dum la fremdaj sinjorinoj levas sin por adiaŭi) Jes, tion ni faru.
+Mi ĝuste estos sur la loko.
+
+ADJUNKTO RØRLUND
+Vi? Permesu, fraŭlino, kion _Vi_ volas fari en _nia_ asocio?
+
+FRAŬLINO HESSEL
+Mi volas aerumi, sinjoro pastoro.
+
+
+
+
+DUA AKTO
+
+
+(La ĝardena salono de la domo de _konsulo
+Bernick_.)
+
+(_Sinjorino Bernick_ sidas sola ĉe la labortablo kun sia kudraĵo.
+Iom poste venas de dekstre _konsulo Bernick_ kun ĉapelo sur la kapo
+kaj kun gantoj kaj bastono.)
+
+SINJORINO BERNICK
+Ĉu vi jam revenas hejmen, Karsten?
+
+KONSULO BERNICK
+Jes. Estas iu, kiun mi petis veni.
+
+SINJORINO BERNICK
+(kun sopiro) Ho jes. Johan certe venos, mi pensas.
+
+KONSULO BERNICK
+Estas iu viro, mi diras. (demetas la ĉapelon) Kie estas ĉiuj la
+sinjorinoj hodiaŭ!
+
+SINJORINO BERNICK
+Sinjorino Rummel kaj Hilda ne havas tempon.
+
+KONSULO BERNICK
+Nu? Sendis ekskuzon?
+
+SINJORINO BERNICK
+Jes; ili havas tiom da farendaĵoj en la domo.
+
+KONSULO BERNICK
+Kompreneble. Kaj la aliaj ankaŭ ne venos?
+
+SINJORINO BERNICK
+Ne, ankaŭ ili havas ekskuzojn.
+
+KONSULO BERNICK
+Tion mi estus povinta diri antaŭe. Kie estas Olaf?
+
+SINJORINO BERNICK
+Mi permesis al li iomete promeni kun Dina.
+
+KONSULO BERNICK
+Hm; Dina, tiu aĉa flirtulino —. Imagu ke hieraŭ ŝi tuj ligis sin
+al Johan —!
+
+SINJORINO BERNICK
+Sed kara Karsten, Dina ja tute ne scias ke —
+
+KONSULO BERNICK
+Nu, sed Johan almenaŭ devus havi la takton ne montri al ŝi iun
+atenton. Mi ja vidis la okulĵetojn de komercisto Vigeland.
+
+SINJORINO BERNICK
+(kun la kudraĵo sur la genuoj) Karsten, ĉu vi povas imagi kion ili
+volas ĉi-hejme?
+
+KONSULO BERNICK
+Hm; li havas ja bienon tie transe, kiu ne bone prosperas; kaj _ŝi_
+ja diris hieraŭ, ke ili devis vojaĝi duaklase —
+
+SINJORINO BERNICK
+Jes, bedaŭrinde, eble estas io tia. Sed ke _ŝi_ akompanis! _Ŝi!_
+Post tiu sanga insulto kiun ŝi faris al vi —!
+
+KONSULO BERNICK
+Ho, ne pensu pri tiuj malnovaj historioj.
+
+SINJORINO BERNICK
+Kiel povas mi pensi pri aliaĵoj nuntempe? Li ja estas mia frato; —
+ne estas pro li; sed ĉiuj malagrablaĵoj kiuj kaŭziĝus al _vi_ —.
+Karsten, mi ege timas ke —
+
+KONSULO BERNICK
+Por kio vi timas?
+
+SINJORINO BERNICK
+Ĉu oni imagus meti lin en karceron pro la mono, kiu malaperis por
+via patrino?
+
+KONSULO BERNICK
+Ho, babilaĵo! Kiu povas pruvi ke mono malaperis?
+
+SINJORINO BERNICK
+Aĥ Dio, tion scias ja la tuta urbo, bedaŭrinde; kaj vi mem ja
+diris —
+
+KONSULO BERNICK
+Mi nenion diris. La urbo scias nenion pri tiuj aferoj; ĉio estis nur
+senfundaj onidiroj.
+
+SINJORINO BERNICK
+Ho kiel grandanima vi estas, Karsten!
+
+KONSULO BERNICK
+Ĉesu pri tiuj memoraĵoj, mi diras! Vi ne scias, kiom vi turmentas
+min revivigi ĉion tian! (Li paŝas tien kaj reen sur la planko; jen
+li forĵetas la bastonon.) Ĉagrene ke ili venis hejmen ĝuste nun,
+— nun kiam mi bezonas bonvoleman animstaton kaj en la urbo kaj en la
+gazetaro. Korespondiĝos al la gazetoj en la najbaraj urboj. Ĉu mi
+akceptas ilin _bone_ aŭ ĉu mi akceptas ilin _malbone_, ambaŭkaze
+tio pridiskutiĝos kaj interpretiĝos. Oni kirlas ĉion tion
+malnovan, — tiel kiel _vi_ faras. En socio kiel la nia —. (ĵetas
+la gantojn sur la tablon) Kaj eĉ neniun homon mi havas kun kiu mi
+povas paroli kaj ĉe kiu serĉi apogon.
+
+SINJORINO BERNICK
+Eĉ neniu, Karsten?
+
+KONSULO BERNICK
+Ne, kiu _tiu_ estus? — Ekhavi ilin sur la nukon ĝuste nun! Ne estas
+dubo ke ili iel faros skandalon, — precipe ŝi. Ĉu ne estas
+malfeliĉo havi tiajn homojn en sia familio!
+
+SINJORINO BERNICK
+Jes, _mi_ ja ne povas kulpiĝi ke —
+
+KONSULO BERNICK
+Pro kio vi ne povas kulpiĝi? Ke vi estas parenca al ili? Jen vera
+vorto.
+
+SINJORINO BERNICK
+Kaj mi ankaŭ ne petis ilin veni hejmen.
+
+KONSULO BERNICK
+Aŭdu; jen ni estas! Mi ne petis ilin veni hejmen; mi ne skribis por
+revenigi ilin; mi ne tiris ilin hejmen per la haroj! Ho, mi scias la
+tutan ĉenon parkere.
+
+SINJORINO BERNICK
+(ekploras) Sed nun vi ja estas tiel senkoreca —
+
+KONSULO BERNICK
+Ja, ĝuste; ekploru, tiel ke la urbo ricevos ankaŭ _tion_ por
+priparoli. Finu tiun stultecon, Betty. Eliru; eble venos iu. Ĉu oni
+vidu la sinjorinon kun ruĝaj okuloj? Jes, tio estus bonege, se
+disvastiĝus inter la homoj ke —. Nu, jen mi aŭdas iun en la
+koridoro. (iu frapas) Envenu!
+
+(_Sinjorino Bernick_ eliras sur la ĝardenan ŝtuparon kun sia
+kudraĵo. _Ŝipkonstruisto Aŭne_ envenas de dekstre.)
+
+ŜIPKONSTRUISTO AŬNE
+Bonan tagon, sinjoro konsulo.
+
+KONSULO BERNICK
+Bonan tagon. Nu, Vi certe divenas, kion mi volas pri Vi?
+
+ŜIPKONSTRUISTO AŬNE
+La plenrajtigito menciis hieraŭ, ke la konsulo ne estus kontenta
+pri —
+
+KONSULO BERNICK
+Mi estas malkontenta pri la tuta organizado en la ŝipfarejo, Aŭne.
+Vi ja neniel progresas pri la averiuloj. “La Palmo” devus ja esti sub
+velo antaŭ longe. Komercisto Vigeland venas ĉiun tagon ĉagrenante
+min; estas malfacila viro havi kiel kunpartoprenanto en ŝipasocio.
+
+ŜIPKONSTRUISTO AŬNE
+“La Palmo” povos forveli postmorgaŭ.
+
+KONSULO BERNICK
+Nu fine. Sed la usonano “Indian Girl”, kiu atendis kvin semajnojn
+kaj —
+
+ŜIPKONSTRUISTO AŬNE
+La usonano? Mi kompreniĝis, ke ni unue faru la laboron sur Via
+propra ŝipo.
+
+KONSULO BERNICK
+Al tio mi ne donis al vi iun kaŭzon kredi. Fariĝus ĉiu ebla
+progresigo ankaŭ pri la usonano; sed tio ne okazas.
+
+ŜIPKONSTRUISTO AŬNE
+La ŝipo estas traputrita en la fundo, sinjoro konsulo; ju pli ni
+flikas, des pli da putraĵo ni trovas.
+
+KONSULO BERNICK
+Tio ne estas la kialo. Plenrajtigito Krap diris al mi la tutan veron.
+Vi ne kapablas labori per la novaj maŝinoj, kiujn mi havigis, — aŭ
+pli ĝuste, vi ne _volas_ labori per ili.
+
+ŜIPKONSTRUISTO AŬNE
+Sinjoro konsulo, mi estas nun en la kvindekaj jaroj; eĉ de la knabaj
+jaroj mi kutimiĝis al la malnovaj labormetodoj —
+
+KONSULO BERNICK
+Ilin ni ne povas uzi nuntempe. Ne kredu, Aŭne, ke estas pro la
+profito; ĝin mi ne bezonas, feliĉe; sed mi havas konsiderojn al la
+socio en kiu mi vivas, kaj al la firmao, kiun mi estras. Estas de mi,
+ke la progresoj venos, alie ili neniam venos.
+
+ŜIPKONSTRUISTO AŬNE
+Ankaŭ mi bonvenigas progreson, sinjoro konsulo.
+
+KONSULO BERNICK
+Jes, por via limigita rondo, por la laborista profesio. Ho, mi bone
+konas vian agitadon; Vi faras paroladojn; Vi agitigas la laboristojn;
+sed kiam evidenta progreso ofertas sin, kiel nun niaj novaj maŝinoj,
+vi ne volas kunlabori; kaj vi fariĝas timema.
+
+ŜIPKONSTRUISTO AŬNE
+Jes, mi efektive fariĝas timema, sinjoro konsulo; mi timas pro tiuj
+multaj, de kiuj la maŝinoj prenas la panon. La konsulo ofte parolas
+pri la devo atenti pri la socio; sed mi pensas, ke ankaŭ la socio
+havas siajn devojn. Kiel kuraĝas la tekniko kaj la kapitalo instali
+la novajn inventaĵojn en la laboron, antaŭ ol la socio povas
+lernigi novan generacion uzi ilin?
+
+KONSULO BERNICK
+Vi tro multe legas kaj cerbumas, Aŭne; ne estas bone por Vi; estas
+_tio_ kio igas vin malkontenta pri via stato.
+
+ŜIPKONSTRUISTO AŬNE
+Ne estas tio, sinjoro konsulo; sed mi ne toleras ke unu post la alia
+el lertaj laboristoj maldungiĝas kaj fariĝas mankohavaj pro tiuj
+maŝinoj.
+
+KONSULO BERNICK
+Hm; kiam la presarto elpensiĝis, multaj skribistoj perdis la
+laboron.
+
+ŜIPKONSTRUISTO AŬNE
+Ĉu la konsulo ŝatus tiun arton, se Vi tiam estus skribisto?
+
+KONSULO BERNICK
+Mi ne vokis Vin por disputi. Mi vokis Vin por diri al Vi, ke nia
+averiulo “Indian Girl” estu preta forveli postmorgaŭ.
+
+ŜIPKONSTRUISTO AŬNE
+Sed, sinjoro konsulo —
+
+KONSULO BERNICK
+Postmorgaŭ, Vi aŭdas; samtempe kun nia propra ŝipo; ne horon pli
+malfrue. Mi havas miajn bonajn kialojn por antaŭenigi tiun aferon.
+Ĉu Vi legis la gazeton de hodiaŭ matene? Nu, do Vi scias ke la
+usonanoj ĉi tie denove faris tumultojn. Tiu malmorala kanajlaro
+kvazaŭ renversigas la tutan urbon; ne pasas nokto sen iu interbatado
+en la gastejoj kaj sur la stratoj; pri ĉiu alia abomenaĵo mi ne
+volas paroli.
+
+ŜIPKONSTRUISTO AŬNE
+Jes, estas certe, ke ili estas fiuloj.
+
+KONSULO BERNICK
+Kaj kiu kulpiĝas pro tiu malordaĵo? Estas mi! Jes, estas mi kiu
+kulpiĝas. Tiuj gazetskribaĵoj aludaĉas kaŝvorte, ke ni centrigas
+la laboron al “La Palmo”. Mi, kiu havas la taskon per la ekzemplo
+influi la kuncivitanojn, devas lasi ĵetiĝi tiajon al mi en la
+nazon. Tion mi ne toleras. Ne servas al mi, ke mia nomo tiel
+makuliĝas.
+
+ŜIPKONSTRUISTO AŬNE
+Ho, la nomo de la konsulo estas tiel bona, ke ĝi povas porti tion
+kaj ankaŭ pli.
+
+KONSULO BERNICK
+Ne nun; ĝuste en tiu ĉi tempo mi bezonas ĉiun estimon kaj
+bonvolon, kiun povas montri al mi miaj kunurbanoj. Mi havas en
+preparo grandan entreprenon, kiel vi eble aŭdis; sed se sukcesiĝas
+al malbonvolemaj homoj skui la nepran fidon al mia persono, tio povos
+okazigi al mi la plej grandajn malfacilaĵojn. Tial mi volas por kiu
+ajn prezo eviti tiujn malicajn kaj kalumniantajn gazetskribaĵojn,
+kaj tial mi fiksis la datolimon al postmorgaŭ.
+
+ŜIPKONSTRUISTO AŬNE
+Sinjoro konsulo, Vi povus same bone fiksi la daton al hodiaŭ
+posttagmeze.
+
+KONSULO BERNICK
+Vi aludas ke mi postulas neeblecon?
+
+ŜIPKONSTRUISTO AŬNE
+Jes, kun tiu laboristaro, kiun ni nun havas —
+
+KONSULO BERNICK
+Bone, bone; — do ni devas serĉi aliloke.
+
+ŜIPKONSTRUISTO AŬNE
+Ĉu Vi vere volas maldungi ankoraŭ pliajn el la malnovaj laboristoj?
+
+KONSULO BERNICK
+Ne, pri tio mi ne pensas.
+
+ŜIPKONSTRUISTO AŬNE
+Ĉar mi certe kredas, ke tio metus malbonan sangon kaj en la urbo kaj
+en la gazetoj, se Vi tion farus.
+
+KONSULO BERNICK
+Eble, kaj tial mi tion ne faros. Sed se “Indian Girl” ne estos kvite
+vojaĝpreta postmorgaŭ, mi maldungos _Vin_.
+
+ŜIPKONSTRUISTO AŬNE
+(kun ekskuo) Mi! (Li ridas) Nun Vi ŝercas, sinjoro konsulo.
+
+KONSULO BERNICK
+Pri tio Vi ne fidu.
+
+ŜIPKONSTRUISTO AŬNE
+Vi povus pensi pri maldungo de _mi_? Mi, kies patro kaj avo estis en
+la servo de la ŝipfarejo ĉiujn siajn vivotagojn, kaj same pri mi —
+
+KONSULO BERNICK
+Kiu nun devigas min al tio?
+
+ŜIPKONSTRUISTO AŬNE
+Vi postulas neeblecon, sinjoro konsulo.
+
+KONSULO BERNICK
+Ho, bona volo ne konas neeblecon. Jes aŭ ne; respondu definite, aŭ
+Vi havas Vian maldungon surloke.
+
+ŜIPKONSTRUISTO AŬNE
+(paŝon pli proksimen) Sinjoro konsulo, ĉu Vi vere pripensis, kion
+signifas maldungi malnovan laboriston. Vi pensas ke li devas serĉi
+por trovi ion alian? Nu ja, tion li ja povas; sed ĉu estas per tio
+farite? Vi devus iam esti en la domo de tia maldungita laboristo la
+vesperon kiam li venas hejmen kaj metas la ilarkeston interne de la
+pordo.
+
+KONSULO BERNICK
+Ĉu vi opinias, ke mi maldungas Vin kun senzorga koro? Ĉu mi ne
+ĉiam estis bona mastro?
+
+ŜIPKONSTRUISTO AŬNE
+Tiel ju pli malbone, sinjoro konsulo. Ĝuste tial tiuj hejme ne volas
+kulpigi _Vin_; ili ne diros ion al mi, ĉar tion ili ne kuraĝas; sed
+ili rigardos min, kiam mi tion ne rimarkas, kaj pensos tiel: certe
+estas merite. Jenon Vi vidos — tion mi ne povas elteni. Tia simpla
+viro kia mi estas, mi tamen estas konsiderata kiel la unua inter la
+miaj. Mia modesta hejmo ankaŭ estas eta socio, sinjoro konsulo. Tiun
+etan socion mi povis apogi kaj subteni, ĉar mia edzino fidis min,
+kaj ĉar miaj infanoj fidis min. Kaj nun ĉio ruiniĝos.
+
+KONSULO BERNICK
+Jes, se ne povas esti alie, la minoro devas fali por la maĵoro; la
+specialaĵo estu je la nomo de Dio oferata por la ĝereralaĵo. Iun
+alian respondon mi ne scias doni al Vi, kaj alimaniere ne okazas en
+tiu ĉi mondo. Sed Vi estas obstina viro, Aŭne! Vi kontraŭstaras
+min, ne ĉar Vi nenion alian povas, sed ĉar Vi ne volas realigi la
+superecon de maŝinoj kontraŭ la manforto.
+
+ŜIPKONSTRUISTO AŬNE
+Kaj Vi persistas je tio, sinjoro konsulo, ĉar Vi scias, ke se Vi
+forĉasas min, Vi almenaŭ pruvis por la gazetaro Vian bonan volon.
+
+KONSULO BERNICK
+Kaj ja se tiel estus? Vi ja aŭdas, kiom tio gravas por mi, — aŭ
+ekhavi la gazetaron sur la nukon aŭ bonvoligi ĝin por mi en la
+momento, kiam mi laboras por granda afero por progresigi la komunan
+bonon. Kio do? Ĉu mi povas agi alimaniere ol mi faras? Mi povas diri
+al Vi, ke ĉi tie estas demando ĉu subteni Vian hejmon, kiel Vi
+esprimas Vin, aŭ eble teni centojn da novaj hejmoj malsupre, centojn
+da hejmoj, kiuj neniam povos fondiĝi, neniam ricevos fumantan tubon,
+se mi ne sukcesos realigi, tion por kio mi nun laboras. Tial mi donis
+al Vi la elekton.
+
+ŜIPKONSTRUISTO AŬNE
+Jes, ĉar tiel estas, mi ne havas plian kontraŭdiron.
+
+KONSULO BERNICK
+Hm —; Mia kara Aŭne, vere ĉagrenigas min ke ni devas disiĝi.
+
+ŜIPKONSTRUISTO AŬNE
+Ni ne disiĝos, sinjoro konsulo.
+
+KONSULO BERNICK
+Kiel?
+
+ŜIPKONSTRUISTO AŬNE
+Ankaŭ simpla viro havas ion por defendi en la mondo.
+
+KONSULO BERNICK
+Nu do, nu do; — kaj vi do opinias, ke vi kuraĝas promesi —?
+
+ŜIPKONSTRUISTO AŬNE
+“Indian Girl” kvitiĝos por forvelo postmorgaŭ. (Li salutas kaj
+eliras dekstre.)
+
+KONSULO BERNICK
+Aha, jen mi ekmastris tiun obstinulon. Tio estas por mi bona
+aŭguro —
+
+(_Hilmar Tønnesen_, kun cigaro en la buŝo, venas tra la ĝardena
+pordego.)
+
+HILMAR TØNNESEN
+(sur la ĝardena ŝtuparo) Bonan tagon, Betty! Bonan tagon, Bernick!
+
+SINJORINO BERNICK
+Bonan tagon.
+
+HILMAR TØNNESEN
+Nu, vi ploris, mi vidas. Vi sekve scias?
+
+SINJORINO BERNICK
+Kion mi scias?
+
+HILMAR TØNNESEN
+Ke la skandalo vigle evoluas? Uf!
+
+KONSULO BERNICK
+Kion tio signifas?
+
+HILMAR TØNNESEN
+(envenas) Jes, la du usonanoj ĉirkaŭiras en la stratoj, kaj montras
+sin kune kun Dina Dorf.
+
+SINJORINO BERNICK
+(postsekvas lin) Sed, Hilmar, ĉu eblas —?
+
+HILMAR TØNNESEN
+Jes, bedaŭrinde, estas pura vero. Lona eĉ estis tiel senkonsidera
+krii post min; sed kompreneble mi ŝajnigis ne aŭdi.
+
+KONSULO BERNICK
+Kaj certe ne pasis nerimarkate.
+
+HILMAR TØNNESEN
+Ne, tion vi ja komprenas. La homoj staris trankvile postrigardante
+ilin. Aspekte onidiro kuris fulme tra la urbo, — kiel fajro sur la
+prerioj. En ĉiuj domoj homoj staris ĉe la fenestroj atendante ke la
+aro pretermarŝu; kapon ĉe kapo malantaŭ la kurtenoj — uf! Jes,
+pardonu, Betty; mi diras uf; ĉar tio ĉi igas min nervoza; — se tio
+daŭru, mi devas pripensi entrepreni iom longan vojaĝon.
+
+SINJORINO BERNICK
+Sed vi estus devinta paroli al li kaj admoni lin —
+
+HILMAR TØNNESEN
+Meze en la strato? Ne, vi devas pardoni. Sed ke tiu homo entute
+kuraĝas aperi en la urbo! Nu, ni vidu ĉu la gazetaro faros finon
+pri li; jes, pardonu, Betty; sed —
+
+KONSULO BERNICK
+La gazetaro, vi diras? Ĉu vi aŭdis aludojn pri tiaĵo?
+
+HILMAR TØNNESEN
+Jes, verŝajne. Kiam mi foriris de vi hieraŭ vespere, mi paŝadis al
+la klubo pro mia malsano. Mi bone komprenis per la tuja silento, ke
+ili estis parolintaj pri la usonanoj. Kaj jen envenas la impertinenta
+redaktoro Hammer. Li gratulas min tute laŭte pri la hejmenveno de
+mia riĉa kuzo.
+
+KONSULO BERNICK
+Riĉa —?
+
+HILMAR TØNNESEN
+Jes, tiel li esprimis sin. Kompreneble mi mezure rigardis lin
+laŭmerite, kaj komprenigis al li, ke mi nenion scias pri la riĉeco
+de Johan Tønnesen. “Ĉu?” li diras, “jen strangaĵo; en usono oni
+kutime trabatas sin, kiam oni havas ion komence, kaj via kuzo ja ne
+transvojaĝis senhava.”
+
+KONSULO BERNICK
+Hm, faru nun al mi la servon —
+
+SINJORINO BERNICK
+(maltrankvila) Jen, vi povas vidi, Karsten —
+
+HILMAR TØNNESEN
+Jes, mi almenaŭ havis sendorman nokton pro tiu persono. Kaj li tamen
+ĉirkaŭiras en la stratoj kun vizaĝo kvazaŭ nenio ĝenis lin. Kial
+li ne tuj malaperis? Estas ja netolereble kiel vivpersistaj iuj homoj
+estas.
+
+SINJORINO BERNICK
+Dio, Hilmar, kion vi diras?
+
+HILMAR TØNNESEN
+Ho, mi diras nenion. Sed jen li forsavas sin senvunde el
+fervojaj akcidentoj kaj de atakoj de kaliforniaj ursoj kaj de
+Nigrapied-Indianoj; eĉ ne senskalpigita —. Uf, jen ili estas.
+
+KONSULO BERNICK
+(rigardas laŭ la strato) Ankaŭ Olaf estas kun ili!
+
+HILMAR TØNNESEN
+Jes, kompreneble; ili volas ja memorigi al la homoj, ke ili apartenas
+al la plej altstara familio de la urbo. Vidu, jen venas ĉiuj
+neniofarantoj el la apoteko por rigardi ilin kaj fari siajn
+rimarkojn. Tio vere ne estas por _miaj_ nervoj; kiel viro sub tiaj
+cirkonstancoj kapablu teni la standardon de la ideo alta, tio —
+
+KONSULO BERNICK
+Ili iros rekte ĉi tien. Aŭdu nun, Betty, estas mia definitiva
+deziro, ke vi montru al ili ĉian afablecon.
+
+SINJORINO BERNICK
+Vi permesas, ĉu, Karsten?
+
+KONSULO BERNICK
+Jes certe; certe; kaj ankaŭ vi, Hilmar. Espereble ili ne restos
+longe; kaj kiam kune inter ni mem —; neniuj aludoj; neniel ni devas
+ilin ofendeti.
+
+SINJORINO BERNICK
+Ho, Karsten, kiel grandanima vi estas.
+
+KONSULO BERNICK
+Nu, nu, lasu tion.
+
+SINJORINO BERNICK
+Ho, ke mi danku vin; kaj pardonu, ke mi antaŭe fariĝis impeta.
+Ho, vi ja havis ĉian kaŭzon por —
+
+KONSULO BERNICK
+Lasu, lasu, mi diras!
+
+HILMAR TØNNESEN
+Uf!
+
+(_Johan Tønnesen_ kaj _Dina_, poste _fraŭlino Hessel_ kaj _Olaf_
+venas tra la ĝardeno.)
+
+FRAŬLINO HESSEL
+Bonan tagon, bonan tagon. Vi karaj homoj.
+
+JOHAN TØNNESEN
+Nun ni ĉirkaŭiris por viziti la malnovajn ejojn, Karsten.
+
+KONSULO BERNICK
+Jes, mi aŭdas tion. Multaj ŝanĝoj; ĉu ne?
+
+FRAŬLINO HESSEL
+Ĉie la grandaj bonfaroj de konsulo Bernick. Ni vizitis la
+establaĵojn, kiujn vi donis al la urbo —
+
+KONSULO BERNICK
+Nu _tie_?
+
+FRAŬLINO HESSEL
+“Donaco de Karsten Bernick”, kiel skribiĝis super la enirejo. Jes,
+vi certe estas la viro malantaŭ ĉio en la loko.
+
+JOHAN TØNNESEN
+Kaj belaj ŝipoj vi ankaŭ havas. Mi renkontis la ŝipestron de “La
+Palmo”, mia malnova amiko de la lernejo —
+
+FRAŬLINO HESSEL
+Jes, kaj nova lernejo vi ankaŭ konstruigis; kaj ankaŭ la
+gas-kondukilo kaj la akvo-kondukilo fariĝis dank' al vi, mi aŭdas.
+
+KONSULO BERNICK
+Nu, oni devas ja labori por la komunumo en kiu oni vivas.
+
+FRAŬLINO HESSEL
+Jes, bele, bofrato; sed estas ankaŭ ĝojo vidi, kiel la homoj
+montras al vi rekonon. Mi ne estas vanta, mi opinias; sed mi ne
+povis min deteni memorigi al iu kaj alia kun kiuj ni parolis, ke
+ni apartenas al la familio.
+
+HILMAR TØNNESEN
+Uf —!
+
+FRAŬLINO HESSEL
+Ĉu vi diras Uf! al tio?
+
+HILMAR TØNNESEN
+Ne, mi diris hm —
+
+FRAŬLINO HESSEL
+Nu, tion vi rajtas, povrulo. Sed hodiaŭ vi aspekte estas solaj en la
+domo?
+
+SINJORINO BERNICK
+Jes, hodiaŭ ni estas solaj.
+
+FRAŬLINO HESSEL
+Jes, efektive ni renkontis moralajn parojn supre sur la foirplaco;
+aspekte urĝis por ili. Sed ni mem ankoraŭ ne sufiĉe kunparolis;
+hieraŭ ja ĉeestis tiuj fervoj-planantoj, kaj aldone ni havis tiun
+pastoron —
+
+HILMAR TØNNESEN
+La adjunkto.
+
+FRAŬLINO HESSEL
+_Mi_ nomas lin la pastoro. Sed kion vi opinias pri _mia_ faro dum
+tiuj ĉi dek kvin jaroj? Ĉu li ne fariĝis brava knabo? Kiu rekonus
+la petolulon, kiu forkuris de la hejmo?
+
+HILMAR TØNNESEN
+Hm —!
+
+JOHAN TØNNESEN
+Ho, Lona, ne tro fanfaronu.
+
+FRAŬLINO HESSEL
+Jes, pri tio mi estas fiera. Je Dio, tio ja estas la sola, kion mi
+faris en la mondo; sed tio almenaŭ donas al mi iun rajton ekzisti.
+Jes, Johan, kiam mi pensas kiel ni du tie transe komencis per niaj
+kvar nudaj manaĉoj —
+
+HILMAR TØNNESEN
+Manoj.
+
+FRAŬLINO HESSEL
+_Mi_ diras manaĉoj; ĉar malpuraj ili estis —
+
+HILMAR TØNNESEN
+Uf!
+
+FRAŬLINO HESSEL
+— kaj malplenaj ili ankaŭ estis.
+
+HILMAR TØNNESEN
+Malplenaj? Ne, nun mi devas diri —!
+
+FRAŬLINO HESSEL
+Kion vi devas diri?
+
+KONSULO BERNICK
+Hm!
+
+HILMAR TØNNESEN
+Nun mi devas diri — uf! (Li eliras sur la ĝardenan ŝtuparon.)
+
+FRAŬLINO HESSEL
+Kio estas al li?
+
+KONSULO BERNICK
+Ne atentu lin; li estas iom nervoza ĉi-tempe. Sed ĉu vi ne volas
+iomete ĉirkaŭrigardi en la ĝardeno? Tie vi ankoraŭ ne estis, kaj
+ĝuste nun mi havas liberan horon.
+
+FRAŬLINO HESSEL
+Jes, ŝatinde; vi sciu ke en miaj pensoj mi ofte estis en la ĝardeno
+ĉe vi.
+
+SINJORINO BERNICK
+Ankaŭ tie estas grandaj ŝanĝoj, vi vidos.
+
+(_La konsulo, la sinjorino_ kaj _fraŭlino Hessel_ eliras en la
+ĝardenon, kie oni foje vidas ilin dum kio sekvas.)
+
+OLAF
+(ĉe la ĝardena pordo) Onklo Hilmar, ĉu vi scias kion onklo Johan
+demandis al mi? Li demandis, ĉu mi volas akompani lin al Ameriko.
+
+HILMAR TØNNESEN
+Vi mallertulo, ankoraŭ tirante la jupon de via patrino —
+
+OLAF
+Jes, sed tion mi ne plu faros. Vi vidos, kiam mi fariĝos granda —
+
+HILMAR TØNNESEN
+Ho, babilaĵo; vi ne havas iun seriozan deziron por tiu ŝtalhardiĝo
+en — (Ili eliras en la ĝardenon.)
+
+JOHAN TØNNESEN
+(al _Dina_, kiu deprenis la ĉapelon starante ĉe la pordo kaj
+skuante la polvon de sia robo) Vi fariĝis sufiĉe varma dum la
+promenado.
+
+DINA
+Jes, estis ĝuinda promenado; tian ĝuindan promenadon mi neniam
+havis antaŭe.
+
+JOHAN TØNNESEN
+Vi eble kutime ne faras matenajn promenadojn.
+
+DINA
+Ho jes; sed nur kun Olaf.
+
+JOHAN TØNNESEN
+Nu. — Ĉu Vi eble pli emas eliri en la ĝardenon ol resti ĉi tie?
+
+DINA
+Ne, mi pli deziras resti ĉi tie.
+
+JOHAN TØNNESEN
+Ankaŭ mi. Tamen nun estas interkonsento, ke ni ĉiun matenon faros
+tian promenadon kune.
+
+DINA
+Ne, sinjoro Tønnesen, tion Vi ne farus.
+
+JOHAN TØNNESEN
+Kion mi ne farus? Vi ja promesis.
+
+DINA
+Jes, sed kiam mi pripensas, — Vi ne eliru kune kun mi.
+
+JOHAN TØNNESEN
+Sed kial ne?
+
+DINA
+Nu, Vi estas fremdulo; Vi ne povas kompreni; sed mi diru al Vi —
+
+JOHAN TØNNESEN
+Ja?
+
+DINA
+Ne, mi preferas ne paroli pri tio.
+
+JOHAN TØNNESEN
+Ho certe; al mi Vi povas ja paroli pri kio ajn.
+
+DINA
+Jes, mi diru al Vi, ke mi ne estas kiel la aliaj junaj knabinoj;
+estas io — io tia pri mi. Tial vi ne faru.
+
+JOHAN TØNNESEN
+Sed tion ĉi mi tute ne komprenas. Vi do ne faris ion malbonan?
+
+DINA
+Ne mi, sed —; ne, nun mi ne volas paroli pli pri tio. Vi certe
+sciiĝos de aliuloj.
+
+JOHAN TØNNESEN
+Hm.
+
+DINA
+Sed estas io alia, pri kio mi volus demandi vin.
+
+JOHAN TØNNESEN
+Kaj kio estas tio?
+
+DINA
+Laŭdire estas facile akiri iun lertecon tie transe en Ameriko?
+
+JOHAN TØNNESEN
+Nu, tiel facile tio tamen ne ĉiam estas; oni devas ofte suferi kaj
+pene labori en la komenco.
+
+DINA
+Jes, tion mi emus —
+
+JOHAN TØNNESEN
+Vi?
+
+DINA
+Mi certe povas labori; mi estas forta kaj sana, kaj onklino Marta
+multe legis kun mi.
+
+JOHAN TØNNESEN
+Sed je diablo, venu kaj forvojaĝu kun ni.
+
+DINA
+Ho, Vi nur ŝercas; tion Vi ankaŭ diris al Olaf. Sed _tion_ kion mi
+volus scii, estas ĉu la homoj estas tre — tre moralecaj tie transe?
+
+JOHAN TØNNESEN
+Moralecaj?
+
+DINA
+Jes, mi pensas, ĉu ili estas tiel — decaj kaj konvenkondutaj, kiel
+ĉi tie.
+
+JOHAN TØNNESEN
+Nu, ili tamen ne estas tiel malbonaj, kiel oni ĉi tie kredas. Pri
+tio Vi ne timu.
+
+DINA
+Vi ne komprenas min. Mi dezirus, ke ili ne estus tiel decaj kaj
+moralecaj.
+
+JOHAN TØNNESEN
+Do ne? Kiel dezirus Vi ke ili estus?
+
+DINA
+Mi volus ke ili estu naturaj.
+
+JOHAN TØNNESEN
+Nu ja, eble ĝuste _tiaj_ ili estas.
+
+DINA
+Ĉar tial estus bone por mi se mi venus transen.
+
+JOHAN TØNNESEN
+Jes, certe estus! Tial vi akompanu nin.
+
+DINA
+Ne, kun Vi mi ne volus vojaĝi; mi devus vojaĝi sola. Ho, mi certe
+atingus ion; mi certe fariĝus —
+
+KONSULO BERNICK
+(antaŭ la ĝardena ŝtuparo kun la du sinjorinoj) Restu, restu; mi
+serĉos ĝin, kara Betty. Vi facile malvarmumiĝus.
+
+(Li venas en la salonon kaj serĉas la ŝalon de la _sinjorino_.)
+
+SINJORINO BERNICK
+(ekstere en la ĝardeno) Ankaŭ vi kunvenu, Johan; ni iros en la
+groton.
+
+KONSULO BERNICK
+Ne, Johan devas resti. Jen vidu, Dina; prenu la ŝalon de mia edzino
+kaj kuniru. Johan restos ĉe mi, kara Betty. Mi ja bezonas aŭdi ion
+pri la kondiĉoj tie transe.
+
+SINJORINO BERNICK
+Jes, jes; sed venu do poste; vi ja scias kie vi trovos nin.
+
+(_Sinjorino Bernick, fraŭlino Hessel_ kaj _Dina_ foriras tra la
+ĝardeno dekstren.)
+
+KONSULO BERNICK
+(momenton postrigardas ilin, iras por fermi la plej internan pordon
+maldekstre, poste iras al Johan, kaptas liajn manojn, skuas kaj
+premas ilin) Johan, nun ni estas solaj; permesu al mi danki vin.
+
+JOHAN TØNNESEN
+Pro kio?
+
+KONSULO BERNICK
+Mia domo kaj hejmo, mia familia feliĉo, mia tuta civitana stato en
+la socio, — ĉion mi ŝuldas al vi.
+
+JOHAN TØNNESEN
+Nu, tio ĝojigas min, kara Karsten; sekvis do io bona el tiu freneza
+historio.
+
+KONSULO BERNICK
+(denove skuas liajn manojn) Dankon, tamen dankon! Ne unu inter dek
+mil farus, kion vi tiam faris por mi.
+
+JOHAN TØNNESEN
+Jen babilaĵo! Ĉu ni ne ambaŭ estis junaj kaj facilanimaj? Unu el
+ni devis ja preni sur sin la kulpon —
+
+KONSULO BERNICK
+Sed kiu estis pli proksima ol la kulpulo?
+
+JOHAN TØNNESEN
+Haltu! Tiam la senkulpulo estis pli proksima. Mi ja estis libera kiel
+birdo, orfa; eskapi el tiu penego en la oficejo estis por mi feliĉo.
+Vi kontraŭe havis vian maljunan patrinon en vivo, kaj krome vi ja
+estis sekrete fianĉiĝiinta al Betty, kiu multe ŝatis vin. Kiel
+okazus pri ŝi, se ŝi estus sciiĝinta —?
+
+KONSULO BERNICK
+Vere, vere, vere; sed —
+
+JOHAN TØNNESEN
+Kaj ĉu ne estis ĝuste pro Betty, ke vi rompis tiun kaŝrilaton kun
+sinjorino Dorf? Estis ja ĝuste por rompi, ke vi vizitis ŝin tiun
+vesperon —
+
+KONSULO BERNICK
+Jes, tiun malfeliĉan vesperon, kiam tiu drinkemulo venas hejmen —!
+Jes, Johan, estis pro Betty; sed tamen, — ke vi tiel grandanime
+povis turni la ŝajnon kontraŭ vin mem kaj forvojaĝi —
+
+JOHAN TØNNESEN
+Neniuj skrupuloj, kara Karsten. Ni ja samopiniis, ke tiel estu;
+savenda vi ja estis, kaj vi ja estis mia amiko. Nu, pri tiu amikeco
+mi fieris! Ĉi tie mi penegis kiel hejmasidulo; kaj jen vi revenas,
+eleganta kaj nobla, de via granda vojaĝo eksterlanden; vizitis
+Londonon kaj Parizon. Kaj vi elektas min via amiko, kvankam mi estis
+kvar jarojn pli juna ol vi; — nu, tio do estis ĉar vi amindumis al
+Betty; _nun_ mi ja komprenas. Sed ho, kiel fiera mi estis pro tio!
+Kaj kiu ne estus? Kiu ne volonte oferus sin por vi; precipe kiam nur
+temis pri ne pli ol monat-daŭra urba klaĉado, kaj ke oni tuj povis
+forkuri en la vastan mondon.
+
+KONSULO BERNICK
+Hm, mia kara Johan, mi sincere diru al vi, ke tiu historio ankoraŭ
+ne estas tute forgesita.
+
+JOHAN TØNNESEN
+Ĉu ne? Nu, kiel tio koncernas min, kiam mi sidas tie transe sur mia
+bieno —
+
+KONSULO BERNICK
+Vi do revojaĝos?
+
+JOHAN TØNNESEN
+Kompreneble.
+
+KONSULO BERNICK
+Sed tamen ne tiel frue, mi esperas?
+
+JOHAN TØNNESEN
+Kiel eble plej frue. Estis ja nur por kontentigi al Lona, ke mi
+akompanis ŝin ĉi tien.
+
+KONSULO BERNICK
+Nu? Kiel do?
+
+JOHAN TØNNESEN
+Jes, vidu, Lona ne plu estas juna, kaj lastatempe la sopiro al la
+hejmo komencis sorĉi kaj tiri ŝin; sed ŝi neniam volis konfesi
+tion; (ridetas) kiel kuraĝus ŝi postlasi min, facilanimulon, min,
+kiu jam en la aĝo de dek naŭ eniris en —
+
+KONSULO BERNICK
+Kaj sekve?
+
+JOHAN TØNNESEN
+Nu, Karsten, nun mi faros konfeson, pri kiu mi hontas.
+
+KONSULO BERNICK
+Vi do ne konfesis al ŝi la konekson?
+
+JOHAN TØNNESEN
+Jes. Ne estis ĝuste de mi, sed mi ne povis alion fari. Vi ne povas
+imagi al vi, kio Lona estis por mi. Vi neniam toleris ŝin; sed por
+mi ŝi estis kvazaŭ patrino. En la unuaj jaroj, kiam estis pene por
+ni tie transe, — ho! kiel ŝi laboris! Kaj kiam mi estis malsana dum
+longa tempo, kaj nenion enspezis, kaj ne povis protesti, ŝi komencis
+kanti kanzonojn en la kafejoj, — prezenti prelegojn, pri kiuj la
+homoj ŝercadis; kaj ŝi ankaŭ verkis libron, pri kiu ŝi poste kaj
+ridis kaj ploris, — ĉion por subteni la vivon en mi. Ĉu mi do
+povus rigardi, ke ŝi, ĉi tiun vintron marasmiĝu, _ŝi_, kiu
+penegadis por mi? Ne, tion mi ne povis, Karsten. Kaj jen mi diris:
+Vojaĝu vi, Lona; ne timu pro _mi_; mi ne estas nepripensema, kiel vi
+pensas. Kaj jen — jen ŝi sciiĝis.
+
+KONSULO BERNICK
+Kiel ŝi prenis tion?
+
+JOHAN TØNNESEN
+Nu, ŝi opiniis, kiel vere estis, ke kiam mi scias ke mi estas
+senkulpa, ne povus esti embaraso por mi fari ekskurseton ĉi tien.
+Sed estu trankvila; Lona nenion malkaŝos, kaj _mi_ gardos mian
+buŝon la duan fojon.
+
+KONSULO BERNICK
+Nu ja; mi fidas tion.
+
+JOHAN TØNNESEN
+Jen mia mano. Kaj nun ni ne plu parolu pri tiu malnova historio;
+feliĉe ĝi estas la sola petolaĵo pri kiu iu el ni estas kulpa, mi
+pensas. Nun mi volas ĝui la malmultajn tagojn, kiujn mi restos ĉi
+tie. Vi ne imagas kian bonegan ekskurson ni havis ĉi-matene. Kiu
+imagus ke tiu knabineto, kiu ĉirkaŭkuris ludante anĝelon en la
+teatro —! Sed diru, — kio poste okazis pri ŝiaj gepatroj?
+
+KONSULO BERNICK
+Ho, kara, mi ne scias pri io pli rakontinda, ol tio kion mi skribis
+al vi tuj post kiam vi estis forvojaĝinta. Nu, vi ja ricevis la du
+leterojn?
+
+JOHAN TØNNESEN
+Jes, ja, mi havas ambaŭ. La drinkemulo ja forkuris de ŝi?
+
+KONSULO BERNICK
+Kaj poste mortiĝis en ebrieco.
+
+JOHAN TØNNESEN
+Ankaŭ _ŝi_ mortis mallonge poste? Sed vi certe faris por ŝi tion
+kion vi kaŝe povus fari?
+
+KONSULO BERNICK
+Ŝi estis fiera; ŝi nenion perfidis, kaj volis akcepti nenion.
+
+JOHAN TØNNESEN
+Nu, tamen estis ĝuste de vi preni Dina en la domon.
+
+KONSULO BERNICK
+Jes, efektive estis. Cetere estis vere Marta, kiu efektivigis tion.
+
+JOHAN TØNNESEN
+Do estis Marta? Jes, Marta — vere — kie _ŝi_ estas hodiaŭ?
+
+KONSULO BERNICK
+Nu _ŝi_, — kiam ŝi ne devas atenti pri la lernejo, ŝi havas siajn
+malsanulojn.
+
+JOHAN TØNNESEN
+Do estas Marta, kiu okupis sin pri ŝi.
+
+KONSULO BERNICK
+Jes. Marta ja ĉiam havis emon por edukado. Tial ŝi ankaŭ akceptis
+oficon en la lernejo. Tio estis ege malsaĝa de ŝi.
+
+JOHAN TØNNESEN
+Jes, ŝi aspektis ege laca hieraŭ; _mi_ ankaŭ timas, ke ŝi ne
+havas sanon por tio.
+
+KONSULO BERNICK
+Ho, pri la sano, ŝi eble eltenus. Sed estas malagrable por _mi_;
+ŝajnas kvazaŭ mi, ŝia frato, ne volus subteni ŝin.
+
+JOHAN TØNNESEN
+Subteni? Mi kredis, ke ŝi havas tioman kapitalon mem —
+
+KONSULO BERNICK
+Eĉ ne ŝilingon. Vi certe memoras, kiel pene estis por patrino, kiam
+vi forvojaĝis. Ŝi daŭrigis ioman tempon per kunhelpo de mi; sed
+per tio mi ne longe povus esti kontenta. Kaj mi akceptis aniĝi en la
+firmaon; sed eĉ ne _tio_ estis sukceso. Mi tial devis transpreni
+ĉion, kaj kiam ni faris la bilancon, montriĝis, ke restis preskaŭ
+nenio el la parto de patrino. Kiam patrino mallonge poste mortis,
+ankaŭ Marta staris senrimeda.
+
+JOHAN TØNNESEN
+Kompatinda Marta!
+
+KONSULO BERNICK
+Kompatinda? Kial tio? Vi do ne pensas, ke mi lasas ŝin ion malhavi?
+Ho ne, tion mi kuraĝas diri, ke mi estas bona frato. Kompreneble ŝi
+loĝas kune kun ni kaj manĝas ĉe nia tablo; per sia instru-salajro
+ŝi povas abunde vestigi sin, kaj sola virino, — kion pli ŝi
+bezonas?
+
+JOHAN TØNNESEN
+Tiel ni ne pensas en Ameriko.
+
+KONSULO BERNICK
+Ne, tion mi ja kredas; en streĉe agitita socio kiel la usonana. Sed
+ĉi tie en nia eta rondo, kie, dank' al Dio, la koruptiĝo ĝis nun
+almenaŭ ne enpenetris; ĉi tie la virinoj kontentiĝas per deca
+kvankam modesta stato. Cetere Marta mem kulpas; ŝi estis povinta
+sekurigi prizorgon antaŭ longe, se ŝi mem volus.
+
+JOHAN TØNNESEN
+Vi aludas, ke ŝi povus edziniĝi?
+
+KONSULO BERNICK
+Jes, krome ŝi estus povinta ege favore establiĝi; ŝi ricevis
+plurajn bonajn ofertojn; sufiĉe strange; senrimeda knabino, ne plu
+juna, kaj krome tute sensignifa.
+
+JOHAN TØNNESEN
+Sensignifa?
+
+KONSULO BERNICK
+Nu, mi ne malestimas ŝin pro tio. Mi tute ne deziras ŝin alia.
+Sciu, — en granda domo, kiel la nia, — estas ĉiam bone havi tian
+ordinaran homon, kiun oni povas igi labori pri okazaĵoj.
+
+JOHAN TØNNESEN
+Jes, sed _ŝi_ —?
+
+KONSULO BERNICK
+Ŝi? Kiel? Nu ja, _ŝi_ kompreneble ja havas sufiĉe por sin
+interesi; ŝi havas ja min kaj Betty kaj Olaf kaj min. La homoj ne
+devas unue pensi pri si mem, precipe ne la virinoj. Ni havas ja ĉiuj
+iun grandan aŭ malgrandan socion por kiu labori kaj ĝin subteni.
+Tiel almenaŭ _mi_ faras. (montras al _plenrajtigito Krap_, kiu
+venas de dekstre) Nu, jen vi havas pruvon. Ĉu vi opinias, ke estas
+miaj propraj aferoj, kiuj okupas min? Neniel. (rapide al _Krap_) Nu?
+
+PLENRAJTIGITO KRAP
+(mallaŭte; montras amaseton da paperoj) Ĉiuj aĉetkontraktoj en
+ordo.
+
+KONSULO BERNICK
+Bonege! Superbe! — Nu, bofrato, vi devas ekskuzi min dumtempe.
+(mallaŭte kaj kun manpremo) Dankon, dankon, Johan; kaj estu
+konvinkita, ke ĉio, ĉio pri kio mi povos servi vin, — nu, vi certe
+komprenas min. — Venu, sinjoro Krap. (ili iras en la ĉambron de la
+konsulo)
+
+JOHAN TØNNESEN
+(dum tempeto postrigardas lin) Hm —
+
+(Li intencas iri en la ĝardenon. Samtempe _fraŭlino Bernick_
+envenas de dekstre kun eta korbo sur la brako.)
+
+JOHAN TØNNESEN
+Jen, Marta!
+
+FRAŬLINO BERNICK
+Ah — Johan, — ĉu estas vi?
+
+JOHAN TØNNESEN
+Tiel frue surpiede ankaŭ vi.
+
+FRAŬLINO BERNICK
+Jes. Atendu iomete; nun eble tuj venos la aliuloj. (volas eliri
+maldekstre)
+
+JOHAN TØNNESEN
+Aŭdu, Marta, ĉu ĉiam urĝas por vi?
+
+FRAŬLINO BERNICK
+Por mi?
+
+JOHAN TØNNESEN
+Hieraŭ vi kvazaŭ evitis min, kaj mi povis interŝanĝi eĉ ne
+vorton kun vi, kaj hodiaŭ —
+
+FRAŬLINO BERNICK
+Jes, sed —
+
+JOHAN TØNNESEN
+Antaŭe ni do ĉiam estis kune, — ni du malnovaj ludgeamikoj.
+
+FRAŬLINO BERNICK
+Ho, Johan, post tiam estas multaj, multaj jaroj.
+
+JOHAN TØNNESEN
+Nu, je Dio, estas dek kvin jaroj post tiam, ne pli, ne malpli. Ĉu
+ŝajnas al vi, ke mi multe ŝanĝiĝis?
+
+FRAŬLINO BERNICK
+Vi? Nu jes, ankaŭ vi, kvankam —
+
+JOHAN TØNNESEN
+Kion vi pensas?
+
+FRAŬLINO BERNICK
+Ho, estas nenio.
+
+JOHAN TØNNESEN
+Aspekte vi ne multe gajiĝis revidi min.
+
+FRAŬLINO BERNICK
+Mi atendis tiom longe, Johan, — _tro_ longe.
+
+JOHAN TØNNESEN
+Atendis? Ke mi revenus?
+
+FRAŬLINO BERNICK
+Jes.
+
+JOHAN TØNNESEN
+Kaj kial vi pensis ke mi revenus?
+
+FRAŬLINO BERNICK
+Por pentofari vian delikton.
+
+JOHAN TØNNESEN
+Mi?
+
+FRAŬLINO BERNICK
+Ĉu vi forgesis, ke virino mortis en sufero kaj honto pro via kulpo?
+Ĉu vi forgesis, ke pro via kulpo la plej bonaj jaroj de kreskanta
+infano amariĝis?
+
+JOHAN TØNNESEN
+Kaj tion mi aŭdu de vi? Marta, ĉu via frato neniam —?
+
+FRAŬLINO BERNICK
+Ĉu li?
+
+JOHAN TØNNESEN
+Ĉu li neniam —; nu ja, mi pensas, ĉu li neniam diris eĉ unu
+vorton senkulpigan por mi?
+
+FRAŬLINO BERNICK
+Ho, Johan, vi ja konas la severajn principojn de Karsten.
+
+JOHAN TØNNESEN
+Hm —, certe, certe mi konas la severajn principojn de mia malnova
+amiko Karsten. — Sed tio ĉi estas ja —! Nu. Mi ĵus nun parolis
+kun li. Ŝajnas al mi, ke li multe ŝanĝiĝis.
+
+FRAŬLINO BERNICK
+Kiel vi povas tion diri? Karsten ĉiam estis honesta viro.
+
+JOHAN TØNNESEN
+Jes, mi nenion aludis; sed lasu tion. — Hm; nun mi do komprenas, en
+kiu lumo vi vidis min: estas la hejmenveno de la perditulo, kiun vi
+atendadis.
+
+FRAŬLINO BERNICK
+Aŭskultu, Johan, mi diros en kia lumo mi vidis vin. (montras al la
+ĝardeno) Ĉu vi vidas ŝin, kiu ludas tie en la herbaro kune kun
+Olaf? Estas Dina. Ĉu vi memoras la kapturnitan leteron, kiun vi
+skribis al mi, kiam vi forvojaĝis? Vi skribis, ke mi fidu vin. Mi
+fidis vin, Johan. Ĉio malbona, kio poste onidiriĝis, certe okazis
+en kapturniĝo, sencerbe, senpripense —
+
+JOHAN TØNNESEN
+Kion vi sugestas?
+
+FRAŬLINO BERNICK
+Ho, vi certe komprenas min; — ne plu vorto pri tio. Sed forvojaĝi
+vi ja devis; komenci denove — novan vivon. Vidu, Johan, mi estis via
+anstataŭanto ĉi-hejme, mi, via malnova ludamikino. La devoj, kiujn
+vi ne memoris prizorgi ĉi tie aŭ ne povis prizorgi, tiujn mi
+prizorgis por vi. Mi diras tion al vi, por ke vi ne havu _tion_ por
+riproĉi al vi. Por la neglektita infano mi estis patrino, mi edukis
+ŝin kiel eble plej bone —
+
+JOHAN TØNNESEN
+Kaj forĵetis vian vivon por tiu afero —
+
+FRAŬLINO BERNICK
+Ĝi ne estas forĵetita. Sed vi revenis malfrue, Johan.
+
+JOHAN TØNNESEN
+Marta, — se mi povus diri al vi —. Nu, unue mi danku vin pro via
+fidela amikeco.
+
+FRAŬLINO BERNICK
+(ridetas peze) Hm, — Jes, nun ni do elparolis, Johan. Tŝ; jen iu
+venas. Adiaŭ; mi ne povas nun —
+
+(Ŝi eliras tra la malantaŭa pordo maldekstre. _Lona Hessel_ envenas
+de la ĝardeno akompanata de _sinjorino Bernick_.)
+
+SINJORINO BERNICK
+(ankoraŭ en la ĝardeno) Sed, pro Dio Lona, pri kio vi pensas!
+
+FRAŬLINO HESSEL
+Lasu min, mi diras; mi volas kaj devas paroli kun li.
+
+SINJORINO BERNICK
+Sed estus grandega skandalo! Ho, Johan, ĉu vi ankoraŭ ĉeestas?
+
+FRAŬLINO HESSEL
+Eliru, knabo; ne restadu ĉi tie en la ĉambra aero; eliru en la
+ĝardenon, kaj parolu kun Dina.
+
+JOHAN TØNNESEN
+Jes, mi ĝuste intencis tion.
+
+SINJORINO BERNICK
+Sed —
+
+FRAŬLINO HESSEL
+Aŭdu nun, John, ĉu vi vere rigardis al Dina?
+
+JOHAN TØNNESEN
+Jes, mi kredas.
+
+FRAŬLINO HESSEL
+Jes, vi vere devus bone rigardi ŝin, knabo. _Jen_ io por _vi!_
+
+SINJORINO BERNICK
+Sed Lona —!
+
+JOHAN TØNNESEN
+Io por mi?
+
+FRAŬLINO HESSEL
+Jes, por rigardi, mi pensas. Iru nun!
+
+JOHAN TØNNESEN
+Nu ja, mi iros voleme. (Li iras elen en la ĝardenon.)
+
+SINJORINO BERNICK
+Lona, mi konsterniĝas pro vi. En tio vi do ne povas esti serioza.
+
+FRAŬLINO HESSEL
+Jes, efektive tiel estas. Ĉu ŝi ne estas sana kaj sincera? Jen
+edzino ĝuste por John. Estas iu tia, kiun li bezonas tie en la
+Okcidento; tio estus io alia ol maljuna duonfratino.
+
+SINJORINO BERNICK
+Dina! Dorf! Pripensu do —
+
+FRAŬLINO HESSEL
+Unue mi pripensas la feliĉon de la knabo. Ĉar kunhelpi, tion mi
+devas; li mem ne estas precipe entreprenema en tiaĵoj; knabinetoj
+kaj virinoj li neniam vere komprenis.
+
+SINJORINO BERNICK
+Li? Johan! Nu, aspekte ni havas bedaŭrindajn pruvojn por —
+
+FRAŬLINO HESSEL
+Ho, inferen kun tiu stulta historio! Kie estas Bernick? Mi volas
+paroli kun li.
+
+SINJORINO BERNICK
+Lona, vi ne faru, mi diras!
+
+FRAŬLINO HESSEL
+Mi faros. Se la knabo ŝatas ŝin, — kaj ŝi lin, — ili sekve havu
+unu la alian. Bernick estas ja tia saĝa viro; li devas trovi
+solvon —
+
+SINJORINO BERNICK
+Kaj vi imagus, ĉu tiuj usonaj maldecaĵoj estus tolerataj ĉi tie —
+
+FRAŬLINO HESSEL
+Babilaĵo, Betty —
+
+SINJORINO BERNICK
+— ke viro, kiel Karsten, kun sia severa morala pensmaniero —
+
+FRAŬLINO HESSEL
+Ho, pa, ĝi certe ne estas tiel senmezure severa.
+
+SINJORINO BERNICK
+Kion vi kuraĝas diri?
+
+FRAŬLINO HESSEL
+Mi kuraĝas diri, ke Bernick certe ne estas multe pli morala ol aliaj
+viroj.
+
+SINJORINO BERNICK
+Tiel profunde sidas do ankoraŭ la malamo al li! Sed kion vi do volas
+ĉi tie, ĉar vi ja neniam povis forgesi ke —? Mi ne komprenas, ke
+vi kuraĝis rigardi lin rekte en la okulojn post tiu hontinda
+insulto, kiun vi tiam alportis al li.
+
+FRAŬLINO HESSEL
+Jes, Betty, tiam mi senpripense aĉe faris.
+
+SINJORINO BERNICK
+Kaj kiel grandanime li pardonis vin, li, kiu ja neniam faris
+delikton! Ĉar _li_ ja ne povas kulpiĝi pro tio, ke vi pri io
+esperadis. Sed depost tiam vi malamis ankaŭ _min_. (ekploras) Vi
+neniam malenviis al mi mian feliĉon. Kaj nun vi venas ĉi tien por
+renversi ĉion tion super min, — por montri al la urbo, en kiun
+familion mi enkondukis Karsten. Jes, estas super min ke ĉio falos,
+kaj estas _tio_, kion vi volas. Kaj tio estas aĉa de vi! (Ŝi eliras
+plorante tra la fona pordo maldekstre.)
+
+FRAŬLINO HESSEL
+(postrigardas ŝin) Kompatinda Betty.
+
+(_Konsulo Bernick_ venas el sia ĉambro.)
+
+KONSULO BERNICK
+(ankoraŭ ĉe la pordo) Jes, jes, bone, sinjoro Krap; bonege. Sendu
+400 kronojn por manĝigado al la povruloj. (turnas sin) Lona! (pli
+proksime) Vi sola? Ĉu Betty ne venas?
+
+FRAŬLINO HESSEL
+Ne. Eble mi serĉu ŝin?
+
+KONSULO BERNICK
+Ne, ne, ne, lasu tion! Ho, Lona, vi ne scias, kiel mi arde sopiris
+paroli malferme kun vi, — petegi vian pardonon.
+
+FRAŬLINO HESSEL
+Aŭskultu, Karsten, ni ne estu sentimentalaj; tio ne konvenas al ni.
+
+KONSULO BERNICK
+Vi _devas_ aŭskulti min, Lona. Mi ja scias, kiel mi havas la ŝajnon
+kontraŭ mi nun, kiam vi sciiĝis pri la okazaĵo kun la patrino de
+Dina. Sed mi ĵuras, ke tio estis nur mallonga erariĝo; efektive mi
+vere kaj sincere iam ŝatis vin.
+
+FRAŬLINO HESSEL
+Kial vi kredas ke mi estas veninta hejmen?
+
+KONSULO BERNICK
+Eĉ se ion ajn vi intencas, mi petas vin nenion fari, antaŭ ol mi
+justigis min. Mi povas, Lona; mi almenaŭ povas senkulpigi min.
+
+FRAŬLINO HESSEL
+Nun vi estas en timo. — Vi iam ŝatis min, vi diras. Jes, pri tio vi
+certigis min sufiĉe ofte en viaj leteroj; kaj eble tio estis vero —
+iamaniere, tiom longe kiom vi vivis tie en granda liberigita mondo,
+kiu donis al vi kuraĝon mem pensi libere kaj alte. Vi eble trovis en
+mi iom pli da karaktero kaj volo kaj memdependeco, ol ĉe la plimulto
+ĉi-hejme. Kaj estis ja ankaŭ sekreto nur inter ni du; neniu povis
+ŝercaĉi pri via malbona gusto.
+
+KONSULO BERNICK
+Lona, kiel vi povas do kredi —?
+
+FRAŬLINO HESSEL
+Sed kiam vi revenis; kiam vi aŭdis la mokadon, kiu hajlis super min;
+kiam vi spertis la ridadon super ĉion, kion oni ĉi tie nomis miajn
+absurdaĵojn —
+
+KONSULO BERNICK
+Vi _estis_ senkonsidera tiam.
+
+FRAŬLINO HESSEL
+Pleje por ĉagreni tiujn jupvestitajn kaj pantalonvestitajn
+geprudulojn, kiuj trotadis ĉirkaŭe en la urbo. Kaj kiam vi
+renkontis la juna alloga aktorino —
+
+KONSULO BERNICK
+Estis nur danda petolaĵo; nenio pli; mi ĵuras al vi, eĉ ne la
+dekono estis vero de tiu klaĉo kaj tiuj onidiroj, kiuj cirkuliĝis.
+
+FRAŬLINO HESSEL
+Nu, bone; sed kiam Betty venis hejmen, bela, floranta, adorata de
+ĉiuj, — kaj fariĝis konate, ke ŝi heredus la monon post onklino,
+kaj ke mi ricevus nenion — —
+
+KONSULO BERNICK
+Nu, jen ni estas ĉe la afero, Lona; kaj nun vi aŭdu senvuale. Mi ne
+amis Betty tiam; mi ne rompis kun vi por iu nova inklino. Estis rekte
+por la mono; estis devige; mi _devis_ havigi ilin al mi.
+
+FRAŬLINO HESSEL
+Kaj tion vi diras al mi rekte antaŭ la okuloj?
+
+KONSULO BERNICK
+Jes, mi faras. Aŭskultu min, Lona —
+
+FRAŬLINO HESSEL
+Kaj vi tamen skribis al mi, ke nesubigebla amo al Betty kaptis vin,
+kaj vi alvokis mian grandanimon, kaj petegis min pro Betty silenti
+pri tio kio antaŭe estis inter ni —
+
+KONSULO BERNICK
+Mi devis, mi diras.
+
+FRAŬLINO HESSEL
+Nu, je la vivanta Dio, nun mi ne pentas, ke mi tiam agis senpripense.
+
+KONSULO BERNICK
+Lasu min fride kaj trankvile diri al vi, kiel la stato estis en tiuj
+tagoj. Mia patrino, kiel vi memoras, estris la komercon; sed tute
+mankis al ŝi komerca kompreno. Rapide mi vokiĝis hejmen de Parizo;
+la tempoj estis krizaj; mi metus la aferojn sur firmajn piedojn.
+Kion mi trovis? Mi trovis ion, kio devus esti tenata en la plej
+profunda sekreto: firmaon preskaŭ ruinigita. Jes, ĝi estis
+preskaŭ ruinigita, tiu ĉi malnova respektata firmao, kiu staris
+dum tri generacioj. Kion povis mi fari, la filo, la sola filo,
+krom ĉirkaŭrigardi por savrimedo.
+
+FRAŬLINO HESSEL
+Kaj vi savis la firmaon Bernick je ofero de virino.
+
+KONSULO BERNICK
+Vi bone scias, ke Betty amis min.
+
+FRAŬLINO HESSEL
+Sed mi?
+
+KONSULO BERNICK
+Kredu min, Lona, — vi neniam fariĝus feliĉa kun mi.
+
+FRAŬLINO HESSEL
+Ĉu estis el zorgemo por mia feliĉo, ke vi forlasis min?
+
+KONSULO BERNICK
+Ĉu eble vi kredas, ke el egoismaj motivoj mi agis kiel mi faris? Se
+mi tiam starus sola, mi brave rekomencus. Sed vi ne komprenas kiel
+komercisto sub senmezura respondeco kunkreskas kun la komerco,
+kiun li heredas. Ĉu vi scias ke la bonfarto de centoj, eĉ miloj
+dependas de li? Ĉu vi ne pripensas, ke la tuta socio, kiun kaj vi
+kaj mi nomas nian hejmon, tuŝiĝus severe, se la firmao Bernick
+ruiniĝus?
+
+FRAŬLINO HESSEL
+Ĉu estas ankaŭ pro la socio, ke vi dum tiuj dek kvin jaroj restis
+staranta en la mensogo?
+
+KONSULO BERNICK
+En mensogo?
+
+FRAŬLINO HESSEL
+Kion scias Betty pri ĉio, kio kuŝas sube kaj antaŭe de ŝia
+kunligo kun vi?
+
+KONSULO BERNICK
+Ĉu vi opinias ke mi por neniu utilo vundus ŝin malkovrante tiujn
+aferojn?
+
+FRAŬLINO HESSEL
+Por neniu utilo vi diras? Nu ja, vi ja estas komercisto; vi certe
+komprenas kio estas utila. — Sed aŭdu nun, Karsten, nun ankaŭ _mi_
+volas paroli fride kaj trankvile. Diru, — ĉu vi ankaŭ vere estas
+feliĉa?
+
+KONSULO BERNICK
+En la familio, vi pensas?
+
+FRAŬLINO HESSEL
+Nu ja.
+
+KONSULO BERNICK
+Mi estas, Lona. Vi ne senutile estas estinta tia sindonema amikino
+por mi. Mi kuraĝas diri, ke mi fariĝis pli kaj pli feliĉa laŭ la
+jaroj. Betty estas bona kaj cedema. Kaj kiel ŝi dum la jaroj lernis
+kurbi sian konduton laŭ _tio_, kio estas karakteriza en _mi_ —
+
+FRAŬLINO HESSEL
+Hm.
+
+KONSULO BERNICK
+Antaŭe ŝi ja nutris kelkajn romantikajn imagaĵojn pri la amo; ŝi
+ne povis akordiĝi kun la ideo, ke ĝi iom post iom transirus al
+trankvila amikecflamo.
+
+FRAŬLINO HESSEL
+Sed nun ŝi estas kontenta?
+
+KONSULO BERNICK
+Komplete. Sciu, ke la ĉiutaga rilato kun _mi_ ne estas sen maturiga
+influo al ŝi. La homoj devas reciproke lerni malaltigi siajn
+postulojn, se oni volas agi kontentige en la socio en kiu oni
+troviĝas. Tion ankaŭ Betty laŭe lernis kompreni, kaj tial nia domo
+estas nun modelo por niaj samcivitanoj.
+
+FRAŬLINO HESSEL
+Sed tiuj samcivitanoj nenion scias pri la mensogo?
+
+KONSULO BERNICK
+Pri la mensogo?
+
+FRAŬLINO HESSEL
+Jes, pri la mensogo en kiu vi nun stara dum dek kvin jaroj.
+
+KONSULO BERNICK
+Kaj tion vi nomas — —?
+
+FRAŬLINO HESSEL
+Mensogo mi ĝin nomas. La triobla mensogo. Unue la mensogo kontraŭ
+mi; poste la mensogo kontraŭ Betty; kaj fine la mensogo kontraŭ
+Johan.
+
+KONSULO BERNICK
+Betty neniam postulis, ke mi parolu.
+
+FRAŬLINO HESSEL
+Ĉar ŝi nenion sciis.
+
+KONSULO BERNICK
+Kaj vi tion ne postulos; — pro konsidero rilate ŝin vi tion ne
+postulos.
+
+FRAŬLINO HESSEL
+Ho ne, mi certe scios toleri la ridsalvojn; mi havas fortan dorson.
+
+KONSULO BERNICK
+Kaj ankaŭ Johan ne postulos; li jam promesis al mi.
+
+FRAŬLINO HESSEL
+Sed vi mem, Karsten? Ĉu ne estas io interne en vi, kio postulas
+eliri el la mensogo?
+
+KONSULO BERNICK
+Ĉu mi libervole oferus mian familian feliĉon kaj mian staton en la
+socio!
+
+FRAŬLINO HESSEL
+Kiun rajton havas vi stari en la loko kie vi nun staras?
+
+KONSULO BERNICK
+Dum dek kvin jaroj mi tage aĉetis al mi eron de rajto — per mia
+konduto, kaj per tio kion mi faris kaj progresigis.
+
+FRAŬLINO HESSEL
+Jes, vi multe faris kaj progresigis, por vi mem kaj por aliuloj.
+Vi estas la plej riĉa kaj potenca homo en la urbo; sub via volo
+ili kuraĝas nenion alian fari ol kurbiĝi, ĉiuj, ĉar vi estas
+konsiderata esti sen makulo kaj perfekta; via hejmo estas konsiderata
+kiel modela hejmo, via konduto kiel modela konduto. Sed ĉiu tiu
+gloro, kaj eĉ vi mem samtempe, staras kvazaŭ sur ŝanceliĝanta
+marĉo. Momenteto povos okazi, vorto povos esti dirata, — kaj vi
+kune kun la tuta gloraĵo suben sinkos, se vi ne savos vin
+ĝustatempe.
+
+KONSULO BERNICK
+Lona, — kion vi vere volas ĉi tie?
+
+FRAŬLINO HESSEL
+Mi volas helpi vin al firma grundo sub la piedoj, Karsten.
+
+KONSULO BERNICK
+Venĝo! Vi volas venĝi vin? Mi ja suspektis. Sed vi ne sukcesos!
+Estas nur unu ĉi tie, kiu povas paroli kun aŭtoritato, kaj li estas
+silenta.
+
+FRAŬLINO HESSEL
+Johan?
+
+KONSULO BERNICK
+Jes, Johan. Se aliulo kulpigos min, mi ĉion neas. Se oni volas
+detrui min, mi luktos je la vivo. Sed vi neniam sukcesos, mi diras!
+Li, kiu povus faligi min, li silentas — kaj li reen forvojaĝos.
+
+(_Grandkomercisto Rummel_ kaj _komercisto Vigeland_ venas de
+dekstre.)
+
+GRANDKOMERCISTO RUMMEL
+Bonan tagon, bonan tagon, kara Bernick; vi devas veni kun ni en la
+komerca asocio; ni havas kunvenon pri la fervoja afero, vi ja scias.
+
+KONSULO BERNICK
+Mi ne povas. Ne eblas nun.
+
+KOMERCISTO VIGELAND
+Vi vere devas, sinjoro konsulo —
+
+GRANDKOMERCISTO RUMMEL
+Vi devas, Bernick. Jen estas homoj, kiuj laboras kontraŭ nin.
+Redaktoro Hammer kaj la aliaj, kiuj preferis la marbordan linion,
+pretendas, ke kaŝas sin privataj interesoj malantaŭ la nova
+propono.
+
+KONSULO BERNICK
+Nu, do klarigu al ili —
+
+KOMERCISTO VIGELAND
+Ne taŭgas kion ni klarigas, sinjoro konsulo —
+
+GRANDKOMERCISTO RUMMEL
+Ne, ne, vi devas mem veni; vin ja neniu kuraĝas suspekti pri tiaĵo.
+
+FRAŬLINO HESSEL
+Ho ne, mi tion opinius.
+
+KONSULO BERNICK
+Mi ne povas, mi diras; mi ne estas tute sana; — aŭ almenaŭ, atendu
+— lasu min restitui min.
+
+(_Adjunkto Rørlund_ envenas de dekstre.)
+
+ADJUNKTO RØRLUND
+Pardonu, sinjoro konsulo; Vi jen vidas min en la plej impeta
+incito —
+
+KONSULO BERNICK
+Nu jes, kio estas al vi?
+
+ADJUNKTO RØRLUND
+Mi devas fari al vi demandon, sinjoro konsulo. Ĉu estas kun via
+kunsento, ke la juna knabino, kiu trovis azilon sub via tegmento,
+montras sin publike sur la strato en kunestado kun homo, de kiu —
+
+FRAŬLINO HESSEL
+Kiu homo, sinjoro pastoro?
+
+ADJUNKTO RØRLUND
+Kun tiu homo el ĉiuj homoj en la mondo, de kiu ŝi devus teni sin
+plej fore.
+
+FRAŬLINO HESSEL
+Hoho!
+
+ADJUNKTO RØRLUND
+Ĉu estas kun via kunsento, sinjoro konsulo?
+
+KONSULO BERNICK
+(kiu serĉas ĉapelon kaj gantojn) Mi scias pri nenio. Pardonu;
+urĝas; mi devas iri al la komerca asocio.
+
+HILMAR TØNNESEN
+(venas de la ĝardeno kaj iras al la antaŭa pordo maldekstre) Betty,
+Betty, aŭskultu!
+
+SINJORINO BERNICK
+(ĉe la pordo) Kio estas?
+
+HILMAR TØNNESEN
+Vi devas iri en la ĝardenon, kaj finigi tiun flatadon, kiun certa
+persono praktikas al tiu Dina Dorf. Mi fariĝis tute nervoza
+aŭskulti al tio.
+
+FRAŬLINO HESSEL
+Ĉu? Kion do tiu persono diris?
+
+HILMAR TØNNESEN
+Ho, nenion alian ol tio, ke li volas ke ŝi akompanu lin al Ameriko.
+Uf!
+
+ADJUNKTO RØRLUND
+Ĉu tiaĵo eblas!
+
+SINJORINO BERNICK
+Kion vi diras?
+
+FRAŬLINO HESSEL
+Sed estus ja bonege.
+
+KONSULO BERNICK
+Neeble! Vi misaŭdis.
+
+HILMAR TØNNESEN
+Do demandu lin mem. Jen venas la paro. Sed ne enmiksigu min.
+
+KONSULO BERNICK
+(al _Rummel_ kaj _Vigeland_) Mi venos poste, — post momento —
+
+(_Grandkomercisto Rummel_ kaj _Vigeland_ eliras dekstre. _Johan
+Tønnesen_ kaj _Dina envenas de la ĝardeno_.)
+
+JOHAN TØNNESEN
+Hura, Lona, ŝi akompanos nin!
+
+SINJORINO BERNICK
+Tamen Johan, — vi senpripensa —!
+
+ADJUNKTO RØRLUND
+Ĉu tio estas vero! Tia superega skandalo! Per kiaj delogantaj artoj
+estas vi —
+
+JOHAN TØNNESEN
+Nu, nu, sinjoro; kion vi estas diranta?
+
+ADJUNKTO RØRLUND
+Respondu al mi, Dina; ĉu tio estas via intenco, — ĉu estas via
+tute libera decido?
+
+DINA
+Mi devas for de tie ĉi.
+
+ADJUNKTO RØRLUND
+Sed kun _li_ — kun _li!_
+
+DINA
+Menciu iun alian ĉi tie, kiu kuraĝus kunpreni min.
+
+ADJUNKTO RØRLUND
+Nu, vi do sciu kiu li estas.
+
+JOHAN TØNNESEN
+Ne parolu!
+
+KONSULO BERNICK
+Neniun plian vorton!
+
+ADJUNKTO RØRLUND
+En tiu okazo mi malbone servus al la socio, kies moralon kaj morojn
+mi posteniĝis por gardi; kaj nepravigeble mi agis kontraŭ tiu ĉi
+juna knabino, en kies eduko ankaŭ mi havis esencan parton, kaj kiu
+por mi estas —
+
+JOHAN TØNNESEN
+Gardu vin por tio, kion vi faras!
+
+ADJUNKTO RØRLUND
+Ŝi tion _sciu!_ Dina, estas tiu viro, kiu kaŭzis la malfeliĉon kaj
+honton al via patrino.
+
+KONSULO BERNICK
+Sinjoro adjunkto —!
+
+DINA
+Li! (al _Johan Tønnesen_) Ĉu tio estas vero?
+
+JOHAN TØNNESEN
+Karsten, respondu vi.
+
+KONSULO BERNICK
+Neniu vorto plu! Hodiaŭ estu silento.
+
+DINA
+Do vero.
+
+ADJUNKTO RØRLUND
+Vero, vero. Kaj pli ol tio. Tiu homo, kiun vi tiel fidas, ne kuris
+senhava el la hejmo; — la kaso de vidvino Bernick —; la konsulo
+povas atesti pri tio!
+
+FRAŬLINO HESSEL
+Mensoganto!
+
+KONSULO BERNICK
+Ah —!
+
+SINJORINO BERNICK
+Ho Dio, ho dio!
+
+JOHAN TØNNESEN
+(kontraŭ lin kun levita brako) Kaj tion vi kuraĝas —!
+
+FRAŬLINO HESSEL
+(deturnante) Ne frapu lin, Johan!
+
+ADJUNKTO RØRLUND
+Jes, atencu min nur. Sed la vero apertiĝu; kaj _estas_ vero; konsulo
+Bernick mem tion estas dirinta, kaj la tuta urbo scias. — Nun, Dina,
+nun vi konas lin.
+
+(Mallonga silento.)
+
+JOHAN TØNNESEN
+(mallaŭte; kaptas la brakon de _Bernick_) Karsten, Karsten, kion vi
+faris!
+
+SINJORINO BERNICK
+(mallaŭte kaj en ploro) Ho Karsten, ke mi tiris vin en tiun honton.
+
+KOMERCISTO SANDSTAD
+(envenas rapide de dekstre kaj krias kun la mano sur la anso) Nun vi
+devas absolute veni, sinjoro konsulo! La tuta fervojo pendas en
+fadeno.
+
+KONSULO BERNICK
+(spiritforeste) Kio estas? Al kio mi —?
+
+FRAŬLINO HESSEL
+(serioze kaj kun emfazo) Vi ekstaru por subteni la socion, bofrato.
+
+KOMERCISTO SANDSTAD
+Jes, venu, venu; ni bezonas vian tutan moralan superpezon.
+
+JOHAN TØNNESEN
+(tute apude ĉe li) Bernick, — ni du kunparolos morgaŭ.
+
+(Li eliras tra la ĝardeno; _konsulo Bernick_ kvazaŭ senvola eliras
+dekstre kun _komercisto Sandstad_.)
+
+
+
+
+TRIA AKTO
+
+
+(La ĝardena salono en la domo de _Bernick_.)
+
+(_Konsulo Bernick_, kun kanbastono en la mano, venas en impeta kolero
+el la malantaŭa ĉambro maldekstre, kaj lasas la pordon duone
+malferma post si.)
+
+KONSULO BERNICK
+Nu jen; fine fariĝis seriozo en tio; tiun vangofrapon mi opinias, ke
+li memoros. (al iu ene en la ĉambro) Kion vi diras? — Kaj mi diras,
+ke vi estas malprudenta patrino! Vi senkulpigas lin, konsentas al
+ĉiuj liaj bubaĵoj. — Ĉu ne bubaĵoj? Kion vi do nomas ilin?
+Ŝteliri el la domo nokte, iri surmaren per la fiŝistboato, resti
+for ĝis longe en la tago, kaj meti min en tian mortigan timon, mi,
+kiu havas tiom da aliaĵoj por pripensi. Kaj aldone tiu kanajlo
+kuraĝas minaci, ke li volas forkuri! Jes, ke li provu pri tio! —
+Vi? Ne, tion mi efektive kredas; vi ne multe zorgas pri lia savo kaj
+konduto. Mi volonte kredas, ke se li riskus la vivon —! — Nu? Jes,
+sed _mi_ havas taskon postlasendan en ĉi tiu mondo; ne servas al mi
+fariĝi seninfana. — Neniuj kontraŭdiraĵoj, Betty; estu kiel mi
+diris; li havu ĉambran arestiĝon — (aŭskultas) Ŝŝ; ke neniuj
+ion rimarku.
+
+(_Plenrajtigito Krap_ envenas de dekstre.)
+
+PLENRAJTIGITO KRAP
+Ĉu Vi havas liberan momenton, sinjoro konsulo?
+
+KONSULO BERNICK
+(forĵetas la kanbastonon) Nu ja, jes ja. Ĉu Vi venas de la
+ŝipfarejo?
+
+PLENRAJTIGITO KRAP
+Ĵus nun. Hm —
+
+KONSULO BERNICK
+Nu? Ĉu certe ne estas iu ĝeno pri “La Palmo”?
+
+PLENRAJTIGITO KRAP
+“La Palmo” povos forveli morgaŭ, sed —
+
+KONSULO BERNICK
+“Indian Girl” do? Ĉu mi ne scietis ke tiu obstinulo —
+
+PLENRAJTIGITO KRAP
+Ankaŭ “Indian Girl” povos forveli morgaŭ; sed — eble ne atingos
+foren.
+
+KONSULO BERNICK
+Kion Vi aludas?
+
+PLENRAJTIGITO KRAP
+Pardonu, sinjoro konsulo; tiu pordo estas nur duonfermita, kaj mi
+kredas, ke iu estas tie —
+
+KONSULO BERNICK
+(fermas la pordon) Nu jen. Sed kio estas tio, kion neniu devas aŭdi?
+
+PLENRAJTIGITO KRAP
+Estas tio, ke la konstruisto Aŭne certe intencas sinkigi “Indian
+Girl” kun aro da maristoj kaj musoj.
+
+KONSULO BERNICK
+Sed Dio kompatu, kiel vi povas kredi —?
+
+PLENRAJTIGITO KRAP
+Mi ne povas klarigi tion alimaniere, sinjoro konsulo.
+
+KONSULO BERNICK
+Nu, do diru al mi en malmultaj vortoj —
+
+PLENRAJTIGITO KRAP
+Mi faros. Vi mem scias kiel prokrasteme la laboro fariĝis en la
+ŝipfarejo, post kiam ni ekhavis la novajn maŝinojn kaj la novajn
+malkutimiĝintajn laboristojn.
+
+KONSULO BERNICK
+Jes, ja.
+
+PLENRAJTIGITO KRAP
+Sed hodiaŭ matene, kiam mi venis tien, mi rimarkis, ke la riparado
+de la Usonano estis progresinta strange longe; la granda ŝtopilo en
+la fundo, — Vi scias pri la traputrita loko —
+
+KONSULO BERNICK
+Jes, jes, kio pri ĝi?
+
+PLENRAJTIGITO KRAP
+Tute riparita, — laŭŝajne; tegita; aspektis tute nove; mi aŭdis,
+ke Aŭne mem estis laborinta kun lumo tie malsupre la tutan nokton.
+
+KONSULO BERNICK
+Nu ja, kaj plue?
+
+PLENRAJTIGITO KRAP
+Mi estis tion pripensanta; la laboristoj ĝuste tiam ripozis por
+matenmanĝo, kaj mi trovis okazon por nerimarkite ĉirkaŭrigardi kaj
+ekstere kaj enŝipe; malfacile estis veni malsupren en la ŝarĝita
+ŝipo; sed mi sciiĝis pri vero. Okazas insidaĵoj, sinjoro konsulo.
+
+KONSULO BERNICK
+Mi ne povas kredi Vin, sinjoro Krap. Mi ne povas, mi ne volas kredi
+tiaĵon pri Aŭne.
+
+PLENRAJTIGITO KRAP
+Doloras al mi, — sed estas la pura vero. Okazas insidaĵoj, mi
+diras. Neniuj novaj tabuloj enfiksitaj, laŭ tio kion mi komprenas;
+nur ŝtopita per stupo kaj supernitita per metalaj folioj kaj
+ŝirmotukoj kaj tiaĵoj. Pura fuŝo! “Indian Girl” neniam atingos al
+New York; ĝi sinkos kiel fendita kaldrono.
+
+KONSULO BERNICK
+Tio ja estas terura! Sed kion Vi imagas, ke li intencas?
+
+PLENRAJTIGITO KRAP
+Verŝajne li volas malkreditigi la maŝinojn; volas venĝi sin; volas
+denove dungi la malnovan laboristaron.
+
+KONSULO BERNICK
+Kaj li do eble oferas ĉiujn tiujn homajn vivojn.
+
+PLENRAJTIGITO KRAP
+Li ĵus diris: ne troviĝas homoj surŝipe en “Indian Girl”, — nur
+bestaĉoj.
+
+KONSULO BERNICK
+Nu ja, eble tiel; sed ĉu li ne atentas pri la granda kapitalo, kiu
+perdiĝas?
+
+PLENRAJTIGITO KRAP
+Aŭne ne precipe ŝatas la grandan kapitalon, sinjoro konsulo.
+
+KONSULO BERNICK
+Vere; li estas ribeliganto kaj tumultulo; sed senkonscienca ago kiel
+tiu —. Aŭskultu, sinjoro Krap; ĉi tiun aferon ni devas ekzameni du
+fojojn. Eĉ neniu vorto al iu ajn. Nia ŝipfarejo fariĝos
+kompromita, se homoj sciiĝos pri tiaĵo.
+
+PLENRAJTIGITO KRAP
+Kompreneble, sed —
+
+KONSULO BERNICK
+Dum la tagmanĝ-ripozo Vi devas tien reiri; mi devas havi plenan
+certecon.
+
+PLENRAJTIGITO KRAP
+Vi ĝin ricevos, sinjoro konsulo; sed permesu min demandi: kion Vi
+tiam volas fari?
+
+KONSULO BERNICK
+Kompreneble raporti la aferon. Ni do ne devas fariĝi kunkulpuloj en
+rekta krimo. Mi devas havi mian konsciencon senŝarĝita. Fariĝos
+bona impreso kaj en la gazetaro kaj en la socio en tute, kiam oni
+vidas, ke mi flanken puŝas ĉiujn personajn interesojn, kaj igas la
+justecon havi sian iron.
+
+PLENRAJTIGITO KRAP
+Vere, sinjoro konsulo.
+
+KONSULO BERNICK
+Sed antaŭ ĉio kaj unue plena certeco. Kaj silento ĝis tiam —
+
+PLENRAJTIGITO KRAP
+Neniu vorto, sinjoro konsulo; kaj la certeco, ĝin Vi ricevos. (Li
+eliras tra la ĝardeno kaj malsupren laŭ la strato.)
+
+KONSULO BERNICK
+(duonlaŭte) Indignige! Sed ĉu? Ja ne eblas, — neimageble!
+
+(Ĝuste kiam li volas iri en sian ĉambron, _Hilmar Tønnesen_ venas
+de dekstre.)
+
+HILMAR TØNNESEN
+Bonan tagon, Bernick! Nu, mi gratulas pri la venko en la komerca
+asocio hieraŭ.
+
+KONSULO BERNICK
+Ho, dankon.
+
+HILMAR TØNNESEN
+Estis ja glora venko, mi aŭdas; la venko de la inteligenta civitana
+animo super la egoismo kaj la antaŭjuĝo, — kvazaŭ franca razio
+kontraŭ la Kabyloj. Strange ke vi post la malagrablaj epizodoj ĉi
+tie —
+
+KONSULO BERNICK
+Ja, ja, lasu tion.
+
+HILMAR TØNNESEN
+Sed la decida batalo ankoraŭ ne estas frapita.
+
+KONSULO BERNICK
+En la fervoja afero vi pensas?
+
+HILMAR TØNNESEN
+Jes, vi ja certe scias pri kio redaktoro Hammer estas brasanta?
+
+KONSULO BERNICK
+(streĉite) Ne! Kio estas _tio_?
+
+HILMAR TØNNESEN
+Li ja kroĉis sin al la onidiro, kiu disvastiĝas, kaj el tiu li
+volas fari gazetartikolon.
+
+KONSULO BERNICK
+Kiu onidiro?
+
+HILMAR TØNNESEN
+Kompreneble pri la grandaj aĉetoj de bienoj laŭ la flanka fervojo.
+
+KONSULO BERNICK
+Kion vi diras? Ĉu tia onidiro disvastiĝas?
+
+HILMAR TØNNESEN
+Jes, iras tra la tuta urbo. Mi aŭdis ĝin en la klubo, kie mi faris
+viziteton. Unu el niaj advokatoj laŭdire estas en tuta silento
+komisie aĉetinta ĉiujn arbarbienojn, ĉiujn ercejojn, ĉiujn
+akvofalojn —
+
+KONSULO BERNICK
+Kaj ne diriĝas por kiu?
+
+HILMAR TØNNESEN
+En la klubo oni opiniis, ke devus esti por eksterurba kompanio, kiu
+scietiĝis pri tio, kion vi pretigis, kaj kiu rapidis antaŭ ol la
+prezoj de la bienoj kreskus — Ĉu ne estas indignige — uf!
+
+KONSULO BERNICK
+Indignige?
+
+HILMAR TØNNESEN
+Jes, ke fremduloj tiel premas sin enen en niajn teritoriojn. Kaj ke
+unu el la advokatoj de la urbo povas vendi sin al tiaĵo! Nun do
+eksterurbanoj eltiros la profiton.
+
+KONSULO BERNICK
+Sed estas ja nur hazarda onidiro.
+
+HILMAR TØNNESEN
+Oni tamen kredas ĝin, kaj morgaŭ aŭ postmorgaŭ redaktoro Hammer
+kompreneble volas fiksnajli ĝin kiel fakto. Estas jam ĝenerala
+inciteco tie. Mi aŭdis pluruloj diri, ke se tiu onidiro
+konfirmiĝas, ili forstrekos sin el la listoj.
+
+KONSULO BERNICK
+Neeble!
+
+HILMAR TØNNESEN
+Ĉu? Kiel kredas vi, ke tiuj komercanimoj tiel volonte akceptis vian
+entreprenon? Ĉu vi ne kredas, ke ili mem flaris naze, ke —?
+
+KONSULO BERNICK
+Neeble, mi diras; _tiom_ da civitana virto tamen troviĝas en nia eta
+komunumo —
+
+HILMAR TØNNESEN
+Ĉi tie? Jes, vi ja estas optimisto, kaj tial vi juĝas aliulojn laŭ
+vi mem. Sed mi, kiu estas sufiĉe sperta observanto —. Ne estas unu,
+— kompreneble krom ni, — eĉ ne unu, mi diras, kiu tenas la
+standardon de la ideo alta. (al la fono) Uf, jen mi vidas ilin!
+
+KONSULO BERNICK
+Kiujn?
+
+HILMAR TØNNESEN
+La du usonanojn. (elrigardas dekstren) Kaj kun kiu ili iras? Jes, je
+Dio, ĉu ne estas la ŝipestro de “Indian Girl”. Uf!
+
+KONSULO BERNICK
+Kion ili volas pri _li_?
+
+HILMAR TØNNESEN
+Ho, estas ja sufiĉe konvena socio. Li laŭdire estis sklavkomercisto
+aŭ rabisto; kaj kiu scias pri kio la aliuloj sin okupis dum tiuj
+multaj jaroj.
+
+KONSULO BERNICK
+Mi diras al vi, ke estas ege malĝuste pensi tiel pri ili.
+
+HILMAR TØNNESEN
+Jes, vi ja estas optimisto. Sed nun kompreneble ni denove havos ilin
+sur la nukon; tial mi ĝustatempe — (iras al la pordo maldekstre)
+
+(_Fraŭlino Hessel_ venas de dekstre.)
+
+FRAŬLINO HESSEL
+Nu, Hilmar, ĉu estas mi, kiu pelas vin el la ĉambro?
+
+HILMAR TØNNESEN
+Tute ne; ĵus nun urĝas; mi parolos kun Betty. (iras en la
+malantaŭan ĉambron maldekstre)
+
+KONSULO BERNICK
+(post mallonga silento) Nu, Lona?
+
+FRAŬLINO HESSEL
+Jes.
+
+KONSULO BERNICK
+Kiel mi aspektas por vi hodiaŭ?
+
+FRAŬLINO HESSEL
+Kiel hieraŭ. Mensogo pli ol malpli —
+
+KONSULO BERNICK
+Vi devas klariĝi en tio ĉi. Kien Johan iris?
+
+FRAŬLINO HESSEL
+Li venos; li havis ion priparolendan kun iu viro.
+
+KONSULO BERNICK
+Post tio kion vi aŭdis hieraŭ, vi komprenas, ke mia tuta estado
+estas detruita, se la vero venos en la lumon.
+
+FRAŬLINO HESSEL
+Mi tion komprenas.
+
+KONSULO BERNICK
+Estas kompreneble memsekvo, ke _mi_ ne faris min kulpa en tiu krimo,
+pri kiu onidiras.
+
+FRAŬLINO HESSEL
+Estas memkompreneble. Sed kiu estas la ŝtelisto?
+
+KONSULO BERNICK
+Ne estis iu ŝtelisto. Ne ŝteliĝis iu mono; eĉ ne ŝilingo
+malaperis.
+
+FRAŬLINO HESSEL
+Kiel?
+
+KONSULO BERNICK
+Eĉ ne ŝilingo, mi diras.
+
+FRAŬLINO HESSEL
+Sed la onidiro? Kiel tiu abomena onidiro estas disvastigita, ke Johan
+—?
+
+KONSULO BERNICK
+Lona, kun vi mi opinias, ke mi povas paroli, kiel al neniu alia; mi
+volas nenion prisilenti por vi. _Mi_ havas mian parton en la kulpo,
+ke la onidiro disvastiĝis.
+
+FRAŬLINO HESSEL
+Vi? Kaj tion vi povis fari kontraŭ li, kiu por vi —!
+
+KONSULO BERNICK
+Vi ne juĝu sen memori kiel la aferoj tiam statis. Mi ja rakontis al
+vi tion hieraŭ. Mi revenis hejmen, kaj trovis mian patrinon
+implikigita en serio de malsaĝaj entreprenoj; diversaj malsukcesoj
+aldoniĝis; kvazaŭis ke ĉiuj malbonoj sturmis kontraŭ nin; nia
+firmao estis ĉe ruiniĝo. Mi estis duone nepripensema kaj duone
+malespera. Lona, mi opinias ke estis pleje por mutigi la pensojn, ke
+mi ekrilatis al tiu konekso, kiu kaŭzis ke Johan forvojaĝis.
+
+FRAŬLINO HESSEL
+Hm —
+
+KONSULO BERNICK
+Vi certe povas imagi al vi, kiel ĉiaj onidiroj cirkuliĝis, kiam vi
+kaj li estis for. Tio ĉi ne estis lia unua malsaĝeco, oni rakontis.
+Dorf estis ricevinta grandan sumon da mono de li por silenti kaj
+foriri, oni diris; aliuloj pretendis, ke _ŝi_ ricevis ĝin. Samtempe
+ne kaŝiĝis, ke nia firmao spertis malfacilaĵojn pagi siajn
+ŝuldojn. Kio estis pli komprenebla, ke la klaĉantoj kunligis tiujn
+du onidirojn? Kiam ŝi restis ĉi tie kaj vivis en malriĉeco, oni
+pretendis, ke li estis preninta la monon kun si al Usono, kaj la
+onidiro ĉiam pligrandigis la sumon.
+
+FRAŬLINO HESSEL
+Kaj vi, Karsten —?
+
+KONSULO BERNICK
+Mi kaptis tiun famon kiel savtabulon.
+
+FRAŬLINO HESSEL
+Vi pluen disvastigis ĝin?
+
+KONSULO BERNICK
+Mi ne kontraŭdiris ĝin. La kreditoroj komencis treti al ni pli
+proksimen; mi devis trankviligi ilin; gravis ke oni ne ekhavus
+malfidon al la solideco de la firmao; momenta malbonŝanco estis nin
+frapinta; ili ne devus sin altrudi; nur atendi tempon; ĉiu ekhavus
+sian bonhavon.
+
+FRAŬLINO HESSEL
+Kaj ĉiu ekhavis sian bonhavon?
+
+KONSULO BERNICK
+Jes, Lona, tiu famo savis nian firmaon kaj faris min la homo, kiu mi
+nun estas.
+
+FRAŬLINO HESSEL
+Mensogo do faris vin la homo, kiu vi nun estas.
+
+KONSULO BERNICK
+Al kiu tio damaĝis tiam? Estis la intenco de Johan neniam reveni.
+
+FRAŬLINO HESSEL
+Vi demandas, ĉu kiun ĝi damaĝis. Rigardu en vin mem, kaj diru al
+mi, ĉu vi mem ne kaptis damaĝon.
+
+KONSULO BERNICK
+Ekrigardu en kiun ajn homon, kaj vi trovos en ĉiu ajn almenaŭ unu
+nigran punkton, kiun li devas kaŝi.
+
+FRAŬLINO HESSEL
+Kaj Vi nomas Vin la kolonoj de la socio!
+
+KONSULO BERNICK
+La socio ne havas pli bonajn.
+
+FRAŬLINO HESSEL
+Kiom gravas, ke tia socio subteniĝas aŭ ne? Pri kio temas en tio
+ĉi? La ŝajno kaj la mensogo — kaj nenio alia. Jen vi vivas, la
+plej elstara viro de la urbo, en gloro kaj ĝojo, en potenco kaj
+honoro, vi, kiu gluis la krimulsignon sur senkulpulon.
+
+KONSULO BERNICK
+Ĉu vi ne pensas, ke mi profunde sentas mian maljuston kontraŭ li?
+Kaj ĉu vi ne kredas, ke mi estas preta ree bonfari ĝin?
+
+FRAŬLINO HESSEL
+Per kio? Parolante?
+
+KONSULO BERNICK
+Ĉu tion vi povus postuli?
+
+FRAŬLINO HESSEL
+Kio alia povus rebonigi tian maljustaĵon?
+
+KONSULO BERNICK
+Mi estas riĉa, Lona; Johan povas prezenti postulon kiun ajn —
+
+FRAŬLINO HESSEL
+Jes, ofertu al li monon, kaj vi aŭdos, kion li respondos.
+
+KONSULO BERNICK
+Ĉu vi konas liajn intencojn?
+
+FRAŬLINO HESSEL
+Ne, post hieraŭ li estas silenta. Estas kvazaŭ ĉio tio faris lin
+matura viro.
+
+KONSULO BERNICK
+Mi devas paroli kun li.
+
+FRAŬLINO HESSEL
+Jen li estas.
+
+(_Johan Tønnesen_ venas de dekstre.)
+
+KONSULO BERNICK
+(al li) Johan —!
+
+JOHAN TØNNESEN
+(deturnante) Unue _mi_. Hieraŭ matene mi donis al vi mian vorton por
+silenti.
+
+KONSULO BERNICK
+Vi tion faris.
+
+JOHAN TØNNESEN
+Sed tiam mi ankoraŭ ne sciis —
+
+KONSULO BERNICK
+Johan, permesu al mi per du vortoj klarigi al vi la konekson —
+
+JOHAN TØNNESEN
+Ne bezoniĝas; mi tute bone komprenas la konekson. La firmao estis
+tiam en malfacila stato; kaj kiam mi do estis for, kaj vi havis
+potencon super sendefenda nomo kaj famo —. Nu, mi ne ege imputas al
+vi tion; ni estis junaj kaj facilanimaj en tiuj tagoj. Sed nun mi
+bezonas la veron, kaj nun vi devas paroli.
+
+KONSULO BERNICK
+Kaj ĝuste nun mi bezonas mian tutan moralan estimon, kaj tial mi ne
+_povas_ paroli nun.
+
+JOHAN TØNNESEN
+Mi ne ĝenas min pro la fikciaĵoj kiujn vi disvastigis pri mi; estas
+tio alia, por kio vi prenu la kulpon. Dina fariĝu mia edzino, kaj
+ĉi tie, en ĉi tiu urbo, mi volas vivi kaj loĝi kaj konstrui kun
+ŝi.
+
+FRAŬLINO HESSEL
+Vi jenon volas?
+
+KONSULO BERNICK
+Kun Dina! Kiel via edzino? Ĉi tie en la urbo!
+
+JOHAN TØNNESEN
+Jes, ĝuste ĉi tie; mi volas resti ĉi tie por spiti ĉiujn tiujn
+mensogantojn kaj kalumniantojn. Sed por gajni ŝin, estas necese, ke
+vi liberigu min.
+
+KONSULO BERNICK
+Ĉu vi pripensis, ke se mi konfesos la unuan, mi ankaŭ samtempe
+prenos sur min la duan? Vi volas diri, ke el niaj libroj mi povas
+pruvi, ke neniu trompo estas okazinta? Sed tion mi ne povos; niaj
+libroj tiam ne tiel akurate teniĝis. Kaj eĉ se mi povus, — kion
+per tio gajniĝus? Ĉu mi ne almenaŭ starus kiel la homo, kiu iam
+savis sin per mensogo, kaj kiu dum dek kvin jaroj lasis tiun mensogon
+kaj ĉiujn la aliaĵojn fiksiĝi, sen esti farinta paŝon kontraŭe?
+Vi ne plu konas nian socion; alie vi devus scii ke tio ĉi frakasus
+min ĝisfunde.
+
+JOHAN TØNNESEN
+Mi povas nur diri al vi, ke mi volas preni la filinon de sinjorino
+Dorf kiel edzinon, kaj vivi kun ŝi en ĉi tiu urbo.
+
+KONSULO BERNICK
+(sekigas la ŝviton de la frunto) Aŭskultu, Johan, — kaj ankaŭ vi,
+Lona. Ne estas ordinaraj cirkonstancoj en kiuj mi staras ĝuste en
+tiuj ĉi tagoj. Mi staras tiel, ke se tiu ĉi frapo direktiĝos al
+mi, vi estos min detruintaj, kaj ne nur min, sed ankaŭ grandan
+benoriĉan estontecon por la socio, kiu tamen estis via hejmo dum la
+infanaj jaroj.
+
+JOHAN TØNNESEN
+Kaj se mi ne direktos la frapon kontraŭ vin, mi detruos mem mian
+tutan estontan feliĉon.
+
+FRAŬLINO HESSEL
+Parolu daŭre, Karsten.
+
+KONSULO BERNICK
+Do aŭskultu. Estas pri la fervoja afero, kaj tiu afero ne estas tute
+tiel simpla, kiel vi opinias. Vi certe aŭdis priparolata pasintan
+jaron marbordan linion? Ĝi ricevis multajn, gravajn voĉojn por si
+ĉi tie en la urbo kaj ankaŭ en la ĉirkaŭaĵo; sed mi malhelpis
+ĝin, ĉar ĝi malutilus al nia vaporŝiptrafiko laŭ la marbordo.
+
+FRAŬLINO HESSEL
+Ĉu vi mem interesiĝis en tiu vaporŝiptrafiko?
+
+KONSULO BERNICK
+Jes. Sed neniu kuraĝis suspekti min de tiu flanko; mi havis mian
+estimitan nomon kiel ŝildon kaj ŝirmilon super mi. Cetere mi estus
+povinta porti la perdon; sed la loko ne estus ĝin portinta. Do
+decidiĝis por la internlanda linio. Kiam tio estis okazinta, mi
+certigis al mi en tuta silento, ke flanka fervojo povus esti metata
+ĉi-malsupren al la urbo.
+
+FRAŬLINO HESSEL
+Kial en tuta silento, Karsten?
+
+KONSULO BERNICK
+Ĉu vi aŭdis priparolataj la grandajn aĉetojn de arbaraj
+propraĵoj, de minejoj kaj de akvofaloj —?
+
+JOHAN TØNNESEN
+Jes, estas ja eksterurba asocio —
+
+KONSULO BERNICK
+Tiel ke tiuj bienoj nun situas, ili estas preskaŭ senvaloraj por la
+disaj posedantoj; ili tial estas venditaj sufiĉe malmultekoste. Se
+oni atendus ĝis la flanka fervojo estus priparolata, la posedantoj
+postulus malmoderajn prezojn.
+
+FRAŬLINO HESSEL
+Bone, bone; sed kio sekve?
+
+KONSULO BERNICK
+Nun venas tio, kio povas esti malsame eksplikata, — tio, kion homo
+en nia socio nur povas konfesi, se li havas nemakulitan kaj estimatan
+nomon al kiu sin apogi.
+
+FRAŬLINO HESSEL
+Nu?
+
+KONSULO BERNICK
+Estas mi, kiu aĉetis ĉion.
+
+FRAŬLINO HESSEL
+Vi?
+
+JOHAN TØNNESEN
+Je propra respondeco?
+
+KONSULO BERNICK
+Je propra respondeco. Se la flanka fervojo realiĝos, mi estos
+milionulo; se ĝi ne realiĝos, mi estos ruinigita.
+
+FRAŬLINO HESSEL
+Tio estas riska, Karsten.
+
+KONSULO BERNICK
+Mi riskis mian tutan kapitalon sur tio ĉi.
+
+FRAŬLINO HESSEL
+Mi ne pensas pri la kapitalo; sed kiam tio malkaŝiĝos, ke —
+
+KONSULO BERNICK
+Jes, tie estas la nodpunkto. Kun la nemakulita nomo, kiun mi ĝis nun
+portis, mi povas preni tiun aferon sur miajn ŝultrojn, porti ĝin
+antaŭen, kaj diri al miaj kuncivitanoj: Vidu, tion mi riskis por la
+bono de la socio.
+
+FRAŬLINO HESSEL
+Por la socio?
+
+KONSULO BERNICK
+Jes; kaj eĉ ne unu volas dubi pri miaj intencoj.
+
+FRAŬLINO HESSEL
+Tamen troviĝas homoj, kiuj agis pli malferme ol vi, sen subintencoj,
+sen flankaj konsideroj.
+
+KONSULO BERNICK
+Kiuj?
+
+FRAŬLINO HESSEL
+Kompreneble kaj Rummel kaj Sandstad kaj Vigeland.
+
+KONSULO BERNICK
+Por gajni ilin mi devis inici ilin pri la afero.
+
+FRAŬLINO HESSEL
+Kaj sekve?
+
+KONSULO BERNICK
+Ili rezervis al si kvinonon de la profito por divido.
+
+FRAŬLINO HESSEL
+Ho, tiuj kolonoj de la socio!
+
+KONSULO BERNICK
+Ĉu ne estas la socio mem, kiu devigas nin iri laŭ insidaj vojoj?
+Kio okazus ĉi tie, se mi ne estus aginta en silento? Ĉiuj estus sin
+enĵetintaj en la entreprenon, dividantaj, disigantaj, fuŝantaj la
+tuton. En ĉi tiu urbo estas neniu homo krom mi, kiu komprenas kiel
+gvidi tian grandan entreprenon, kiel tiu ĉi fariĝos; en ĉi tiu
+lando estas entute nur la enmigrintaj familioj, kiuj havas talenton
+por pli grandaj entreprenoj. Tial mia konscienco absolvas min en tiu
+ĉi rilato. Nur en miaj manoj ĉi tiuj propraĵoj povos fariĝi
+daŭra beno por la multaj, al kiuj ili havigos panon.
+
+FRAŬLINO HESSEL
+En tio mi opinias ke vi pravas, Karsten.
+
+JOHAN TØNNESEN
+Sed mi ne konas tiujn multajn, kaj la feliĉo de mia vivo estas en
+risko.
+
+KONSULO BERNICK
+La bonstato de via naskiĝloko estas en risko. Se malkaŝiĝos
+aferoj, kiuj ĵetas ombron sur mian antaŭan konduton, mia
+kontraŭuloj kun unuiĝintaj fortoj atakos min. Junula malprudento
+neniam forviŝiĝas en nia socio. Oni volas ekzameni mian tutan
+intertempan vivon, eltiri milojn da etaj okazaĵoj, interpreti kaj
+ekspliki ilin en la lumo de tio, kio malkaŝiĝus; oni volas frakasi
+min sub la pezo de famoj kaj kalumnioj. El la fervoja afero mi devos
+retiriĝi; kaj se mi malkaptos ĝin, ĝi falos, kaj mi estos samtempe
+ruinigita kaj civitane morta.
+
+FRAŬLINO HESSEL
+Johan, post tio kion vi nun aŭdis, vi devas forvojaĝi kaj silenti.
+
+KONSULO BERNICK
+Jes, jes, Johan, tion vi devas!
+
+JOHAN TØNNESEN
+Jes, mi forvojaĝos kaj ankaŭ silentas; sed mi revenos, kaj tiam mi
+parolos.
+
+KONSULO BERNICK
+Restu tie transe, Johan; silentu, kaj mi volonte dividos kun vi —
+
+JOHAN TØNNESEN
+Retenu vian monon, sed redonu al mi mian nomon kaj mian reputacion.
+
+KONSULO BERNICK
+Kaj oferi mian propran!
+
+JOHAN TØNNESEN
+Pri tio vi kaj via socio devas akordiĝi. Mi devas kaj volas gajni
+Dina por mi. Tial mi forvojaĝos jam morgaŭ per “Indian Girl” —
+
+KONSULO BERNICK
+Per “Indian Girl”?
+
+JOHAN TØNNESEN
+Jes. La ŝipestro promesis kunpreni min. Mi transvojaĝos, mi diras;
+mi vendos mian bienon kaj ordigas miajn aferojn. Post du monatoj mi
+estos reveninta.
+
+KONSULO BERNICK
+Kaj tiam vi volas paroli?
+
+JOHAN TØNNESEN
+Tiam la kulpulo prenu la kulpon mem.
+
+KONSULO BERNICK
+Ĉu vi forgesas, ke tiam mi devos preni _tion_ sur min, pri kio mi
+_ne_ estas kulpa?
+
+JOHAN TØNNESEN
+Kiu antaŭ dek kvin jaroj utiligis tiun hontindan famon?
+
+KONSULO BERNICK
+Vi pelas min al malespero! Sed se vi parolos, mi ĉion neos! Mi
+diros, ke estas komploto kontraŭ mi; venĝo; ke vi venis ĉi tien
+por elpremi monon de mi!
+
+FRAŬLINO HESSEL
+Honto al vi, Karsten!
+
+KONSULO BERNICK
+Mi estas malespera, mi diras; kaj mi luktos por la vivo. Mi neos
+ĉion, ĉion!
+
+JOHAN TØNNESEN
+Mi havas viajn du leterojn. En mia kofro mi trovis ilin inter miaj
+aliaj paperoj. Ĉi-matene mi tralegis ilin; ili estas sufiĉe klaraj.
+
+KONSULO BERNICK
+Kaj tiujn vi volas prezenti?
+
+JOHAN TØNNESEN
+Se fariĝos necese.
+
+KONSULO BERNICK
+Kaj post du monatoj vi denove estos ĉi tie?
+
+JOHAN TØNNESEN
+Mi tion esperas. La vento estas bona. Post tri semajnoj mi estos en
+New York —, se “Indian Girl” ne subakviĝos.
+
+KONSULO BERNICK
+(ekmire) Subakviĝos? Kial “Indian Girl” subakviĝus?
+
+JOHAN TØNNESEN
+Ne, ankaŭ mi tiel pensas.
+
+KONSULO BERNICK
+(preskaŭ ne aŭdeble) Subakviĝi?
+
+JOHAN TØNNESEN
+Jes, Bernick, nun vi do scias, kio atendas; dume vi devas konsideri
+la situacion. Adiaŭ! Salutu al Betty, kvankam ŝi ne akceptis min
+kiel fratino. Sed Marta mi tamen volas vidi. Ŝi diru al Dina —; ŝi
+promesu al mi —
+
+(Li eliras tra la malantaŭa pordo maldekstre.)
+
+KONSULO BERNICK
+(al si mem) “Indian Girl” —? (rapide) Lona, vi _devas_ malhelpi tion
+ĉi!
+
+FRAŬLINO HESSEL
+Vi mem vidas, Karsten, — mi ne plu havas potencon super li.
+
+(Ŝi iras post _Johan_ en la ĉambron maldekstre.)
+
+KONSULO BERNICK
+(en maltrankvilaj pensoj) Subakviĝi —?
+
+(_Ŝipkonstruisto Aŭne_ venas de dekstre.)
+
+ŜIPKONSTRUISTO AŬNE
+Je via permeso, ĉu estas konvene por la konsulo —?
+
+KONSULO BERNICK
+(turnas sin impete) Kion Vi volas?
+
+ŜIPKONSTRUISTO AŬNE
+Peti ĉu mi povu fari demandon al la konsulo.
+
+KONSULO BERNICK
+Nu ja; rapidiĝu. Pri kio Vi volas demandi?
+
+ŜIPKONSTRUISTO AŬNE
+Mi volas demandi, ĉu estas firma decido, — neŝanĝeble firma
+decido, — ke mi estus maldungata de la farejo, se “Indian Girl” ne
+povus forveli morgaŭ?
+
+KONSULO BERNICK
+Kio nun? La ŝipo ja _fariĝos_ preta por forveli.
+
+ŜIPKONSTRUISTO AŬNE
+Jes, — ĝi fariĝos. Sed se ĝi ne fariĝos, — ĉu mi tiam
+maldungiĝus?
+
+KONSULO BERNICK
+Por kio tiaj senutilaj demandoj?
+
+ŜIPKONSTRUISTO AŬNE
+Mi ege volus scii tion, sinjoro konsulo. Respondu al mi pri _tio_:
+Ĉu mi maldungiĝus?
+
+KONSULO BERNICK
+Ĉu mia vorto kutime estas fiksa aŭ ne?
+
+ŜIPKONSTRUISTO AŬNE
+Mi do morgaŭ estus perdinta la pozicion, kiun mi havas en mia domo
+kaj inter tiuj al kiuj mi plej proksime apartenas, — perdinta mian
+influon en la rondo de la laboristoj, — perdinta la eblecon bonfari
+inter la malaltaj kaj malriĉaj homoj en la societo.
+
+KONSULO BERNICK
+Aŭne, pri tiu punkto ni estas finitaj.
+
+ŜIPKONSTRUISTO AŬNE
+Nu, do “Indian Girl” forvelu. (mallonga silento)
+
+KONSULO BERNICK
+Aŭskultu; mi ne povas direkti miajn okulojn en ĉiujn lokojn; ne
+povas respondeci por ĉio; — Vi povas aserti al mi, ke la riparado
+estas neriproĉeble farita?
+
+ŜIPKONSTRUISTO AŬNE
+Vi fiksis mallongan tempolimon, sinjoro konsulo.
+
+KONSULO BERNICK
+Sed la riparo estas taŭga, Vi diras?
+
+ŜIPKONSTRUISTO AŬNE
+Ni havas ja bonan veteron kaj somertempon. (denova paŭzo)
+
+KONSULO BERNICK
+Ĉu Vi havas ion pli al mi direndan?
+
+ŜIPKONSTRUISTO AŬNE
+Mi ne scias pri io alia, sinjoro konsulo.
+
+KONSULO BERNICK
+Do, — “Indian Girl” forvelos —
+
+ŜIPKONSTRUISTO AŬNE
+Morgaŭ?
+
+KONSULO BERNICK
+Jes.
+
+ŜIPKONSTRUISTO AŬNE
+Nu ja. (Li salutas kaj foriras.)
+
+(_Konsulo Bernick_ staras momenton sendecida; tuj poste li iras
+rapide al la elireja pordo, kvazaŭ volante revoki Aŭne, sed haltas
+maltrankvila kun la mano sur la anso. Samtempe malfermiĝas la pordo
+de ekstere, kaj _plenrajtigito Krap_ envenas.)
+
+PLENRAJTIGITO KRAP
+(mallaŭte) Aha, li estis ĉi tie. Ĉu li konfesis?
+
+KONSULO BERNICK
+Hm —; ĉu Vi ion malkaŝis?
+
+PLENRAJTIGITO KRAP
+Ĉu tio bezoniĝas? Ĉu la konsulo ne vidis la malbonan konsciencon
+ekrigardi el liaj okulanguloj?
+
+KONSULO BERNICK
+Ho ĉu; — tiaĵo ne vidiĝas. Ĉu Vi ion malkaŝis, mi demandas?
+
+PLENRAJTIGITO KRAP
+Mi ne povis alveni; estis tro malfrue; ili jam estis tiranta la
+ŝipon el la doko. Sed ĝuste tiu urĝo klare montras, ke —
+
+KONSULO BERNICK
+Montras nenion. La inspekto do jam okazis?
+
+PLENRAJTIGITO KRAP
+Kompreneble; sed —
+
+KONSULO BERNICK
+Vi do nun vidas. Kaj oni kompreneble trovis nenion priplendindan?
+
+PLENRAJTIGITO KRAP
+Sinjoro konsulo, Vi certe scias kiel tiaj inspektoj okazas, precipe
+en ŝipfarejo, kiu havas tian bonan nomon kiel la nia.
+
+KONSULO BERNICK
+Same bone; ni do estas senplendindaj.
+
+PLENRAJTIGITO KRAP
+Sinjoro konsulo, ĉu Vi vere nenion rimarkis en Aŭne, ke —?
+
+KONSULO BERNICK
+Aŭne tute trankviligis min, mi diras al Vi.
+
+PLENRAJTIGITO KRAP
+Kaj mi diras al Vi, ke mi estas morale konvinkita, ke —
+
+KONSULO BERNICK
+Kion tio ĉi signifu, sinjoro Krap? Mi ja komprenas, ke Vi portas
+malamikan senton kontraŭ la viro; sed se Vi volas iel malutili al
+li, Vi devas elekti alian okazon. Vi scias kiel grave estas por mi —
+aŭ pli ĝuste por la ŝipsocieto — ke “Indian Girl” forvelu
+morgaŭ.
+
+PLENRAJTIGITO KRAP
+Nu bone; tio okazu; sed kiam ni aŭdos ion de _tiu_ ŝipo — hm!
+
+(_Komercisto Vigeland_ envenas de dekstre.)
+
+KOMERCISTO VIGELAND
+Estime bonan tagon, sinjoro konsulo. Ĉu Vi havas liberan momenton?
+
+KONSULO BERNICK
+Je Via servo, sinjoro Vigeland.
+
+KOMERCISTO VIGELAND
+Jes, mi nur volus aŭdi, ĉu ne ankaŭ Vi subtenas la decidon, ke “La
+Palmo” forvelu morgaŭ?
+
+KONSULO BERNICK
+Jes; tio ja estas interkonsentita afero.
+
+KOMERCISTO VIGELAND
+Sed nun la ŝipestro venis al mi informante, ke estas prognozo por
+ventego.
+
+PLENRAJTIGITO KRAP
+La barometro multe falis de post la mateno.
+
+KONSULO BERNICK
+Ĉu? Ĉu ni povas atendi ventegon?
+
+KOMERCISTO VIGELAND
+Almenaŭ fortan venton; sed ne kontraŭventon; male —
+
+KONSULO BERNICK
+Hm; nu, kion Vi do diras?
+
+KOMERCISTO VIGELAND
+Mi diras, kiel mi diris al la ŝipestro, ke “La Palmo” estas en la
+mano de la providenco. Kaj cetere ĝi ja unue velos nur trans la
+Nordan Maron; kaj en Anglio la frajtaj prezoj estas ja nun tiel
+kontentige altaj, ke —
+
+KONSULO BERNICK
+Jes, kaŭzus al ni perdon, se ni atendus.
+
+KOMERCISTO VIGELAND
+La ŝipo estas ja solida, kaj krome plene asekurita. Ne, sed
+tiarilate estas pli riske por “Indian Girl” —
+
+KONSULO BERNICK
+Kiel tio?
+
+KOMERCISTO VIGELAND
+Ĝi ja ankaŭ forvelos morgaŭ.
+
+KONSULO BERNICK
+Jes, la ŝipsocieto forte urĝis, kaj cetere —
+
+KOMERCISTO VIGELAND
+Nu, se tiu malnova kesto kuraĝas forveli, — kaj krome kun tia
+ŝipanaro, — estus honto, se ni ne —
+
+KONSULO BERNICK
+Nu bone. Supozeble Vi havas la ŝipdokumentojn kun Vi?
+
+KOMERCISTO VIGELAND
+Jes, jen.
+
+KONSULO BERNICK
+Bone; nun bonvole eniri kun sinjoro Krap.
+
+PLENRAJTIGITO KRAP
+Bonvolu; estos tuj aranĝata.
+
+KOMERCISTO VIGELAND
+Dankon. — Kaj la rezulton ni metos en la manon de la ĉiopova,
+sinjoro konsulo.
+
+(Li iras kun _plenrajtigito Krap_ en la antaŭan ĉambron maldekstre.
+_Adjunkto Rørlund_ envenas tra la ĝardeno.)
+
+ADJUNKTO RØRLUND
+Ah, ĉu mi renkontu Vin hejme je tiu ĉi tempo de la tago, sinoro
+konsulo?
+
+KONSULO BERNICK
+(enpense) Kiel Vi vidas.
+
+ADJUNKTO RØRLUND
+Jes, tamen estis pro la sinjorino, ke mi eniris. Mi imagis al mi, ke
+ŝi bezonus iun konsolan vorton.
+
+KONSULO BERNICK
+Ŝi eble bezonus. Sed ankaŭ mi volus iomete paroli kun Vi.
+
+ADJUNKTO RØRLUND
+Kun plezuro, sinjoro konsulo. Sed kio estas al Vi? Vi aspektas tute
+pale kaj konfuzite.
+
+KONSULO BERNICK
+Ĉu? Ĉu mi tiel aspektas? Jes, kiel povas esti aliaspekte, — tiom
+kiom nuntempe amasiĝas antaŭ min? Tuta, mia granda komerco, — kaj
+ankaŭ la fervoja establaĵo —. Aŭskultu: en unu vorto, sinjoro
+adjunkto; permesu al mi fari al Vi demandon.
+
+ADJUNKTO RØRLUND
+Tre volonte, sinjoro konsulo.
+
+KONSULO BERNICK
+Estas penso, kiu falis en min. Kiam oni staras antaŭ tia vastatinga
+entrepreno, kiu postulus unu opan oferon —?
+
+ADJUNKTO RØRLUND
+Kiel vi pensas?
+
+KONSULO BERNICK
+Ekzemple mi supozas: viro intencas establi grandan fabrikon. Li scias
+certe — ĉar ĉiuj spertoj montris tion — ke frue aŭ malfrue dum
+la ekspluatado en tiu fabriko homaj vivoj perdiĝos.
+
+ADJUNKTO RØRLUND
+Jes, tio estas nur tro verŝajna.
+
+KONSULO BERNICK
+Aŭ iu ĵetas sin sur ekspluatado de minejoj. Li prenas kaj familiaj
+patroj kaj junaj vivfortaj homoj en sian servon. Ĉu oni ne povas kun
+certeco diri, ke ne ĉiuj tiuj travivos.
+
+ADJUNKTO RØRLUND
+Jes bedaŭrinde, sendube estas tiel.
+
+KONSULO BERNICK
+Nu. Tia viro ja scias antaŭe, ke la entrepreno, kiun li realigos,
+sendube iam kostos homa vivo. Sed tiu entrepreno estas ĝenerale
+utila; por ĉiu vivo, kiun ĝi kostas, ĝi same sendube progresigas
+la bonfarton de multaj centoj.
+
+ADJUNKTO RØRLUND
+Aha, Vi pensas pri la fervojo, — pri ĉiuj tiuj danĝeraj fosadoj
+kaj krevigadoj de rokoj kaj ĉio tio —
+
+KONSULO BERNICK
+Jes; nu jes; mi pensas pri la fervojo. Kaj krome, — la fervojo
+fariĝos kaŭzo por fabrikoj kaj ekspluatado de minejoj. Sed ĉu Vi
+tamen ja opinias —?
+
+ADJUNKTO RØRLUND
+Kara sinjoro konsulo, Vi estas preskaŭ tro konscienca. Mi pensas, ke
+kiam Vi metas la aferon en la manon de la providenco —
+
+KONSULO BERNICK
+Jes; certe ja; la providenco —
+
+ADJUNKTO RØRLUND
+— Vi estas senkulpa. Vi konstruu fidoplene la fervojon.
+
+KONSULO BERNICK
+Jes, sed nun mi supozas specialan okazon. Mi supozas, ke troviĝis
+bor-truo, kiu eksplodiĝus, kaj tio en danĝera loko; sed se tiu
+bor-truo ne eksplodiĝus, ne eblus realigi la fervojon. Mi supozas,
+ke la inĝeniero scias, ke kostos la vivo de tiu laboristo, kiu
+brulfajrigu la meĉon; sed fajrigata ĝi devas esti, kaj estas la
+devo de la inĝeniero sendi laboriston tien por fari la taskon.
+
+ADJUNKTO RØRLUND
+Hm —
+
+KONSULO BERNICK
+Mi scias, kion Vi volas diri. Estus laŭdinde, se la inĝeniero mem
+prenus la meĉon, kaj irus al la bor-truo por ĝin brulfajrigi. Sed
+tiaĵon oni ne faras. Li sekve devas oferi laboriston.
+
+ADJUNKTO RØRLUND
+Tion inĝeniero neniam farus ĉe ni.
+
+KONSULO BERNICK
+Neniu inĝeniero en la grandaj landoj hezitus tion fari.
+
+ADJUNKTO RØRLUND
+En la grandaj landoj? Nu, tion mi ja kredas. En tiuj koruptaj
+senkonsciencaj socioj —
+
+KONSULO BERNICK
+Ho, tamen estas multaj bonoj en tiuj socioj.
+
+ADJUNKTO RØRLUND
+Kaj tion Vi povas diri, Vi, kiu mem —?
+
+KONSULO BERNICK
+En la grandaj socioj ili tamen havas eblecojn antaŭenigi utilan
+entreprenon; tie ili havas kuraĝon oferi ion por granda afero; sed
+ĉi tie oni restriktiĝas de ĉiaspecaj malgrandanimaj konsideroj kaj
+skrupuloj.
+
+ADJUNKTO RØRLUND
+Ĉu homa vivo estas malgrandanima konsidero?
+
+KONSULO BERNICK
+Kiam tiu homa vivo staras kiel minaco al la bono de miloj.
+
+ADJUNKTO RØRLUND
+Sed Vi starigas tute nepenseblajn kazojn, sinjoro konsulo! Mi tute ne
+komprenas Vin hodiaŭ. Kaj Vi eĉ montras al la grandaj socioj. Jes,
+tie fremde, — kion valoras homa vivo tie? Tie ili ne kalkulas per
+homaj vivoj, sed per kapitaloj. Sed ni ja staras sur tute alia morala
+starpunkto, mi opinias. Rigardu al nia honesta profesio de
+ŝipposedantoj! Menciu unu solan ŝipposedanton ĉe ni, kiu por fia
+gajno volus oferi homan vivon! Kaj imagu tiujn friponojn en la
+grandaj socioj, kiuj por avantaĝo ĉartedonas unu nemartaŭgan
+ŝipon post la alia —
+
+KONSULO BERNICK
+Mi ne parolas pri nemartaŭgaj ŝipoj!
+
+ADJUNKTO RØRLUND
+Sed mi parolas pri ili, sinjoro konsulo.
+
+KONSULO BERNICK
+Jes, sed pro kio? Tio ja ne rilatas al la afero. — Ho, tiuj
+bagatelaj timoplenaj konsideroj! Se generalo ĉe ni kondukus siajn
+homojn en la pafadon kaj ekhavus ilin mortpafataj, li poste ricevus
+sendormajn noktojn. Tiel ne estas aliloke. Vi aŭdus kion tiu tie
+interne rakontas —
+
+ADJUNKTO RØRLUND
+Li? Kiu? La usonano —?
+
+KONSULO BERNICK
+Nu jes. Vi aŭdus, kiel oni en Usono —
+
+ADJUNKTO RØRLUND
+Li estas tie? Kaj tion Vi ne diras al mi. Mi volas tuj —
+
+KONSULO BERNICK
+Vi ne sukcesos; Vi nenien atingos pri li.
+
+ADJUNKTO RØRLUND
+Tion ni vidu. Nu, jen li estas.
+
+(_Johan Tønnesen_ venas de la ĉambro maldekstre.)
+
+JOHAN TØNNESEN
+(Parolas malantaŭen tra la malferma pordo:) Jes, jes, Dina, ke tiel
+estu; sed mi tamen ne lasos vin. Mi revenos, kaj tiam fariĝos bone
+inter ni.
+
+ADJUNKTO RØRLUND
+Je Via permeso, al kio vi aludas per tiuj vortoj? Kion Vi volas?
+
+JOHAN TØNNESEN
+Mi volas, ke tiu juna knabino, antaŭ kiu Vi hieraŭ nigrigis min,
+fariĝu mia edzino.
+
+ADJUNKTO RØRLUND
+Via —? Kaj Vi povas imagi al Vi, ke —?
+
+JOHAN TØNNESEN
+Mi volas havi ŝin edzine.
+
+ADJUNKTO RØRLUND
+Nu, do vi spertu — (iras al la duone malferma pordo) Sinjorino
+Bernick, Vi bonvole devas esti atestanto —. Kaj ankaŭ Vi, fraŭlino
+Marta. Kaj igu Dina enveni. (vidas _fraŭlinon Hessel_) Aĥ, ĉu
+ankaŭ Vi ĉeestas?
+
+FRAŬLINO HESSEL
+(en la pordo) Ĉu ankaŭ mi venu?
+
+ADJUNKTO RØRLUND
+Ĉiuj kiuj volas; ju pli des pli bone.
+
+KONSULO BERNICK
+Kion vi intencas?
+
+(_Fraŭlino Hessel, sinjorino Bernick, fraŭlino Bernick, Dina_ kaj
+_Hilmar Tønnesen_ venas el la ĉambro.)
+
+SINJORINO BERNICK
+Sinjoro adjunkto, per mia plej bona volo mi ne kapablis malhelpi
+lin —
+
+ADJUNKTO RØRLUND
+Mi malhelpos lin, sinjorino. — Dina, Vi estas senpripensa knabino.
+Sed mi ne multe riproĉas Vin. Tro longe Vi staris ĉi tie sen morala
+starpunkto, kiu subtenus Vin. Mi riproĉas min mem, ke mi ne antaŭe
+donis al Vi tiun starpunkton.
+
+DINA
+Vi ne parolu nun.
+
+SINJORINO BERNICK
+Sed kio estas?
+
+ADJUNKTO RØRLUND
+Ĝuste nun mi devas paroli, Dina, kvankam Via konduto hieraŭ kaj
+hodiaŭ faris la staton dekoble pli malfacila por mi. Sed por Via
+savo ĉiuj aliaj konsideroj devas cedi. Vi memoras la vorton, kiun mi
+donis al Vi. Vi memoras, kion Vi promesis respondi, kiam mi trovus la
+tempon matura. Nun mi ne kuraĝas pli longe heziti, kaj tial — (al
+_Johan Tønnesen_:) tiu ĉi juna knabino, kiun Vi aspiras, estas mia
+fianĉino.
+
+SINJORINO BERNICK
+Kion vi diras?
+
+KONSULO BERNICK
+Dina!
+
+JOHAN TØNNESEN
+Ŝi! Via —?
+
+FRAŬLINO BERNICK
+Ne, ne, Dina!
+
+FRAŬLINO HESSEL
+Mensogo!
+
+JOHAN TØNNESEN
+Dina, — ĉu tiu viro diras la veron?
+
+DINA
+(post mallonga paŭzo) Jes.
+
+ADJUNKTO RØRLUND
+Per tio espereble ĉiuj logantaj artaĵoj fariĝis senpotencaj. La
+paŝon kiun mi por la bono de Dina decidis fari, povas libere esti
+konigata al nia tuta komunumo. Mi nutras la certan esperon, ke ĝi ne
+miskompreniĝas. Sed nun, sinjorino, mi opinias ke plej bone estas,
+ke ni konduku ŝin de ĉi tie, kaj provu redoni trankvilon kaj
+ekvilibron en ŝian animon.
+
+SINJORINO BERNICK
+Jes, venu. Oh Dina, kia feliĉo por vi!
+
+(Ŝi kondukas _Dina_ eksteren maldekstre; _adjunkto Rørlund_ sekvas
+ilin.)
+
+FRAŬLINO BERNICK
+Adiaŭ, Johan! (Ŝi eliras.)
+
+HILMAR TØNNESEN
+(ĉe la ĝardena pordo) Hm — jen priparolindaĵo —
+
+FRAŬLINO HESSEL
+(kiu sekvis _Dina_ per la okuloj) Ne perdu kuraĝon, knabo! Mi restos
+kaj atentos pri la pastoro. (Ŝi eliras dekstre.)
+
+KONSULO BERNICK
+Johan, nun vi ne forvojaĝos per “Indian Girl”.
+
+JOHAN TØNNESEN
+Ĝuste nun.
+
+KONSULO BERNICK
+Sed vi do ne revenos?
+
+JOHAN TØNNESEN
+Mi revenos.
+
+KONSULO BERNICK
+Post tio ĉi? Kion vi volas ĉi tie post tiu okazaĵo?
+
+JOHAN TØNNESEN
+Venĝi min al vi ĉiuj; kraŝi plej eble multajn el vi.
+
+(Li eliras dekstre. _Komercisto Vigeland_ kaj _plenrajtigito Krap_
+venas de la ĉambro de la konsulo.)
+
+KOMERCISTO VIGELAND
+Nun fine, la paperoj estas en ordo, sinjoro konsulo.
+
+KONSULO BERNICK
+Bone, bone —
+
+PLENRAJTIGITO KRAP
+(mallaŭte) Kaj do estas fikse decidite, ke “Indian Girl” forvelos
+morgaŭ.
+
+KONSULO BERNICK
+Ĝi forvelos.
+
+(Li iras en sian ĉambron. _Komercisto Vigeland_ kaj _plenrajtigito
+Krap_ eliras dekstre. _Hilmar Tønnesen_ volas sekvi ilin, sed
+samtempe _Olaf_ metas la kapon singarde elen tra la pordo maldekstre.)
+
+OLAF
+Onklo! Onklo Hilmar!
+
+HILMAR TØNNESEN
+Uf, ĉu estas vi? Kial vi ne restas supre? Vi ja estas en aresto.
+
+OLAF
+(paŝon antaŭen) Tŝŝ! Onklo Hilmar, ĉu vi scias novaĵon?
+
+HILMAR TØNNESEN
+Jes, mi scias, ke vi bastoniĝis hodiaŭ.
+
+OLAF
+(rigardas minace al la ĉambro de la patro) Li ne batos min pli ofte.
+Sed ĉu vi scias, ke onklo Johan forvelos morgaŭ kun la usonanoj?
+
+HILMAR TØNNESEN
+Kiel tio koncernas vin? Irigu vin supren.
+
+OLAF
+Eble ankaŭ mi iam faros bizon-ĉasadon, onklo.
+
+HILMAR TØNNESEN
+Babilaĉo; tia malkuraĝulo, kiel vi —
+
+OLAF
+Nu, atendu nur; vi certe scios ion morgaŭ!
+
+HILMAR TØNNESEN
+Stultulo!
+
+(Li iras eksteren tra la ĝardeno, _Olaf_ reen kuras en sian
+ĉambron, kaj fermas la pordon, kiam li vidas _plenrajtigiton Krap_,
+venanta de dekstre.)
+
+PLENRAJTIGITO KRAP
+(iras al la pordo de la konsulo kaj malfermas ĝin duone) Pardonu
+ke mi denove venas, sinjoro konsulo; sed kuntiriĝas al ventego.
+(atendas momenton; neniu respondo.) Ĉu “Indian Girl” tamen forvelu?
+(Post mallonga paŭzo respondiĝas de:)
+
+KONSULO BERNICK
+(ene en la ĉambro:) “Indian Girl” tamen forvelos.
+
+(_Plenrajtigito Krap_ fermas la pordon kaj reiras elen dekstre.)
+
+
+
+
+KVARA AKTO
+
+
+(Ĝardena salono ĉe _konsulo Bernick_. La labortablo estas eksteren
+metita. Estas ventega posttagmezo kaj jam krepusko, kiu pliiĝas dum
+la sekvo.)
+
+(_Servisto_ ekbruligas la lustron; _paro da servistinoj_ enportas
+florpotojn, lampojn kaj lumojn, kiuj metiĝas sur tablojn, kaj ujoj
+metiĝas laŭ la muroj. _Grandkomercisto Rummel_, en frako, kun
+gantoj kaj blanka koltuko, staras en la salono kaj direktas la
+aranĝon.)
+
+GRANDKOMERCISTO RUMMEL
+(al la servisto) Nur ĉiun duan lumon, Jacob. Ne devas aspekti tro
+festene; okazu ja surprize. Kaj ĉiuj tiuj floroj —? Nu ja; lasu
+ilin stari; povas ja aspekti, kvazaŭ ili staras tie ĉiutage —
+
+(_Konsulo Bernick_ elvenas de sia ĉambro.)
+
+KONSULO BERNICK
+(venas pli proksimen) Sed, Rummel, kion tio ĉi signifu?
+
+GRANDKOMERCISTO RUMMEL
+Tio signifas, ke via plej fiera momento venis. La urbo prezentos al
+sia plej elstara viro standardprocesion ĉi-vespere.
+
+KONSULO BERNICK
+Kion vi diras!
+
+GRANDKOMERCISTO RUMMEL
+Standardprocesion kun muziko! Torĉojn ni ankaŭ devus havi; sed tion
+ni ne kuraĝis en tiu ĉi ventega vetero. Nu, iluminado tamen okazos;
+kaj _tio_ ankaŭ havos efikon, en la gazetoj.
+
+KONSULO BERNICK
+Aŭdu, Rummel, tio ĉi mi tute ne volas akcepti.
+
+GRANDKOMERCISTO RUMMEL
+Nu ja, nun tio estas tro malfrue; post duona horo ili venos.
+
+KONSULO BERNICK
+Sed kial vi ne diris al mi antaŭe?
+
+GRANDKOMERCISTO RUMMEL
+Ĝuste ĉar mi timis, ke vi farus protestojn. Sed mi kontaktis vian
+edzinon; ŝi permesis al mi iomete aranĝi, kaj ŝi havigos
+refreŝigaĵojn.
+
+KONSULO BERNICK
+(aŭskultas) Kio estas tio? Ĉu ili jam venas? Ŝajnas al mi, ke
+estas kantado.
+
+GRANDKOMERCISTO RUMMEL
+(ĉe la ĝardena pordo) Kantado? Ho, estas nur la Usonanoj. Estas
+“Indian Girl”, kiu tiriĝas al la naĝobarelo.
+
+KONSULO BERNICK
+Ĝi eltiriĝas! Jes —; ne, mi ne povas ĉi-vespere, Rummel; mi estas
+malsana.
+
+GRANDKOMERCISTO RUMMEL
+Jes, vi vere aspektas malsane. Sed vi devas kuraĝigi vin! Vi devas,
+morto kaj sufero, kuraĝigi vin! Kaj mi kaj Sandstad kaj Vigeland
+trovis plej grave realigi ĉi tiun aranĝon. Niaj antagonistoj estu
+premataj sub la pezo de kiel eble ampleksa esprimo de opinio. La
+urbaj onidiroj multobliĝas; la informo pri la aĉetoj de bienoj ne
+povas plu esti retenata. Kompreneble jam ĉi-vespere vi devas, sub
+kantado kaj paroladoj, sub tintado de glasoj, mallonge, sub ŝvelanta
+festena etoso sciigi, kion vi riskis por la bono de la socio.
+Sub tia ŝvelanta festena etoso, kiel mi ĵus esprimis, oni povas
+verki eksterordinare multe ĉi tie ĉe ni. Sed _tiu_ ja absolute
+bezoniĝas, alie ni ne sukcesos.
+
+KONSULO BERNICK
+Nu ja, ja —
+
+GRANDKOMERCISTO RUMMEL
+Kaj precipe kiam tia delikata kaj tikla punkto eltiriĝas. Nu, vi
+havas, dank' al Dio, nomon, kiu toleras tion, Bernick. Sed aŭskultu
+nun; ni devis ja interkonsenti pri io. Studento Tønnesen verkis
+kanton por vi. Ĝi komencas bele per la vortoj: “Levu alten la
+standardon de l' ideo”. Kaj adjunkto Rørlund ricevis la taskon
+prezenti la fest-paroladon. Al ĝi vi kompreneble devas respondi.
+
+KONSULO BERNICK
+Mi ne povas ĉi-vespere, Rummel. Ĉu vi ne povus —?
+
+GRANDKOMERCISTO RUMMEL
+Neeblas, kvankam mi volonte farus. La parolado fariĝos ja, kiel vi
+komprenas, precipe direktata al vi. Nu, eble direktiĝos ankaŭ
+kelkaj vortoj al ni aliuloj. Mi parolis kun Vigeland kaj Sandstad pri
+tio. Ni estis elpensintaj, ke vi povus respondi per “vivo” por la
+prospero de nia socio; Sandstad parolos kelkajn vortojn pri samopinio
+inter la diversaj sociaj tavoloj; Vigeland certe volas diri ion
+pri la dezirindeco, ke la nova entrepreno ne ŝanĝu la moralan
+fundamenton, sur kiu ni nun staras, kaj mi intencas en iomaj konvenaj
+vortoj memorigi la virinon, kies pli retenema agado ankaŭ ne estas
+sen signifo por la socio. Sed vi ja ne aŭskultas —
+
+KONSULO BERNICK
+Jes — ja certe. Sed diru al mi, ĉu vi opinias, ke estas tia ega
+surmara vento ekstere?
+
+GRANDKOMERCISTO RUMMEL
+Ho, vi timas por “La Palmo”? Ĝi estas ja bone asekurita.
+
+KONSULO BERNICK
+Jes, asekurita; sed —
+
+GRANDKOMERCISTO RUMMEL
+Kaj en bona stato; tio estas la plej grava.
+
+KONSULO BERNICK
+Hm —. Se okazos io al ŝipo, ne estas certe ke homaj vivoj
+perdiĝos. Povas perdiĝi ŝipo kaj kargo, — kaj oni povas perdi
+kofrojn kaj paperojn —
+
+GRANDKOMERCISTO RUMMEL
+Ho tondre, kofroj kaj paperoj ne multe gravas.
+
+KONSULO BERNICK
+Ĉu ne! Ne, ne, mi nur pensis — Tŝŝ, — jen ili denove kantas.
+
+GRANDKOMERCISTO RUMMEL
+Estas en “La Palmo”.
+
+(Komercisto _Vigeland_ venas de dekstre.)
+
+KOMERCISTO VIGELAND
+Ja, nun ili eltrenas “La Palmon”. Bonan vesperon, sinjoro konsulo.
+
+KONSULO BERNICK
+Kaj Vi, kia mar-spertulo, daŭre persistas je —?
+
+KOMERCISTO VIGELAND
+Mi persistas je la providenco, mi, sinjoro konsulo; cetere mi estis
+surŝipe distribuante kelkajn traktaĵojn, kiuj laŭespere efikos
+benoriĉe.
+
+(_Komercisto Sandstad_ kaj _plenrajtigito Krap_ envenas de dekstre.)
+
+KOMERCISTO SANDSTAD
+(ankoraŭ ĉe la pordo) Jes, se _tio_ sukcesos, ĉio sukcesos. Ho
+jen, bonan vesperon, bonan vesperon!
+
+KONSULO BERNICK
+Ĉu io estas okazonta, sinjoro Krap?
+
+PLENRAJTIGITO KRAP
+Mi nenion diras, sinjoro konsulo.
+
+KOMERCISTO SANDSTAD
+La tuta ŝipanaro sur “Indian Girl” estas ebria; mi ne estu honesta
+viro, se tiuj fibestoj hejmenvenos en vivo.
+
+(_Sinjorino Hessel_ venas de dekstre.)
+
+FRAŬLINO HESSEL
+(al _konsulo Bernick_) Jes, nun mi povas saluti de li.
+
+KONSULO BERNICK
+Jam surŝipe?
+
+FRAŬLINO HESSEL
+Baldaŭ almenaŭ. Ni disiĝis ekstere de la hotelo.
+
+KONSULO BERNICK
+Kaj lia intenco staras fikse?
+
+FRAŬLINO HESSEL
+Fikse kiel monto.
+
+GRANDKOMERCISTO RUMMEL
+(apud la fenestroj) Al diablo tiuj novmodaj instalaĵoj; mi ne
+kapablas malsuprentiri la kurtenon.
+
+FRAŬLINO HESSEL
+Ĉu malsupren? Mi pensis ke kontraŭe.
+
+GRANDKOMERCISTO RUMMEL
+Unue malsupren, fraŭlino. Jes, Vi do scias, kio okazos?
+
+FRAŬLINO HESSEL
+Nu ja. Permesu al mi helpi vin; (ekkaptas la ŝnurojn) Mi
+malsuprentiru la kurtenon por la bofrato, — kvankam mi prefere
+suprenlevus ĝin.
+
+GRANDKOMERCISTO RUMMEL
+Tion vi ankaŭ povos fari poste. Kiam la ĝardeno estas plena de la
+ondanta homamaso, la kurteno suprenleviĝos, kaj oni vidos interne
+surprizita kaj ĝoja familio; — hejmo de burĝo devas esti kiel
+vitra ŝranko.
+
+KONSULO BERNICK
+(aspekte li volas ion diri, sed turnas sin rapide kaj iras en sian
+ĉambron.)
+
+GRANDKOMERCISTO RUMMEL
+Do, ni faru la lastan interkonsilon. Kunvenu, sinjoro Krap; Vi devas
+helpi nin per kelkaj faktaj informaĵoj.
+
+(Ĉiuj sinjoroj iras en la ĉambron de la konsulo. _Fraŭlino Hessel_
+estas tirinta la kurtenojn antaŭ la fenestrojn, kaj volas ĵus fari
+la samon pri la kurteno antaŭ la malferma vitra pordo, kiam _Olaf_
+venas kuranta desupre malsupren sur la ĝardenan ŝtuparon; li havas
+plejdon super la ŝultro kaj kunligaĵo en la mano.)
+
+FRAŬLINO HESSEL
+Ho, Dio pardonu vin, knabo, kiel vi timigis min!
+
+OLAF
+(kaŝas la kunligaĵon) Tŝŝ, onklino!
+
+FRAŬLINO HESSEL
+Ĉu vi saltas el la fenestro? Kien vi intencas?
+
+OLAF
+Tŝŝ; diru nenion. Mi volas al onklo Johan; — nur malsupren al la
+kajo, vi komprenas; — nur diri al li adiaŭ. Bonan nokton, onklino!
+(Li kuras elen tra la ĝardeno.)
+
+FRAŬLINO HESSEL
+Ho, restu! Olaf — Olaf!
+
+(_Johan Tønnesen_ vojaĝvestita, kun ŝultro-valizo, venas singardeme
+tra la pordo dekstre.)
+
+JOHAN TØNNESEN
+Lona!
+
+FRAŬLINO HESSEL
+(turnas sin) Kio? Ĉu vi revenas?
+
+JOHAN TØNNESEN
+Restas ankoraŭ kelkaj minutoj. Mi devas vidi ŝin ankoraŭ unu
+fojon. Ni ne povas disiĝi tiel.
+
+(_Fraŭlino Bernick_ kaj _Dina_, ambaŭ kun manteloj, kaj la lasta
+kun malgranda valizo ĉemane, venas de la supera pordo maldekstre.)
+
+DINA
+Al li; al li!
+
+FRAŬLINO BERNICK
+Jes, vi venu al li, Dina!
+
+DINA
+Jen li estas!
+
+JOHAN TØNNESEN
+Dina!
+
+DINA
+Prenu min kun Vi!
+
+JOHAN TØNNESEN
+Kio —!
+
+FRAŬLINO HESSEL
+Vi volas?
+
+DINA
+Jes, prenu min kun Vi! La aliulo skribis al mi, kaj diris, ke
+ĉi-vespere publikiĝos por ĉiuj homoj —
+
+JOHAN TØNNESEN
+Dina, — Vi ne amas lin?
+
+DINA
+Mi neniam amis tiun homon. Mi ĵetos min en la fundon de la fjordo,
+se li fariĝos mia fianĉo! Ho, kiel li subpremis min genuen
+hieraŭ per siaj arogantaj vortoj! Kiel li igis min senti, ke li
+tiris malestimindan estaĵon supren al si! Mi ne volas plu esti
+malestimata. Mi volas vojaĝi. Ĉu mi povas sekvi Vin?
+
+JOHAN TØNNESEN
+Jes, jes — kaj mil fojojn jes!
+
+DINA
+Mi ne longe maloportunos Vin. Nur helpu min transen; helpu min per
+komenca aranĝo —
+
+JOHAN TØNNESEN
+Hura, tio certe aranĝiĝos, Dina!
+
+FRAŬLINO HESSEL
+(montras al la pordo de la konsulo) Tŝŝ; mallaŭte, mallaŭte!
+
+JOHAN TØNNESEN
+Dina, mi portos vin sur la manoj!
+
+DINA
+Tion mi ne permesos. Mi volas porti min mem antaŭen; kaj tie transe
+mi certe povos. Se mi nur eskapos de ĉi tie. Ho, tiuj sinjorinoj, —
+Vi tion ne scias, — ankaŭ ili skribis al mi hodiaŭ; ili admonis
+min aprezi mian feliĉon, kaj eksplikis al mi kian grandanimon li
+montris. Morgaŭ kaj ĉiujn tagojn ili volas gardi min, por vidi ĉu
+mi faras min digna al ĉio tio. Mi timas antaŭ tiu ega dececo!
+
+JOHAN TØNNESEN
+Diru al mi, Dina, ĉu estas nur pro tio ke Vi forvojaĝos? Ĉu mi
+estas nenio por Vi?
+
+DINA
+Jes, Johan, Vi estas por mi pli ol ĉiuj aliaj homoj.
+
+JOHAN TØNNESEN
+Ho Dina —!
+
+DINA
+Ĉiuj ĉi tie diras, ke mi devas malami kaj abomeni Vin; ke estas mia
+devo; sed mi ne komprenas tion pri devo; mi neniam venos al kompreno
+de tio.
+
+FRAŬLINO HESSEL
+Vi ankaŭ ne faru, infano!
+
+FRAŬLINO BERNICK
+Ne, vi ne faru; kaj tial vi akompanu lin kiel lia edzino.
+
+JOHAN TØNNESEN
+Jes, jes!
+
+FRAŬLINO HESSEL
+Kion? Nun mi devas kisi vin, Marta! _Tion_ mi ne atendis de _vi_.
+
+FRAŬLINO BERNICK
+Ne, tion mi ja kredas: mi mem tion ne atendis. Sed iam tio devis
+erupcii en mi. Ho, kiel ni ĉi tie suferas sub mistraktado pere de
+kutimoj kaj statutoj! Ribelu kontraŭ tio, Dina. Fariĝu lia edzino.
+Okazu io kio spitas ĉiun tiun kutimon kaj uzon.
+
+JOHAN TØNNESEN
+Kion Vi respondas, Dina?
+
+DINA
+Jes, mi volas esti Via edzino.
+
+JOHAN TØNNESEN
+Dina!
+
+DINA
+Sed unue mi volas labori, fariĝi io mem, kiel Vi tia estas. Mi ne
+volas esti aĵo, kiu preniĝas.
+
+FRAŬLINO HESSEL
+Jes, ĝuste; tiel estu.
+
+JOHAN TØNNESEN
+Bone; mi atendas kaj esperas —
+
+FRAŬLINO HESSEL
+— kaj gajnos, knabo! Sed nun surŝipen!
+
+JOHAN TØNNESEN
+Jes, surŝipen! Ah, Lona, vi kara fratino, unu vorto; aŭskultu —
+(Li kondukas ŝin supren al la fono kaj parolas rapide al ŝi.)
+
+FRAŬLINO BERNICK
+Dina, vi feliĉulino, — ke mi rigardu vin, — kisu vin ankoraŭ unu
+fojon, — la lastan.
+
+DINA
+Ne la lastan; ne, kara amata onklino, ni certe revidiĝos.
+
+FRAŬLINO BERNICK
+Neniam! Promesu tion al mi, Dina, neniam revenu. (kaptas ambaŭ
+ŝiajn manojn kaj rigardas ŝin) Nun vi iras al la feliĉo, vi amata
+infano; — trans la maron! Ho, kiom ofte en la lerneja ĉambro mi
+sopiris tien! Tie certe estas bele; pli granda ĉielo; la nuboj
+flugas pli alte ol ĉi tie, pli libera aero refreŝigas super la
+kapoj de la homoj —
+
+DINA
+Ho, onklino Marta, iam vi postsekvos nin.
+
+FRAŬLINO BERNICK
+Mi? Neniam; neniam. Ĉi tie mi havas mian etan vivotaskon, kaj nun mi
+kredas ke certe mi fariĝos tute plene kio mi devas esti.
+
+DINA
+Mi ne povas imagi disiĝi de vi.
+
+FRAŬLINO BERNICK
+Aĥ, homo disiĝas de multe, Dina. (kisas ŝin) Sed tion vi neniam
+spertos, dolĉa infano. Promesu al mi fari lin feliĉa.
+
+DINA
+Mi ne volas ion promesi; mi malamas promesi; ĉio devas veni, kiel
+ĝi povas.
+
+FRAŬLINO BERNICK
+Jes, jes, ĝi ja devas; vi nur restu kiel vi estas, — vera kaj
+fidela al vi mem.
+
+DINA
+Tion mi volas, onklino.
+
+FRAŬLINO HESSEL
+(kaŝas en la poŝon kelkajn paperojn, kiujn _Johan_ donis al ŝi)
+Bone, bone, mia kara knabo. Sed nun survoje.
+
+JOHAN TØNNESEN
+Jes, nun ne estas tempo por perdi. Adiaŭ, Lona; dankon pro via amo.
+Adiaŭ Marta, kaj dankon ankaŭ al vi pro via fidela amikeco.
+
+FRAŬLINO BERNICK
+Adiaŭ, Johan! Adiaŭ, Dina! Kaj feliĉon al vi ĉiujn viajn tagojn!
+
+(Ŝi kaj _fraŭlino Hessel_ puŝas ilin al la pordo en la fono.
+_Johan Tønnesen_ kaj _Dina_ iras malsupren tra la ĝardeno.
+_Fraŭlino Hessel_ fermas la pordon kaj altiras la kurtenon.)
+
+FRAŬLINO HESSEL
+Nun ni estas solaj, Marta. Vi perdis ŝin kaj mi lin.
+
+FRAŬLINO BERNICK
+Vi — lin?
+
+FRAŬLINO HESSEL
+Ho, mi jam duone perdis lin tie transe. La knabo iris sopirante stari
+sur propraj piedoj; tial mi kredigis al li, ke mi suferis pro
+hejmveo.
+
+FRAŬLINO BERNICK
+Tial? Jes, nun mi komprenas kial vi venis. Sed li volas postuli vin
+reen, Lona.
+
+FRAŬLINO HESSEL
+Maljuna duonfratino, — kio ŝi estu por li nun? — La viroj
+disŝiras multade ĉirkaŭ si por atingi al la feliĉo.
+
+FRAŬLINO BERNICK
+Foje okazas.
+
+FRAŬLINO HESSEL
+Sed ni kuntenu, Marta.
+
+FRAŬLINO BERNICK
+Ĉu mi povas io esti por vi?
+
+FRAŬLINO HESSEL
+Kiuj pli? Ni du nutropatrinoj, — ĉu ni ne ambaŭ perdis niajn
+infanojn? Nun ni estas solaj.
+
+FRAŬLINO BERNICK
+Jes, solaj. Kaj tial vi ankaŭ sciu, — mi amis lin pli alte ol kion
+ajn en la mondo.
+
+FRAŬLINO HESSEL
+Marta! (kaptas ŝian brakon) Ĉu tio estas vero?
+
+FRAŬLINO BERNICK
+La enhavo de mia tuta vivo kuŝas en tiuj vortoj. Mi amis lin kaj
+atendis lin. Ĉiun someron mi atendis, ke li venus. Kaj jen li venis;
+— sed li ne vidis min.
+
+FRAŬLINO HESSEL
+Amis lin! Kaj vi mem estis tiu, kiu donis la feliĉon al li en la
+manon.
+
+FRAŬLINO BERNICK
+Ĉu mi ne donus al li la feliĉon? mi ja amis lin? Jes, mi amis lin.
+Mia tuta vivo estis vivo por li, ekde kiam li forvojaĝis. Kiun
+kaŭzon mi havis por la espero, vi pensas? Ho, mi kredas, ke mi tamen
+havis iun kialon. Sed kiam li revenis, — estis kvazaŭ ĉio estas
+forviŝita el lia memoro. Li ne vidis min.
+
+FRAŬLINO HESSEL
+Estis Dina, kiu ombris por vi, Marta.
+
+FRAŬLINO BERNICK
+Ja, ke ŝi tion faris. Je lia forvojaĝo ni estis samaĝuloj; kiam mi
+revidis lin, — aĥ, tiu terura momento, — jen mi komprenis, ke mi
+estas dek jarojn pli aĝa ol li. Li estis vivinta ekstere en la
+vibranta sunlumo kaj suĉanta junecon kaj sanon el ĉiu spiro; kaj
+ĉi ene mi sidis dume ŝpinante kaj ŝpinante —
+
+FRAŬLINO HESSEL
+— la fadenon de lia feliĉo, Marta.
+
+FRAŬLINO BERNICK
+Jes, estis oro, kion mi ŝpinis. Neniun amarecon! Ĉu ne, Lona, ni
+estis por li du bonaj fratinoj?
+
+FRAŬLINO HESSEL
+(ĉirkaŭbrakas ŝin) Marta!
+
+(_Konsulo Bernick_ elvenas de sia ĉambro.)
+
+KONSULO BERNICK
+(al la sinjoroj tie ene) Jes, jes, estru pri la tuto, kiel vi volas.
+Kiam la tempo venos, mi certe — (fermas la pordon) Aĥ, ĉu vi jen?
+Aŭskultu, Marta, vi devas iomete ŝanĝi vestaĵojn. Kaj diru al
+Betty, ke ŝi faru la samon. Mi ne deziras ian pompon, kompreneble;
+nur beletan kun hejmeca fasono. Sed vi devas rapidiĝi.
+
+FRAŬLINO HESSEL
+Kaj feliĉa, gaja mieno, Marta; ĝojajn okulojn vi devas briligi.
+
+KONSULO BERNICK
+Ankaŭ Olaf malsupren venu; mi volas havi lin flanke de mi.
+
+FRAŬLINO HESSEL
+Hm; Olaf —
+
+FRAŬLINO BERNICK
+Mi diros al Betty. (Ŝi eliras tra la plej supra pordo maldekstre.)
+
+FRAŬLINO HESSEL
+Ja, nun estas do la granda solena momento veninta.
+
+KONSULO BERNICK
+(kiu maltrankvila iras tien kaj reen) Jes, ĝi tiel estas.
+
+FRAŬLINO HESSEL
+En tia momento viro devas senti sin fiera kaj feliĉa, mi opinias.
+
+KONSULO BERNICK
+(rigardas ŝin) Hm!
+
+FRAŬLINO HESSEL
+La tuta urbo ja iluminiĝos, mi aŭdas.
+
+KONSULO BERNICK
+Jes, ili ekpensis tiaĵon.
+
+FRAŬLINO HESSEL
+Ĉiuj asocioj sin prezenos kun siaj standardoj. Via nomo lumos en
+fajro-literoj. Ĉi-nokte oni telegrafos al ĉiuj partoj de la lando:
+“Ĉirkaŭata de sia feliĉa familio konsulo Bernick hodiaŭ ricevis
+la omaĝon de siaj kuncivitanoj, kiel unu el la kolonoj de la socio”.
+
+KONSULO BERNICK
+Tio okazos; kaj oni krios hura ekstere, kaj la amaso salute vokos min
+al la pordo tie, kaj mi fariĝos devigata klini min kaj danki.
+
+FRAŬLINO HESSEL
+Nu, _devigata_ al tio —
+
+KONSULO BERNICK
+Ĉu vi opinias, ke mi sentas min feliĉa en ĉi tiu momento?
+
+FRAŬLINO HESSEL
+Ne, _mi_ ne kredas, ke vi povas senti vin tiel tute feliĉa.
+
+KONSULO BERNICK
+Lona, vi malestimas min.
+
+FRAŬLINO HESSEL
+Ankoraŭ ne.
+
+KONSULO BERNICK
+Vi eĉ ne rajtas tion. Ne rajtas _malestimi_ min! — Lona, vi ne
+povas imagi, kiel nedireble soleca mi staras ĉi tie en jena
+kuntirita, kripligita socio, — kiel mi jaron post jaro devis redukti
+mian postulon pri tute plenumiĝa vivotasko. Tio kion mi plenumis,
+kvankam multspeca ĝi tamen aspektas! Pecaĵoj, — okupetaĵoj. Sed
+aliaĵon aŭ ion pli oni ne toleras ĉi tie. Se mi volus iri paŝon
+antaŭ la sentoj kaj la opinio, kiuj je tiu tempo estis reganta,
+estus finite pri mia potenco. Ĉu vi scias, kio ni estas, ni, kiuj
+estas konsiderataj la kolonoj de la socio? Ni estas la laboriloj de
+la socio, ne pli, ne malpli.
+
+FRAŬLINO HESSEL
+Kial vi tion vidas nur nun?
+
+KONSULO BERNICK
+Ĉar mi lastatempe multe pripensis, — post kiam vi revenis, — kaj
+pleje ĉi tiun vesperon. — Ho Lona, kial mi ne konis vin profunde
+tiam — en la pasintaj tagoj.
+
+FRAŬLINO HESSEL
+Kio sekve?
+
+KONSULO BERNICK
+Neniam mi tiam rezignus pri vi; kaj se mi estus vin havinta, mi ne
+starus, kie mi nun staras.
+
+FRAŬLINO HESSEL
+Kaj ĉu vi ne pensas pri tio, kio _ŝi_ estus povinta fariĝi por vi,
+ŝi, kiun vi elektis en mia loko?
+
+KONSULO BERNICK
+Mi almenaŭ scias, ke ŝi nenio fariĝis por mi el tio, kion mi
+bezonis.
+
+FRAŬLINO HESSEL
+Ĉar vi neniam dividis vian vivotaskon kun ŝi; ĉar vi neniam
+starigis ŝin libera kaj vera en sia rilato al vi; ĉar vi igas ŝin
+iri ĉi tie faladante sub la riproĉo pro la honto, kiun vi amasigis
+sur ŝiajn proksimulojn.
+
+KONSULO BERNICK
+Ja, ja, ja; ĉio devenas de la mensogo kaj malhonesteco.
+
+FRAŬLINO HESSEL
+Kaj kial vi ne rompas kun tiu mensogo kaj malhonesteco?
+
+KONSULO BERNICK
+Nun? Nun tio estas tro malfrue, Lona.
+
+FRAŬLINO HESSEL
+Karsten, diru al mi, kian kontenton tiu ĉi ŝajno kaj trompo donas
+al vi.
+
+KONSULO BERNICK
+Al mi donas ĝi nenion. Mi pereos kiel tuta ĉi tiu mizerigita socio.
+Sed elkreskos parencaro post ni; estas por mia filo, ke mi laboras;
+estas por _li_, ke mi adaptigas vivotaskon. Venos tempo, kiam
+enspiriĝos vero en la socian vivon, kaj sur ĝi li fondos pli
+feliĉan estadon ol tiun de sia patro.
+
+FRAŬLINO HESSEL
+Kun mensogo por fundamento? Pripensu kion vi donos al via filo
+herede.
+
+KONSULO BERNICK
+(en subpremita malespero) Mi donas al li mil fojojn da pli malbona
+heredo ol vi scias. Sed iam tamen la kondamno devas cedi. Kaj tamen,
+tamen — (ekkriante) Kiel vi povis akumuli ĉion tion sur mian kapon!
+Sed nun tio jam okazis. Nun mi devas antaŭen. Vi _ne sukcesu_
+frakasi min!
+
+(_Hilmar Tønnesen_, kun malferma bileto en la mano, envenas rapide
+kaj eturdite de dekstre.)
+
+HILMAR TØNNESEN
+Sed tio ĉi ja estas —. Betty, Betty!
+
+KONSULO BERNICK
+Kio nun? Ĉu ili jam venas?
+
+HILMAR TØNNESEN
+Ne, ne; sed mi nepre devas paroli kun iu — (Li eliras tra la supera
+pordo maldekstre.)
+
+FRAŬLINO HESSEL
+Karsten; vi parolas kvazaŭ ni venis por frakasi vin. Permesu do al
+mi diri, el kia erco li estas, ĉi tiu perdita filo, kiun via morala
+socio evitas kvazaŭ iun pestinfektitan. Li povas senesti de vi, ĉar
+nun li estas forvojaĝinta.
+
+KONSULO BERNICK
+Sed li revenos —
+
+FRAŬLINO HESSEL
+Johan neniam revenos. Li forvojaĝis por ĉiam, kaj Dina kunvojaĝis.
+
+KONSULO BERNICK
+Ne revenos? Kaj Dina kunvojaĝis kun li?
+
+FRAŬLINO HESSEL
+Jes, por fariĝi lia edzino. Tiel tiuj du frapas la vizaĝon de via
+deca socio, kiel mi iam — nu!
+
+KONSULO BERNICK
+Forvojaĝis; — ankaŭ ŝi — kun “Indian Girl” —!
+
+FRAŬLINO HESSEL
+Ne; tian karan kargon li ne kuraĝis konfidi al tiu malmorala bando.
+Johan kaj Dina forvojaĝas per “La Palmo”.
+
+KONSULO BERNICK
+Aĥ! Kaj do — senutile — (iras rapide kaj malferme tiras la pordon
+al sia ĉambro kaj krias enen) Krap, haltigu “Indian Girl”; ĝi ne
+devas forveli ĉi-vespere!
+
+PLENRAJTIGITO KRAP
+(interne) “Indian Girl” jam velas surmare, sinjoro konsulo.
+
+KONSULO BERNICK
+(fermas la pordon kaj diras senforte) Tro malfrue, — kaj senutile —
+
+FRAŬLINO HESSEL
+Kion vi aludas?
+
+KONSULO BERNICK
+Nenion, nenion. Foriru de mi —!
+
+FRAŬLINO HESSEL
+Hm; vidu jen, Karsten. Johan dirigas al vi, ke li konfidas al mi la
+nomon kaj famon, kiun li iam pruntedonis al vi, kaj ankaŭ _tiun_,
+kiun vi rabis de li, dum li estis for. Johan silentas; kaj mi povas
+agi kaj pretendi en tiu afero, kiel plaĉas al mi. Vidu, jen mi tenas
+viajn du leterojn en mia mano.
+
+KONSULO BERNICK
+Vi havas ilin! Kaj nun — nun vi volas — jam ĉi-vespere, — eble
+kiam la standarda procesio —
+
+FRAŬLINO HESSEL
+Mi ne revenis hejmen por riveli vin, sed por tremigi vin tiel, ke vi
+libervole parolu. Mi ne sukcesis. Do restu staranta en la mensogo.
+Jen vidu; mi ŝiras viajn leterojn en pecojn. Prenu la pecojn; jen vi
+havas ilin. Nun estas nenio, kio atestas kontraŭ vi, Karsten. Nun vi
+estas sekura; estu nun ankaŭ feliĉa, — se vi povos.
+
+KONSULO BERNICK
+(traskuita) Lona, — kial vi tion ĉi ne pli frue faris! Nun estas
+tro malfrue; nun la tuta vivo estas perdita por mi; mi ne povas
+daŭrigi mian vivon post tiu ĉi tago.
+
+FRAŬLINO HESSEL
+Kio estas okazinta?
+
+KONSULO BERNICK
+Ne demandu. — Sed tamen mi _devas_ vivi! Mi _volas_ vivi — por
+Olaf. Li restarigos ĉion kaj ĉion rebonigos —
+
+FRAŬLINO HESSEL
+Karsten —! (_Hilmar Tønnesen_ rapide revenas)
+
+HILMAR TØNNESEN
+Neniu trovebla; for; eĉ ne Betty!
+
+KONSULO BERNICK
+Kio estas al vi?
+
+HILMAR TØNNESEN
+Mi ne kuraĝas diri.
+
+KONSULO BERNICK
+Kio estas? Vi nepre diru al mi!
+
+HILMAR TØNNESEN
+Nu do; Olaf forkuris kun “Indian Girl”.
+
+KONSULO BERNICK
+(ŝanceliĝas malantaŭen) Olaf — kun “Indian Girl”! Ne, ne!
+
+FRAŬLINO HESSEL
+Jes, li estas! Nun mi komprenas —; mi vidis lin saltanta tra la
+fenestro.
+
+KONSULO BERNICK
+(ĉe la pordo de sia ĉambro krianta senespere) Krap, haltigu “Indian
+Girl” por kiu ajn prezo!
+
+PLENRAJTIGITO KRAP
+(elvenas) Neeblas, sinjoro konsulo. Kiel Vi povas imagi al Vi —?
+
+KONSULO BERNICK
+Ni devas haltigi ĝin; Olaf estas surŝipe!
+
+PLENRAJTIGITO KRAP
+Kion vi diras!
+
+GRANDKOMERCISTO RUMMEL
+(elvenas) Olaf forkurinta? Neeblas!
+
+KOMERCISTO SANDSTAD
+(venas) Li resendiĝos per la piloto, sinjoro konsulo.
+
+HILMAR TØNNESEN
+Ne, ne; li skribis al mi; (montras la bileton) Li skribas, ke li
+kaŝos sin en la kargo, ĝis ili estos sur libera maro.
+
+KONSULO BERNICK
+Mi neniam plu vidos lin!
+
+GRANDKOMERCISTO RUMMEL
+Ho, kia babilaĵo; forta kaj bona ŝipo, nove riparita —
+
+KOMERCISTO VIGELAND
+(kiu ankaŭ elvenis) — de Via propra ŝipfarejo, sinjoro konsulo!
+
+KONSULO BERNICK
+Mi neniam plu revidos lin, mi diras. Mi perdis lin, Lona, kaj — nun
+mi vidas — ke mi neniam posedis lin. (aŭskultas) Kio estas tio?
+
+GRANDKOMERCISTO RUMMEL
+Muziko. Nun venas la standardprocesio.
+
+KONSULO BERNICK
+Mi ne povas, mi ne volas akcepti iun!
+
+GRANDKOMERCISTO RUMMEL
+Pri kio vi pensas? Tute ne eblas.
+
+KOMERCISTO SANDSTAD
+Neeblas, sinjoro konsulo; pripensu tion, kio estas por vi
+endanĝerigita.
+
+KONSULO BERNICK
+Kiom tio nun valoras por mi? Por kiu mi nun laboru?
+
+GRANDKOMERCISTO RUMMEL
+Ĉu tiel vi povu demandi? Vi ja havas nin kaj la socio.
+
+KOMERCISTO VIGELAND
+Jes, vera vorto.
+
+KOMERCISTO SANDSTAD
+Kaj la konsulo do ne forgesas, ke ni —
+
+(_Fraŭlino Bernick_ venas tra la pordo maldekstra supre. La muziko
+aŭdiĝas mallaŭte, fore malsupre en la strato.)
+
+FRAŬLINO BERNICK
+Nun venas la procesio; sed Betty ne estas hejme; mi ne komprenas kie
+ŝi —
+
+KONSULO BERNICK
+Ne hejme! Jen vi vidas, Lona; neniun subtenon, nek en ĝojo, nek en
+aflikto.
+
+GRANDKOMERCISTO RUMMEL
+Fortiru la kurtenojn! Venu min helpi, sinjoro Krap. Venu ankaŭ vi,
+sinjoro Sandstad. Bedaŭrinda afero, ke la familio ĝuste nun estas
+disigita; tute kontraŭ la programo.
+
+(La kurtenoj fortiriĝas de la fenestroj kaj la pordo. Oni vidas la
+tutan straton iluminata. Sur la domo transstrata estas granda
+tralumaĵo kun la enskribo: “Vivu Karsten Bernick, la kolono de nia
+socio!”.)
+
+KONSULO BERNICK
+(paŝas malantaŭen eviteme) For tio ĉi! Mi ne volas vidi tion!
+Estingu, estingu!
+
+GRANDKOMERCISTO RUMMEL
+Respekte demandite, ĉu vi ne estas tute prudenta?
+
+FRAŬLINO BERNICK
+Kio estas al li, Lona?
+
+FRAŬLINO HESSEL
+Tŝŝ! (parolas mallaŭte kun ŝi)
+
+KONSULO BERNICK
+For tiu mokanta enskribo, mi diras! Ĉu vi ne vidas, ke ĉiuj tiuj
+lumoj elŝovas la langon al ni?
+
+GRANDKOMERCISTO RUMMEL
+Ne, nun mi devas konfesi —
+
+KONSULO BERNICK
+Ho, kion vi komprenas —! Sed mi, mi —! Ĉio tio estas lumo en
+kadavrejo!
+
+PLENRAJTIGITO KRAP
+Hm!
+
+GRANDKOMERCISTO RUMMEL
+Ne, sed haltu nun, — vi tro afliktiĝas.
+
+KOMERCISTO SANDSTAD
+La knabo faros vojaĝon trans la Atlantiko, kaj jen vi havos lin
+reen.
+
+KOMERCISTO VIGELAND
+Fidu al la mano de la ĉiopotenculo, sinjoro konsulo.
+
+GRANDKOMERCISTO RUMMEL
+Kaj al la ŝipo, Bernick; ĝi ja ne estas subakviĝinda, mi scias.
+
+PLENRAJTIGITO KRAP
+Hm —
+
+GRANDKOMERCISTO RUMMEL
+Jes, se estus unu el tiuj naĝantaj kadavrokestoj, pri kiuj oni
+aŭdas en la grandaj socioj —
+
+KONSULO BERNICK
+Mi sentas miajn harojn griziĝi en ĉi tiu momento.
+
+(_Sinjorino Bernick_, kun granda ŝalo super la kapo, envenas tra la
+ĝardena pordo.)
+
+SINJORINO BERNICK
+Karsten, Karsten, ĉu vi scias —?
+
+KONSULO BERNICK
+Jes, mi scias —; sed vi, — vi, kiu nenion vidas, — vi, kiu ne
+havas patrinan okulon por li —!
+
+SINJORINO BERNICK
+Ho, aŭskultu do —!
+
+KONSULO BERNICK
+Kial vi ne atentis pri li? Nun mi perdis lin. Redonu lin al mi, se vi
+povas.
+
+SINJORINO BERNICK
+Jes, mi povas; mi havas lin!
+
+KONSULO BERNICK
+Vi havas lin!
+
+LA SINJOROJ
+Ah!
+
+HILMAR TØNNESEN
+Nu, tion mi ja pensis.
+
+FRAŬLINO BERNICK
+Vi ricevis lin reen, Karsten!
+
+FRAŬLINO HESSEL
+Jes, nun ankaŭ gajnu lin.
+
+KONSULO BERNICK
+Vi havas lin! Ĉu estas vero, kion vi diras? Kie li estas?
+
+SINJORINO BERNICK
+Tion vi ne scios, antaŭ ol vi estos lin pardoninta.
+
+KONSULO BERNICK
+Ho ĉu, pardonis —! Sed kiel vi sciiĝis —?
+
+SINJORINO BERNICK
+Ĉu vi ne kredas, ke patrino vidas? Mi estis en morta timo por ke vi
+ion scius. Kelkaj vortoj kiujn li hazarde ekdiris hieraŭ —; kaj
+ĉar lia ĉambro estis malplena, kaj dorsosako kaj vestaĵoj estis
+for —
+
+KONSULO BERNICK
+Jes, jes —?
+
+SINJORINO BERNICK
+Mi kuris; trovis Aŭne; ni elvelis en lia velboato; la usona ŝipo
+estis ekvelonta. Dank' al Dio ke ni venis en ĝusta tempo, — grimpis
+surŝipen, — serĉis en la holdo, — trovis lin. Ho, Karsten, vi ne
+devas puni lin!
+
+KONSULO BERNICK
+Betty!
+
+SINJORINO BERNICK
+Kaj ankaŭ ne Aŭne!
+
+KONSULO BERNICK
+Aŭne? Kion vi scias pri li? Ĉu “Indian Girl” denove estas velanta?
+
+SINJORINO BERNICK
+Ne, tio ja estas la afero —
+
+KONSULO BERNICK
+Diru, diru!
+
+SINJORINO BERNICK
+Aŭne estis same skuata kiel mi; la serĉo daŭris; mallumiĝis,
+kaj la piloto protestis; kaj jen Aŭne kuraĝis — en via nomo —
+
+KONSULO BERNICK
+Nu?
+
+SINJORINO BERNICK
+Haltigi la ŝipon ĝis morgaŭ.
+
+PLENRAJTIGITO KRAP
+Hm —
+
+KONSULO BERNICK
+Ho, kia nedirebla feliĉo!
+
+SINJORINO BERNICK
+Vi ne estas kolera?
+
+KONSULO BERNICK
+Ho, kia supermezuro de feliĉo, Betty!
+
+GRANDKOMERCISTO RUMMEL
+Vi do estas tro konscienca.
+
+HILMAR TØNNESEN
+Jes, tuj kiam estas pri eta batalo kun la elementoj, ja — uf!
+
+PLENRAJTIGITO KRAP
+(supre ĉe la fenestroj) Nun la procesio venas tra la ĝardena pordo,
+sinjoro konsulo.
+
+KONSULO BERNICK
+Jes, nun ili povas veni.
+
+GRANDKOMERCISTO RUMMEL
+La tuta ĝardeno pleniĝas de homoj.
+
+KOMERCISTO SANDSTAD
+La tuta strato estas plenŝtopita.
+
+GRANDKOMERCISTO RUMMEL
+La tuta urbo estas surpiede, Bernick. Tio ĉi vere estas ardiga
+momento.
+
+KOMERCISTO VIGELAND
+Ni prenu tion per humila animo, sinjoro Rummel.
+
+GRANDKOMERCISTO RUMMEL
+Ĉiuj standardoj estas kunportataj. Kia procesio! Jen la festkomitato
+kun adjunkto Rørlund antaŭe.
+
+KONSULO BERNICK
+Ke ili venu, mi diras!
+
+GRANDKOMERCISTO RUMMEL
+Sed aŭskultu; la skuita animstato, en kiu vi estas —
+
+KONSULO BERNICK
+Kiel?
+
+GRANDKOMERCISTO RUMMEL
+Mi ne estos neinklina preni la vorton en via nomo.
+
+KONSULO BERNICK
+Ne dankon; ĉi-vespere mi mem parolos.
+
+GRANDKOMERCISTO RUMMEL
+Sed ĉu vi ankaŭ scias, kion vi devas diri?
+
+KONSULO BERNICK
+Jes, fidu min, Rummel, — nun mi scias, kion mi devas diri.
+
+(La muziko dumtempe ĉesis. La ĝardena pordo malfermiĝas. _Adjunkto
+Rørlund_ antaŭanta la festkomitaton entretas, akompanata de _kelkaj
+dungitaj servistoj_, kiuj portas kovritan korbon. Post ili venas _la
+burĝoj de la urbo_ el ĉiuj tavoloj, tiom kiom trovas lokon en la
+salono. Senfina nombro da standardoj kaj flagoj vidiĝas ekstere en
+la ĝardeno kaj sur la strato.)
+
+ADJUNKTO RØRLUND
+Alte estimata sinjoro konsulo! Mi vidas el la surprizo, kiu
+pentriĝas en via vizaĝo, ke ni ĉi tie kiel neatenditaj gastoj
+ŝovas nin enen al vi en vian feliĉan familian rondon, en vian pacan
+hejmon, ĉirkaŭita de honestaj kaj agemaj amikoj kaj kuncivitanoj.
+Sed estis por ni kora bezono porti al vi nian saluton. Ne estas
+la unua fojo, ke tiaĵo okazas, tamen la unua fojo en tia vasta
+mezuro. Ni multfoje portis al Vi nian dankon pro la ampleksa morala
+fundamento, sur kiu Vi, tiel dirite, konstruis nian socion. Ĉi tiun
+fojon ni salutas Vin ĉefe kiel la klarvidan, senlacan, neegoisman,
+eĉ memoferan kuncivitanon, kiu kaptis la iniciativon por entrepreno,
+kiu laŭ la opinio de ĉiuj spertuloj donos potencan antaŭenpuŝon
+al la prospero kaj bonstato de tiu ĉi socio.
+
+VOĈOJ INTER LA AMASO
+Bravo, bravo!
+
+ADJUNKTO RØRLUND
+Sinjoro konsulo, dum vico da jaroj vi donis brilan ekzemplon al nia
+urbo. Ĉi tie mi ne parolas pri via modela familia vivo, ankaŭ ne
+pri Via senmakula morala konduto entute. Tiaĵoj estu referencitaj
+al la sekreta ĉambreto kaj ne al la festsalono! Sed mi parolas pri
+via burĝa aktiveco, tia, kia ĝi kuŝas malferma al ĉiuj okuloj.
+Bone ekipitaj ŝipoj velas el viaj ŝipfarejoj, kaj montras la flagon
+sur la plej foraj maroj. Multnombra kaj feliĉa laboristaro estimas
+vin kiel patron. Vokante al vivo novajn profesiajn branĉojn vi
+fondis la bonfarton de centoj da familioj. Per aliaj vortoj — Vi
+estas la fundamenta kolono de tiu ĉi socio en eminenta signifo.
+
+VOĈOJ
+Aŭskultu, aŭskultu, bravo!
+
+ADJUNKTO RØRLUND
+Kaj ĝuste ĉi tiu malegoisma aspekto, kiu karakterizas ĉiun vian
+konduton, estas tio, kio impresas tiel nedireble bonfare, precipe en
+ĉi tiuj tempoj. Vi nun estas havigonta al ni — jes, mi ne hezitas
+mencii la vorton prozaĵe kaj rekte — fervojon.
+
+MULTAJ VOĈOJ
+Bravo! Bravo!
+
+ADJUNKTO RØRLUND
+Sed tiu entrepreno aspekte renkontas malfacilaĵojn, precipe
+diktitajn de malvastaj egoismaj celoj.
+
+VOĈOJ
+Aŭskultu; aŭskultu!
+
+ADJUNKTO RØRLUND
+Ne restis ja nesciate, ke certaj individoj, kiuj ne apartenas al nia
+socio, estas antaŭvenintaj al la laboremaj burĝoj de nia loko, kaj
+ekposediĝis de certaj avantaĝoj, kiuj rajte venus profite al nia
+propra urbo.
+
+VOĈOJ
+Jes, jes! Aŭskultu!
+
+ADJUNKTO RØRLUND
+Tiu bedaŭrinda fakto estas kompreneble veninta al Via scio, sinjoro
+konsulo. Sed tamen ne malpli vi persiste daŭrigas vian entreprenon,
+bone sciante, ke ŝtatano ne nur atentu pri sia propra komunumo.
+
+DIVERSAJ VOĈOJ
+Hm! Ne; ne! Jes; jes!
+
+ADJUNKTO RØRLUND
+Do estas la homo kiel burĝo en la ŝtato, — la viro kiel li estu
+kaj devas esti, — al kiu ni ĉi-vespere en vi salutu. Ke via
+entrepreno fariĝu al vera kaj daŭra prospero por tiu ĉi socio!
+La fervojo certe povos fariĝi vojo per kiu ni riskos alkonduki
+ruinigajn elementojn de ekstere, sed ankaŭ fariĝi vojo, kiu rapide
+kvitigas nin pri ili. Kaj de fiaj elementoj de ekstere ni ja ne
+povas, eĉ nun, teni nin liberaj. Sed ke ni ĝuste nun ĉi tiun
+festenan vesperon, post kio la onidiro sciigas, sukcese kaj pli
+rapide ol atendite, kvitiĝis de tiaj elementoj —
+
+VOĈOJ
+Tŝŝ! Tŝŝ!
+
+ADJUNKTO RØRLUND
+— tion mi prenas kiel feliĉa antaŭdiro por la entrepreno. Ke mi
+tuŝas tiun punkton ĉi _tie_, montras ke ni troviĝas en domo, kie
+la etika postulo metiĝas pli alten ol la familia ligo.
+
+VOĈOJ
+Aŭskultu! Bravo!
+
+KONSULO BERNICK
+(samtempe) Permesu al mi —
+
+ADJUNKTO RØRLUND
+Nur malmultaj vortoj ankoraŭ, sinjoro konsulo. Kion vi plenumis en
+ĉi tiu komunumo, vi certe ne plenumis kun la subintenco, ke vi mem
+el ĝi tirus realan avantaĝon. Sed etan signon de la rekonado de
+viaj kuncivitanoj vi do ne rifuzos, kaj tion ja absolute ne en tiu
+ĉi grava momento, kiam ni, laŭ la certigo de spertaj homoj, staras
+ĉe la komenco de nova tempo.
+
+MULTAJ VOĈOJ
+Bravo! Aŭskultu! Aŭskultu!
+
+(Li donas al la dungitaj servistoj signon; ili alportas la korbon pli
+proksimen; la membroj de la festkomitato dum tio, kio sekvas,
+elprenas kaj prezentas la aĵojn pri kiuj paroliĝos.)
+
+ADJUNKTO RØRLUND
+Nun estas do por ni la tasko prezenti al Vi arĝentan kafoservicon.
+Ke ĝi beligu Vian tablon, kiam ni estontece kiel tiom ofte antaŭe,
+kolektiĝos en tiu ĉi gastama domo. Kaj ankaŭ Vin, miaj sinjoroj,
+kiuj tiel prete asistis al nia plej elstara civitano, ni petas
+akcepti etan memoraĵon. Tiu ĉi arĝenta pokalo estas por Vi,
+grandkomercisto Rummel. Vi ofte, en elokventaj vortoj, sub la tintado
+de pokaloj defendis la burĝajn interesojn de tiu ĉi socio; ke vi
+ofte trovu indajn okazaĵojn por levi kaj malplenigi ĉi tiun
+pokalon. — Al Vi, sinjoro komercisto Sandstad, mi transdonas tiun
+ĉi albumon kun fotografaĵoj de kuncivitanoj. Via konata kaj
+rekonata humaneco metis vin en tiun agrablan staton nombri amikojn
+ene en ĉiuj partioj en la socio. — Kaj al Vi, sinjoro komercisto
+Vigeland, por ornamaĵo en via sekreta ĉambreto, mi povas prezenti
+tiun ĉi doman predikaron sur veleno kaj en luksa bindo. Dum la
+maturiganta influo de la jaroj vi atingis al serioza vivkoncepto;
+Via agado en la ĉiutagaĵoj dum vico da jaroj estis purigita kaj
+nobeligita de la penso pri tio pli alta kaj pri tio transa. (turnas
+sin al la amaso) Kaj per tio ĉi, miaj amikoj, vivuon por konsulo
+Bernick kaj liaj kunbatalantoj! Vivuon por la kolonoj de nia socio!
+
+LA TUTA KUNVENARO
+Vivu konsulo Bernick! Vivu la kolonoj de la socio! Hura, hura, hura!
+
+FRAŬLINO HESSEL
+Bonfeliĉon, bofrato!
+
+(Atendoplena silento.)
+
+KONSULO BERNICK
+(komencas serioze kaj malrapide) Miaj kuncivitanoj, — per via
+prezidanto diriĝis, ke ni staras antaŭ la komenco de nova tempo, —
+kaj mi esperas ke fariĝos tiel. Sed se tio okazu, ni devas proprigi
+al ni la veron, — la veron, kiu ĝis ĉi-vespere, ĝenerale kaj en
+ĉiuj rilatoj, estis sendoma en tiu ĉi socio.
+
+(Surprizo inter la ĉirkaŭstarantoj.)
+
+KONSULO BERNICK
+Mi devas nun komenci refutante la laŭdvortojn, per kiuj Vi,
+adjunkto, laŭ kutimo kaj uzo ĉe tiaj okazaĵoj, superŝutis min. Mi
+ne meritas ilin; ĉar ĝis hodiaŭ mi ne estis iu malegoisma viro.
+Eĉ se mi ne ĉiam aspiris monan avantaĝon, mi tamen estas konscia,
+ke avido kaj deziro al potenco, influo, prestiĝo estis la motiva
+potenco en la plimulto de miaj agoj.
+
+GRANDKOMERCISTO RUMMEL
+(duonlaŭte) Kio nun?
+
+KONSULO BERNICK
+Vidalvide al miaj samburĝanoj mi ne riproĉas min; ĉar mi kuraĝas
+ekstari en la antaŭa linio inter la plej lertaj ĉi tie ĉe ni.
+
+MULTAJ VOĈOJ
+Jes, jes, jes!
+
+KONSULO BERNICK
+Sed tio, pro kio mi riproĉas min mem estas, ke mi ofte pro
+malforteco agis inside, ĉar mi konis kaj timis la emon de nia socio
+videti malpurajn motivojn malantaŭ ĉio, kion homo ĉi tie
+entreprenas. Kaj nun mi venas al la punkto, kiu koncernas tion ĉi.
+
+GRANDKOMERCISTO RUMMEL
+(maltrankvila) Hm — hm!
+
+KONSULO BERNICK
+Disvastiĝas onidiroj pri grandaj aĉetoj de bienoj supre en la
+lando. Tiujn bienojn mi aĉetis, ĉiujn, mi sola.
+
+DUONLAŬTAJ VOĈOJ
+Kion li diras? La konsulo? Konsulo Bernick?
+
+KONSULO BERNICK
+Ĝis nun ili estas en mia mano. Kompreneble mi konfidis min al miaj
+kunlaborantoj, la sinjoroj Rummel, Vigeland kaj Sandstad, kaj ni
+samopiniis pri —
+
+GRANDKOMERCISTO RUMMEL
+Ne estas vero! Pruvo — pruvo —!
+
+KOMERCISTO VIGELAND
+Ni ne samopiniis pri io ajn!
+
+KOMERCISTO SANDSTAD
+Ne, nun mi do devas diri —
+
+KONSULO BERNICK
+Estas tute ĝuste; ni ankoraŭ ne samopiniis pri tio, kion mi volis
+mencii. Sed mi certe esperas, ke la tri sinjoroj akordiĝos kun mi,
+kiam mi rakontos, ke mi ĉi-vespere samopiniis kun mi mem, ke ĉi
+tiuj bienoj ofertiĝos al ĝenerala mendo de akcioj; kiu ajn kiu
+volas, povas preni parton en ili.
+
+MULTAJ VOĈOJ
+Hura! Vivu konsulo Bernick!
+
+GRANDKOMERCISTO RUMMEL
+(mallaŭte al _konsulo Bernick_) Kia fia perfido —!
+
+KOMERCISTO SANDSTAD
+(same) Do trompis nin —!
+
+KOMERCISTO VIGELAND
+Nu, do la diablo ŝiru —! Ho kruco, kion mi estas diranta?
+
+LA AMASO
+(ekstere) Hura, hura, hura!
+
+KONSULO BERNICK
+Silenton, miaj sinjoroj. Mi ne meritas ĉi tiun saluton; ĉar tio,
+kion mi nun decidis, ne estis de komence mia intenco. Mia intenco
+estis rezervi ĉion por mi mem, kaj mi daŭre havas la opinion, ke
+ĉi tiuj bienoj plej bone estos utiligataj, se ili restos kune en unu
+mano. Sed oni povas elekti. Se oni tion deziras, mi estas preta
+administri ilin laŭ plej bona juĝo.
+
+VOĈOJ
+Jes! Jes! Jes!
+
+KONSULO BERNICK
+Sed unue miaj kuncivitanoj devas koni min ĝisfunde. Ke ĉiu opulo
+esploru sin mem, kaj ke tio estu decidita, ke ekde ĉi-vespere
+komenciĝas nova tempo. La malnova, kun sia ŝminkaĵo, kun sia
+hipokriteco kaj sia falso, kun sia mensoga dececo kaj siaj mizeraj
+konsideroj, staru por ni kiel muzeo, malferma por instruo; kaj al ĉi
+tiu muzeo ni donacas, — ĉu ne, miaj sinjoroj? — la kafoservicon,
+la pokalon kaj la albumon kaj la dompredikaron sur veleno kaj en
+luksa bindaĵo.
+
+GRANDKOMERCISTO RUMMEL
+Jes, kompreneble.
+
+KOMERCISTO VIGELAND
+(murmuras) Ĉar Vi prenis la aliaĵojn, do —
+
+KOMERCISTO SANDSTAD
+Bonvolu.
+
+KONSULO BERNICK
+Kaj nun la ĉefa reguligo kun mia socio. Diriĝis ke fiaj elementoj
+forlasis nin ĉi-vespere. Mi povas aldoni, kion oni ne scias: La viro
+al kiu celiĝas, ne forvojaĝis sola; lin akompanis por fariĝi lia
+edzino —
+
+FRAŬLINO HESSEL
+(laŭte) Dina Dorf!
+
+ADJUNKTO RØRLUND
+Ĉu!
+
+SINJORINO BERNICK
+Kion vi diras! (granda moviĝo)
+
+ADJUNKTO RØRLUND
+Fuĝis? Forkurinta — kun _li!_ Neeblas!
+
+KONSULO BERNICK
+Por fariĝi lia edzino, sinjoro adjunkto. Kaj mi aldonas pli.
+(mallaŭte) Betty, regu vin, kaj portu tion, kio nun venas. (laŭte)
+Mi diras: Levu la ĉapelon por tiu viro; ĉar li grandanime prenis la
+pekon de aliulo sur sin. Miaj samcivitanoj, mi volas penetri el la
+malvero; ĝi estis preta venenigi ĉiun opan fibron en mi. Vi sciu
+ĉion. _Mi_ estis antaŭ dek kvin jaroj la kulpulo.
+
+SINJORINO BERNICK
+(malrapide kaj treme) Karsten!
+
+FRAŬLINO BERNICK
+(same) Aĥ, Johan —!
+
+FRAŬLINO HESSEL
+Jen vi fine revenkis vin mem!
+
+(Konsternita surprizo inter la ĉeestantaro.)
+
+KONSULO BERNICK
+Jes, miaj samcivitanoj, mi estis la kulpulo, kaj li forvojaĝis. La
+malicajn kaj malverajn onidirojn, kiuj poste disvastiĝis, ne povas
+homa potenco kontraŭ-pruvi. Sed pro tio mi ne kuraĝas plendi.
+Antaŭ dek kvin jaroj mi altiĝis pere de tiuj onidiroj; se mi nun
+pro ili falu, pri tio ĉiu ajn konsideru en si mem.
+
+ADJUNKTO RØRLUND
+Kia fulma frapo! La elstarulo de la urbo —! (mallaŭte al _sinjorino
+Bernick_) Ho, kiel mi bedaŭras vin, sinjorino!
+
+HILMAR TØNNESEN
+Kia konfeso! Nu, jen mi diru —!
+
+KONSULO BERNICK
+Sed neniu decido ĉi-vespere. Mi petas ĉiu ajn iri al la sia, —
+pripensi, — rigardi en si mem. Kiam trankvilo regas la animojn,
+montriĝos, ĉu mi perdis aŭ gajnis parolante. Adiaŭ! Mi ankoraŭ
+havas multon, multon por penti; sed tio koncernas nur mian
+konsciencon. Bonan nokton! For la festa luksaĵo. Tion ni ĉiuj
+sentas, ke tiaĵo ne havas sian ĝustan lokon ĉi tie.
+
+ADJUNKTO RØRLUND
+Certe ne. (mallaŭte al _sinjorino Bernick_) Forkurinta! Ŝi do estis
+al mi tute maldigna. (duonlaŭte al la festkomitato) Jes, miaj
+sinjoroj, post tio ĉi mi opinias, ke plej bone estas, ke ni foriru
+en kompleta silento.
+
+HILMAR TØNNESEN
+Kiel oni de nun povu teni alte la standardon de la ideo, tio —. Uf!
+
+(La informo intertempe iris flustre de buŝo al buŝo. Ĉiuj
+partoprenantoj en la standarda procesio foriras tra la ĝardeno.
+_Rummel, Sandstad_ kaj _Vigeland_ foriras dum vigla, sed mallaŭta
+disputo. _Hilmar Tønnesen_ ŝteliras elen dekstre. En silento restas
+en la salono _konsulo Bernick, sinjorino Bernick, fraŭlino Bernick,
+fraŭlino Hessel_ kaj _plenrajtigito Krap_.)
+
+KONSULO BERNICK
+Betty, ĉu vi havas pardonon por mi?
+
+SINJORINO BERNICK
+(rigardas lin ridete) Sciu, Karsten, ke nun vi malfermis por mi la
+plej ĝojan esperon dum multaj jaroj!
+
+KONSULO BERNICK
+Kiel —?
+
+SINJORINO BERNICK
+Dum multaj jaroj mi kredis, ke mi iam posedis vin, sed poste perdis
+vin. Nun mi scias, ke mi neniam posedis vin; sed mi gajnu vin.
+
+KONSULO BERNICK
+(ĉirkaŭbrakas ŝin) Ho, Betty, vi jam _gajnis_ min! Tra Lona mi
+unue lernis koni vin. Sed nun Olaf venu.
+
+SINJORINO BERNICK
+Jes, nun vi ricevu lin. — Sinjoro Krap —!
+
+(Ŝi parolas mallaŭte kun li en la fono. Li eliras tra la ĝardena
+pordo. Dum tio kio sekvas estingiĝas laŭvice ĉiuj tralumaĵoj kaj
+lumoj en la domoj.)
+
+KONSULO BERNICK
+(mallaŭte) Dankon, Lona, vi savis la plej bonan en mi — kaj por mi.
+
+FRAŬLINO HESSEL
+Ĉu ion alian mi volis?
+
+KONSULO BERNICK
+Nu ĉu, — aŭ ĉu ne? Mi ne tute komprenas vin.
+
+FRAŬLINO HESSEL
+Hm —
+
+KONSULO BERNICK
+Do ne malamo? Ne venĝo? Kial vi do revenis transen?
+
+FRAŬLINO HESSEL
+Malnova amikeco ne rustas.
+
+KONSULO BERNICK
+Lona!
+
+FRAŬLINO HESSEL
+Kiam Johan rakontis al mi tion pri la mensogo, mi ĵuris en mi mem:
+La heroo de mia juneco staru libera kaj vera.
+
+KONSULO BERNICK
+Ho, kiom malmulte mi mizera homo meritis tion de vi!
+
+FRAŬLINO HESSEL
+Jes, se ni virinoj demandus pri la gajno, Karsten —!
+
+(_Ŝipkonstruisto Aŭne_ venas kun _Olaf_ de la ĝardeno.)
+
+KONSULO BERNICK
+(al li renkonte) Olaf!
+
+OLAF
+Patro, mi promesas, ke mi neniam plu —
+
+KONSULO BERNICK
+Forkuros?
+
+OLAF
+Jes, jes, tion mi promesas al vi, patro.
+
+KONSULO BERNICK
+Kaj mi promesas al vi, ke vi neniam ekhavos kaŭzon por tio. De nun
+vi kresku, ne kiel heredanto de _mia_ vivotasko, sed kiel tiu, kiu
+mem havas vivotaskon atendanta.
+
+OLAF
+Kaj ĉu mi ankaŭ rajtas fariĝi, kion mi volas?
+
+KONSULO BERNICK
+Jes vi rajtas.
+
+OLAF
+Dankon. Do mi ne volas fariĝi kolono de la socio.
+
+KONSULO BERNICK
+Nu? Kial ne?
+
+OLAF
+Ne, ĉar mi kredas, ke tio estas vere teda.
+
+KONSULO BERNICK
+Vi fariĝu vi mem, Olaf; kaj la sekvo iru kiel ĝi povas. — Kaj Vi,
+Aŭne —
+
+ŜIPKONSTRUISTO AŬNE
+Mi scias, sinjoro konsulo; mi havas mian maldungon.
+
+KONSULO BERNICK
+Ni daŭrigos kune, Aŭne; kaj pardonu al mi —
+
+ŜIPKONSTRUISTO AŬNE
+Kiel? La ŝipo do ne forvelos ĉi-vespere.
+
+KONSULO BERNICK
+Ĝi eĉ ne forvelos morgaŭ. Mi donis al Vi tro mallongan tempolimon.
+Ĝi bezonas pli profundan inspekton.
+
+ŜIPKONSTRUISTO AŬNE
+Okazu, sinjoro konsulo — kaj eĉ per novaj maŝinoj!
+
+KONSULO BERNICK
+Tiel estu. Sed profunde kaj honeste. Estas multo ĉe ni, kiu bezonas
+profundan kaj honestan riparon. Nun, bonan nokton, Aŭne.
+
+ŜIPKONSTRUISTO AŬNE
+Bonan nokton, sinjoro konsulo; — kaj dankon, dankon, dankon! (Li
+eliras dekstre.)
+
+SINJORINO BERNICK
+Nun ĉiuj estas for.
+
+KONSULO BERNICK
+Kaj ni estas solaj. Mia nomo ne plu lumas per fajraj literoj; ĉiuj
+lumoj estingiĝis en la fenestroj.
+
+FRAŬLINO HESSEL
+Ĉu vi dezirus ilin denove eklumigitaj?
+
+KONSULO BERNICK
+Ne por kiu ajn prezo en la mondo. Kie mi do estis! Vi timiĝos, kiam
+vi scios tion. Nun estas kvazaŭ mi revenis al konscio post
+veneniĝo. Sed mi tion sentas, — ke mi _povos_ denove fariĝi juna
+kaj freŝa. Ho, venu pli proksimen, — tuj apude ĉirkaŭ mi. Venu
+Betty! Venu, Olaf, mia knabo! Kaj vi, Marta; — ŝajnas al mi, ke mi
+ne vidis vin ĉiujn tiujn ĉi jarojn.
+
+FRAŬLINO HESSEL
+Ne, tion mi efektive kredas; via socio estas socio de fraŭloanimoj;
+vi ne vidas la virinon.
+
+KONSULO BERNICK
+Vere, vere; kaj ĝuste tial, — nu, _tio_ staras fikse, Lona, — vi
+ne forvojaĝos de Betty kaj mi.
+
+SINJORINO BERNICK
+Ne, Lona, tion vi ne devas!
+
+FRAŬLINO HESSEL
+Ne, kiel mi povus defendi forvojaĝo de vi, junuloj, kiuj komencos
+establi hejmon? Ĉu mi ne estas eduka patrino? Mi kaj vi, Marta, ni
+du maljunaj onklinoj —. Por kio vi rigardas?
+
+FRAŬLINO BERNICK
+Kiel la ĉielo klariĝas. Kiel lumas super la maro. “La Palmo” havas
+la feliĉon kun si.
+
+FRAŬLINO HESSEL
+Kaj la feliĉon surŝipe.
+
+KONSULO BERNICK
+Kaj ni — ni havas longan seriozan labortagon atendanta; pleje mi.
+Sed ke ĝi venu; kunigu vin dense al mi, vi fidelaj veroamaj virinoj.
+_Tion_ mi ankaŭ lernis dum tiuj ĉi tagoj: Estas vi virinoj, kiuj
+estas la kolonoj de la socio.
+
+FRAŬLINO HESSEL
+Do vi lernis kadukan saĝon, bofrato. (metas la manon peze sur lian
+ŝultron) Ho ne; la spiritoj de vero kaj libereco, — _tiuj_ estas la
+kolonoj de la socio.
+
+
+Kurteno
+
+
+
+
+
+
+End of the Project Gutenberg EBook of La kolonoj de la socio, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA KOLONOJ DE LA SOCIO ***
+
+***** This file should be named 20162-0.txt or 20162-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/0/1/6/20162/
+
+Produced by Andrew Sly
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

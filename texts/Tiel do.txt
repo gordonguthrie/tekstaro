@@ -1,0 +1,1798 @@
+﻿The Project Gutenberg EBook of Tiel do, by Rudyard Kipling
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+
+Title: Tiel do
+       Rakontoj por malgrandaj infanoj
+
+Author: Rudyard Kipling
+
+Translator: Wouter F. Pilger
+
+Release Date: May 8, 2015 [EBook #48900]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK TIEL DO ***
+
+
+
+
+
+
+
+
+
+
+
+NUR POR SENPAGA ELEKTONIKA DISTRIBUADO
+ - ALIMANIERA DISTRIBUADO MALPERMESITA
+ALLEEN VOOR GRATIS ELEKTRONISCHE VERSPREIDING
+ - ANDERE VERSPREIDING VERBODEN
+SEULEMENT POUR DISTRIBUTION ÉLECTRONIQUE GRATUITE
+ - TOUTE AUTRE EST INTERDITE
+FOR FREE ELECTRONIC DISTRIBUTION ONLY
+ - ALL OTHER DISTRIBUTION IS FORBIDDEN
+....................................................
+
+  Versio por Esperanto-bultenejoj.
+  Kursivaj partoj indikitaj per _antaŭ kaj post_.
+  Disponigis, nome de eldonejo Vulpo-Libroj kaj la tradukinto:
+  Wouter F. Pilger.
+
+
+Ĉi tiu ekzemplero estas ekskluzive celita por via persona privata
+utiligo. Ĉia alia komerca aŭ nekomerca utiligo de ĉi tiu teksto,
+tute aŭ parte, ĉu en elektronika aŭ en surpapera aŭ en kia ajn
+alia formo, sen anticipa skriba permeso de la rajtantoj pri aŭtoraj
+rajtoj estas kontraŭa al leĝoj kaj konvencioj! Ĉiuokaze ĉia
+multobligo aŭ publikigo - krom senpagaj alŝuto al bultenejo aŭ
+ftp-ejo, transŝuto inter bultenejoj aŭ ftp- ejoj, kaj elŝuto el
+bultenejo / ftp-ejo por persona utiligo - estas malpermesita.
+Eksplicite ĉia disponigo de surpapera versio al triaj personoj,
+eĉ se senpage, kaj ĉia disponigo de ajna versio kontraŭ pago, sen
+anticipa skriba permeso de la rajtantoj pri aŭtoraj rajtoj, estas
+malpermesitaj.
+
+Se vi ŝatus disponi pri dece presita ekzemplero, kun la bildoj kiujn
+desegnis la aŭtoro, simple mendu la libron ĉe via kutima libroservo.
+
+
+
+
+    TIEL DO
+    --------------
+
+    RAKONTOJ
+
+    por malgrandaj infanoj
+
+
+    de
+    Rudyard Kipling
+
+    ilustris la aŭtoro
+
+    1992
+    Vulpo-Libroj -- Lelystad
+
+  El la Angla tradukis kaj adaptis por Esperanto: Wouter F. Pilger.
+  Kun danko al Douglas S. Williams pro liaj klarigoj.
+
+
+
+Kipling, [Joseph] Rudyard (1865-1936)
+
+Tiel do. Rakontoj por malgrandaj infanoj / Rudyard Kipling; tradukis
+[el la Angla al Esperanto] Wouter F. Pilger. - Lelystad: Vulpo-Libroj.
+- Il. Traduko [parta] de: Just so stories for little children.
+
+ISBN 90-70074-36-2 (la libroforma eldono!)
+
+(C) 1992 Wouter F. Pilger, Lelystad, NL Ĉiuj rajtoj rezervitaj.
+Nenion el ĉi tiu eldonaĵo oni rajtas multobligi, kopii, enigi en
+serĉdokumenton aŭ rikordaron por (tele)konsultado, aŭ publikigi, en
+ajna formo aŭ per ajna rimedo, sen la anticipa skriba permeso de la
+tradukinto/adaptinto.
+
+
+
+    ENHAVO
+
+
+    Kiel la baleno ekhavis sian gorĝon
+    Kiel la kamelo ekhavis sian ĝibon
+    Kiel la rinocero ekhavis sian haŭton
+    Kiel la unua letero estis skribata
+    Kiel la alfabeto estis farata
+
+
+Kiam niaj infanoj estis malgrandaj, mi kutimis "traduk-legi" al ili
+rakontojn en la lingvo kiun ili tiumomente deziris. Tiel, ĉi tiuj
+tradukoj ekestis kiel _parolaj_ tradukoj. Laŭ mi, la rakontoj plej bone
+efikas kiam vi -- post iom da ekzercado, eble -- laŭtlegas ilin al iu.
+Se vi pensas ke vi trovis eraron, unue rigardu al paĝo 63.
+
+    La tradukinto.
+
+
+Joseph Rudyard Kipling (1865-1936), Brito, naskiĝis en Bombajo en la
+tiama Brita Hindujo kaj edukiĝis tie kaj en Britujo. Li laboris kelkajn
+jarojn kiel ĵurnalisto en Hindujo kaj poste loĝis en Usono kaj Britujo.
+Li famiĝis per noveloj kaj per patriotismaj, imperiismaj poemoj. Nun li
+estas ankoraŭ fama pro siaj infanlibroj: "Ĝangalo-libroj", "Kim", "Tiel
+do-rakontoj". Li ricevis la Nobelpremion por literaturo en 1907.
+
+
+    TIEL DO
+    RAKONTOJ
+
+
+_Malnovaj mezuroj:_
+mejlo     proksimume unu kaj duona kilometro
+jardo     proksimume unu metro
+futo      proksimume tridek centimetroj
+funto     proksimume duona kilogramo
+unco      proksimume tridek gramoj
+
+
+_Al la plenkreskuloj:_ Antono de Sankta Eksopiro atentigis ke "la
+grandpersonoj ĉiam bezonas klarigojn". Jen do: En la rakontoj foje
+troviĝas vortoj kaj frazaĵoj uzataj ne-tute-laŭ-PIV-kaj-PAG. Ekzemple:
+"incitiĝi" por "ekscitiĝi", "tikli" por "juki", "nek" por "ne".
+Kaj krome iuj rektaj "prononc-eraroj". Tiel estas en la originalo.
+Eĉ pli. Tiel estas intencite. Tiel faris la Majstro, tiel faris la
+Nobel-premiito kaj tiel faras Infanoj -- kaj la lingvo estas ankaŭ
+ilia propraĵo. Do "grandpersonoj" eventuale atentigu pri la "ĝusta,
+nuntempa, plenkreskula" lingvo-uzo, sed ne tro ... incitiĝu. Krome, iuj
+vortoj kaj esprimoj estas "magiaj" -- vi povas serĉi ilin en vortaroj
+kaj enciklopedioj, sed ĉu tio kion vi trovos, klarigos ion, restas la
+demando. La "magiajn" runo-tekstojn vi povas provi deĉifri (kaj estos
+s'prizo, kiel dirus Tafinjo) -- aŭ ne.
+
+La tradukinto.
+
+
+
+
+KIEL LA BALENO EKHAVIS SIAN GORĜON
+
+
+Iam, en la maro, Ho mia Plej Amata, estis Baleno, kaj ĝi manĝis
+fiŝojn. Ĝi manĝis la barbofiŝon kaj la kardofiŝon, kaj la marstelon
+kaj la sardelon, kaj la plateson kaj la fleson, kaj la blikon kaj ties
+amikon, kaj la soleon kaj la klupeon, kaj la verdire veran lirla-kirlan
+angilon. Ĉiujn fiŝojn kiujn ĝi povis trovi en tuta la maro ĝi manĝis
+per sia buŝo -- tiel! Ĝis fine restis en tuta la maro nur unu malgranda
+fiŝo, kaj ĝi estis eta Ruza Fiŝo, kaj ĝi naĝis iom malantaŭ la dekstra
+orelo de la Baleno, por esti ekster danĝero. Tiam la Baleno ekstaris
+sur sia vosto kaj diris: "Mi malsatas." Kaj la eta Ruza Fiŝo diris per
+eta ruza voĉo: "Nobla kaj larĝanima Cetaco, ĉu vi iam gustumis Homon?"
+
+"Ne," diris la Baleno. "Kia ĝi estas?"
+
+"Plaĉa," diris la eta Ruza Fiŝo. "Plaĉa sed tenaca."
+
+"Tiam havigu al mi iom da," diris la Baleno, kaj ĝi ŝaŭmigis la maron
+per sia vosto.
+
+"Po unu sufiĉas," diris la Ruza Fiŝo. "Se vi naĝos al latitudo Kvindek
+Norde, longitudo Kvardek Ŭeste (tio estas Magio), vi trovos, _sur_
+floso, _en_ la mezo de la maro, kun nenio vestita krom blua drelika
+kalsono, paro da ŝelkoj (vi _ne_ forgesu la ŝelkojn, Plej Amata), kaj
+poŝ-tranĉilo, unu ŝippereintan Mariston, kiu, ja mi honeste diru al vi,
+estas viro de senfina-eltrovemo-kaj-sagaceco."
+
+Tiel do la Baleno naĝis kaj naĝis al latitudo Kvindek Norde, longitudo
+Kvardek Ŭeste, tiel rapide kiel ĝi povis naĝi, kaj _sur_ floso, _en_ la
+mezo de la maro, _kun_ nenio alia por vesti ol blua drelika kalsono,
+paro da ŝelkoj (vi precipe memoru la ŝelkojn, Plej Amata), _kaj_
+poŝ-tranĉilo, ĝi trovis unu solan, solecan ŝippereintan Mariston, kiu
+trempis siajn piedfingrojn en la akvo. (Li havis permeson de sia Panjo
+por eniri la akvon, aliokaze li neniam estus farinta, ĉar li estis viro
+de senfina-eltrovemo-kaj-sagaceco.)
+
+Tiam la Baleno malfermis sian buŝon malantaŭen kaj malantaŭen
+kaj malantaŭen ĝis ĝi preskaŭ tuŝis la voston, kaj ĝi glutis la
+ŝippereintan Mariston, kaj la floson sur kiu li sidis, kaj lian bluan
+drelikan kalsonon, kaj la ŝelkojn (kiujn vi _nepre_ ne forgesu), _kaj_
+la poŝ-tranĉilon. -- Ĝi glutis ilin en siajn varmajn, mallumajn,
+internajn ŝrankojn, kaj tiam ĝi lekis siajn lipojn -- tiel, kaj
+turniĝis trifoje sur sia vosto.
+
+Sed tuj kiam la Maristo, kiu estis viro de
+senfina-eltrovemo-kaj-sagaceco, trovis sin vere interne de la varmaj,
+mallumaj, internaj ŝrankoj de la Baleno, li tretis kaj li ĵetis kaj
+li impetis kaj li baletis, kaj li dancis kaj li prancis, kaj li paŝis
+kaj li draŝis kaj li ĉardaŝis, kaj li frapis kaj li skrapis, kaj li
+tuŝis kaj li puŝis, kaj li taktis kaj li baraktis, kaj li spasmis kaj
+li entuziasmis, kaj li menuetis kaj li piruetis, kaj li popoldancis
+kie li ne devus, kaj la Baleno sentis sin _tute_ ne komforte. (_Ĉu_ vi
+forgesis la ŝelkojn?)
+
+Do ĝi diris al la Ruza Fiŝo: "Ĉi tiu homo estas tre tenaca, kaj krome
+li kaŭzas al mi singulton. Kion mi faru?"
+
+"Diru al li ke li eliru," diris la Ruza Fiŝo.
+
+Do la Baleno vokis en sian propran gorĝon al la ŝippereinta Maristo:
+"Eliru kaj kondutu bone. Mi havas singulton."
+
+"Ne, ne!" diris la Maristo. "Ne tiel, sed tute alimaniere. Alportu min
+al mia naskiĝo-bordo kaj la blankaj-klifoj-de-Albiono, kaj tiam mi
+konsideros." Kaj li komencis danci pli ol iam.
+
+"Vi prefere alportu lin hejmen," diris la Ruza Fiŝo al la
+Baleno. "Mi estus devinta averti vin ke li estas homo de
+senfina-eltrovemo-kaj-sagaceco."
+
+Do la Baleno naĝis kaj naĝis kaj naĝis, per ambaŭ siaj naĝiloj kaj sia
+vosto, tiel rapide kiel ĝi povis, pro la singulto; kaj finfine ĝi vidis
+la naskiĝo-bordon de la Maristo kaj la blankajn-klifojn-de-Albiono, kaj
+ĝi rapide glitis duonvoje sur la strandon, kaj ĝi malfermis sian buŝon
+larĝe kaj larĝe kaj larĝe, kaj ĝi diris: "Ĉi tie ŝanĝi por Vinĉestro,
+Aŝveloto, Naŝuo, Keno, kaj stacioj je la _Fiĉ_burga Vojo;" kaj precize
+kiam ĝi diris "Fiĉ", la Maristo promenis el ĝia buŝo eksteren. Sed
+dum la Baleno estis naĝanta, la Maristo, kiu vere estis persono de
+senfina-eltrovemo-kaj-sagaceco, estis preninta sian poŝ-tranĉilon kaj
+tranĉinta el la floso malgrandan kvadratan kradon kun tralioj laŭlarĝe
+kaj laŭlonge, kaj li estis liginta tiun firme per siaj ŝelkoj (_nun_ vi
+scias kial vi devis ne forgesi la ŝelkojn!), kaj li trenis tiun kradon
+bone kaj firme en la gorĝon de la Baleno, kaj tie ĝi fiksiĝis! Tiam li
+recitis la sekvantan _Slokaon_, kiun mi, ĉar vi ankoraŭ ne aŭdis ĝin,
+nun deklamos al vi: --
+
+  Pere de tiu mia krado
+  Venis halto al via manĝado.
+
+Ĉar la maristo estis ankaŭ Hi-ber-ni-ano. Kaj li ekpaŝis sur la
+kajobreton, kaj iris hejmen al sia Patrino, kiu estis permesinta al li
+trempi siajn piedfingrojn en la akvo; kaj li edziĝis kaj vivis feliĉe
+ĉiam plue. Tiel ankaŭ la Baleno. Sed ekde tiu tago, la krado en ĝia
+gorĝo, kiun ĝi sukcesis nek eltusi nek engluti, preventis ke ĝi manĝu
+ion krom tre, tre malgrandaj fiŝetoj; kaj pro tio balenoj nuntempe
+neniam manĝas virojn aŭ knabojn aŭ knabinetojn.
+
+La eta Ruza Fiŝo foriris kaj kaŝis sin en la koto sub la Sojlo de la
+Ekvatoro. Ĝi timis, ke la Baleno koleras al ĝi.
+
+La Maristo kunprenis la poŝ-tranĉilon hejmen. Li surhavis la bluan
+drelikan kalsonon kiam li surpaŝis la kajobreton. La ŝelkojn li estis
+lasinta ĉar, ĉu ne, li utiligis ilin por ligi la kradon; kaj jen la
+fino de _tiu_ rakonto.
+
+    --------------
+
+Jen la bildo de la Baleno kiu glutas la Mariston kun ties
+senfina-eltrovemo-kaj-sagaceco, kaj la floson kaj la poŝ-tranĉilon
+_kaj_ liajn ŝelkojn, kiujn vi devas _ne_ forgesi. La butonecaj aferoj
+estas la ŝelkoj de la Maristo, kaj vi povas vidi la tranĉilon tuj
+apud ili. Li sidas sur la floso, sed ĝi turniĝis iom flanken, do vi
+ne vidas multon de ĝi. La blankeca afero ĉe la maldekstra mano de la
+Maristo estas peco de ligno per kiu li provis remi la floson kiam la
+Baleno alvenis. La peco de ligno nomiĝas gafo-beko. La Maristo lasis
+ĝin ekstere kiam li eniris. La Baleno nomiĝis Ridulo, kaj la Maristo
+nomiĝis S-ro Henriko Adalberto Bivenso, MJ. La eta Ruza Fiŝo kaŝiĝas
+sub la ventro de la Baleno, aliokaze mi estus desegninta ĝin. La kialo
+ke la maro aspektas tiel tuŝe-fuŝe estas ĉar la Baleno estas suĉanta
+ĝin tutan en sian buŝon por ensuĉi S-ron Henriko Adalberto Bivenso kaj
+la floson kaj la poŝ-tranĉilon kaj la ŝelkojn. Vi neniam forgesu la
+ŝelkojn.
+
+[bildo]
+
+Jen la Baleno serĉanta la etan Ruzan Fiŝon, kiu kaŝiĝas sub la Sojlo
+de la Ekvatoro. La eta Ruza Fiŝo nomiĝis Pinglo. Ĝi kaŝiĝas inter la
+radikoj de la granda algo kiu kreskas antaŭ la Pordoj de la Ekvatoro.
+Ili estas fermitaj. Ili estas ĉiam fermitaj, ĉar pordo ĉiam devus esti
+fermita. La ŝnureca afero transe estas la Ekvatoro mem; kaj la aferoj
+kiuj aspektas kiel rokoj estas la du gigantoj Moaro kaj Koaro, kiuj
+tenas la Ekvatoron en ordo. Ili desegnis la siluetojn sur la Pordoj de
+la Ekvatoro, kaj ili ĉizis ĉiujn tiujn interplektiĝantajn fiŝojn sub la
+Pordoj. La beko-fiŝoj nomiĝas beko-Delfenoj kaj la aliaj fiŝoj kun la
+strangaj kapoj nomiĝas Martelo-kapaj Ŝarkoj. La Baleno neniam trovis la
+etan Ruzan Fiŝon ĝis post kiam ĝi estis retrovinta sian bonhumoron, kaj
+tiam ili fariĝis denove bonaj amikoj.
+
+[bildo]
+
+
+
+
+KIEL LA KAMELO EKHAVIS SIAN ĜIBON
+
+
+Nun venas la sekvanta rakonto, kaj ĝi rakontas pri kiel la Kamelo
+ekhavis sian grandan ĝibon.
+
+En la komenco de la jaroj, kiam la mondo estis tiel-nova-kaj-freŝa,
+kaj la Bestoj ĵus komencis labori por la Homo, estis Kamelo, kaj ĝi
+vivis en la mezo de la Hurla Dezerto ĉar ĝi ne volis labori; kaj
+cetere, ĝi estis mem Hurlanto. Do ĝi manĝis branĉojn kaj dornojn kaj
+tamarikojn kaj lakto-kaj-silko-planton kaj pikilojn, plej 'strordinare
+nenionfarante; kaj kiam iu parolis al ĝi, ĝi diris "Ĝif!" Nur "Ĝif!"
+kaj ne pli.
+
+Okazis ke la Ĉevalo venis al ĝi, iun lundon matene, kun selo sur sia
+dorso kaj bridstango en sia buŝo, kaj diris: "Kamelo, ho Kamelo, elvenu
+kaj trotu kiel ni ĉiuj aliaj."
+
+"Ĝif!" diris la Kamelo; kaj la Ĉevalo foriris kaj rakontis al la Homo.
+
+Okazis ke la Hundo venis al ĝi, kun bastono en sia buŝo, kaj diris:
+"Kamelo, ho Kamelo, venu kaj prenu kaj portu kiel ni ĉiuj aliaj."
+
+"Ĝif!" diris la Kamelo; kaj la Hundo foriris kaj rakontis al la Homo.
+
+Okazis ke la Bovo venis al ĝi, kun jugo sur sia nuko, kaj diris:
+"Kamelo, ho Kamelo, venu kaj plugu kiel ni ĉiuj aliaj."
+
+"Ĝif!" diris la Kamelo; kaj la Bovo foriris kaj rakontis al la Homo.
+
+Je la fino de la tago la Homo kunvokis la Ĉevalon kaj la Hundon kaj la
+Bovon, kaj diris: "Triopo, ho Triopo, mi tre bedaŭras por vi (en mondo
+tiel nova-kaj-freŝa); sed tiu Ĝif-afero en la Dezerto ne povas labori,
+aliokaze ĝi jam estus nun ĉi tie, do mi lasos ĝin tie, kaj vi devos
+labori duoblan tempon por kompensi."
+
+Tio tre kolerigis la Triopon (en mondo tiel nova-kaj-freŝa),
+kaj ili faris palavron, kaj _indaba_-on kaj _panĉajet_-on, kaj
+_paŭ-vaŭ_-on je la rando de la Dezerto; kaj la Kamelo venis maĉante
+lakto-kaj-silko-planton _plej_ 'strordinare nenionfarante, kaj ridis
+pri ili. Tiam ĝi diris "Ĝif!" kaj foriris denove.
+
+Okazis ke preterpasis la Ĝino respondeca pri Ĉiuj Dezertoj, ruliĝante
+en polvo-nubo (Ĝinoj ĉiam vojaĝas tiumaniere ĉar tio estas magio), kaj
+li haltis por palavri kaj paŭvaŭi kun la Triopo.
+
+"Ĝino de Ĉiuj Dezertoj," diris la Ĉevalo, "_ĉu_ estas ĝuste ke iu ajn
+estu nenionfaranta en mondo tiel nova-kaj-freŝa?"
+
+"Certe ne," diris la Ĝino.
+
+"Nu," diris la Ĉevalo, "estas afero tie en la mezo de la Hurla Dezerto
+(kaj ĝi estas mem Hurlanto) kun longa kolo kaj longaj kruroj, kaj ĝi ne
+faris ian ajn laboron depost lunde matene. Ĝi ne volas troti."
+
+"Feŭ!" diris la Ĝino, fajfante, "tio estas mia Kamelo, je ĉiu oro en
+Arabujo! Kion ĝi diras pri tio?"
+
+"Ĝi diras 'Ĝif'!" diris la Hundo; "kaj ĝi ne volas preni kaj porti."
+
+"Ĉu ĝi diras ion alian?"
+
+"Nur 'Ĝif'!; kaj ĝi ne volas plugi," diris la Bovo.
+
+"Tre bone," diris la Ĝino. "Mi ĝifos ĝin se vi bonvolos atendi minuton."
+
+La Ĝino volvis sin en sian polvomantelon, kaj prenis biron trans la
+dezerto, kaj trovis la Kamelon, plej 'strordinare nenionfarantan,
+rigardantan sian propran bildon en flako da akvo.
+
+"Mia longa kaj bobela amiko," diris la Ĝino, "kion do mi aŭdas pri vi
+faranta neniun laboron, en ĉi tiu mondo tiel nova-kaj-freŝa?"
+
+"Ĝif!" diris la Kamelo.
+
+La Ĝino eksidis, kun la mentono en sia mano, kaj komencis pensi Grandan
+Magion, dum la Kamelo rigardis sian propran rebrilon en la akvoflako.
+
+"Vi kaŭzis al la Triopo ekstran laboron depost lunde matene, nur pro
+via 'strordinara nenionfarado," diris la Ĝino; kaj li daŭrigis pensi
+Magiaĵojn, kun la mentono en sia mano.
+
+"Ĝif!" diris la Kamelo.
+
+"Mi ne denove dirus tion se mi estus vi," diris la Ĝino; "vi povus diri
+tion unufoje tro. Bobelo, mi volas ke vi laboru."
+
+Kaj la Kamelo diris "Ĝif!" denove; sed apenaŭ ĝi estis dirinta tion
+kiam ĝi vidis ke la dorso, pri kiu ĝi tiel fieris, pufiĝas kaj pufiĝas
+kaj fariĝas granda ĝeleca ĝifo.
+
+"Ĉu vi vidas tion?" diris la Ĝino. "Tio estas via tute propra ĝifo
+kiun vi kaŭzis al vi mem per ne-laborado. Hodiaŭ estas ĵaŭdo, kaj vi
+ne faris ajnan laboron depost lundo, kiam la laboro komenciĝis. Nun vi
+eklaboros."
+
+"Kiel do mi povas?" diris la Kamelo, "kun ĉi tiu ĝifo sur mia dorso?"
+
+"Estas tiel celite," diris la Ĝino, "ĝuste ĉar vi maltrafis tiujn tri
+tagojn. Vi nun kapablos labori tri tagojn sen manĝado, ĉar vi povas
+vivi de via ĝifo; kaj neniam diru ke mi nenion faris por vi. Venu el la
+Dezerto kaj iru al la Triopo, kaj kondutu bone. Ĝifu vin!"
+
+Kaj la Kamelo ĝifis sin, kune kun sia ĝifo, kaj foriris al la Triopo.
+Kaj ekde tiu tago ĝis la nuna, la Kamelo ĉiam portas ĝifon (ni nun
+nomas ĝin "ĝibo", por ne dolorigi ĝiajn sentojn); sed ĝi neniam
+sukcesis kompensi la tri tagojn kiujn ĝi maltrafis en la komenco de la
+mondo, kaj ĝi neniam ĝis nun lernis konduti bone.
+
+    --------------
+
+Jen la bildo de la Ĝino faranta la komencojn de la Magio kiu alportis
+la Ĝifon al la Kamelo. Unue li desegnis linion en la aero per sia
+fingro, kaj tiu fariĝis firma; kaj tiam li faris nubon, kaj tiam li
+faris ovon -- vi povas vidi ilin je la subo de la bildo -- kaj krome
+estis magia kukurbo kiu ŝanĝiĝis al granda blanka flamo. Tiam la Ĝino
+prenis sian magian ventumilon kaj ventumis tiun flamon ĝis la flamo
+ŝanĝiĝis al iu Magio tute per si mem. Estis bona Magio kaj fakte tre
+amikeca Magio, kvankam ĝi devis doni Ĝifon al la Kamelo ĉar la Kamelo
+estis mallaborema. La Ĝino respondeca pri Ĉiuj Dezertoj estis la plej
+amika de ĉiuj Ĝinoj, do li vere neniam farus ion malamikecan.
+
+[bildo]
+
+Jen la bildo de la Ĝino respondeca pri Ĉiuj Dezertoj kondukanta la
+Magion per sia magia ventumilo. La Kamelo manĝas branĉon de akacio,
+kaj ĝi ĵus finis diri "ĝif" unu fojon tro (la Ĝino estis dirinta ke ĝi
+faros), kaj tial la Ĝifo estas alvenanta. La longa sekigtukeca afero
+kreskanta el la cepo-simila afero estas la Magio, kaj vi povas vidi la
+Ĝifon sur ĝia ŝultro. La Ĝifo akordiĝas al la plata parto de la dorso
+de la Kamelo. La Kamelo estas tro okupita per rigardado al sia propra
+memo en la flako da akvo por rimarki tion kio estas okazonta al ĝi.
+
+Sub la vera bildo estas bildo de la Mondo-tiel-nova-kaj-freŝa. Estas
+du fumantaj vulkanoj en ĝi, iuj aliaj montoj kaj iuj ŝtonoj kaj lago
+kaj nigra insulo kaj serpentumanta rivero kaj multe da aliaj aferoj,
+kaj ankaŭ la Arkeo de Noa. Mi ne povis desegni ĉiujn dezertojn pri kiuj
+la Ĝino respondecis, do mi desegnis nur unu, sed ĝi estas tre dezerta
+dezerto.
+
+[bildo]
+
+
+
+
+KIEL LA RINOCERO EKHAVIS SIAN HAŬTON
+
+
+Origine, iam antaŭ longe, sur neloĝata insulo ĉe la bordo de la
+Ruĝa Maro, vivis Parsio de kies ĉapelo la sunradioj rebrilis en
+pli-ol-orienta pompo. Kaj la Parsio vivis ĉe la Ruĝa Maro kun nenio
+krom sia ĉapelo kaj sia tranĉilo kaj kuir-forno de la tipo kiun vi
+precipe neniam tuŝu. Kaj en iu tago li prenis farunon kaj akvon kaj
+rosinojn kaj prunojn kaj sukeron kaj aferojn, kaj faris por si unu
+kukon kiu mezuris du futojn transe kaj tri futojn dika. Ĝi ververe
+estis Supera Komestiblo (_tio_ estas Magio), kaj li metis ĝin sur
+la fornon ĉar al _li_ estis permesate kuiri sur tiu forno, kaj li
+bakis ĝin kaj bakis ĝin ĝis ĝi estis tute brune bakita kaj odoris
+plej sentimentale. Sed ĝuste kiam li estis manĝonta ĝin, venis sur
+la strandon el la Komplete Neloĝata Interno unu Rinocero kun korno
+sur sia nazo, du porko-okuloj, kaj malbona konduto. En tiuj tagoj la
+haŭto de la Rinocero sufiĉe glate akordiĝis al ĝia korpo. Ĝi ekzakte
+aspektis kiel Rinocero el la Arkeo de Noa, sed kompreneble multe pli
+granda. Tamen, ĝi ne bone kondutis tiam, kaj ĝi ne bone kondutas nun,
+kaj ĝi neniam bone kondutos. Ĝi diris: "Haŭ!" kaj la Parsio lasis tiun
+kukon kaj grimpis al la supro de palmo-arbo kun nenio vestita krom sia
+ĉapelo, de kiu la sunradioj rebrilis en pli-ol-orienta pompo. Kaj la
+Rinocero renversis la oleo-fornon per sia nazo, kaj la kuko ruliĝis
+en la sablon, kaj ĝi pikis tiun kukon sur la kornon de sia nazo, kaj
+ĝi manĝis ĝin, kaj ĝi foriris, svingante sian voston, al la forlasita
+kaj Ekskluzive Neloĝata Interno kiu oftas sur la insuloj Mazanderano,
+Sokotro, kaj la Promontoroj de la Plilarĝa Ekvinokso. Tiam la Parsio
+deiris de sia palmo-arbo kaj metis la fornon sur ĝiajn piedojn kaj
+recitis la sekvantan _Slokaon_, kiun mi, ĉar vi ankoraŭ ne aŭdis ĝin,
+nun deklamos al vi: --
+
+  Kiu la kukojn atakas
+  Kiujn la Parsio-viro bakas
+  Tiu la malfeliĉon elpakas.
+
+Kaj estis multe pli da signifo en tio ol vi pensus.
+
+_Ĉar_, kvin semajnojn poste, okazis varmo-ondo ĉe la Ruĝa Maro, kaj
+ĉiuj malvestis ĉiujn vestaĵojn kiujn ili surhavis. La Parsio formetis
+sian ĉapelon; sed la Rinocero demetis sian haŭton kaj portis ĝin sur la
+ŝultro kiam ĝi venis al la strando por baniĝi. En tiu tempo la haŭto
+butoniĝis malsupre per tri butonoj kaj aspektis kiel pluvmantelo. La
+Rinocero diris tute nenion pri la kuko de la Parsio, ĉar ĝi estis
+manĝinta ĝin tute; kaj ĝi neniam bone kondutis, nek tiam, nek poste,
+nek estonte. Ĝi vadis rekte en la akvon kaj blovis bobelojn tra sia
+nazo, lasinte sian haŭton sur la strando.
+
+Okazis ke la Parsio preteriris kaj trovis la haŭton, kaj li ridis unu
+ridon kiu dufoje ĉirkaŭis lian vizaĝon. Tiam li dancis trifoje ĉirkaŭ
+la haŭto kaj frotis siajn manojn. Tiam li iris al sia kampadejo kaj
+plenigis sian ĉapelon per kukeroj, ĉar la Parsio manĝis neniam ion krom
+kukojn, kaj neniam balais sian kampadejon. Li prenis tiun haŭton, kaj
+li trenis tiun haŭton, kaj li trotis tiun haŭton, kaj li frotis tiun
+haŭton kaj plenigis ĝin per malnovaj, malfreŝaj, sekaj, tiklaj kukeroj
+kaj kelkaj bruligitaj rosinoj, tiom kiom ĝi _entute_ povis enhavi. Tiam
+li grimpis al la supro de sia palmo-arbo kaj atendis ĝis la Rinocero
+venos el la akvo kaj surmetos ĝin.
+
+Kaj la Rinocero surmetis sian haŭton. Ĝi butonis ĝin per la tri
+butonoj, kaj ĉio tiklis kiel kukeroj en lito. Tiam ĝi volis grati sin,
+sed tio nur malbonigis la aferon; kaj tiam ĝi ekkuŝis sur la sablojn
+kaj ruliĝis kaj ruliĝis kaj ruliĝis, kaj ĉiufoje kiam ĝi ruliĝis la
+kukeroj tiklis ĝin pli kaj pli kaj pli. Tiam ĝi kuris al la palmo-arbo
+kaj frotis kaj frotis kaj frotis sin kontraŭ tiu. Ĝi frotis sin tiel
+multe kaj tiel forte ke pro la frotado ekestis granda faldo en la
+haŭto super la ŝultroj, kaj alia faldo malsupre, kie la butonoj antaŭe
+estis (sed la butonoj estis forfrotitaj), kaj pro la frotado ekestis
+pliaj faldoj sur ĝiaj kruroj. Kaj tio fuŝis ĝian humoron, sed ne faris
+ajnan diferencon al la kukeroj. Ili estis interne de ĝia haŭto kaj ili
+tiklis. Do ĝi iris hejmen, vere tre kolera kaj terure gratema; kaj ekde
+tiu tago ĝis la nuna ĉiu rinocero havas grandajn faldojn en sia haŭto
+kaj tre malbonan humoron, ĉio pro la kukeroj interne.
+
+Sed la Parsio deiris de sia palmo-arbo, surhavante sian ĉapelon, de kiu
+la sunradioj rebrilis en pli-ol-orienta pompo, prenis sian kuir-fornon,
+kaj foriris en la direkto de Orotavo, Amigdalo, la Supraj Paŝtejoj de
+Anantarivo, kaj la Sonaputaj Marĉoj.
+
+    --------------
+
+Jen la bildo de la Parsio kiu komencas manĝi sian kukon sur la Neloĝata
+Insulo en la Ruĝa Maro en vere varmega tago; kaj de la Rinocero kiu
+venas el la Komplete Neloĝata Interno, kiu, kiel vi laŭvere povas
+vidi, estas tute roka. La haŭto de la Rinocero estas tute glata,
+kaj la tri butonoj per kiu oni butonas ĝin estas malsupre, do vi
+ne povas vidi ilin. La kirlaĵoj sur la ĉapelo de la Parsio estas
+la sunradioj rebrilantaj en pli-ol-orienta pompo, ĉar se mi estus
+desegninta verajn radiojn ili estus plenigintaj la tutan bildon. En
+la kuko estas rosinoj; kaj la rado-afero kiu kuŝas sur la sablo en la
+antaŭo apartenis al unu el la batalĉaroj de la Faraono kiam tiu provis
+transiri la Ruĝan Maron. La Parsio trovis ĝin, kaj konservis ĝin por
+ludi. La nomo de la Parsio estis Pestalĝi' Pugalĝi', kaj la Rinocero
+nomiĝis Strorkso, ĉar ĝi spiris tra sia buŝo anstataŭ tra sia nazo. Mi
+ne demandus ion pri la kuir-forno, se _mi_ estus vi.
+
+[bildo]
+
+Jen la Parsio Pestalĝi' Pugalĝi' sidanta en sia palmo-arbo kaj
+rigardanta la Rinoceron Strorkso kiu baniĝas apud la strando de
+la Komplete Neloĝata Insulo post kiam Strorkso estis forpreninta
+sian haŭton. La Parsio jam frotis la kukerojn en la haŭton, kaj li
+ridas pensante pri kiel ili tiklos Strorkson kiam Strorkso denove
+surmetos ĝin. La haŭto estas tuj sub la rokoj sub la palmo-arbo en
+malplivarma loko; tial vi ne povas vidi ĝin. La Parsio surhavas novan
+pli-ol-oriente-pompan ĉapelon de la speco kiun Parsioj surhavas; kaj
+li havas tranĉilon en sia mano por tranĉi sian nomon en palmo-arbojn.
+La nigraj aferoj sur la insuloj en la maro estas pecoj de ŝipoj kiuj
+pereis ŝipante laŭ la Ruĝa Maro; sed ĉiuj pasaĝeroj estis savitaj kaj
+iris hejmen.
+
+La nigra afero en la akvo proksime de la bordo tute ne estas pereinta
+ŝipo. Tio estas Strorkso la Rinocero baniĝanta sen sia haŭto. Strorkso
+estis sub sia haŭto same nigra kiel ekstere. Mi ne demandus ion pri la
+kuir-forno, se _mi_ estus vi.
+
+[bildo]
+
+
+
+
+KIEL LA UNUA LETERO ESTIS SKRIBATA
+
+
+Oni ne scias antaŭ kiom longe -- en tre frua tempo estis Neolitika
+viro. Li ne estis Juto aŭ Anglo, aŭ eĉ Dravido, kio li bone
+estus povinta esti, Plej Amata, sed ne zorgu kial. Li estis
+Primitivulo, kaj li loĝis kavece en Kavo, kaj li surhavis tre
+malmulte da vestaĵoj, kaj li ne povis legi kaj li ne povis skribi
+kaj li eĉ ne volis ion tian, kaj escepte kiam li estis malsata
+li estis sufiĉe feliĉa. Lia nomo estis Tegumaj Bopsulaj, kaj tio
+signifas: "Viro-kiu-ne-metas-sian-piedon-antaŭen-tro-rapide";
+sed ni, ho Plej Amata, nomos lin Tegumo, mallonge do. Kaj la
+nomo de lia edzino estis Teŝumaj Tevindraŭ, kaj tio signifas:
+"Sinjorino-kiu-demandas-tre-multajn-demandojn"; sed ni, ho
+Plej Amata, nomos ŝin Teŝuma, mallonge do. Kaj la nomo de lia
+malgranda knabino-filino estis Tafimaj Metalumaj, kaj tio signifas:
+"Malgranda-persono-sen-bonaj-manieroj-kiu-devus-esti-frapata"; sed
+mi nomos ŝin Tafinjo. Kaj ŝi estis la Plej Amata de Tegumaj Bopsulaj
+kaj la Plej Amata de sia propra Panjo, kaj ŝi ne estis frapata eĉ
+duonon da fojoj kiom estus bone por ŝi; kaj ili ĉiuj tri estis tre
+feliĉaj. Kiam nur Tafinjo povis kuri ĉirkaŭe, ŝi iris ĉien kun sia
+Paĉjo Tegumo, kaj foje ili ne venis hejmen al la Kavo ĝis ili estis
+tre malsataj, kaj tiam Teŝumaj Tevindraŭ kutime diris: "Kie en la
+mondo vi du estis, ke vi fariĝis tiel ŝoke malpuraj? Vere, Tegumo
+mia, vi ne estas pli bona ol mia Tafinjo."
+
+Nun atentu kaj aŭskultu!
+
+En iu tago Tegumaj Bopsulaj foriris tra la kastoro-marĉo al la rivero
+Vagajo por sage kapti karpo-fiŝojn por vespermanĝo, kaj ankaŭ Tafinjo
+iris kun li. La sago de Tegumo estis farita el ligno kun ŝarko-dento je
+la fino, kaj antaŭ ol li kaptis iujn ajn fiŝojn, li rompis ĝin tute,
+frapante ĝin tro forte al la fundo de la rivero. Ili estis multajn
+mejlojn for de la hejmo (kompreneble ili kunhavis lunĉon en malgranda
+sako), kaj Tegumo estis forgesinta kunpreni rezervajn sagojn.
+
+"Jen tre fiŝodora afero!" diris Tegumo. "Mi bezonos duonon de la tago
+por ripari ĝin."
+
+"Estas hejme via granda nigra sago," diris Tafinjo. "Mi rekuru al la
+Kavo kaj petu Panjon por doni ĝin al mi."
+
+"Estas tro malproksime por viaj malgrandaj grasaj kruretoj," diris
+Tegumo. "Cetere, vi povus fali en la kastoro-marĉon kaj droni. Ni
+devos fari plej bonan el malbono." Li eksidis kaj elprenis malgrandan
+ledan riparo-saketon, plenan de rangifero-tendenoj kaj strioj da ledo,
+kaj buletoj da abelo-vakso kaj rezino, kaj komencis ripari la sagon.
+Tafinjo eksidis ankaŭ, kun siaj piedfingroj en la akvo kaj sia mentono
+en la mano, kaj pensadis tre forte. Tiam ŝi diris: --
+
+"Mi diru, Paĉjo, estas terura ĝeno, ke vi kaj mi ne scias skribi, ĉu
+ne? Se ni kapablus ni povus sendi mesaĝon por ekhavi la novan sagon."
+
+"Tafinjo," diris Tegumo, "kiom ofte mi diris al vi ne uzi slangon?
+'Terure' ne estas plaĉa vorto, -- sed ja _estus_ tre utile, nun kiam vi
+diras, se ni povus skribi hejmen."
+
+Ĝuste tiam iu Fremdulo-viro venis laŭlonge de la rivero, sed li
+apartenis al malproksima tribo, la Tevaroj, kaj li ne komprenis eĉ
+vorton de la lingvo de Tegumo. Li staris sur la bordo kaj ridetis
+al Tafinjo, ĉar li havis sian propran knabino-filinon hejme. Tegumo
+eltiris fasketon da rangifero-tendenoj el sia riparo-saketo kaj
+komencis ripari sian sagon.
+
+"Venu ĉi tien," diris Tafinjo. "Ĉu vi scias kie mia Panjo loĝas?" Kaj
+la Fremdulo-viro diris "Um!" -- estante, kiel vi scias, Tevaro.
+
+"Stulte!" diris Tafinjo, kaj ŝi stamfis per sia piedo, ĉar ŝi vidis
+aron da tre grandaj karpoj suprennaĝantaj la riveron ĝuste nun kiam ŝia
+Paĉjo ne povis uzi sian sagon.
+
+"Ne ĝenu al plenkreskuloj," diris Tegumo, tiel okupata de sia
+sago-riparado ke li eĉ ne turnis sin.
+
+"Mi nek ĝenas," diris Tafinjo. "Mi nur volas ke li faru kion mi volas
+ke li faru, kaj li ne komprenas."
+
+"Do ne ĝenu _min_," diris Tegumo, kaj li daŭrigis tiradon kaj streĉadon
+de rangifero-tendenoj kun sia buŝo plena de pecetoj. La Fremdulo-viro
+-- vera Tevaro li estis -- eksidis sur la herbo, kaj Tafinjo montris al
+li kion faras ŝia Paĉjo. La Fremdulo-viro pensis: "Ĉi tio estas mirakla
+infano. Ŝi stamfas per sia piedo antaŭ mi kaj ŝi faras grimacojn. Ŝi
+devas esti la filino de tiu nobla Tribestro kiu estas tiel eminenta, ke
+li ne volas rimarki min." Do li ridetis ankoraŭ pli ĝentile.
+
+"Nu," diris Tafinjo, "mi volas ke vi iru al mia Panjo, ĉar viaj kruroj
+estas pli longaj ol miaj, kaj vi ne falos en la kastoro-marĉon, kaj
+demandu pri la alia sago de Paĉjo -- tiu kun la nigra tenilo kiu pendas
+super nia fajrejo."
+
+La Fremdulo-viro (_kaj_ li estis ja Tevaro) pensis: "Ĉi tio estas
+tre, tre mirakla infano. Ŝi svingas siajn brakojn kaj ŝi krias al
+mi, sed mi komprenas neniun vorton de tio kion ŝi diras. Sed se mi
+ne faros kion ŝi volas, mi forte timas ke tiu memfiera Tribestro,
+Viro-kiu-turnas-sian-dorson-al-vizitantoj, estos kolera." Li ekstaris
+kaj deŝiris grandan platan pecon da ŝelo de betulo-arbo kaj donis ĝin
+al Tafinjo. Li faris tion, Plej Amata, por montri ke lia koro estas
+tiel blanka kiel betula ŝelo kaj ke li intencas nenion malbonan; sed
+Tafinjo ne tute komprenis.
+
+"Ho!" ŝi diris. "Mi komprenas! Vi volas la loĝ-adreson de mia Panjo?
+Kompreneble mi ne povas skribi, sed mi povos desegni bildojn se mi
+havos ion akran por grati. Bonvolu prunti al mi la ŝarkodenton de via
+kolĉeno."
+
+La Fremdulo-viro (kaj _li_ estis ja Tevaro) ne diris ion
+ajn, do Tafinjo levis sian maneton kaj tiris je la belega
+bido-kaj-semo-kaj-ŝarkodenta kolĉeno ĉirkaŭ lia kolo.
+
+La Fremdulo-viro (kaj li _estis_ ja Tevaro) pensis: "Ĉi tio estas
+tre, tre, tre mirakla infano. La ŝarkodento sur mia kolĉeno
+estas magia ŝarkodento, kaj oni ĉiam diris, ke se iu tuŝas ĝin
+sen mia permeso tiu senprokraste ŝvelos kaj eksplodos. Sed ĉi
+tiu infano ne ŝvelas kaj eksplodas, kaj tiu eminenta Tribestro,
+Viro-kiu-atentas-ekskluzive-siajn-proprajn-aferojn, kiu tute ne atentis
+min ĝis nun, ŝajne ne timas ke ŝi ŝvelos aŭ eksplodos. Mi prefere estu
+pli ĝentila."
+
+Do li donis al Tafinjo la ŝarkodenton, kaj ŝi ekkuŝis plate sur la
+ventro kun la kruroj en la aero, kiel iuj homoj kuŝas sur la planko en
+la loĝoĉambro kiam ili volas desegni bildojn, kaj ŝi diris: "Nun mi
+desegnos kelkajn belegajn bildojn por vi! Vi povas rigardi trans mia
+ŝultro, sed ne puŝu kontraŭ mi. Unue mi desegnos mian Paĉjon fiŝanta.
+Ne tre similas al li; sed Panjo scios, ĉar mi desegnis lian sagon
+rompita. Nu, nun mi desegnos la alian sagon kiun li volas havi, la
+sagon kun nigra tenilo. Aspektas kvazaŭ ĝi pikas en la dorson de Paĉjo,
+sed tio estas ĉar la ŝarkodento glitis kaj ĉi tiu peco da ŝelo ne estas
+sufiĉe granda. Tio estas la sago kiun mi volas ke vi alportu; do mi
+desegnos bildon de mi mem 'splikanta tion al vi. Miaj haroj ne tiel
+elstaras kiel mi desegnis ilin, sed estas pli facile desegni tiel. Nun
+mi desegnos vin. _Mi_ pensas ke vi estas tre plaĉa, vere, sed mi ne
+povas desegni vin plaĉa en la bildo, do ne estu 'fendita. Ĉu vi estas
+'fendita?"
+
+La Fremdulo-viro (kaj li estis _ja_ Tevaro) ridetis. Li pensis: "Ŝajnas
+ke granda batalo estas okazonta iuloke, kaj ĉi tiu eksterordinara
+infano, kiu prenas mian magian ŝarkodenton sed ne ŝvelas aŭ eksplodas,
+diras al mi ke mi alportu la tutan tribon de la eminenta Tribestro. Li
+_estas_ eminenta Tribestro, aliokaze li estus rimarkinta min."
+
+"Vidu," diris Tafinjo, desegnante tre forte kaj sufiĉe skrape, "nun
+mi desegnis vin, kaj mi metis la sagon kiun Paĉjo volas havi en vian
+manon, nur por memorigi ke vi alportu ĝin. Nun mi montros al vi kiel
+atingi la loĝ-adreson de Panjo. Vi iru ĝis vi alvenos ĉe du arboj (jen
+la arboj), kaj tiam vi transiros monteton (jen monteto), kaj tiam vi
+venos al kastoro-marĉo plena de kastoroj. Mi ne enmetis la tutajn
+kastorojn, ĉar mi ne povas desegni kastorojn, sed mi desegnis iliajn
+kapojn, kaj pli de ili vi ne vidos kiam vi trairos la marĉon. Atentu ke
+vi ne enfalos! Kaj tiam nia Kavo estas tuj malantaŭ la kastoro-marĉo.
+Ĝi ne estas tiel alta kiel la montetoj, fakte, sed mi ne povas desegni
+aferojn tre malgrande. Tio estas mia Panjo ekster la Kavo. Ŝi estas
+belega. Ŝi estas la plej plejbelega Panjo kiu iam ajn estis, sed ŝi ne
+estos 'fendita kiam ŝi vidos ke mi desegnis ŝin tiel krude. Ŝi estos
+kontenta de mi ĉar mi scias desegni. Nu, por la kazo ke vi forgesus, mi
+desegnis la sagon kiun Paĉjo volas _ekster_ nia Kavo. Ĝi fakte estas
+_interne_, sed vi montru la bildon al mia Panjo kaj ŝi donos ĝin al
+vi. Mi desegnis ŝin kun levitaj brakoj, ĉar mi scias ke ŝi estos tre
+kontenta vidi vin. Ĉu ne belega bildo? Kaj ĉu vi bone komprenas, aŭ ĉu
+mi 'spliku denove?"
+
+La Fremdulo-viro (kaj li estis ja _Tevaro_) rigardis al la bildo kaj
+tre forte kapjesis. Li diris al si mem: "Se mi ne alportos la tribon
+de ĉi tiu eminenta Tribestro por helpi lin, li estos mortigita de
+siaj malamikoj kiuj venas de ĉiuj flankoj kun sagoj. Nun mi komprenas
+kial la eminenta Tribestro ŝajnigis ne rimarki min! Li timis ke liaj
+malamikoj kaŝiĝas en la arbustoj kaj vidus ke li donas mesaĝon al mi.
+Tial li turnis sian dorson al mi, kaj lasis la saĝan kaj miraklan
+infanon desegni la teruran bildon montrantan liajn malfacilaĵojn. Mi
+iros kaj alportos helpon de lia tribo." Li eĉ ne demandis Tafinjon
+pri la vojo, sed forrapidis en la arbustojn kiel la vento, kun la
+betulo-ŝelo en sia mano, kaj Tafinjo eksidis plej kontenta.
+
+Kaj jen la bildo kiun Tafinjo desegnis por li!
+
+"Kion vi estis faranta, Tafinjo?" diris Tegumo. Li estis riparinta sian
+sagon kaj singarde svingis ĝin tien kaj reen.
+
+"Estas iu priaranĝo de mia flanko, kara Paĉjo," diris Tafinjo. "Se vi
+ne faros demandojn al mi, vi ekscios pri ĝi post mallonga tempo, kaj vi
+surpriziĝos. Vi ne scias kiel multe vi surpriziĝos, Paĉjo! Promesu ke
+vi surpriziĝos."
+
+"Tre bone," diris Tegumo, kaj daŭrigis fiŝkaptadon.
+
+La Fremdulo-viro -- ĉu vi sciis ke li estis Tevaro? -- forrapidis
+kun la bildo kaj kuris kelkajn mejlojn, ĝis tute hazarde li trovis
+Teŝumaj Tevindraŭ sidantan ĉe la pordo de sia Kavo, parolantan al
+kelkaj aliaj Neolitikaj sinjorinoj kiuj estis alvenintaj por Primitiva
+lunĉo. Tafinjo tre similis al Teŝuma, precipe pri la supra parto de
+la vizaĝo kaj la okuloj, do la Fremdulo-viro -- daŭre pura Tevaro --
+ridetis ĝentile kaj transdonis al Teŝuma la betulo-ŝelon. Li estis
+kurinta rapide, kaj tial li anhelis, kaj liaj kruroj estis gratitaj pro
+rubusoj, sed li tamen provis esti ĝentila.
+
+Tuj kiam Teŝuma vidis la bildon ŝi ekkriĉis kiel io kaj saltis kontraŭ
+la Fremdulo-viron. La aliaj Neolitikaj sinjorinoj subite frapis lin
+sur teron kaj eksidis sur lin en longa vico sesope, dum Teŝuma tiris
+liajn harojn. "La konkludo elstaras kiel la nazo sur la vizaĝo de ĉi
+tiu Fremdulo-viro," ŝi diris. "Li plenpikis mian Tegumon per sagoj, kaj
+timigis povran Tafinjon tiel ke ŝiaj haroj ekstaris; kaj ne kontenta
+pri nur tio, li alportas al mi korŝiran bildon pri tio kiel estis
+farite. Vidu!" Ŝi montris la bildon al ĉiuj tiuj Neolitikaj sinjorinoj
+kiuj trankvile sidis sur la Fremdulo-viro. "Jen mia Tegumo kun rompita
+brako; jen sago pikas lian dorson; jen viro kun sago preta por ĵeti;
+jen alia viro ĵetanta sagon el Kavo, kaj jen tuta aro da homoj" (tio
+estis la kastoroj kiujn desegnis Tafinjo, fakte, sed ili pli similis al
+homoj) "venantaj malantaŭ Tegumo. Ĉu ne ŝoke!"
+
+"Treege ŝoke!" diris la Neolitikaj sinjorinoj, kaj ili plenigis la
+harojn de la Fremdulo-viro per koto (kio surprizis lin), kaj ili batis
+la Reeĥajn Tribajn Tamburojn, kaj kunvokis ĉiujn Estrojn de la Tribo
+de Tegumo, kun iliaj Hetmanoj kaj Dolmanoj, ĉiujn Negusojn, Vunojn
+kaj Aĥundojn de la organizaĵo, aldone al la Varlokoj, Angekokoj,
+Juju-viroj, Bonzoj, kaj la resto, kiuj decidis ke antaŭ ol ili forhakos
+la kapon de la Fremdulo-viro, li senprokraste konduku ilin al la rivero
+kaj montru kie li kaŝis la povran Tafinjon.
+
+Iom post iom la Fremdulo-viro (kvankam li estis Tevaro) fariĝis vere
+ĝenita. Ili estis plenigintaj liajn harojn sufiĉe dense per koto; ili
+estis rulintaj lin supren kaj malsupren sur akraj ŝtonetoj; ili estis
+sidintaj sur li en longa vico sesope; ili estis frape tuŝintaj kaj bate
+puŝintaj lin ĝis li apenaŭ povis spiri; kaj kvankam li ne komprenis
+ilian lingvon, li estis preskaŭ certa ke la nomoj kiujn la Neolitikaj
+sinjorinoj donis al li ne estis tre sinjorinecaj. Tamen, li nenion
+diris ĝis la tuta Tribo de Tegumo estis kolektiĝinta, kaj tiam li
+kondukis ilin al la bordo de rivero Vagajo, kaj tie ili trovis Tafinjon
+kiu faris lekanteto-ĉenojn, kaj Tegumon kiu zorge sagis malgrandajn
+karpojn per sia riparita sago.
+
+"Nu, vi _ja_ estis rapida!" diris Tafinjo. "Sed kial vi kunportis tiom
+multe da homoj? Kara Paĉjo, jen mia surprizo. _Ĉu_ vi surpriziĝis,
+Paĉjo?"
+
+"Tre," diris Tegumo; "sed tio fuŝis mian fiŝadon por la tuta tago.
+Kial la tuta kara, afabla, plaĉa, pura, trankvila Tribo estas ĉi tie,
+Tafinjo?"
+
+Kaj ili ja estis. Unuaj promenis Teŝumaj Tevindraŭ kaj la Neolitikaj
+sinjorinoj, firme tenantaj la Fremdulo-viron, kies haroj estis plenaj
+de koto (kvankam li estis Tevaro). Post ili venis la Ĉefa Estro,
+la Vica Estro, la Deputitaj kaj Asistaj Estroj (ĉiuj armitaj ĝis
+la supraj dentoj), la Hetmanoj kaj Centestroj, Rotestroj kun siaj
+Rotoj, kaj Dolmanoj kun siaj Taĉmentoj; Vunoj, Negusoj, kaj Aĥundoj
+iom pli malantaŭe (ankaŭ ili armitaj ĝis la dentoj). Post ili la
+Tribo en hierarĥia ordo, ekde posedantoj de kvar kavoj (po unu por
+ĉiu sezono), privata rangifero-stalo, kaj du salmo-saltejoj, ĝis
+feŭdaj kaj prognataj Komunuloj, semi-rajtantaj je duona ursofelo por
+vintraj noktoj, sep jardojn for de la fajro, kaj asignitaj servutuloj,
+rajtantaj je transproprietigo de skrapita medol-osto subherede (Ĉu
+ĉio tio ne estas belegaj vortoj, Plej Amata?). Ili ĉiuj estis tie,
+saltantaj kaj vokantaj, kaj ili timigis ĉiujn fiŝojn je dudekmejla
+distanco, kaj Tegumo dankis ilin per flua Neolitika oratoraĵo.
+
+Tiam Teŝumaj Tevindraŭ alkuris kaj kisis kaj ĉirkaŭbrakis Tafinjon vere
+tre multe; sed la Ĉefa Estro de la Tribo de Tegumo ekkaptis Tegumon ĉe
+la verto-volvaĵaj plumoj kaj skuis lin severe.
+
+"Ekspliku! Ekspliku! Ekspliku!" kriis la tuta Tribo de Tegumo.
+
+"Je la bona ĉielo!" diris Tegumo. "Lasu mian verto-volvaĵon! Ĉu iu ne
+povas rompi sian karpo-sagon sen ke la tuta kamparanaro ĵetas sin al
+li? Vi estas tre enmiksiĝema popolo."
+
+"Mi ne kredas ke vi fakte alportis la nigratenilan sagon de mia Paĉjo,"
+diris Tafinjo. "Kaj _kion_ vi faras al mia kara Fremdulo-viro?"
+
+Ili estis batpuŝantaj lin duope kaj triope kaj dekope ĝis liaj okuloj
+turniĝis kaj turniĝis. Li povis nur spasme spiri kaj montri al Tafinjo.
+
+"Kie estas la malbonaj homoj kiuj pikis vin per sagoj, mia kara?" diris
+Teŝumaj Tevindraŭ.
+
+"Ne estis ajn," diris Tegumo. "Mia sola vizitanto ĉi-matene estis la
+povra homo kiun vi klopodas sufokigi. Ĉu vi ĉiuj malbone sentas, aŭ ĉu
+vi estas malsanaj, ho Tribo de Tegumo?"
+
+"Li alvenis kun terura bildo," diris la Ĉefa Estro, -- "bildo kiu
+montris ke vi estas plena de sagoj."
+
+"E... um... -- Eble mi p'fere 'spliku ke _mi_ donis al li tiun bildon,"
+diris Tafinjo, sed ŝi ne sentis sin tre komforte.
+
+"Vi!" diris la Tribo de Tegumo ĉiuj kune.
+"Malgranda-persono-sen-bonaj-manieroj-kiu-devus-esti-frapata! Ĉu vi?"
+
+"Tafinjo kara, mi timas ke ekestos iom da problemoj," diris ŝia Paĉjo,
+kaj li metis sian brakon ĉirkaŭ ŝin, por ke ŝi ne zorgu.
+
+"Ekspliku! Ekspliku! Ekspliku!" diris la Ĉefa Estro de la Tribo de
+Tegumo, kaj li saltetis sur unu piedo.
+
+"Mi volis ke la Fremdulo-viro alportu la sagon de Paĉjo, do mi dezegnis
+ĝin," diris Tafinjo. "Ne estis aro da sagoj. Estis nur unu sago. Mi
+dezegnis ĝin trifoje por esti certa. Mi ne povas helpi ke aspektis
+kvazaŭ ĝi trafis la kapon de Paĉjo -- ne estis sufiĉe da loko sur la
+betulo-ŝelo; kaj tiuj aferoj kiujn Panjo nomas malbonaj homoj mi celis
+kastoroj. Mi dezegnis ilin por montri al li la vojon tra la marĉo; kaj
+mi dezegnis Panjon ĉe la buŝo de la Kavo kun ĝoja aspekto ĉar li estas
+kara Fremdulo-viro, kaj _mi_ pensas ke vi ĉiuj estas la plej plejstulta
+popolo en la mondo," diris Tafinjo. "Li estas tre plaĉa viro. Kial vi
+plenigis liajn harojn per koto? Lavu lin!"
+
+Neniu diris ion ajn dum longa tempo, ĝis la Ĉefa Estro ekridis; tiam la
+Fremdulo-viro (kiu almenaŭ estis Tevaro) ekridis; tiam Tegumo ekridis
+ĝis li falis dorse sternite sur la bordon; tiam la tuta Tribo ekridis
+pli multe kaj pli fuŝe kaj pli laŭte. La solaj homoj kiuj ne ridis
+estis Teŝumaj Tevindraŭ kaj ĉiuj Neolitikaj sinjorinoj. Ili estis tre
+ĝentilaj al ĉiuj siaj edzoj, kaj diris "idioto!" sufiĉe ofte.
+
+Tiam la Ĉefa Estro de la Tribo de Tegumo kriis kaj diris kaj kantis:
+"Ho, Malgranda-persono-sen-bonaj-manieroj-kiu-devus-esti-frapata, vi
+trafis grandiozan inventon!"
+
+"Mi ne planis; mi nur volis la sagon kun nigra tenilo de Paĉjo," diris
+Tafinjo.
+
+"Sed tamen. Ĝi _estas_ grandioza invento, kaj iam estonte la homoj
+nomos ĝin skribado. Nun temas ankoraŭ nur pri bildoj, kaj, kiel ni
+vidis hodiaŭ, bildoj ne estas ĉiam ĝuste komprenataj. Sed venos tempo,
+ho Bebo de Tegumo, kiam ni faros literojn -- ĉiujn dudek ses aŭ dudek
+ok aŭ kiom do -- kaj tiam ni kapablos kaj legi kaj skribi, kaj tiam ni
+ĉiam diros precize kion ni celas sen ajnaj eraroj. Nun la Neolitikaj
+sinjorinoj ellavu la koton el la haroj de la fremdulo!"
+
+"Mi ĝojos pri tio," diris Tafinjo, "ĉar, finfine, kvankam vi alportis
+ĉiun unuopan alian sagon de la Tribo de Tegumo, vi forgesis la
+nigratenilan de mia Paĉjo."
+
+Tiam la Ĉefa Estro kriis kaj diris kaj kantis: "Tafinjo kara,
+sekvontfoje kiam vi skribos bildo-leteron, vi prefere sendu kun ĝi
+homon kiu povas paroli nian lingvon, por klarigi pri kio temas. Al mi
+mem ne gravas, ĉar mi estas Ĉefa Estro, sed estas tre malbone por la
+resto de la Tribo de Tegumo, kaj, kiel vi vidas, estas surprizo por la
+fremdulo."
+
+Tiam ili adoptis la Fremdulo-viron (vera Tevaro el Tevarujo) kiel
+membron de la Tribo de Tegumo, ĉar li estis ĝentilhomo kaj ne faris
+problemojn pri la koto kiun la Neolitikaj sinjorinoj estis metintaj en
+liajn harojn. Sed de tiu tago ĝis la nuna (kaj mi supozas ke pri tio
+kulpas Tafinjo), tre malmulte da malgrandaj knabinoj iam ŝatis lerni
+legadon kaj skribadon. Plej multaj preferas desegni bildojn kaj ludi
+kun siaj Paĉjoj -- precize kiel Tafinjo.
+
+    --------------
+
+Tio ĉi estas la historio de Tafimaj Metalumaj ĉizita sur malnova
+dentego antaŭ tre longa tempo fare de la Antikvaj Popoloj. Se vi
+legas mian rakonton, aŭ laŭtlegigas ĝin, vi povas vidi kiel ĉio estas
+rakontata sur la dentego. La dentego estis parto de malnova triba
+trumpeto kiu apartenis al la Tribo de Tegumo. La bildojn oni gratis en
+ĝi per najlo aŭ io alia, kaj tiam la gratojn oni plenigis per nigra
+vakso, sed ĉiujn dividajn liniojn kaj la kvin malgrandajn rondetojn
+malsupre oni plenigis per ruĝa vakso. Kiam ĝi estis nova, estis iuspeca
+retaĵo de bidoj kaj konkoj kaj valoraj ŝtonoj je la fino; sed tio
+rompiĝis kaj perdiĝis -- ĉio krom la malgranda iometo kiun vi vidas.
+La literoj ĉirkaŭ la dentego estas magio -- Runa magio, -- kaj se vi
+povas legi ilin vi eltrovos ion iom novan. La dentego estas ebura --
+tre flava kaj defrotiĝinta. Ĝi mezuras du futojn laŭlonge kaj du futojn
+ĉirkaŭe, kaj pezas dek unu funtojn kaj naŭ uncojn.
+
+[bildo]
+
+
+
+
+KIEL LA ALFABETO ESTIS FARATA
+
+
+Tiam, unu semajnon post kiam Tafimaj Metalumaj (ni daŭre nomos ŝin
+Tafinjo, Plej Amata) faris tiun malgrandan eraron pri la sago de sia
+Paĉjo kaj la Fremdulo-viro kaj la bildo-letero kaj ĉio tio, ŝi denove
+iris fiŝi karpojn kun sia Paĉjo. Ŝia Panjo volis ke ŝi restu hejme kaj
+helpu pendigi pelto-felojn sur la grandajn sekigo-fostojn ekster ilia
+Neolitika Kavo, sed Tafinjo kaŝe foriris al sia Paĉjo tre frue, kaj
+ili fiŝkaptis. Subite ŝi komencis fari ridajn sonetojn, kaj ŝia Paĉjo
+diris: "Ne faru stulte, infano."
+
+"Sed ĉu ne estis incite!" diris Tafinjo. "Ĉu vi ne memoras kiel la Ĉefa
+Estro blovigis siajn vangojn, kaj kiel ridiga aspektis la Fremdulo-viro
+kun la koto en siaj haroj?"
+
+"Mi memoras," diris Tegumo. "Mi devis pagi du cervo-felojn -- molajn
+kun franĝoj -- al la Fremdulo-viro pro ĉio kion ni faris al li."
+
+"_Ni_ nenion faris al li," diris Tafinjo. "Estis Panjo kaj la aliaj
+Neolitikaj sinjorinoj -- kaj la koto."
+
+"Pri tio ni ne parolu," diris ŝia Paĉjo. "Ni lunĉu."
+
+Tafinjo prenis medol-oston kaj sidis muse silenta dum dek tutaj
+minutoj, dum ŝia Paĉjo gratis sur pecoj da betulo-ŝelo per ŝarkodento.
+Tiam ŝi diris: "Paĉjo, mi penzis pri sekreta surprizo. Vi faru sonon --
+iun ajn sonon."
+
+"Aa!" diris Tegumo. "Ĉu tio sufiĉas kiel komenco?"
+
+"Jes," diris Tafinjo. "Vi aspektas precize kiel karpo-fiŝo kun buŝo
+malferma. Diru ĝin denove, mi petas."
+
+"Aa! aa! aa!" diris ŝia Paĉjo. "Ne estu malĝentila al mi, filino mia."
+
+"Mi ne celas esti malĝentila, vere kaj senmensoge," diris Tafinjo.
+"Estas parto de mia sekreta-surprizo-pensaĵo. _Ja_ diru _aa_, Paĉjo,
+kaj tenu vian buŝon malferma en la fino, kaj pruntu al mi tiun denton.
+Mi desegnos buŝon de karpo-fiŝo plene-malferman."
+
+"Kial?" diris ŝia Paĉjo.
+
+"Ĉu vi ne komprenas?" diris Tafinjo, gratante plu sur la betulo-ŝelo.
+"Tio estos nia malgranda sekreta s'prizo. Kiam mi desegnos karpo-fiŝon
+kun malferma beko en la fulgo je la fundo de nia Kavo -- se Panjo ne
+protestos -- ĝi memorigos vin pri tiu _aa_-sono. Tiam ni povos ludi
+kvazaŭ estas mi, saltinta el la mallumo kaj s'prizinta vin per tiu sono
+-- same kiel mi faris en la kastoro-marĉo pasintvintre."
+
+"Ĉu vere?" diris ŝia Paĉjo, per la tono kiun plenkreskuloj uzas kiam
+ili vere atentas. "Daŭrigu, Tafinjo."
+
+"Aĥ fuŝe!" ŝi diris. "Mi ne povas desegni tutan karpo-fiŝon, sed mi
+povas desegni ion kio indikas buŝon de karpo-fiŝo. Ĉu vi ne scias
+kiel ili staras kun la kapo malsupre serĉantaj en la koto? Nu, jen
+estas kvazaŭa karpo-fiŝo (ni povas ludi ke la resto de ĝi ankaŭ estas
+desegnita). Jen nur ĝia buŝo, kaj tio signifas _aa_." Kaj ŝi desegnis
+jenon. (1)
+
+"Ne malbone," diris Tegumo, kaj gratis ankaŭ mem sur sia propra peco
+da betulo-ŝelo; "sed vi forgesis la sento-fadenon kiu pendas trans ĝia
+buŝo."
+
+"Sed mi ne kapablas desegni, Paĉjo."
+
+"Vi bezonas desegni nenion krom la malfermaĵo de ĝia buŝo kun la
+sento-fadeno transe. Tiam ni scios ke estas karpo-fiŝo, ĉar perkoj kaj
+trutoj ne havas sento-fadenojn. Rigardu nur, Tafinjo." Kaj li desegnis
+jenon. (2)
+
+"Nun mi kopios ĝin," diris Tafinjo. "Ĉu vi komprenos tion _ĉi_ kiam vi
+vidos ĝin?" Kaj ŝi desegnis jenon. (3)
+
+"Perfekte," diris ŝia Paĉjo. "Kaj mi estos same s'prizita kiam mi vidos
+ĝin ie ajn, kvazaŭ vi estus elsaltinta de malantaŭ arbo kaj dirinta
+'Aa!'"
+
+"Nun vi faru alian sonon," diris Tafinjo, tre fiera.
+
+"Jaa!" diris ŝia Paĉjo, tre laŭte.
+
+"H'm," diris Tafinjo. "Tio estas miksa sono. La fina parto estas la
+_aa_-karpo-fiŝo-buŝo; sed kion ni povas fari pri la komenca parto?
+_Je-je-je_ kaj _aa! Jaa!_"
+
+"Ĝi ja similas al la karpo-fiŝo-buŝo-sono. Ni desegnu plian parton de
+la karpo-fiŝo kaj ligu ilin," diris ŝia Paĉjo. Ankaŭ _li_ estis sufiĉe
+incitita.
+
+"Ne. Se ili estas ligitaj, mi forgesos. Prefere desegnu ĝin aparte. Kaj
+prefere ne parton de karpo-fiŝo, sed la hokon per kiu ni foje kaptas
+ĝin," diris Tafinjo.
+
+"Bona ideo," diris Tegumo. "Jen fiŝ-hoko por la _je_-sono." Kaj li
+desegnis jenon. (4)
+
+"Nun mi provos," diris Tafinjo. "'Moru ke mi ne povas desegni kiel vi,
+Paĉjo. Ĉu sufiĉos se mi desegnos nur la hokon, sen la truo por meti la
+fadenon?" Kaj ŝi desegnis jenon. (5)
+
+Ŝia Paĉjo kapjesis, kaj liaj okuloj estis lume brilaj pro 'citiĝo.
+
+"Belege," ŝi diris. "Nun vi faru alian sonon, Paĉjo."
+
+"Oo!" diris ŝia Paĉjo, tre laŭte.
+
+"Tio estas tre facila," diris Tafinjo. "Vi faras vian buŝon ronda kiel
+ovo aŭ ŝtono. Do ovo aŭ ŝtono taŭgos por tio."
+
+"Oni ne ĉiam povas trovi ovon aŭ ŝtonon. Ni devos grati ion
+rondan-similan." Kaj li desegnis jenon. (6)
+
+"Kara ĉielo!" diris Tafinjo, "kiom multe da sono-bildoj ni jam faris,
+-- karpo-buŝo, fiŝ-hoko, kaj ovo! Nun vi faru alian sonon, Paĉjo."
+
+"Ssŝ!" diris ŝia Paĉjo, kaj kuntiris siajn brovojn, sed Tafinjo estis
+tro incitita por rimarki tion.
+
+"Tio estas tre facila," ŝi diris, gratante sur la arboŝelo.
+
+"E... kio?" diris ŝia Paĉjo. "Mi celis ke mi estas pensanta, kaj ne
+volas esti ĝenata."
+
+"Tamen estas sono. Estas la sono kiun serpento faras, Paĉjo, kiam ĝi
+pensas kaj ne volas esti ĝenata. Ni faru por la ssŝ-sono serpenton. Ĉu
+tio taŭgos?" Kaj ŝi desegnis jenon. (7)
+
+"Jen," ŝi diris. "Jen plia s'prizo-sekreto. Kiam vi desegnos siblan
+serpenton ĉe la pordo de via malgranda krom-kavo kie vi riparas la
+sagojn, mi scios ke vi forte pensas; kaj mi eniros tute muse-kviete.
+Kaj se vi desegnos ĝin sur arbo ĉe la rivero kiam vi estos fiŝanta, mi
+scios ke vi volas ke mi paŝu _plej_ muse-kviete, por ne skui la bordon."
+
+"Tute tiel," diris Tegumo. "Kaj estas pli en ĉi tiu ludo ol vi pensas.
+Tafinjo kara, mi havas impreson ke la filino de via Paĉjo trafis je
+la plej bela afero kiu iam estis post kiam la Tribo de Tegumo ekuzis
+ŝarkodentojn anstataŭ iuj akraj ŝtonfrapaĵoj kiel pintojn por la sagoj.
+Mi kredas ke ni trovis _la_ grandan sekreton de la mondo."
+
+"Kial?" diris Tafinjo, kaj ankaŭ ŝiaj okuloj brilis pro incitiĝo.
+
+"Mi montros," diris ŝia Paĉjo. "Kio estas akvo en la Tegumo-lingvo?"
+
+"Kompreneble _ja_, kaj tio signifas ankaŭ 'rivero' -- kiel Vagaj-_ja_
+-- rivero Vagajo."
+
+"Kio estas malbona akvo kiu donas al vi febron kiam vi trinkas ĝin --
+nigra akvo -- marĉo-akvo?"
+
+"Kompreneble _jo_."
+
+"Nun vidu," diris ŝia Paĉjo. "S'pozu ke vi vidus ĉi tion gratitan
+flanke de akvo-truo en la kastoro-marĉo?" Kaj li desegnis jenon. (8)
+
+"Fiŝ-hoko kaj ronda ovo. Du sonoj miksitaj! _Jo_, malbona akvo," diris
+Tafinjo. "'Preneble mi ne trinkus tiun akvon ĉar mi scius ke vi diras
+ke ĝi estas malbona."
+
+"Sed mi ne bezonus esti ĉe la akvo, tute ne. Mi povus esti mejlojn for,
+ĉasante, kaj tamen --"
+
+"Kaj _tamen_ estus precize same kvazaŭ vi starus tie kaj dirus: 'For,
+Tafinjo, aŭ vi havos febron.' Ĉio tio en fiŝ-hoko kaj ronda ovo! Ho
+Paĉjo, ni devas rakonti tion al Panjo, rapide!" Kaj Tafinjo dancadis
+ĉirkaŭ li en tuta rondo.
+
+"Ne jam," diris Tegumo; "ne ĝis ni havos pli. Ni vidu. _Jo_ estas
+malbona akvo, sed _so_ estas manĝo kuirita sur fajro, ĉu ne?" Kaj li
+desegnis jenon. (9)
+
+"Jes. Serpento kaj ovo," diris Tafinjo. "Do tio signifas ke manĝo estas
+preta. Se vi vidus tion gratitan sur arbo, vi scius ke estas tempo por
+veni al la Kavo. Ankaŭ mi."
+
+"Ververe!" diris Tegumo. "Ankaŭ prave. Sed atendu momenton. Mi vidas
+problemon. _So_ signifas 'venu kaj manĝu', sed _ŝo_ signifas la
+sekigo-fostojn kie ni pendigas niajn pelto-felojn."
+
+"Aĉaj aĝaj sekigo-fostoj!" diris Tafinjo. "Mi tre malŝatas kiam Panjo
+petas min por pendigi pezajn pluŝajn peltojn sur ilin. Se vi desegnus
+serpenton kaj ovon, kaj mi pensus ke temas pri manĝo, kaj mi venus el
+la arbaro kaj rimarkus ke ĝi signifis ke mi helpu al Panjo pendigi la
+pelto-felojn sur la sekigo-fostojn, kion _tiam_ mi farus?"
+
+"Vi estus kolera. Panjo ankaŭ. Ni devas fari novan bildon por _ŝo_. Ni
+devas desegni makulitan serpenton kiu faras _ŝ-ŝ_, kaj ni ludos ke la
+senmakula faras nur _ssss_."
+
+"Mi ne certus kiel meti la makulojn," diris Tafinjo. "Kaj eble kiam
+_vi_ rapidus vi forgesus meti ilin, kaj mi pensus ke estas _so_ dum
+estas _ŝo_, kaj tiam Panjo kaptus min tamen. _Ne!_ Mi pensas ke ni
+aldonu tiujn aĉajn altajn sekigo-fostojn _mem_, por esti _tute_ certaj.
+Mi metos ilin malantaŭ la siblan serpenton. Rigardu!" Kaj ŝi desegnis
+jenon. (10)
+
+"Mi pensis ke vi celas malantaŭ kiel _post_," diris ŝia Paĉjo. Kaj li
+desegnis jenon. (11)
+
+"Ankaŭ eblus," diris Tafinjo. "Sed tiam ni eble pensus ke temas pri
+_du_ sonoj, dum temas pri _unu_."
+
+"Eble vi pravas. Ĉiuokaze tre similas al niaj sekigo-fostoj,"
+diris ŝia Paĉjo, ridanta. "Nun mi faros novan sonon kun la
+serpento-kaj-sekigo-fosto-sono en ĝi. Mi diras _ŝi_. Tio estas Teguma
+por sago, Tafinjo." Kaj li ridis.
+
+"Ne ridu pri mi," diris Tafinjo, pensante pri sia bildo-letero kaj la
+koto en la haroj de la Fremdulo-viro. "_Vi_ desegnu ĝin, Paĉjo."
+
+"Ni ne aldonos kastorojn aŭ montetojn ĉi-foje, ĉu?" diris ŝia Paĉjo.
+"Mi desegnos nur rektan linion por mia sago." Kaj li desegnis jenon.
+(12)
+
+"Eĉ Panjo ne povus erare pensi ke oni mortigas min," li diris.
+
+"Mi _petas_, ne faru, Paĉjo. Mi eksentas malkomforte pro tio. Faru iom
+pli da sonoj. Ni tiel bele progresas."
+
+"E... h'm!" diris Tegumo, supren rigardante. "Ni diru _ŝu_. Tio
+signifas 'ĉielo'."
+
+Tafinjo desegnis la serpenton kaj la sekigo-foston. Tiam ŝi haltis. "Ni
+devas fari novan bildon por tiu fina sono, ĉu ne?"
+
+"_Ŝu-ŝu-u-u-u!_" diris ŝia Paĉjo. "Kial? Ĝi tre similas al tiu
+ronda-ovo-sono iom maldikigita."
+
+"Do s'pozu ke ni desegnos maldikan rondan ovon, kaj kvazaŭos ke ĝi
+estas rano kiu dum jaroj nenion manĝis."
+
+"Ne-ne," diris ŝia Paĉjo. "Se ni desegnus tion haste ni povus
+miskompreni kaj pensi ke temas pri la ronda ovo mem. _Ŝu-ŝu-ŝu!_ _Mi_
+diros al vi kion ni faros. Ni faros malgrandan truon je la fino de la
+ronda ovo por montri ke la o-sono prononciĝas maldike kun malgranda
+truo de buŝo, _oo-uu-uu_. Tiel." Kaj li desegnis jenon. (13)
+
+"Tre bone kaj bele! Multe pli bone ol maldika rano. Daŭrigu," diris
+Tafinjo, utiligante sian ŝarko-denton.
+
+Ŝia Paĉjo daŭrigis desegnadon, kaj lia mano skuiĝis pro incitiĝo. Li
+daŭrigis ĝis li estis desegninta jenon. (14)
+
+"Ne rigardu supren, Tafinjo," li diris. "Provu eltrovi kion tio
+signifas en Teguma lingvo. Se vi povas, ni ja trovis la Sekreton."
+
+"Serpento -- fosto -- rompita-ovo -- fiŝ-hoko kaj karpo-buŝo," diris
+Tafinjo. "_Ŝu-ja_. Ĉiel-akvo (pluvo)." Ĝuste tiam guto falis sur ŝian
+manon, ĉar la ĉielo plennubiĝis. "Nu, Paĉjo, pluvas. Ĉu _tion_ vi volis
+diri al mi?"
+
+"Kompreneble," diris ŝia Paĉjo. "Kaj mi diris tion al vi ne dirante eĉ
+unu vorton, ĉu ne?"
+
+"Nu, mi _pensas_ ke mi estus eksciinta post minuto, sed tiu pluvoguto
+certigis. Mi nun por ĉiam memoros. _Ŝu-ja_ signifas 'pluvo', aŭ
+'pluvos'. Nu do, Paĉjo!" Ŝi ekstaris kaj dancis ĉirkaŭ li. "S'pozu ke
+vi elirus antaŭ ol mi vekiĝis, kaj dezegnis _ŝu-ja_ en la fulgo sur
+la vando, tiam mi scius ke pluvos kaj mi prenus mian kastoro-felan
+pluvo-ĉapon. Ĉu Panjo ne estus surprizita!"
+
+Tegumo ekstaris kaj dancis. (Paĉjoj ne hontis fari tiajn aferojn en
+tiuj tempoj.) "Pli ol! Pli ol!" li diris. "S'pozu ke mi volus diri al
+vi ke ne multe pluvos kaj ke vi venu al la rivero, kion ni desegnus?
+Diru la vortojn en Tegumo-lingvo unue."
+
+"_Ŝu-ja-las, ja maru_. (Ĉiel-akvo finiĝas. Rivero venu.) _Kiom_ da
+novaj sonoj! _Mi_ ne scias kiel ni povos desegni ilin."
+
+"Sed mi ja -- sed mi ja!" diris Tegumo. "Nur atendu momenton, Tafinjo,
+kaj ni ĉesos por hodiaŭ. Ni jam havas _ŝu-ja_, ĉu ne? sed tiu _las_
+estas enigma. _La-la-la!_" kaj li svingis sian ŝarkodenton.
+
+"Estas la sibla serpento je la fino kaj la karpo-buŝo antaŭ la serpento
+-- _as-as-as_. Ni nur bezonas _la-la_," diris Tafinjo.
+
+"Mi scias, sed ni devas fari tiun _la-la_. Kaj ni estas la unuaj homoj
+en la mondo kiuj iam ajn provis fari tion, Tafimaj!"
+
+"Nu," diris Tafinjo, oscedanta, ĉar ŝi estis sufiĉe laca. "_Las_
+indikas krom finon aŭ finiĝon ankaŭ rompon, ĉu ne?"
+
+"Tiel estas," diris Tegumo. "_Ja-las_ signifas ke ne estas akvo en la
+rezervujo por ke Panjo kuiru kun ĝi -- ankaŭ kiam mi estas ĉasonta."
+
+"Kaj _ŝi-las_ signifas ke via sago estas rompita. Se mi nur estus
+pripensinta _tion_ anstataŭ desegni stultajn kastoro-bildojn por la
+Fremdulo-viro!"
+
+"_La! La! La!_" diris Tegumo, svingante sian bastonon kaj kuntirante
+siajn brovojn. "Ho ĝeno!"
+
+"Mi estus povinta desegni _ŝi_ tute facile," daŭrigis Tafinjo. "Kaj
+tiam mi estus desegninta vian sagon tute rompita -- tiel!" Kaj ŝi
+desegnis jenon. (15)
+
+"Tiel do," diris Tegumo. "Tio precize estas _la_. Ĝi krome ne similas
+al iu el la aliaj signoj." Kaj li desegnis jenon. (16)
+
+"Nun sekvas _ja_. Ho ne, tiun ni jam antaŭe faris. Do sekvas _maru_.
+_Mum-mum-mum._ Por _mum_ oni devas fermi la buŝon, ĉu ne? Ni desegnos
+fermitan buŝon kiel ĉi tiu." Kaj li desegnis. (17)
+
+"Tiam la karpo-buŝo malferma. Tiel ekestas _Ma-ma-ma!_ Sed kio pri tiu
+_rrrrr_-afero, Tafinjo?"
+
+"Ĝi sonas tute krude kaj angule, kiel via ŝarkodenta segilo kiam vi
+segas breton por la kanuo," diris Tafinjo.
+
+"Vi celas ke tute akre ĉe la randoj, kiel ĉi tio?" diris Tegumo. Kaj li
+desegnis. (18)
+
+"'Zakte," diris Tafinjo. "Sed ni ne bezonas ĉiujn tiujn dentojn: metu
+nur du."
+
+"Mi metos unu," diris Tegumo. "Se ĉi tiu nia ludo fariĝos tio kion mi
+pensas ke ĝi fariĝos, tiam ju pli facilaj estos la son-bildoj, des pli
+bone por ĉiuj." Kaj li desegnis. (19)
+
+"_Jen_ ni sukcesis," diris Tegumo, starante sur unu kruro. "Mi desegnos
+ilin ĉiujn kune kiel ĉeno da fiŝoj."
+
+"Ĉu ni ne prefere metu peceton da bastono aŭ ion similan inter ĉiu
+vorto, tiel ke ili ne interfrotiĝu kaj interpuŝiĝu kvazaŭ estus karpoj?"
+
+"Ho, mi lasos spacon por tio," diris ŝia Paĉjo. Kaj tre incitite li
+desegnis ilin ĉiujn senhalte, sur granda nova peco da betulo-ŝelo. (20)
+
+"_Ŝu-ja-las ja maru_," diris Tafinjo, legante ĝin sonon post sono.
+
+"Tio sufiĉas por hodiaŭ," diris Tegumo. "Cetere, vi laciĝas, Tafinjo.
+Ne gravas, kara. Ni finos la tuton morgaŭ, kaj tiam ni estos
+rememorataj dum jaroj kaj jaroj ĝis post kiam la plej grandaj arboj
+kiujn vi povas vidi estos ĉiuj dehakitaj por brulligno."
+
+Do ili iris hejmen, kaj dum tuta tiu vespero Tegumo sidis je unu flanko
+de la fajro kaj Tafinjo je la alia flanko, desegnante _ja_-ojn kaj
+_jo_-ojn kaj _ŝu_-ojn kaj _ŝi_-ojn en la fulgo sur la vando kaj faris
+ridajn sonetojn kune ĝis ŝia Panjo diris: "Vere, Tegumo, vi estas eĉ
+pli malbona ol mia Tafinjo."
+
+"Bonvolu ne ĝeniĝi," diris Tafinjo. "Estas nur nia sekreta s'prizo,
+Panjo kara, kaj ni rakontos al vi pri ĝi en la momento kiam ĝi estos
+preta; sed mi _petas_, ne demandu nun kio ĝi estas, ĉar aliokaze mi
+devus diri."
+
+Do ŝia Panjo tute zorge ne demandis; kaj tute frue la sekvantan
+matenon Tegumo iris al la rivero por pensi pri novaj son-bildoj, kaj
+kiam Tafinjo ellitiĝis ŝi vidis _Ja-las_ (akvo finiĝas aŭ elĉerpiĝas)
+kalkita sur la flanko de la granda ŝtona akvo-rezervujo, ekster la Kavo.
+
+"Um," diris Tafinjo. "Ĉi tiuj son-bildoj estas fakte ĝenaj! Paĉjo tute
+bone estus povinta veni ĉi tien mem por rakonti ke mi prenu pli da akvo
+por ke Panjo povu kuiri kun ĝi." Ŝi iris al la fonto malantaŭ la domo
+kaj plenigis la rezervujon per arboŝela sitelo, kaj tiam ŝi kuris al la
+rivero kaj tiris la maldekstran orelon de sia Paĉjo -- la orelo kiun ŝi
+rajtis tiri kiam ŝi estis obeema.
+
+"Nun sidu apud mi kaj ni desegnos la restantajn son-bildojn," diris ŝia
+Paĉjo, kaj ili havis tre incitan tagon da tio, kaj belegan lunĉon en la
+mezo, kaj ili dufoje petololuktis. Kiam ili alvenis al T, Tafinjo diris
+ke ĉar ŝia nomo, kaj tiu de ŝia Paĉjo, kaj de ŝia Panjo ĉiuj komenciĝas
+per tiu sono, ili desegnu ian familian grupon, ilin mem, man-en-mane.
+Tio estis taŭga por desegni unufoje aŭ dufoje; sed kiam ili devis
+desegni ĝin sesfoje aŭ sepfoje, Tafinjo kaj Tegumo desegnis ĝin pli kaj
+pli skize, ĝis finfine la T-sono estis nur iu maldika longa Tegumo kun
+etenditaj manoj por teni Tafinjon kaj Teŝuman. De ĉi tiuj tri bildoj vi
+vidos parte, kiel tio okazis. (21, 22, 23)
+
+Multaj el la aliaj bildoj estis multe tro belaj en la komenco, precipe
+antaŭ la lunĉo; sed kiam ili estis desegnataj denove kaj denove sur
+betulo-ŝelo, ili fariĝis pli krudaj kaj pli facilaj, ĝis fine eĉ Tegumo
+diris ke li ne trovas eraron en ili. Ili turnis la siblan serpenton por
+la Z-sono, por montri ke ĝi siblas malantaŭen en malforta kaj milda
+maniero (24); kaj ili faris nur iun kirlon por E, ĉar ĝi tiom ofte
+aperis en la bildoj (25); kaj ili desegnis bildojn de _Biba_, la sankta
+Kastoro de la Tegumoj por la B-sono (26, 27, 28, 29); kaj ĉar temis
+pri naza sono, ili nur desegnis nazojn por la N-sono, ĝis ili laciĝis
+(30); kaj ili desegnis bildon de la buŝo de la granda laga ezoko por la
+graka G-sono (31); kaj ili desegnis la ezokan buŝon denove kun sago ĉe
+ĝi por la kraka K-sono (32); kaj ili desegnis pecon de Vagajo-rivero
+por la V-sono (33, 34); kaj tiel plu kaj tiel pli kaj tiel ankoraŭ ĝis
+ili faris kaj desegnis ĉiujn son-bildojn kiujn ili volis, kaj jen la
+Alfabeto, kompleta kaj preta.
+
+Kaj post miloj kaj miloj da jaroj, post la Hieroglifaj, kaj Demotaj,
+kaj Nilotaj, kaj Kriptaj, kaj Kufaj, kaj Runaj, kaj Doriaj, kaj Ioniaj,
+kaj Ĉiaj Aliaj skribaĵoj kaj signoj (ĉar la Vunoj, kaj la Negusoj, kaj
+la Aĥundoj, kaj la Gardantoj de la Tradicio neniam lasis ion bonan
+senŝanĝa kiam ili rimarkis ĝin), la bona malnova simpla, komprenebla
+Alfabeto -- A, B, C, kaj ĉiuj aliaj literoj -- ekhavis denove siajn
+ĝustajn formojn por ke ĉiuj Plej Amataj lernu ilin kiam ili estas
+sufiĉe aĝaj.
+
+Sed _mi_ memoras pri Tegumaj Bopsulaj, kaj Tafimaj Metalumaj kaj
+Teŝumaj Tevindraŭ, ŝia kara Panjo, kaj ĉiuj forpasintaj tagoj. Kaj tiel
+estis -- tiel do -- antaŭ longa tempo -- sur la bordo de la granda
+Vagajo!
+
+    --------------
+
+Unu el la unuaj aferoj kiujn Tegumaj Bopsulaj faris post kiam Tafinjo
+kaj li estis produktintaj la Alfabeton, estis farado de magia
+Alfabeto-kolĉeno de ĉiuj literoj, tiel ke ĝi povis esti metita en la
+Templon de Tegumo por esti konservata por ĉiam kaj eterne. La tuta
+Tribo de Tegumo alportis siajn plej valorajn bidojn kaj belaĵojn, kaj
+Tafinjo kaj Tegumo dediĉis kvin tutajn jarojn por pretigi la kolĉenon.
+Jen bildo de la magia Alfabeto-kolĉeno. La ŝnuro estas farita el la
+plej bonkvalita kaj fortika rangifero-tendeno, ĉirkaŭvindita per
+maldika kuprofadeno.
+
+Komence ĉe la supro, la unua bido estas iu malnova kaj arĝenta kiu
+apartenis al la Ĉefa Pastro de la Tribo de Tegumo; tiam venas tri
+mitulo-perloj; poste argila bido (blua kaj griza); poste bula ora bido
+sendita de tribo kiu ĝin ricevis el Afriko (sed ĝi devis esti veninta
+el Hindujo origine); la sekvanta estas longa, platflanka vitra bido
+el Afriko (la Tribo de Tegumo akiris ĝin per batalo); tiam venas du
+argilaj bidoj (blanka kaj verda), kun punktoj sur unu, kaj punktoj kaj
+strekoj sur la alia; poste tri sufiĉe defrapitaj sukcenaj bidoj; tiam
+tri argilaj bidoj (ruĝa kaj blanka), du kun punktoj, kaj la granda en
+la mezo kun dento-motivo. Tiam la literoj komenciĝas, kaj inter la
+literoj estas ĉiufoje malgranda blankeca argila bido kun la litero
+ripetita malgrande. Jen la literoj: --
+
+  A estas gratita en denton -- eono-dento, mi kredas.
+  B estas la Sankta Kastoro de Tegumo sur peco de malnova eburo.
+  C estas perleca ostro-konko -- interno antaŭe.
+  D devas esti iuspeca mitulo-konko -- ekstero antaŭe.
+  E estas kirlaĵo el arĝento-fadeno.
+  F estas rompita, sed kio restas estas peco de cervo-korno.
+  G estas pentrita nigre sur peco da ligno. (La bido post G estas
+     malgranda konketo, kaj ne argila bido. Mi ne scias kial.)
+  H estas iuspeca bruna kaŭrio-konko, ankaŭ nomata monkonko.
+  I estas la interno de longa konko permane ŝlifita. (Tegumo
+     bezonis tri monatojn por ŝlifi ĝin.)
+  J estas fiŝ-hoko el perlamoto.
+  L estas la rompita sago, el arĝento. (K devus sekvi al J,
+     kompreneble; sed la kolĉeno iam rompiĝis kaj oni neĝuste
+     riparis ĝin.)
+  K estas maldika tranĉaĵo de osto, gratita kaj per nigra
+     vakso enfrotita.
+  M estas sur pale-griza konko.
+  N estas peco de io kion oni nomas porfiro kun nazo gratita sur
+     ĝi.(Tegumo bezonis kvin monatojn por poluri ĉi tiun ŝtonon.)
+  O estas peco de ostro-konko kun truo en la mezo.
+  P mankas. Ĝi perdiĝis antaŭ longa tempo en granda milito, kaj
+     la Tribo riparis la kolĉenon per sekigitaj knariloj de
+     knaroserpento; pri la perdo kaj serĉado de la P ili faradis
+     kantojn kaj versaĵojn, kiujn ili nomis _po-emoj_.
+  R estas, kompreneble, simple ŝarko-dento.
+  S estas malgranda arĝenta serpento.
+  T estas la fino de malgranda osto, bruna kaj brile polurita.
+  U estas denove peco de ostro-konko.
+  Ŭ estas du pecoj de perlamoto kiujn ili trovis en granda
+     perlamoto-konko, kaj elsegis per fadeno trempita en
+     sablo-kun-akvo. Tafinjo bezonis unu kaj duonan monaton por
+     poluri ilin kaj bori la truojn.
+  ^ estas du kunligitaj arĝentaj fadenoj kiuj rememorigu la
+     super-signajn sekigo-fostojn, kiuj jam ne plu similis al H.
+     Kial ĝi troviĝas en tiu loko, mi ne scias.
+  V estas desegnita sur peco de eburo.
+  Z estas sonoril-forma peco de agato kiu surhavas Z-formajn
+     striojn. Ili faris la Z-serpenton el unu el la strekoj
+     forpikante la pli molan ŝtonon kaj enfrotante ruĝan sablon
+     kaj abelvakson. En la buŝo de la sonorilo vi vidas la argilan
+     bidon kun ripeto de la litero Z.
+
+Jen ĉiuj literoj. La sekvanta bido estas malgranda verdeca bulo da
+kupro-erco; poste bulo da kruda turkiso; poste kruda peco da oro (kion
+oni nomas akvo-oro); poste melonforma argila bido (blanka kun verdaj
+punktoj). Tiam venas kvar plataj eburaj pecoj, kun punktoj sur ili
+kvazaŭ domeno-brikoj; tiam venas tri ŝtonaj bidoj, tre foruziĝintaj;
+tiam du bidoj el mola fero kun rusto-truetoj ĉe la anguloj (ili devis
+esti magiaj, ĉar ili aspektas tre nespecialaj); kaj fine estas tre tre
+malnova Afrika bido, kvazaŭ vitra -- blua, ruĝa, blanka, nigra, kaj
+flava. Tiam venas maŝo por ligi tiun finon al la granda arĝenta butono
+je la alia flanko, kaj jen ĉio.
+
+Mi kopiis la kolĉenon tre zorgeme. Ĝi pezas unu funton kaj sep uncojn
+kaj duonon. La nigra makulaĵo malantaŭ ĝi estas metita nur por ke la
+bidoj kaj aliaj aĵoj pli bone aspektu.
+
+[bildo]
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Tiel do, by Rudyard Kipling
+
+*** END OF THIS PROJECT GUTENBERG EBOOK TIEL DO ***
+
+***** This file should be named 48900-0.txt or 48900-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/8/9/0/48900/
+
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+This particular work is one of the few individual works protected
+by copyright law in the United States and most of the remainder of the
+world, included in the Project Gutenberg collection with the
+permission of the copyright holder. Information on the copyright owner
+for this particular work and the terms of use imposed by the copyright
+holder on this work are set forth at the beginning of this work.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

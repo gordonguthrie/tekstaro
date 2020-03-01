@@ -1,0 +1,5849 @@
+﻿The Project Gutenberg EBook of Makbeto, by William Shakespeare
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Makbeto
+
+Author: William Shakespeare
+
+Translator: Lambert D. H.
+
+Release Date: January 8, 2015 [EBook #47913]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MAKBETO ***
+
+
+
+
+Produced by Andrew Sly, Brenda Lewis, Keith Edkins and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This book was produced from scanned images of public
+domain material from the Google Print project.)
+
+
+
+
+
+[Illustration]
+
+SHAKESPEARE
+
+MAKBETO
+
+Tradukita de
+
+D. H. LAMBERT, B. A. (Oxford)
+
+Fratulo de la Brita Esperantista Asocio
+Profesoro aprobita de la S. F. p. p. E.
+
+[Illustration]
+
+PARIS
+
+LIBREJO HACHETTE KAJ Kio
+
+79, BOULEVARD SAINT-GERMAIN, 79
+
+1908
+
+Tous droits réservés.
+
+
+
+
+AL LA FRANCA ESPERANTISTARO
+
+
+
+
+ANTAŬPAROLO.
+
+
+_El la kvar famekonataj tragedioj, «Hamleto» prezentas al ni la karakteron
+de homo, kontraŭbatalanta kontraŭ grava devo, por kies plenumo li sin
+sentas tro malforta, «Otelo» la terurajn rezultatojn de ĝeloza spirito,
+«Julio Cezaro» la funkciadon internan de nobla animo (tiu de Bruto), kiu
+sin dediĉas al la supermezura tasko de patrujamulo, alvokita al la
+restarigo de popolaj rajtoj: «Makbeto» tamen ekscitas nian simpation al
+bravulo, ankaŭ patrujamulo, sed kiu, antaŭenpuŝata de sia edzino kaj de
+povoj supernaturaj, atingas la celon de sia ambicio per krimoj, spite la
+avertado de sia konscienco. La moralaĵo ne bezonas klarigon, kaj
+rememorigas al ni la Nemesison de la grandaj antikvaj grekaj dramoj, kiu
+ĉiam sekvas la postsignojn de malbonfarintoj. En neniu parto de nia nacia
+poeto sin trovas pli belaj frazaroj, pli brila imagado, pli profunda kono
+de la homa naturo._
+
+_Mi forlasas mian gravan taskon al la indulga tralegado de la
+Esperantistaro._
+
+D. H. LAMBERT.
+
+
+
+
+MAKBETO
+
+Dramo en kvin aktoj
+
+
+
+
+PERSONOJ
+
+
+  DUNKANO, reĝo de Skotlando.
+
+  MALKOMO   } filoj de Dunkano.
+  DONALBENO }
+
+  MAKBETO   } generaloj de la reĝa militistaro.
+  BANKVO    }
+
+  MAKDUFO   }
+  LENOKSO   }
+  ROSSO     } nobeloj de Skotlando.
+  MENTETO   }
+  ANGUSO    }
+  KATNESO   }
+
+  FLEANCO, filo de Bankvo.
+  SIVARDO, grafo de Nordhumberlando, generalo de la angla militistaro.
+  JUNA SIVARDO, filo de la grafo de Nordhumberlando.
+  SETONO, oficiro el la sekvantaro de Makbeto.
+  FILO DE MAKDUFO.
+  ANGLA KURACISTO.
+  SKOTA KURACISTO.
+  SERĜENTO.
+  PORDISTO.
+  MALJUNULO.
+  ŜIA GRAFINA MOŜTO MAKBETO.
+  ŜIA GRAFINA MOŜTO MAKDUFO.
+  SINJORINO el la sekvantaro de Ŝia Grafina Moŝto Makbeto.
+  HEKATEO.
+  TRI SORĈISTINOJ.
+  Nobeloj, sinjoroj, oficiroj, soldatoj, mortigistoj, servistoj kaj
+          sendatoj.
+  La Spirito de Bankvo, kaj aliaj fantomoj.
+
+
+_La agado havas lokon en Skotlando; escepte je la fino de la kvara akto,
+kiam ĝi havas lokon en Anglujo._
+
+
+
+
+MAKBETO
+
+
+
+
+AKTO UNUA
+
+
+SCENO UNUA
+
+VASTA ERIKEJO. FULMOTONDRAS.
+
+Venas TRI SORĈISTINOJ.
+
+
+  UNUA SORĈISTINO.
+
+  Ĉu ni, dum la fulmo skuas
+  Kverkojn, kaj la tondro bruas,
+  Nin revidos?
+
+  DUA SORĈISTINO.
+
+               Post movado
+  Kaj batiĝ' de batalado.
+
+  TRIA SORĈISTINO.
+
+  Tiam nia reeliro
+  Estos antaŭ sunsubiro.
+
+  UNUA SORĈISTINO.
+
+  Kie?
+
+  DUA SORĈISTINO.
+
+       Sur la erikejo.
+
+  TRIA SORĈISTINO.
+
+  Kun Makbet' la renkontejo.
+
+  UNUA SORĈISTINO.
+
+  Venas mi, ho katspirito!
+
+  DUA SORĈISTINO.
+
+  Bufspirito vokas min. Baldaŭ, baldaŭ!
+
+  ĈIUJ.
+
+  La malbelo estas bela
+  Al ni, kaj la bel' malbela.
+  Flugu ni tra la aero,
+  L' abomena atmosfero.
+                                                     Sorĉistinoj malaperas.
+
+
+SCENO DUA
+
+TENDARO APUD FORESO.
+
+Trumpetado post la scenejo. Venas la reĝo DUNKANO, MALKOMO, DONALBENO,
+LENOKSO, kun sia sekvantaro. Ili renkontas vunditan serĝenton.
+
+
+  DUNKANO.
+
+  Ho, kiu estas tiu sangkovrito?
+  Li ŝajne povos doni la plej novan
+  Rakonton pri l' ribelo.
+
+  MALKOMO.
+
+                          Tiu estas
+  Serĝento, kiu kun bravec' batalis,
+  Por ke mi ne kaptiĝu per la manoj
+  De malamikoj.
+
+                Mi salutas vin,
+  Vi kuraĝulo, mia kamarado.
+  Klarigu al la reĝo, kiel staris
+  L' afero, kiam vi forlasis ĝin.
+
+  SERĜENTO.
+
+  La rezultato ŝajnis same duba,
+  Ol kiam forta paro da naĝantoj,
+  Plektitaj kune per la lacaj brakoj,
+  Malhelpas la ekzercon de l' naĝarto.
+  La senkompata Makdonaldo (inda
+  Je l' nom' de ribelanto, ĉar spiriton
+  Li havas la malbonan de l' diablo)
+  Aregon amasigis konfuzitan
+  El sia okcidenta insularo,
+  Kaj per la helpo de ŝanĝema sorto
+  La malbenito jam sukcesis.—Tamen
+  Makbeto,—kiu plene la titolon
+  Meritas de heroo,—glav' en mano,
+  Jam sangkolora pro senĉesaj agoj
+  De batalad', bravulo sen komparo
+  Eltranĉis vojon inter batalantoj,
+  Ĝis Makdonaldon li, vizaĝo kontraŭ
+  Vizaĝo, ekatakis, kaj rapide
+  Li senceremonie lian kapon,
+  Laŭ du duonoj distranĉitan, fiksis
+  Sur la remparojn de kastelo nia.
+
+  DUNKANO.
+
+  Ho kuraĝulo, mia brava kuzo!
+
+  SERĜENTO.
+
+  Kiel ŝippereigaj fulmotondroj
+  Naskiĝas en kvieta regiono,
+  En kiu la ĝojiga suno brilas,
+  Tiel de l' fonto mem de la feliĉo
+  Aperis malfeliĉo:—reĝo nobla,
+  Apenaŭ la justec' la insulanojn
+  Devigis kuri, kiam jen la reĝo
+  De Norveguj' l' okazon profitante,
+  Kun bataliloj nove poluritaj,
+  Kaj fortaj kaj senlacaj soldataroj
+  Komencis nin ataki.
+
+  DUNKANO.
+
+                      Ĉu ne tio
+  Timigis Bankvon kaj Makbeton?
+
+  SERĜENTO.
+
+                                Vere,
+  Sammaniere kiel la paseroj
+  Timigas aglojn, la lepor' leonon!
+  Por al vi doni la rakonton veran:
+  Kun la fortego de l' Vulkan' forĝanta,
+  Je l' malamikoj ili martelumis,
+  Kvazaŭ banontaj sin en ruĝa sango,
+  Kaj konstruontaj domon el kranioj;
+  Sed mi ne scias—mi svenema estas—
+  Alportu kuracilojn por la vundoj.
+
+  DUNKANO.
+
+  Paroloj viaj kaj la vundoj vin
+  Honorindigas. Ho! la kuracistojn
+  Venigu!
+                                                              Eniras Rosso.
+  Sed kiu venas?
+
+  MALKOMO.
+
+                 L' inda Graf' de Rosso.
+
+  LENOKSO.
+
+  Mieno lia montras maltrankvilon,
+  Kvazaŭ strangaĵojn li rakontos.
+
+  ROSSO.
+
+                                    Dio
+  La reĝon gardu!
+
+  DUNKANO.
+
+                   Nobla graf', de kie
+  Vi venas?
+
+  ROSSO.
+
+            De Fiflando, alta reĝo.
+  Kie fiere flirtas la standardoj
+  Norvegaj, insultante la landanojn
+  Per la malvarma ventumado sia.
+  La reĝo mem kun granda soldataro,
+  Helpate de senhonta perfidulo,
+  Graf' de Kordor', komencis la batalon,
+  Ĝis, kvazaŭ sub la ŝildo de Belono,
+  Makbeto kontraŭstaris lian forton,
+  Kaj, en armaĵ' de l' kapo ĝis piedoj,
+  Al glav' de l' ribelanto sian glavon
+  Kuraĝe prezentante, fine restis
+  Venkinto.
+
+  DUNKANO.
+
+            Senmezure mi gratulas.
+
+  ROSSO.
+
+  Nun Sveno, reĝo de la Norvegujo,
+  Proponas la ĉesigon de l' batalo,
+  Por enterigi siajn mortigitojn;
+  Sed ni konsentis nur kondiĉe, ke
+  Li el la reĝa kest' dek mil dolarojn
+  Elspezu, por profito de la ŝtato.
+
+  DUNKANO.
+
+  Neniam plu la grafo de Kordoro
+  Malbonon faros kontraŭ nia lando;
+  Proklamu, ke li tuj ekzekutadon
+  Suferos, kaj Makbeto anstataŭos
+  Lin pri titolo kaj pri havo liaj.
+
+  ROSSO.
+
+  Ordonoj viaj baldaŭ plenumiĝos.
+
+  DUNKANO.
+
+  Makbet' rekompencinda nun posedos
+  De li perditajn juste la honorojn.
+
+                                                              Ĉiuj foriras.
+
+
+SCENO TRIA
+
+ERIKEJO. TONDRO BRUAS.
+
+Venas la TRI SORĈISTINOJ.
+
+
+  UNUA SORĈISTINO.
+
+  Kien vi iris, fratino?
+
+  DUA SORĈISTINO.
+
+  Por mortigi porkojn.
+
+  TRIA SORĈISTINO.
+
+  Fratino, kien vi?
+
+  UNUA SORĈISTINO.
+
+  Maristedzino havis sur genuoj
+  Kaŝtanojn, manĝadante, manĝadante.
+  «Ho, al mi donu» diris mi. «Foriru»,
+  Senhonte la malbelulino kriis!
+  Foriris ŝia edzo al Alepo,
+  Ŝipestro de la Tigro:
+  Sed ha! sen velo aŭ remilo,
+  Travojaĝante en kribrilo,
+  Mi venĝos min al ŝi.
+
+  DUA SORĈISTINO.
+
+  Mi al vi donos fortan venton.
+
+  UNUA SORĈISTINO.
+
+  Koran dankon kaj konsenton.
+
+  TRIA SORĈISTINO.
+
+  Duan venton donos mi.
+
+  UNUA SORĈISTINO.
+
+  Mi da ventoj havas pli,
+  Kaj de ĉiu ĉielparto
+  Mi alportos, per sorĉarto,
+  La blovegon kiel vipon
+  Por batadi lian ŝipon.
+  Ĉiunokte vekiĝema,
+  Li fariĝos malgrasema,
+  Ĉar la iompostioma
+  Velko estos superhoma;
+  Kvankam li la vivon savos,
+  Li la ŝippereon havos.
+  Jen vidu!
+
+  DUA SORĈISTINO.
+
+            Montru, montru.
+
+  UNUA SORĈISTINO.
+
+  Dikan fingron de piloto,
+  Kiu estis dronigoto!
+                                                   Tamburado post la sceno.
+
+  TRIA SORĈISTINO.
+
+  Aŭdu, kia tamburado!
+  De Makbeto la parado.
+                                             Ili dancas ĉirkaŭ la kaldrono.
+
+  ĈIUJ.
+
+  Ĉiuloken kurieroj
+  Tra la maroj kaj la teroj,
+  Man' en mano, tri knabinoj,
+  Ni rondiras sortulinoj.
+  Fojojn tri por vi, knabino,
+  Tri por ĉiu sorĉistino,
+  Ĉar, vi scias, trio tria
+  Estas laŭ regulo nia.
+                                                  Venas Makbeto kaj Bankvo.
+
+  MAKBETO.
+
+  Taghorojn tiel belajn, en malbelajn
+  Ŝanĝitajn, jam neniam mi memoras.
+
+  BANKVO.
+
+  Kiom da mejloj ĝis Foreso?—Kiuj
+  Ĉi tiuj estas, kun vizaĝoj palaj
+  Kaj strangaj vestoj; kvazaŭ ili estus
+  Ne terloĝantoj, tamen staras sur
+  La tero? Ĉu vi vivas? Ĉu al vi
+  Demandojn fari ni nun povas? Ŝajne
+  Vi donas signojn de prudento homa,
+  Tuŝante ĉiu la malgrasajn lipojn
+  Per la maldika fingro:—Vi virinojn
+  Similas, sed la barboj min kredigas,
+  Ke vi ne estas tiaj.
+
+  MAKBETO.
+
+  Se eble diru, kiuj estas vi?
+
+  UNUA SORĈISTINO.
+
+  Makbet', salutojn, grafo de Glamiso!
+
+  DUA SORĈISTINO.
+
+  Makbet', salutojn, grafo de Kordoro!
+
+  TRIA SORĈISTINO.
+
+  Makbet', salutojn, la estonta reĝo!
+
+  BANKVO.
+
+  Sinjoro, kial tremas vi pro timo
+  De profetaĵoj tiel feliĉigaj?
+  Ĉu vi fantaziaĵoj de l' imago
+  Nur estas, aŭ en vero tio, kio
+  Vi ŝajnas esti? Vi salutas mian
+  Kunulon, lin ĝentile gratulante
+  Pri nuna la favor', kun antaŭdiroj
+  Pri nobeliĝ' estonta, kaj esperoj
+  Eĉ pri reĝeco de li atingebla,
+  Igantaj lin distrita esti: vi
+  Al mi nenion diras. Se vi havas
+  La antaŭscion pri la estonteco,
+  Do tion, kion sort' mistera naskos,
+  Al mi sciigu, kiu nek petegas
+  Favorojn, nek minacojn viajn timas.
+
+  UNUA SORĈISTINO.
+
+  Salutojn!
+
+  DUA SORĈISTINO.
+
+            Salutojn!
+
+  TRIA SORĈISTINO.
+
+                      Salutojn!
+
+  UNUA SORĈISTINO.
+
+  Pli malgranda ol Makbeto,
+  Kaj pli granda.
+
+  DUA SORĈISTINO.
+
+                  Malfeliĉa,
+  Tamen ol li pli feliĉa.
+
+  TRIA SORĈISTINO.
+
+  Vi, ne reĝo, reĝojn naskos.
+  Do Makbet' kaj Bankv', salutojn!
+
+  UNUA SORĈISTINO.
+
+  Bankvo kaj Makbet', salutojn!
+
+  MAKBETO.
+
+  Parolintinoj pri sekretoj, haltu;
+  Klarigu; pro la morto de Sinelo
+  Mi nepre estas grafo de Glamiso,
+  Sed kiel de Kordoro? De Kordoro
+  La grafo vivas en prospero plena,
+  Kaj, ke mi reĝ' fariĝos, nekredinde
+  Estas egale kun la lasta diro.
+  Klarigu do, de kie vi ricevis
+  Novaĵon tiel strangan? kaj por kio
+  Sur tiu ĉi dezerta erikejo
+  Vi nin haltigas por proklamoj tiaj.
+  Parolu, mi ordonas.
+                                                  La sorĉistinoj malaperas.
+
+  BANKVO.
+
+  La tero, same kiel l' akvo, havas
+  Vezikojn; ili estas samaspecaj.
+  Sed kien ili neniiĝis?
+
+  MAKBETO.
+
+                          En
+  L' aeron ĉio tio, kio ŝajnis
+  Korphava, fluidiĝis, same kiel
+  Vaporo en la venton. Se nur ili
+  Ĉi tie restus!
+
+  BANKVO.
+
+                  Ĉu en vero antaŭ
+  Okuloj niaj ili sin prezentis,
+  Aŭ ĉu ni manĝis tiun frenezigan
+  Radikon, kiu la prudenton homan
+  Dormigas?
+
+  MAKBETO.
+
+  Infanoj viaj estos reĝoj.
+
+  BANKVO.
+
+                            Vi
+  Mem reĝo estos.
+
+  MAKBETO.
+
+                   Ankaŭ grafo de
+  Kordoro, ĉu ne vere?
+
+  BANKVO.
+
+                        Jes, precize
+  Laŭ tiu melodio. Kiu venas?
+                                                    Venas Rosso kaj Anguso.
+
+  ROSSO.
+
+  La reĝo ĝoje aŭdis la rakonton,
+  Makbet', pri la sukceso via, kaj
+  Sciinte, kiel vi la vivon riskis,
+  Kontraŭstarante la ribelantaron,
+  Ŝanceliĝante inter la deziro
+  Sufiĉe vin laŭdadi, kaj l' admiro
+  Al tiaj heroaĵoj, li silentis:
+  Kaj poste inter la norvegaj vicoj
+  Li trovas vin senlace batalantan,
+  Netimigitan per terura morto,
+  Al kiu vi aliajn sendis.
+  Kaj kiel dum la vintra nordblovego
+  Hajlero post hajlero falas teren,
+  Tiele kurier' post kuriero
+  Konfirmis la novaĵon, laŭdegante
+  Al nia reĝo la konduton vian
+  En la defendo de reĝregno lia.
+
+  ANGUSO.
+
+  Ni venas por saluti vin dankeme
+  De lia reĝa moŝto:
+  Heroldoj kvazaŭ, por vin alkonduki
+  Al li ni mem, ne por vin rekompenci.
+
+  ROSSO.
+
+  Kaj, kiel garantio de honoro
+  Pli granda, kiu sekvos, li ordonis
+  Ke mi vin nomu grafo de Kordoro:
+  Per kiu do titolo nun tutkore
+  Mi vin salutas, nobla grafo, ĉar
+  Ĝi estas via.
+
+  BANKVO.
+
+                 Kion! Ĉu paroli
+  Al ni la veron la diablo povas?
+
+  MAKBETO.
+
+  La grafo de Kordoro vivas: kial
+  Vi vestas min per roboj ne la miaj?
+
+  ANGUSO.
+
+  Jes, tiu, kiu ĝis nun estis grafo,
+  Ankoraŭ vivas, kondamnito tamen
+  Laŭ la verdikto justa de la reĝo.
+  Ĉu kun la Norvegaro li kuniĝis,
+  Aŭ per sekreta help' la ribelantojn
+  Subtenis, aŭ kun ambaŭ kunlaboris,
+  Por ruinigo de patrujo sia,
+  Ne scias mi: sed perfidaĵoj kontraŭ
+  La reĝaland' pruvitaj, kaj de li
+  Eĉ konfesitaj, lin detruis.
+
+  MAKBETO.
+
+                              (Flanken.) Ha!
+  Glamiso mi, kaj grafo de Kordoro:
+  Venonta tamen estas la plej granda.
+  (Al Rosso kaj Anguso.) Por via ĝentileco korajn dankojn.
+  Ĉu vi ne preĝas, ke infanoj viaj
+  (Al Bankvo.) Regnestroj estu, kiam tiuj, kiuj
+  Min nomis grafo de Kordor', promesis,
+  Ke ili seĝon honorindan havos?
+
+  BANKVO.
+
+  Se vi al tiu diro volus fidi,
+  Vi povus kredi eĉ, ke la reĝeco
+  Al vi, Kordoro, estas atingebla.
+  Mirinde tamen estas, ĉar tre ofte
+  Por malbonigi la animojn niajn
+  L' inferaj potenculoj veron diras,
+  Kaj en aferoj bonaj niajn korojn
+  Per malgrandaĵoj gajnas, faligontaj
+  Nin poste en aliaj, kiuj traktas
+  Esperojn niajn pri ĉiela vivo,
+  Por pereigi nin.
+                                                     (Al Rosso kaj Anguso.)
+  Kun vi parolon, kuzoj.
+
+  MAKBETO.
+
+                         (Flanken.) Du veraĵoj
+  Diritaj estas, kvazaŭ la prologoj
+  Al la majesta akto, kiu faros
+  La prezentadon de la reĝa temo.
+                                                     (Al Rosso kaj Anguso.)
+  Mi dankas vin. (Flanken.) Ĉi tiu instigado
+  Supernatura certe povas esti
+  Nek bona, nek malbona;—la rezonoj
+  Ĝin pruvas.—Se malbona, kial certan
+  Ĝi faris jam promeson pri sukceso?—
+  Mi estas grafo de Kordor';—se bona,
+  Kial al sugestio cedi, kies
+  Fantaziaĵ' terura rigidigas
+  Hararon mian, kaj la koron igas
+  Batadi nenature, malgraŭ ĝia
+  Fikseco, kontraŭ miaj ripoj? Timo
+  Estanta ŝajnas malpli konfuziga,
+  Ol la imago pri estonta faro:
+  L' ideo teruriga pri mortigo
+  Animon mian tiel forte skuas,
+  Ke la agado restas nur pensado,
+  Kaj nur la estonteco sin prezentas
+  Al la spirito mia.
+
+  BANKVO.
+
+                     Ho kunuloj,
+  Rigardu kiel nia kamarado
+  Distrita estas.
+
+  MAKBETO.
+
+                  (Flanken.) Se la sorto faros
+  Min reĝo, sorto sen agado mia
+  Min ankaŭ kronu.
+
+  BANKVO.
+
+                    Vidu, li surmetas
+  Honorojn novajn, kiel novajn vestojn,
+  Al kiuj ni bezonas ĉiam tempon,
+  Por kutimiĝi al ilia uzo.
+
+  MAKBETO.
+
+  (Flanken.) Okazu kio ajn, per homa forto
+  Venkebla estas ĉio, krom la morto.
+
+  BANKVO.
+
+  Makbeto inda, ni deziron vian
+  Atendas.
+
+  MAKBETO.
+
+           Mi pardonon vian petas,
+  Sinjoroj, forgesaĵojn rememori
+  Penante. Via daŭra afableco
+  Sur mia koro, kvazaŭ sur registro,
+                                                               (Al Bankvo.)
+  Skribita restas.—Iru ni al reĝo.—
+  Pripensu la okazintaĵon; juste
+  Ni, elkonsiderinte la aferon,
+  Pri ĝi parolu kune nekaŝeme.
+
+  BANKVO.
+
+  Plezure.
+
+  MAKBETO.
+
+  (Al Bankvo.) Do sufiĉe. (Al ĉiuj.) Ni foriru.
+
+                                                              Ĉiuj foriras.
+
+
+SCENO KVARA
+
+FORESO. SALONO EN LA PALACO.
+
+Trumpetado. Venas DUNKANO, MALKOMO, DONALBENO, LENOKSO, kaj ilia
+sekvantaro.
+
+
+  DUNKANO.
+
+  Ĉu la ekzekutado de Kordoro
+  Jam plenumiĝis? La komisiitoj
+  Revenis?
+
+  MALKOMO.
+
+           Ne ankoraŭ, via Moŝto.
+  Sed ĵus parolis mi kun ĉeestinto
+  Ĉe lia morto, kiu al mi diris
+  Ke siajn perfidaĵojn li konfesis
+  Tre malkaŝeme, petis la pardonon
+  De via reĝa moŝto, kaj spiriton
+  Penteman montris: lia adiaŭo
+  Al vivo lian vivon plej ornamis.
+  La morton li renkontis tiel, kiel
+  Volante la trezoron plej valoran
+  Forlasi, kvazaŭ nur senutilaĵon.
+
+  DUNKANO.
+
+  Neeble estas el vizaĝo homa
+  Diveni, kion lia kor' pripensas.
+  Al li mi vere estus konfidinta
+  La tutan mondon.
+                                  Venas Makbeto, Bankvo, Rosso, kaj Anguso.
+                   Kuzo plej fidinda.
+  La sento de maldankemeco mia
+  Min malĝojigis; ne egalvaloras
+  Meriton vian mia rekompenco,—
+  Se inter la pezil' kaj la pesilo
+  Egalapezo restus! Sed en vero
+  Ne elpagebla estas mia ŝuldo.
+
+  MAKBETO.
+
+  Deziro mia servi mian reĝon
+  Meriton sian portas. Via moŝto
+  Akceptu miajn devojn, kiuj celas
+  Servadi vian tronon kaj infanojn,
+  Nur plenumeblajn per konstanta zorgo
+  Protekti vian vivon kaj honoron.
+
+  DUNKANO.
+
+  Alproksimiĝu, brava militisto,
+  Vi estas la plantaĵo mia, ĉiam
+  Klopodos mi, ke vi kreskadu plene.
+  Ho nobla Bankvo, ankaŭ meritinda
+  Vi estas, kaj bonfamo via iru
+  Tra l' mondo: do mi ĉirkaŭprenu vin,
+  Kaj ĉe la koro tenu.
+
+  BANKVO.
+
+                        Se mi tie
+  Fariĝos fruktodona, la rikolton
+  Akceptu, reĝo mia.
+
+  DUNKANO.
+
+                      Kortuŝite
+  Pro troo de ĝojeco, mi la larmojn
+  De malĝojeco sentas: filoj, grafoj,
+  Parencoj, kaj plej karaj, sciu ĉiuj
+  Ke ni ordonas, ke reĝrajtojn niajn
+  Malkomo nia fil' plejaĝa havu,
+  Kaj lin ni nomas Princ' de Kumberlando,
+  Kaj li ne nur titole honoriĝu.
+  Sed nobeligosignojn, kvazaŭ astroj,
+  Sur ĉiujn meritintojn mi lumigos.
+  For, for, al Inverneso, kie ni
+  Per plej intimaj sentoj kunaliĝos.
+
+  MAKBETO.
+
+  Mi mem fariĝos la antaŭiranto,—
+  Por plezurigi la edzinon mian
+  Pri la alven' de via reĝa Moŝto;—
+  Do forpermeson petas.
+
+  DUNKANO.
+
+                        Ĝis revido.
+
+  MAKBETO.
+
+  (Flanken.) La Princ' de Kumberlando! Tiu estos
+  Nesuperebla malhelpaĵo, aŭ
+  Mi povos supersalti ĝin, ĉar meze
+  De vojo mia kuŝas ĝi. Vi steloj,
+  Lumigu ne al miaj nigraj celoj:
+  L' okulo ekdormeme palpebrumu,
+  La man' dezirojn miajn elplenumu.
+                                                                   Foriras.
+
+  DUNKANO.
+
+  Jes, nobla Bankvo, li bravulo estas:
+  Kaj liajn farojn laŭdi mi laciĝos
+  Neniam, kvazaŭ ĝuus mi senĉesan
+  Festenon. Ni rapidu por ĉeesti
+  En lia domo, kien li antaŭe
+  Foriris, por gasteme nin akcepti:
+  Senegalulo estas li.
+
+                                                   Tamburado. Ĉiuj foriras.
+
+
+SCENO KVINA
+
+INVERNESO. ĈAMBRO EN LA KASTELO DE MAKBETO.
+
+Venas ŜIA GRAFINA MOŜTO MAKBETO, legante leteron.
+
+
+ŜIA GRAFINA MOŜTO.
+
+«Ili renkontis min dum la tago de mia sukceso; kaj per la rezultato mi
+konstatis, ke ili posedas scion supernaturan;—kiam mi deziregis fari pluajn
+demandojn, ili fariĝis aero, en kiu ili malaperis.—Dum mi staris distrite
+miregigita, alvenis senditoj de l' reĝo, kiuj min salutis «Grafo de
+Kordoro», per kiu titolo antaŭe la sortulinoj min salutis, antaŭdirinte la
+estontecon per, «Al vi salutojn, la estonta reĝo!» Ĉi tion mi kredis bone
+sciigi al vi, la plej kara partoprenantino en mia nobeliĝo, por ke vi
+kunĝoju kun mi, sciante bone la nobeligon promesitan. Tion atente pripensu,
+kaj adiaŭ.»
+
+  Glamis' vi estas, kaj Kordor', kaj estos...
+  Laŭ la promeso. Mi malfidas tamen
+  Naturon vian, kiu tro posedas
+  Da homa bonkoreco, por sin turni
+  Al tia senkompata entrepreno.
+  Vi celas nobelecon; la gloramo
+  Al vi ne mankas, sed la harditeco
+  Per kiu la gloramo devos agi.
+  La altajn celojn volas vi atingi
+  Honeste, vi deziras la rikolton
+  Maljuste akiritan ĝui, tamen
+  Vi timas entrepreni la rimedojn,
+  Per kiuj havo estas atingebla.
+  Ĉi tien venu, ke mi la kuraĝon
+  Al vi enspiru kaj per la pikilo
+  De mia lang' incitu vin al ĉio,
+  Per kio vi posedos l' aŭreolon
+  De l' pov' supernatura de la sorto,
+  Al vi, por la kronado, promesitan.
+                                                            Venas servisto.
+  Pri kio vi alkuras?
+
+  SERVISTO.
+
+                      Nia reĝo
+  Hodiaŭ nokte tien ĉi alvenos.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Vi freneziĝas: ĉu ne via mastro
+  Kun li sin trovas? kaj, se estus vere,
+  Li min sciigus pri la pretigado.
+
+  SERVISTO.
+
+  Sed, al vi plaĉu, estas vere: venas
+  La grafo; unu el kunuloj miaj
+  Lin antaŭiras tiel rapidege,
+  Ke li apenaŭ inter la spiregoj
+  Novaĵon tiun povis al mi diri.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Prizorgu lin, senditon pri gravaĵoj.
+                                                          Servisto foriras.
+  Raŭkvoĉa estas eĉ la korvo, kiu
+  Proklamas la eniron de Dunkano
+  Sub nian remparitan fortikaĵon.
+  Alproksimiĝu, vi spiritoj, kiuj
+  Direktas homajn pensojn, nun, mi petas,
+  Malvirinigu, kaj plenigu min
+  De l' kapo ĝis piedoj je kruela
+  Senkompatec'! Densigu mian sangon,
+  Vi baru ĉiujn eblajn alirejojn
+  Al pento, tiel ke nenia sento
+  Bedaŭra pri la celo teruriga
+  Ŝancelu min, nek inter ĝi kaj ĝia
+  Efiko estu iu ripoztempo!—
+  Vizitu miajn mamojn, kaj la lakton
+  En galon ŝanĝu, vi servantspiritoj
+  Mortigaj, kie ajn vi, nevideblaj
+  De la okuloj homaj, konspiradas,
+  La belon por difekti en naturo.
+  Nebula nokto, venu, en mantelo
+  De la plej densa fumo de l' infero,
+  Por ke armilo mia ne ekvidu
+  La ŝiron per tranĉrando sia akra
+  Faritan, nek la ĉieluloj, tra
+  Mallumo rigardante, ekkriegu:
+  «Ho, haltu, haltu!»
+                                                             Venas Makbeto.
+                      Jen vi honorinda
+  Glamis'! Kordoro nobla! salutota
+  Estonte per eĉ pli majesta nomo:
+  Leteroj viaj igis min transpasi
+  La nesciantan nunon, kaj mi sentas
+  Ke l' estonteco jen ĉeestas.
+
+  MAKBETO.
+
+                                Kara
+  Edzin', hodiaŭ nia reĝo venas.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Kaj kiam li foriros?
+
+  MAKBETO.
+
+                       Li intencas
+  Foriri morgaŭ.
+
+  ŜIA GRAFINA MOŜTO.
+
+                  Ho, foriron lian
+  Morgaŭa sun' neniam devas vidi!
+  Vizaĝo via, mia Grafa moŝto,
+  Similas libron, kies sur folioj
+  Strangaĵojn oni legas. Por pasigi
+  La tempon enmaskigu la vizaĝon,
+  Kaj faru la ŝajnigon de plezuro.
+  Per via mano, lango kaj okulo
+  La rolon ludu de la gastiganto:
+  Mienon havu de senkulpa floro,
+  Sed estu la vipero subkuŝanta.
+  La gaston, kiu venas, ni regalu;
+  Kaj dum ĉi tiu nokto vi konfidu
+  Al mi l' aferojn, kiuj dum la tagoj
+  Estontaj al ni donos la mastrecon,
+  Jes, la superregecon en la lando.
+
+  MAKBETO.
+
+  Ni plue kunparolos.
+
+  ŜIA GRAFINA MOŜTO.
+
+                      Ne, konstanta
+  La sintenado estu, la koloro
+  Ŝanĝita ĉiam montras malfortecon.
+  Al mi la faron lasu.
+
+                                                               Ili foriras.
+
+
+SCENO SESA
+
+INVERNESO. ANTAŬ LA KASTELO DE MAKBETO.
+
+Trumpetado kaj torĉoj. Venas DUNKANO, MALKOMO, DONALBENO, BANKVO, LENOKSO,
+MAKDUFO, ANGUSO, kaj ilia sekvantaro.
+
+
+  DUNKANO.
+
+  Kastelo tiu ĉi lokiĝis bone.
+  L' aero kun varmeta dolĉa spiro
+  La sentojn niajn ĉarme refreŝigas.
+
+  BANKVO.
+
+  Ĉi tiu vizitanto dum somero,
+  Amanto de sanktejoj, la hirundo
+  Konfirmas la impreson, ke ventetoj
+  Ĉielaj amindumas la naturon
+  Ĉi tie per spirado sia dolĉa:
+  Ne estas bret', apogo, nek angulo,
+  Sur kiu ĝi la neston ne konstruis,
+  Lulilon kvazaŭ, kie la idaro
+  Ripozas; mi observis ofte, kie
+  Ĉi tiuj birdoj naskas kaj loĝadas,
+  L' aero havas dolĉan bonodoron.
+                                           Venas Ŝia grafina Moŝto Makbeto.
+
+  DUNKANO.
+
+  Regalantino mia jen alvenas!
+  La amo nia kontraŭ vi kaj viaj
+  Bezonas dankon. Tiamaniere
+  Vi petu Dion, ke li rekompencu
+  Nin pro penadoj viaj, kiujn kaŭzis
+  La amo nia.
+
+  ŜIA GRAFINA MOŜTO.
+
+              Al vi nia servo,
+  Se eĉ pli ol centfoje plenumita,
+  Ne egaligus sin al la honoroj,
+  Per kies pezo via reĝa Moŝto
+  Nin ŝarĝas; pri la nunaj kaj antaŭaj
+  Ni ĉiam restos viaj petantuloj
+  Al la ĉielo.
+
+  DUNKANO.
+
+                Kie nun sin trovas
+  La grafo de Kordoro? Ni lin sekvis
+  Post la kalkanoj, por lin anstataŭi,
+  Kiel la pretigonto, sed li rajdis
+  Rapide, kaj intencoj liaj karaj
+  Lin antaŭ ni alportis hejmen. Nobla
+  Gastigantino, ni hodiaŭ nokte
+  La gasto via estas.
+
+  ŜIA GRAFINA MOŜTO.
+
+                      Ni, servantoj
+  De via Moŝto, metas la infanojn,
+  Propraĵon, kaj nin mem en vian konton,
+  Por ke, saldante ĝin dankeme, ni
+  Redonu tion, kio estas via.
+
+  DUNKANO.
+
+  La manon donu; kaj min enkonduku
+  Al mia gastiganto; ni lin amas
+  Tre kare kaj al li komplezojn niajn
+  Daŭrigos. Laŭ permes' afabla via.
+
+                                                               Ili foriras.
+
+
+SCENO SEPA
+
+LA KASTELO DE MAKBETO.
+
+Trumpetado kaj torĉoj. Venas festenordiganto kaj kelkaj servantoj,
+portantaj pladojn kaj manĝilaron, kiuj trapasas la scenejon. Poste venas
+MAKBETO.
+
+
+  MAKBETO.
+
+  Se la faraĵo estas plenumebla,
+  Ju pli farota baldaŭ, des pli bone.
+  Se post la mortigad' nenio restus
+  Timinda, kaj ni nur la rezultaton
+  De l' ago plenumita povus ĝui,—
+  Se, post ĉi tiu sola frapo, ni
+  Rigardi povus kun okul' trankvila
+  La estontecon de la homa vivo,
+  Sen tim' kaj sen teruro ni atendus
+  La vivon, kiu restas trans la tombo.
+  Sed eĉ sur tiu ĉi terglob' ni trovas
+  La punon pro Diaĵo ofendita,
+  Kaj tiuj samaj iloj, kiujn homoj
+  Pretigas kontraŭ siaj kunvivantoj,
+  Deturnas ofte la tranĉrandojn kontraŭ
+  La elpensintoj de malbonaj faroj.
+  La vinon venenitan por aliaj
+  Al ni justec' severa en pokalo
+  Prezentas, por ke ĝin ni mem eltrinku.
+  Al mi Dunkan' duoblamaniere
+  Konfidi rajtas; ĉar unue mi
+  Per sangligilo, kaj per sankta devo
+  Al mia reĝo estas devigata
+  La rolon ludi de amik' fidela;
+  Mi, due, kiel lia gastiganto,
+  La pordojn devus fermi, forte bari
+  Kontraŭ la mortigonto, ne mediti
+  Mi mem la morton lian; jen Dunkano
+  Kun tia majesteco sian tronon
+  Okupis, kaj la ŝarĝon de la reĝa
+  Ofico tiel sen kulpeco portis,
+  Ke liaj virtoj, kvazaŭ dianĝeloj,
+  Sonigus tondrobruan trumpetadon,
+  Mortigon lian kontraŭprotestante;
+  Kaj la kompat' enmaskigite kvazaŭ
+  Infano dolĉa, aŭ la kerubaro
+  Ĉiela, sur ĉevaloj nevideblaj
+  Tra la aer' radjante, la malpian
+  Faraĵon al la tuta mond' proklamus,
+  Kaj mar' da larmoj ĉion subakvigus.
+  Mi havas ne kuraĝon al l' afero,
+  Nur efektive la gloramon, kaj
+  Gloramo estas incitilo, kiu,
+  Spronante ĝis tro alta monta pinto,
+  Faligas homojn en profundegaĵon.
+                                                   Venas Ŝia grafina Moŝto.
+  Ho, kio nova?
+
+  ŜIA GRAFINA MOŜTO.
+
+                Ĵus la vespermanĝon
+  Li finis; kial vi de li eliris?
+
+  MAKBETO.
+
+  Ĉu li pri mi demandis?
+
+  ŜIA GRAFINA MOŜTO.
+
+                          Vi ne scias!
+
+  MAKBETO.
+
+  Ni ne antaŭeniru pri l' afero;
+  Li alte min honoris; kaj de ĉiuj
+  Reputacion oran mi akiris,
+  Brilegon kies devus mi konservi,
+  Ne lasi tiel baldaŭ makuliĝi.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Ĉu vi tro multe da espero trinkis
+  Hieraŭ, kaj post dormo vi vekiĝis,
+  Resaniĝinta de l' esperdiboĉo,
+  Pentema, palvizaĝa? De nuntempo
+  Mi scios kiel taksi vian amon.
+  Ĉu volas vi postmeti la kuraĝon
+  Post la deziro? Ĉu vi do rezignas
+  De vivo la plej noblan ornamaĵon,
+  Malkuraĝul' laŭ via propra sento,
+  Dirante, «volus mi, se mi kuraĝus»,
+  Simile al la kato, kiu timis
+  Pro piedmalsekiĝo kapti fiŝojn?
+
+  MAKBETO.
+
+  Mi petas vin, silentu: ĉion, kio
+  De vir' farebla estas, kiel viro
+  Mi farus; kiu fari pli kuraĝus
+  Ne estas viro.
+
+  ŜIA GRAFINA MOŜTO.
+
+                 Tial, kia besto
+  Instigis vin al tia entrepreno?
+  Ĉar, kiam vi kuraĝis ĝin elfari,
+  Vi estis viro; kaj ju pli vi ludus
+  La rolon proponitan, des pli viro
+  Vi estus. Nek la tempo nek la loko
+  Konvenis tiam, kaj vi volis ambaŭ
+  Eltrovi: ili nun tre decas, tamen
+  Ilia konveneco vin timigas.
+  Patrino mi la dolĉan senton konis,
+  Donante al suĉanta infaneto
+  Nutraĵon, dum ĝi ridetante kuŝis.
+  Sed la mampinton mi el la sendentaj
+  Dentkarnoj tirus, kaj al ĝi frakasus
+  Sur ŝtonojn kapon, se mi tion estus
+  Ĵurinta, kiel ĵuris vi pri l' faro.
+
+  MAKBETO.
+
+  Sed se ni malsukcesus.
+
+  ŜIA GRAFINA MOŜTO.
+
+                         Malsukcesus!
+  Firmigu tamen la kuraĝon vian,
+  Kaj ni ne malsukcesos. Dum Dunkano
+  Eldormos,—ĉar vojaĝo la laciga
+  Allogos dormon al okuloj liaj—
+  La du servistojn, kiuj staras garde,
+  Per vino kaj festeno malsobrigos
+  Mi tiel, ke memoro, la gardisto
+  De l' cerbo, estos vere nura fumo,
+  La domo, kie la prudento loĝas,
+  Similos alĥemian miksilujon.
+  Do kiam ili havos la spiritojn
+  En malmodera dormo entrempitajn,
+  Ho kion ni ne povos pri Dunkano
+  Neprotektata fari? kaj la kulpon
+  Aljuĝi al servistoj liaj, kiuj
+  Respondos pri ĉi tiu granda krimo?
+
+  MAKBETO.
+
+  Nur virinfanojn nasku, ĉar spirito
+  Sentima via devus sin enigi
+  En virojn sole. Ĉu ne oni kredos,
+  Post kiam ni ĉi tiujn dormemulojn
+  Per sang' ŝmirintaj estos, kaj iliajn
+  Ponardojn proprajn estos manuzintaj,
+  Ke ili estas liaj mortigintoj?
+
+  ŜIA GRAFINO MOŜTO.
+
+  Aliamaniere kiu kredi
+  Kuraĝos, kiam ni pri lia morto
+  Nekonsoleblan bruan funebradon
+  Elkrios?
+
+  MAKBETO.
+
+  Mi sentas nun animfortecon, ĉiun
+  El miaj membroj al ĉi tiu faro
+  Terure fortigante. For, la tempon
+  Kun ŝajno de senzorga ĝoj' pasigu,
+  Ridetoj kordoloron enmaskigu.
+
+                                                               Ili foriras.
+
+
+
+
+AKTO DUA
+
+
+SCENO UNUA
+
+INVERNESO. KORTO DE LA KASTELO DE MAKBETO.
+
+Venas BANKVO, kaj FLEANCO, portante antaŭ li torĉon.
+
+
+  BANKVO.
+
+  Kioma horo, knabo?
+
+  FLEANCO.
+
+  La luno jam subiris: sed horbaton
+  Mi ne ankoraŭ aŭdis.
+
+  BANKVO.
+
+                         Lunsubiro
+  Okazas je l' dek-dua.
+
+  FLEANCO.
+
+                        Pli malfrue,
+  Mi kredas.
+
+  BANKVO.
+
+             Bone; prenu mian glavon.
+  En la ĉielo regas mastrumado
+  Ŝparema, ĉiuj lampoj estingiĝis.
+  Ĉi tion ankaŭ prenu. Forta voĉo
+  Alvokas min ripozi, sed mi sentas
+  Min maldormema: bonaj potenculoj,
+  Min gardu de l' abomenindaj pensoj
+  Malbonigantaj min dum la dormado!
+                                    Eniras Makbeto, kaj Servisto kun torĉo.
+  Al mi la glavon donu. Kiu venas?
+
+  MAKBETO.
+
+  Amiko.
+
+  BANKVO.
+
+  Ĉu vi ne enlitiĝis? Jam la reĝo
+  Kuŝiĝis, tre plezurigita estis,
+  Kaj al servistoj viaj malavare
+  Disdonis el la reĝa kesto. Ankaŭ,
+  Jen, per ĉi tiu diamanto vian
+  Edzinon li salutas, ŝin nomante
+  Gastigantino plej aminda, poste
+  Li kontentege sin retiris.
+
+  MAKBETO.
+
+                             Niaj
+  Deziroj fari taŭga la akcepton
+  Al lia reĝa moŝto iom mankis
+  Pro malpreteco, difektanta nian
+  Bonvolon.
+
+  BANKVO.
+
+            Ne, sufiĉas. Lastan nokton
+  Al mi en sonĝo la tri sortulinoj
+  Aperis: ili al vi diris veron.
+
+  MAKBETO.
+
+  Mi ilin ne pripensas: tamen, kiam
+  Ni havos ian horon disponeblan,
+  Pri tiu temo kun vi konsiliĝi
+  Mi volus, se al vi agrable estas.
+
+  BANKVO.
+
+  Plezure.
+
+  MAKBETO.
+
+           Se mi povos vin enskribi
+  Kun partianoj miaj, sen honoro
+  Ne estos via helpo.
+
+  BANKVO.
+
+                      Se honoron
+  La mian mi konservos,—dum mi celas
+  Ĝin plibriligi,—kaj senmakulite
+  Neriproĉinda mian fidelecon
+  Mi gardos ĉiam, mi konsilon vian
+  Tre ĝoje partoprenos.
+
+  MAKBETO.
+
+                         Bonan nokton.
+
+  BANKVO.
+
+  Mi dankas, kun deziro reciproka.
+                                                Bankvo kaj Fleanco foriras.
+
+  MAKBETO.
+
+  Mastrinon vian petu, ke tuj kiam
+  Trinkaĵo mia estos preta, ŝi
+  La sonorilon sonorigu. Iru liton.
+                                                          Servisto foriras.
+  Ĉu mi ponardon vidas antaŭ mi,
+  Kun la tenil' facile manprenebla?
+  Mi vin ekkaptu: ne, mi vin maltrafis.
+  Mi tamen povas vidi vin ankoraŭ.
+  Ĉu vi videbla, netuŝebla, estas,
+  Vidaĵ' fatala, aŭ nur fantazia
+  Ponard', kreita de l' spirit' malsana?
+  Mi vin ankoraŭ povas klare vidi
+  Laŭ formo, same vera kaj palpebla
+  Ol tiu, kiun jen mi elingigas.
+  Vi min direktas laŭ la vojo, kie
+  Mi estis vojaĝonta, tian ilon
+  Uzonte.
+  Okuloj miaj estas aŭ mokindaj
+  De la aliaj sentoj, aŭ valoras
+  Ol ili pli: mi vin ankoraŭ vidas,
+  Havantan la tenilon kaj tranĉrandon
+  Per sangaj gutoj makulitajn, kiuj
+  Antaŭe ne ĉeestis! Ne—nenio—
+  Ĝi estas nur ĉi tiu entrepreno
+  Sangama, kiu kreas teruraĵojn.
+  Nun sur la tuta duonsfer' naturo
+  Malviva ŝajnas, kaj malbonaj sonĝoj
+  Malhelpas la interkurtenan dormon:
+  Nun Hekateo siajn oferaĵojn
+  Sorĉarte festas, kaj mortigo, kvazaŭ
+  Fantom' sensanga, kun gardisto sia,
+  La lupo, kies teruriga bleko
+  Anoncas lin sekrete alpaŝantan,
+  Simile al Tarkvino la sentama,
+  Alproksimiĝas sian celon. Tero
+  Senmova, ne aŭskultu miajn paŝojn,
+  Pro timo, ke la ŝtonoj mem sciigu,
+  Kien mi min kondukis, kaj la senton
+  Sangrigidigan de la hor' forigu,
+  Konvenan al la horo. Mi malsaĝe,
+  Dum li ankoraŭ vivas, nur minacas:
+  Malvarma spiro mia ne prezentas
+  La pensojn, kiujn fajra cerbo sentas.
+                                                             Oni sonorigas.
+  Mi iras laŭ la sonorilinvito:
+  Ne aŭdu ĝin, Dunkano, muzikeron,
+  Vokantan min ĉielon aŭ inferon.
+
+                                                                   Foriras.
+
+
+SCENO DUA
+
+LA SAMA LOKO.
+
+Venas ŜIA GRAFINA MOŜTO.
+
+  ŜIA GRAFINA MOŜTO.
+
+  La samo, kio ilin ebriigis,
+  Min faris maltimema; tio, kio
+  Ekkvietigis ilin, min flamigis.
+  Aŭskultu! La raŭkkrio de la gufo,
+  Profeto pri venontaj teruraĵoj.
+  Nun li plenumas la fatalan agon.
+  Tra malfermitaj pordoj la ronkado
+  De la lakeoj, kiuj pro ebrio
+  Malzorgas sian mastron, venas. Mi
+  La forgesigan drogon en la glasojn
+  Enverŝis, ĝis la mort' kaj la naturo
+  Interdisputas inter si, pri kiu
+  Venkonta estas.
+
+  MAKBETO.
+
+  (De post la scenejo.) Kiu venas? Kio!
+
+  ŜIA GRAFINA MOŜTO.
+
+  Ho ve, mi timas, ke vekiĝis ili,
+  Ke ĉio restos provo, sed ne faro.
+  Aŭskultu! Mi pretigis la ponardojn;
+  Li nepre ilin vidis. Se ne ŝajnus,
+  Ke mi la trajtojn de la patro mia
+  Rigardas, l' agon mi farinta estus.
+                                                           Revenas Makbeto.
+  Ho edzo mia!
+
+  MAKBETO.
+
+               Mi la faron faris.
+  Ĉu vi ne aŭdis bruon?
+
+  ŜIA GRAFINA MOŜTO.
+
+                          Nur la krion
+  De l' strigo kaj kraketon de la grilo.
+  Ĉu vi parolis?
+
+  MAKBETO.
+
+                  Kiam?
+
+  ŜIA GRAFINA MOŜTO.
+
+                        Nun.
+
+  MAKBETO.
+
+                             Dum mi
+  Malsupreniris?
+
+  ŜIA GRAFINA MOŜTO.
+
+                 Jes.
+
+  MAKBETO.
+
+                      Aŭskultu! kiu
+  En ĉambro dua kuŝas?
+
+  ŜIA GRAFINA MOŜTO.
+
+                         Donalbeno.
+
+  MAKBETO.
+
+  Vidaĵo priplorinda! (Rigardante siajn manojn.)
+
+  ŜIA GRAFINA MOŜTO.
+
+  Malsaĝe vi ĝin nomas priplorinda.
+
+  MAKBETO.
+
+  En dormo unu ridis, la alia
+  «Mortigo» kriis, vekiĝinte; tamen
+  La preĝojn murmurante ili turnis
+  Sin al ripozo.
+
+  ŜIA GRAFINA MOŜTO.
+
+                 Tie du kunloĝas.
+
+  MAKBETO.
+
+  La unu kriis «Dio benu nin,»
+  «Amen» l' alia, kvazaŭ ili vidas
+  Min, kiu kun sangmakulitaj manoj
+  Iliajn voĉojn tremegantajn aŭdis.
+  Sed mi ne povis «Amen» diri, kiam
+  «Nin Dio benu» ili kriis.
+
+  ŜIA GRAFINA MOŜTO.
+
+                           Ne
+  Pripensu tiel la aferon.
+
+  MAKBETO.
+
+                          Tamen,
+  Kial ne povis mi respondi «Amen»?
+  Mi plej bezonis benon, sed «Amen»
+  En gorĝo sufokiĝis.
+
+  ŜIA GRAFINA MOŜTO.
+
+                       Vi ne devas
+  Mediti tiamaniere, ĉar
+  Pripenso tia frenezigos vin.
+
+  MAKBETO.
+
+  Mi kredis aŭdi voĉon, kiu kriis,
+  «Ne dormu plu! Makbet' mortigis dormon,»
+  Senkulpan dormon, la zorgforgesilo,
+  La mort' de nia ĉiutaga vivo,
+  Freŝiga bano al tro lacaj membroj,
+  Balzam' saniga de l' spirit' vundita,
+  Rimedo ordigita de Naturo
+  Por anstataŭi la agadajn horojn,
+  La ĉefnutrilo, kiu dum vivado
+  Subtenas la homaron.
+
+  ŜIA GRAFINA MOŜTO.
+
+                      Kion diri
+  Vi volas?
+
+  MAKBETO.
+
+           Ĝi kriadis, «Plu ne dormu,
+  Glamis' mortigis dormon, do Kordoro
+  Ne dormos plu; ne dormos plu Makbeto.»
+
+  ŜIA GRAFINA MOŜTO.
+
+  Sed kiu tiel kriis? Nobla Grafo,
+  Animfortecon vian vi difektas,
+  Dum vi rigardas preskaŭ frenezume
+  La faron. Iru, kaj per manlavado
+  Forigu l' abomenan kulpigilon.
+  Pro kio vi reportis la ponardojn?
+  Vi devus ilin tie lasi: for,
+  La dormemulojn sange ŝmiru.
+
+  MAKBETO.
+
+                               Mi
+  Ne iros plu: mi timas eĉ la penson
+  Pri mia faro; ĝin ankoraŭ vidi
+  Mi ne kuraĝas.
+
+  ŜIA GRAFINA MOŜTO.
+
+                  Al mi la ponardojn,
+  Ŝanceliĝulo, donu: la dormantoj
+  Kaj la mortintoj estas ne timindaj:
+  Nur la okulo de infan' rigardas
+  Pentraĵon de diablo time. Se li
+  Sangadas, mi makulos la lakeojn
+  Por fari ŝajnon de ilia ago.
+                                      Ŝi foriras. Oni frapas ĉe la pordego.
+
+  MAKBETO.
+
+  De kie venas tiu ĉi frapado?
+  Kaj kial ĉiu bruo min timigas?
+  Jen vidu, kiaj manoj! Ĉu la tuta
+  Neptuna Oceano elpurigos
+  El mia man' la sangon? Ne, la mano
+  La senmezuran vaston de l' mararo
+  Sangkolorigus, aliformigante
+  La verdon en la ruĝon.
+                                                 Revenas Ŝia Grafina Moŝto.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Egale sangkolorajn kun la viaj
+  Jen vidu miajn manojn, sed mi hontus,
+  Se mia kor' la saman elrigardon
+  Ol via portus. (Oni frapas ĉe l' pordego.)
+                 Mi frapadon aŭdas
+  Ĉe l' suda enirejo: ni kuŝiĝu;
+  Da akvo kelkaj gutoj nin purigos:
+  Kiel facile do! kuraĝo via
+  Forlasis vin. (Oni frapas ĉe l' pordego.) Aŭskultu! oni frapas;
+  Do vian ĉambroveston tuj surmetu,
+  Pro timo, ke okaze ni aperu
+  Gemaldormuloj. Do rekonsciiĝu.
+
+  MAKBETO.
+
+  Ne, per rekonsciiĝo mi konscios
+  La faron. (Oni frapadas.) Veku per la pordfrapado
+  Dunkanon! Se nur tio estus ebla!
+                                                               Ili foriras.
+
+
+SCENO TRIA
+
+LA SAMA LOKO.
+
+Pordfrapado post la scenejo. Venas PORDISTO.
+
+
+PORDISTO.
+
+Jen, kia frapado! Se iu estus pordisto de l' inferaj pordegoj, ne estus
+fino al lia klopodo por ŝlosi kaj malŝlosi. (Frapado denove. Li parolas
+kvazaŭ li estus pordisto de l' inferaj pordegoj.) Frapu, frapu, frapu! Kiu
+estas, je l' nomo de la diablo? Jen farmamastro, kiu estas memmortiginto,
+antaŭtiminte tro da fruktoj: Venu frue: alportu sufiĉe da viŝiloj: ĉar, tie
+ĉi, vi elŝvitos. (Oni frapas.) Frapu! frapu! Kiu estas, je l' nomo de la
+alia diablo? Vere, jen dusencaĵparolinto, kiu laŭvice povis ĵuri por aŭ
+kontraŭ tiu aŭ alia partio; kiu estis je nomo de Dio senmezura perfidulo,
+sed ne povis atingi ĉielon per dusencaĵparolado: Ho, eniru
+dusencaĵparolinto. (Frapado denove.) Frapu, frapu, frapu! Kiu estas? Jen
+angla tajloro, sendita ĉi tien, tial ĉar li ŝtelis specimenon de franca
+ŝtrumpo; eniru, tajloro; tie ĉi vi povos hejti vian gladilon. (Frapado
+denove.) Frapu, frapu; neniam trankvilo! Kia vi estas? Sed tiu ĉi loko
+estas tro malvarma por la infero. Mi ne volas ludi plu la rolon de
+diablapordisto: Mi intencis enlasi kelkajn el ĉiuj profesioj, kiuj vojaĝas
+sur florkovrita vojo al la eterna fajrego. (Frapado denove.) Baldaŭ,
+baldaŭ! Rekompencu la pordiston, mi petas. (Malfermas la pordegon.)
+
+                                                 Venas Makdufo kaj Lenokso.
+
+  MAKDUFO.
+
+  Ĉu vi hieraŭ tiom malfruiĝis,
+  Ke vi ne levis vin je l' matenruĝo?
+
+  PORDISTO.
+
+  Ni ja festiĝis ĝis la kokkantado,
+  Kaj la drinkado estas incitilo
+  Al tri aferoj.
+
+  MAKDUFO.
+
+  Al kiuj tri?
+
+PORDISTO.
+
+Je mia honoro, al nazkolorigado, dormado, kaj urinado. Sentamon ĝi ekscitas
+kaj malekscitas; ĝi ekscitas la amdeziron,  sed forigas la funkciadon; do,
+pri multa drinkado oni povas diri, ke ĝi estas dusencaĵparolilo al la
+sentamulo. Ĝi faras lin, kaj malfaras lin; ĝi instigas lin, kaj malinstigas
+lin; igas lin alproksimiĝi kaj malproksimiĝi; fine trompas lin per dormo,
+kaj, kulpiginte lin, ke li ne veran vorton diras, lin forlasas.
+
+MAKDUFO.
+
+Mi ja kredas, ke drinkado trompis vin per dormo kaj faris vin mensogulo
+hieraŭ nokte.
+
+PORDISTO.
+
+Tion ĝi faris, sinjoro; sed mi punrekompencis ĝin pro ĝia perfido, kaj
+estante, mi kredas, pli forta ol ĝi, mi sukcesis ĝin terenĵeti.
+
+  MAKDUFO.
+
+  Ĉu via mastro nun leviĝas?
+                                                             Venas Makbeto.
+  Frapado nia vekis lin; rigardu.
+
+  LENOKSO.
+
+  Al via Moŝto bonan tagon.
+
+  MAKBETO.
+
+                             Ankaŭ
+  Al ambaŭ bonan tagon.
+
+  MAKDUFO.
+
+                         Ĉu la reĝo
+  Leviĝas, nobla grafo?
+
+  MAKBETO.
+
+                         Ne ankoraŭ.
+
+  MAKDUFO.
+
+  Li min ordonis frue lin viziti:
+  Sed mi la horon preskaŭ preterlasis.
+
+  MAKBETO.
+
+  Mi vin al li konduku.
+
+  MAKDUFO.
+
+                        Tio ĉi,
+  Mi scias, al vi estas plezuriga.
+
+  MAKBETO.
+
+  Laboro, kiu plaĉas, portas ĝojon.
+  Jen lia ĉambro.
+
+  MAKDUFO.
+
+                   Mi kuraĝas frapi,
+  Ĉar mia servo ĝin al mi permesas.
+
+  LENOKSO.
+
+  Ĉu ne la reĝo iros for hodiaŭ?
+
+  MAKBETO.
+
+  Sendube: tia estas lia volo.
+
+  LENOKSO.
+
+  Ventegoj reĝis lastan nokton; kie
+  Ni loĝis kamenkapoj forbloviĝis,
+  Kaj tra l' aer' aŭdiĝis plendoj, strangaj
+  Ekkrioj de mortantoj, antaŭdiroj
+  Pri ekrompiĝoj de interrilatoj
+  Intimaj familiaj, ŝtatmalsanoj
+  Konvenaj al la dolorigaj tempoj
+  De la jarcent'; la mallumama birdo
+  La tutan nokton bruis: kelkaj diras,
+  Ke la terglobo, kvazaŭ februmanta,
+  Ektremis.
+
+  MAKBETO.
+
+            Estis nokto malkvieta.
+
+  LENOKSO.
+
+  Junulo mi antaŭe ne memoras
+  Similan nokton.
+                                                           Revenas Makdufo.
+
+  MAKDUFO.
+
+  Abomenaĵ' terura, de la koro
+  Ne imagebla, nek de l' lang' direbla!
+
+  MAKBETO kaj LENOKSO.
+
+  Kio okazis?
+
+  MAKDUFO.
+
+  Rigardu la ĉefverkon de detruo,
+  Mortigo malpiega jen perforte
+  Enmarŝis la sanktejon de l' Sinjoro,
+  Kaj ŝtelis la trezoron plej altprezan,
+  La vivon mem.
+
+  MAKBETO.
+
+                Ĉu vi «la vivon» diris?
+
+  LENOKSO.
+
+  Vi volas diri lian reĝan Moŝton!
+
+  MAKDUFO.
+
+  Enpaŝu en la ĉambron por blindigi
+  Okulojn viajn per la vid' de nova
+  Gorgono: ne demandu la klarigon;
+  Vidinte vi ĝin scios. (Makbeto kaj Lenokso foriras.)
+                         Ho vekiĝu!
+  Alarme sonorigu. Perfideco!
+  Mortigo! Bankvo, Donalben', Malkomo,
+  Vekiĝu, dormon tiun ĉi plummolan,
+  La nuran figuraĵon de la morto,
+  Forĵetu, kaj rigardu morton mem.
+  Jen kio vin terure frapos, kiel
+  La veno de la tag' de l' lasta juĝo!
+  Malkomo, Bankvo, kvazaŭ el la tomboj,
+  Leviĝu, kiel senkorpuloj, por
+  Vin konformigi al la teruraĵo!
+  Ho, sonorigu. (Oni sonorigas.)
+                                           Venas Ŝia Grafina Moŝto Makbeto.
+
+  ŜIA GRAFINA MOŜTO.
+
+                Kia do okazo
+  Pravigas tian bruan trumpetadon,
+  Vekintan gedormantojn tie ĉi?
+  Parolu!
+
+  MAKDUFO.
+
+          Ho afabla sinjorino,
+  Ne dece estas, ke orelo via
+  Ricevu tion, kion mi parolus.
+  Novaĵo tia en la ripetado
+  Mortigus aŭdantinon.
+        (Venas Bankvo.) Bankvo, Bankvo!
+  Mortiĝis nia reĝa mastro.
+
+  ŜIA GRAFINA MOŜTO.
+
+                              Ho!
+  Ho ve! ĉi tie?
+
+  BANKVO.
+
+                  Kia kruelaĵo!
+  Ho kara Dufo, kontraŭdiru vin,
+  Dirante «mi eraris».
+                                               Revenas Makbeto kaj Lenokso.
+
+  MAKBETO.
+
+  Se mi nur antaŭ unu horo estus
+  Mortinta, mi min kredus tre feliĉa,
+  Ĉar de la nuna tempo ŝajnas, ke
+  Nenio seriozan elrigardon
+  Prezentas en la ordo de naturo:
+  En homa vivo ĉio bagatelojn
+  Posedas: velkis gloro kaj beleco:
+  La veran vinon de la vivo oni
+  Elflui lasis, kaj sub la arkaĵo
+  Ĉiela restas nur sennutra feĉo.
+                                               Venas Malkomo kaj Donalbeno.
+
+  DONALBENO.
+
+  Kio malĝusta estas?
+
+  MAKBETO.
+
+                       Vi ne scias!
+  La font', la kapo, la fontano mem
+  De via sang' ŝtopiĝis.
+
+  MAKDUFO.
+
+                           Via patro
+  Mortiĝis.
+
+  MALKOMO.
+
+             Ho, de kiu?
+
+  LENOKSO.
+
+                         Ŝajne liaj
+  Ĉambrogardistoj lin mortigis, kies
+  Vizaĝoj, manoj, estis sangŝmiritaj,
+  Kun la ponardoj, kiujn neviŝitajn
+  Ni trovis sur la kapkusenoj: ili
+  Malfermis la okulojn mirigite;
+  Nenies vivon ili sciis gardi.
+
+  MAKBETO.
+
+  Eĉ nun mi pentas malsaĝecon mian,
+  Ponardiginte la servistojn.
+
+  MAKDUFO.
+
+                              Kial
+  Vi tion faris?
+
+  MAKBETO.
+
+                 Kiu povas esti
+  Mirplena, saĝa, kolerega, kaj
+  Samfoje sintenema? ne, neniu:
+  La amo, kiu furioze brulis
+  En mia brust', rapide preterpasis
+  Prudenton, haltigilon de l' animo.
+  Jen li—Dunkano—kuŝis, lia haŭto
+  Arĝentkolora per la ora sango
+  Strekita, kaj la tranĉoj elrigardon
+  De buŝoj havis, pretaj je l' eniro
+  De la ruino: jen la mortigistoj,
+  Kolorigitaj laŭ metio sia,
+  Ĉiu ponardo ĝis tenil' kovrita
+  Per sango: kiu povus sin deteni,
+  Havante koron de la am' kapablan,
+  Kaj la kuraĝon, kiu tiun amon
+  Vidigi povas per agado sia?
+
+  ŜIA GRAFINA MOŜTO.
+
+  Ho, helpon! helpon!
+
+  MAKDUFO.
+
+                      Helpu la grafinon.
+
+  MALKOMO, en la orelon al Donalbeno.
+
+  Ĉu ni permesos per silento nia,
+  Ke la plimulto kredu, ke ni mem
+  Akceptas la rezonojn de Makbeto?
+
+  DONALBENO, en la orelon al Malkomo.
+
+  Sed ĉu ni tie ĉi parolos, kie
+  La sorto, kvazaŭ el kaŝej', elsaltos,
+  Kaj nin ekkaptos? For; ne estas tempo
+  Indulgi niajn larmojn.
+
+  MALKOMO, en la orelon al Donalbeno.
+
+                         Larmojn, kiuj
+  Eĉ nun apenaŭ povas sin deteni
+  Pro nia kordoloro.
+
+  BANKVO.
+
+                     La grafinon
+  Tuj helpu. (Oni forportas Ŝian Moŝton.)
+             Kaj, post kiam ni nin estos
+  Vestintaj kontraŭ la malvarmo vintra,
+  Kunvenu, kaj ĉi tiun monstran faron
+  Esploru per persista ekzameno.
+  Ni tremas inter timoj kaj suspektoj:
+  Sub la protekto Dia jen mi staras,
+  Kontraŭstaronte la malicintrigojn
+  De perfiduloj.
+
+  MAKDUFO.
+
+                 Ankaŭ mi.
+
+  ĈIUJ.
+
+                            Kaj ĉiuj.
+
+  MAKBETO.
+
+  Ni do surmetu viran pretigecon,
+  Kaj poste ĉiuj rekunvenu.
+
+  ĈIUJ.
+
+                             Bone.
+                                Ĉiuj foriras escepte Malkomo kaj Donalbeno.
+
+  MALKOMO.
+
+  Kion vi faros? Ne kun ili iru:
+  Ŝajnigi kordoloron ne sentatan
+  Facile estas al la intriganto.
+  Foriros mi Anglujon.
+
+  DONALBENO.
+
+                       Mi Irlandon.
+  Aparte ni pli sendanĝere agos:
+  Ĉie tie ĉiuj estas perfiduloj.
+  Ju pli intima nia parenceco,
+  Al la mortinta reĝo, des pli ili
+  Al ni sentigos sian kruelecon.
+
+  MALKOMO.
+
+  Ĉi tiu sag' mortiga, ĵus pafita,
+  Ankoraŭ ne atingis sian celon,
+  Kaj ni, la trafon por eviti, sekvos
+  La vojon plej senriskan. Al ĉevaloj:
+  Ni senceremonie, forpermeson
+  Ne demandante, iru: ĉiu devas
+  Repagi tion, kion li ricevas.
+                                                               Ili foriras.
+
+
+SCENO KVARA
+
+SAMA LOKO. EKSTERE DE LA KASTELO DE MAKBETO.
+
+Venas ROSSO kaj MALJUNULO.
+
+
+  MALJUNULO.
+
+  Dum sepdek jaroj, kiujn mi memoras,
+  Teruraj horoj pasis, kaj strangaĵoj
+  Okazis, sed lastnoktaj mirindaĵoj
+  Antaŭajn malgrandigis.
+
+  ROSSO.
+
+                          Bona patro,
+  Vi vidas, ke la tuta ĉielaro
+  Minacas, ofendite de la homoj,
+  Al la scenejo de la sangverŝado.
+  Laŭ la horloĝ' tagiĝas, sed sufokas
+  Malluma nokt' la revenantan sunon.
+  Ĉu nokto kunaliĝis kun la krimo,
+  Aŭ tago pri ĝi hontas, ke la tero,
+  Kvazaŭ malviva, tute profundiĝis
+  En la mallumo, kiam viva lumo
+  Ĝin volas kisi?
+
+  MALJUNULO.
+
+                   Estas nenature,
+  Simile al la faritaĵo. Marde,
+  Jen falko, per flugiloj etenditaj
+  Naĝante malhumile en aero,
+  De nura nizo estis atakita,
+  Kaj mortigita.
+
+  ROSSO.
+
+                 Ankaŭ la ĉevaloj
+  De l' reĝo (ne ekzistas pli perfektaj,
+  Rapidaj, belaj)—tio estas stranga
+  Sed tute certa—pro sovaĝiĝeco
+  Barilojn derompinte forgalopis,
+  Malobeemaj, kvazaŭ batalontaj
+  Al la homaro.
+
+  MALJUNULO.
+
+                Jes, kaj oni diras
+  Ke ili manĝis unuj la aliajn.
+
+  ROSSO.
+
+  En vero, kun la senmezura miro
+  De mi la rigardinto. Jen alvenas
+                                                             Venas Makdufo.
+  Makdufo. Kiel kuras la aferoj,
+  Amiko bona?
+
+  MAKDUFO.
+
+              Ĉu vi ne komprenas?
+
+  ROSSO.
+
+  Sed kies estas tiu sanga faro?
+
+  MAKDUFO.
+
+  De tiuj, kiujn ĵus Makbet' mortigis.
+
+  ROSSO.
+
+  Ho ve! sed kion ili fine celis?
+
+  MAKDUFO.
+
+  Allogis ilin ia rekompenco.
+  La filoj de la reĝo, Donalbeno
+  Kaj lia frat' Malkomo sin forŝtelis,
+  Kaj malaperis,—kio suspektigas
+  Al ili.
+
+  ROSSO.
+
+          Tio ankaŭ estas kontraŭ
+  La voĉo de natur', Ho malŝparema
+  Gloramo, kiu volis eĉ engluti
+  De via propra viv' la fonton! Do
+  Makbet' fariĝos la regnestro?
+
+  MAKDUFO.
+
+                                 Certe
+  Li estas jam nomita, kaj irinta
+  Al Skono por ricevi la honoron
+  De reĝarajto.
+
+  ROSSO.
+
+                 Kie de Dunkano
+  La korpo estas?
+
+  MAKDUFO.
+
+                  Oni portis ĝin
+  Al Kolmakilo, la enterigejo
+  Plej sankta, kie liaj antaŭuloj
+  Ripozas pace.
+
+  ROSSO.
+
+                Ĉu vi Skonon iros?
+
+  MAKDUFO.
+
+  Ne, kuzo, Fifon.
+
+  ROSSO.
+
+                   Tien ankaŭ mi.
+
+  MAKDUFO.
+
+  Nu, oni faru ĉion bone, Dio
+  Protektu, kiel dum antaŭaj tempoj.
+
+  ROSSO.
+
+  Adiaŭ, patro.
+
+  MALJUNULO.
+
+  Vin benu Dio kaj la bonfarontojn
+  Al mia lando, de homar' zorgantojn.
+                                                               Ili foriras.
+
+
+
+
+AKTO TRIA
+
+
+SCENO UNUA
+
+FORRESO. LA PALACO.
+
+Venas BANKVO.
+
+  BANKVO.
+
+  Vi la zeniton jam atingis: reĝo,
+  Kordor', Glamiso, ĉio, laŭ promeso
+  De l' sortulinoj, atingita tamen,
+  Mi timas, per plej malhonesta ludo:
+  Sed viaj posteuloj, oni diris,
+  Ne estos heredantoj, sed mi mem
+  Fariĝos la radiko kaj naskanto
+  De reĝa dinastio. Se de ili
+  La vero estas parolebla—kiel,
+  Makbeto, via sorto ekzempligas—
+  Do kial, laŭ la rolo plenumita
+  Pri vi, ne povas ili orakoli
+  Pri mia bono nepre esperinda?
+  Sed—ĝis konvena horo—mi silentu!
+
+  Trumpetado. Venas Makbeto, kiel reĝo; Ŝia grafina Moŝto Makbeto, kiel
+  reĝino, Lenokso, Rosso, Sinjoroj, Sinjorinoj, kaj sekvantaro.
+
+  MAKBETO.
+
+  Jen nia ĉefa gasto.
+
+  ŜIA GRAFINA MOŜTO.
+
+                       Se li restus
+  Neinvitita, al festeno nia
+  Plej grava manko sin sentigus.
+
+  MAKBETO.
+
+                                 Nokton
+  Ĉi tiun ni festenon reĝan havos,
+  Kaj mi ĉeeston vian petas.
+
+  BANKVO.
+
+                              Volu
+  Ordoni, via Moŝto, miaj devoj
+  Por tio per ligilo nerompebla
+  Ligitaj estas.
+
+  MAKBETO.
+
+                 Ĉu vi rajdos baldaŭ?
+
+  BANKVO.
+
+  Jes, via bona Moŝto.
+
+  MAKBETO.
+
+                        Ni alie
+  Dezirus la konsilon vian,—kies
+  Graveco helpis al prospero nia
+  Ĝis nun—je l' konsiliĝo hodiaŭa;
+  Ni do prokrastos ĝin ĝis morgaŭ. Ĉu
+  Vi rajdos malproksimen?
+
+  BANKVO.
+
+                          Nu, sufiĉe
+  Pasigi la intervenontajn horojn
+  De nun ĝis la festeno: se necese,
+  Mi devos pruntepreni de la nokto
+  Du horojn eble.
+
+  MAKBETO.
+
+                  Tamen ne forgesu
+  La feston.
+
+  BANKVO.
+
+             Ne, neniel, via Moŝto.
+
+  MAKBETO.
+
+  Ni aŭdis, ke forkuris niaj kuzoj,
+  Kulpplenaj, sed ne konfesinte sian
+  Patromortigon strangan, pleniginte
+  L' orelojn de amikoj renkontitaj
+  De strangaj malveraĵoj; sed pri tio
+  Ni morgaŭ priparolos, kiam kune
+  Ni traktos pri aferoj reĝaregnaj.
+  Adiaŭ, al ĉevalo: ĝis revido
+  Hodiaŭ nokte. Ĉu vin akompanos
+  Fleanc'?
+
+  BANKVO.
+
+           Jes, via Moŝto: do adiaŭ.
+
+  MAKBETO.
+
+  Rapidaj kaj nefaletemaj estu
+  Ĉevaloj viaj: kaj mi vin al ili
+  Konfidas. Ĝis revido.
+                                                            Bankvo foriras.
+                         Ĉiu homo
+  Dezirojn siajn sekvu ĝis la sepa
+  Hodiaŭ nokte; ni, por plidolĉigi
+  Rerenkontiĝon kun amikoj niaj,
+  Ĝis festenhoro restos solaj: Dio
+  Vin benu!
+                                Ĉiuj foriras, escepte Makbeto kaj servisto.
+            Unu vorton: ĉu atendas
+  Ordonojn niajn tiuj viroj?
+
+  SERVISTO.
+
+                             Ili
+  Ekstere estas de l' palaco.
+
+  MAKBETO.
+
+                              Ilin
+  Al ni konduku.
+                                                       La servisto foriras.
+                 La reĝeco estas
+  Nenio, se ĝi estus ne senriska.
+  Enradikiĝis en spirito mia
+  Pri Bankvo mia timo, kaj pro lia
+  Grandanimeco estas li timinda:
+  Ĉar, kuraĝulo, kun braveco vira
+  Kunigas li prudenton, kiu gardas
+  Lin de danĝero. Sole lin mi timas:
+  Spirito lia ŝajnas superregi
+  Spiriton mian, kiel, oni diras,
+  Cezara superregis Antonian.
+  La sortulinojn li riproĉis (kiam
+  Unue ili min salutis reĝo),
+  Kun la ordon', ke ili al li ankaŭ
+  Parolu: tiam, kiel profetinoj,
+  Lin ili ekproklamis antaŭulo
+  De reĝa dinastio, donis kronon
+  Al mi senfruktodonan, kaj enmetis
+  En mian manon senutilan sceptron,
+  Nur elŝirotan de princido, kiu
+  Ne de mi mem devenis. Tiel, por
+  Pranepoj Bankvaj mi per krim' makulis
+  Spiriton mian; por idaro lia
+  Dunkanon la afablan mi mortigis;
+  Mi konspirantojn kontraŭ mia paco
+  Starigis nur por ili: kaj eternan
+  Juvelon mian al la malamiko
+  Komuna de homaro mi fordonis,
+  Por fari _ilin_, _la Bankvidojn_ reĝoj!
+  Ne, preferinde, sorto mem alvoku
+  Min kiel batalanton al decido!
+  Ho, kiu venas?
+                                      Revenas servisto, kun du Mortigistoj.
+                 Iru enirejon,
+  Kaj tie nin atendu.
+                                                          Servisto foriras.
+                      Ĉu hieraŭ
+  Ni interparoladis pri l' afero?
+
+  UNUA MORTIGISTO.
+
+  Jes, via princa Moŝto.
+
+  MAKBETO.
+
+                          Bone, do
+  Ĉu vi pripensis miajn argumentojn?
+  _Li_ estis, kiu dum antaŭaj jaroj
+  Fiere vin subpremis, kiun vi
+  Supozis esti ni, senkulpaj tute:
+  La jenan fakton ĉe kunveno mia
+  Mi al vi pruvis, kiamaniere
+  Li trompis vin per faroj kaj promesoj,
+  Kaj la aŭtorojn de l' rimedoj, kiujn
+  Li uzis, mi elmontris, ja sufiĉe
+  Eĉ homojn plej malspritajn por konvinki,
+  Ke _Bankvo_ estas la farinto.
+
+  UNUA MORTIGISTO.
+
+                                Vi
+  Klarigis ĝin al ni.
+
+  MAKBETO.
+
+                       Kaj nun mi venas
+  Al la afero, kiun mi ekcelas
+  Per nuna rekunveno. Ĉu vi trovas,
+  Ke pacienco tiel superregas
+  Naturon vian, ke vi tion ĉi
+  Konsentas toleradi? Ĉu de longe
+  Vi kristaniĝis tiamaniere,
+  Ke vi al la Kreinto faros petojn
+  Por tiu ĉi _bonul'_ kaj liaj idoj,
+  De kiu la subpremo al infero
+  Vin alpaŝigis, viajn posteulojn
+  Farante almozuloj?
+
+  UNUA MORTIGISTO.
+
+                     Mia reĝo,
+  Ni estas homoj.
+
+  MAKBETO.
+
+                  Jes, laŭkataloge
+  Vi apartenas al la klaso homa,
+  Kiel ĉashundoj, leporhundoj, hundoj
+  Mikssangaj, mopsoj, dogoj, kaj pudeloj,
+  Postflaraj akvohundoj, kaj luphundoj
+  Sin ĉiuj nomas ordinare hundoj:
+  La takstabelo tamen inter ili
+  Rapidajn, malrapidajn, kaj ruzemajn
+  Distingas, domgardemajn aŭ ĉasemajn:
+  Laŭ la talento, kiun la Naturo
+  Kun malŝparema man' al ĉiu donis,
+  La hunda list' diferencigas ĉiun,
+  Titolon ecan alskribante: tiel
+  La homoj estas diferencigeblaj.
+  Nu, se vi sur la skalo de vireco
+  Ne havas rangon tre malaltan, diru;
+  Kaj mi al vi l' ordonon komisios,
+  Plenumo kies vian malamikon
+  Forigos, kaj al nia ama koro
+  Kunforĝos vin, ĉar ni dum lia vivo
+  Nin sentas nur malbone, nia sano
+  Per lia morto plene restariĝos.
+
+  DUA MORTIGISTO.
+
+  Mi estas, mia reĝo, viro tiom
+  Per la kruelaj batoj de la mondo
+  Kolerigita, ke egale estas
+  Al mi, laŭ kia maniero mi
+  Min venĝos al la mondo.
+
+  UNUA MORTIGISTO.
+
+                           Kaj mi ankaŭ
+  Pri malhelpaĵoj tiel laca estas,
+  Per sorto distirita, ke mi riskus
+  La vivon iel ajn, ĉu mi ĝin perdus
+  Aŭ feliĉigus.
+
+  MAKBETO.
+
+                  Nu, vi ambaŭ scias,
+  Ke Bankvo estas via malamiko.
+
+  AMBAŬ MORTIGISTOJ.
+
+  Ni scias, Via Moŝto.
+
+  MAKBETO.
+
+                        Malamiko
+  Li estas mia ankaŭ, kaj direktas
+  Penadojn siajn kontraŭ interesoj
+  Plej karaj miaj, kaj, dum li ekzistas,
+  Ne povos mi atingi miajn celojn.
+  Kaj, kvankam mi kun frunta senhonteco
+  Lin povus forbalai de la tero,
+  Respondigante mian reĝan volon,
+  Farante tamen tion, mi ofendus
+  Amikojn de ni ambaŭ, kies amon
+  Mi altestimas, kiuj nepre plorus
+  La morton de la mortigito: tial
+  Mi turnas min al via help', l' aferon
+  Kaŝante de l' publika observado
+  Pro gravaj argumentoj.
+
+  DUA MORTIGISTO.
+
+                         Kion vi
+  Al ni ordonos, tion ni plenumos.
+
+  UNUA MORTIGISTO.
+
+  Eĉ kvankam niaj vivoj, via moŝto—
+
+  MAKBETO.
+
+  Okuloj viaj la spiriton viglan
+  Vidigas. Mi al vi klarigos baldaŭ,
+  En kiu loko vi vin devos kaŝi,
+  Kaj la precizan horon de la faro
+  Farota iomete malproksime
+  De la palaco; ĉar notinde estas,
+  Ke mia nomo tie enmiksiĝu
+  Neniel; kaj, por ke efektiviĝu
+  Senmanke la afero, lia filo
+  Fleanco devos ankaŭ partopreni
+  En la malhela sort' de sia patro.
+  Do interkonsiliĝu; mi revenos.
+
+  AMBAŬ MORTIGISTOJ.
+
+  Ni jam decidis ĉion, via Moŝto.
+
+  MAKBETO.
+
+  Mi baldaŭ vin revokos do: eliru.
+                                                    La mortigistoj foriras.
+  Finite estas; Bankvo, antaŭ morto
+  Preparu vin por la eterna sorto.
+                                                                   Foriras.
+
+
+SCENO DUA
+
+LA PALACO.
+
+Venas ŜIA GRAFINA MOŜTO MAKBETO kaj SERVISTO.
+
+
+  ŜIA GRAFINA MOŜTO.
+
+  Ĉu Bankvo jam forlasis la kortegon!
+
+  SERVISTO.
+
+  Jes, Via Moŝto, sed hodiaŭ nokte
+  Revenos.
+
+  ŜIA GRAFINA MOŜTO.
+
+           Diru al la reĝo, ke
+  Mi, kiam li libera estos, volas
+  Paroli iom.
+
+  SERVISTO.
+
+              Certe, Via Moŝto.
+                                                                   Foriras.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Nenion havas ni, se la akiron
+  Kontente ni ne povas ĝui: estas
+  Pli bone esti eĉ la mortigitoj,
+  Ol, mortigintoj, vivi malĝojuloj.
+                                                             Venas Makbeto.
+  Ho, kiel via Moŝto ĉiam sola
+  Malgajaj kun fantaziaĵoj restas,
+  Revivigante pensojn, kiuj devis
+  Kun la mortintoj morti. La aferoj
+  Nekuraceblaj estas pripensindaj
+  Neniel; faritaĵo malfarebla
+  Neniam estas.
+
+  MAKBETO.
+
+  Ni vundis ne mortigis la viperon:
+  Ĝi resaniĝos, dum nin maliculojn
+  Minacas puno pro maltrafo nia.
+  Sed la terglob' diskrevu, l' universo
+  Ekfalu, antaŭ ol ni tremegante
+  Vivados, kaj dormante suferados
+  La agonion de teruraj sonĝoj:
+  Pli bone kuŝus ni kun la mortintoj,
+  De ni senditaj al eterna paco,
+  Por ke ni pace restu, ol tolerus
+  Turmentojn de kulpiga konscienco
+  En senripoza frenezeco. Kuŝas
+  Dunkano en la tombo: post la febra
+  Agado de la viv' li bone dormas:
+  La perfideco faris sian eblon;
+  Nun nek ponardo, nek veneno, fila
+  Konspiro, nek armeo malamika,—
+  Nenio povas ĝeni lin.
+
+  ŜIA GRAFINA MOŜTO.
+
+                         Kuraĝon;
+  Lumigu la vizaĝon per ridetoj,
+  Ĉar viajn gastojn devos vi gajigi.
+
+  MAKBETO.
+
+  Mi faros ĝin, edzino mia; ankaŭ
+  Vi mem, mi petas; kaj prizorgu Bankvon,
+  Lin honorante lange kaj okule
+  El ĉiuj niaj gastoj speciale.
+  Ĉar ni nin devas fari flatemuloj,
+  Maskante la vizagojn por elkaŝi
+  La sentojn, kiuj en la koro kovas.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Ne, kial tiel agi?
+
+  MAKBETO.
+
+                     Ho, edzino
+  Tre kara, akraj, kiel la pikiloj
+  De la kolubroj, zorgoj min turmentas,
+  Dum Bankvo kaj Fleanco vivas.
+
+  ŜIA GRAFINA MOŜTO.
+
+                                Tamen
+  Naturo ne al ili donis rajton
+  Eternan de vivado sur la tero.
+
+  MAKBETO.
+
+  Ni nin konsolu; de atakoj niaj
+  Ne povos ili gardi sin; do ĝoju:
+  Ĉar antaŭ ol de l' tur' hedervestita
+  Elflugos la vesperto, kaj vokite
+  De nigra Hekateo la skarabo,
+  Portate per flugiloj el armaĵo,
+  Zumadon dormallogan sonorigos,
+  La famo pri harstariganta krimo
+  La mondon skuos.
+
+  ŜIA GRAFINA MOŜTO.
+
+                   Kion vi intencas?
+
+  MAKBETO.
+
+  Ne sciu, karulino, antaŭ kiam
+  Aplaŭdos vi la faron. Venu, nokto
+  Blindiga, kaj elkovru la afablajn
+  Okulojn de la tago kompatema,
+  Kaj per la mano, sanga, nevidebla,
+  Forigu kaj disŝiru la ligilon,—
+  La vivon de la malamata Bankvo,—
+  Pro kiu mi tenata estas ĉiam
+  En timo! La taglumo ekdensiĝas,
+  Kaj la korniko serĉas la nestarbojn,
+  Althejm' de sia raŭka kunularo,
+  La tagvivuloj lace ekdormetas;
+  Kaj noktvagantoj serĉas la ĉasaĵon.
+  Vi miras miajn vortojn: trankviliĝu:
+  Ĉar komencite la malbona ago
+  Per pli malbonaj trafas la sukceson.
+  Do kun mi venu.
+                                                               Ili foriras.
+
+
+SCENO TRIA
+
+PARKO PROKSIME DE LA PALACO.
+
+Venas TRI MORTIGISTOJ.
+
+
+  UNUA MORTIGISTO.
+
+  Sed kiu sendis vin al mi ĉi tien?
+
+  TRIA MORTIGISTO.
+
+  Makbeto.
+
+  DUA MORTIGISTO.
+
+           Ni al li konfidi povas,
+  Ĉar li rakontas ĝustajn instrukciojn
+  Pri nia farotaĵo.
+
+  UNUA MORTIGISTO.
+
+                     Do nin helpu.
+  Ankoraŭ kelkaj strioj de taglumo
+  Briletas en la ruĝa okcidento;
+  Nun la malfrua vojaĝanto spronas
+  Ĉevalon sian, por ke li atingu
+  Gastejon, kaj proksimen nun alvenas
+  Li, kiun ni atendas.
+
+  TRIA MORTIGISTO.
+
+                       Jen, aŭskultu!
+  Mi aŭdas piedfrapojn de ĉevaloj.
+
+  BANKVO, Post la scenejo.
+
+  Alportu al ni torĉojn, ho!
+
+  DUA MORTIGISTO.
+
+                              Li venas:
+  Kaj la ceteraj kune atendataj
+  Jam estas en la kort'.
+
+  UNUA MORTIGISTO.
+
+                         Ĉevaloj liaj
+  Laŭiras la parklimon.
+
+  TRIA MORTIGISTO.
+
+                         Preskaŭ mejlon.
+  Sed li kutimas, kiel ankaŭ ĉiuj,
+  Al la palaco piediri de
+  Ĉi tie.
+
+  DUA MORTIGISTO.
+
+           Torĉon, torĉon!
+                                  Venas Bankvo kaj Fleanco portante torĉon.
+
+  TRIA MORTIGISTO.
+
+                             Venas li.
+
+  UNUA MORTIGISTO.
+
+  Atentu.
+
+  BANKVO.
+
+  Hodiaŭ nokte pluvos.
+
+  UNUA MORTIGISTO.
+
+                        Pluvu do.
+                                                        Ili atakas Bankvon.
+
+  BANKVO.
+
+  Ho, perfideco! For, Fleanco, for!
+  Vi eble venĝos min. Ho, sklavo?
+                                               Li mortas. Fleanco forkuras.
+
+  TRIA MORTIGISTO.
+
+  Kiu la torĉon do estingis?
+
+  UNUA MORTIGISTO.
+
+                             Ĉu
+  Ne estis tiel aranĝite?
+
+  TRIA MORTIGISTO.
+
+                           Unu
+  Nur estas mortigita; ĉar la filo
+  Forkuris.
+
+  DUA MORTIGISTO.
+
+            Ni do nur duonon faris
+  De nia tasko.
+
+  UNUA MORTIGISTO.
+
+                Venu, ni sciigu
+  La rezultaton.
+                                                               Ili foriras.
+
+
+SCENO KVARA
+
+SALONO EN LA PALACO.
+
+Festeno preta. Venas MAKBETO, ŜIA GRAFINA MOŜTO MAKBETO, ROSSO, LENOKSO,
+NOBELOJ kaj ilia sekvantaro.
+
+
+  MAKBETO.
+
+  Vi scias la rangordon, do eksidu:
+  Al ĉiuj korsalutojn.
+
+  NOBELOJ.
+
+                        Korajn dankojn
+  Al via reĝa Moŝto.
+
+  MAKBETO.
+
+                       Partoprenos
+  Ni vian interparoladon, rolon
+  Ludante de humila gastiganto;
+  Gastigantino nia sur la reĝa
+  Seĝego restos, sed laŭ la okazo
+  Ni petos, ke ŝi ankaŭ partoprenu.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Al mia amikaro via moŝto
+  Proklamu miajn varmajn bondezirojn.
+                                        Unua Mortigisto aperas ĉe la pordo.
+
+  MAKBETO.
+
+  Rigardu, ambaŭflanke de la tablo
+  Dum ili sidas, mi je ĝia kapo
+  Min metas: ĝojo ĉie superfluu:
+  Ni baldaŭ trinkos toston ĝeneralan.
+                                               Alproksimiĝante al la pordo.
+  Mi vidas sangon sur vizaĝo via.
+
+  MORTIGISTO.
+
+  La sangon do de Bankvo.
+
+  MAKBETO.
+
+                          Mi certege
+  Sur vi pliamas ĝin, ol en la vejnoj
+  De Bankvo. Ĉu li estas mortigita?
+
+  MORTIGISTO.
+
+  Mi, Via Moŝto, tranĉis lian gorĝon.
+
+  MAKBETO.
+
+  Vi estas do plej lerta gorĝtranĉisto:
+  Nek malpli lerta tiu, kiu faris
+  La samon por Fleanco; se vi mem,
+  Senegalulo estas vi.
+
+  MORTIGISTO.
+
+                       Fleanco
+  Forkuris, Via Moŝto.
+
+  MAKBETO.
+
+             (Flanken.) Do revenas
+  Al mia kor' la spasmo: mi alie
+  Perfekta estus kiel la marmoro;
+  Fortika, kvazaŭ sur la fundamento
+  De la ŝtoneg', mi ĉirkaŭprenus ĉion
+  Egale kun la vasta atmosfero:
+  Sed nun mallarĝigita, limigita
+  Mi estas, subpremate per petolaj
+  Fantaziaĵoj kaj senfinaj timoj.
+  Sed Bankvo jam ne vivas?
+
+  MORTIGISTO.
+
+                           Vere, ne:
+  Li kuŝas nun en foso, via Moŝto,
+  Kun dudek grandaj tranĉoj en la kolo,
+  Mortiga eĉ la malplej granda.
+
+  MAKBETO.
+
+                                 Dankon.
+  (Flanken.) Serpento la plenkreska tie kuŝas;
+  La serpentido forglitinte naskos
+  Post ne tre longa tempo la venenon,
+  Sed nun sendenta.—Vi foriru; morgaŭ
+  Ni nin revidos.
+                                                        Mortigisto foriras.
+
+  ŜIA GRAFINA MOŜTO.
+
+                  Via reĝa Moŝto,
+  Al ni saluto via ofta mankas,
+  Sen kiu nia fest' ne diferencas
+  De la manĝad' kutima; la gracia
+  Ceremonio de akcepto via
+  Similas al bongusta saŭc'; alie,
+  Al manĝo sendeserta.
+
+  MAKBETO.
+
+                        Ho, mi dankas
+  Pro tiu memorigo. (Al la gastoj.) Akompanu
+  La bona digestado apetiton,
+  Kaj bona san' rezultu!
+
+  LENOKSO.
+
+                         Via Moŝto,
+  Eksidi al vi plaĉu.
+                                   La spirito de Bankvo aperas, kaj eksidas
+                                         sur la seĝo rezervita por Makbeto.
+
+  MAKBETO.
+
+  Honoro la plej alta kronus nian
+  Plezuron, se ĉeestus nobla Bankvo;
+  Riproĉi kiun pro malzorgo mi
+  Preferus, ol kompati pro malbona
+  Okazintaĵo!
+
+  ROSSO.
+
+               Lia neĉeesto
+  Promeson lian montras senvalora.
+  Al via Moŝto plaĉu nin honori,
+  Sidanta kun gastaro via.
+
+  MAKBETO.
+
+                           Restas
+  Por mi neniu seĝo.
+
+  LENOKSO.
+
+                      Via Moŝto,
+  Jen estas seĝo rezervita.
+
+  MAKBETO.
+
+                             Kie?
+
+  LENOKSO.
+
+  Ĉi tie, via Moŝto. Kio do
+  Malhelpas vian reĝan Moŝton?
+
+  MAKBETO.
+
+                                 Kiu
+  Ĉi tion faris?
+
+  NOBELOJ.
+
+                  Kion, via Moŝto?
+
+  MAKBETO.
+
+  Ne povas vi certigi, ke la ago
+  De mi farita estas: do ne montru
+  Al mi sangmakulitajn viajn harojn.
+
+  ROSSO.
+
+  Leviĝu, gesinjoroj: lia Moŝto
+  Malsana estas.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Sidadu, geamikoj, lia Moŝto
+  Sin sentas ofte tiel: de juneco
+  Li havas la malsanon, kaj la spasmo
+  Ne estos longedaŭra: do sidadu;
+  Li resaniĝos post momento: tamen
+  Lin rigardante, vi ofendos lin,
+  Kaj pligrandigos la malsanon, tial
+  Festenu ĝoje. (Al Makbeto.) Ĉu vi estas viro?
+
+  MAKBETO.
+
+  Jes, maltimulo, kiu kun kuraĝo
+  Renkontas tion, kion la diablo
+  Sen tremo ne rigardus.
+
+  ŜIA GRAFINA MOŜTO.
+
+                         Sensencaĵo!
+  Jen vera pentro de teruro via,
+  Simila je l' ponardo fantazia,
+  Kiu,—vi diris,—vin kondukis al
+  Dunkano. Ho! l' eksaltoj kaj kapricoj
+  De via cerbo, kiuj ne prezentas
+  La veran timon, nur rememorigas
+  Al mi rakontojn, antaŭ vintra fajro
+  Diritajn de maljunulino, kiu
+  Ricevis ilin de avino sia.
+  Ho, hontu! Kial vi grimacas tiel?
+  Kaj tamen nur skabelon vi rigardas!
+
+  MAKBETO.
+
+  Rigardu, jen, nun kion diras vi?
+  (Al la spirito.) Nu, mi ne timas. Se vi povas movi
+  La kapon, do parolu: se ostejoj
+  Kaj tomboj sendas reen al vivuloj
+  Enterigitojn, akcipitroj manĝu
+  Mortintojn niajn.
+                                                      La spirito malaperas.
+
+  ŜIA GRAFINA MOŜTO.
+
+                    Ho, malvirigita
+  Pro malsaĝeco!
+
+  MAKBETO.
+
+                  Se,—mi tion ĵuras,—
+  Mi staras tie ĉi, mi vidis lin.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Fi, hontu!
+
+  MAKBETO.
+
+             Sangon en praavaj tempoj
+  Laŭvole oni verŝis, antaŭ kiam
+  Punleĝoj homaj moderigis morojn
+  Sovaĝajn; jes, eĉ poste oni aŭdis
+  Rakontojn pri mortigoj, en l' orelon
+  Apenaŭ paroleblajn; tiutempe
+  Post la senkapigado homoj mortis;
+  Sed malgraŭ dudek mortoj en la kapo
+  La mortigitoj nun sin reprezentas,
+  Kaj el skabeloj niaj nin forŝovas:
+  Ĉu ne ĉi tio estas plistrangaĵo,
+  Ol eĉ mortigo tia!
+
+  ŜIA GRAFINA MOŜTO.
+
+                      Via Moŝto,
+  Amikoj viaj karaj vin atendas.
+
+  MAKBETO.
+
+  Pardonu min, mi petas, mi forgesis.
+  Ne mire min rigardu, ho nobeloj;
+  Amikoj, mi malsanon strangan havas;
+  Al intimuloj miaj tamen tio
+  Ne estas rimarkinda. Jen, salutojn,
+  Kaj bonan sanon al vi ĉiuj! Mi
+  Eksidu. Nun plenigu la pokalojn.
+  Mi ĝoje tostos la ĉeestantaron,
+  Kaj nian karan Bankvon, sopiratan
+  De ĉiuj. Se nur li nun ne forestus!
+  Al via san' kaj lia ni soifas.
+
+  NOBELOJ.
+
+  Laŭ devoj niaj toston reciprokan.
+                                                        La Spirito revenas.
+
+  MAKBETO.
+
+  For! de okuloj miaj! enteriĝu!
+  Malvarma estas via sango, via
+  Ostaro sen medolo; vi ne havas
+  Vidpovon en okuloj viaj, kiuj
+  Minace ĉirkaŭrulas sin.
+
+  ŜIA GRAFINA MOŜTO.
+
+                            Rigardu,
+  Nobeloj bonaj, tion ĉi nur kiel
+  Aferon ordinaran, ne alie;
+  Sed ĝi dum sia daŭro interrompas
+  Plezuron nian.
+
+  MAKBETO.
+
+  Mi viro tion, kion vir' kuraĝa
+  Kuraĝos fari, faros.
+  Alpaŝu, kiel rusa urs' dikhara,
+  Armita rinocero, aŭ la tigro
+  Hirkana: prenu formon kian ajn
+  Alian, miaj nervoj ne tremetos:
+  Aŭ reviviĝu, kaj min ekalvoku
+  Al la dezerto vasta, glav' en mano;
+  Se timo min ekkaptos min proklamu
+  Nur infaneto. For, fantom' terura!
+  Falsaĵo vanta, for!
+                                                      La spirito malaperas.
+                       Ha! tuj post ĝia
+  Foriro mi resentas min laŭvire.
+  Sidadu, mi vin petas.
+
+  ŜIA GRAFINA MOŜTO.
+
+                        La festenon
+  Vi malordigis, tute malaranĝis
+  La ĝeneralan ĝojon kun mirego
+  De ĉiuj.
+
+  MAKBETO.
+
+            Ĉu aferoj tiaj povas
+  Okazi, kaj, malheliginte niajn
+  Spiritojn, kvazaŭ nubo de somero,
+  Forpasi, sen surprizo nekutima?
+  Vi igas min miregi mian propran
+  Naturon, kiam vi vidaĵojn tiajn
+  Rigardas, ne ŝanĝante la rubenan
+  Koloron de la vangoj, dum la miaj
+  Pro timo estas blankigitaj.
+
+  ROSSO.
+
+                              Kiajn
+  Vidaĵojn, via Moŝto?
+
+  ŜIA GRAFINA MOŜTO.
+
+                         Ne parolu,
+  Mi petas; pli kaj pli li malsaniĝas;
+  Demandoj kolerigas lin. Tuj bonan
+  Vesperon: ne pripensu pri rangordo,
+  Sed tuj foriru.
+
+  LENOKSO.
+
+                  Bonan do vesperon:
+  Kaj lia reĝa Moŝto resaniĝu!
+
+  ŜIA GRAFINA MOŜTO.
+
+  Al ĉiuj bonan nokton mi deziras!
+                          Ĉiuj foriras escepto Makbeto kaj Grafino Makbeto.
+
+  MAKBETO.
+
+  Ĝi serĉas sangon: oni diras, sango
+  Bezonas sangon: ŝtonoj kelkafoje
+  Sin movas, kaj parolas arboj, helpaj
+  Al la venĝanto de verŝita sango,
+  Antaŭdiristoj, lertaj pri la strangaj
+  Interrilatoj inter dubaj signoj,
+  Okazintaĵoj, kaj profetaj birdoj,
+  Ekzemple, pigoj, korvoj, frugilegoj,
+  Eltrovis plej sekretajn postesignojn
+  De l' mortigint'. Kioma horo estas?
+
+  ŜIA GRAFINA MOŜTO.
+
+  Neeble diri, ĉu la nokt' finiĝis,
+  Aŭ la taglumo venas.
+
+  MAKBETO.
+
+                        Ĉu Makdufo
+  Inviton nian reĝan ne akceptis?
+
+  ŜIA GRAFINA MOŜTO.
+
+  Ĉu vi, sinjoro, sendis ĝin al li?
+
+  MAKBETO.
+
+  Mi aŭdis onidire, sed mi baldaŭ
+  Ĝin certe scios, ĉar en ĉiu domo
+  De l' tuta nobelaro mi pagitan
+  Serviston havas. Mi vizitos morgaŭ
+  Je frua hor' la sortulinojn: ili
+  Paroli devos pli al mi, avida
+  Ekscii per rimedoj plej malbonaj
+  La sorton plej malbonan. Mi devigos
+  Al mia celo ĉiujn aĵojn cedi:
+  Mi estas jam tra sango trairinta
+  Profunde tiel, ke antaŭeniro
+  Sin trovas pli facila ol reveno:
+  Ideoj strangaj sin al mi prezentas,
+  Praktikigotaj neekzamenite.
+
+  ŜIA GRAFINA MOŜTO.
+
+  Bezonas vi la fortigilon, dormon.
+
+  MAKBETO.
+
+  Kuŝiĝu ni. La strangaj iluzioj
+  Kaj memmalkonfidemo miaj pruvas
+  La eklernanton en aferoj krimaj.
+  Ekzerco faros nin plipraktikuloj.
+                                                               Ili foriras.
+
+
+SCENO KVINA
+
+ERIKEJO.
+
+Tondras. Venas la TRI SORĈISTINOJ kaj HEKATEO.
+
+
+  UNUA SORĈISTINO.
+
+  Nu, Hekateo, kiel vi koleran
+  Mienon havas?
+
+  HEKATEO.
+
+      Kial ne, malbelulinoj,
+      Malĝentilpetolulinoj?
+      Kiel vi per babileto
+      Vanta traktis kun Makbeto
+      Pri aferoj de la sorto,
+      Dusencaĵoj, kaj eĉ morto?
+      Vi kuraĝis! Dum, mastrino
+      Via mi, l' elpensintino
+      De malbono, mi ne parton
+      Prenis por vidigi l' arton
+      Nian gloran! Kaj vi ĉion
+      Faris por—atentu tion—
+      Iu, kiu ŝanceliĝas
+      Ĉiam, kaj ekkoleriĝas,
+      Por atingi celojn siajn,
+      Ne antaŭenpuŝi viajn.
+      Por forigi la eraron,
+      Mi renkontos la triaron
+      Je la kvina kaj duono
+      Ĉe l' kavern' de Aĥerono.
+      Dum ruĝiĝas la mateno,
+      Mi, atende je l' alveno
+      De Makbeto, tie restos,
+      Ĝis li ankaŭ mem ĉeestos,
+      Ĉar li, tre timante morton,
+      Venos scii sian sorton:
+      Ĉiujn vazojn do magiajn,
+      Kaj sorĉaĵojn fortajn viajn
+      Tuj provizu. Pro fatala
+      Cel' pasigos mi sub pala
+      Lun' la nokton, ĉar la ago
+      Antaŭ mezo de la tago
+      Estas plenumota; eron
+      De vaporo sur la teron
+      Ĵus falontan de la luno
+      Mi rimarkas: ĝin la suno
+      Estos ne fluidiginta,
+      Antaŭ ol mi ĝin kaptinta
+      Estos: mi per distilado
+      Arta, kaj per ensorĉado
+      El ĝi formos koboldetojn,
+      Kiuj, prezentante petojn
+      Al spirito lia, povos
+      Lin influi, ĝis li trovos
+      Sin en stranga dub' pri ĉio,
+      Kaj prizorgos pri nenio;
+      Malestimos li la sorton,
+      Saĝon, timon, kaj la morton.
+      Kaj la hom', plej fortigita
+      Sin kredante, plej trompita
+      Estas. Lia ŝajnfortiko
+      Estas nia bonamiko.
+
+                 Post la scenejo Muziko kun kanto: «Forvenu, forvenu, k.c.»
+
+  Aŭskultu: vidu, mia spiriteto
+  Atendas min, sidante sur nubeto.
+                                                                Ŝi foriras.
+
+  UNUA SORĈISTINO.
+
+  Rapide venu: ŝi revenos baldaŭ.
+                                                               Ili foriras.
+
+
+SCENO SESA
+
+FORESO. LA PALACO.
+
+Venas LENOKSO kaj alia NOBELO.
+
+
+  LENOKSO.
+
+  Antaŭaj paroladoj miaj eble
+  Esprimis viajn pensojn, kaj klarigis
+  Okazintaĵojn strangajn. Jen Makbeto
+  Dunkanon la afablan tre kompatis,
+  Post lia morto! kaj la brava Bankvo
+  Promenis tro malfrue, kiun—diru,
+  Se al vi plaĉos—lia fil' mortigis,
+  Ĉar li forkuris: homoj ne malfrue
+  Promeni devas; kiu ne kondamnas
+  La monstrajn agojn de Malkomo kaj
+  De Donalbeno, kiuj sian patron
+  Mortigis? fakto malbenita! kiom
+  Da kordoloro al Makbeto ĝi
+  Sentigis! ĉu li ne la du krimulojn
+  Distranĉis pro kolero pia, kiuj
+  La sklavoj de drinkad' neliberuloj
+  De dormo estis? ĉu ne estas tio
+  Farita noble? Jes, kaj saĝe ankaŭ;
+  Ĉar kiu ne ekkoleriĝus, kiam
+  Li aŭdas la farintojn de la faro
+  Ĝin nei? Do laŭ mi li faris ĉion
+  Tre lerte: kaj, mi pensas, se li havus
+  En fortikaĵo malliberigitajn
+  La filojn de Dunkano,—kio ne
+  Okazos dank' al Dio,—ili sentus
+  La honton de l' abomeninda ago:
+  Fleanco ankaŭ; sed, atentu! ĉar
+  Pro klareparolitaj vortoj, ankaŭ
+  Pro sia neĉeesto ĉe l' festeno
+  De l' uzurpinto, ŝajnas ke Makdufo,
+  Laŭ lia ordo, vivas finobelo;
+  Ĉu vi, Sinjoro, povas diri, kie
+  Li trovas sin?
+
+  NOBELO.
+
+                 La filo de Dunkano,
+  De kiu l' uzurpinto nun fortenas
+  Reĝrajton lian, iris al la angla
+  Kortego de la pia Eduardo,
+  Tutkore akceptate; malfeliĉa
+  Ekzilo lia ne ekmalbriligas
+  Honoron lian: kaj Makdufo tien
+  Vojaĝis por demandi ĉu la sankta
+  Regnestro volas helpi lin influi
+  La Grafon de Nordhumberlando kun
+  Sivardo brava, por ke, kun la helpo
+  De tiuj,—se la ĉiopova Dio
+  Konfirmos ĝin,—ni ree manĝos pace,
+  Kaj dormos, regalante nin liberajn
+  Je sangaj mortigiloj, nian reĝon
+  Per amo subtenante, por ricevi
+  De li honorojn de la liberuloj:
+  Je ĉio ĉi ni nun sopiras; kio
+  La uzurpinton tiom kolerigis,
+  Ke li militajn preparaĵojn faras,
+  Por gardi sian regnon de atako.
+
+  LENOKSO.
+
+  Ĉu li samtempe sendis al Makdufo
+  Inviton?
+
+  NOBELO.
+
+           Jes, kaj li al la sendito
+  Respondis malĝentile, «Mi neniel»
+  Malbonhumore la sendito turnis
+  Al li la dorson, kantetante, kvazaŭ
+  Li dirus, «Ha, vi pentos pri respondo
+  Dirita tiel».
+
+  LENOKSO.
+
+                Tio eble faros,
+  Ke li ankoraŭ restos kiel eble
+  Plej malproksime de la lando de l'
+  Tirano. Dume, preĝu ni, ke sankta
+  Anĝelo flugu al la angla reĝo,
+  Por lin sciigi pri l' respondo, kiun
+  Makdufo sendis, antaŭ ol ĝi venu
+  Al la oreloj de Makbeto; tiel
+  Rezultos al la subpremata lando
+  Bonaĵo dia!
+
+  NOBELO.
+
+               Mi kun li kunpreĝos.
+                                                               Ili foriras.
+
+
+
+
+AKTO KVARA
+
+
+SCENO I
+
+KAVERNO. EN MEZO, KALDRONO PLENA JE AKVO BOLANTA. TONDRAS.
+
+Venas la TRI SORĈISTINOJ.
+
+
+  UNUA SORĈISTINO.
+
+  Trifoje miaŭis la kat' dukolora.
+
+  DUA SORĈISTINO.
+
+  Kaj la erinaco kvarfoje ekblekis.
+
+  TRIA SORĈISTINO.
+
+  Ekkrias harpio, «Nun estas la horo».
+
+  UNUA SORĈISTINO.
+
+      Ĉirkaŭ la kaldron' vin metu,
+      L' internaĵojn tuj enĵetu
+      Venenitajn,—rondirante,
+      La miksaĵon kunfarante;—
+      Bufon, kiu noktojn tremis
+      Tridek-unu, dum ĝin premis
+      Peza ŝtono; ĵetu ĝian
+      Ŝvitvenenon en magian
+      Poton; jen l' unua faro
+      Inter la ensorĉilaro.
+
+  ĈIUJ.
+
+      Fabrikilo de malbono,
+      Elhejtiĝu la kaldrono;
+      Kiel eble plej penadu,
+      Bolu akvo, fajr' bruladu.
+
+  DUA SORĈISTINO.
+
+      De la marĉserpent' tranĉaĵo
+      Helpu al kaldronmiksaĵo,
+      Piedfingro de la rano,
+      Kaj de la vespert' la lano,
+      Poste lango de hundido,
+      Kaj pikilo de aspido,
+      De lacerto la krureto,
+      Kaj flugilo de gufeto,
+      La infera sup' boladu,
+      L' ensorĉil' plifortiĝadu.
+
+  ĈIUJ.
+
+      Fabrikilo de malbono,
+      Elhejtiĝu la kaldrono;
+      Kiel eble plej penadu,
+      Bolu akvo, fajr' bruladu.
+
+  TRIA SORĈISTINO.
+
+      Skvam' ŝlimhava de drakego,
+      Kaj de lupo la dentego,
+      Mum' de sorĉistin' trompema,
+      Faŭko de la ŝark' glutema,
+      La radik' de malbenita
+      Herbo nokte elfosita,
+      Malboniga, la hepato
+      De hebrea advokato,
+      De taksuso tre maljuna
+      Ŝelo, kiu, dum la luna
+      Mallumiĝ' post lasta fazo,
+      Falis teren, ankaŭ nazo
+      De sovaĝa Turko faros
+      La miksaĵon pli ŝlimplena.
+      Ankaŭ tigran internaĵon
+      Ĵetu en l' infermiksaĵon.
+
+  ĈIUJ.
+
+      Fabrikilo de malbono,
+      Elhejtiĝu la kaldrono;
+      Kiel eble plej penadu,
+      Bolu akvo, fajr' bruladu.
+
+  DUA SORĈISTINO.
+
+  Per mandrila sang' frostigu,
+  Por ke vi ĝin plibonigu.
+                                                             Venas Hekateo.
+
+  HEKATEO.
+
+  Ho brava! Mi laŭdas penadojn la viajn,
+  Kaj vi partoprenos premiojn la miajn:
+  Kaj nun la kaldronon vi kunrondirante,
+  Simile al elfoj kaj feoj kantante,
+  Ensorĉu l' inferan miksaĵon.
+              Muziko kaj kanto, «Nigraj spiritoj», k. c. Hekateo malaperas.
+
+  DUA SORĈISTINO.
+
+  Pro pikdoloretoj en dikfingro mia
+  Mi sentas, ke venas nun malbonaĵ' ia.
+  Kiu ajn alproksimiĝu;
+  Vi seruroj, malfermiĝu!
+                                                             Venas Makbeto.
+
+  MAKBETO.
+
+  Ho vi sekretaj noktomezulinoj!
+  Kion vi faras?
+
+  ĈIUJ.
+
+                 Faron ne direblan.
+
+  MAKBETO.
+
+  Mi petas vin, pro via profesio,
+  De kie ajn vi tian antaŭscion
+  Akiris, al mi nun respondu: kvankam
+  La uragano levos sin, preĝejojn
+  Per furioza fort' ruinigante;
+  Kaj kvankam la ŝaŭmantaj monstraj ondoj
+  Konfuzos kaj englutos la ŝiparon;
+  Kaj kvankam nematura gren' disfalos,
+  Kaj arboj forbloviĝos; kaj kasteloj,
+  Per tondra sago disfenditaj, rompos
+  La kapojn de gardistoj siaj; kvankam
+  Palacoj kaj la altaj piramidoj
+  Ĝis siaj fundamentoj ekskuiĝos,
+  Kaj kvankam eĉ la semoj de Naturo
+  Fariĝos sendistinge kunmiksitaj,
+  Ĝis memdetruo kontraŭ siaj faroj
+  Ribelos, al mi klare nun respondu.
+
+  UNUA SORĈISTINO.
+
+  Parolu.
+
+  DUA SORĈISTINO.
+
+          Nin demandu.
+
+  TRIA SORĈISTINO.
+
+                       Ni respondos.
+
+  UNUA SORĈISTINO.
+
+  Sciigu, ĉu vi volas la respondon
+  De ni, aŭ niaj mastroj.
+
+  MAKBETO.
+
+                           Voku ilin.
+
+  UNUA SORĈISTINO.
+
+      Enverŝu sangon de porkino,
+      Kiu estas manĝintino
+      De naŭ idoj; en la flamon,
+      Por pliigi la malamon,
+      Ĵetu grason, kiu fluis—
+      Dum la pendigilo bruis,
+      Tra l' aero svingiĝanta—
+      De la mortigint' pendanta...
+
+  ĈIUJ.
+
+      Ho spiritoj nun alvenu;
+      Je l' soleno partoprenu.
+                             Tondras. Unua Aperaĵo: kapo en armaĵo leviĝas.
+
+  MAKBETO.
+
+  Sciigu al mi, ho vi potenculo
+  Mistera,—
+
+  UNUA SORĈISTINO.
+
+             Silentu; ĉar li scias ĉion,
+  Kion ajn vi eĉ pensas; do diru nenion.
+
+  UNUA APERAĴO.
+
+  Makbeto, de l' grafo de Fif' gardu vin,
+  Makdufo. Sufiĉas: forpermesu min.
+                                                                Malleviĝas.
+
+  MAKBETO.
+
+  Mi dankas, ke vi min antaŭsciigas;
+  Suspektojn miajn vi konfirmas: tamen,—
+
+  UNUA SORĈISTINO.
+
+  Li ne obeos al ordonoj: jen,
+  Alia pli potenca ol la lasta.
+                          Tondras. Dua Aperaĵo. Infano sangkovrita leviĝas.
+
+  DUA APERAĴO.
+
+  Makbeto! Makbeto! Makbeto!
+
+  MAKBETO.
+
+  Se tri orelojn havus mi, mi aŭdus.
+
+  DUA APERAĴO.
+
+  Sangama bravul', kun mokema rideto
+  La homan potencon rigardu Makbeto,
+  Ĉar lin de virino neniu naskita
+  Difektos.
+                                                                Malleviĝas.
+
+  MAKBETO.
+
+  Makdufo, vivu do: mi vin ne timas.
+  Sed mi certigon faros pli certiga,
+  Ligante Sorton al promeso ŝia.
+  Makdufo, vi ne vivos; tiel mi
+  Al miaj timoj diros, «Vi mensogas»,
+  Kaj dormos, kiom ajn la tondro bruu.
+                             Tondras. Tria Aperaĵo: Infano kronita leviĝas,
+                                                  tenante arbon en la mano.
+  Ho, kio estas tio, leviĝante,
+  Kun la mieno de infano reĝa,
+  Portante sur l' infana frunto rondon,
+  Montrilon de reĝeco?
+
+  ĈIUJ.
+
+  Aŭskultu, ne parolu.
+
+  TRIA APERAĴO.
+
+  Leonkora, ne zorgu, ĉu ekkoleriĝas
+  Furioze regatoj, aŭ nokte kaŝiĝas
+  La ekkonspirantoj, ĉar militistaro
+  Ne venkos Makbeton, ĝis kiam arbaro
+  Birnama milite sin movos al li.
+                                                                Malleviĝas.
+
+  MAKBETO.
+
+  Ha, neeble; kiu
+  L' arbaron povas varbi? elradiki
+  La kverkon el la tero? Antaŭsentaj
+  Bonaĵoj! Ribeleco, ne leviĝu,
+  Ĝis kiam ankaŭ la arbar' Birnama
+  Leviĝos, kaj sidante sur la trono
+  Makbeto fine pagos sian ŝuldon
+  Kutiman al Naturo.—Tamen mi
+  Korbatojn sentas pri la jeno: diru,
+  Se via arto havas la kapablon,
+  Ĉu en ĉi tiu lando iam filoj
+  De Bankvo reĝos?
+
+  ĈIUJ.
+
+                    Pli ne volu scii.
+
+  MAKBETO.
+
+  Vi devas kontentigi min: se tion
+  Vi ne malkaŝos, malbenaĵ' eterna
+  Vin frapu! Diru,—kial malleviĝas
+  Kaldrono via? Kial tiu bruo?
+                                                Trumpetado post la scenejo.
+
+  UNUA SORĈISTINO.
+
+  Vidigu!
+
+  DUA SORĈISTINO.
+
+          Vidigu!
+
+  TRIA SORĈISTINO.
+
+                  Vidigu!
+
+  ĈIUJ.
+
+  Ho, vidigu, ho, vidigu:
+  La vualon tuj forŝiru,
+  Lian koron dolorigu,
+  Venu, ombroj, kaj foriru!
+                                  Aperas parado de ok Reĝoj, la lasta tenas
+                            per mano spegulon: sekvas la Fantomo de Bankvo.
+
+  MAKBETO.
+
+  Vi tro similas la spiriton Bankvan;
+  For! Rigardante vian kronon miaj
+  Pupiloj turmentiĝas. La hararo
+  De l' dua orkronito je l' unua
+  Similas, jen, la tria je la dua.
+  Abomenindulinoj! Kial tion
+  Vidigas vi al mi? Nun kvara! Mi
+  Blindiĝu! Ho, ĉu la parad' senfina
+  Etendos sin ĝis la renverso tondra
+  De l' mondo? Jen alia! nun, la sepa!
+  Mi pli ne vidu: tamen oka venas,
+  Portante per la man' spegulon, kiu
+  Al mi vidigas pli ankoraŭ, kiuj
+  Duoblajn globojn kaj trioblajn sceptrojn
+  Mantenas: teruraĵ'! Mi nun rekonas
+  La veron: ĉar sangmakulita Bankvo
+  Per montra fingro kun ridet' fiera
+  Almontras ilin kiel siajn. Kio!
+                                                     La Aperaĵoj malaperas.
+  Ĉu tio estas vera?
+
+  UNUA SORĈISTINO.
+
+      Jes, vera tiu antaŭdiro:
+      Sed kial de Makbet' la miro!
+      Nun lian koron ni ĝojigu,
+      Kaj mirindaĵojn ekvidigu:
+      Tra la aero melodia
+      Muziko sonu, dum en nia
+      Antikva danco ni rondiros:
+      Kaj nia glora reĝo diros:
+      La ruzaj artoj, kiujn uzis
+      La sortulinoj, min amuzis.
+            Muziko. La Sorĉistinoj dancas, kaj poste malaperas kun Hekateo.
+
+  MAKBETO.
+
+  Do kie estas ili? Foririntaj?
+  Ĉi tiu malfeliĉa horo estu
+  Plej malbenota en la kalendaro!
+  Eniru!
+                                                             Venas Lenokso.
+
+  LENOKSO.
+
+         Kion via Moŝto volas?
+
+  MAKBETO.
+
+  Ĉu vi la sortulinojn vidis?
+
+  LENOKSO.
+
+                               Ne.
+
+  MAKBETO.
+
+  Ĉu ili ne renkontis vin?
+
+  LENOKSO.
+
+                            Envero,
+  Ne, via Moŝto.
+
+  MAKBETO.
+
+                  Estu la aero
+  Infektodona, kie ili rajdas;
+  Kaj malbenitaj estu ĉiuj, kiuj
+  Al ili fidas! Mi piedfrapadon
+  Ekaŭdis de ĉevaloj: kiuj estis?
+
+  LENOKSO.
+
+  Nur du aŭ tri, por vin sciigi, ke
+  Makdufo rapidiris al Anglujo.
+
+  MAKBETO.
+
+  Anglujo!
+
+  LENOKSO.
+
+          Jes, Anglujo, via Moŝto.
+
+  MAKBETO.
+
+  Ho tempo, vi malhelpas miajn farojn
+  Terurajn: cel' rapide elpensita
+  Postulas rapidiran plenumadon:
+  De tiu ĉi momento miaj pensoj,
+  Apenaŭ naskiĝintaj, sian volon
+  Efektivigos, kaj eĉ nun, por vesti
+  Per faroj miajn pensojn, la kastelon
+  Makdufan mi ekkaptos, la graflandon
+  Okupos; per la glavo mi mortigos
+  Edzinon lian, liajn geinfanojn,
+  Kaj ĉiujn, kiuj nomas sin parencoj.
+  Mi ne intencas vante fanfaroni;
+  Mi tion faros antaŭ malvarmiĝo
+  De mia celo. For, vidaĵoj ĉiaj!
+  Nu, min konduku tien, kie trovas
+  Sin la sinjoroj.
+                                                              Ĉiuj foriras.
+
+
+SCENO DUA
+
+FIFO. LA KASTELO DE MAKDUFO.
+
+Venas GRAFINO MAKDUFO kun sia FILO kaj ROSSO.
+
+
+  GRAFINO MAKDUFO.
+
+  Sed kion do li faris, por ke li
+  De l' lando rapidiru?
+
+  ROSSO.
+
+                        Pacience
+  Atendi oni devas.
+
+  GRAFINO MAKDUFO.
+
+                    Pacienco!
+  Sed kie estis lia? Li foriris
+  Malsaĝe: se ne agoj niaj, timoj
+  Nin ofte faras ŝajne perfiduloj.
+
+  ROSSO.
+
+  Vi scias ne, ĉu timo aŭ prudento
+  Influis lin.
+
+  GRAFINO MAKDUFO.
+
+               Prudento! La edzinon
+  Forlasi, kaj infanojn, kaj kastelon,
+  Kaj ĉiujn signojn de la nobeleco,
+  En land', de kiu li forkuris! Li
+  Ne amas nin: al li la sento mankas
+  Natura: ĉar la eta troglodito
+  La plej malaltekreska el la birdoj,
+  Patrino de idaro en la nesto,
+  Kuraĝas kontraŭstari al la strigo.
+  En la pezado multe superpezas
+  La timo lian amon; kie estis
+  Prudento, kiam tiel senracie
+  Li forrapidis?
+
+  ROSSO.
+
+                 Ho kuzino mia,
+  Sindetenema estu: via edzo,
+  Prudenta, saĝa, nobla, bone konas
+  La krizojn de la tempoj. Mi ne pli
+  Kuraĝas diri, sed kruelaj estas
+  Ĉi tiuj tempoj, kiam oni taksas
+  Nin, senkulpulojn, kiel perfidantojn;
+  Kaj ni la onidirojn akordigas
+  Kun niaj timoj, sur sovaĝa maro
+  De malcertec' enŝipiĝinte, tien
+  Kaj reen moviĝante. Forpermeson
+  Mi petas, post ne longe revenonte;
+  Aferoj povas ne plimalboniĝi,
+  Sed nun atingos baldaŭ la antaŭan
+  Nivelon. Ĉiujn miajn bondezirojn,
+  Kuzeto bela.
+
+  GRAFINO MAKDUFO.
+
+               Li senpatra estas
+  Kvankam li havas patron.
+
+  ROSSO.
+
+                           Miaj sentoj,
+  Se mi pli longe restos, malvirigos
+  Min, malhelpante vin, kaj hontigante
+  Min mem. Mi tuj foriras.
+                                                                Li foriras.
+
+  GRAFINO MAKDUFO.
+
+                           Via patro
+  Jam mortis. Kiel do vi povos vivi?
+
+  FILO.
+
+  Mi faros same kiel la birdetoj.
+
+  GRAFINO MAKDUFO.
+
+  Manĝante vermojn aŭ muŝetojn?
+
+  FILO.
+
+                                   Sole
+  Per tio, kion mi akiros, kiel
+  La birdoj.
+
+  GRAFINO MAKDUFO.
+
+             Kompatinda birdo, vi
+  Neniam timos la kaptilon.
+
+  FILO.
+
+                            Kial
+  Mi timos ĝin, patrino? Oni faras
+  Kaptilojn ne por la malriĉaj birdoj.
+  Sed mia patro ne en vero mortis.
+
+  GRAFINO MAKDUFO.
+
+  Jes, vere; kiel vi alian gajnos?
+
+  FILO.
+
+  Ne, kiel vi alian edzon gajnos?
+
+  GRAFINO MAKDUFO.
+
+  Mi povus cent aĉeti ĉe l' vendejo.
+
+  FILO.
+
+  Do vi aĉetos ilin por revendo.
+
+  GRAFINO MAKDUFO.
+
+  Vi havas pli da sprito ol da jaroj.
+
+  FILO.
+
+  Ĉu mia patro estis perfidulo?
+
+  GRAFINO MAKDUFO.
+
+  Jes, vere.
+
+  FILO.
+
+             Kio estas perfidulo?
+
+GRAFINO MAKDUFO.
+
+Tiu, kiu ĵuras kaj mensogas.
+
+FILO.
+
+Ĉu estas ĉiuj, kiuj tion faras, perfiduloj?
+
+GRAFINO MAKDUFO.
+
+Ĉiu, kiu tion faras, estas perfidulo, kaj pendiginda.
+
+FILO.
+
+Ĉu ĉiuj estas pendigindaj, kiuj ĵuras kaj mensogas?
+
+GRAFINO MAKDUFO.
+
+Ĉiuj.
+
+FILO.
+
+Kiu devos pendigi ilin?
+
+GRAFINO MAKDUFO.
+
+La honestuloj.
+
+FILO.
+
+Do la mensoguloj kaj ĵuruloj estas malsaĝuloj, ĉar la mensoguloj kaj
+ĵuruloj sufiĉas por venki la honestulojn kaj pendigi ilin.
+
+GRAFINO MAKDUFO.
+
+Nu, Dio helpu vin, petoluleto! Sed kion vi faros, por havigi patron?
+
+FILO.
+
+Se li estus mortinta, vi lin plorus, se ne, tio vidigus al mi, ke mi baldaŭ
+ricevos novan patron.
+
+GRAFINO MAKDUFO.
+
+Babiluleto, kiom vi parolas!
+
+                                                             Venas Sendito.
+  SENDITO.
+
+  Saluton, via Moŝto! Vi ne konas
+  Min, kvankam mi perfekte scias vian
+  Altrangon, sed mi timas, ke danĝero
+  Alproksimiĝas vin: se vi konsilon
+  De neinstruitulo volas sekvi,
+  Ne restu tie ĉi; for, kun la filoj.
+  Mi ŝajnas sovaĝul' vin timigante:
+  Sed ne antaŭsciigi vin pli estus
+  Kruele. Dio vin protektu! Ne
+  Kuraĝas mi plu resti.
+                                                                Li foriras.
+
+  GRAFINO MAKDUFO.
+
+  Sed kien povas mi foriri? Kion
+  Malbonan faris mi? Sed mi memoras,
+  Ke sur ĉi tiu ter' malbono ofte
+  Laŭdata estas, kelkafoje fari
+  Bonaĵojn oni nomas malsaĝeco:
+  Do kiel mi virinan senkulpigon
+  Pretendas, ke malbonon mi ne faris?
+                                                         Venas Mortigistoj.
+  Kiuj estas tiuj ĉi?
+
+  UNUA MORTIGISTO.
+
+  Kie estas via edzo?
+
+  GRAFINO MAKDUFO.
+
+  Mi kredas, ne en tia malsanktejo,
+  En kiu tia homo, kia vi,
+  Lin povos trovi.
+
+  UNUA MORTIGISTO.
+
+                   Li perfida estas.
+
+  FILO.
+
+  Harega sentaŭgulo, vi mensogas!
+
+  UNUA MORTIGISTO.
+
+  Kokido, kion?
+                                                  Frapanto lin por ponardo.
+  Fiŝid' de perfideco!
+
+  FILO.
+
+                        Mi mortiĝis,
+  Patrino: kuru for, mi petas vin!
+                                                                 Li mortas.
+
+Grafino Makdufo foriras, kriegante «Mortigo!» La mortigistoj foriras post
+ŝi.
+
+
+SCENO TRIA
+
+ANGLUJO. ANTAŬ LA REĜA PALACO.
+
+Venas MALKOMO kaj MAKDUFO.
+
+
+  MALKOMO.
+
+  Ni trovu dezertejon, por ellasi
+  La larmojn, kiuj premas niajn brustojn.
+
+  MAKDUFO.
+
+  Plibone ni mantenu niajn glavojn
+  Mortigajn, por defendi la patrujon,
+  Kuŝantan sub kalkano de tirano.
+  Plivastiĝadas ĉiutage krioj
+  De l' buŝoj de vidvinoj kaj de orfoj,
+  Frapante la ĉielon, kiu eĥas
+  Responde, kunplorante kun Skotlando.
+
+  MALKOMO.
+
+  Mi ekproklamos ĉie la bezonojn
+  De mia lando, laŭokaze ilin
+  Plenumos. Tio, kion vi ĵus diris,
+  Antaŭenpuŝos eble l' entreprenon
+  De ni celatan. Tiun ĉi tiranon
+  Abomenindan oni kredis justa
+  Antaŭe: vi lin amis, li malbonon
+  Al vi ĝis nun ne faris. Mi nur estas
+  Junulo; kaj vi eble konsideros,
+  Ke saĝe estos min oferi, kiel
+  Ŝafidon, por eviti la koleron
+  De tiu ĉi demono.
+
+  MAKDUFO.
+
+                     Mi ne estas
+  Perfida.
+
+  MALKOMO.
+
+           Sed Makbeto estas. Foje
+  Grandanimulo povus deflankiĝi,
+  Por elplenumi reĝan komision.
+  Sed min pardonu; mi ne povas ŝanĝi
+  Naturon vian; la anĝeloj havas
+  Brilecon, kvankam la plej brila falis:
+  Se eĉ malvirto portus veston helan,
+  Mienon sian propran havus virto.
+
+  MAKDUFO.
+
+  Mi malesperas.
+
+  MALKOMO.
+
+                 Viaj agoj igis
+  Min dubi vian viran fidelecon;
+  Ĉar kial vi la filon kaj edzinon—
+  Ligilojn alteprezajn de la amo—
+  Forlasis, ne dirinte adiaŭon?
+  Nur miaj timoj, ne suspektoj miaj,
+  Vin malhonori ŝajnas—kion ajn
+  Mi pensu, eble vi justulo estas.
+
+  MAKDUFO.
+
+  Sangadu, kompatinda patrolando!
+  Starigu, tiraneco, vian bazon,
+  Justeco vin ne povas kontraŭstari;
+  Ĉar la suferoj de patrujo nia
+  Prezentas garantion de titolo
+  Al la tirano; nobelul', adiaŭ:
+  Mi ne la rolon ludus de l' fripono,
+  Al kiu vi aludas, por ricevi
+  La tutan havon de la uzurpinto,
+  Kun la riĉaĵoj de la oriento.
+
+  MALKOMO.
+
+  Ne ofendiĝu. Mi ne diris tion
+  Pro timo kontraŭ vi. Patrujo nia,
+  Ho ve! sub peza jugo subpremiĝas;
+  Ĝi ploras, ĝi sangadas, ĉiutage
+  La sum' de ĝiaj vundoj pliiĝadas:
+  Mi kredas, ke por la subten' de miaj
+  Reĝrajtoj amikaro tuj sin levos,
+  Ĉar multaj miloj jam de Anglolando
+  Promesis sindoneme sian helpon.
+  Sed, malgraŭ ĉio, kiam mi la kapon
+  De la tirano havos sub piedoj,
+  Aŭ portos ĝin je l' pinto de la glavo,
+  La kompatinda patroland' enhavos
+  Pli da malvirtoj ol antaŭe, pli
+  Da suferado pro la malbonaĵoj
+  De la reĝonto.
+
+  MAKDUFO.
+
+                  Kia estas li!
+
+  MALKOMO.
+
+  Min mem pridiras mi, mi, kiu havas
+  Enradikitajn tiamaniere
+  La malpuraĵojn de malvirto mem,
+  Ke, kiam ili estos malkaŝitaj,
+  La nigra koro de Makbeto ŝajnos
+  Neĝblankan veston porti, kaj regatoj
+  Lin taksos kiel ŝafon, en komparo
+  Kun la senmezuregaj kruelaĵoj
+  De mi, la lupo.
+
+  MAKDUFO.
+
+                  Ne el la legioj
+  De la infer' flamanta povas veni
+  Diablo pli praktika je malbono,
+  Ol mem Makbeto.
+
+  MALKOMO.
+
+                  Mi lin konas kiel
+  Sangaman, avareman, perfidulon,
+  Malican, kulpan je la tuta aro
+  De pekoj: sed al mia volupteco
+  Ne estas lim': edzinoj kaj filinoj,
+  Patrinoj kaj fraŭlinoj viaj povus
+  Ne kontentigi miajn amdezirojn;
+  Kaj ĉiujn malhelpaĵojn, eĉ plej fortajn
+  Por kontraŭstari ilin, mi disbatus
+  Laŭ mia volo: ja plibone estus
+  Ke eĉ Makbet', ol tia, reĝu.
+
+  MAKDUFO.
+
+                                 Vere
+  Senlima malĉasteco la naturon
+  De tiraneco havas: jam ĝi kaŭzis
+  La fruan nenecesan renversiĝon
+  De l' tron' de multaj reĝoj. Sed ne timu
+  La vian supreniri: ĉar vi povos
+  Indulgi en sekreto viajn pekojn,
+  Dum vi ŝajnigas rolon de ermito.
+  Sufiĉe da virinoj plej cedemaj
+  Ni havas; kiuj ĝoje sin dediĉos
+  Por plaĉi vian malĉastecon,—kiu
+  Similas al vultur' glutama,—kiam
+  L' amindamanto estas la reganto.
+
+  MALKOMO.
+
+  Kun tio en mi kreskas avareco
+  Supera, tia ke, se mi fariĝus
+  Regnestro, mi forigus la nobelojn,
+  Por ke proprigu mi al mi iliajn
+  Bienojn; mi de tiu la juvelojn
+  Dezirus, de alia la domegon.
+  Ju pli mi havus des pli mi sopirus:
+  Falsanto, mi per novaj dokumentoj
+  Pretendus punojn kontraŭ la justuloj,
+  Per konfiskado de la posedaĵoj
+  Pliriĉigante min.
+
+  MAKDUFO.
+
+                     La avareco
+  Ol malĉastec' radikon pli profundan
+  Prezentas, kiu pasas kun juneco,
+  Kaj jam regnestrojn multajn ĝi detruis:
+  Ne timu tamen, ĉar Skotlando havas
+  Sufiĉe por vin kontentigi: ĉio
+  Eltolerebla estas kunigate
+  Kun kelkaj bonaj ecoj.
+
+  MALKOMO.
+
+                         Mi neniajn
+  Posedas: tiujn, kiuj plinobligas
+  Animon reĝan, kiel la justeco,
+  Vereco, modereco, sindoneco,
+  Persisto, kompateco, humileco,
+  Kuraĝo, pacienc', animforteco,
+  Ne ŝatas mi, kontraŭe, al mi plaĉas
+  De ĉiu krim' la formojn diversigi
+  Multmaniere. Se mi povus, mi
+  Preferus la ĉielon kun infero
+  Kunmiksi, ĉiujn homojn malpacigi,
+  Internacian pacon elforigi.
+
+  MAKDUFO.
+
+  Skotlando, ho Skotland'!
+
+  MALKOMO.
+
+                           Ĉu tia viro
+  Regnestri devus, diru, ĉar mi havas
+  Naturon vere tian.
+
+  MAKDUFO.
+
+                     Tia viro
+  Ne devus vivi. Ho naci' mizera,
+  Kun uzurpinto sangtrempita, kiam
+  Feliĉajn tagojn vi revidos, kiam
+  La vera heredant' de via trono,
+  Kalumniante sian rason, staras
+  Memkulpiginto? Via patro estis
+  Sanktulo: la reĝin', patrino via,
+  Pli ofte sur genuoj ol piedoj,
+  Senvivan vivon vivis, diservante.
+  Adiaŭ! La rakonto pri vi mem
+  Kaj viaj ecoj min ekzilas de
+  Skotlando. Mia kor', esperoj viaj
+  Ĉi tie mortas!
+
+  MALKOMO.
+
+                  Ho Makdufo, via
+  Pasio nobla, de bonec' naskito,
+  Elviŝas el animo mia nigrajn
+  Suspektojn, min certigas pri honoro
+  Kaj fidindeco via. Jam Makbeto
+  Penadis per ĉi tiuj allogaĵoj
+  Min fari sia, kaj prudento vera
+  Malhelpas min tro rapidege agi:
+  Sed Dio ĉiopova traktu inter
+  Ni ambaŭ! Ĉar ŝip' mia velveturos
+  Laŭ via direktilo: mi maldiras
+  Kalumniaĵojn miajn ĵus diritajn,
+  Kaj neas ilin kiel malveraĵojn:
+  Virinon mi neniam malĉastigis;
+  Neniam mi ĵurrompis, mi apenaŭ
+  Avaris miajn proprajn heredaĵojn;
+  Neniam trompis per parolo mia,
+  Nek la diablon mem perfidi volus
+  Al lia egalulo; al mi plaĉas
+  Ne malpli vero, ol la vivo mem.
+  Kaj ĉio estis nur kalumniaĵoj
+  Kontraŭ mi mem: nun tio, kio vere
+  Mi estas, de vi restas disponebla,
+  Kaj de patrujo mia kara, kien
+  Sivardo, kun dek mil armitoj, iris,
+  Ĵus antaŭ ol vi tien ĉi alvenis.
+  Nun ni ekiru kune, kaj sukceso
+  Respondu al apero nia justa!
+  Sed kial vi silentas do?
+
+  MAKDUFO.
+
+                           Diraĵoj,
+  Jen plezurigaj al mi kaj jen male
+  Samfoje, ŝajnas preskaŭ mirrakontoj.
+                                                           Venas Kuracisto.
+
+  MALKOMO.
+
+  Nu, ĝis revido. Ĉu la reĝ' eliros?
+
+  KURACISTO.
+
+  Sinjoro, jes: nun kompatindularo
+  Atendas, por ke li mantuŝu ilin:
+  Plej fortaj provoj de la kuracarto
+  Iliajn malsanegojn malsukcesis
+  Formovi; sed je la mantuŝo reĝa—
+  Ĉar Di' sanigan povon al li donis—
+  Ekresaniĝos ili.
+
+  MALKOMO.
+
+                    Mi vin dankas.
+                                                      La kuracisto foriras.
+
+  MAKDUFO.
+
+  Kiel sin nomas tiu malsanego?
+
+  MALKOMO.
+
+  Ĝin oni nomas la «malsano reĝa»;
+  Mi vidis tie ĉi la bonan reĝon
+  Miraklojn fari. Kiamaniere
+  De Dio li ĉi tiun povon havas,
+  Nur scias li: sed multajn malsanulojn,
+  Ŝvelintajn per ulceroj, kompatindajn,
+  Pri kiuj malesperis kuracistoj,
+  Li resanigas, pendigante ĉirkaŭ
+  Iliaj koloj specon da monero,
+  Samtempe al la sankta Di' preĝante,
+  Kaj oni diras, ke l' heredontaro
+  Sinsekve tiun benon kuracartan
+  Ricevos. Kun ĉi tio li posedas
+  La dian profetarton, kaj per dotoj
+  Similaj rimarkindaj de persono
+  Kaj de spirito estas li benita.
+                                                               Venas Rosso.
+
+  MAKDUFO.
+
+  Rigardu, kiu venas tien ĉi.
+
+  MALKOMO.
+
+  Sampatrujano mia; sed mi ne
+  Lin konas.
+
+  MAKDUFO.
+
+             Mia kuzo tre afabla,
+  Ĝojege mi revidas vin.
+
+  MALKOMO.
+
+                          Mi nun
+  Lin konas. Bona Dio laŭokaze
+  Finigu nian longan apartiĝon!
+
+  ROSSO.
+
+  Amen, sinjoro.
+
+  MAKDUFO.
+
+                 Ĉu Skotlando statas
+  Kiel antaŭe?
+
+  ROSSO.
+
+                Kompatinda lando,
+  Ho ve! ĝi, sin apenaŭ rekonante,
+  Ne povas nomi sin patrujo nia,
+  Sed nia tombo; kie nur ridetas
+  Pri ĝia malfeliĉo nesciantoj,
+  Kaj kie oni ne rimarkas ĝemojn
+  Kaj korŝirantajn kriojn, sed singultoj
+  De kordoloro ŝajnas ordinara
+  Eksento, ordinara de mortintoj
+  Funebro, kaj bonuloj, kiuj sentas
+  En si la ĝojon de la viv', ne scias
+  Ĉu morto per perforto aŭ perfido
+  Neatendite frapos ilin, antaŭ
+  Ol velkos la floretoj, kiujn ili
+  Sur siaj ĉapoj portas.
+
+  MAKDUFO.
+
+                          Ho, rakonto
+  Preciza, sed tro vera!
+
+  MALKOMO.
+
+                         Ĉiu horo
+  Malfeliĉaĵojn novajn gravediĝas.
+
+  MAKDUFO.
+
+  Kiel edzino mia statas?
+
+  ROSSO.
+
+                          Bone.
+
+  MAKDUFO.
+
+  Kaj la infanoj?
+
+  ROSSO.
+
+                  Bone ankaŭ.
+
+  MAKDUFO.
+
+                               Do ne
+  Maltrankviligis ilin la tirano?
+
+  ROSSO.
+
+  Trankvilajn tute mi forlasis ilin.
+
+  MAKDUFO.
+
+  Ne estu vortŝparema, sed parolu.
+
+  ROSSO.
+
+  Je l' tempo, kiam mi ĉi tien venis,
+  Por diri la rakonton kortuŝantan,
+  Mi aŭdis, ke arego da bravuloj
+  Jam interligis sin ribele—kion
+  Al mi konfirmis forte la vidaĵo
+  De granda soldataro de l' tirano:
+  Nun helpon ni bezonas; via sola
+  Ĉeesto en Skotlando amasigus
+  Soldatojn, bataligus eĉ virinojn,
+  Malfeliĉaĵojn nunajn por eligi.
+
+  MALKOMO.
+
+  Konsolu ilin per sciigo, ke
+  Ni tien iras: ĉar la bona reĝo
+  De Anglolando al ni komisiis
+  Sivardon bravan kun dek mil armitoj,
+  Kaj nek pliaĝa ol li, nek pli sperta,
+  Soldato estas inter kristanaro.
+
+  ROSSO.
+
+  Mi volas, ke respondan konsoladon
+  Mi povus doni! Sed paroloj miaj
+  En la aero de l' dezerto volus
+  Kriiĝi, kie ne ekaŭdus ilin
+  Orelo homa.
+
+  MAKDUFO.
+
+              Ĉu rilatas ili
+  Al la afero ĝenerala, aŭ
+  Privata?
+
+  ROSSO.
+
+           Ĉiujn honestulojn ili
+  Koncernas, sed vin ĉefe.
+
+  MAKDUFO.
+
+                            Se min mem,
+  Eldiru al mi tuj novaĵon vian.
+
+  ROSSO.
+
+  Oreloj viaj ne al lango mia
+  Malamon sentu, kiu nun aŭdigas
+  Al ili la plej malĝojigan sonon
+  Elparoleblan.
+
+  MAKDUFO.
+
+                Hm! mi ĝin divenas.
+
+  ROSSO.
+
+  Kastelon vian oni ekokupis
+  Subite, kaj edzinon vian kaj
+  Infanojn oni buĉis kruelege.
+  Se mi aldirus la detalojn, tio
+  Aldonus ŝajne vian morton ankaŭ
+  Al la buĉad' de la gemortigitoj.
+
+  MALKOMO.
+
+  Ho bona Dio! Sed ne kovru tiel
+  Per la ĉapelo, kamarad', la frunton;
+  Esprimu buŝe kordoloron, kiu
+  Ne parolate pruvas, ke la koro
+  Elkrevas.
+
+  MAKDUFO.
+
+            Ĉu vi diris ankaŭ miajn
+  Infanojn?
+
+  ROSSO.
+
+            Jes, edzinon, kaj infanojn,
+  Servistojn, ĉiujn, kiujn oni trovis.
+
+  MAKDUFO.
+
+  Kaj mi forestis! La edzinon ankaŭ?
+
+  ROSSO.
+
+  Mi diris.
+
+  MALKOMO.
+
+            Konsoliĝu: kuracilojn
+  Ni faru el ĉi tio, por kuraci
+  Per venĝo nia kordoloron nian
+  Mortigan.
+
+  MAKDUFO.
+
+            Li infanojn ne posedas.
+  Ho, ĉiujn miajn gekarulojn? Ĉu
+  Vi diris, ĉiujn? Akcipitr' infera!
+  Ho, tutan mian belan kokidaron
+  Kun la patrino, senkompate?
+
+  MALKOMO.
+
+                              Devas
+  Vi kiel viro ĝin batali.
+
+  MAKDUFO.
+
+                            Certe
+  Mi tion faros, sed mi kiel viro
+  Ĝin devas senti. Mi ne povas ne
+  Memori, ke ĉi tiuj geamatoj
+  Ekzistis, al mi pli ol viv' karegaj.
+  Ĉu Dio rigardante ne protektis
+  La senkulparon? Oni frapis ilin
+  Pro vi, Makdufo kulpa, kiu estas
+  Nenio; ĉar ne pro iliaj krimoj
+  Okazis la buĉado, sed pro miaj.
+  Ripozu ili nun en paco!
+
+  MALKOMO.
+
+                          Tio
+  Ĉi estu do al vi la akrigilo
+  De via glavo: kordoloro vin
+  Ekkolerigu, al vi ne dormigu
+  La sentojn, ilin veku.
+
+  MAKDUFO.
+
+                         Ho, mi povus
+  Virinan rolon ludi je l' okuloj,
+  Kaj venĝon fanfaroni per la lango!
+  Sed, kompatema Dio, mallongigu
+  La intertempon, kaj vizaĝo kontraŭ
+  Vizaĝo tiun ĉi demonon skotan
+  Al mi konduku; en la tuja trafo
+  De mia glavekbato lin starigu:
+  Se li el pun' severa elturniĝos,
+  Lin ankaŭ Dio senkulpigu!
+
+  MALKOMO.
+
+                             Bravan
+  Arion vi nun kantas. Ni rapidu
+  Al reĝ'; soldatoj niaj estas pretaj:
+  Ni nur bezonas forpermeson. La
+  Rikolto maturiĝas al la manoj
+  De ni, de l' ĉiopova Di' la iloj.
+  Kuraĝon: ĉar laboron kronas pago:
+  Post longa nokto venas fine tago.
+                                                               Ili foriras.
+
+
+
+
+AKTO KVINA
+
+
+SCENO UNUA
+
+DUNSINANO. VESTIBLO EN LA KASTELO.
+
+Venas DOKTORO DE MEDICINO kaj serva SINJORINO.
+
+
+DOKTORO.
+
+Mi maldormis kun vi du noktojn, sed mi ne trovis vera vian raporton. Kiam
+la lastan fojon ŝi somnambulis?
+
+SINJORINO.
+
+De la tempo, kiam lia reĝa Moŝto foriris al la milito, mi vidis ŝin
+ellitiĝi, surĵeti sur sin la ĉambroveston, malfermi la tirkeston de sia
+skribtablo, eltiri paperon, faldi ĝin, skribi sur ĝi, legi la skribaĵon,
+poste ĝin sigeli, kaj reenlitiĝi; sed la tutan tempon profunde dormantan.
+
+DOKTORO.
+
+Vere, jen nenatura tumulto en la homa nervaro, ricevi samfoje la utilon de
+dormo, kaj efektivigi la farojn de maldormo! Dum tiu dormema ekscitiĝo,
+krom la somnambulo kaj aliaj aferoj, kion iafoje vi aŭdis ŝin dirantan?
+
+SINJORINO.
+
+Tion, sinjoro, kion mi ne volas raporti.
+
+DOKTORO.
+
+Al mi vi povas, kaj decas, ke vi faru tion.
+
+SINJORINO.
+
+Nek al vi nek al alia, ĉar mi ne havas atestanton, por konfirmi tion, kion
+mi certigas.
+
+Venas Grafino Makbeto portante kandelon.
+
+Jen, ŝi venas! Ŝi havas la kutiman mienon; kaj, pro mia honoro,
+somnambulino. Observu ŝin proksime.
+
+DOKTORO.
+
+Kiamaniere ŝi ricevis tiun kandelon?
+
+SINJORINO.
+
+Nu, ĝi staris apude: ŝi ĉiam havas lumaĵon apude, laŭ sia ordono.
+
+DOKTORO.
+
+Vi vidas, ke ŝiaj okuloj estas ne fermitaj.
+
+SINJORINO.
+
+Jes, sed sen vidpovo.
+
+DOKTORO.
+
+Kion ŝi nun faras? Rigardu, kiel ŝi frotas la manojn.
+
+SINJORINO.
+
+Ĝi estas ŝia kutima ago, tiamaniere ŝajnlavi la manojn: mi vidis ŝin tion
+faradi dum plena kvaronhoro.
+
+GRAFINO MAKBETO.
+
+Jen ankoraŭ makulo.
+
+DOKTORO.
+
+Aŭskultu! Ŝi parolas; mi skribos tion, kion ŝi eldiros, por helpi pli bone
+mian memoron.
+
+GRAFINO MAKBETO.
+
+For, malbenita makulo! for, mi diras! Unu; du; bone, estas la horo por fari
+ĝin.—La infero estas malhela! Fi, via Moŝto, fi! Vi, soldato, timplena?
+Kial ni devus timi, ke tion sciu la tuta mondo, ĉar povas kulpigi nin
+neniu? Sed, kiu kredus, ke la maljunulo havas tiom da sango en la korpo?
+
+DOKTORO.
+
+Ĉu vi rimarkas tion?
+
+GRAFINO MAKBETO.
+
+La Grafo de Fifo havis edzinon; kie nun ŝi estas? Kio do, ĉu tiuj ĉi manoj
+neniam estos puraj? Ĉesigu tion, via Moŝto, ĉesigu tion: pro viaj eksaltoj
+vi difektas ĉion.
+
+DOKTORO.
+
+For, for; vi eksciis tion, kion vi ne devis scii.
+
+SINJORINO.
+
+Estas certe, ke ŝi priparolis tion, kion ŝi ne devis priparoli; nur Dio
+scias tion, kion ŝi spertis.
+
+GRAFINO MAKBETO.
+
+Jen, ankoraŭ restas la odoro de l' sango: la tuta parfumaro de Arabujo ne
+povus bonodorigi tiun ĉi maneton. Ho, ho, ho!
+
+DOKTORO.
+
+Kia sopirego! Ŝi havas la koron zorgpremitan.
+
+SINJORINO.
+
+Mi ne volus havi en la brusto tian koron pro kia ajn korpa nobeliĝo.
+
+DOKTORO.
+
+Bone, bone, bone.
+
+SINJORINO.
+
+Dio volu, ke tiel estu, sinjoro.
+
+DOKTORO.
+
+Tiu ĉi malsano estas de mi tute nekuracebla: tamen mi konis kelkajn
+somnambulintojn, kiuj dece mortis en lito.
+
+GRAFINO MAKBETO.
+
+Lavu la manojn, surmetu la ĉambroveston. Ne paliĝu.—Mi ankoraŭ diras, ke
+Bankvo enteriĝis: li ne povas eliri el la tombo.
+
+DOKTORO.
+
+Ĉu vere?
+
+GRAFINO MAKBETO.
+
+Al lito, al lito! Oni frapas ĉe la pordego: venu, venu, venu, donu al mi la
+manon. Faro farita ne estas malfarebla. Al lito, al lito!
+
+Ŝi foriras.
+
+DOKTORO.
+
+Ĉu ŝi nun enlitiĝos?
+
+SINJORINO.
+
+Jes, tuj.
+
+  DOKTORO.
+
+  Strangaĵojn oni diras: nenaturajn
+  Suferojn naskas nenaturaj faroj.
+  Spiritoj kulpaj diras la sekretojn
+  Al siaj kapkusenoj: ŝi bezonas
+  La pastron, pli ol kuraciston. Dio
+  Pardonu ĉiujn nin! Pri ŝi atentu;
+  De ŝi formovu ĉiujn difektilojn,
+  Kaj ŝin prizorgu. Tiel, bonan nokton:
+  Ŝi min mirigis, kaj vidadon mian
+  Konfuzis. Miajn pensojn mi retenas.
+
+  SINJORINO.
+
+  Doktoro, bonan nokton.
+                                                               Ili foriras.
+
+
+SCENO DUA
+
+KAMPARO APUD DUNSINANO.
+
+Trumpetado antaŭ standardoj. Venas MENTETO, KATNESO, ANGUSO, LENOKSO, kaj
+SOLDATOJ.
+
+
+  MENTETO.
+
+  L' armeo angla nun alproksimiĝas,
+  Je la komando de l' reĝid' Malkomo,
+  Sivardo lia onklo, kaj Makdufo:
+  Flamigas ilin venĝa sangavido,
+  Ĉar la insultoj, kaj suferoj gravaj
+  De ili subtenitaj eĉ monaĥon
+  Al la alarmo sanga, senkompata,
+  De la milito pikus.
+
+  ANGUSO.
+
+                      Jes, ni ilin
+  Renkontos apud la arbar' Birnama,
+  De kie ili venas.
+
+  KATNESO.
+
+                    Kiu scias,
+  Ĉu Donalben' kun sia frato venos?
+
+  LENOKSO.
+
+  Sinjoro, certe ne: mi havas liston
+  De l' eminentularo: de Sivardo
+  La filo, kaj aliaj senbarbuloj
+  De lia fruvireco, kiuj venas
+  La provon fari.
+
+  MENTETO.
+
+                  Kion la tirano
+  Ekfaras?
+
+  KATNESO.
+
+           Li fortigas Dunsinanan
+  Kastelon. Kelkaj diras, ke li estas
+  Freneza; kaj aliaj, kiuj malpli
+  Malamas lin, ĝin nomas furioza
+  Kuraĝo; sed li siajn partianojn
+  Ne povas fari obeemaj.
+
+  ANGUSO.
+
+                         Liaj
+  Mortigoj nigraj ligas liajn manojn,
+  Ĉar novaj ribelantoj riproĉadas
+  Perfidon lian; tiuj, kiuj servas
+  Lin, tion faras nur pro la servado,
+  Kaj ne pro amo: li la reĝan kronon
+  Tro peza tro glitema trovas, kiel
+  Ŝtelisto malgrandega la mantelon
+  De grandegulo.
+
+  MENTETO.
+
+                 Kiu tial povas
+  Riproĉi tiun, kiu, disŝirate
+  Pro devo al regnestro, kaj teruro
+  Al la kruelaj faroj de l' tirano,
+  Ekdeflankiĝas por ribeli?
+
+  KATNESO.
+
+                             Ni
+  Antaŭen marŝu, por prezenti nin
+  Al nia rajta reĝo obeemaj: ĝoje
+  La kuraconton de patrujo nia[1]
+  Malsana ni renkontu, pretaj verŝi
+  Sangeron nian lastan, por forigi
+  El nia lando la tiranon.
+
+  LENOKSO.
+
+                           Verŝi
+  Almenaŭ ĉiom, kiom ĝi bezonos,
+  Ke l' floro vivu, kaj la herboj dronu
+  Malbonaj. Ĝis Birnamo do ni marŝu.
+
+
+SCENO TRIA
+
+DUNSINANO. SALONO EN LA KASTELO.
+
+Venas MAKBETO, DOKTORO, kaj SEKVANTARO.
+
+
+  MAKBETO.
+
+  Ne pli da «onidiroj»: ĉiuj for!
+  Ĝis la arbar' Birnama formoviĝos
+  Al Dunsinan', mi ne al timo cedos.
+  Malkomo, kia estas li! Ĉu ne
+  Naskita de virino? La spiritoj,
+  Spertuloj pri okazontaĵoj homaj,
+  Al mi proklamis: «Timu ne, Makbeto,
+  Neniu de virin' naskita povos
+  Fariĝi via superanto». Iru,
+  Perfidaj grafoj, kaj aligu vin
+  Al anglaj manĝeguloj, se vi volas,
+  Ĉar mia kor' kaj forto de animo
+  Skuiĝos nek per dubo nek per timo.
+                                                            Venas Servisto.
+  Vizaĝon vian blankan la diablo
+  En nigran ŝanĝu, vi malbravegulo!
+  Kial vi tian elrigardon havas
+  Anseran?
+
+  SERVISTO.
+
+           Estas dek mil—
+
+  MAKBETO.
+
+                           Ĉu anseroj,
+  Fripono?
+
+  SERVISTO.
+
+           Militistoj, via Moŝto.
+
+  MAKBETO.
+
+  Pikigu la vizaĝon, por ruĝigi
+  Teruron vian, vi blankhepatulo.
+  Sed kiaj militistoj, malsaĝulo?
+  Animo via mortu! viaj vangoj,
+  Pro timo, senkoloraj konsilantoj
+  Al timo ŝajnas. Kiaj militistoj,
+  Blankulo?
+
+  SERVISTO.
+
+            La militistaro angla.
+
+  MAKBETO.
+
+  Vizaĝon vian for de tie ĉi.
+                                                          Servisto foriras.
+  Seton'! Pli ol malĝoja mi min sentas,
+  Ĉar rigardante—ho, Setono!—Krizo
+  La nuna min por ĉiam aŭ starigos
+  Aŭ malstarigos. Jam sufiĉe longe
+  Mi vivis: mia vivsezon' atingas
+  L' aŭtunon kun la flava foliaro
+  Velkinta, kaj benaĵojn, kiuj devus
+  La maljunecon akompani, kiel
+  Honoro, amo, obeemo, aroj
+  Da geamikoj, mi ne povas havi,
+  Sed anstataŭe fortajn malbenaĵojn
+  Mallaŭte elspiratajn, buŝlaŭdadon,
+  Flatadon, kiujn la mizera koro
+  Rifuzi volus, tamen ne kuraĝas.
+  Setono!
+                                                              Venas Setono.
+
+  SETONO.
+
+  Kion deziras via Moŝto?
+
+  MAKBETO.
+
+                           Kio
+  Da nova?
+
+  SETONO.
+
+           Ĉio estas konfirmita.
+
+  MAKBETO.
+
+  Mi batalados, ĝis de miaj ostoj
+  La karno falos dehakita. Donu
+  Al mi armaĵon mian.
+
+  SETONO.
+
+                       Ne ankoraŭ
+  Vi ĝin bezonas.
+
+  MAKBETO.
+
+                   Sed mi ĝin surmetu.
+  Pli da rajdistoj sendu for, la tutan
+  Kamparon por esplori; la timulojn
+  Pendigu. Donu al mi la armaĵon.
+  Doktoro, kiel la malsanulino
+  Nun statas?
+
+  DOKTORO.
+
+              Ŝi ne havas, via Moŝto,
+  Malsanon tiom, kiom korpremantajn
+  Fantaziaĵojn, kiuj la ripozon
+  Al ŝi malhelpas.
+
+  MAKBETO.
+
+                    Tion do kuracu.
+  Ĉu vi ne povas al spirit' malsana
+  Almeti kuracilon, elradiki
+  El la memoro korŝirantan zorgon,
+  Forigi el la cerbo malĝojaĵojn,
+  Kaj per dormiga dolĉa forgesilo
+  Eligi el la brusto tiun ŝtofon
+  Premigan al la koro?
+
+  DOKTORO.
+
+                       Pri ĉi tio
+  La malsanulo devas sin kuraci.
+
+  MAKBETO.
+
+  Forĵetu drogojn al la hundoj, mi
+  Malŝatas ilin. Vestu min per mia
+  Armaĵo, donu al mi la bastonon.
+  Setono, sendu for; Doktor', la grafoj
+  Forlasas min.—Rapidu.—Se vi povus,
+  Doktoro, analizi la urinon
+  De mia lando, kaj diagnozante
+  Eltrovi la malsanon, kiun ĝi
+  Suferas, per laksiloj purigante,
+  Ĝis kiam ĝi perfekte resaniĝos,
+  Mi vin aplaŭdus, ĝis ĉiel' eĥante
+  Rebatus miajn vortojn. Senvestigu
+  Min je l' armaĵo, kia do seneo[2],
+  Rabarbo, aŭ laksiga drogo povus
+  La anglojn fortimigi el la lando?
+  Ĉu vi jam aŭdis pri ilia veno?
+
+  DOKTORO.
+
+  Jes, via Moŝto; viaj preparigoj
+  Sentigas sin.
+
+  MAKBETO.
+
+                Alportu ĝin post mi[3].
+  Ne timos mi pri morto aŭ veneno,
+  Ĝis de l' arbar' Birnama la alveno.
+
+  DOKTORO. (Flanken).
+
+  Se nur de Dunsinano mi forirus,
+  Nenia pago reen min altirus.
+                                                               Ili foriras.
+
+
+SCENO KVARA
+
+KAMPARO PROKSIME DE LA BIRNAMA ARBARO.
+
+Tamburado antaŭ standardoj. Venas MALKOMO, maljuna SIVARDO, kaj lia FILO,
+MAKDUFO, MENTETO, KATNESO, ANGUSO, LENOKSO, ROSSO, kaj soldatoj, kiuj
+marŝas.
+
+
+  MALKOMO.
+
+  Ho kuzoj, mi esperas, ke la tagoj
+  Alproksimiĝas, kiam ĉiu homo
+  Kastelon sian trovos sendanĝera.
+
+  MENTETO.
+
+  Ni ne ĝin dubas.
+
+  SIVARDO.
+
+                    Kiel oni nomas
+  Arbaron tiun?
+
+  MENTETO.
+
+                La arbar' Birnama.
+
+  MALKOMO.
+
+  Soldatoj, vi dehaku ĉiu branĉon,
+  Kaj antaŭ vi ĝin portu: tiel ni
+  Elkaŝos de militistaro nia
+  La vicojn, kaj la malamikoj faros
+  Malĝustan takson pri ilia nombro.
+
+  SOLDATOJ.
+
+  Ni tion faros.
+
+  SIVARDO.
+
+                 Oni diris, ke la
+  Tirano tromemfida sin fortigas
+  En Dunsinano, preta por toleri
+  Sieĝon.
+
+  MALKOMO.
+
+           Jen la ĉefa defendilo
+  Por li: ĉar ĉiam, kiam la okazo
+  De ribelado sin prezentas, ĉiuj,
+  Ĉu altranguloj aŭ aliaj, ĝoje
+  Profitas ĝin, neniu la servadon
+  Daŭrigas, krom nur tiuj, kies koroj
+  En vero abomenas la aferon.
+
+  MAKDUFO.
+
+  Ni niajn juĝojn registrigu nur
+  Post la okazintaĵo, penadante,
+  Laŭ maniero de soldatoj viglaj,
+  Ke ni atingu nian celon.
+
+  SIVARDO.
+
+                           Baldaŭ
+  La hor' al ni sciigos ĉion, kion
+  Ni havas, kion ne—atentu tion.
+  Laŭvole pensoj vagu en la kapoj,
+  La rezultaton nur decidos frapoj:
+  Al kiu la milito paŝu.
+                                                            Ĉiuj formarŝas.
+
+
+SCENO KVINA
+
+DUNSINANO. LA INTERNAĴO DE LA KASTELO.
+
+Venas MAKBETO, SETONO, kaj SOLDATOJ. Tamburado antaŭ standardoj.
+
+
+  MAKBETO.
+
+  Pendigu la standardojn de l' eksteraj
+  Muregoj, la ekkrioj timaj bruas
+  Senĉese, «Ili venas»: la antikvaj
+  Fortikaj bastionoj de ĉi tiu
+  Kastel' de sieĝantoj la penadojn
+  Mokridos: tie ĉi kuŝadu ili,
+  Ĝis malsatego kaj tremfrosta febro
+  Konsumos ilin: se ne jam kun ili
+  Multegaj el aliĝintaro nia
+  Kunigis sin, ni barbo kontraŭ barbo
+  Renkontus maltimuloj la friponojn
+  Kaj reen batus ilin.
+                                Ekkrioj de virinoj aŭdiĝas post la scenejo.
+                       Kian bruon
+  Mi aŭdas?
+
+  SETONO.
+
+             La ekkriojn, via Moŝto,
+  De la virinoj.
+                                                                Li foriras.
+
+  MAKBETO.
+
+                 Preskaŭ mi forgesas
+  La timan senton: estis tempo, kiam
+  Nervaro mia nepre glaciiĝus
+  Je l' son' de noktomeza ekkriego,
+  Kaj, kvazaŭ vivoplenaj, miaj haroj
+  Ekrigidiĝus je rakont' timiga:
+  Sed vespermanĝis mi kun teruraĵoj,
+  Kun kiuj kutimiĝis miaj pensoj
+  Mortigaj loĝi, kaj nenio nun
+  Min eksaltigas.
+                                                            Setono revenas.
+                  Kial tiu krio?
+
+  SETONO.
+
+  Ĵus mortis la reĝino, via Moŝto.
+
+  MAKBETO.
+
+  Ŝi devus morti pli malfrue, kiam
+  Ni havus tempon por novaĵo tia.
+  La temp' senhalte glitas, glitas, glitas,
+  Apenaŭ rimarkebla de la homoj,
+  Ĝis kiam eĉ la lasta hor' finiĝos,
+  Kaj la pasintaj tagoj nur kondukas
+  Blindulojn al la tombo. Mallongviva
+  Kandelo, estingiĝu! Ĉar la homo
+  Promenas kvazaŭ moviĝanta ombro,
+  La rolon ludas de aktor' mallerta,
+  Sur la scenej' ne longe grimacanta,
+  Kaj poste malaperas. Homa vivo
+  Nur estas la rakont' de malsaĝulo,
+  Freneze sensencaĵojn krieganta
+  Sen ritmo kaj sen celo.
+                                                             Venas Sendito.
+  Vi venas por paroli; tuj eldiru.
+
+  SENDITO.
+
+  Apenaŭ povas mi rakonti tion,
+  Kion mi vere vidis.
+
+  MAKBETO.
+
+                      Tamen diru.
+
+  SENDITO.
+
+  Dum mi sur la monteto staris garde,
+  Birnamon rigardante, al mi ŝajnis,
+  Ke la arbaro sin ekmovas.
+
+  MAKBETO.
+
+                            Sklavo,
+  Kaj mensogulo!
+
+  SENDITO.
+
+                 Mi koleron vian
+  Toleru, se ne estas vere: de
+  Malproksimeco de tri mejloj ĝi
+  Videbla estas,—ŝajne, arbareto
+  Senhalte moviĝanta.
+
+  MAKBETO.
+
+                       Se vi diras
+  Malvere, de la arbo plej proksima
+  Pendiĝos vi vivante, ĝis malsato
+  Velkigos vin: se vere, mi ne plendus,
+  Se vi la samon al mi farus. Al mi
+  Ekmankas memfideco, mi ekdubas
+  La dusencaĵojn de l' diablo, kiu
+  Mensogas, kvazaŭ li la veron diras:
+  «Ne timu, ĝis al Dunsinano venos
+  L' arbar' Birnama»: kaj al Dunsinano
+  Alproksimiĝas nun arbaro. Armu
+  Vin, armu vin, antaŭen! Se ĉi tio
+  Veraĵo estas, nin egalvaloros
+  Aŭ resto aŭ foriro. Mi komencas
+  Enui eĉ pri l' brilo de la suno,
+  Deziri la renverson de la mondo.
+  Alarmon sonorigu! Vento, blovu!
+  Ruino, venu! kiom ajn ni povu,
+  Ni faru tiom, en armaĵ' mortante,
+  Kaj brave ĝis la fino batalante.
+                                                              Ĉiuj foriras.
+
+
+SCENO SESA
+
+DUNSINANO. ANTAŬ LA KASTELO.
+
+Tamburado antaŭ standardoj. Venas MALKOMO, MALJUNA SIVARDO, MAKDUFO kun sia
+militistaro portanta arbbranĉojn.
+
+
+  MALKOMO.
+
+  Sufiĉas: nun deĵetu la foliajn
+  Ŝirmilojn, kaj malkaŝu viajn nombrojn.
+  Vi, inda onklo, kun la helpo de
+  Tre nobla filo via, la atakon
+  Kondukos: dum ni kune kun Makdufo
+  Laŭ la komand' plenumos niajn devojn.
+  Ĉe vi l' afero restas.
+
+  SIVARDO.
+
+                          Bonan ŝancon.
+  Se ni hodiaŭ la tiranon trovos,
+  Ni velku, se batali ni ne povos.
+
+  MAKDUFO.
+
+  Elspiru nian bruan trumpetadon,
+  De sanga batalmorto minacadon.
+                                                               Ili foriras.
+
+
+SCENO SEPA
+
+ALIA PARTO DE LA KAMPO.
+
+Trumpetado. Venas MAKBETO.
+
+
+  MAKBETO.
+
+  Ligite al la fosto, kiel urso,
+  Ne povas mi forkuri, sed deviĝas
+  Batali. Kiu estas nenaskito
+  De la virino? Tian, aŭ neniun,
+  Mi timas.
+                                                        Venas juna Sivardo.
+
+  JUNA SIVARDO.
+
+  Kiel vi nomas vin?
+
+  MAKBETO.
+
+                     Junul', vi tremos,
+  Aŭdinte ĝin.
+
+  JUNA SIVARDO.
+
+                 Ne, kvankam vi vin nomus
+  Per nomo pli terura, ol infero
+  Enhavas.
+
+  MAKBETO.
+
+           Mi Makbeto nomas min.
+
+  JUNA SIVARDO.
+
+  La mem diablo povas ne eldiri
+  Titolon de mi pli abomenatan.
+
+  MAKBETO.
+
+  Nek pli timigan.
+
+  JUNA SIVARDO.
+
+                   Vi mensogas, nigra
+  Tirano; mi per mia glavo pruvos,
+  Ke mensogulo estas vi.
+                             Ili batalas, kaj juna Sivardo falas mortigite.
+
+  MAKBETO.
+
+                         Vi estis
+  Naskita de virino, do vi falis.
+  Mi ridas je la glavoj manuzitaj
+  De homoj naskiĝintaj de virino.
+                                     Li foriras. Trumpetado. Venas Makdufo.
+
+  MAKDUFO.
+
+  Ĉi tie mi la bruon aŭdis. Monstro,
+  Malkaŝu vin: se ne per mia mano
+  Vi falus, la spiritoj de edzino
+  Kaj de infanoj miaj min riproĉus
+  Ankoraŭ. Mi ne volas insulanojn
+  Batali, kiuj estas nur dungitaj
+  Por la milito, sed vin mem, Makbeto;
+  Se ne, mi mian glavon eningigos,
+  Senmakulitan: laŭ la bruo, kiun
+  Mi aŭdas, kredas mi, ke altrangulo
+  Proksime marŝas. Sorto, mi lin trovu!
+  Kaj mi ne petos pli.
+
+Li foriru. Trumpetado post la scenejo. Venas Malkomo kaj maljuna Sivardo.
+
+  SIVARDO.
+
+  Ĉi tien, via Moŝto; la kastelon
+  Trankvile ekokupis ni; la aroj
+  De la tirano, vidu, ambaŭflanke
+  Batalas; brava estas la mieno
+  De l' grafoj en la batalado: ŝajnas,
+  Ke nun ni povas nin gratuli kiel
+  Venkintojn, ĉar la fin' alproksimiĝas.
+
+  MALKOMO.
+
+  Pli de la malamikoj ĉiuhore
+  Fariĝas niaj partianoj.
+
+  SIVARDO.
+
+                           Plaĉu
+  Al vi eniri la kastelon.
+                                   Ili foriras. Trumpetado post la scenejo.
+
+
+SCENO OKA
+
+ALIA PARTO DE LA KAMPO.
+
+Venas MAKBETO.
+
+
+  MAKBETO.
+
+  Sed kial ludi rolon de Romano,
+  La malsaĝulo, kiu memmortigis,
+  Falante sur la pinton de la glavo?
+  Dum malamikoj restas, tranĉoj havas
+  Sur ili pli agrablan elrigardon.
+                                                             Venas Makdufo.
+
+  MAKDUFO.
+
+  Infera hundo, cedu vin!
+
+  MAKBETO.
+
+                          El ĉiuj
+  Mi vin evitis; sed retiru vin;
+  Animo mia pezan la riproĉon
+  Jam sentis pri mortigo de la viaj.
+
+  MAKDUFO.
+
+  Parolojn mi ne havas: mia glavo
+  Enhavas la respondon: for, fripono!
+  Sangsoifecon vian por esprimi,
+  Paroloj mankus.
+                                                               Ili batalas.
+
+  MAKBETO.
+
+                  Vane vi klopodas:
+  Egale vi l' aeron netranĉeblan
+  Impresus per tranĉrando via, kiel
+  Vi al mi sangellasus: vian glavon
+  Faligu sur vundeblajn kapojn; vivon
+  Mi havas ensorĉitan, sin cedontan
+  Neniam al naskita de virino.
+
+  MAKDUFO.
+
+  Forĵetu la esperojn pri l' sorĉaĵo:
+  Sciigu la demonon, kiun ĉiam
+  Vi servas, ke el la patrina ventro
+  Makdufo tromature elŝiriĝis.
+
+  MAKBETO.
+
+  La lango estu malbenita, kiu
+  Al mi proklamis tion, ĉar la parton
+  Pli viran de spirito mia ĝi
+  Difektis! kaj ĉi tiujn diablinojn
+  De nun neniu kredu, kiuj trompas
+  Per dusencaĵoj de sorĉart' la homojn,
+  Laŭvorte plenumante la promeson,
+  Sed kontraŭ tio, kion ni esperas.
+  Je vi mi ne batalu.
+
+  MAKDUFO.
+
+                       Do vin cedu,
+  Timulo, kaj vivadu, por fariĝi
+  Spektaklo plej ridinda de homaro:
+  Ni vin pentrigos sur tolaĵo, kiel
+  La plej maloftajn monstrojn, subskribita,
+  «Jen vidu la tiranon».
+
+  MAKBETO.
+
+                         Ne, neniel
+  Mi cedos min, por kisi la teraĵon
+  Je la piedoj de Malkomo, aŭdi
+  Ekkriojn malbenantajn de l' tumulta
+  Popolamaso. Kvankam la Birnama
+  Arbaro venis Dunsinanon, malgraŭ
+  Ke vi min kontraŭstaras,—vi naskita
+  Ne de virino—tamen mian eblon
+  Mi provos, protektante mian bruston
+  Per mia ŝild'. Makdufo, faru samon,
+  Kaj havu la venkit' eternmalamon!
+                                        Ili foriras, batalante. Trumpetado.
+
+Retirado. Trumpetado. Venas, inter tamburado kaj standardoj, MALKOMO,
+MALJUNA SIVARDO, ROSSO, la ceteraj GRAFOJ, kaj SOLDATOJ.
+
+  MALKOMO.
+
+  Al niaj forestantoj mi deziras
+  Feliĉan venon.
+
+  SIVARDO.
+
+                  Kelkaj devis fali:
+  Sed tiuj, kiuj restas, pruvas nian
+  Triumfon aĉetita tre malkare.
+
+  MALKOMO.
+
+  Makduf' kaj via nobla filo mankas.
+
+  ROSSO.
+
+  La ŝuldon de soldato via filo
+  Jam pagis, via Moŝto: li nur vivis
+  Ĝis la printempo de la vira stato;
+  Apenaŭ tiun staton li atingis,
+  Senŝanceliĝe batalante, kiam
+  Li kiel viro mortis.
+
+  SIVARDO.
+
+                       Ĉu li estas
+  Mortinta?
+
+  ROSSO.
+
+            Jes, kaj for de l' kamp' portita.
+  Funebro via ne egalvaloru
+  Indecon lian: tiamaniere
+  Ĝi ne posedus limon.
+
+  SIVARDO.
+
+  Vundojn antaŭe?
+
+  ROSSO.
+
+                   Vere, sur la brusto.
+
+  SIVARDO.
+
+  Do li de Dio estu la soldato!
+  Se miaj filoj kun la haroj miaj
+  Egalenombraj estus, mi dezirus
+  Al ĉiu finon tiel noblan: jen
+  Pri lia mort' sonorigado mia.
+
+  MALKOMO.
+
+  Sed pli da funebrado li meritas,
+  Kaj mia devo estu ĝin plenumi.
+
+  SIVARDO.
+
+  Li ne meritas pli: laŭ la rakonto,
+  Li ludis inde sian rolon, kiam
+  Ĉi tiun terscenejon li forlasis.
+  Lin Dio benu! Ne senkonsoleblaj
+  Ni restu, ĉar jen venas pli da niaj.
+                   Revenas Makdufo, portante sur fosto la kapon de Makbeto.
+
+  MAKDUFO.
+
+  Salutojn, reĝo! ĉar vi estas tia.
+  Jen, kie staras de la uzurpinto
+  La malbenita kapo: ĉiuj estas
+  Nun liberuloj: mi vin ĉirkaŭitan
+  De l' juvelar' de via regno trovas:
+  Mi do iliajn pensojn nur esprimas
+  Kaj bondezirojn, laŭte proklamotajn,
+  Kriante: «Reĝo de Skotland', salutojn!»
+                                                                Trumpetado.
+
+  ĈIUJ.
+
+  Salutojn, Reĝo de Skotlando!
+
+  MALKOMO.
+
+  Ni ne intencas preterlasi multe
+  Da tempo, antaŭ ol ni nian konton
+  De amo saldos, kun vi kvitiĝante.
+  Vi grafoj kaj parencoj miaj, mi
+  Plinobeligas vin per la titolo
+  De lordoj, la unuaj, kiujn tiel
+  Skotland' honoris. Ĉion, kio restas
+  Farinda, ni ekfaru kiel eble
+  Plej frue, nome, la rehejmigadon
+  De ekzilitoj niaj, forkurintaj
+  De ruza tiraneco la intrigojn,
+  La kulpigadon de la ministraro
+  De tiu ĉi buĉist' mortinta kaj
+  Reĝino lia diabliniĝinta,
+  Memmortiginta, laŭ popola voĉo;
+  Kun helpo de la kompatema Dio
+  Atentu ni pri tio ĉi, kaj ĉio
+  Elplenumota, laŭ la tempo, loko,
+  Kaj la okazo de la devalvoko;
+  Al ĉiuj dankon, al ĉiu persono
+  Inviton al la reĝkronad' en Skono.
+                                                  Trumpetado. Ĉiuj foriras.
+
+[Illustration]
+
+
+
+
+PIEDNOTOJ.
+
+[1] T. e. Malkomo.
+
+[2] Seneo = senna, _séné fr._
+
+[3] Kompreneble tiu ĉi parolado direktiĝas jen al la doktoro jen al Setono.
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Makbeto, by William Shakespeare
+
+*** END OF THIS PROJECT GUTENBERG EBOOK MAKBETO ***
+
+***** This file should be named 47913-0.txt or 47913-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/7/9/1/47913/
+
+Produced by Andrew Sly, Brenda Lewis, Keith Edkins and the
+Online Distributed Proofreading Team at http://www.pgdp.net
+(This book was produced from scanned images of public
+domain material from the Google Print project.)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

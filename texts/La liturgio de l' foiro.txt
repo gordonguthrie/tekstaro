@@ -1,0 +1,3408 @@
+﻿The Project Gutenberg EBook of La liturgio de l' foiro, by Jorge Camacho
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+** This is a COPYRIGHTED Project Gutenberg eBook, Details Below **
+**     Please follow the copyright guidelines in this file.     **
+
+Title: La liturgio de l' foiro
+       (Elementoj por ekzegezo)
+
+Author: Jorge Camacho
+
+Release Date: December 9, 2007 [EBook #23586]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK LA LITURGIO DE L' FOIRO ***
+
+
+
+
+
+
+
+
+
+
+LA LITURGIO DE L' FOIRO
+
+(ELEMENTOJ POR EKZEGEZO)
+
+KUN SUPLEMENTO
+
+
+
+
+Jorge Camacho
+
+
+
+
+unua publika eldono, marto 1999
+kopirajto © ĉe la aŭtoro kaj la eldonejo
+eldonas Progresema Esperanto-Forumo
+Jakvo Schram
+Hof ter Bekestraat 49
+BE-2018 Antverpeno
+Belgujo
+
+
+
+
+Enhavo
+
+La liturgio de l' foiro
+
+  Manifesto de Raŭmo
+  Notoj
+  Glosoj
+  La aŭtoro
+  Bibliografio
+
+Suplemento
+
+  Falsaj nomoj -- kiaj homoj?
+  [Letero], de Probal Daŝgupto
+  Al la buŝo de oni neniu povas ordoni
+  Intertempe ni legis . . .
+    Pakto nigre sur blanko
+    Pakto por la Esperanta Civito
+    Forumo por la Esperanta Civito
+  Esperantujo apartenas al ĉiuj, de Jouko Lindstedt
+  Ne tuŝu esperantistojn, de Renato Corsetti
+  [Pri "eminentaj" esperantistoj], de Claude Piron
+  Lastsekunda informo
+  Poezia angulo: 452 farenhejtoj
+
+
+
+
+  Kara ________________,
+
+  Du gazet-eldonistoj esperantujaj afable rekomendis,
+  ke mi ne aperigu la ĉi-sekvan tekston libretoforme.
+  Bonvolu do legi ĝin ne kiel artikolon por la
+  ĝenerala publiko, sed estiel privatan leteron, kiun
+  mi sendas al diversaj kolegoj kaj geamikoj.
+
+  La aŭtoro.
+
+
+
+
+Manifesto de Raŭmo
+
+
+1. Krizo de identeco
+
+La subskribintoj konstatis kontraŭdiron en la sinteno de la
+esperantistaro, kvazaŭ konflikton inter idea superegoo kaj egoo:
+nia superegoo igas nin prediki al la aliaj homoj pri kelkaj mitoj
+-- la dua lingvo por ĉiu; la angla lingvo estas nia
+malamiko; UN devas adopti Esperanton; ktp -- kaj laŭdegi la
+lingvon eĉ neobjektive okaze de intervjuo; samtempe, inter ni,
+ni ĝuas kaj aplikas Esperanton laŭ tio kio ĝi efektive estas,
+sendepende de la pracelaj sloganoj. Tio ja estas krizo de
+identeco, kaj ni sentas la neceson motivi nian esperantistecon
+per io pli kohera.
+
+2. Kritiko de praceloj
+
+Ni kredas ke:
+
+a) la oficialigo de Esperanto estas nek verŝajna nek esenca dum
+la 80-aj jaroj -- oni havu alternativajn celojn;
+
+b) la faligo de la angla lingvo estas nek tasko nek zorgo de la
+esperantistoj: finfine la angla rolas nur kiel _help_lingvo,
+analoge al la franca siatempe (eĉ malpli grave ol iam la franca
+mem); Zamenhof neniam proponis al la E-movado kiel celon
+kontraŭstari la francan, ĉar por Esperanto li antaŭvidis pli
+valoran alternativan rolon.
+
+3. Niaj celoj
+
+Ni celas disvastigi Esperanton por pli kaj pli, iom post iom
+realigi pozitivajn valorojn:
+
+a) propedeŭtiko por lingvoinstruado;
+
+b) kontaktoj inter ordinaraj homoj;
+
+c) kontaktoj sendiskriminaciaj;
+
+ĉ) novtipa internacia kulturo.
+
+Lige kun la lasta valoro, ni emfazas ke la serĉado de propra
+identeco igis koncepti esperantistecon kvazaŭ la apartenon al
+mem elektita diaspora lingva minoritato. La kresko de niaj fortoj
+kaj la aliĝo de novaj homoj estas nepre kondiĉitaj de la
+konsciiĝo pri tiuj ĉi valoroj.
+
+4. La kongresoj kiel vojo al kresko
+
+Internaciaj kongresoj kaj renkontiĝoj estas esencaj por la
+asimiliĝo de homoj al nia lingva komunumo: necesas unuflanke
+kongresi pli ofte inter ni, kaj rezervi la kunsidadon de
+gvidorganoj al apartaj funkciulaj kunvenoj, laŭ la modelo de la
+TEJO-seminario en Strasburgo (junio 1980), kaj aliflanke necesas
+fortigi la uzon de Esperanto kiel laborlingvo en fakaj
+konferencoj internaciaj, laŭ la modelo de la
+Freinet-instruistoj.
+
+5. Ni posedas formon kaj enhavon
+
+Ni kredas ke la unua jarcento de Esperanto pruvis la taŭgecon de
+la lingvo por esprimi _ĉion_; meze de la 80-aj jaroj, komence de
+la dua jarcento, ni devos ekmontri al la mondo ke ni kapablas
+ankaŭ diri _ion_ -- ion kulture originalan kaj internacie
+valoran.
+
+
+
+
+La liturgio de l' foiro
+
+(Elementoj por ekzegezo)
+
+
+  Estas konate, ke amatoro, kiu unuafoje suriras
+  scenejon, tuj kredas sin genia. (Nu, genia li estas
+  ĉefe kiam li provludas tute sola antaŭ la spegulo
+  en la banĉambro). Kaj estas malfacile komprenigi al
+  tiu geniulo, ke li eble povus plibonigi sian ludon,
+  ke lia aktorado eble ne estas tiel perfekta kiel li
+  supozas . . .
+
+  Georges Lagrange
+
+
+_En la komenco estis la Manifesto de Raŭmo_. La someron de 1980,
+en la finna urbo Rauma, proklamiĝis la t.n. Manifesto de Raŭmo
+kadre de la 36a Internacia Junulara Kongreso de TEJO. Ĉefaj
+aŭtoroj de la dokumento ŝajne estis la unuaj tri subskribintoj
+(precipe la plej unua el ili): Jouko Lindstedt, Giorgio Silfer
+(pseŭdonomo de Valerio Ari) kaj Amri Wandel. Ĝis la fino de tiu
+jaro aliĝis ĉ. 80 pliaj subskribantoj. Unu el ili, la
+Kooperativo de Literatura Foiro (LF-koop), sur la paĝoj de la
+samnoma revuo, vidis en la proklamado naskiĝon de novtipa
+esperantismo, nome _raŭmismo_, kiun LF ĝis nun prezentas kiel
+sian ideologion kaj programon.
+
+Dek sep jarojn poste malmultaj konsentas pri la signifo de la
+vorto _raŭmismo_; nur ĝia etimologio restas klara. Blazio Vaha
+(naci-skribe: Balázs Wacha) protestas, ke "neniu objektive
+studis la 'tutan' historion de la raŭmismaj diskutoj; _Sojle_,
+studo de Sándor Révész pri ĝia komenca
+etapo, ne estas aperinta" (VAHA, p. 27). Aldo de' Giorgi same
+protestas, ke "Silfer inventis la Manifeston de Raŭmo kaj
+kredigas esti trovinta savigan, miraklan panaceon por nia tuta
+movado" (de' GIORGI, p. 26), sed surprize aldonas ke "ankaŭ mi
+ĉiam taksis min iaspeca raŭmisto. Sed senbezone de manifestoj,
+de karismaj [*] kondotieroj". Kontraste, Lindstedt mem skribas:
+"En la junaĝo mi kunverkis la Manifeston de Raŭmo, sed nun mi
+rimarkis, ke ne nur ekzistas la teksto de la manifesto, sed
+ankaŭ io, kio nomiĝas 'raŭmismo' kaj havas entuziasmajn
+subtenantojn kaj konvinkitajn kontraŭulojn. Io ŝanĝiĝis en
+miaj verdaj okulvitroj: mi ne plu sentis min kiel 'raŭmiston',
+kion ajn tio signifas" (LINDSTEDT, p. 329).
+
+Oni atentu la adjektivon _iaspeca_ en la vortoj de De' Giorgi.
+Ĝi paralelas sindifinojn kiel '_iaspeca_ ekologiisto',
+'_iaspeca_ feministo' aŭ '_iaspeca_ pacisto'. La adjektivo fakte
+signifas _alispeca_, kaj implicas la ekziston de du ismoj, unu
+ortodoksa [1] (ĉi-kaze la raŭmismo de LF), alia heterodoksa (la
+raŭmismo iaspeca). Similan ideon skizas Nikolao Gudskov: "Do,
+'raŭmismo' laŭ la spirito estas ĉefa vivkoncepto por la
+esperantistaro almenaŭ de la hodlera epoko, almenaŭ implicite,
+kaj en 1980 la banala ideo estis nur iom pli klare kaj malkaŝe
+vortumita" (GUDSKOV, p. 12).
+
+Lindstedt eksplicite detiras sin de la ortodoksa varianto, dum
+Vaha konceptas raŭmismon kiel tuton pli vastan. Claude Piron
+esprimas sin pli detale: "Pri multo en la spirito de la Raŭma
+Manifesto mi plene konsentas. Fakte, miaj kritikoj, aŭ, eble pli
+ĝuste, la sento, ke mi situas alimaniere ol la aŭtoroj, rilatas
+nur al la du unuaj punktoj. Sed pri la tri lastaj punktoj mi
+samopinias" (PIRON 1994, p. 8). Bela konfuzo, ĉu ne? Kiom da
+kapoj, kaj kiom da punktoj, tiom da raŭmismoj! Nu, en tiu ĉi
+eseo mi pritraktos nur la raŭmismon ortodoksan (mi ne tempas nek
+paciencus tralegi kaj analizi tiom da materialo). Laŭ mia tezo,
+ĝiaj nunaj defendantoj transsubstancigis la kvin punktojn en
+ordonojn aŭ dogmojn kaj la manifeston mem en dekalogon. Por fari
+klaran distingon disde ĉio alia kaj por uzi precizan terminon,
+en la ĉi-sekva teksto mi nomas ĝin _foirismo_, laŭ la nomo de
+l' kooperativo kaj la revuo.
+
+Kio estas foirismo? Ni legu unue, kiel ĝin difinas foiristoj
+mem: "Ni sekvas la Raŭman vojon, kiu kondukas al la atento pri
+la dialektika rilato inter nia mikrosocio kaj la makrosocio
+(prefere ol varti iun teorian internaciecon laŭ UN-skemoj) kaj
+paralele gvidas al la valorigo de la kulturo (literatura, muzika,
+bilda) kies radikoj ĉerpas el la konstato ke esperantisteco
+rolas kvazaŭ la aparteno al mem-elektita diaspora lingva
+minoritato" (SILFER 1994, p. 212). Samartikole Silfer aldonas, ke
+"Esperanto ne estas internacia helplingvo, sed transnacia
+kulturlingvo. Tio fakte estas la kvintesenco de raŭmismo rilate
+al la lingvo". La ligon inter ĉi konceptoj pri esperanto kaj
+esperantisteco ni trovas pli evidente en la dua artikolo de la
+statuto de Esperanta PEN-Centro, kiu deklaras unu el siaj celoj
+"firmigi ĉe siaj membroj la konscion pri aparteno al unika
+komunumo, kvazaŭ _al mem elektita diaspora lingva minoritato_
+(_Manifesto de Raŭmo_), kaj konsekvence uzi esperanton ne kiel
+internacian helplingvon sed kiel transnacian ĉeflingvon" (SILFER
+1995, p. 23).
+
+Nekonanton de foirismo unue surprizus ne la enhavo de la frazoj,
+sed ilia stilo. Karakterizas ĝin aparta lingvaĵo facile
+rekonebla post kelkaj legoj: _mikrosocio_, _makrosocio_,
+_diasporo_, _lingva minoritato_, _transnacia ĉeflingvo_.
+Preskaŭ ĉiuj paradas jam en la manifesto, kune kun: _identeco_,
+_superegoo_, _egoo_, _pracelo_.
+
+La paron _makrosocio_ / _mikrosocio_ oni trovas konstante en
+foirismaj tekstoj. Ĝi paŭsas parojn kiel _makrokosmo_ /
+_mikrokosmo_ aŭ _makroekonomiko_ / _mikroekonomiko_. Malfacilas
+kompreni la uzon de ĉi sciencaj vortkomencoj en manifesto
+destinita al la tuta esperantistaro, ĉefe tial, ke ĉi-okaze
+ambaŭ prefiksaĵoj ne vere rolas, sed nur impresas kiel
+fakvortoj. _Makrosocio_ estas centprocenta sinonimo de _socio_;
+per _mikrosocio_ oni laŭplaĉe komprenu _la esperantistaro_, _la
+Movado_, _la esperanta komunumo_ aŭ _Esperantujo_. Ĉi lastaj
+kvar esprimoj difinas la sintenon de la parolanto rilate la
+esperantistojn kiel tuton: ĉu ni estas nur aŭ ĉefe samlingvaj,
+samideaj, samcelaj, samkulturaj aŭ kvazaŭ samlandaj, ekzemple.
+Ĉu _mikrosocio_ volas diri, ke ni estas miniaturo de la socio,
+ia spegula minisocio [*] aŭ, tutsimple, soci-eto? Ŝajnas al mi,
+ke, kun la signifo _socio ene de la socio_, ĝi senprobleme
+aplikeblas al, ekzemple, komunumo de mormonoj aŭ de atestantoj
+de Jehovo en medio sen- aŭ ali-religia, ĉar tiuj kredoj muldas
+la sociecon de grupo ĝis plej etaj detaloj. Kontraste, ne sonas
+kredeble paroli pri _mikrosocio_ de esperantistoj, ŝakludistoj,
+violonludemuloj aŭ sangodonantoj. En frazero kia 'la dialektika
+rilato inter nia mikrosocio kaj la makrosocio', la foirisma stilo
+sonas pseŭdoscience.
+
+Mi daŭre miras pro la populariĝo de _transnacia_ anstataŭ
+_internacia_ kaj _sennacia_, al kio ne malgrave kontribuis la
+itala Radikala Partio. Kion ĝi signifas, kion novan ĝi
+kontribuas -- neniu scias. Mi trovis nur unu provon difini
+ĝin (LEYK 1987, p. 13), laŭ mi sensukcesan. Same taŭgus
+_preternacia_ kaj eĉ _malgraŭnacia_, sed al ili mankas la
+dezirata grado de modeco.
+
+Temas do nek pri sinonimoj (laŭ PIV, "vorto havanta ĝuste la
+saman sencon kaj uzatecon kiel unu alia [vorto]" aŭ "vorto
+esprimanta la saman ideon kiel alia vorto, sed ne uzata en la
+sama ĉirkaŭteksto, kun la samaj nuancoj aŭ en ĉiuj ties
+sencoj") nek pri eŭfemismoj ("uzo de nepreciza dirmaniero por
+mildigi la krudecon de aparta vorto"), kiel kaze de la t.n.
+_politike ĝusta_ aŭ _politike korekta_ [2] esprimado. La novaj
+vortoj distordas la pritraktatan koncepton kaj verdire _mildigas_
+nur la kompreneblecon de la frazo. Ĉi-sekve mi nomos ilin, laŭ
+la nomo de ilia plej konata lanĉinto kaj uzanto, silferismoj aŭ
+silferonimoj.
+
+Silferonimoj tamen ne estas senfunkciaj. La decido de foiristoj
+bapti sin _raŭmismo_ jam dekomence montris la volon fari
+distingon disde ĉiuj aliaj. Ofte oni komparas la esperantistaron
+kun sekto, ĉar de ekstere multaj movadaj tradicioj aspektas tre
+suspektinde. Nun oni permesu al mi nomi foirismon sekto, sed
+sekto ene de Esperantujo, el vidpunkto ne ekstera, sed propra al
+esperantistoj mem. Mi celas ne tiujn danĝerajn sektojn kiuj, per
+kidnapado [*] de infanoj aŭ cerbolavado de siaj membroj, regule
+plenigas paĝojn en la internacia ĵurnalaro, sed la vorton
+_sekto_ en la dua senco PIVa. Mi ne parolos pri _skismo_, ĉar
+foirismo ĝis nun nek sukcesis dudividi la esperantistaron (kiel
+Ido siatempe) nek naskiĝis el frakcio disiĝinta, ekzemple, elde
+UEA aŭ alia internacia organizo.
+
+(Parenteze: kiam, antaŭ du-tri jaroj, iu Thomas Hamilton
+mortpafis dekkelkon da infanoj en ilia lerneja gimnastejo en
+Dunblane, Skotujo, mia angla amiko Matthew Perret provis inciti
+min dirante, ke Hamilton membris en la loka E-grupo; temis pri
+blago, sed ja verŝajna. Mi same ne mirus, se la anoj de la sekto
+Ĉiela Pordo, mortigintaj sin pasintjare en Usono por aliĝi al
+la kometo Hale Bopp, estintus esperantistoj. Necesas nur
+pacienci, ĝis frenezulo el la verda tendaro mortigos sin aŭ iun
+alian, grave kontribuante al la propagando de nia afero).
+
+Fakte, la komparo kun religiiĝantaj sektoj (ĉi-kaze en la unua
+senco PIVa) montriĝas fruktodona analizilo. Ni do plu metaforu.
+Jen ni vidas grupon de memproklamitaj herezuloj aŭ parolantoj de
+la vero. Ili diskonigas manifeston. Tuj sekve ili sin rebaptas
+kaj samtempe metas distingan baron per starigo de ŝiboleta
+lingvaĵo. Per tio komenciĝas la instituciiĝo de l' deviacio.
+Sian heterodoksecon ili flirtigos laŭbezone, kvankam praktike
+ĝi jam transformiĝis en novan ortodoksecon: nun herezas la
+ceteraj.
+
+Ni legu, kion diras Piron pri la manifesto: "Unu el ĝiaj
+trajtoj, kiu jam okulfrapis al mi je ĝia apero, kaj kiun mi
+forte resentis relegante ĝin, estas la volo de apartigo, kiu
+esprimiĝas en ĝi. Ĝi dividas la esperantistojn en du grupojn:
+estas _ili_, kaj estas _ni_. Subkomprenate: _ili_ estas
+malpravaj, _ni_ estas pravaj; _ili_ estas fuŝuloj, homoj kun
+idealismaj, nerealismaj celoj, _ni_ diskrevigis la mitojn kaj
+objektive vidas; _ili_ elektis neĝustan vojon, la ĝustan vojon
+elektis _ni_. Tiu divido ŝajnas al mi neĝusta. Ĝi metas
+rigidajn limojn en realo diversa, moviĝanta, fleksebla, kiun tia
+simplismo ne povas kapti. [. . .]. Fakte, mi supozas la psikan
+meĥanismon, kiun oni nomas projekcio. Tuj kiam oni dividis
+komunumon en du partojn, _ili_ kaj _ni_, tiuj 'ili' alprenas
+simplisme skizitajn fikarakterizojn, kiuj apartenas pli al la
+imago ol al la realo. Ekzemple, mi neniam renkontis
+esperantiston, kiu favoris 'faligon de la angla', kiel diras la
+Manifesto, aŭ kredis je ebla oficialigo de esperanto en la 80aj,
+eĉ en la 90aj jaroj. Tia priskribo estas karikaturo koncerne la
+parton de la esperantistaro, pri kiu mi havas sperton" (PIRON
+1994, p. 1).
+
+Mi citu ankoraŭ el la sama prelegteksto (p. 2): "Fakte, estas
+interese, ke la apartigemo, kiu laŭ mi karakterizas la
+Manifeston, troviĝas sur tri niveloj: en la homaro [. . .], en
+la esperantistaro [. . .] kaj en la individua esperantisto mem,
+kio aperas en la unua punkto, titolita _Krizo de identeco_. Tie
+la aŭtoroj notas ĉe esperantistoj dividon inter superegoo
+predikema kaj mit-ama, kaj egoo, pro kiu, laŭ ili, ni simple
+ĝuas esperanton inter ni". Post argumentado el la vidpunkto de
+psikolog(i)o, Piron konkludas: "La divido inter superegoo kaj
+egoo do ŝajnas al mi neĝusta, plia konkretigo de ia, verŝajne
+nekonscia, bezono partigi kaj apartigi. Cetere, eblas bedaŭri la
+uzon de fakterminoj en ĝenerala teksto: oni povus diri la samon
+pli simple kaj klare".
+
+Restas tamen klara la funkcio de silferonimoj: apartigi, salivige
+ĵongli per la lingvo, kaj imponi al laikoj. Ĉi patino el
+esprimoj literaturaj, greklatinaj, modkulturaj kaj
+pseŭdosciencaj igas la manifeston netuŝebla kaj, do,
+nerefutebla. Silferonimoj havas kiel objekton ne ion obscenan aŭ
+hontindan, nek ion akcesoran aŭ banalan, sed precize la
+komunaĵojn kaj komunejojn de l' esperantistaro. La sistema
+renomado havas celon alproprigan aŭ, alivorte, magian. Ni
+retrovas la batalon ankaŭ en unuopaj sintagmoj: anstataŭ 'la
+fina venko', jen 'la Raŭma vojo'. Tre interesa montriĝas la
+anatemo _pracelo_. Okulfrape ĝi similas al la origina peko de
+Adamo kaj Eva, t.e. al la _prapeko_. Tial, sen granda troigo, ni
+povas repreni la komencan frazon de ĉi eseo kaj reverki ĝin
+laŭ la modelo de Lejzerowicz, por ke ni vidu foirismon kia ĝi
+sin manifestas:
+
+  "En la komenco la Senkorpa Mistero kreis
+  Esperantujon. Kaj Esperantujo estis senforma kaj
+  ĥaosa, kaj mallumo estis en ĝi. Kaj la Senkorpa
+  Mistero diris: Estu lumo; kaj fariĝis la Manifesto
+  de Raŭmo. Kaj la Spirito vidis la Manifeston, ke ĝi
+  estas bona; kaj la Spirito apartigis Raŭmismon de
+  Pracelismo. Kaj la Spirito nomis Raŭmismon Eterna
+  Tago, kaj Pracelismon kaj Finvenkismon nomis Nokto.
+  Kaj estis vespero, kaj estis mateno, unu tago."
+
+Ne pro nenio skribas Nikola Raŝiĉ [3], ke "tiuj kiuj predikas
+finvenkismon fakte praktikas raŭmismon, dum la raŭmistoj
+asertas ke ili fakte gvidas al la vera venko"! (RAŜIĈ, p. 185).
+Kaj, kiel okazas al religiiĝantaj herezoj aŭ sektoj, la agoj de
+foiristoj ofte identas la samajn farojn, kiujn ili kritikas.
+Ekzemplo: la konstantaj akuzoj ĉefe kontraŭ UEA pri
+_desuprismo_ [4] kaj _piramidismo_. Per tio foiristo celas, ke
+UEAn karakterizas piramida strukturo, kie ĉiuj decidoj venas de
+supre, de la unu- aŭ nurkelk-homa pinto. Nu, samo direblas
+rilate la renoman Kooperativon de Literatura Foiro: ĉion decidas
+Giorgio Silfer kaj Perla Martinelli, malgraŭ la diversaj maskoj,
+postenoj kaj subskriboj, malgraŭ la ofica karuselo. La decidoj
+venas de supre, sed de malpli supre, tiel ke demagogo kiel mi tuj
+ekpensas la vorton _demalplisuprismo_ por epiteti la agmetodojn
+de la kooperativo. Temas pri piramideta strukturo kun pluraj
+pajlohomoj, kiel nun Marco Picasso, surscenigantaj simplan
+farson: Silfer rolas kiel sekretario de KCE, Martinelli ekzemple
+kiel _redaktorino de Heroldo_, sed finfine la intrigo reduktiĝas
+al la kuirejaj planoj de geedza paro. Ili bonŝancas kalkuli je
+la helpo de homoj afablaj kaj simpatiaj kiel sinjoro Ljubomir
+Trifonĉovski, _ĉefredaktoro de LF_, sed kiu nuntempe agas kiel
+efika, obeema sbiro; rilate min kaj kolegon Jouko Lindstedt (pri
+tio poste), Ljubomir pruvis sin _intelekte malhonesta_ [5] (kaj
+mi, sincere, ne komprenas kial, ĉar ŝajnas ke li ne dependas de
+kooperativa salajro por sin vivteni). Prefere ni transiru al
+zoologia komparo: LF-koop havas polpan strukturon, kun tentakloj
+obeantaj la unusolan kapon. Aparte trafa montriĝas ĉi-kuntekste
+la PIVa difino de 'cefalopodo': _"Klaso de moluskoj, kies kapo
+estas ĉirkaŭita de 8 aŭ 10 brakoj, kaj kiuj povas plejofte
+sekrecii inkosimilan likvaĵon por sin kaŝi"_.
+
+Nenio nova pri polpoj, nenio nova ĉe Alpoj. Foirismo
+instituciiĝis jam de komence. Aŭ, pli ĝuste, ĝi estis kaj
+restas produkto de institucio, produkto kreita kun la celo
+pluvivi, pluvivigi sin, kaj ekspansii. Ekspansiemon pruvas la
+movoj de l' tentakloj dum la lastaj jaroj: Kultura Centro
+Esperantista, Internaciaj Floraj Ludoj, [La] Kvinpetalo, Svisa
+Esperanto-Societo, la Akademio, Heroldo . . . Ni vidos poste, ke
+tiucele LF-koop bazas sin sur la ideologio plej facile
+disvendebla ĉi-epoke, nome naciismo en sia varianto gentisma
+(aŭ, kiel modas diri, _etnisma_). Sed foirismo _endogmiĝis_ (ne
+konfuzu kun la Waringhien'a prononco de _endormiĝis_, almenaŭ
+en la filmo _Angoroj_), instituciiĝis ankaŭ simbole. Ne nur
+ĝia lingvaĵo, pletora je silferonimoj kaj eŭfemismoj, sed
+ankaŭ la _kvinpetalo_, avataro de la tradicia verda stelo kun
+rondigitaj pintoj, samtempe ege simila (ĉu nur hazarde?) al la
+_alpa suno_ aŭ verda sespetalo de Norda Ligo, la partio de la
+profesia demagogo Umberto Bossi depostulanta sendependiĝon de
+t.n. Padanujo [6] disde la itala respubliko.
+
+Foiristoj kritikas ankaŭ la finvenkismon de UEA-anoj kaj
+UEA-istoj. Sed, kiel prave skribis Probal Daŝgupto, anstataŭ
+(t.e. en la loko de, en la rolo de) la Fina Venko foirismo kultas
+siajn venkojn etajn (DAŜGUPTO, p. 11). Okupas nun la altaron la
+akcepto de esperanta sekcio (Esperanta PEN-Centro) fare de
+Internacia PEN-Klubo. En stilo identa al tiu de UEA pri la
+konsultaj rilatoj kun kaj la rezolucioj de Unesko, la oficiala
+koop-gazeto marteladas la ideon, ke por la unua fojo en la
+historio de lo [*] homo [7] oni agnoskas esperanton literatura
+lingvo. Alinome: la PENa venko. Kvazaŭ por montri, ke esperanto
+estas literatura esprimilo, neprus prezenti ĉi (f)akton,
+apelacii al superaj instancoj kaj aŭtoritatoj.
+
+Plej freŝan ekzemplon de ekspansiismo, de lukto por povo kaj
+potenco, prezentas la Forumo por la Esperanta Civito, en KCE,
+Ĉaŭdefono, de la 8a ĝis la 10a de aŭgusto 1998. En la komenco
+estis la vorto, kaj jen ni trovas _civito_. Tial, ke
+_esperantistaro_, _komunumo_ k.a. eluziĝis, necesis eltiri el la
+cerbujo novan terminon, kio devus implici novan koncepton de
+esperantismo: ne plu senti sin mondcivitano, sed ano de propra
+kaj aparta E-civito. (La neologismo '*demo', retroderivuta el
+'demokrato' kaj 'demografio', ne taŭgus pro la eventuala
+slogano: _Forumo por la E-Demo!_). Refoje la kutima travestia
+farso: al la konferenco, kiun gastigas Kultura
+Centro-Esperantista, aliĝas KCE mem, la du kunvokintoj Esperanta
+PEN-Centro (EPC) kaj ERA-Radikala Asocio, kaj LF-koop, kiel
+klarigas la teksto de la kunvoko (REDAKCIO). Tiu ĉi informas, ke
+"la partopreno en la Forumo implicas neniun financan ŝarĝon aŭ
+moralan engaĝon", t.e., ke ĝi liberas, sed ke "sufiĉas akcepti
+la proponitan kvintezon kaj sendi aliĝon al KCE". La _kvintezon_
+(plia silferismo memoriganta pri _kvintesenco_ kaj _sintezo_)
+proponis, evidente, LF-koop "por havi minimuman komunan
+denominatoron komence de la Forumo". Resumo de la farso: Giorgio
+kaj Perla invitas sin mem kaj kelkajn geamikojn al paradejo en
+Svisujo; ankaŭ naivuloj bonvenas, kondiĉe ke ili akceptas la
+kvin tezojn, dogmojn aŭ aksiomojn de familio Ari-Martinelli.
+Brile, ĉu ne? Aliĝanta "establo (societo, redakcio, eldonejo,
+kulturcentro ktp)" povas sendi delegiton, tiel ke "nur la
+delegitoj rajtos interveni kaj partopreni en eventualaj
+voĉdonoj. La privatuloj havos la statuson de observantoj, sed iu
+ajn delegito povos provizore rezigni je interveno favore al iu
+ajn privatulo". Kia grand-animeco, kia malavaro! Sufiĉas
+penseti, kiuj _establoj_ sendos delegiton al forumo kun ĉi tiaj
+kunvokintoj kaj antaŭkondiĉoj por kompreni, ke la rezulto
+respegulos la sentojn de la esperantistaro tiel _fidele_, kiel la
+lastaj parlamentaj elektoj en Kubo, aŭ kiel siatempe
+referendumoj organizitaj de Hitlero.
+
+Fine la invito diras, ke "la granda espero de la kunvokintoj
+estas ke la Forumo ne lanĉu (nur) novan proklamon, sed ke ĝi
+interpretu precipe la bezonojn de nia parolkomunumo, survoje al
+pli alta ŝtupo: tiu de (grandparte difinota) civito". Surbaze de
+ĉio legita ĝis nun, indas reprodukti kompleta la proponatan
+tekston, des pli ke iel temas pri reversio de la manifesto de
+Raŭmo:
+
+  La kvintezo
+
+  1. La esperanto-komunumo estas diaspora lingva
+  minoritato al kiu homoj apartenas pro libera elekto,
+  aŭ pro libera konfirmo kaze de denaskaj
+  esperantistoj.
+
+  2. La lingvokono estas la sola komuna distingilo de
+  la anoj de ĉi tiu komunumo. Ĉiu alia karakterizo
+  (rasa, religia, etna, klasa, seksa . . .) ne gravas
+  por difini la apartenon al la komunumo.
+
+  3. Konsekvence, laŭ la propra naturo, la
+  esperanto-komunumo respektas ĉiun religian
+  (ne)kredon, ĉiun politikan opinion demokrate
+  esprimitan kaj ĉiun kulturan tradicion.
+
+  4. Sed la esperanto-komunumo ne povus evolui se ĝi
+  konsistus nur el disigitaj eroj, indiferentaj unu al
+  la alia, konsiderantaj nur la proprajn regulojn kaj
+  kutimojn, engaĝitaj je nura kunekzistado. Civito ne
+  estas nur lingvanaro dotita je individuaj rajtoj: ĝi
+  estas ankaŭ realaĵo kun komuna destino.
+
+  5. Ĉi tiun komunan destinon forĝis la jam 110-jara
+  historio de la lingvanaro. Ĝin atestas la originala
+  esperanto-literaturo kaj la komunaj kulturaj trajtoj.
+  Ĝin firmigas la oficialaj renkontoj de la lingvanaro
+  mem, sub ĉiu formo, de la kurso ĝis la kongreso.
+  Tiuj renkontoj estas esencaj por la vivo de nia
+  civito, se ili donas la ŝancon reciproke edukiĝi
+  kaj integriĝi, lerni vivi kune kaj respekti unu la
+  alian. Tiurilate, kulturcentroj kaj E-domoj havas
+  apartan signifon kaj specifan mision.
+
+Jam nun mi anoncu, ke mi ne sentas min ano de iu tia civito, kio
+espereble ne signifas, ke oni provos senigi min je miaj devoj kaj
+rajtoj en kontaktoj kun aliaj esperantistoj. La kvin tezoj certe
+meritas amason da komentoj, sed unue ni aliru alian flankon de la
+afero. Se miaj informoj ne malĝustas, en unu el siaj kunsidoj de
+1996 aŭ 1997 EPC parolis pri starigo de ia centro, tegmento aŭ
+similaĵo por la monda E-civito. Ĉu tia centro bezonatas? Mi tre
+dubas. Ekstermovade, UEA estas rekonita kiel reprezentanto de
+esperanto kaj Esperantujo, kaj en Esperantujo mem plia centro nur
+signifus pli da burokrateco. La celo de la projekto ŝajnas esti
+starigi tronon, kiu kontentigu la moŝtan moŝton Silfer. Inter
+la unuaj apogantoj de la projekto povus aperi ne nur KCE, EPC,
+ERA kaj LF-koop, sed ankaŭ Svisa E-Societo (civitanino
+Martinelli tiam estis ĝia prezidanto) kaj eĉ la Akademio, se
+ĉi ties sekretariino Perla sukcesos en la plano ankri ĝin en
+Svisujo. Jen evidenta simptomo de ekspansiismo, kiu konkretiĝas
+en insistaj provoj depreni de UEA _suverenecon_ super parto de la
+esperantistaro.
+
+Nul homon murdis Giorgio Silfer, almenaŭ laŭ mia scio. Tial ne
+justus kompari lin kun krimuloj kiel Mobutu aŭ Pinochet, ridinde
+kaj plorinde kroĉantaj sin al Direktora Trono (la vampireska
+Pinochet kiel dumviva senatano), kvankam radike temas pri simila
+fenomeno: egocentra deliro. Jen difino: "Deliro estiĝas en
+personoj nekapablaj akcepti la veron pri si pro nesufiĉa
+membildo, kaj povantaj fari eltenebla ĉi nesufiĉon nur kreante
+bildon kiu ilin ekzaltu, gloru kaj faru tolereblaj antaŭ si.
+Tial por multaj personoj deliro estas eraro necesa kiel maniero
+pluvivi biografie, ĉar, se ili ne delirus, ili estus nenio. Tial
+delirado kutime aperas en la adolta aĝo, sed ĝi image reiras al
+adoleskaj revoj kaj fantazioj ne realigitaj eĉ en grado plej
+minimuma. Deliranto aplikas propran logikon: tiun de raciecigo de
+fantazitaj elpensoj" (CASTILLA DEL PINO). Kina komparo eble
+helpos. En 1941, Orson Welles portretis megalomaniulon en la
+filmo _Civitano Kane_. Ni, esperantistoj, baldaŭ havos la
+honoron kaj plezuron spekti _Civitano Silfer_, aŭ, kiel dirintus
+Szathmári, _Perfekta civitano_.
+
+Miaflanke ne temas pri konflikto pro motivoj nure kaj pure
+personaj. Ĉion dirindan pri la persono Giorgio Silfer mi jam
+surpaperigis artikole (CAMACHO 1994) kaj satire (CAMACHO 1993).
+Kelkaj rememoros la lastan alineon de _Nefermita letero al la
+gazetaro_ (ALÒS), kiu "petas s-rojn Giorgio Silfer kaj
+[Jorge Camacho] meti la finan punkton al sia jam tre daŭra kaj
+sterila plumbatalado". Nu, mi volonte farus tion, se mi povus!
+Bedaŭrinde LF ignoris la trian punkton de la letero, petantan
+"ke ĉiuj redakcioj respektu la principojn de ĵurnalisma etiko,
+enlasante la esprimon de alipartiaj argumentoj kaj replikoj". Ni
+tuj vidos, kiel ĝi mistraktis i.a. sinjoron Jouko Lindstedt kaj
+nun provas ripeti la artifikon kontraŭ Gian Carlo Fighiera.
+Samkiel siatempe mi ricevis helpon de kolegoj kaj amikoj,
+ĉi-foje mi eksentis la bezonon defendi la atakatojn, kio verdire
+eblas nur per elmontrado de la fundamentoj de l' spektaklo, des
+pli ke la kvintezo anoncas ŝtormojn, tempestojn kaj buraskojn.
+
+La reĝisoroj de la ĉi-supre priskribita burleskaĵo, en sia
+avido potenci kaj akapari atenton, domaĝas neniun ajn.
+Karakterizas ilin kolektiva, kooperativa paranojo: "Homo kun
+_paranoja_ strukturo estas tiu, kiu malfacile pardonas aŭ neniam
+pardonas plene; kiu longe pesas; kiu neniam forgesas ion
+pardoneblan; kiu armas sin per fikciaj malamikaj faroj por poste
+ne pardoni ilin" (CANETTI, p. 294). La religieco de foirismo
+helpas ĉi-rilate. Ni komencas vidi, ke temas ne pri memstara
+pensofluo, sed pri surogato de ideologio solidiĝinta en dogmojn.
+La manifesto (aŭ kateĥismo) de Raŭmo certe enhavas ankaŭ
+bonajn ideojn, verdire ne tro originalajn, tiel ke foje oni
+aŭdas iun diri, ke Juan Régulo Pérez, Privat, Kabe
+aŭ Zamenhof mem estis raŭmistoj, antaŭmontrantoj de la rekta
+vojo, simple ĉar ili agis saĝe, aktivis konkrete, uzis
+esperanton estiel normalan lingvon. Ĉar la manifesto fariĝis
+relikvo, la gvidantoj de la sekto uzurpis la rajton interpreti
+ĝin, la monopolon opinii dikte kaj verdikte. Se ie iu
+interpretas ĝin deviacie, LF baldaŭ aperigas rebaton por diri,
+ke la interpreto ne ĝustas, kiel siatempe Kremlo, kies fosilioj
+decidis, kiu interpreto de marksismo-leninismo pravas, kaj la
+interpretoj kompreneble ŝanĝiĝis laŭbezone, kaj laŭsezone.
+Efektive, jen Chiasso/Kiaso kiel _mikrosocia_ posteulo de Kremlo,
+la Blanka Domo kaj Vatikano. Kiel papoj kaj politburoanoj [*],
+ankaŭ la Giorgio la Unua estas neerariva. En _Literatura Foiro_
+kaj la nuna _Heroldo_ (kiun, respekte al Ada Fighiera Sikorska,
+oni devus renomi _Literatura Ftiro_ pro ties parazita dependo de
+LF) absolute mankas memkritiko. Eĉ simplajn erarojn pri faktoj
+oni ne korektas. Kiu aŭdacas opinii libere pri la manifesto, la
+kooperativo aŭ la grafika aspekto de la revuo, tiu punende
+pekas.
+
+La ekzemploj abundas. Fine de la tria alineo de tiu ĉi teksto mi
+citis opinion el artikolo de Gudskov. En sia respondo al la
+artikolo, Silfer unue adjektivas ĝin _interesa_, sed fine
+aldonas jenan verdikton (SILFER 1995, p. 24): "La aserto de
+Gudskov estas intelekte malhonesta, ĝuste ĉar mi estimas lin
+tro inteligenta por supozi ke li skribas idiotaĵon". Implicite:
+la artikolo estas idiota, nur ŝajne inteligenta, kaj krome
+malhonesta. Alivorte, la konkludan frazon konsistigas falsa
+komplimento trempita en veneno kaj galo. Oni povus pensi, ke ĉi
+maniero refuti ideojn kaj argumentojn atakante ne ilin sed ilian
+aŭtoron, la homon (t.n. argumento _ad hominem_), estus
+esceptaĵo en kultura kaj literatura revuo, des pli en la organo
+de Esperanta PEN-Centro! La jarkolektoj de LF bedaŭrinde pruvas
+la malon. Ni vidu sufiĉe freŝan ekzemplon, la _proceson_
+kontraŭ Jouko Lindstedt, laŭ la tradicio de la moskvaj
+procesoj. Omaĝe al Miĥail Bulgakov, mi prezentos ĝin sub la
+formo de triakta teatraĵeto:
+
+
+Jouko Lindstedt
+(Religia dramo)
+
+Akto 1, sceno 1: LF publikigas la unuan el serio de artikoloj
+de Lindstedt pri denaskismo. En ĝi li citas enteman zamenhofan
+tekston (el letero al Kofman je 1901.05.28), pri kiu li
+konkludas, ke "ĉi tie Zamenhof evidente kaj komplete
+malpravas" (LINDSTEDT [1], p. 178). Sceno 2: sur la sama paĝo
+la revuo aperigas kadritan replikon fare de 'François
+Degoul, zamenhofologo' (tiel!), laŭ kiu "la citaĵo de kolego
+Lindstedt [. . .] estas tro malkompleta", ĉar "Zamenhof
+evidente ne celis kvantan sed kvalitan komparon"; la kadro
+re-citas el la sama teksto, sed pli amplekse. Akto 2, sceno 1:
+LF aperigas en posta numero la duan artikolon pri denaskismo
+(LINDSTEDT [2], p. 327-329). Sceno 2: samnumere ĝin sekvas
+letero de la aŭtoro al Ljubomir Trifonĉovski, ĉefredaktoro
+de LF, en kiu li eksplicite kaj kun substreko "_malpermesas_
+aperigi la duan parton" (t.e. tiun presitan sur la tuj antaŭaj
+paĝoj kontraŭ la deziro de la aŭtoro) kaj "tute _ĉesigas_
+[sian] kunlaboron kun [la] revuo" (LINDSTEDT [3], p. 330).
+Sceno 3: sur la dekstra marĝeno de p. 331, graslitera noto
+informas, ke "la apudan leteron prof. Lindstedt dissendis
+samtempe per elektronika poŝto al multaj adresoj, sen ajna
+averto al la redakcio de LF, kaj kun dua parto tendence
+modifita". Sceno 4: sur la suba dekstra angulo de p. 330 LF
+presas leteron de Silfer, (ankoraŭa) prezidanto de LF-koop, al
+Lindstedt, kiu finiĝas jene: "Konklude: via reago estas
+maljusta en la tono kaj malprava en la enhavo". Akto 3 (aŭ
+Epilogo): sur p. 334 de la sama numero, en _Novjara
+salutmesaĝo_ (_de baldaŭa prezidinto_), Silfer dediĉas
+duonon de la adiaŭo, post dek unu jaroj da gvidado de LF-koop,
+al kvin personoj, kiuj "reale seniluziigis [lin] dum ĉi tiuj
+dek unu jaroj" (SILFER 1997 [1]); li asertas, ke "en almenaŭ
+tri, se ne kvar kazoj, [li] kunkulpis eraron pri supertakso de
+la koncernataj". Kvankam li aludas ĉiujn kvin per nomoj
+mitologiaj, Lindstedt identigeblas senprobleme. Indas
+reprodukti la finon de ĉi salutmesaĝo: "La dua estas mia
+malnova amiko Polukso. Mia fido en li transpontis pli ol unu
+krizon lian, ligitan interalie al la nombro du: dunumera
+redaktoro, dujara ĉefredaktoro, dufoja felietonisto . . . Tiel
+ke fine mi deduktis, ke liaj krizoj estas periodaj, ĝis la
+lasta, definitiva. Sed LF-koop ne rajtas forgesi kion pozitivan
+li faris. Kaj, same kiel la aliaj kvar, Polukso restas en la
+historio de LF-koop kiel protagonisto. Ili ĉiuj meritas sian
+rozon, eĉ se vento (ankaŭ ne facila . . .) forblovis la
+petalojn kaj nur dornoj restas." Kurteno.
+
+
+Ĉu nur hazardo, aŭ ĉu jen la vera signifo de la kvinpetalo?
+Kaj kia bravaĵo -- amikon knokaŭti nomante lin (mense aŭ
+psike) krizema. Post la falo de l' kurteno, kaj refoje laŭ
+Bulgakov, la kapo de Lindstedt ruliĝas sur la planko. Mi
+subtitolis ĝin _Religia dramo_ laŭ la signifo de la hispana
+_auto sacramental_, parenco de la inkvizicia _auto de fe_,
+portugalece esperantigita kiel _aŭtodafeo_. Malgraŭ la stilo de
+la lastaj frazoj, memoriganta pri reklamo de ranca franca
+parfumo, la artikolo odoras la metodojn de Inkvizicio. La unua
+paŝo: ekskomuniki. La dua: obei la devizon 'eksniulon puni'.
+Siatempe Giorgio kaj Perla provis pugni min for de la esperanta
+areno nomante min antisemito. Tia akuzo, inter parolantoj de
+lingvo lanĉita de judo, estas la plej proksima ekvivalento de
+fizika elimino. Ilia plumpa kalumnio sukcesis makuli mian
+reputacion en la komencaj monatoj, sed bonŝance mi ricevis
+firman apogon de multaj gekolegoj kaj geamikoj. Al Perla kaj
+Giorgio mi sincere rekomendas legadon de la impona kaj polemika
+verko de Daniel Goldhagen (GOLDHAGEN), por ke ili almenaŭ estu
+iom informitaj pri tio, kion ili skribas, kiam LF dediĉas sin al
+insultado kaj punbruligoj.
+
+Simile al la fetvo [*] kun la anatemo al Salman Rushdie, LF
+aplikas strategion trafe priskribitan de mia preferata verkisto
+en la hispana lingvo: "Oni nomas lin 'hundo' aŭ 'rato' por
+anticipi la figuron, laŭ kiu oni iam povos draŝi lin ĝismorte"
+(SÁNCHEZ FERLOSIO 1993, p. 141). Lastatempe iĝis celo de
+pliaj atakoj kaj ataketoj homoj kiel Georges Lagrange (pro la
+decido de [La] Kvinpetalo distanciĝi de la kooperativo: CONDE
+REY) kaj mia amiko Gian Carlo Fighiera (pro ĉi ties interpreto
+de la t.n. aĉeto de _Heroldo_ fare de LF-koop: TRIFONĈOVSKI).
+Interese, ke unue la polpo proprigas al si la meritojn de aliaj,
+por ke poste la ekskomuniko prezentu ĉi homojn senmeritaj kaj
+senvaloraj. Tiam _Robo-koop_ [8], hibrido el la ĉefredaktoro kaj
+martelmaŝino, komencas madzi la kompatindulon. Fakte, jam de
+monatoj mi cerbumas, kiel esperantigi la hispanan diron
+_¡Vivan las cadenas (y la Inquisición)!_ (laŭvorte:
+'Vivu la katenoj kaj Inkvizicio!'), kiun la madrida plebo kriis
+al la fifama kaj fripona reĝo Fernando la Sepa (1784-1833)
+agitite de la markizo de Cabra kaj ĉi ties sbiroj. Jen provizora
+solvo: _Vivu la Kooperativo! Vivu Literatura Foiro! Vivu!_
+
+Sed ni revenu al la afero Lindstedt. Kial foiristoj trovas la
+zamenhofan tekston tiel grava? Kaj ne nur ili: ankaŭ Reinhard
+Haupenthal ŝajnas fascinita de la sama fragmento: "Kiaj saĝaj
+vortoj! [. . .] Amara, desapontiga kaj eĉ desperiga konstato
+restas, ke la grandega plimulto de la esperantistoj neniam
+konsekvencis. Ili heredigis al infanoj la nacion kaj la religion,
+sed ne la lingvon, kvankam, laŭ mia profunda konvinko, tio estas
+la sola garantio por ĝia naturiĝo kaj transdaŭro, se ne paroli
+pri la realigo de la sennaciisma idealo de [. . .] Lanti"
+(HAUPENTHAL, p. 5). Nu, la pretendoj pri raŭmismeco de Zamenhof
+respondas al la sama bezono legitimi siajn teoriojn per rekreado
+de mitoj, reskribado de la historio, reformulado de la
+pasintaĵo: ĉio antaŭa kio bonas, apartenas al ni. Jen Manuel
+de Seabra: "Tuj post la inicado de Esperanto unue Zamenhof
+verkis, faris literaturon, enprofundiĝis en la ĵus iniciatitan
+lingvon. Ja Zamenhof mem estis la unua raŭmisto. Ĉar, fakte,
+kion volas la raŭmistoj? Ili volas enprofundiĝi, krei veran,
+profundan kulturon per Esperanto. Sed pro tio oni ne povas diri,
+ke ili ne estas finvenkistoj. Simple, ili prefere pli
+priokupiĝas pri kvalito ol pri kvanto" (SEABRA, p. 27). Pli ol
+simple, simplege. Sed por tia rajdado ne necesas la selo! Ke
+Zamenhof estis la unua raŭmisto, ke Jesuo estis la unua
+komunisto, kaj ke raŭmistoj okupiĝas pli pri kvalito ol pri
+kvanto, nu, ĉion ĉi ni jam de longe scias! Nome, laŭ la vortoj
+de Piron, ke foiristoj agas prave kaj saĝe, dum pracelistoj
+malpravas kaj stultas.
+
+Bedaŭrinde ne nur Seabra benas foirismon leĝere kaj
+facil-anime. En junularaj rondoj, kie cirkulas manpleno da
+remaĉitaj frazoj kaj muelitaj sloganoj, ankoraŭ estas mode diri
+sin raŭmisto. En unu el siaj cetere rekomendindaj komiksoj [*]
+Arnau Torras skribas, ke LF estas "oazo de kulturo en dezerto de
+praesperantismo" (TORRAS I TUTUSAUS, p. 16), kvankam verdire li
+devintus paroli pri "kloako da cenzuro en oceanon (aŭ, modeste,
+mareton) de liberpensismo". Eĉ Aleksander Korĵenkov prezentas
+en la revuo _La Ondo de Esperanto_, kiun li redaktas, artikolon
+de Silfer, dirante, ke tiu ĉi "estas plejofte konata kiel la
+voĉo de la heterodoksa opozicio en Esperantio", kaj nomante lin
+'disidento'! (SILFER 1997 [2]). Tamen la afero progresas: en la
+41a Internacia Seminario de Germana Esperanto-Junularo
+(Traben-Trarbach, 27.12.97- 03.01.98) mi prezentis resumon de tiu
+ĉi teksto en formo de prelego titolita _Demagogoj en
+Esperantujo_ kun varma akcepto fare de nombra kaj simpatia
+publiko. Sekvis debato, kaj poste diversaj homoj nejunaj kaj
+junaj, inter ili aktivuloj de la E-junularoj germana, itala kaj
+svisa, ekrakontis al mi siajn spertojn kun la kiasa paro.
+
+Por faciligi al spontanaj koop-apostoloj kaj akolitoj la taskon
+persvadi skeptikulojn, mi proponas pilolan version de la
+manifesto, kiun mi nomas
+
+
+  La silogismo de Raŭmo
+
+  [El la esperantistaro] nur raŭmistoj inteligentas.
+  Nu, nur ni [speciale Giorgio kaj Perla] raŭmistas.
+  Do, nur ni inteligentas.
+
+
+Tiel la civito ŝparos tunojn da papero! Sed foirisman tekston
+oni ankaŭ komparu kun reklamo pri burgeroj [*] aŭ lavpulvoro.
+Kiel skribas la usona eseisto Neil Postman (RAMONET, p. 73),
+"reklamo de McDonalds, ekzemple, ne estas serio de asertoj
+kontroleblaj kaj logike prezentitaj. Ĝi estas enscenigo --
+aŭ, se oni tion preferas, mitologio -- de tre belaj
+personoj kiuj vendas, aĉetas kaj manĝas burgerojn kaj elmontras
+ekstazan feliĉon. [. . .] Reklamo povas plaĉi aŭ ne plaĉi.
+Oni ne povas ĝin refuti." Sufiĉas vidigi sur televida ekrano
+aktoron kun blanka kitelo en falsa laboratorio por ke la publiko
+ekaĉetu la saman markon de lavpulvoro, kiun li tenas mane. Kiel
+skribis unu el la apostoloj de raŭmismo (LEYK 1985, p.17, 58),
+simplas la receptoj por fari sukcespropagandon, kaj LF
+nesupereble aplikas ilin. Ĝuste tiel logas, tentas foirismo: per
+ĉantado de kantiko, per belsonaj sed pufaj, blufaj logatomoj;
+per asertoj nerefuteblaj, kiel en la filmo _La lakta vojo_ (Luis
+Buñuel, 1970). Kaj tamen ĉi aktorado sufiĉe lertas, por
+ke Silfer paradu kiel unu el niaj plej gravaj verkistoj,
+esperantologoj, ideologoj . . . kaj disidentoj!
+
+Mi jam diris, ke foirismo estas produkto de institucio, kaj
+montris ĝian similon kun religio. Laŭ la klasifiko de sektoj
+fare de B. R. Wilson, laŭ kiu en la realo ĉiu sekto kombinas en
+si elementojn de diversaj tipoj (DOBBELAERE), foirismo similas al
+la sektotipoj konverta (volanta ŝanĝi la homon) kaj
+introvertita (retiranta sin de la mondo), sed apenaŭ al la tipo
+adventista aŭ revolucia, volanta ŝanĝi la mondon: laŭ mia
+scio LF-koop neniam provis ŝanĝi la burokratecan UEA de
+interne, krom flankaj kaj disfojaj provoj pri TEJO pro la
+intereso uzi la Internaciajn Junularajn Kongresojn kiel
+varbejojn.
+
+Foirismo, por resti atentinda, devis fuĝi antaŭen, _evolui_,
+iĝi pli rigora kaj ekstrema en siaj postulatoj. La kvintezo
+montras ĝian imitadon de politika partio, kun kvinpunkta
+programo _demokrate elektita_. Sed la koop-partio, por iĝi
+sukcesa varo, kiun ideologion disvendu? Elementaĵo, kara Watson.
+La plej modan: naciismon, gentismon, _etnismon_. Esperantan
+naciismon -- kia oksimoro! Malmirinde, des pli ke amasego da
+aŭtoroj, plej laste (el mia legpunkto) Jon Juaristi (JUARISTI,
+p. 146, 225), difinas naciismon jene: politika religio, sekulara
+religio. Aŭ Daniel Goldhagen: "[. . .] Plia ideologio (kaj ĝiaj
+subkuŝantaj emocioj), kiu ŝajnas reaperi kaj malaperi daŭre
+plu kaj plu estas naciismo" (GOLDHAGEN, p. 45). Ne strange, ke
+ĝi reaperas eĉ en Esperantujo!
+
+Vanuis [*] la mildiga 'kvazaŭ' de la manifesto. La unua tezo
+diras tutsimple, ke "la esperanto komunumo estas diaspora lingva
+minoritato". _Estas_. La vorto 'diasporo' montras bildon
+elektitan kiel modelon. Kvankam povus temi ankaŭ pri la
+diasporoj armena, cigana, kurda aŭ palestina, mencioj kaj aludoj
+en diversaj tekstoj indikas rektan inspiriĝon el la juda
+diasporo, ekzemple: "La Esperanto-komunumo estas socia fenomeno
+kiu nur parte koincidas kun la Esperanto-movadoj, same kiel la
+juda popolo nur parte identiĝas kun la cionismaj organizoj"
+(SILFER 1985, p. 113); ankaŭ oponanto pri aliaj temoj
+sam-opinias ĉi-punkte (TIŜLJAR 1985, p.136-137). Tamen nur
+inspiro ne sufiĉas. Necesas ankaŭ legitimi la motivaron per
+citoj, per ekzemploj el aŭtoritataj fontoj. Kiel ni vidis,
+proklamante la opinion de Zamenhof malprava, Lindstedt pekis.
+Sekve, necesis alvoki pastron por ekzorci la herezulon. Ĉar kion
+alian povus signifi 'François Degoul, zamenhofologo'? Unue
+mi miris, ke oni ne skribis 'Profesoro Doktoro pri
+Zamenhofologio', kvankam pli amuza estus (laŭ la stilo de NAGATA
+Akiko) 'zamenhofikisto'. Poste mi ekkomprenis, ke en nia lingvujo
+nur zamenhofologo povas ludi la rolon de pastro aŭ, pli ĝuste,
+de mago, kies asertojn ne eblas refuti.
+
+Mi mem sintenas nek por nek kontraŭ denaskismo. La ekzisto de
+denaskaj esperantistoj nek ĝenas nek entuziasmigas min.
+Lastatempe mi eksciis danke al Jouko Lindstedt kaj Renato
+Corsetti, ke du trionoj de la gepatraj paroj kun denaskigitaj
+filoj konsistas el viro kaj virino samlingvaj kaj samgentaj, kio,
+sincere, surprizis min. Ne nur tial, ke temas pri zorge kaŝita
+fakto, ignorata de niaj mensogemaj kaj troigemaj propagandistoj,
+sed ankaŭ ĉar mi bone komprenis nur la denaskismon de la alia
+triono. Sed en la reta diskutforumo de denaskigintoj, DENASK-L,
+mi trovis bonan argumenton apoge al la plimulto: frua dulingviĝo
+de infano estas valoraĵo en si mem. Ne tiom gravas la lingvoj,
+ĉu esperanto kaj la hungara, ĉu la galega kaj sanskrito. Por
+foiristoj la valoro kuŝas aliloke: en la serĉado de identeco.
+Samkiel "la hispanan kulturon fine de la [19a] jarcento
+karakterizas indiĝenismo, serĉado de radikoj iberaj, keltaj aŭ
+kelt-iberaj" (JUARISTI, p. 95), tiel diasporismon markas stranga
+insisto pri denaskeco. Ĉu la Forumo por la E-Civito proponos
+paŝi de denaskismo al naskismo? Franco, Mussolini kaj Le Pen ne
+hezitis. Oni provu imagi, kadre de la emo al pseŭdokleraj
+sloganoj, alvokon kiel '_Kreskigo de minoritato per instigo de
+natalitato_' (subskributan de Esperanta Le Pen-Centro).
+
+Pri diasporismo, t.e. konceptado de la E-komunumo kiel disiĝinta
+tra landoj loĝataj de neesperantistoj (tia koncepto, estiel
+metaforo, kreas en la menso mitan bildon kun konsekvencaj
+trajtoj), mi povas ripeti du argumentojn el iama artikolo
+(CAMACHO 1994, p. 27):
+
+  1. Kiel la juda, la armena aŭ la cigana diasporoj,
+  la esperanta havus karakteron de gento kaj, eĉ pli
+  ol la juda, de mem-elektita gento. Esperantisto
+  sentus sin antaŭ ĉio esperantisto (substantive),
+  kaj nur poste (kaj do adjektive) hispana, lapona aŭ
+  japana. Ekster esperanta medio esperantisto sentus
+  sin sola, inter fremduloj; male, en esperantista
+  medio li sentus sin inter fratoj, kvazaŭ inter
+  sangofratoj. Streĉite ĝis ekstremo, evidente ĉi
+  maniero koncepti esperantecon perfekte respegulas la
+  samideecon de multaj movadanoj, kiuj iĝis
+  esperantistoj por maski la mankon de rilatoj en sia
+  propra komunumo; temas pri homoj kun komunikaj
+  problemoj, kiuj kun apertaj brakoj bonvenigas la
+  fikcion, ke por kelkaj semajnoj eblas esti
+  esperantisto kaj nur esperantisto. Resume: homoj sen
+  radikoj, skizofreniaj en sia ĉiutaga vivo, por kiuj
+  esperanto kaj esperantismo iĝis la plej grava afero
+  en la mondo (pli ol militoj, pli ol muziko, pli ol
+  amoro). Nu, tia mi ne estas (aŭ almenaŭ tia mi ne
+  volas esti).
+
+  2. Kiel la gentaj diasporoj, la esperanta originus el
+  praa disiĝo de popolo. Ĝuste tion signifas la vorto
+  diasporo: disiĝo, dissemiĝo, malkuniĝo. Mi mem
+  preferas koncepti esperantecon tiel, ke mi aliĝas al
+  la projekto, lingvo kaj ideo de Lazaro Zamenhof
+  (parte aŭ tute aŭ diversgrade, laŭ mia bontrovo),
+  same kiel mi povas aliĝi (aktive aŭ pasive) al la
+  agado de Greenpeace, Amnestio Internacia, Internacia
+  PEN-Klubo aŭ Mensa, kaj ne pro tio mi aŭtomate
+  iĝus ano de diasporo. Krome, la koncepto diasporo
+  mem implicas strebon al kuniĝo, al rekuniĝo. Jen
+  kial mi opinias ĝin funde finvenkisma, jarmilisma,
+  mesiisma. Uzante kaj akceptante ĝin ni plene
+  pravigas tiujn, kiuj rigardas nin sekto.
+
+Mi nur aldonus, ke diasporismo implicas du elektitecojn. La unua,
+_la esperantistoj kiel elektita popolo_, igas onin kredi sin
+elito kontraste kun 'la ekstera mondo' (kion mi ŝerce nomas 'la
+normaluloj'). La dua, _la esperantistoj kiel elektita familio_,
+retroviĝas en kantoj kiel _IS_ kaj _Sola_, de la rokbando [*]
+_Amplifiki_, modeloj de himno por renkontiĝdependaj homoj
+senradikaj. Ambaŭ tipoj de elektiteco signifas izolon,
+izoliĝon. Tial, ke ne eblas teni sin konstante ekster la fremda
+normala mondo, ofte rezultas, ke esperantistoj kondutas
+skizofrenie. Jen palpebla krizo de identeco, ĉu ne?
+
+Aliflanke naciismo, pli ol serĉi identecon, kreas ĝin: "[. . .]
+la popoloj aŭ la gentaj aŭ naciaj identecoj ĉiam estas
+inventoj aŭ miskreaĵoj fonditaj sur historia legitimo [. . .]"
+(SÁNCHEZ FERLOSIO 1992, p. 320). Naciismo senkompromise
+aplikas la jenan hipotezon, tre diskuteblan kiam temas pri
+esperanto (persone mi preferas diri "mi parolas esperanton" al la
+esencisma "mi _estas_ esperantisto"): "Ĉiu lingvo havas du
+funkciojn: la komunikan kaj la identecan. Ĝi estas la ĉefa kaj
+plej klara signo pri onia aparteno al iu grupo" (TIŜLJAR 1997).
+Kontraste kun UEA, uzanta la _melonon_ (la jubilean simbolon),
+LF-koop ne evitas la verdan stelon nek, almenaŭ provizore, la
+dikliteran frontispicon de _Heroldo_. La kooperativaj provoj krei
+propran folkloron ne montriĝis tre sukcesaj: la grupo _Kajto_
+vivas for de ilia sfero, kaj la rokbandoj _Amplifiki_ kaj
+_Persone_ rapide eskapis enkaptiĝon. Kion diri pri teatro kaj
+kin-arto? La bezono disponi indiĝenan kinhistorion igis LFn
+porparoli ĝis naŭzo filmon milprocente stultan kaj
+seninteresan, _Angoroj_ (Jacques-Louis Mahé, 1964; vd.
+FERNÁNDEZ).
+
+Bedaŭrinde por iliaj celoj, la folklorigebla paseo de ni
+esperantistoj tro magras. Provu ŝerci per literatura aludo en
+renkontiĝo aŭ kongreso (MELNIKOV)! Sed tute ne gravas: restas
+la futuro. La futuron eblas plugi kaj tajli senprobleme kaj, jen
+la avantaĝo, senhaste. Civito, laŭ la kvara tezo, "estas ankaŭ
+realaĵo kun komuna destino". _Destino_. _Komuna_. Diable! Ĉe
+nura aŭdo de ambaŭ vortoj mi ektremas. Ne pro nenio. Komparu
+kun la galimatia diro de José Antonio Primo de Rivera,
+fondinto en 1933 de falangismo, hispana versio de faŝismo, ke
+Hispanujo estas "destin-unuaĵo en lo universala" (_una unidad de
+destino en lo universal_). Pli bele sonas la frazo de la filozofo
+José Ortega y Gasset, ke patrujo estas "alloga projekto
+por kunvivo" (_un proyecto sugestivo de vida en común_),
+sed kiel realigi ĝin por komunumo senteritoria, krom se
+Unuiĝintaj Nacioj disponigus al la mondaj esperantistoj
+terpeceton sur kiu ekkonstrui proprajn landon kaj ŝtaton? Ĉu
+tion celas la esprimo "survoje al pli alta ŝtupo: tiu de
+(grandparte difinota) civito" (kvina tezo)? La civito kiel
+antaŭŝtupo de la esperanta geto [*]? Ne, klare ne. Tial Giorgio
+kaj Perla elektis redakton pli proksiman al Primo, ol al Ortega.
+Ĉar temas pri plano vole kaj dole nerealigebla, ĥimera.
+
+Refoje ni staras antaŭ la ĝemeleco de religio kaj naciismo: "Al
+_lanta_ amaso respondas _fora_ celo. Oni obstine avancas ale al
+nemovebla celo, kaj dumvoje oni devas resti kunaj. La vojo
+longas, plenas je nekonataj obstakloj kaj je danĝeroj ĉie
+minacaj. [. . .] Trian formon prezentas la amasoj, kiujn
+koncernas celo nevidebla kaj neatingebla ĉi-vive. [. . .] La
+grandaj religioj sukcesis majstri ĉi procezon proksimiĝi lante
+al la celo. [. . .] La transmondon, male, kun siaj beatuloj, ne
+povas trafi tiaj katastrofoj. Ĝi vivas nur el la kredo, kaj nur
+en la kredo eblas atingi ĝin. La lanta amaso de kristismo
+ekdisfalis, kiam la kredo je transmondo komencis diseriĝi"
+(CANETTI, p. 34-36).
+
+Por ke la _amaseto_ de raŭmistoj ne disfalu, nepras eduki ilin,
+kiel asertas la kvina tezo: "Tiuj renkontoj estas esencaj por la
+vivo de nia civito, se ili donas la ŝancon reciproke edukiĝi
+kaj integriĝi". Ĉar temos pri civito sen urbo, sen fizika
+ekzisto, alivorte pri virtuala civito, necesas dorloti ĝiajn
+konkretiĝojn: "Tiurilate, kulturcentroj kaj E-domoj havas
+apartan signifon kaj specifan mision". Releginte ĉi frazon mi
+min demandas, ĉu ĝi aplikeblas ankaŭ al la Centra Oficejo de
+UEA, aŭ al kulturejoj netentaklumitaj, nesilferumitaj. Kion
+signifas en ĝi la adjektivoj 'aparta' kaj 'specifa'? Fine, la
+vorto 'misio' perfekte kompletigas la pli fruan 'destino'. Temas
+pri la liturgio de l' foiro. Kaj la kvintezon oni devas
+mantri . . .
+
+Ĉio ĉi sonas absurde al normalaj homoj, sed ne al ili. Antaŭ
+longa tempo Silfer skribis paĝon escepte legindan, kiun
+laŭvorte aperigis numero de _Heroldo_ de 1997 kun subskribo de
+neniu alia ol (kia koincido!) Perla Martinelli. Jen la perlo: "La
+Manifesto ne rekte sugestas, sed implicas alian direkton,
+speciale por neneŭtralaj fakaj asocioj, ekzemple la religiaj.
+Tial ke la esperantisteco estas konceptita kiel 'aparteno al mem
+elektita diaspora lingva minoritato', ekzemple IKUE devus celi,
+ke la katolika eklezio agnosku al ĝi saman statuson kiun ĝi
+agnoskis al 'Opus Dei': internacia grupo kun propra episkopo
+-- la esperantlingvaj kristanoj ne devus dependi de la loka
+hierarkio, sed rekte de propra strukturo" (SILFER 1985, p. 118).
+Ni jam vidis, ke de proklamo al proklamo la 'kvazaŭ' iĝas
+'kiel', t.e. 'malkvazaŭ'. Ni ankoraŭ ne havas _verdan
+episkopon_ nek _verdan sindikaton_, kvankam la deklaroj de la
+esperanta sekcio de Internacia PEN-Klubo, nome EPC, klare indikas
+orientiĝon ne nur laŭlingvan, sed prefere gentisman. Eble iam
+foiristoj sopiros al propra inica, teozofia kulto (kiel volintus
+por eŭskoj F. Krutwig, iama ideologo de ETA; vd. JUARISTI, p.
+292) aŭ al propra, identiga lingvo (_koopük_ aŭ
+_lofopük_). Sed kial li/ŝi ne prezentis kiel ekzemplon la
+plej popularajn aktivejojn de naciismo? Ĉu imageblas io supera
+al tutmonda futbalteamo reprezentanta Esperantujon, fervore
+apogata de niaj verdaj huliganoj? Aŭ al propra, aparta olimpika
+teamaro por partopreni distingeble en la Olimpiaj Ludoj . . .?
+
+En la Forumo de la E-Civito mi vidas embrieton de surogata nacio,
+de virtuala ŝtato. Temas pri denaske morta projekto, sed ĝia
+plur-akta prezentado (en teatra senco) al la publiko povas
+damaĝi serioze la internan kaj eksteran agadojn de UEA. Certe
+UEA montriĝas, de jardekoj, burokrateca, ne tiom en la Centra
+Oficejo mem (por tutmonda asocio, la nombro de salajruloj ridinde
+malgrandas) kiel en la gvid-organoj, konkrete la komitato. Tion
+mi diras ne el propra sperto, kvankam en 1987 mi havis la
+plezuron elteni kunsidojn de la komitato de TEJO en Krakovo,
+longajn kaj pezajn kiel kaĉalota kolbaso. Sed kian utilon havus
+ataki UEAn de ekstere, detru-cele? La sperto pri NEM (Neŭtrala
+Esperanto-Movado) devus sufiĉi. Oni provu reformi ĝin de
+interne. Ĉar necesas novaj ideoj, novaj homoj kiuj sin engaĝu
+perestrojki [*] la asocion, fari ĝin pli veka kaj vigla.
+
+Evidente la solvo ne troviĝas en _Kiasa Parko_ [9]. Raŭmismo
+velkis, foirismo ŝtonas. Modas ornami hejmojn per fosilioj,
+kiujn oni starigas en la salono, apud la teleo [*], sed
+Esperantujo bezonas freŝan limfon. Kaj vi, leganto, probable vin
+demandas, tute prave: jes ja, sed kion tiu ĉi sinjoro Camacho
+mem proponas?
+
+Nu, por komenci, alian komparon, metaforon, bildon pri ni. Eugene
+de Zilah preferas pensi pri _fraternitato_, t.e. fratosocio (de
+ZILAH 1995). Mi, pri arĥipelago, insularo, lingva mikronezio.
+Insularo Esperanto: ne ĉiam oni scias sur unu insulo pri
+okazaĵoj en alia. Ĉu verkistoj kiel Leen Deij, Kris Long,
+István Nemere, Nicolino Rossi aŭ Manuel de Seabra iel
+reagis ĉe la aŭtodafeo kontraŭ ilia kolego Lindstedt? Se io
+tia okazis, informo pri ĝi ne atingis mian insulon. (Min tamen
+ŝokas, sed ne plu surprizas, la obstina muteco de Esperanta
+PUN-Centro . . .).
+
+Ni formas diversgentan grupon, kies plej grava komuna trajto
+estas la diverseco (kvankam laŭ aĝogrupoj, laŭprofesie kaj
+laŭklase temas pri komunumo sufiĉe homogena; vd. RAŜIĈ). Jen
+la plej difina trajto de la esperanto-parolantoj: nia komuna
+negenteco, t.e. nia neaparteno, nekunaparteno al unu gento,
+popolo aŭ nacio. Frazoj kiel "Ni esperantistoj fakte estas etno
+[. . .] kaj ne necesas timi diri tion malflustre" (GONĈAROV, p.
+7), "La e-socio reale ekzistas kaj vivas surbaze de propraj
+valoroj kaj tradicioj" aŭ "El la movado ĝi relative frue
+transformiĝis al socio, lingva socio, lingva komunumo. Kaj
+stabiliĝis kiel tia" (LEYK 1987, resp. p. 21, 11) ne priskribas
+la realon, sed preskribas ĝin laŭ meĥanismo, kiun angloj nomas
+_wishful thinking_ -- revpensado. La komunajn valorojn mi
+nenie vidas, eĉ ne pri la lingvo mem, kaj miajn sam'ide'an'o'j'n
+mi kalkulus per la fingroj de ambaŭ manoj. Ni esperantistoj
+konsistigas malnacion, malgenton, malpopolon (jen kio plaĉas al
+mi!). Komune ni havas lingvon nek hereditan nek heredan.
+Esperanto mem ne estas nia komuna lingvo, kiel diasporistoj
+supozas, sed nia komuna interlingvo. Same pri nia kulturo:
+interkulturo. Interliteraturo. Kiam mi legas romanon de Trevor
+Steele aŭ de Karolo Piĉ, poemojn de István Ertl aŭ de
+Mao Zifu, mi legas ion esperantan sed samtempe resp. aŭstralian,
+ĉeĥan, hungaran, ĥinan (ĉinoj pardonu ĉi momentan
+praismon!); mi legas hajkon originale verkitan de japano ("Post
+uragano [. . .]", de TOMITA Tomu, en _Esperanta antologio_), sed
+mi legas ĝin senpere, la originalon mem -- sen-egala
+vivosperto! Kaj tiel plu. Sed oni imagu personon, E-patrioton,
+kiu decidus legi nur librojn verkitajn originale en esperanto: la
+horizontoj de tia homo restus ekstreme limigitaj, eĉ se
+internacie aŭ _transnacie_ limigitaj. Parencan ideon formulas
+aliprefikse la redaktoro de _La Gazeto_: "Nia lingvo estas
+superlingvo havanta por historio kaj lingvoniveloj, tio estas por
+kulturo, la historion kaj lingvonivelojn, tio estas la kulturojn,
+de siaj fontolingvoj" (de ZILAH 1997).
+
+Esperantan patriotismon aŭ ŝovinismon ni evitu kiel viruson.
+Estas interese kaj timige konstati, el kiaj _naivaj_ ideoj kaj
+tekstoj naciismaj ĝermis la vojo kondukonta jardekojn poste al
+la eŭska terorisma organizo ETA (JUARISTI), aŭ distingi la
+gvidan rolon de l' _Memorando de la Serba Akademio de Sciencoj
+kaj Artoj_, kun dato 24.09.1986 (SILBER, p. 29-35), alkonduke al
+la ankoraŭ ne finita jugoslava milito. Bonŝance ni pokas kaj ne
+amokas, maksimume insultas, adultas kaj envultas; sed kion pensi
+pri la sekva alineo, kun retoriko inspirita de Marso kaj Areso
+(SILFER 1997 [2])?: "Mi timas, ke tro rapide falos la konfido pri
+la finvenkismaj strukturoj, kaj ekestos krizo de identeco ĉe la
+tradicia esperantistaro, antaŭ ol la raŭmisma fronto estos
+preta transpreni pli vastajn respondecojn en la intereso de la
+tuta esperanta civito."
+
+Afekta timo . . . kaj gilotinaj eĥoj. Mi finu per plia metaforo:
+ni estas kvar ranoj en marĉo, kvar ranoj kun nobla hobio.
+Tiusence oni povus pli trafe kompari nin kun sciencfikciuloj,
+kiuj, same kiel ni, eldonas librojn kaj revuojn, kongresas kaj
+seminarias, korespondas, dediĉas sufiĉan atenton al trupo da
+diversnaciaj verkistoj kaj, fine, opinias sian okupon la plej
+grava en la mondo, amen. _Amen_.
+
+Ikselo (Bruselo, Belgujo), januaro 1998
+
+
+
+
+Notoj
+
+
+[1]. En la unua senco PIVa; por la dua Gerrit Berveling proponas
+'ortodoksia'.
+
+[2]. Malgraŭ PIV, ĉi tiu signifo de 'korekta' ne nepre
+evitindas. Kiel klarigas Bertilo Wennergren, temas pri a-vortoj
+(adjektivoj) el agaj radikoj, ricevintaj ecan signifon similan
+sed ne identan al tiu de la respondaj 'ita'-formoj. Tiel ni
+havas, apud 'korekta', tutan serion da parencaj vortoj: aperta
+(aperti = malfermi), falsa, fuŝa, kaŝa, komplika, veka.
+
+[3]. Bedaŭrinde mi ne sukcesas rekrei la supersignojn de la
+kroata lingvo per la cetere sufiĉe bona programo _Ĉapelilo
+2.0_.
+
+[4]. Parenteze, mi ĉiam suspektis, ke la vorto _desupri_ ne
+naskiĝis spontane el la langopinto de s-ro Ajnulo, skiema sed
+nekonata svisa esperantisto. Intertempe mi trafis ĝin en la
+antaŭparolo de Henri Vatré al _Humoroj_, de 1969. Ĉu
+solvo de la mistero?
+
+[5]. La komplimenton _intelekte malhonesta_ uzis ja Silfer mem
+pri Gudskov (pri tio poste).
+
+[6]. Padanujo, aŭ Padanio, aŭ eble eĉ Padlando, laŭ la nomo
+de l' rivero Pado.
+
+[7]. En esperanto la artikolo foje servas por montri, ke
+adjektivo estas substantive uzata. Ofte oni subkomprenas
+substantivon (tamen ne ĉiam). Ekzemple, en la zamenhofa frazo
+"mi devis oferi la agrablan pro la utila", oni povus subkompreni
+la vortojn "afero", "(t)io", "ĉio", "umo" post ambaŭ
+adjektivoj, kvankam la signifo de ĉi frazo verdire pli proksimas
+al "mi devis oferi agrablon pro utilo". Kelkaj aŭtoroj imitis la
+neŭtran artikolon de latinidaj lingvoj per plej bazaj elementoj
+de esperanto, jene: "la agrabla" fakte signifas "la agrabla tio"
+aŭ "la agrabla ĉio", alivorte "la agrabla o", ali-orde "la o
+agrabla", "l' o agrabla". El tio ni ricevus la frazon "mi devis
+oferi l' on agrablan pro l' o utila". Sed, samkiel "la" estas ia
+speco de senfinaĵa, nemarkita, nedeklinaciebla adjektivo (oni ne
+diras "mi vidas *lajn domojn"), povus ekzisti konciza
+kvazaŭsubstantiva ekvivalento sendeklinacia, nome "lo", kun jena
+rezulto: "mi devis oferi lo agrablan pro lo utila". Nu, same "l'
+o" kiel "lo" disfoje aperas en prozaj tekstoj de aŭtoroj, kiuj
+bezonas artikoli aŭ esei en lingvaĵo nuancoplena, tre preciza.
+Aliflanke, foje oni uzas singularan substantivon (aŭ, kiel diras
+Bertilo Wennergren, ununombran o-vorton) kun "la" ne pri certa
+konata individuo, sed pri unu imagata ekzemplero, kiu simbolas la
+tuta specon, precipe en filozofieca stilo. Zamenhofa ekzemplo:
+"kian profiton havas la homo de ĉiuj siaj laboroj, kiujn li
+laboras sub la suno?", kie "la homo" signifas aŭ egalas al
+"(ĉiu) homo", "(ĉiuj) homoj", "la homoj", "la homaro". Sed
+fakte temas pri "la koncepto 'homo'", "la abstrakto 'homo'", "la
+absoluto 'homo'". Alivorte: "l' o homo" aŭ, koncize kaj sinteze,
+"lo homo". Krom en filozofiaj tekstoj, tiu ĉi nuanco tre malofte
+estas bezonata, kvankam ĝi povas montriĝi utila ankaŭ en
+unu-du frazoj de longa aliĝenra prozaĵo.
+
+[8]. Aludo al la robota policisto ĉefrola en la filmo _Robokopo_
+(_Robocop_, de Paul Verhoeven, 1987).
+
+[9]. Plia kina aludo, ĉi-foje al la filmo _Ĵurasa Parko_
+(_Jurassic Park_, de Steven Spielberg, 1993; vd. en _Kontakto_,
+n-ro 136 (1993:4), p. 14), temanta i.a. pri tiranosaŭroj [*].
+
+
+
+
+Glosoj [*]
+
+
+  ĉsv  La ĉapo de la sterko-vermo, [Jorge Camacho],
+       eld. La KancerKliniko, 1995.
+
+  ek   Ekstremoj, Miguel Fernández, Jorge
+       Camacho, Gonçalo Neves, Liven Dek, eld.
+       IEM, 1997.
+
+  ess  El la sonoraj soloj, Miguel Fernández,
+       eld. IEM, 1996.
+
+  lp   Letero el Palestino, [Jorge Camacho], eld. La
+       KancerKliniko, 1990.
+
+  mmi  La Majstro kaj Martinelli, [Jorge Camacho], eld.
+       Iltis-Eldonejo, 1993.
+
+  mp   (Deklingva) Manlibro pri Politiko, editoris
+       Stefan Maul, eld. FEL, 1994.
+
+  ng   Neologisma glosaro, Henri Vatré, eld.
+       Artur E. Iltis, 1989.
+
+  npv  Nepivaj vortoj, André Cherpillod, eld. la
+       aŭtoro, 1988.
+
+  s    Suplemento de PIV, G. Waringhien k.a., eld. SAT,
+       1987.
+
+  tb   Tirano Banderas, Ramón M. del
+       Valle-Inclán, trad. Fernando de Diego,
+       eld. HEF, 1993.
+
+  vsp  En varma, somera postmido, rakonto de Aitor
+       Arana, trad. Joxemari Sarasua, aperinta en La
+       KancerKliniko, n-ro 84, okt./nov./dec. 1997.
+
+
+burgero. kuirita peco da pistita viando kun formo de plata disko,
+  kiun oni kutime metas manĝocele en tranĉitan panbulon kun
+  fromaĝo, cepringoj, spicaĵo aŭ saŭco ktp: burgerejo,
+  fiŝburgero, fromaĝburgero, furaĝburgero (eŭfemisme nomata
+  'vegetara burgero'); en _[ĉsv, ek]_ mi uzis la formon
+  'hamburgaĵo'.
+
+eŭsko. _[ek, mmi]_ vasko [el la eŭska].
+
+fetvo. _[npv]_ muftia decido.
+
+geto. _[lp, ng]_ getto, ghetto.
+
+karismo. _[ng, s]_ aparta kapablo influi homojn, kiun grace
+  ricevas profetoj, mistkuloj k.s.; aŭtoritato bazita sur
+  supernaturaj dotoj de individuo en la estrado de homgrupo;
+  granda prestiĝo de escepta persono.
+
+kasedo. _[s]_ sonbendo: kasedilo, poŝkasedilo.
+
+kidnapi. _[tb]_ (tr.) forkapti, forrabi personon por ricevi monon
+  aŭ alian kompenson kontraŭ ties liberigo.
+
+komikso. _[ek]_ plene ilustrita rakonto, felietona aŭ
+  libroforma, konsistanta el longa serio da bildoj.
+
+lo. _[vsp]_ 'la -o', 'tio -a'; vd. noton 7.
+
+mini-. _[npv]_ prefikso signifanta 'pli mallonga formo de io':
+  minijupo.
+
+perestrojko. _[mp, ek]_ reforma politiko aplikita de kamarado
+  Miĥail Gorbaĉov en Sovet-Unio fine de la okdekaj jaroj
+  konsistinta en trakonstruo de la ŝtata strukturo.
+
+politburoo. mallongigo de 'politika buroo' (de la komunista
+  partio), ĉefa ŝtata gvid-organo en Sovet-Unio.
+
+rok(muzik)o. _[[s]]_ vd. en _[s]_ sub 'rokenrolo', sed prefere
+  aĉetu la lastan diskon de _Persone_.
+
+teleo. _[vsp]_ televidilo [familiare].
+
+tiranosaŭro. _[ng, npv]_ fosilia kretacea reptilio.
+
+vanui. _[ĉsv, ek, ess, lp, mmi, ng, tb]_ (ntr.) malaperi.
+
+
+
+
+La aŭtoro
+
+
+Jorge CAMACHO (CORDÓN) [1 individua + 2 familiaj nomoj],
+naskita en Zafra, Hispanujo, en 1966. Eklernis esperanton en
+1980. Plurfoje premiita en la Belartaj Konkursoj de UEA. Membro
+de la Akademio de Esperanto de 1992. Premio Grabowski en 1992.
+Aŭtoro de multaj artikoloj kaj recenzoj. De 1995 laboras en
+Bruselo kiel konferenca interpretisto de Eŭropa Unio, el la
+lingvoj angla kaj finna al la hispana. Ĉefaj verkoj: (traduke)
+_Astura bukedo_, _Letero el Palestino_; (originale) _Sur la
+linio_, _Ibere libere_ [**], _La Majstro kaj Martinelli_, _La
+ĉapo de la sterko-vermo_, _Ekstremoj_ [**]
+
+[**] kunaŭtore kun Liven Dek, Miguel Fernández kaj
+Gonçalo Neves.
+
+
+
+
+Bibliografio [kun pardonpeto al André Cherpillod
+(CHERPILLOD, p. 24), kiu prave fajfas pri ĉi tiaj
+pedantaĵoj . . .]
+
+
+ALÒS, Hèctor, AULD, William, BERVELING, Gerrit
+k.m.a.: _Nefermita letero al la gazetaro_. En: Esperanto 89.
+1996: 1080, p. 74.
+
+[CAMACHO, Jorge]: La Majstro kaj Martinelli. (Repr. de la eld.
+Budapest 1993.) Saarbrücken: Iltis-Eldonejo 1993. 30 p.
+(Iltis-Serioj. I. Beletro originala. 10).
+
+[CAMACHO, Jorge]: _Silferologiaj studoj_. En: La Kancerkliniko
+17. 1994: 71, p. 24-27.
+
+CANETTI, Elias: Masa y poder [Amaso kaj potenco; originala
+titolo: Masse und Macht]. Madrid: Alianza Editorial - Muchnik
+Editores 1987. 496 p. (El libro de bolsillo. 931).
+
+CASTILLA DEL PINO, Carlos: [artikolo okaze de la prezento de lia
+ese-libro El delirio, un error necesario [Deliro - necesa
+eraro]]. En: El País 1998: 7560 (1998.01.24), p. 31.
+
+CHERPILLOD, André: La aglutinaj lingvoj kaj Esperanto.
+Courgenard: eld. la aŭtoro 1988, 24 p.
+
+CONDE REY, Marie-France, FELSZEGHY Judit, MARTINELLI Perla:
+_Kie(n) la softvaro?_ En: Literatura Foiro 27. 1996: 168, p.
+221-222.
+
+DAŜGUPTO, Probal: _Post la Arkadioj (Recenza eseo)_. En: Fonto
+14. 1994: 163, p. 7-14.
+
+DOBBELAERE, Karel: _Sectes et nouveaux mouvements religieux
+[Sektoj kaj novaj religiaj movadoj]_. En: La Revue Nouvelle 1996:
+11, p. 52-62.
+
+FERNÁNDEZ, Miguel, [CAMACHO, Jorge] kaj VALÉN,
+Antonio: _Langvoroj_. En: La Gazeto 8. 1993: 48, p. 24-25.
+
+de' GIORGI, Aldo: _Reage al LG 60_. En: La Gazeto 12. 1997: 68,
+p. 26.
+
+GOLDHAGEN, Daniel Jonah: Hitler's willing executioners [Hitleraj
+volontaj ekzekutistoj]. London: Little, Brown and Company 1996.
+622 p.
+
+GONĈAROV, Anatolo: _Esperanta nostalgio - ĉuebla fenomeno_. En:
+La Gazeto 12. 1997: 69, p. 6-7.
+
+GUDSKOV, Nikolao: _Kio ni estas por la ekstera mondo?_ En: La
+Gazeto 10. 1995: 59, p. 8-13.
+
+HAUPENTHAL, Reinhard: Pensoj okaze de la cent-jara jubileo de
+Esperanto. Saarbrücken: Artur E. Iltis 1987. 16 p. (Jubilea
+Eldon-Serio. III. Esperantologio. 20).
+
+JUARISTI, Jon: El bucle melancólico. Historias de
+nacionalistas vascos [La melankolia buklo. Historioj de eŭskaj
+naciistoj]. Madrid: Espasa Calpe 1997. 390 p.
+
+LAGRANGE, Georges: _Demandoj, demandoj kaj respondoj_. En:
+Literatura Foiro 27. 1997: 164, p. 315-324.
+
+LEJZEROWICZ, Izrael: El la "Verda Biblio". Kaj Babiladoj kun
+Horaĉo Serĉer. Budapest: Literatura Mondo 1935. 104 p.
+
+LEYK, Jerzy: _De geo- al heliocentra sistemo_. En: Pola
+Esperantisto 1982: n-ro 3/4, p. 3-25.
+
+LEYK, Jerzy: _Sociologia karakterizo de la esperanto-movado_. En:
+Zamenhof. Movado. Doktrino. Ryszard Kraŝko; Jerzy Leyk; Walter
+Zelazny. Varsovio: Esplorkleriga Centro de Pola Esperanto-Asocio
+1983. 124 p., p. 44-100.
+
+LEYK, Jerzy: _Estimata Leganto_. En: Strategiaj demandoj de la
+esperanto-komunumo. Red. Czeslaw Biedulski. Varsovio: Pola
+Esperanto-Asocio 1985. 146 p., p. 5-19.
+
+LEYK, Jerzy: _Esperanto-komunumo: kromrezulto, instrumento, ĉu
+subjekto?_ En: Strategiaj demandoj de la esperanto-komunumo. Red.
+Czeslaw Biedulski. Varsovio: Pola Esperanto-Asocio 1985. 146 p.,
+p. 47-66.
+
+LEYK, Jerzy: _La esperanta socio fronte al la ekstera medio_. En:
+Studoj pri la internacia lingvo. Red. Michel Duc Goninaz. Gent:
+AIMAV 1987. 156 p., p. 9-25.
+
+LINDSTEDT, Jouko: _Lingvon familian, heredan . . ._ En:
+Literatura Foiro 27. 1996: 162, p. 178-180.
+
+LINDSTEDT, Jouko: _La rajto rekomenci_. En: Literatura Foiro 27.
+1996: 164, p. 327-329.
+
+LINDSTEDT, Jouko: [Letero al Ljubomir Trifonĉovski,
+ĉefredaktoro de LF]. En: Literatura Foiro 27. 1997: 164, p.
+330-331.
+
+MELNIKOV, Aleksandr: _Specifeco de fonaj scioj de la personoj
+uzantaj Esperanton_. En: Acta Interlinguistica. Red. Ryszard
+Rokicki. Varsovio: Akademickie Centrum Interlingwistyczne 1985.
+188 p., p. 97-160.
+
+PIRON, Claude: La bona lingvo. Vieno - Budapest: Pro Esperanto -
+Hungara Esperanto-Asocio 1989, 112 p.
+
+PIRON, Claude: Kien esperanto? Nepublikigita teksto de prelego
+kasede [*] sendita de la aŭtoro al renkontiĝo pri raŭmismo
+okazinta en Svisujo komence de septembro, 1994 (laŭ informo de
+la aŭtoro en letero). TTT-versio de la teksto legeblas ĉe la
+sekva ret-adreso:
+_<http://www.helsinki.fi/~jslindst/piron_raumo.html>_.
+
+RAMONET, Ignacio: _Pensamiento único y nuevos amos del
+mundo [La ununura pensado kaj la novaj mondomastroj]_. En:
+Cómo nos venden la moto [Kiel ili nin cerboŝtopas].
+Madrid: Icaria - Más Madera 1996. 104 p., p. 55-98.
+
+RAŜIĈ, Nikola: La rondo familia: Sociologiaj esploroj en
+Esperantio. Pisa: Edistudio 1994. 192 p.
+
+[REDAKCIO de Heroldo de Esperanto: Perla Martinelli, Giorgio
+Silfer, Marco Picasso]: _KCE gastigos la Forumon por la
+Esperanto-Civito_. En: Heroldo de esperanto 73. 1997: 13 (1944),
+p. 1.
+
+RÉVÉSZ, Sándor: _Esperantio_. En: Strategiaj
+demandoj de la esperanto-komunumo. Red. Czeslaw Biedulski.
+Varsovio: Pola Esperanto-Asocio 1985. 146 p., p. 93-110.
+
+SÁNCHEZ FERLOSIO, Rafael: _O Religión o Historia
+[Aŭ Religio aŭ Historio]_. En: Ensayos y artículos.
+Volumen II [Eseoj kaj artikoloj. Volumo 2]. Barcelona: Ediciones
+Destino 1992. 803 p., p. 311-351.
+
+SÁNCHEZ FERLOSIO, Rafael: Vendrán más
+años malos y nos harán más ciegos [Plu venos
+mavaj jaroj kaj faros nin pli blindaj]. Barcelona: Ediciones
+Destino 1993. 200 p.
+
+de SEABRA, Manuel: _Esperanto: nun kaj estonte_. En: La
+Kancerkliniko 20. 1997: 81, p. 27-28.
+
+SILBER, Laura, kaj LITTLE, Allan: The death of Yugoslavia [La
+morto de Jugoslavujo]. London: Penguin Group and BBC Worldwide
+Ltd 1995. 400 p.
+
+SILFER, Giorgio: _Kia socia rolo por la esperantlingva
+intelektulo?_. En: Strategiaj demandoj de la esperanto-komunumo.
+Red. Czeslaw Biedulski. Varsovio: Pola Esperanto-Asocio 1985. 146
+p., p. 111-118.
+
+SILFER, Giorgio: _Pli ol esperantista periodaĵo_. En: Esperanto
+87. 1994: 1065, p. 212.
+
+SILFER, Giorgio: _Piramidismo kaj raŭmismo_. En: La Gazeto 10.
+1995: 60, p. 23-24.
+
+SILFER, Giorgio: _Novjara salutmesaĝo (de baldaŭa prezidinto)_.
+En: Literatura Foiro 27. 1997: 164, p. 334.
+
+SILFER, Giorgio: _Esperanto: amasprodukto, kiu elitigas sian
+publikon_. En: La ondo de Esperanto 1997: 6 (37), p. 3.
+
+TIŜLJAR, Zlatko: _La rolo de la Esperanto-komunumo en la homara
+progreso_. En: Strategiaj demandoj de la esperanto-komunumo. Red.
+Czeslaw Biedulski. Varsovio: Pola Esperanto-Asocio 1985. 146 p.,
+p. 130-137.
+
+TIŜLJAR, Zlatko: _Ĉu ni konstruos novan ŝtupon?_ En: Esperanto
+90. 1997: 1091, p. 69.
+
+TORRAS I TUTUSAUS, Arnau: Pli ol homo, esperantisto! Zagreb: SEK
+(Studenta Esperanto-Klubo) 1996. 48 p.
+
+TRIFONĈOVSKI, Ljubomir: [sentitola redakcia noto]. En:
+Literatura Foiro 27. 1997: 169, p. 266.
+
+VAHA, Blazio: _Defende raŭmismon_. En: La Gazeto 12. 1997: 68,
+p. 27.
+
+VATRÉ, Henri: _Antaŭparolo_. En: Humoroj [de AULD,
+William]. La Laguna: J. Régulo 1969, 116 p. (Beletraj
+Kajeroj. Stafeto. 68).
+
+de ZILAH, Eugène: _Diasporo aŭ fraternitato_? En: La
+Gazeto 10. 1995: 59, p. 3-5.
+
+de ZILAH, Eugène: _La fontolingvo-teorio_. En: La Gazeto
+12. 1997: 69, p. 3-4.
+
+
+
+
+Falsaj nomoj -- kiaj homoj?
+
+
+  Nur dek kvar versoj licus por verŝo de rankoro.
+  (Timothy Brian Carr)
+
+
+Legontojn kaj leguntojn mi avertas, ke ĉi-artikole mi traktos
+plurajn temojn en mia kutima skandalema stilo. Se vi havas ion
+alian por fari, prefere turnu la paĝojn kaj ĝin ne legu.
+
+Mi komencos parolante pri pseŭdonomoj. En _Literatura Foiro_
+(n-ro 171, feb. 1998) legeblas "atentigo" subskribita de Perla
+Ari Martinelli: "Siatempe en _La Gazeto_ [Jorge Camacho] false
+atribuis al mi la pseŭdonimon Henriette Beaupaul".
+
+Kion do mi skribis? En LG (n-ro 53, jun. 1994) aperis mia
+sespaĝa recenzo (pri kiu mi tre kontentas) _Poetino anime
+sennacia_, pri la poemaro _Meznokto metropola_ de Krys Ungar (nun
+Krys Bottrill). Tie mi mencias aliajn pli fruajn recenzojn, inter
+ili tiun publikigitan en LF (n-ro 142, apr. 1993), pri kiu mi
+diras, ke ĝin verkis "Henriette Beaupaul, pseŭdonomo de Perla
+Ari Martinelli", kaj ke ĝia titolo "_Meznokto ne-tro-pola_ estas
+same absurda kaj vitriola kiel la enhavo de la recenzo mem".
+Temis pri mia propra konkludo surbaze de la stilo de l' recenzo,
+de la tiama LF-ĉefredakta rolo de Perla, kaj de interŝanĝo de
+opinioj pri la temo kun Ungar. Mi sincere pensis kaj plu pensas,
+ke nur Martinelli povis dishaki ŝian poemlibron kun tiom da galo
+kaj demagogio. Sed eblas, ke mi eraris. Jen la problemo de
+pseŭdonomoj, la ĉiama risko: ke oni prenu vin por iu alia.
+Ĉiel ajn Martinelli ne rajtas plendi nun, kvar jarojn poste, des
+pli ke, estiel ĉefredaktanto, ŝi mem decidis pri aperigo de la
+recenzo kun pseŭdonoma aŭtor-indiko. Tiel longe, ke ŝi tenas
+sekreta la nomon de la pretendate vera aŭtor(in)o, mi ne havas
+motivojn por eksupozi, ke temus pri iu alia ol ŝi. Parenteze,
+laŭ la PIVa difino de la vorto "kalumnio", mi trovas ŝian
+recenzon eminente kalumnia, kion cetere konfirmas la soneto "Al
+recenzintino", de Timothy Brian Carr, aperanta en lia ĵus
+eldonita poemaro (grandparte soneta) "Sur Parnaso".
+
+La atentigo pluas kaj finiĝas jene: "Lastatempe Reinhard
+Haupenthal same false atribuas al mi la pseŭdonimon Paula
+Mährti. Kaj Haupenthalo kaj haupenthalidoj (ankaŭ
+Gonçalo Neves, ekzemple) kalumnie mensogas." Nu, tute alia
+staras aŭ statas la afero pri _La manto_. Probal Daŝgupto nomas
+ĝin ŝlosilromano (legu lian leteron fine de ĉi artikolo). Kiam
+aperis en _Monato_ (dec. 1997) la recenzo fare de Gonçalo
+Neves mi miris: "estas klare, ĉu ne?, ke la libron verkis ne
+Martinelli, sed Aldo de' Giorgi!", mi pensis tiam. Kaj mi emis
+konsenti kun la frazo de William Auld en letero al _Monato_ (feb.
+1998), ke Neves "eluzis tiom da lerto por pruvi malveron".
+Intertempe la mantalo (kiel dirus Karolo Piĉ) iĝis nia propra
+Clinton-Lewinsky-skandalo. Publikiĝis letero de Leen Deij, plia
+de Auld (kiu parolas pri "komploto" kontraŭ Martinelli kaj kiu
+poste demisiis je rubrikredakta posteno en _Monato_) kaj eĉ unu
+de De' Giorgi, kie li neas, ke Martinelli aŭ li verkintus la
+libron. Tion ripetas la eldoninto, Gersi Alfredo Bays, en _Fonto_
+(n-ro 210, jun. 1998), aldonante la superfluan informon, ke
+ankaŭ mi ne verkis ĝin (superflua, ĉar sufiĉas kompari ajnan
+alineon el _La manto_ kun specimeno el miaj rakontoj por
+konstati, ke mi ne kulpus libron en tia "stilo"). Ŝajnas al mi,
+ke nek Bays nek la redaktejo de _Monato_ pekis aktive aŭ pasive:
+tiel longe, ke la aŭtoro ne volas konigi sian nomon, ili mem ne
+havas devon fari ion tiurilate. Mi longe suspektis, malgraŭ liaj
+dementoj, ke temas pri De' Giorgi, kaj verdire estus pli bone, se
+la aŭtoro ajn de tiu neglektinda romano kuraĝus eldiri laŭte
+sian nomon. Mi tamen ripetu, ke nek _Monato_ nek _Fonto_ meritas
+punon en formo de malabono, sed male: revuojn, kiuj aperigas
+ĉies kaj ĉiajn kontribuojn sencenzure (ene de certaj limoj,
+koncerne ekzemple homajn rajtojn) oni devas daŭre subteni.
+
+Parenteze, rilate la enhavon de _La manto_ kaj la konformecon de
+ĝia intrigo al realaj okazintaĵoj, certe Martinelli, Silfer
+(kaj De' Giorgi?) rajtas plendi pro la doloro aŭ malhonorigo
+kaŭzitaj aŭ kaŭzutaj. Aliflanke tia plendo mem haŭlas ĉi
+vulgaran kaj misgustan romanon el la regno de fikcio en la
+marĉojn kaj flusablojn de replikoj kaj rebatoj, reciprokaj
+akuzoj, rezolucioj kaj kooperativa loĝistiko.
+
+Plu al la temo. Ke, en n-ro 207, _Fonto_ decidis represi la tutan
+recenzon de Neves, kredeble reklamcele, nu, tion oni povas
+kompreni. Mi tamen opinias stultaĵo la publikigon de _Letero de
+Dieter Wiesemann_ en n-ro 208, des pli ke tiun Wiesemann
+(subskribinton de la antaŭparolo al la libro) konas neniu, kaj
+ke plej probable ĝi estas ekskluziva aŭ kundividata pseŭdonomo
+de Haupenthal (samkiel Artur E. Iltis kaj, mi hipotezas, Annakris
+Szimkat).
+
+Sed koncerne la faman recenzon, oni forgesas evidentajn faktojn.
+Nome, Neves perfekte sciis, ke Martinelli ne verkis la romanon.
+Li sciis ankaŭ, ke ĝenerale oni scias tion, kaj ke multaj
+suspektas pri De' Giorgi. Eĉ pli: Neves sciis, ke oni scias, ke
+li scias ĉion ĉi. Fakte li ne nur sciis, li antaŭvidis aŭ
+atendis, ke la publikigon de la recenzo sekvos lavango da leteroj
+kontraŭ ĝi. Jen kial nun mi trovas erara la aserton de Auld,
+ĉar Neves "eluzis tiom da lerto" tute ne por "pruvi" malveron
+nek por "pruvi" ion ajn, sed por eksciti, stimuli aŭ simple
+distri literaturemulojn, lerte spegulante en la recenzo la
+mallertajn trukojn de la romano. Efektive, se _La manto_ estas
+fuŝa ŝlosilromano, la teksto de Neves pri ĝi klaseblas kiel
+ŝlosilrecenzo plej eminenta.
+
+Se daŭrigi pri pseŭdonomoj, en la montpeliera UK konfirmiĝis
+al mi (sed ĉu necesis?) la identeco de Meva Maron, kaj Miguel
+Gutiérrez Adúriz aperte prezentis sin jen
+propranome, jen kiel Liven Dek. Laŭdire Giorgio Silfer,
+pseŭdonomo de Valerio Ari, baziĝas sur Fersil, tiu de Ferenc
+Szilágyi, kaj Lazaro Zamenhof mem plurfoje subskribis
+kripte kaj anagrame: Gamzefon, Hemza, Gofzamen, D-ro Esperanto,
+N.N., Amiko, Anna R., Unuel, Homo Sum, Homarano, Aleksandro
+Naumann kaj Dr X (mi citas laŭ _L. L. Zamenhof_: _datoj_,
+_faktoj_, _lokoj_, de André Cherpillod)! Sed, ĝis oni
+pruvos la identecon de, ekzemple, Waringhien kaj Varankin, mi
+hezitus nomi tian kutimon "komuna moro" de esperantistoj. Prefere
+oni faru, kiel Eli Urbanová kaj Eugène de Zilah:
+subskribi propranome, por ke ne estiĝu duboj.
+
+Kio venigas nin al plia falsa nomo: Nicolas Vanof. De kiam
+_Kooperativo de Literatura Foiro_ (LF-koop) alĥemiis la
+sendependan gazeton _Heroldo de Esperanto_ en pamfleton propran
+aperis pluraj novaj rubrikoj, inter ili _La lorno de Nicolas
+Vanof_. Ĉar, laŭ mia scio, sinjoron kun tiu nomo neniu konas,
+mi rajtas supozi, ke temas pri la redaktantino Martinelli, sola
+aŭ en akompano de Silfer. En nelonga kariero Vanof jam sukcesis
+publike insulti la filinon de Blazio Vaha, kaj en n-ro 1955 (jul.
+1998), sub la titolo _Nomo egala, sed esenco mala_, li skribas
+jene: "Ekzistas personoj, kiel Jorge Camacho, kiuj opinias ke, se
+iu lanĉas akuzon ne donante pruvojn, la simpla manko de reago
+fare de la akuzito pruvas la akuzon mem. _Li ne sin defendas, do
+li kulpas!_ Tiu ĉi sinteno estas kontraŭleĝa." Mirigas min la
+senhonteco de tiuj linioj! Aŭ la samnumera aserto de la
+redaktantoj, ke "Kiuj helpas nian laboron, tiuj helpas briligi la
+memoron pri Teo [Jung] kaj Ada [Fighiera Sikorska]. Dankon al
+ili, la veraj geamikoj de niaj du gemajstroj." Ne kaj milfoje ne,
+sinjorino Martinelli! Kiurajte ŝi neas al mi, kaj eĉ al Gian
+Carlo Fighiera, hororita de la metamorfozoj suferitaj de
+_Heroldo_, la epiteton "veraj geamikoj" de Ada? Tia frazo estas
+insulto al la nomo, la memoro, la honoro kaj la inteligento de
+Ada kaj Gian Carlo, kaj se Martinelli kaj Silfer estus precizaj
+kaj honestaj, ili devus rebapti la foraĉetitan gazeton _Hirudo
+de Esperanto_.
+
+Vanof petas pruvojn. Ĉu ajnajn pruvojn prezentis LF en siaj
+atakoj kontraŭ i.a. Fighiera, Jouko Lindstedt, Georges Lagrange
+aŭ mi mem? Neniajn. Sed pruvkolektistoj trovos abundon da ili en
+_La liturgio de l' foiro_. Tie mi asertas kaj dokumentas i.a., ke
+foirismo grade alprenas retorikon surprize similan al tiu de
+naciismo, de gentismo kaj eĉ de faŝismo. Al frazoj kiel "La
+esperanto-komunumo estas diaspora lingva minoritato" aŭ "Civito
+ne estas nur lingvanaro dotita je individuaj rajtoj: ĝi estas
+ankaŭ realaĵo kun komuna destino", ĉerpitaj el la "kvintezo",
+ilia plej freŝa manifesto (_Heroldo_, n-ro 1944, nov. 1997),
+foiristoj daŭre aldonas samcelajn kaj samfelajn precizigojn (LF,
+n-ro 173, jun. 1988): "Necesas iu interna ideo, kiu ne nepre
+estas religio, ne nepre estas ideologio, ne nepre estas hierarkia
+strukturo sed -- certe estas komunaj moroj. Kaj la moroj
+implicas komunan kondutkodon (moralon, fakte). Tio mankas al la
+nuna esperantistaro por transiri de heterogena movadaro al
+koherema civito." Nu, mi absolute ne bedaŭras la mankon de
+komunaj moralo aŭ moroj; feliĉe, ke ni vivas sen ili! Kaj kiu
+fakte bezonas "internan ideon" (sen-artikole) aŭ tian
+"transiron"? Kiu deziras kaj volas koheri? Certe ne mi, kaj certe
+ne ankaŭ multaj aliaj, ĉar ĝenerale oni saĝe fajfas pri
+tiuspecaj galimatioj.
+
+Mi konfesu, ke ĝojigis min legi en _Esperanto_ (n-ro 1105, jul.
+1998) tekstojn de du kolegoj akordajn kun miaj tezoj en _La
+liturgio de l' foiro_. Unue, Mark Fettes, kiam li eldiras, ke
+"Finfine ni ne bezonas Uneskon por konstati ke Esperanto
+funkcias, aŭ PEN por konscii pri ĝia atentinda literaturo!";
+poste Lindstedt, en recenzo pri _Aminda_ ("Bedaŭrinde el tiu ĉi
+libro, certe bonintenca, vi lernas nenion pri veraj denaskuloj
+aŭ iliaj gepatroj"), de Leendert C. Deij: "Min persone iom
+forpuŝis ankaŭ la provo doni en la enkonduko kvazaŭ ian
+ideologian enhavon al denaskismo, kiu ja ne estas idea ismo, sed
+nur socia fenomeno." Lante, sed konstante, senvualiĝas la farso.
+
+Krome LF-koop'on karakterizas ankaŭ aliaj faŝismaj moroj kaj
+manieroj: absoluta malrespekto al ĵurnalisma etiko, maskitaj
+aŭtodafeoj, cenzurado kaj cenzuremo . . . Tial, kiam Bruno
+Masala, Carlo Minnaja, Arnau Torras aŭ Daniele Vitali min
+demandas, kial mi dediĉas tiom da vortoj, tiom da tempo al la
+agoj kaj diroj de LF-koop, mi respondas: ĉar mi kontraŭas ĉian
+manifestiĝon de faŝismo. Se mi italus, mi oponus la agojn kaj
+dirojn de Bossi kaj Berlusconi; se mi francus, tiujn de Chirac
+kaj Le Pen; kiel hispano, tiujn de, ekzemple, Francisco
+Álvarez Cascos (nelge demisiigita vicprezidanto de la
+PP-registaro) kaj Xabier Arzalluz (prezidanto de PNV-EAJ [laŭ la
+hispana, Eŭska Naciisma Partio; laŭ la eŭska mem, io simila al
+Eŭska Partio Sekvanta la Ĉielestron kaj la Malnovan Leĝon]),
+ĉi lasta -- nesuperebla reĝo de ambicio kaj ambiguo.
+Ankaŭ en Esperantujo agas homoj nefidindaj; ĉu oni restu pasiva
+ĉe iliaj fifaroj? Kiam, siavice, mi demandis de Minnaja, kial li
+insiste kaj malobjektive defendadas sinjorinon Martinelli (ĉu
+ŝi kaj Silfer ne scias defendi sin mem?), li respondis: "Mi
+defendas miajn amikojn". Nu, restu klara, ke mi faras same.
+
+Parenteze, kaj interkonsente kun Gonçalo Neves, mi
+malkaŝos nun la historion de alia (pseŭdo)pseŭdonomo. En julio
+de 1993, antaŭ la Universala Kongreso en Valencio, Kataluna
+E-Asocio decidis okazigi kulturan renkontiĝon en Barcelono.
+Elektinte kiel kunorganizanton LF-koop'on, ĝi vidis iom post iom
+kiel la originala plano transformiĝis (pro desupraj instrukcioj)
+al foireca Internacia Literatura Forumo. Ekzemple, el la listo de
+iberaj verkistoj jam invititaj fare de KEA, Perla Martinelli
+trudis forigon de mia nomo. Nu, dum vizito mia al Lisbono
+semajnojn aŭ monatojn pli frue, Gonçalo Neves, tiam
+ankoraŭ en kunlaboraj rilatoj kun la kiasaj gepapoj, solidare
+kaj malavare proponis, ke mi verku la tekston de la prelego, kiun
+li prezentos sianome en Barcelono. Dirite, farite. Ne devas
+mirigi iun ajn, ke, en forumo kun la ridinde pretenda titolo _La
+literatura kritiko en esperanto: inter estetika universalo kaj
+poetika relativo_, "nia" prelego konforme titoliĝis _Literatoroj
+kaj publiko en Esperantujo: ĉu konkube aŭ divorce?_. De sur la
+podio Gonçalo prezentis mian prelegon en formo leĝere
+modifita (por ne veki tro facilajn suspektojn) al publiko, kie
+sidis, krom Giorgio Silfer kaj mi, ankaŭ sufiĉe multaj
+beletremuloj ricevintaj de mi, postkulise, kontrabande, la unuajn
+privat-eldonajn ekzemplerojn de _La Majstro kaj Martinelli_,
+ankoraŭ odorajn je freŝa inko. Ne pro nenio la 5a, 6a kaj 7a
+ĉapitroj de ĉi lasta libreto nomiĝas respektive _Estetika
+universalo, Enkonduko al literatura kritiko kaj Poetika relativo_
+(ĉu iam antaŭe nia beletro montriĝis same, eĉ anticipe,
+aktuala?), kaj samkiale sur p. 15/19 de mia satiro Emèric
+Ország kaj Georg Silber trovas en mia komputilo la sekvan
+pornan tekston: _Lit-erotiko kaj pub-leko en Esperantujo: ĉu
+midze aŭ franze?_. La ses jaroj pasintaj intertempe sukcesis
+erozii nek la memoron pri la tiama kunamuziĝo, _ibere libere_
+tra la LF-karnavalo, nek la sinceran amikecon, kiu min ligas al
+Gonçalo.
+
+Sed evidente ankaŭ mi kulpas pri fojfoja troa subjektiveco. Kaj
+eble tioma okupiĝo pri manipulistoj kaj demagogoj parte ankaŭ
+min kontaĝis. Ekzemple, en 1994, en la artikolo _Silferologiaj
+studoj_ (_La KancerKliniko_, n-ro 71), mi skribis la vortojn "la
+elpensinto de la neniam reale ekzistinta rondo _La Patrolo_". En
+letero de 30.09.94 Minnaja responde rakontis al mi la historion
+kaj konsiston de tiu beletra grupo kaj de ĝiaj rilatoj kun
+LF-koop. Minnaja pravas, kaj mi pardonpetas. En mia emo troigi mi
+eraris. Mi fakte celis diri ion similan al "neniam reale
+ekzistinta tia, kia LF ĝin prezentas", ĉar, laŭ mia kompreno,
+LF-koop fagocitis la nomon _La Patrolo_ jam tre frue, kaj nun
+uzas ĝin kiel legitimilon, kiel aŭtoritatan markon, kiel
+epoleton (ekzemple sur la kolofono de la revuo), samkiel ĝi
+faris siatempe pri _Norda Prismo_. Ke LF-koop heredis la markon
+_La Patrolo_ laŭ decido de la dissolva kunsido de la samnoma
+grupo ne malpravigas la metaforon "fagociti". Simile, ke ĝi
+aĉetis de Fighiera _Heroldo_'n neniel dementas la fakton, ke ĝi
+transformis ĉi lastan en deliran pamfleton. Alivorte, mi
+preferas la riskon iom tro subjektivi, ol resti mankatenita en la
+sterila kaĝo de formalismo. Mia verklingvo estas ja esperanto,
+ne ia kreuta _Idiot Neutral_.
+
+Ĉar mi ne volas restigi dubajn punktojn sur la vojo, oni permesu
+al mi parentezan precizigon pri la kovrilo de l' satira novelo
+_La Majstro kaj Martinelli_: ornamas ĝin al-tema, temotrafa
+("pertinenta") karikaturo de Giancarlo Mangini, aperinta sen ajna
+indiko pri kopi-rajto sur broŝureto de Kataluna Esperanto-Asocio
+pri la foirumitaj (en la ekzekuta senco de _um_) Internaciaj
+Floraj Ludoj, kaj de tie eltondita por la unua privata eldoneto,
+kiun siavice reproduktis _Iltis_ fine de la sama jaro 1993. Se
+tiel li lezis kopi-rajton, Haupenthal devintus informiĝi pli
+bone antaŭ ol simple represi.
+
+Pasintjare mi legis en la reto, ke Haupenthal akuzis ĉe
+tribunalo Germanan E-Asocion pro malrespekto de kopi-rajto. Mi
+forgesis la detalojn de alia kazo, sed en 1993 aŭ 1994 li same
+akuzis la paderborne ŝulcisman revuon _Speciala Cirkulero_ pro
+nerajtigita represo en la n-ro 62 de recenzo mia (_Pacienco
+necesas, tamen ne indas_), jam publikigita pli frue en la n-ro
+1992/3 de _Iltis-Forumo_. Li petis de mi leteron konfirmantan, ke
+la recenzon mi verkis por _Iltis-Forumo_, kaj ke _Speciala
+Cirkulero_ reproduktis ĝin sen mia permeso. Mi sciis, ke li uzos
+ĉi leteron por postuli monkompenson. Sed, aliflanke, li petis de
+mi nur "diri la veron". Nu, mi ne sciis diri "ne". Kiel mi
+povintus nei ion tiel simplan al "mia eldonisto"? Nura neo
+estigus tujan konflikton. Mi do komplezis lin per la petita
+letero, ne imagante, ke la konflikto inter ni neeviteble okazos
+iam poste.
+
+Eble tial, ke ne ĉiam mi protestis pri ĉio protestinda aŭ
+protestenda, mi ankaŭ neniam kapis la (cetere idiotan) "ideon"
+postuli de Auld, Fernández aŭ Minnaja, ke ili ĉesigu
+sian kunlaboron kun LF, aŭ de Neves, ke li same faru rilate al
+la eldonejo _Iltis_, des pli ke, dum ne estiĝis persona
+konflikto, oni povas senrimorse plu agi, kiel se nenio okazintus.
+Nu, kiam en 1985 Haupenthal publikigis recenzon de Fernando de
+Diego kontraŭ _Montara vilaĝo_ (traduko de anglalingva romano
+de Chun Chan Yeh) sub la titolo _La degenero de William Auld_, mi
+trafiĝis de miro, honto kaj indigno -- kaj silentis.
+Katenis min du amikecoj: al Auld, la poetofrato kiun mi dufoje
+vizitis en Dolaro kaj kun kiu mi delonge tenas korespondan
+rilaton, kaj al De Diego, modelo lingva kaj stila, senlaca
+stimulanto de mia beletra kariero. Antaŭ ne longe mi legis la
+tiaman recenzon kaj ĝian daŭrigon de 1987, sed tial, ke mi nek
+legis la romanon nek komparis kun la angla originalo nek sentas
+eĉ plej etan emon tion fari, kaj ĉar mi daŭre trovas min
+ligita je ambaŭ amikecoj, mi malpovas diri opinion pri la
+recenzo mem. Evidente Auld kaj aliaj anglalingvaj esperantistoj
+havis plenan rajton kontesti la asertojn de De Diego, samkiel ĉi
+tiu siavice rajtis, ne malpli evidente, kritiki la tradukon de
+Auld, des pli se konsideri ke lian hispanigon de la sama romano
+publikigis la eldonejo Caralt en 1963. Ĝis tiu punkto temintus
+pri diskuto inter fakuloj. Sed Haupenthal, elektinte insultan,
+ofendan titolon por la recenzo sen antaŭe informi ĉi ties
+aŭtoron ("Efektive, la titolon tiel formulis la eldonisto Artur
+E. Iltis", konfesas noto al ĝia dua parto), degradis ĝin al
+neleginda pamfleto. La sekvon ĉiu konas: leteroj,
+kontraŭleteroj, reagoj kaj antireagoj, vortico de akuzoj kaj
+anatemoj kontraŭ unu kaj la alia flankoj, en tono ascende
+malharmonia, iom simile al la nuna tempesto pri _La manto_.
+
+Dirante ĉion ĉi mi riskas seniĝi je la amikeco de Auld, de De
+Diego aŭ eĉ de ambaŭ. Sed mi devas kvitiĝi almenaŭ kun mi
+mem.
+
+Kelkaj personoj jam sufiĉe kompromitis sian sendependecon per
+tro rigora "neŭtralismo". Ekzemplo estas István Nemere,
+prezidanto (se mi ne mismemoras) de _Esperanta PEN-Centro_, kaj
+kiu, en la fino de unu el siaj du prelegoj (cetere stuporige
+sen-ordaj, konfuzaj kaj tedaj) dum la Internacia Junulara
+Kongreso en Rijeko, responde al mia inkognita demando el la
+publiko pri la atakoj kontraŭ niaj verkistoj, diris simple, ke
+li "sentas nenian solidarecon" al ĉi tiuj, kaj ke li opinias ĉi
+aferojn "tempesto en akvoglaso, ne inda je plenkreskuloj". Jen
+kion oni povas atendi de la esperanta PEN, finfine nur unu plia
+tentaklo (kiel la bastarda _Heroldo_) de la LF-polpo, kaj kiu,
+malgraŭ siaj nomo kaj statuto, neniel reprezentas la verkistojn
+en la lingvo esperanto (kurioze, ke pro similaj kialoj Manuel de
+Seabra decidis eksiĝi el la kataluna PEN). Bele, se tian rolon
+plenumos iam glate _Esperantlingva Verkista Asocio_, kiu almenaŭ
+laboras, kvankam modeste, ja demokrate!
+
+Hodiaŭ mi decidis paroli klare kaj rekte, sen eŭfemismoj. Venas
+nun la vico al Haupenthal. Mi ripetu plian fojon, ke mian lastan
+leteron al li mi sendis en la fino de 1994 aŭ komence de 1995.
+De kiam ni ekkonfliktis, mi ne plu respondas al liaj sendaĵoj.
+Ni jam vidis, kiel maldigne li kondutis rilate al Auld, kaj
+antaŭ ne longe Gerrit Berveling, en _Reĝustigo pri nekredebla
+insulto_ (_Fonto_, n-ro 209, maj. 1998), prave deklaris
+neakceptebla lian rabian atakon kontraŭ gejoj en recenzo pri _La
+aĵoj kaj la sezonoj_, de Ulrich Becker. Kiel siatempe pri la
+du-parta recenzo pri _Montara vilaĝo_, ankaŭ nun UEA decidis,
+ke ĝia libroservo ne disvendu la 16-paĝan paskvilon de
+Haupenthal _La debuto de Paula Märthi_, ĉar, kiel sufloris
+al mi en Montpeliero grava postenulo de la asocio, ĝi estas
+ĉiurilate neakceptinde "subnivela". Mi ne konsentas kun la
+surogata proceduro, per kiu Martinelli sukcesis elizii lin el la
+Akademio, sed samtempe mi ĝojas, ke tie li ne plu ĝenas. Mi ne
+neas, ke, kiel Silfer kaj Martinelli, ankaŭ Haupenthal havas
+meritojn: se escepti kelkajn piĉismojn k.s., mi admiras la
+prozon de liaj elgermanigoj. Estus ekstreme facile karikaturi lin
+per fizika komparo kun tiu aŭ alia besto, sed mi detenos mian
+plumon de liaj rudimentaj insultoj kaj vitriolaj vortludoj, kiujn
+li sendube taksas spritaj. Sed, ĉar vizaĝo ofte spegulas la
+animon (se en kor' io sidas, la vizaĝo perfidas), mi menciu, ke,
+post persona renkontiĝo kun li en 1988 aŭ 1989, mi ne povas
+forgesi la similecon kun la vinagraj, nefidindaj, friponaj
+ridetoj de Boris Jelcin aŭ la ksenofobo Le Pen: okuloj
+kunpremitaj al mallarĝaj sulkoj, muskoloj en afektostreĉo,
+tremeto ĉe la lipoj. Kun Silfer li kundividas la admiron kaj
+adoron al sia personeco. Ne surprize do, ke antaŭ la festlibroj
+por André Albault kaj De Diego planataj de _Iltis_ jam
+aperis tiu por la 50a jariĝo de li mem: _Menade bal püki
+bal_, kies plej adekvata titolo estus ja _Menade bal Haupen tal_.
+
+En Esperantujo, kiel en la "normala" aŭ "ekstera" mondo (diable,
+kiaj metaforoj!), oni renkontas ĉiajn homtipojn, ankaŭ la
+ekstremojn de la gamo. Jen ni trovas homojn plenkorajn kaj
+bonkorajn, kiel Ada kaj Gian Carlo Fighiera aŭ William Auld, jen
+gesinjorojn senkorajn kaj rankorajn (kun pardonpeto al ranoj!),
+kies nomojn mi nun ne ripetos. Al ĉi lastaj, prevente
+ponard-atakon, ne plu mi prezentas la dorson. Unu vorto ilin
+senmanke difinas: nefidindaj. Elmontrado de iliaj fifaroj estas
+nepra kondiĉo por limigi kaj izoli la infekton.
+
+Mi deziras fini citante la plenan tekston de letero de 31.07.98,
+kiun Probal Daŝgupto sendis al Martinelli kun kopio al mi kaj
+kun eksplicita permeso igi ĝin publika (la menciatan
+dokumentaron mi nek vidis nek ricevis), kaj kiu modele traktas
+plurajn el la antaŭaj temoj:
+
+
+  "Estimata kolegino,
+
+  "Tre koran dankon pro via zorge kunmetita dokumentaro
+  pri la ŝlosilromano. Mi hazarde ĝin nek legis nek
+  disponas. Sed vi siatempe -- en la rolo de
+  redaktoro de LF -- faris al mi plurajn
+  komplezojn. Mi do sentas devon ne simple enarkivigi
+  vian zorge kunmetitan sendaĵon.
+
+  "Mi estas konvinkita, ke inter la 'partioj' en tiu
+  ĉi konflikto trovas sin pluraj, kiuj age kaj neage
+  kreis profilon kompromitan por la nuna uzantaro de
+  nia komuna lingvo. Inter la agoj mi kalkulas la
+  troreagadon al veraj aŭ imagataj stimuloj; sed mi
+  komprenas, ke tiun mian opinion aliaj kiuj pensas pri
+  la problemo povas ne dividi. Pri la kreo de profilo
+  kompromita eble ekzistas pli da unuanimeco. Tamen, mi
+  ne apartenas al tiu nivelo de parolantoj/verkantoj,
+  kiu povas okazigi repacigojn, armisticojn, kaj
+  similajn 'finojn'. Mi do min limigas al tio, ke mi
+  raportas tiun mian konvinkiĝon al vi kaj al kolego
+  Camacho (al kiu do iras kopio de ĉi tiu letero). Mi
+  volonte kunleterus al amaso da aliaj, sed la rimedoj
+  ne permesas tion. Mi povus reti, sed tio levus la
+  temperaturon de la diskuto. Se unu el vi sentos
+  bezonon dividi miajn opiniojn kun aliaj legantoj,
+  bonvolu, sed mi ne volas per tiuj vortoj instigi
+  -- mi simple notas mian anticipan neproteston
+  pri tia decido fare de unu el vi. Se mi mem
+  'cirkulerus', tio estus _iniciato_, kaj mi opinias ke
+  ni bezonas pli da silentoj kaj da sindetenoj por ke
+  ni atingu ion pozitivan, ne pli da iniciatoj.
+
+  "Sinjorino, via tuta dokumentaro kaj komentario kreas
+  la impreson, ke vi kun malfacilo vin detenas de la
+  uzo de la rimedoj, kiujn disponigas la naciaj juraj
+  sistemoj. Interalie vi aludas al la kialoj pro kiuj
+  oni (se mi bone komprenas) ne aperigas nacilingvan
+  version de _Hetajro dancas_, kaj vi ŝajnas bedaŭri
+  la nesufiĉan komprenon, fare de esperantistaj
+  individuoj kaj instancoj, pri la jura atakeblo de
+  ŝolsilromanoj.
+
+  "La nacia juro de Irano, ligita tiunacie al la islama
+  religia tradicio, trovas akceptebla la decidon de
+  imamo provi dedistance mortpuni Salman Rushdie pro
+  verko fikcia. Se mi bone interpretas viajn dirojn kaj
+  nedirojn, vi ne volus defendi tiel ekstreman akcepton
+  de la tuta gamo da naciaj juraj sistemoj kaj iliaj
+  teoremoj. Vi volas, ke ni okupu nin pri la pli
+  'universale' akcepteblaj juroj, kun provizoraj,
+  kontesteblaj decidoj pri kriterioj por tia
+  universaleco. Mi povas kompreni, ke en viaj suferoj
+  (kies realecon kaj kunsentindecon certe neniu neos)
+  vi povas ne prioritatigi la tro teorian laboron
+  specifi tiajn kriteriojn. Mi nur atentigas vin pri
+  distingoj, kiujn vi eble agnoskas, kaj kiuj eble ne
+  aspektos ekstertemaj. Vi konsentos, ke ekzistas do
+  juroj kaj juroj.
+
+  "La naciaj jursistemoj heredas tradiciojn de
+  cenzurado, kiuj flaris ĉie ion suspektindan, kaj
+  donis grandan potencon al la punantaroj (kaj pere de
+  ili al la pun-invitaj procesontaroj). Provoj
+  literaturi internacie ne sane kreskas en medio, kiu
+  tro peze heredas tiujn sistemojn. Oni volas konstrui
+  al si novajn liberojn. En tiu konstruado povas okazi
+  ekscesoj. Pro tiaj kunpuŝiĝoj eble evoluos malpeza
+  kodo kiu estos pli efike-universala, ol estus
+  nacisistemara kungregigo.
+
+  "Mi ne tedos vin per (por mi persone gravegaj)
+  rakontoj pri bengalaj ŝlosilromanoj.
+
+  "Altestime, Probal Daŝgupto".
+
+
+Kaj per tio mi finas. Ĉar, kiel admonas min Trevor Steele en
+letero, tro pensi pri ĉi temoj "malutilas al [mia] verkista
+evoluo". Sanon kaj poezion!
+
+Bruselo, 20-21.08.1998 (reviziita je 22-23.02.1999)
+
+
+
+
+Al la buŝo de oni neniu povas ordoni
+
+  Baldaŭ aperos nova kontraŭsilfera filibro de
+  Camacho.
+  (Aleksander Korĵenkov?)
+
+
+Pli ol unu jaro jam pasis post la "unua eldono" de _La liturgio
+de l' foiro_. Siatempe mi sendis la tekston al du
+gazet-eldonistoj, _La KancerKliniko_, kiu _ne povis_ enŝovi ĝin
+en sian eldonprogramon, kaj _La Gazeto_, kiu unue pretis kuiri el
+ĝi specialan numeron de la revuo, sed kiu poste _malvolis_ tion
+fari, probable pro timo al reprezalioj (juraj aŭ vipuraj) aŭ
+pro miskomprenitaj neŭtralismo, formalismo kaj ĝentlemanismo.
+Nu, dum _La Gazeto_ dediĉadis siajn paĝojn malavare al reformoj
+kaj surogatoj de nia alphabeto, mi zorgis pri ĝia aperigo kiel
+privata letero ricevota de kolegoj kaj geamikoj. Laŭ la paso de
+la monatoj venis al mi multaj kaj tre diversaj reagoj, ret- kaj
+paper-poŝte.
+
+Ekzemple, mi trovas nun tre konvinka kaj pozitiva argumenton de
+Lindstedt favoran al denaskismo surbaze de evoluo ne nur
+intelekta, sed ankaŭ morala kaj kulturhorizonta, de la infano,
+kio bone sidus sur p. 13.
+
+Krome jen kaj jen venis al mia kapo novaj ideoj, kiel la
+konstato, ke la manifesta insistado pri krizo de identeco en la
+esperantistaro plus la detiama serĉado de propra (kaj nova)
+identeco kune emigas konkludi pri identeca krizo ĝuste ĉe
+raŭmistoj mem.
+
+Kaj sendube la Manifesto de Raŭmo pravas pri unu punkto: ke
+esperantistoj mensogis kaj mensogas. Al si mem, kaj al la publiko
+aŭ merkato. Sed ne havas sencon anstataŭigi mensogojn per pliaj
+mensogoj, mitojn per mitoj, naivaĵojn per mistifikoj. Unue
+necesas koni kaj kompreni sin. Tial mi elverkis ĉi libreton.
+Prave diras Hèctor Alòs, ke "estas tiom da _Leteroj
+el Palestino_ verkendaj aŭ tradukendaj pli frue ol plia denunco"
+kontraŭ la polpa kliko! Mi konsentas. Fakte, nun, tagojn antaŭ
+mia reiro al Madrido, mi povintus lasi la tuton droni en forgeso.
+Sed mi preferis kunmeti ĉi heterogenan materialon, fini la
+ĉapitron kaj turni la paĝon. Kaj dediĉi min al pli gravaj
+aferoj.
+
+Ĉar mi nek fortas nek emas nek tempas entrepreni enketadon, aŭ
+reverki mian tekston (temis ja pri _Elementoj por ekzegezo_, ne
+pri ia _Plene Analizita Foirismo_), mi citos ĉi-sekve kun la
+permeso de la aŭtoroj (kaj alfabet-orde laŭ la familiaj nomoj)
+nur kelkajn ilustrajn fragmentojn el parto de la ricevitaj
+leteroj. Ni komencu per tiu de Ricardo-Felipe Albert Reyna:
+
+  "Malgraŭ tempomanko mi forglutis 'La liturgion de l'
+  foiro'. Mi nur bedaŭras, ke du gazet-eldonistoj
+  afable cenzuris ĝin. Nu, ĉiu scias (aŭ sciu) siajn
+  prioritatojn. Mi apogas centprocente vian tekston.
+  Laŭ mia supraĵa kalkulo ni marŝas al
+  enradikiĝanta faŝismo, tial mi bonvenigas vian
+  provon senmaskigi la foirismon estiel formon de
+  faŝismo."
+
+Mi nur aldonu, kohere kun la substrekitaj vortoj komence de ĉi
+artikolo, ke, dum la sencenzuran kaj skandaleman _LKK_ mi daŭre
+apogas kaj simpatias, pri _LG_ mi perdis ĉian intereson. Albert
+Reyna (kies ĵus antaŭaj vortoj eĥas la devizon _Kion vi faras
+por eviti tion? Geesperantistoj el la tuta mondo agu energie
+kontraŭ la internacia faŝismo!_ -- el hispana internmilita
+afiŝo, kiun mi uzas ekranŝirmile) daŭrigas:
+
+  "Vi eble memoras ke antaŭ pluraj jaroj mi forte
+  sentis min fora de esperantaĵoj ĉar (mia-dire) 'mi
+  ne dividas celojn'. Nu, mi ĝojas nun legi vian
+  tekston: 'Ni esperantistoj konsistigas malnacion,
+  malgenton, malpopolon (jen kio placas al mi!)'. Kaj
+  -- plej ĉefe --, se Esperantujon regas
+  cenzuro, mi diru klare, laŭte kaj elegante, ke
+  Esperantujo ne ekzistas, kiel ne ekzistas Fumantujo,
+  Filatelujo nek multaj aliaj Fikciujoj (inkluzive de
+  la Klingona Imperio)."
+
+Kontrastre, Hèctor Alòs i Font skribas:
+
+  "Mi ekzemple konsideras, ke la kvazaŭa komparo de
+  (parto de) la esperantistaro al diaspora malplimulto
+  estas riĉiga kaj povas montriĝi fruktodona: oni
+  povas multon lerni, ekzemple, de armenoj, kiel ili
+  sin organizas por vivteni sian kulturon diaspore (de
+  la simpla disvendado de libroj kaj revuoj al la
+  starigo kaj vartado de stabilaj teatraj aŭ muzikaj
+  grupoj). [. . .] Aliflanke, mi ne plene konsentas kun
+  vi, ke esperanto simple estas 'nobla hobio' [. . .].
+  Mi tamen kredas, ke ĉe ne malmultaj aktivaj
+  esperantistoj nia iom aparta kunvivado kaj interagado
+  kun homoj el multaj landoj, ĝenerale konsiderataj
+  'ekzotaj' ĉe ni, iom modlis nian mondpercepton."
+
+Nenion mi havas kontraŭ "kvazaŭaj komparoj" aŭ senpretendaj
+metaforoj, kaj mi ĝojus, se oni povus lerni same multe de la
+foirisma demagogio, kiel de la reala kultura agado de armenoj
+(kiun mi, bedaŭrinde, ne konas). Cetere, eble iam mi entreprenos
+la seriozan instrospekton pri la motivoj de mia esperantumado,
+kiun proponas al mi Hèctor. Sed mi timetas, ke la
+konkludoj povus kabeigi ĉu min, ĉu aliajn . . .
+
+Michel Duc Goninaz unue kritikas la cititan analizon fare de
+Piron dirante, ke "_se li 'neniam renkontis esperantiston, kiu
+favoris "faligon de la angla"', nu, probable li ne renkontis
+multajn esperantistojn, almenaŭ ne ĉiujn, almenaŭ ne min (eĉ
+se la vorton 'faligo' mi konsideras neadekvata)_". Aliflanke,
+kiam temas pri la manifest-aŭtoraj apartiĝemo kaj pretendo, ke
+nur ili pravas, laŭ Duc Goninaz "_Piron ne vidis en la unua
+peragrafo la uzon de 'ni' ('nia superegoo . . .' ktp), per kiu la
+aŭtoroj konsideras sin tute ne apartigitaj de la averaĝa
+esperantistaro, sed ja tre similaj -- eĉ se kun laŭdinda
+memkritiko_". Kaj fine li prezentas (plian!) pristudindan
+vidpunkton:
+
+  "En la tiutemaj polemikoj oni tute forgesis la
+  historian dimension. La Manifesto de Raŭmo havis
+  kiel ĉefan historian taskon (konscie aŭ nekonscie
+  flanke de ties aŭtoroj -- tio ne gravas)
+  forgesigi kaj, se eble, forviŝi la Deklaracion de
+  Tyresö (1969). El tiu ĉi vidpunkto la
+  'Raŭmistoj' de 1980 (ankaŭ simbola jaro: entombigo
+  de la jaroj '70!) estas la objektivaj komplicoj de la
+  plej tradiciaj kaj 'pracelaj' esperantistoj, kiujn
+  ili pretendis kritiki."
+
+Preleginte en Rijeko pri ĉi temo, okaze de la tiea Internacia
+Junulara Kongreso en 1998, mi petis la publikon pri komentoj kaj
+demandoj. Pli ol unu aŭskultinto diris, ke por li (mi emus
+skribi "*gi" por ne pensigi pri vireco) "raŭmismo" signifas
+"ĝui la (bonan) etoson", t.e. amuziĝi, distri sin, amikumi kaj
+umikumi ktp. Nome, ne "labori por la movado, sin oferi,
+organizi. . .". Jen la ŝibolete kaj sezame moda vorto en
+junularaj renkontiĝoj, en TEJO-rondoj: ne "interna ideo" nek
+"frateco", sed "etoso". Sufiĉas legi komiksojn de Arnau por tion
+konstati. Evidente neniu plu pretas iĝi martiro, aŭ lakeo, aŭ
+putino, de esperanto -- ankaŭ ne mi. Ĉiu volas ĝui la
+etoson, la lingvon, la vivon, la hodiaŭon! Pasis for la tempoj
+piramidaj . . . Sed, krom tio, la ekvacio "raŭmismo = ĝui la
+etoson" montras nur la idean magrecon de la debato en Junularujo.
+Simplismo (t.e. pensado per sloganoj kiel "komunismo = ĉio por
+ĉiuj" aŭ "kristismo = eterna feliĉo") facile akiras adeptojn
+ankaŭ en niaj vicoj.
+
+Multe pli nuancite argumentas Aldo de' Giorgi fine de ĉi alineo
+(parenteze: la bona stilo de liaj leteroj igas min pridubi, ke
+ĝuste li estus la aŭtoro de _La manto_; se ne li -- do
+kiu?):
+
+  "Memkompreneble mi legis kun ĝuo vian 'liturgion',
+  kiu estas sendube tre dokta, detala kaj nepre
+  interesa sociologia studo pri problemo, kiu meritas
+  atenton, kaj kiun, bedaŭrinde, la ĝenerala
+  esperantistaro, eĉ UEA, laŭŝajne tute ne prenas en
+  konsideron aŭ taksas nur marĝena, malgrava
+  danĝero. [. . .] Mi deziras ankaŭ klarigi kial mi
+  iam skribis ke eble mi estas 'iaspeca' raŭmisto. Tia
+  mi estas en la senco ke mi tre bone min sentis en la
+  esperantisma movado, kie mi konis amason da tre karaj
+  kaj interesaj homoj, kie mi multon lernis, kie mi
+  povas vaste aktivi kaj amike interrilati, malgraŭ
+  tio ke neniam mi tro fidis je iu, ia, iela, iama,
+  ioma 'fina venko'."
+
+Bele kaj ekvilibr(ig)e komentas Sten Johansson (kiu bonvolu
+indulgi la pres-artan modeston de ĉi libreto):
+
+  "Mi ŝatus komplimenti vin pro via 'liturgia'
+  artikolo, kiun mi trovis tre sprita, ege malica kaj
+  treege amuza. Mi komprenas ĝin kiel vivan kaj trafan
+  esprimon de viaj sentoj. Kiel argumentado ĝi iom
+  malpli-efikiĝas de la komparoj kun Hitler, Pinochet
+  ktp. Krome, oni kredeble povus trakti vian tekston
+  simile kiel vi traktas tiujn de Silfer, por elserĉi
+  'kamaĉaĵojn'. Kaj eblus imputi ankaŭ al vi
+  diversajn psikologiajn motivojn de la tre alta
+  'temperaturo' en via artikolo. Ekz. ĉu ne povus esti
+  reciproka projekcio? (T.e. vian eventualan
+  subkonscian neagnoskitan internan despotecon vi
+  projekcius sur Silferon, kiu ja prezentas tre taŭgan
+  projekcian ekranon . . .)."
+
+Ne povas manki ekstreme konciza prijuĝo fare de Gonçalo
+Neves:
+
+  "Hieraŭ mi (finfine!) legis vian broŝuron. Mi ege
+  ŝatas ĝin, kaj tute ne komprenas kial iuj
+  malrekomendis ĝian aperigon. Ĝi estas sobra,
+  objektiva, vaste dokumentita, kaj (kiel ĉiam)
+  belstila, vortsuka kaj leksik-abunda. [. . .] Temas
+  do [. . .] pri dokumento esperantujologia, kiu nepre
+  meritas disvastigon, kaj tial mi ege rekomendas ke vi
+  klopodu ĝin aperigi."
+
+Nek la senkompromise kritika voĉo de Joxemari Sarasua, kun kiu
+min ligas filipika korespondado pri naciismo kaj politiko:
+
+  "Ĝi vekis ĉe mi kontraŭdirajn impresojn. Unuflanke
+  mi tre ĝuis vian skurĝon al la silfera rondo
+  -- tuj partianiĝinte por vi senscie pri la
+  kialo, eble pro osmoza empatio --, kaj ankaŭ
+  vian erudician vervon . . . Sed aliflanke ĝi
+  postlasis ĉe mi ian senton de vaneco. Komprenu min:
+  la temo mem estas sensignifa, kaj mi domaĝas la
+  tempegon kiun vi perdis dum ĝia verkado kaj kiun vi
+  povintus uzi por verki viajn ŝatatajn [poemojn,
+  novelojn ktp . . .]. Viaj kritikoj al foirismo sonas
+  prave, kaj povas esti, ke mi mem konsentas kun ili.
+  Sed, ĉu vere la afero tiom valoras? Ĉu vi ne
+  pensas, ke foiristoj estas elita sektero,
+  mikrominoritata merdero en la flako de esperantujo,
+  kiu estas siavice pisguto meze de la oceano? Ili
+  nombras ja nur kvar kaj unu tamburiston kiu
+  bruas . . .!, la ceteraj akolitoj apartenas al la
+  averaĝa homtipo kiun vi renkontis ekzemple en la
+  lasta [kongreso]. Ĉu vere ili estas la avangardo de
+  ia nacia fronto konkerunta ian promesitan landon? Ĉu
+  vi iam serioze ekpensis pri risko de etniĝo de la
+  esperantistoj, pri fondiĝo de ia esperanto-nacio?
+  Sub la egido eble de prezidento Silfer? Estas
+  groteske . . . Vi banaligas kaj distordas naciismon
+  ĝis ekstremoj de nerekoneblo. Laŭ mia scio, etnismo
+  -- aŭ gentismo aŭ kia ajn vi volas nomi ĝin
+  -- laŭmodas ne lastatempe sed de la frua
+  dek-naŭa jarcento, de kiam la germanaj romantikuloj.
+  [. . .] Ankaŭ vi kvazaŭ urinus ekster la
+  pisujon . . .". Tamen poste li ret-esprimas sin jene
+  pri la ĵusaj komentoj: "Mi nur bedaŭras, ke ekster
+  sia kunteksto ili aspektas pli negative ol intencite:
+  mi ja tre ŝatis legi la libreton." Dankon, Joxemari!
+
+Fine, eĉ Jakvo Schram, eldonanto de la libreto, kiun vi nun
+legas, ĉe la komenco reagis jene:
+
+  "Unuflanke mi admiras la verkon pro ĝia strukturo,
+  vort-uzo, precipe kiel vi malkaŝas la
+  Silfer-komedion ktp, aliflanke mi havas demandon: ĉu
+  necesas uzi vian valoran tempon por skafandri
+  [provizi per freŝa aero] organizon sensignifan?
+  [. . .] Evidentas ke vi klopodas malkaŝi la papajn
+  revojn de Silfer. Sed sciante ke Literatura Foiro
+  direktas sin al 'elita intelektularo' [. . .] mi min
+  demandas, ĉu tiu grupo ne estas sufiĉe saĝa por
+  funkciigi siajn proprajn cerbojn kaj konstati ke
+  Silfer nur revas pri simpla adeptaro."
+
+Poste, ŝanĝinte (evidente) la opinion, li konfesis: "_La tutan
+vivon mi jam revas pri mia nomo sur la nigra listo de LF-koop_".
+Deziro plenumita!
+
+La paĝosupran moton mi tiris el la sekva senganga frazo de (mi
+supozas) Aleksander Korĵenkov en la artikolo _Rondo vere
+"familia"_ (_La Ondo de Esperanto_, 1999:1): "_Draŝan publikan
+kritikon [fare] de la vidvo de la antaŭa redaktorino ricevis
+Heroldo de Esperanto, dum iberianoj Camacho kaj Neves daŭrigis
+ataki la nunan redaktorinon Martinelli kaj precipe la
+redaktorinedzon Silfer (baldaŭ aperos nova kontraŭsilfera
+filibro de Camacho)_". La profetitan filibron jen vi havas! Kaj
+al rusaj kolegoj mi lasas la taskon ekanalizi la rusan version
+aŭ surogaton de foirismo, kiun Korĵenkov kaj K-io laŭdire kaj
+onidire provas establi en sia vasta lando, kun sukceso simila al
+tiu de kamarado Gorbaĉov en la balot-intencaj sondoj. Strange,
+se, per reciproka imitado de malimitindaj kondutoj, Aleksander,
+Giorgio kaj Perla sukcesos fondi rondon familian tute propran,
+sen erarintaj filoj kaj favaj ŝafoj!
+
+Nerektaj reagoj kaj respondoj venadis, neeviteble, de la
+kritikatoj. En sia kutima maniero ataki, per aludoj, per akuzoj
+svagaj kaj ambiguaj, kvazaŭ temus pri la sekso de l' anĝeloj,
+Silfer (en _Bonan matenon, HdE_ 1962-1963, 31 dec. 1998, p. 1 kaj
+8) parolas pri "la nuntempaj Niemojevskoj", laŭ la nomo
+Niemojewski, aŭtoro de artikoloj en _Pola Esperantisto_ en 1914
+(!), kadre de "kampanjo kiu alprenis klare kontraŭjudan
+karakteron". Konata metodo: ĉiujn kritikajn voĉojn ili elĵetas
+en la unu, solan kaj saman sakon de antisemitismo. Oportuna
+stampilo! Kritikanto iĝas antisemito, "*anarkoidulo", persono
+kiu "trovas en esperanto sian psikan rubujon" ktp. Ĉu necesas
+proklami, ke mi kun plezuro, intereso kaj admiro spektas filmojn
+kaj legas librojn fare de judaj aŭtoroj? Ke ĉi-monate mi legis
+_Se ĉi tio estas homo_, de Primo Levi? Sed ĉu diri ankaŭ, ke
+ĵus antaŭe okupis min _Kultura antropologio_, de Marvin Harris,
+kaj _La senmorta semo_, de Jordi Balló kaj Xavier
+Pérez, kaj tuj poste (t.e. ĝuste nun) _Fundamentaj
+mensogoj de la katolika eklezio_, de Pepe Rodríguez? Kiun
+tio koncernas? De kiu do peti la _nihil obstat_ (eklezia aprobo,
+imprimaturo)? Ĉu de la Kooperativo? Aŭ de la esperantuja
+PEN-klubo?
+
+Ĉar ankaŭ ekster Esperantujo troveblas interesaj legaĵoj,
+taŭgaj por fari komparojn. Oni povas vidi, ekzemple, ke la agado
+de _Esperanta PEN-Centro_ havas mondajn precedentojn, kiel
+montras la perua verkisto Mario Vargas Llosa en _Carta a
+Kenzaburo Oé_ (_Letero al K.O._; _El País_,
+17.01.1999, p. 15): "_Mi ne sciis, ke, en la sepdekaj jaroj, la
+japana PEN-klubo rifuzis protesti kontraŭ la persekutado de la
+korea poeto Kim Ji Ha. Dum mia tri-jara prezido de Internacia
+PEN-Klubo mi trovis, ke kelkaj Centroj malobservis sian devon
+batali kontraŭ cenzuro kaj kontraŭ politika molestado de
+verkistoj, nome la ekzistokialon mem de la institucio. La plej
+dolora kazo estis tiu de l' argentina romanisto Antonio di
+Benedetto, viktimo de la armea diktaturo, por kies liberigo
+kampanjis Internacia PEN-Klubo, kaj kiun eksigis la bonaera PEN
+pro nepago de kotizoj. Tiaj ĉi skandalaj kazoj estis tamen ne la
+regulo, sed escepto._"
+
+Intertempe, suplemente, aperis novaj dokumentoj. "Sed" --
+kiel kutimis aldonaĉi la sengusta aŭtor(in)o de _La manto_
+-- "tio enĉapitriĝos venontpaĝe".
+
+Bruselo, 01.03.1999
+
+
+
+
+Intertempe ni legis . . .
+
+
+. . . en _Heroldo de Esperanto_, n-ro 9-10 (1956-7), 10 septembro
+1998, la sekvajn tekstojn, resp. sur p. 1, 4 kaj 5:
+
+
+
+
+  Pakto nigre sur blanko
+
+
+  Kunvokis Esperanta PEN-Centro kaj E-Radikala Asocio,
+  organizis KCE, la dutagan Forumon prezidis ambasadoro
+  György Nanovfszky. Aliĝis 25 establoj.
+
+  Post la inaŭgura parolado de Giorgio Silfer kaj
+  raporto de Giorgio Pagano, la delegitoj pritraktis la
+  diversajn demandojn, al kiuj respondas tri
+  dokumentoj: la Pakto kaj aplikaj rezolucioj.
+
+  La Pakto por la Esperanta Civito estas interkonsento
+  kiu engaĝas la subskribintojn (post la ratifoj de la
+  respektivaj Asembleoj) al reciproka helpo, al la kreo
+  de komuna kondutkodo pere de arbitracia instanco
+  (kies sidejo estos en Svislando) kaj al atingo de
+  kelkaj celoj pere de Evolukomisiono (EKo), kies
+  sidejo estos en Romo. Prioritataj celoj estas la
+  agnosko pri nia lingvo kaj ĝia komunumo fare de la
+  Bureau des langues moins répandues en Dublino,
+  kaj la preparo de konstitucia ĉarto por la Esperanta
+  Civito. Provizora referenco por la arbitracia
+  instanco (nomata Kortumo) estas la svisa civila kodo,
+  kaj modelo por tiu konstitucia ĉarto estas la
+  senteritoriaj civitoj (kiel la ordeno de la Maltaj
+  Kavaliroj), korektita laŭ la federalismaj principoj,
+  anstataŭ centralisma hierarkia akso. La Pakton la
+  Forumo aprobis per 12 voĉoj favoraj, 2 sindetenaj
+  kaj 1 kontraŭa (la IFEF-delegito): ĉi lasta estis
+  tamen kandidato kiel vicmembro al EKo, kaj tie
+  elektita.
+
+  La dua Forumo, kunigonta ĉiujn establojn, kiuj
+  ratifos la Pakton, invititojn kaj observantojn, estos
+  kunvokita de EKo minimume post unu kaj maksimume post
+  du jaroj.
+
+Sekvas nun la jam fama pakto (teksto konforma al la originalo,
+krom unu korekto: "neapelacieblaj" anstataŭ "neapelaceblaj" en
+la originalo):
+
+
+
+
+  La subskribintoj lanĉas la sekvan proponon de
+
+
+  Pakto por la Esperanta Civito
+
+
+  1. Estas difinita la Pakto por la Esperanta Civito.
+  Ĝi engaĝas la subskribintojn de la Pakto nur se la
+  suverena instanco (la ĝenerala Asembleo) de la
+  respektivaj establoj ratifas ĝin.
+
+  2. Se la establo ne havas propran juran personecon
+  (ekz. redakcio de gazeto) necesas la ratifo de la
+  kolektivo aŭ individuo kun jura personeco aŭ
+  civilaj rajtoj kiu posedas ĝin.
+
+  3. Al la Pakto eblas aliĝi en kiu ajn momento, laŭ
+  la proceduro en la artikoloj 1 kaj 2. La aliĝo
+  ekvalidas nur se la absoluta plimulto (duono plus
+  unu) de la jam aliĝintaj aprobas.
+
+  4. El la Pakto eblas retiriĝi nur pro: a) pruvita
+  malfondo de la establo; b) verdikto de la arbitracia
+  instanco (Kortumo); c) novaj artikoloj kaj amendoj en
+  la Pakto, kiuj ŝanĝus ĝian nunan strukturon kaj
+  celaron.
+
+  5. La Pakto celas: a) firmigi la rilatojn inter la
+  paktintoj, favore al reciproka helpo kaj respekto;
+  b) formi la kernon de la Esperanta Civito; c) solvi
+  eventualajn konfliktojn per arbitracio.
+
+  6. La rimedoj por plenumi la celojn de la Pakto
+  estas: a) la Evolukomisiono (EKo); b) la Kortumo por
+  la Esperanta Civito (Kortumo).
+
+  7. La Evolukomisiono (EKo) plenumos la sekvajn
+  taskojn: a) ĉiujare prepari raporton pri la evoluo
+  de Esperantio; b) fari proponojn, ankaŭ organizajn,
+  por la progreso de E-io laŭ la Kvintezo; c) kunvoki,
+  ene de minimume unu kaj maksimume du jaroj, la sekvan
+  Forumon por la Esperanta Civito; d) legitimi lokajn
+  kaj fakajn konferencojn en la spirito de la Esperanta
+  Civito; e) prepari la Konstitucian Ĉarton de E-io,
+  cele al la strukturigo de demokrata reprezentejo de
+  la Esperanta Civito.
+
+  8. EKo konsistas el kvin membroj kaj tri vicmembroj,
+  elektitaj de la unua Forumo por la Ea-Civito.
+
+  9. La sidejo de EKo estas en Romo. EKon financas
+  libervole la paktintoj.
+
+  10. La Kortumo estas la arbitracia instanco de la
+  Pakto. Ĝi konsistas el tri membroj kaj du
+  vicmembroj, elektitaj de la paktintoj, kun dujara
+  mandato, inter la esperantistoj konataj pro sia
+  honesteco kaj ekvilibro.
+
+  11. La sidejo de la Kortumo estas en La
+  Chaux-de-Fonds. La Kortumon financas la establoj kaj
+  homoj kiuj sin turnos al ĝi por arbitracio.
+
+  12. La verdiktoj de la Kortumo estas neapelacieblaj.
+  Se iu ne estas kontenta pri la verdikto, tiu povas
+  sin turni al la kunveno de la paktintoj (Forumo por
+  la Ea-Civito), kiu povas peti (je absoluta plimulto)
+  la Kortumon reekzameni unu fojon la kazon.
+
+  13. La Kortumo verkos iom post iom komunan
+  kondutkodon, kiu estos parto de la renovigota Pakto.
+  Provizora referenco por la Kortumo estas la Svisa
+  Civila Kodo.
+
+  14. Por ĉiu dokumento, unuavice por la interna
+  regularo ellaborota de EKo, la ĉeflingvo estas
+  esperanto.
+
+Sekvapaĝe oni povas legi:
+
+  La Evolukomisiono elektita kadre de la Unua Forumo
+  por la Esperanta Civito: David Buhlmann, Judit
+  Felszeghy, Daniela Giglioli, Marco Picasso, Ljubomir
+  Trifonĉovski.
+
+Nomoj grandparte jam konataj . . . En la sama numero oni informas
+ankaŭ pri tio, ke en la montpeliera UK mi aliris la giĉeton de
+_Literatura Foiro_ kaj _Heroldo_ (leginte ĉi-revuan artikolon
+pretendantan dekreti, kiuj estas la veraj geamikoj de Ada
+Fighiera Sikorska) kaj alkriis ilin (la LF-rondon) "faŝistoj".
+Ne mensogis la tiama deĵorantino, Judit Felszeghy: mi tiel faris
+kaj tion diris. Mi profitas la okazon por ripeti, ke: 1) pro ĝia
+retoriko naciisma, gentisma, obsedita pri identeco; 2) pro ĝiaj
+konstantaj mensogado, distordado de la vero kaj manipulado; kaj
+3) pro ĝiaj provoj silentigi kritikajn voĉojn internajn kaj
+eksterajn -- pro ĉio ĉi mi opinias foirismon la
+esperantuja ekvivalento de la politika nocio "faŝismo", ekzemple
+laŭ la dua PIVa difino: "Ĉia reakcia kontraŭmarksisma kaj
+naciisma movado". Tamen, konsiderante iliajn fuŝecon kaj
+neprofesiecon indus enkonduki la neologismon "faŝuloj", el la
+latenta radiko "faŝa" (politike malruĝa), simile al la vorto
+"facha" en la hispana lingvo.
+
+Nu, ni daŭrigu. Aleksander Korĵenkov afable permesis reprodukti
+intervjuon kun Silfer aperintan en numero1998:10 de _La Ondo de
+Esperanto_ (_LOdE_). Ne surprizu onin la silferaĵo, ke
+"raŭmismo kondamnas la provojn de ortografiaj reformoj"; la
+samon papagis Martinelli en cirkulero al rete atingeblaj
+akademianoj (mi citas sen ŝia permeso, cetere), kie ŝi preferis
+paroli pri "raŭmisme orientitaj esperantologoj". Jen la
+intervjuo:
+
+
+
+
+  Forumo por la Esperanta Civito
+
+
+  "Kio igas popolo aron da homoj, tio estas la rememoro
+  pri la kuna valora faritaĵo kaj la strebo al kuna
+  farotaĵo". Tiu ĉi aforismo de J.E. Renan trafe
+  situis en la salono Humbert, urba biblioteko de La
+  Chaux-de-Fonds (Svislando), kie 9-11 aŭg. 1998
+  disvolviĝis la unua forumo por la Esperanta Civito.
+  Ni demandas al Giorgio Silfer (GS), kiu inaŭgure
+  paroladis: kiu estas la diferenco inter ĉi tiu
+  forumo kaj la strategia forumo kunvokita de UEA en
+  Montpeljero?
+
+  GS: Estas pluraj diferencoj. Unue, la forumo de UEA
+  daŭris du-tri horojn, dum la alia du-tri tagojn: tio
+  tuj videblas el la kvanto kaj kvalito de la
+  respektive aprobitaj dokumentoj. Due, la forumo en UK
+  estis fermita al kelkaj: ERA estis rifuzita,
+  ekzemple; male, en KCE ekzistis neniu rifuzo --
+  ĉiu estis bonvena. Trie, la forumo en Francio
+  traktis esence unu demandon: kiel kontribui al
+  Kampanjo 2000? En Svislando estis traktitaj pluraj,
+  kaj tute alispecaj demandoj, ĉiukaze ne funkciaj al
+  unu difinita asocio. Kvare, la forumo de UEA ne havas
+  verajn precedencojn; male, Ĉaŭdefono 1998 daŭrigas
+  la tradicion de Raŭmo 1980, Varsovio 1984, Segedo
+  1988. Kvine, la forumo de UEA ne startis de komuna
+  denominatoro, dum en la Forumo por la Esperanta
+  Civito tia ekzistis: temas pri La Kvintezo, proponita
+  de LF-koop.
+
+  LOdE: Ĝuste La Kvintezo, kaj la vorto Civito, donas
+  la impreson ke la svisa forumo estis tro
+  antaŭkondiĉita . . .
+
+  GS: Se tiel estus, ne aliĝus tiom da establoj
+  (entute 25), kaj tiom diversaj: internaciaj
+  fakasocioj (fervojista, sciencista), politikaj (IKEL,
+  ERA), landaj (hungara, kataluna, svisa), lokaj (el
+  Bulgario), Akademio de Esperanto, kulturcentroj (KCE,
+  Lesjoefors en Svedio, IIC en Italio), redakcioj
+  ("Literatura Foiro", "Heroldo de Esperanto",
+  "Kontakto", Radikala radio), eldonejoj (LF-koop),
+  bibliotekoj, OSIEK, Esperanta PEN, SAT . . . Neniu
+  sentis sin antaŭkondiĉita. La debato estis vigla
+  kaj libera, sub la tagprezido de Gyoergy Nanovfszky,
+  Perla Martinelli kaj Ljubomir Trifonĉovski. La
+  dokumentoj ne estis aprobitaj ĉiam unuanime, pri la
+  Pakto estis sindetenoj kaj unu kontraŭa voĉo.
+
+  LOdE: Kion diras la Pakto?
+
+  GS: La Pakto por la Esperanta Civito estas
+  interkonsento (ratifota de la asembleoj de la
+  respektivaj establoj) celanta la starigon de komuna
+  arbitracia instanco (la Kortumo), kiu difinos
+  ĝeneralan kondutkodon, kaj de konstitucia ĉarto.
+  Tiudirekte laboros kvinopa Evolukomisiono, elektita
+  de la Forumo mem. La tuto rememorigas pri Gruetli,
+  kie en 1291, danke al la ĵuro de tri kantonoj,
+  ekestis la svisa konfederacio.
+
+  LOdE: Ĉu vi ne celas krei ian specon de anti-UEA?
+
+  GS: Ne, kaj la plej evidenta pruvo por tio estas, ke
+  eblas aliĝi al la Pakto kaj samtempe al la Strategia
+  Forumo interne de UEA. Temas pri pakto por, ne
+  kontraŭ io. Memkompreneble, ĝin karakterizas certa
+  koncepto pri Esperantio. Estas interese rimarki,
+  tiurilate, ke la sociologia modelo de diaspora lingva
+  minoritato, inspirita de raŭmismo, evoluis danke al
+  la Forumo. La Esperanta Civito alprenos la
+  konstitucian modelon (korektitan al federalisma
+  direkto) de aliaj senteritoriaj civitoj, kiel la
+  ordeno de la maltaj kavaliroj. Aliflanke, la
+  Evolukomisiono laboros por atingi agnoskon fare de la
+  dublina Buroo de la malpli disvastigitaj lingvoj.
+
+  LOdE: Ĉu do baldaŭ Esperantio havos propran
+  futbalteamon verdestelitan?
+
+  GS: La paktintoj ne elektis la modelon de naciŝtato,
+  sed de lingva kolektivo sen teritoria ligiteco.
+  Esperantio havas flagon kaj himnon, havis monunuojn,
+  eble havos poŝtmarkojn. Sed ne armeon, nek
+  futbalteamon.
+
+  LOdE: Ĉu la decidoj de Ĉaŭdefono havos apartan
+  efikon interne de LF-koop?
+
+  GS: Laŭ mi jes. La kulturpolitika dimensio fariĝos
+  malpli grava, kompare kun la produkta kaj administra.
+  La epoko de la "entrepreno-partio" baldaŭ finiĝos.
+  Same kiel la Esperanta PEN transprenis de LF-koop la
+  taskon demonstri la valoron de esperanto kiel arta
+  perilo, la Forumo por la Esperanta Civito povos
+  transpreni la taskon demonstri la valoron de nia
+  lingvo kiel identigilo.
+
+  LOdE: Kiam denove kunvenos la Forumo, kaj el kiuj ĝi
+  konsistos?
+
+  GS: Iam inter aŭgusto 1999 kaj aŭgusto 2000, laŭ
+  decido de la Evolukomisiono (kies membroj estas David
+  Buhlmann, Judit Felszeghy, Daniela Giglioli, Marco
+  Picasso kaj Ljubomir Trifonĉovski, vicmembroj Romano
+  Bolognesi, Gyoergy Nanovfszky kaj Giorgio Silfer).
+  Rajtos aliĝi nur la establoj subskribintaj la
+  Pakton: kompreneble ankaŭ ne partoprenintaj en la
+  unua Forumo. Praktike, temos pri la Forumo de la
+  Paktintoj.
+
+  LOdE: Kiun sintenon havos la Forumo rilate al la
+  lingvo mem? Ĉu ĝi agnoskos la aŭtoritaton de la
+  Akademio kiel "lingva kortumo"?
+
+  GS: Mi opinias ke la sinteno estos konservative
+  fundamentisma, tial ke ni kredas esperanton
+  transnacia kulturlingvo, kaj ne internacia helplingvo
+  plibonigebla (kiel asertas André Albault) por
+  la "fina venko" . . . Raŭmismo kondamnas ekzemple la
+  provojn de ortografiaj reformoj, kun kiuj koketas
+  Iltis-anoj kaj kelkaj (eks)membroj de la Akademio.
+  Se la Akademio mem ne distanciĝos de ili, mi persone
+  kontraŭos asigni al ĝi la rolon de "lingva
+  kortumo".
+
+  LOdE: Al kiu, do?
+
+  GS: La decido apartenos al la Forumo de la Paktintoj,
+  sed ĝi dependos, mi emfazas, de la sinteno de la
+  Akademio mem.
+
+  LOdE: Kie aperos la diversaj dokumentoj de la Forumo?
+
+  GS: Unuavice en "Literatura Foiro" kaj "Heroldo de
+  Esperanto", de kie ili estos libere kopieblaj.
+
+Mi lasas al aliaj respondi al ĉi kulmino de absurdo. La
+ĉi-sekva artikolo de Lindstedt publikiĝis en numero 1998:11 de
+_La Ondo de Esperanto_, kaj tiu de Corsetti respondas al iu
+neidenta praversio de ĝi rete dissendita.
+
+
+
+
+Jouko Lindstedt
+
+Esperantujo apartenas al ĉiuj
+
+
+La intervjuo kun Giorgio Silfer en _LOdE_ 10/98 kaj la
+(kontraŭ)kongresa numero 9-10/98 de _Heroldo de Esperanto_
+raportas pri la "Forumo por la Esperanta Civito", okazinta en
+Svislando kaj iniciatita de LF-Koop. Oni povas konstati, ke la
+tiel nomataj raŭmistoj nun definitive forlasis la koncepton de
+Esperanto kiel ideo kaj movado strebanta al pli justa lingva ordo
+en la mondo: nun la ĉefa celo estas "atingi agnoskon fare de la
+dublina Buroo de la mapli disvastigitaj lingvoj"! Sendube tia
+elpaŝo inspiros la mondan gazetaron al spritaj artikoletoj pri
+tio, kiel la esperantistoj fine konfesas sian malvenkon. Ĉu
+Zamenhof deziris defendi malgrandajn lingvojn nur kreante unu
+plian?
+
+Laŭ la analizo de Silfer en _Heroldo_, la spertoj en PEN-klubo
+[!] montris, ke la monda lingvo-problemo ne estas tia, kiel la
+esperantistoj kredis. Li pledas por pli vasta uzo de la hispana
+kaj araba kiel laborlingvoj en internaciaj organizoj. "Poste,
+eventuale, je individua nivelo, ekzistos ankaŭ la solvo de la
+lingva problemo pere de alternativa komunikilo." Estas interese,
+se vere tia estas la nova linio de Hungara Esperanto-Asocio aŭ
+Svisa Esperanto-Societo, kiuj partoprenis la Civito-Forumon. Se
+ni iam povos ekscii, kiuj vere partoprenis: la redaktoro de
+_Kontakto_ sciigis al mi, ke la revuo neniam aliĝis nek
+partoprenis, malgraŭ tia informo fare de la civituloj. La
+Akademio de Esperanto aliĝis per decido de la antaŭa gvida
+duopo (Bormann kaj Martinelli), sed la nova estraro elektita
+antaŭ ol la Civito-Forumo okazis sendis nenian oficialan
+reprezentanton al ĝi.
+
+La Civito estas provo de la raŭmistoj uzurpi la koncepton
+"Esperantujo". La Pakto aprobita en la Civito-Forumo antaŭvidas
+preparadon de "Konstitucia Ĉarto de Esperantio". Sed ĝi neniam
+estos mia konstitucio, tamen mi apartenas al Esperantujo.
+Almenaŭ ekde la Bulonja Deklaracio estas klare, ke ĉiu uzanto
+de Esperanto rajtas sin nomi esperantisto, oni bezonas subiĝi al
+neniaj organizoj.
+
+Siatempe, la Manifesto de Raŭmo (kiun mi kunverkis kun Silfer)
+celis deklari, ke ekzistas ne nur la Esperanto-movado, sed ankaŭ
+la Esperanto-komunumo. Ĝi ne estis la unua, nek la lasta
+dokumento de esperantistoj, kiuj emfazas tion. La komunumo kaj la
+movado (kies celojn formulas tre klare la Manifesto de Prago)
+kompletigas unu la alian. La movado devas esti organizita, la
+komunumo estas nefermita, plurcentra, libera. Se oni komencas
+organizi la komunumon -- eĉ se "federalisme", eĉ se en la
+spirito de Grutli 1291, kiun supozeble ĉiu barata, japana kaj
+brazila esperantisto konas -- se oni do pretendas organizi
+la komunumon, oni nur kreas duan movadon. La komunumo restas
+ekster ĉiaj organizaj provoj. Tial la raŭmistoj perfidis la
+Manifeston de Raŭmo.
+
+Silfer estas lerta propagandanto: laŭ li la Montpeljera
+Strategia Forumo de la Eperanto-Komunumo okazis "interne de UEA"
+(kio ne veras, alie ja ekzemple SAT ne aliĝus!), dum la
+Civito-Forumo estis ideale malfermita al ĉiuj. Tamen, oni ja
+povis facile antaŭvidi, kiajn dokumentojn la Civito-Forumo
+akceptos, ĉar la raŭmismo jam delonge estas nur tia, kia ĝin
+degnas difini LF-Koop kaj Silfer mem.
+
+Por doni unu ekzemplon: la Manifesto de Raŭmo havas unu
+ĉapitreton pri "La kongresoj kiel vojo al kresko": "Internaciaj
+kongresoj kaj renkontiĝoj estas esencaj por la asimiliĝo de
+homoj al nia lingva komunumo: necesas unuflanke kongresi pli ofte
+inter ni, kaj rezervi la kunsidadon de gvidorganoj al apartaj
+funkciulaj kunvenoj . . ." Estas malfacile akordigi tion kun la
+kolosa ĉikanado pri la ĉi-jara Universala Kongreso en la
+raŭmisma _Heroldo_, kie oni plendas ĝuste kaj precize pro tiu
+asimila, komunum-fortiga rolo de UK. Sed aliloke en la gazeto oni
+jam povas legi, ke Silfer ĝustigis tiun parton de la Manifesto:
+ekde nun ni parolu pri la Esperanto-centroj kiel vojo al kresko.
+Ĉu ĉio ĉi rememorigas vin pri certaj ideologioj kaj iliaj
+rajtigitaj interpretistoj?
+
+En la intervjuo de _LOdE_, Silfer diras: "Raŭmismo kondamnas
+ekzemple la provojn de ortografiaj reformoj." Mi ne subtenas
+ortografiajn reformojn, sed certe ni neniel pensis pri ili en
+Raŭmo en 1980! Sed ne estas la unua fojo, ke Silfer akaparas la
+rajton interpreti, kion la raŭmismo "ekzemple" kondamnas aŭ
+aprobas. En _LOdE_ li postulas, ke la Akademio de Esperanto
+distanciĝu de certaj reformemuloj, alie ĝi ne plu rajtos esti
+la "lingva kortumo" de la civituloj. Malofte iu tiel arogante
+starigas kondiĉojn al la Akademio kiu, kompreneble, neniel
+bezonas sin esprimi pri tio, kion faras ekzemple ĝiaj eksmembroj
+Albault aŭ Haupenthal. La Akademio ne ĉesis apogi la
+Fundamenton, kaj ĉiu esperantisto ja povas facile kompari
+radikalajn reformprovojn kun la Fundamento.
+
+Mi ne timas por Esperantujo: tia megalomania entrepreno kiel la
+"Civito" nepre fiaskos. Sed mi bedaŭras ĉiujn esperantistojn,
+kiuj estos misgvidataj de ĝi kaj devos per amara sperto lerni,
+ke en Esperantujo troviĝas lertaj propagandistoj por malplenaj
+ideoj. La raŭmistoj ja neniam povus mem kreskigi la komunumon:
+oni fariĝas esperantisto pro simpatio al tiuj idealoj de
+tutmonda identeco kaj lingva egaleco, al kiuj la "Civito" turnas
+sian dorson -- oni ne esperantistiĝas por aparteni al
+senteritoria ludnacio aŭ al nova Malta ordeno. Tial la raŭmismo
+devas ĉiam paraziti sur la serioza movado.
+
+
+
+
+Renato Corsetti
+
+Ne tuŝu esperantistojn
+
+
+Kiu diras ke suomoj estas tre trankvilaj silentuloj? Jouko, vi
+rajtas peti la honoran civitanecon de Malto. Mi kaj [Jorge]
+Camacho, kompare kun vi, estas veraj nordanoj. Aliflanke, pli
+bone ol mi aŭ [Jorge] vi elektas la temojn, pri kiuj vi
+eksplodas. Temas pri principaj temoj.
+
+Tio, kion Heroldo raportis, estos studata en lernejoj por
+ĵurnalistoj kiel tipa ekzemplo de lerta misinformado.
+Kompreneble ĉiu revuo rajtas elekti sian stilon.
+
+Kiam temas pri la Strategia Forumo de la Esperanto-komunumo, kies
+unua kunsido okazis en Montpeliero, mi povas nur diri ke en ĝi
+estas loko por ĉiuj (mi substrekas: ĉiuj) organizaĵoj,
+centroj, kooperativoj ktp. de esperantistoj.
+
+Mi refaras ĉi tie publike la inviton, kiu estis farata al la
+unuopaj organizaĵoj. Se KCE, LF-Koop, PEN-Klubo aŭ kiu ajn alia
+organizaĵo volas aliĝi al tiu Forumo, la pordoj estas vaste
+malfermitaj. La forumo celas kunligi ĉiujn erojn de la
+esperantlingva komunumo, por ke ili amike kaj samnivele kunlaboru
+unu kun la alia. Ne estas antaŭkondiĉoj aŭ subskribendaj
+dokumentoj.
+
+Pri la idearo de sendependa "kvazaŭ-ŝtato", mi ne havas ion por
+aldoni al tio, kion Jouko diris.
+
+Mi volas iom korekti tion, kion Jouko diris: "Kiam oni komencis
+vidi tion [la gravecon de la komunumo] ankaŭ en UEA-rondoj
+-- ne malplej pro la analizoj de Humphrey Tonkin". Nu,
+kvankam Humphrey Tonkin havas multajn meritojn, mi volas diri ke
+jam Hodler pensis ĉefe pri la komunumo, kiam li fondis UEA'n.
+
+Krome, kiam venas riproĉoj al UEA, ofte tiuj riproĉoj estas de
+la speco: "Vi nur okupiĝas pri administrado de la membroj kaj
+servoj al ili. Vi dediĉas tro malmultan energion al disvastigado
+de Esperanto".
+
+"Kio min ofendas kvazaŭ persone, eĉ se ne estas persona afero,
+estas la provo de la 'civito' uzurpi la koncepton 'Esperantujo'
+(kvankam en la misformo 'Esperantio')." Kaj mi aldonas ke mi
+persone estas multe pli ofendita, kiam oni klopodas trompi
+simplajn esperantistojn. Mi konas amason da simplanimaj
+esperantistoj, kiuj eble eĉ konfuzas SAT kaj UEA, sed kiuj
+dediĉas al la afero de Esperanto sian tempon kaj monon, sen eĉ
+la espero esti menciataj en la bulteno de la loka klubo. Kiam oni
+klopodas trompi tiujn sindonemajn homojn per distordo de la
+faktoj kaj per svingado de alte sonaj konceptoj, por celoj pri
+kiuj mi ne volas paroli, mi iĝas pli kolera ol Jouko, ĉar tio
+similas al ŝtelado de bombonoj ĉe infanoj. Ne tuŝu
+esperantistojn. Se vi volas vi havas la tutan neesperantistan
+mondon je dispono. Provu tie.
+
+
+
+
+Claude Piron
+
+[Pri "eminentaj" esperantistoj]
+
+
+Ŝajne duflanka karaktero estas ofta afero ĉe "eminentaj"
+esperantistoj. Mi ne havas specialan klarigon pri la fenomeno,
+sed mi konstatas, ke la esperanto-mondo allogas homojn (aŭ pli
+facile ol aliaj medioj havigas teneblan lokon al homoj) kiujn
+karakterizas tuta serio da tipaj trajtoj:
+
++ ili havas pri si altan, se ne diri grandiozan, opinion;
+
++ ili emas juĝi kaj kondamni;
+
++ ili agas, skribas, parolas, kvazaŭ estus evidente, ke ili
+rajtas juĝi kaj kondamni, kaj por tio kompetentas (aŭ pli
+kompetentas ol ĉiu ajn alia);
+
++ ili ne havas dubojn pri sia praveco;
+
++ ili estas afablaj, amikecaj, kelkfoje eĉ ĉarmaj en
+interpersonaj rilatoj;
+
++ ilia cerba funkciado estas tipa pri la maldekstra duonsfero,
+pli analiza ol sinteza, pli teoria ol praktika, pli "fakta" ol
+"etosa", pli "pensa" ol "senta" aŭ "intuicia";
+
++ ili ne povas pritrakti ion, kio ne estas nete difinebla;
+
++ ili emas konsideri, ke ĉiu problemo povas havi nur unu ĝustan
+solvon;
+
++ ili estas ne tre toleremaj (konsekvenco de la ĵus citita
+trajto en la sfero de interhomaj rilatoj);
+
++ ili evitas person-al-personan alfrontiĝon, sed tre ofte
+diskonigas siajn juĝojn publike (ili neniam sendos al vi
+leteron, sed ne hezitos publikigi artikolon aŭ pamfleton pri
+vi);
+
++ ili montriĝas nekapablaj konsideradi argumenton kontraŭan al
+ilia starpunkto (ili rebatas antaŭ ol pripensi, aŭ simple
+ignoras la fakton, ke iu alia malsamopinias);
+
++ ili povas paroli rapide kaj verve, kaj ridigi publikon (ofte
+per sia ironio);
+
++ ili fakte ne elportas kritikon (kvankam ili povas tion
+ŝajnigi);
+
++ ili ofte havas tre rigidan, fortan opinion pri tre eta, negrava
+detalo;
+
++ ili havas rapidan, akran inteligentecon, kiu koncentriĝas unue
+aŭ nur sur la negativaj aspektoj de la koncerna afero;
+
++ ili havas bonegan memoron, kaj sekve grandan erudicion, ofte en
+tre diversaj kampoj;
+
++ ili fascinas, dum tempo, parton de la koncerna publiko, kiu
+povas portempe surpiedestaligi ilin: la piedestalon ili videble
+(infanece) ĝuas;
+
++ al multaj ili donas la impreson, ke ili pli ŝatas ideojn kaj
+abstraktaĵojn (regulojn, principojn . . .) ol homojn;
+
++ ili estas tre netaj, klarliniaj kaj relative rigidaj en la
+maniero korpe teni sin aŭ sin vesti;
+
++ ili strukturas rilatadon alprenante la rolon de patro kaj
+provante devigi la aliulon roli kiel infano;
+
++ ili estas pli nekonsciaj pri siaj malfortoj aŭ ridindaj
+aspektoj ol la plimulto el la homoj, kvazaŭ konstati ion
+negativan pri si estus netolereble.
+
++ ili estas viroj;
+
++ pluraj el tiuj, kiujn mi persone kona/is (ekzemple S., L., H.,
+J.), kapabla/is paroli admire pri si mem dum tuta horo, ne
+rimarkante, kiel stranga tio aperas al la ĉirkaŭuloj.
+
+Kial personecoj tiel strukturitaj iom oftas en Esperantujo, estas
+malfacile diri. Eble ĉar estas medio sufiĉe malvasta por ke
+estu relative facile eminenti (mi publikigis en esperanto
+romanojn, kiujn mi neniam povus publikigi en lingvo kun vasta
+verkistaro, kaj sekve kun forta konkurenco). Eble ankaŭ ĉar
+estas tiom da homoj, kiuj malbone regas la lingvon, ke iu, kiu
+bonege regas ĝin, facile trovas kontraŭulojn nekapablajn
+defendi sin.
+
+Mi suspektas, ke tiaj homoj havas en si fortan agresemon, sed ne
+sentas sin fizike aŭ psike sufiĉe sekuraj por rekte ataki. Por
+antaŭgardi sin kontraŭ eventuala atako, ili havas ridetan,
+afablan sintenon. Ili provas eviti la danĝeron de alfrontado per
+ĉarmo al la amaso kaj bato al la unuopulo. Al psikologo ili
+donas la impreson, ke ili kompensas ion neelporteble vakuan, aŭ
+negativan, funde de si. Kvazaŭ ilia tuta energio estus dediĉita
+al la celo "mi ne vidu, ke mi valoras nenion", al iu bezono pruvi
+sin pli alta ol la aliaj.
+
+La strukturiĝo de tia personeco verŝajne komenciĝis en la
+infaneco, kiam la intelekto kapablas rezoni nur per du terminoj:
+'ĉio / nenio', 'unua / lasta'. Por tia pensosistemo [***], la
+sola maniero ne esti lastulo (t.e. iu forĵetinda, mokinda),
+estas eminenti. Kaj por atingi la supron, kaj pri tio ne dubi,
+estas utile malaltigi kiel eble plej multe da aliuloj. Ĉiu
+kritiko al iu alia do fortigas la senton pri praveco kaj
+supereco, kaj krome ĝi iom kontentigas la agreseman bezonon
+venĝi sin kontraŭ homaro, kiu malhelpis onin ĝui dekomence
+senton pri plena sekureco. Sed eble ĉio ĉi estas nur la frukto
+de senbaza cerbumado. Fakte mi neniam havis okazon vere kontroli
+miajn hipotezojn, ĉar miaj rilatoj kun tiaj homoj neniam atingis
+la gradon de konfidenceco, sen kiu oni ne vere konas la alian.
+
+[***] NOTO:
+
+Eble la parto pri la infaneca dutermina pensado ne estas sufiĉe
+disvolvita. Tial mi aldonas pliklarigon. Ĝis la aĝo de
+proksimume ses jaroj, la intelekto de infano ne povas funkcii
+uzante pli ol du terminojn. Tiu manko bedaŭrinde relative ofte
+plu retroviĝas en plenkreskuloj, en kampoj, kie la intelekta
+funkciado ne povis vere maturiĝi (kaj nia socio, inkluzive de la
+lerneja instruado, ne ebligas al ĝi maturiĝi en kampoj kiel
+politiko, metafiziko, emocia kaj senta vivo, homaj rilatoj, ktp.
+La fakto, ke tiom da homoj komprenas, ke esperanto celas
+anstataŭi la aliajn lingvojn fontas el tiu infaneca pensmaniero:
+la problemo strukturiĝas en du terminojn: naciaj lingvoj,
+internacia lingvo; ne eblas loko por ambaŭ).
+
+Karakterizo de tiu mensa funkciado estas, ke konstante aperas
+simetrioj, kiuj ne ekzistas en la realo. Unu el la plej tipaj
+estas: "se li aŭ ŝi eraras, mi pravas" aŭ "se ŝi aŭ li estas
+pli malalta, mi estas pli alta".
+
+Tiaj simetrioj estas fuŝaj per tio, ke mi tute ne ŝanĝiĝas
+pro tio, ke iu alia ŝanĝiĝis, ke okazis io al li, aŭ ke li
+elmontris iun mankon. Kompreneble, se iu falis malalten, mi estas
+pli alta -- rilate al tiu. Sed tio ne signifas ke objektive
+kaj ĝenerale io ŝanĝiĝis en mia alteco. En la personeca
+strukturo, kiun mi priskribis pri eminentuloj, la objektiva
+funkciado ne encerbiĝis, kaj la koncernatoj plu funkcias en
+memtaksado kiel kvinjaruloj. Ili do serĉas ĉiajn okazojn montri
+la erarojn en la aliaj, ĉar tio donas al ili senton pri
+altestareco, kaj ili sopiras al tiu sento, ili havas kvazaŭ
+nekontentigeblan soifon al ĝi, verŝajne pro nekonscia tre
+profunda kaj vunda sento pri malalteco, eteco, nenivaloro.
+
+Alivorte, iu matura koncerne sian membildon akceptas sin tia, kia
+li aŭ ŝi estas, ĉu sen speciala deziro plibonigi sin, ĉu kun
+tia deziro, sed ŝi aŭ li ne bezonas, por senti sin
+akceptebla/akceptinda, ke la aliaj (aŭ iu alia, sed en tiu
+dutermina pensado, "iu alia" kaj "ĉiuj aliaj" estas la samo)
+situu malsupre.
+
+Eble mi perdigis vian tempon per ĉi tiuj precizigoj, se tiel,
+bonvolu pardoni min. Sed la kompreno pri falsaj simetrioj ŝajnas
+al mi tre grava por kompreni la mensan funkciadon de la tipo,
+kiun mi priskribis en mia antaŭa mesaĝo.
+
+
+
+
+Lastsekunda informo
+
+
+Lastsekunde mi eksciis, ke ERA-Radikala Asocio forlasis la
+Forumon por la Esperanta Civito kaj ĉi ties Evolu-komisionon
+(EKo), laŭ retmesaĝo el la diskutlisto de ERA plusendita kun la
+titolo _Ili kverelis_. Nekredeble!!! kaj subskribita de Daniela
+Giglioli je 25.02.1999. Ju pli da divorcoj, des malpli da
+tentakloj . . . La tri-epizoda informo finiĝas jene: "_Lasta
+epizodo: la Vicmembro Silfer -- tiu estas kiu, eventuale,
+devus anstataŭi efektivan Membron -- submetas voĉdone al
+la efektivaj membroj de EKo sian 'Ĉarton pri konstitucia
+monarkio' kaj proponas sin mem kiel 'Reĝo[n] de Ĉiuj
+Esperantioj'. Ĉar ni ne volas spekti tiun lastan antaŭviditan
+epilogon, ERA forlasas la Evolu-Komisionon kaj la Forumon._"
+
+
+
+
+452 farenhejtoj
+
+  _al Ljubomir Trifonĉovski_
+
+
+  --Tiuj, kiuj kalumnie
+  nomas min "Kulturministro
+  sen kulturo kaj sen klero",
+  evidente nur mensogas,
+  mistifikas kaj malicas.
+  En la universitato,
+  patro-sprone, mi sukcese
+  kursis juron unu jaron,
+  sed mi baldaŭ ekdecidis
+  miajn studojn foroferi
+  por la bono de l' Partio.
+  Ĉar la Ordon ni konservu,
+  hipotezajn malamikojn
+  de l' Partio kaj Patrujo
+  mi volonte ekzekutos
+  laŭ la leĝoj, kiujn diktas
+  nia Popolestro kara.
+  Mi nur peras la ordonojn
+  kaj dezirojn Popolestrajn;
+  mi nur servas diligente
+  la bonfarton de l' Reĝimo,
+  ĉiutage kun pli firmaj
+  strebo, ardo, sindediĉo.
+  La rezulton, senkonteste,
+  la Civito mem aklamas.
+  Post la Venko, tenas vigla
+  tiun ĉi Departementon
+  disidentoj plej obscenaj,
+  kritikaĵoj elsarkindaj,
+  manuskriptoj por bruligo.
+  La Realo ĝin sankcias:
+  ascendunte unu ŝtupon,
+  unu rangon, unu gradon
+  mi postenus apud Li.
+
+  _(La Kulturministro)_
+
+Ikselo, 21.09.1998
+
+
+
+
+
+
+
+End of Project Gutenberg's La liturgio de l' foiro, by Jorge Camacho
+
+*** END OF THIS PROJECT GUTENBERG EBOOK LA LITURGIO DE L' FOIRO ***
+
+***** This file should be named 23586-0.txt or 23586-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/3/5/8/23586/
+
+
+
+Updated editions will replace the previous one--the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg-tm electronic works to protect the
+PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a
+registered trademark, and may not be used if you charge for the eBooks,
+unless you receive specific permission. If you do not charge anything
+for copies of this eBook, complying with the rules is very easy. You may
+use this eBook for nearly any purpose such as creation of derivative
+works, reports, performances and research. They may be modified and
+printed and given away--you may do practically ANYTHING with public
+domain eBooks. Redistribution is subject to the trademark license,
+especially commercial redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder.  Information on
+the copyright owner for this particular work and the terms of use
+imposed by the copyright holder on this work are set forth at the
+beginning of this work.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook's
+eBook number, often in several formats including plain vanilla ASCII,
+compressed (zipped), HTML and others.
+
+Corrected EDITIONS of our eBooks replace the old file and take over
+the old filename and etext number.  The replaced older file is renamed.
+VERSIONS based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
+are filed in directories based on their release date.  If you want to
+download any of these eBooks directly, rather than using the regular
+search system you may utilize the following addresses and just
+download by the etext year.
+
+http://www.ibiblio.org/gutenberg/etext06
+
+    (Or /etext 05, 04, 03, 02, 01, 00, 99,
+     98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
+
+EBooks posted since November 2003, with etext numbers OVER #10000, are
+filed in a different way.  The year of a release date is no longer part
+of the directory path.  The path is based on the etext number (which is
+identical to the filename).  The path to the file is made up of single
+digits corresponding to all but the last digit in the filename.  For
+example an eBook of filename 10234 would be found at:
+
+http://www.gutenberg.org/1/0/2/3/10234
+
+or filename 24689 would be found at:
+http://www.gutenberg.org/2/4/6/8/24689
+
+An alternative method of locating eBooks:
+http://www.gutenberg.org/GUTINDEX.ALL
+
+*** END: FULL LICENSE ***

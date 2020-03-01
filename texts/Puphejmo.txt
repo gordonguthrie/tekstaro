@@ -1,0 +1,4565 @@
+﻿The Project Gutenberg EBook of Puphejmo, by Henrik Ibsen
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Puphejmo
+       Dramo en tri aktoj
+
+Author: Henrik Ibsen
+
+Translator: Odd Tangerud
+
+Release Date: August 12, 2006 [EBook #19030]
+
+Language: Esperanto
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK PUPHEJMO ***
+
+
+
+
+Produced by William Patterson, Robert L. Read and Andrew Sly.
+
+
+
+
+
+
+HENRIK IBSEN
+
+PUPHEJMO
+
+Dramo en tri aktoj
+
+(Et Dukkehjem)
+
+(1879)
+
+Tradukis
+Odd Tangerud
+
+LINGVE KONTROLITA DE
+ESPERANTISTA VERKISTA ASOCIO
+(EVA)
+
+Dua eldono
+
+1998
+
+Eldonejo: Jec Scandinavia a/s
+Postboks 54, N - 3401 Lier
+Tlf.. 32 85 50 03. Fax. 32 85 50 82
+ISBN 82-991075-2-0
+
+
+PUPHEJMO
+
+
+Roloj:
+
+  TORVALD HELMER, advokato
+  NORA, lia edzino
+  RANK, doktoro (kuracisto)
+  KRISTINE LINDE, vidvino
+  NILS KROGSTAD, juristo
+  La tri malgrandaj infanoj de la familio Helmer
+  ANNE-MARIE, infanvartistino
+  HELENE, ĉambristino
+  Portisto
+
+(La agado havas lokon en la hejmo de la familio Helmer dum tri
+kristnaskaj tagoj. Kristnaska vespero, la 24-an de Decembro,
+komencas la festotagojn memore al la naskiĝo de la kristana
+profeto Jesuo Kristo. Ibsen uzas la antikvan skandinavan nomon
+"Julo" por tiu religia festo.)
+
+
+
+
+UNUA AKTO
+
+
+(Hejmeca kaj agrabla, sed ne lukse meblita ĉambro. Pordo
+dekstre en la fono kondukas al la antaŭĉambro; alia pordo
+maldekstre fone kondukas al la oficejo de _Helmer_. Inter tiuj
+pordoj estas piano. Meze de la maldekstra muro estas pordo, kaj pli
+antaŭe estas fenestro. Ĉe la fenestro estas ronda tablo kun
+brakseĝoj kaj malgranda sofo. Sur la dekstra muro, iom malantaŭe,
+estas pordo, kaj iom pli antaŭe estas kaĥela forno, apud kiu
+estas brakseĝoj kaj balanca seĝo. Inter la forno kaj la flanka
+pordo estas tableto. Kuprogravuraĵo sur la muro. Etaĝero kun
+porcelanaĵoj kaj aliaj malgrandaj artaĵoj; malgranda libroŝranko
+kun libroj lukse binditaj. Tapiŝo sur la planko; fajro en la
+forno. Vintrotago.)
+
+(Oni sonorigas en la antaŭĉambro; poste oni aŭdas ke iu
+malfermas. _Nora_ envenas, kontente kantetante; ŝi estas
+vestita elirveste kaj portas plurajn paketojn, kiujn ŝi metas sur
+la tablon dekstre. Ŝi lasas malferma la pordon post si, kaj oni
+vidas portiston, kiu portas Julpiceon kaj korbon, kiujn li donas al
+la ĉambristino, kiu malfermis por ili.)
+
+NORA. Kaŝu bone la Jularbon, Helene. La infanoj nepre ne vidu
+ĝin antaŭ la vespero, kiam ĝi estos ornamita. (al la portisto;
+elprenante la monujon) Kiom --?
+
+PORTISTO. Kvindek oerojn.
+
+NORA. Jen unu krono. Ne! Vi prenu la tuton.
+
+(La _portisto_ dankas kaj foriras. _Nora_ fermas la
+pordon. Ŝi daŭre ridas mallaŭte kaj kontente dum ŝi deprenas la
+supervestojn)
+
+NORA (prenas papersaketon kun makaronoj el la poŝo kaj manĝas
+kelkajn; poste ŝi iras piedpinte kaj ŝtelaŭskultas ĉe la pordo
+de sia edzo). Jes, li estas hejme. (kantetas denove irante al la
+dekstra tablo)
+
+HELMER (en sia ĉambro). Ĉu estas la alaŭdeto, kiu kvivitas
+tie?
+
+NORA (malfermante kelkajn paketojn). Jes, estas.
+
+HELMER. Ĉu estas la sciureto, kiu ĉirkaŭkuras tie?
+
+NORA. Jes!
+
+HELMER. Kiam revenis la sciureto!
+
+NORA. Ĵus nun! (metas la saketon kun makaronoj en la poŝon, kaj
+viŝas sian buŝon) Venu, Torvald, kaj rigardu kion mi aĉetis.
+
+HELMER. Ne ĝenu min! (iom poste; malfermas la pordon, rigardas,
+tenante plumon) Aĉetis, vi diras? Ĉion ĉi? Do mia disipa birdeto
+flirtis denove malŝparante monon!
+
+NORA. Jes, sed, Torvald, ĉi-jare ni vere povas iom senbridiĝi.
+Estas ja la unua Julfesto, kiam ni ne bezonas ŝpari.
+
+HELMER. Nu, nu! Malŝpari ni ne povas.
+
+NORA. Tamen, Torvald, iomete ni nun povas malŝpari, ĉu ne? Nur
+etan iometon. Vi ja ricevos grandan salajron kaj gajnos multe,
+multe da mono.
+
+HELMER. Jes, ekde novjaro; sed poste pasos kvarona jaro antaŭ
+nova salajrodato.
+
+NORA. Pa! Ni povas ja pruntepreni intertempe.
+
+HELMER. Nora! (proksimigas sin al ŝi kaj ŝerce pinĉas ŝian
+orelon) Ĉu estas la facilanimeco kiu denove ludas? Supozu ke mi
+hodiaŭ prunteprenis mil kronojn, kaj vi elspezis ilin dum la
+Julsemajno, kaj ke novjarvesperon tegolo trafis al mi la kapon, kaj
+jen finite pri mi --
+
+NORA (kovras lian buŝon per sia mano). Ho fi! Ne parolu tiel
+malbele!
+
+HELMER. Supozu ke io simila okazus, -- kio poste?
+
+NORA. Se io tiel terura okazus, estus tute egale por mi ĉu mi
+havus ŝuldojn aŭ ne.
+
+HELMER. Nu, sed la personoj de kiuj mi pruntis?
+
+NORA. Ili? Kiu zorgas pri ili? Ili estas ja fremduloj.
+
+HELMER. Nora, Nora, vi estas virino! Tamen parolante serioze,
+Nora, vi scias, kion mi pensas tiurilate. Neniun ŝuldon! Neniam
+pruntepreni! Hejmo kiu fondiĝas sur ŝuldoj, fariĝos senlibera,
+do malbela. Ĝis nun ni du kune eltenis brave; kaj tion ni ankaŭ
+faros dum la mallonga tempo ankoraŭ necesa.
+
+NORA (iras al la forno). Jes ja, kiel vi volas, Torvald.
+
+HELMER (sekvas ŝin). Nu, nu; la kantalaŭdo ne trenu siajn
+flugilojn. Kio? Ĉu la sciureto staras tie paŭtante? (elprenas la
+monujon) Nora, divenu kion jen mi havas.
+
+NORA (turnas sin rapide). Monon!
+
+HELMER. Jen rigardu! (donas al ŝi kelkajn monbiletojn) Kara mia,
+certe mi scias, ke en hejmo dum la Jultempo oni multe bezonas.
+
+NORA (kalkulas). Dek -- dudek -- tridek -- kvardek. Ho,
+dankon, dankon, Torvald; tio helpos min longe.
+
+HELMER. Jes, vere ĝi devus.
+
+NORA. Jes, jes, vere helpos. Sed venu por ke mi montru al vi,
+kion mi aĉetis. Kaj kiom malmultekoste! Rigardu, novajn vestojn
+por Ivar -- kaj sabron. Kaj jen ĉevalo kaj trumpeto por Bob. Kaj
+jen pupo kaj pupa lito por Emmy; estas simplaj; sed ŝi ja
+ĉiuokaze baldaŭ disŝiros ilin. Kaj jen robŝtofo kaj tukoj por
+la servistinoj; maljuna Anne-Marie devus ja havi multe pli.
+
+HELMER. Kaj kio estas en jena paketo?
+
+NORA (krias). Ne, Torvald, tiun vi nur rajtas vidi
+ĉi-vespere!
+
+HELMER. Nu, tiel. Sed diru nun al mi, vi malŝparulineto, kion vi
+pensis por vi mem?
+
+NORA. Pa! Por mi? Mi tute nenion deziras.
+
+HELMER. Certe vi ion deziras. Menciu al mi ion moderan, kion vi
+pleje ŝatus havi.
+
+NORA. Ne, mi vere ne scias. Ho jes, aŭdu, Torvald
+
+HELMER. Nu?
+
+NORA (palpante liajn butonojn; sen lin rigardi). Se vi volus doni
+ion al mi, vi povus --; povus --
+
+HELMER. Nu, nu, eldiru.
+
+NORA (rapide). Vi povus doni al mi monon, Torvald. Nur tiom kiom
+vi opinias, ke vi povas malhavi; kaj poste, iun tagon mi aĉetos
+ion.
+
+HELMER. Sed vidu, Nora --
+
+NORA. Ho jes, kara Torvald, faru; mi ege petas vin pri tio. Kaj
+mi pendigus sur la Jularbon la monon enpakitan en ora papero. Ĉu
+ne estus amuze?
+
+HELMER. Kiel oni nomas tiujn birdetojn, kiuj ĉiam malŝparas
+monon?
+
+NORA. Jes, jes, monludantojn; mi ja scias. Tamen ni faru kiel mi
+diras, Torvald; kaj mi havos tempon por pripensi kion mi pleje
+bezonas. Ĉu ne estas tre saĝe? Ĉu?
+
+HELMER (ridetante). Certe estas; kondiĉe ke vi vere kapablus
+reteni la monon, kiun mi al vi donas, kaj vere aĉetus ion por vi
+mem. Sed foje ĝi malaperas en la mastrumado, kaj foje ĝi
+forflirtas por aliaj superfluaj aĉetoj, kaj jen mi devas denove
+elspezi.
+
+NORA. Tamen, Torvald --
+
+HELMER. Vi ne povas nei, mia kara Nonja. (metas la brakon
+ĉirkaŭ ŝian talion) La ludanta birdo estas dolĉa; sed ĝi
+forludas tre multe da mono. Estas nekredeble multekoste por edzo
+teni ludbirdon.
+
+NORA. Fi, kial vi diras tion? Mi vere ŝparas ĉion, kion mi
+kapablas.
+
+HELMER (ridetas). Jes, trafa diraĵo. Ĉion kion vi kapablas. Sed
+vi tute ne kapablas.
+
+NORA (kantetas kaj ridetas silente kontenta). Mmm, se vi nur
+scius kiom da elspezoj ni alaŭdoj kaj sciuroj havas, Torvald.
+
+HELMER. Vi estas stranga etulino. Tute sama kia estis via patro.
+Vi ĉirkaŭflaras ĉie por havigi al vi monon; sed tuj kiam vi
+havigis ĝin, ĝi kvazaŭ malaperas inter viaj manoj; vi neniam
+scias, kie vi elspezis la monon. Nu, oni devas akcepti vin, kia vi
+estas. Kuŝas en la sango. Ja, ja, ja, tio estas hereda, Nora.
+
+NORA. Ha, mi dezirus, ke mi estus heredinta multajn el la
+kvalitoj de paĉjo.
+
+HELMER. Kaj mi ne dezirus vin alia ol ĝuste kia vi estas, mia
+dolĉa, eta kantalaŭdo. Sed aŭskultu; suspekto sin prezentas.
+Vi aspektas hodiaŭ tiel -- tiel -- nu kiel mi nomu tion? --
+tiel ruzeta --
+
+NORA. Mi, ĉu?
+
+HELMER. Jes vere vi aspektas. Rigardu min fikse en la
+okulojn.
+
+NORA (rigardas lin). Nu?
+
+HELMER (minacas per la fingro). Ĉu eble la eta frandemulino
+ekscesis en la urbo hodiaŭ?
+
+NORA. Ne, kial vi pensas tiel?
+
+HELMER. Ĉu eble la frandemulineto vere ne faris kromviziton al
+la sukeraĵisto?
+
+NORA. Ne, mi certigas al vi, Torvald --
+
+HELMER. Ne lipis iom da konfitaĵo?
+
+NORA. Ne, tute ne.
+
+HELMER. Eĉ ne gustumis makaronon aŭ du?
+
+NORA. Ne, Torvald, mi vere certigas al vi --
+
+HELMER. Nu, nu, nu; kompreneble mi nur ŝercas --
+
+NORA (iras al la dekstra tablo). Mi vere ne ekpensus agi
+kontraŭe al vi.
+
+HELMER. Ne, mi scias ja tion; kaj vi ja promesis al mi --.
+(proksimiĝas) Nu, tenu viajn etajn Julsekretojn por vi mem, mia
+kara Nora. Ili certe malkaŝiĝos en la vespero ĉe la eklumigita
+Jularbo.
+
+NORA. Ĉu vi memoris inviti doktoron Rank?
+
+HELMER. Ne. Sed ne estas necese; estas ja memkompreneble, ke li
+manĝos kune kun ni. Cetere mi invitos lin, kiam li alvenos
+antaŭtagmeze. Bonan vinon mi mendis. Nora, vi ne povas imagi kiom
+mi antaŭĝuas la vesperon.
+
+NORA. Ankaŭ mi. Kaj kiom la infanoj ĝojegos, Torvald.
+
+HELMER. Ho, estas grandioze pripensi, ke oni havas sekuran,
+solidan oficon; ke oni havas abundan enspezon. Estas ĝuiga penso,
+ĉu ne?
+
+NORA. Ho jes, estas mirinde!
+
+HELMER. Ĉu vi memoras pasintan Julon? Dum tutaj tri semajnoj
+antaŭe vi enfermis vin en via ĉambro ĉiun vesperon ĝis malfrue
+post meznokto por fari florojn por la Jularbo kaj ĉiujn aliajn
+mirindaĵojn, per kiuj vi volis surprizi nin. Hu, estis la plej
+enuiga tempo, kiun mi iam travivis.
+
+NORA. Kontraŭe mi tute ne enuis.
+
+HELMER (ridetante). Sed la rezulto estis milde dirite iom
+modesta, Nora.
+
+NORA. Nu, nu; jen vi denove incitetas min pri tio. Ĉu mi kulpus
+pri tio, ke la kato envenis kaj disŝiris ĉion?
+
+HELMER. Certe ne, mia kompatinda Nonja. Vi plej volonte emis
+ĝojigi nin ĉiujn, kaj tio estas la ĉefa afero. Sed estas bone,
+ke tiu tempo de malriĉeco estas pasinta.
+
+NORA. Ho jes, estas vere ĝojige.
+
+HELMER. Nun mi ne bezonas sidi ĉi tie sola kaj enui; kaj vi ne
+bezonas turmenti viajn benitajn okulojn kaj viajn etajn, delikatajn
+manojn --
+
+NORA (manklakas). Ne, ĉu ne, Torvald, tion ni ne plu bezonas? Ho
+kiel mirinde bone estas tion aŭdi! (prenas lian brakon) Nun mi
+konfidu al vi kiel mi intencas ĉion aranĝi, Torvald. Tuj post la
+Jultagoj -- (oni sonorigas) Ha! sonoras! (ordigas iom en la
+sidĉambro) Iu venos. Nu do, ĉagrene!
+
+HELMER. Por vizitoj mi ne estas hejme; memoru tion.
+
+ĈAMBRISTINO (ĉe la enireja pordo). Sinjorino, venas fremda
+virino --
+
+NORA. Enlasu ŝin.
+
+ĈAMBRISTINO (al _Helmer_). Kaj la doktoro venis
+samtempe.
+
+HELMER. Li iris rekte en mian ĉambron, ĉu?
+
+ĈAMBRISTINO. Jes, li tien iris.
+
+(_Helmer_ iras en sian ĉambron. La _ĉambristino_
+enlasas _sinjorinon Linde_, kiu estas vojaĝvestita, kaj
+fermas post ŝi)
+
+LINDE (sinĝena kaj iom hezitanta). Bonan tagon, Nora.
+
+NORA (necerta). Bonan tagon --
+
+LINDE. Vi eble ne rekonas min.
+
+NORA. Ne; mi ne scias -- nu jes, ŝajnas al mi -- (ekkrias) Sed? --
+Kristine? Ĉu efektive estas vi?
+
+LINDE. Jes, estas mi.
+
+NORA. Kristine! Kaj mi kiu ne rekonis vin! Sed kiel do povis mi --?
+(iom malrapide) Kiom vi aliiĝis, Kristine!
+
+LINDE. Jes, verŝajne -- aliiĝis. Dum naŭ -- dek longaj jaroj --
+
+NORA. Ĉu pasis tiom da tempo post kiam ni vidis unu la alian?
+Jes, vere ja estas. Ho, la ok lastaj jaroj estis feliĉega tempo,
+kredu. Kaj jen vi do venis ĉi tien en la urbon? Faris la longan
+vojaĝon dumvintre. Brava vi estas.
+
+LINDE. Mi ĵus venis per la vaporŝipo matene.
+
+NORA. Por amuziĝi dum la Julsemajno, kompreneble. Ho, kiom ĝuige!
+Jes, amuziĝi, tion ni vere faru. Sed deprenu viajn supervestojn.
+Vi ne frostas, ĉu? (helpas ŝin) Jen; nun ni sidigu nin agrable
+tie apud la forno. Ne, ne; tien en la brakseĝon! En la balanca
+seĝo mi volas sidi. (prenas ŝiajn manojn) Jes nun vi ree havas
+vian antaŭan vizaĝon; estis nur en la unua momento --. Iom pli
+pala vi fariĝis, Kristine, -- kaj eble iom pli malgrasa.
+
+LINDE. Kaj multe, multe pli maljuna, Nora.
+
+NORA. Jes, eble iomete pli maljuna, iometete; tute ne multe.
+(haltas subite; serioze) Ho, sed mi senpripensa homo, kiu sidas
+babilante! Dolĉa, benita Kristine, ĉu vi povas pardoni min?
+
+LINDE. Pri kio vi pensas, Nora?
+
+NORA (malrapide). Kompatinda Kristine, vi ja fariĝis
+vidvino.
+
+LINDE. Jes, antaŭ tri jaroj.
+
+NORA. Ho, mi tion ja sciis; mi legis pri tio en la gazetoj. Ho,
+Kristine, kredu min; tiam mi ofte intencis skribi al vi; sed ĉiam
+mi prokrastis, kaj ĉiam io intervenis.
+
+LINDE. Kara Nora, tion mi bone komprenas.
+
+NORA. Estis ja malafable miaflanke, Kristine. Ho, kompatinda vi!
+Kiom vi travivis. -- Kaj li neniom postlasis por vin vivteni?
+
+LINDE. Neniom.
+
+NORA. Kaj neniujn infanojn?
+
+LINDE. Neniujn.
+
+NORA. Do vere nenion?
+
+LINDE. Eĉ ne aflikton aŭ sopiron kiel etan konsolon.
+
+NORA (rigardas ŝin dubeme). Tamen, Kristine, kiel tio eblas?
+
+LINDE (ridetas afliktite, kaj tuŝas ŝiajn harojn). Nu, tio foje
+okazas, Nora.
+
+NORA. Tute sola. Kiom terure peze por vi. Mi havas tri dolĉajn
+infanojn. Sed nun vi ne povas vidi ilin, ĉar ili eliris kun la
+vartistino. Tamen, rakontu nun al mi, ĉion --
+
+LINDE. Ne, ne, ne, prefere rakontu vi.
+
+NORA. Ne, vi komencu. Hodiaŭ mi ne volas esti egoisto. Hodiaŭ
+mi volas pensi nur pri viaj aferoj. Tamen unu novaĵon mi devas
+diri al vi. Ĉu vi scias pri la granda feliĉo, kiu okazis al ni
+laste?
+
+LINDE. Ne. Kaj _kiu_?
+
+NORA. Pensu, mia edzo nomiĝis direktoro de la Akciobanko!
+
+LINDE. Via edzo? Ho kia ŝanco --!
+
+NORA. Jes ja, ega! Nur esti advokato, tio ja ne estas firma
+vivtenado, precipe kiam oni ne volas okupi sin pri aliaj aferoj ol
+tiuj, kiuj estas honestaj kaj bontonaj. Kaj kompreneble Torvald
+neniam volis; kaj pri tio mi tute samopinias kun li. Ho, imagu kiom
+ni ĝojas! Li ekfunkcios en la banko jam de novjaro, kaj tiam li
+ricevos grandan salajron kaj multajn procentojn. De nun ni povas
+vivi tute alimaniere ol antaŭe, -- ĝuste kiel ni deziras. Ho,
+Kristine, kiom mi sentas min ŝveba kaj feliĉa! Ĉar estas ja
+ĝuige havi multe da mono kaj ne bezoni maltrankviliĝi. Ĉu
+ne?
+
+LINDE. Jes almenaŭ estus kontentige havi por la necesaĵoj.
+
+NORA. Ne, ne nur la necesan, sed ege, ege multe da mono!
+
+LINDE (ridetas). Nora, Nora, ĉu vi ankoraŭ ne fariĝis saĝa?
+Dum la lernojaroj vi estis malŝparulino.
+
+NORA (ridas mallaŭte). Jes, tion diras Torvald ankoraŭ.
+(minacas per la fingro) Sed "Nora, Nora" ne estas tiel stulta
+kiel vi pensas. -- Ho, ne estis ĉiam por ni tiel, ke mi povus
+malŝpari. Ambaŭ devis ni labori!
+
+LINDE. Ankaŭ vi?
+
+NORA. Jes, pri malgravaĵoj; pinglolaboro, kroĉado, brodado kaj
+simile; (aspekte ion aludante) kaj ankaŭ pri aliaj aferoj.
+Vi certe scias, ke Torvald forlasis la ministerion, kiam ni
+geedziĝis? Ne estis ŝanco por promocio en lia oficejo, kaj
+li ja devis enspezi pli da mono ol antaŭe. Sed la unuan jaron
+li trostreĉis sin tiel terure. Li devis ja serĉi ĉiajn
+kromenspezojn, kiel vi certe povas kompreni, kaj labori de
+frue ĝis malfrue. Sed tion li ne eltenis, kaj li fariĝis morte
+malsana. Kaj jen la kuracistoj deklaris, ke necesas por li iri
+suden.
+
+LINDE. Jes, vi restis en Italujo tutan jaron?
+
+NORA. Vere jes, sed ne estis facile forvojaĝi, kredu min. Ivar
+estis tiam ĵus naskita. Foriri ni tamen devis, kompreneble. Ho,
+estis mirinde ĝuiga vojaĝo. Kaj ĝi savis la vivon de Torvald.
+Sed kostis tre multe da mono, Kristine.
+
+LINDE. Tion mi ja komprenas.
+
+NORA. Mil ducent talerojn ĝi kostis. Kvar mil okcent kronojn.
+Jen granda sumo.
+
+LINDE. Jes, sed en tiaj situacioj estas granda feliĉo, ke oni
+havas la monon.
+
+NORA. Jes, sciu, ni ricevis la sumon de paĉjo.
+
+LINDE. Nu, tiel. Estis ja je tiu tempo ke via patro mortis, mi
+kredas.
+
+NORA. Jes, Kristine. Kaj pensu, mi ne povis iri al li por lin
+varti. Ĉiun tagon mi atendadis, ke eta Ivar venos en la mondon.
+Kaj mi ankaŭ devis varti mian malfeliĉan, morte malsanan Torvald.
+Mia kara bona paĉjo! Mi ne plu vidis lin, Kristine. Estas la plej
+peza travivaĵo, kiun mi spertis, post kiam mi edziniĝis.
+
+LINDE. Mi scias, ke vi multe amis lin. Sed jen vi do iris al
+Italujo?
+
+NORA. Jes, ni havis ja la monon; kaj la kuracistoj urĝis nin.
+Do, ni forvojaĝis unu monaton poste.
+
+LINDE. Kaj via edzo revenis tute sana?
+
+NORA. Sana kiel fiŝo!
+
+LINDE. Sed -- la doktoro?
+
+NORA. Kiel?
+
+LINDE. Ŝajnas al mi, ke la ĉambristino diris, ke estas la
+doktoro, tiu sinjoro, kiu alvenis samtempe kun mi.
+
+NORA. Nu! Tiu estas doktoro Rank; sed li ne venas por viziti
+pacienton; estas nia plej intima amiko, kaj li vizitas nin almenaŭ
+unu fojon tage. Ne, malsana Torvald ne estis post tiam, eĉ ne
+horon. Kaj la infanoj estas sanaj, kiel ankaŭ mi. (eksaltas kaj
+manfrapas) Ho Dio, ho Dio, Kristine, estas vere mirinde vivi kaj
+esti feliĉa! -- --. Sed fi, estas abomene miaflanke --; mi ja nur
+priparolas miajn proprajn aferojn. (eksidas sur skabelon tute apud
+ŝi kaj metas la brakojn sur ŝian genuon) Ho, ne koleru kontraŭ
+mi! -- Diru, ĉu efektive estas vero, ke vi ne amis vian edzon?
+Kial vi do akceptis lin?
+
+LINDE. Mia patrino ankoraŭ vivis; sed ŝi kuŝis senhelpe
+malsana en la lito. Kaj mi devis ankaŭ zorgi pri miaj du pli junaj
+fratoj. Mi ne trovis, ke estas saĝe rifuzi lian edziĝpeton.
+
+NORA. Ne, ne; eble vi pravas. Do tiam li estis riĉa?
+
+LINDE. Li estis sufiĉe bonhava, mi opinias. Sed estis ne sekuraj
+aferoj, Nora. Kiam li mortis, ĉio perdiĝis, kaj nenio restis.
+
+NORA. Kaj poste --?
+
+LINDE. Nu, mi devis iel trabati min pere de eta komerco kaj
+malgranda lernejo, kaj kion mi krome povis elpensi. La lastaj tri
+jaroj por mi estis seninterrompa, senripoza labortago. Nun ĝi
+atingis finon, Nora. Mia kompatinda patrino ne plu bezonas min,
+ĉar ŝi forpasis. Kaj nek la knaboj; ili havas oficojn kaj povas
+zorgi pri si mem.
+
+NORA. Kiom vi devas senti vin senŝar --
+
+LINDE. Ho ne! -- nur tiom senmezure superflua. Neniun por kiu plu
+vivi. (ekstaras malkviete) Tial mi ne plu eltenis en tiu solecejo.
+En ĉi tiu urbo certe estas pli da eblecoj trovi ion, kio povas
+absorbi min kaj okupi miajn pensojn. Mi dezirus esti tiom feliĉa,
+ke mi trovus daŭran oficon, iun oficejan laboron --
+
+NORA. Tamen, Kristine, tio estas terure streĉa, kaj vi aspektas
+sufiĉe streĉita antaŭe. Estus pli bone por vi veni al iu
+banloko.
+
+LINDE (iras al la fenestro). Mi ne havas paĉjon, kiu povus doni
+al mi vojaĝmonon, Nora.
+
+NORA (ekstaras). Ho, ne koleru kontraŭ mi.
+
+LINDE (pli proksime). Kara Nora, nun vi ne koleru kontraŭ mi. La
+plej malbona en situacio kia la mia, estas ke ĝi kaŭzas tiom da
+amareco en la animo. Oni havas neniun por kiu labori; sed tamen oni
+devas eltrovi eblecojn ĉiuloke. Oni devas ja vivi; kaj sekve oni
+fariĝas egoisto. Kiam vi rakontis pri la feliĉa ŝanĝo en via
+situacio -- kredu -- mi ne tiom ĝojiĝis pro vi, kiom pro mi
+mem.
+
+NORA. Kiel tio? Ho, nun mi komprenas. Vi opinias, ke eble Torvald
+povus fari ion por vi.
+
+LINDE. Jes, tion mi pensis.
+
+NORA. Li faru, Kristine. Lasu tion al mi; mi enkondukos la aferon
+tiel lerte, lerte, eltrovos ion afablan, kion li multe ŝatas. Ho,
+mi tre ŝatus esti helpa al vi.
+
+LINDE. Kiel afabla vi estas, Nora, ke vi tiom fervoras por mia
+afero, -- duoble afable de _vi_, kiu mem spertis tiom malmulte
+de la elprovoj kaj problemoj de la vivo.
+
+NORA. Mi --? Mi spertis malmulte, --?
+
+LINDE (ridetante). Nu Dio mia, tiometan pinglolaboron kaj
+tiaĵojn --. Vi estas infano, Nora.
+
+NORA (rektigas la kapon kaj iras plankmezen). Tion vi ne diru
+tiel arogante.
+
+LINDE. Nu --?
+
+NORA. Vi estas egala al la aliaj. Vi ĉiuj opinias, ke mi taŭgas
+al nenio grava --
+
+LINDE. Nu, nu --
+
+NORA. -- ke mi elprovis nenion en ĉi tiu malfacila mondo.
+
+LINDE. Kara Nora, vi ja ĵus rakontis al mi ĉiujn viajn
+travivaĵojn.
+
+NORA. Pa, -- tiujn bagatelojn! (mallaŭte) Mi ne rakontis pri mia
+granda ago.
+
+LINDE. Kiu granda ago? Al kio vi aludas?
+
+NORA. Vi ignoras min tute, Kristine; sed tion vi ne devus fari.
+Vi fieras, ke vi laboris tiel streĉe kaj longe por via
+patrino.
+
+LINDE. Mi vere neniun ignoras. Sed tio estas vero: mi estas fiera
+kaj ĝoja, kiam mi pensas, ke ebliĝis al mi fari la lastan
+vivtempon de mia patrino tiel senzorga.
+
+NORA. Kaj vi ankaŭ estas fiera, kiam vi pensas pri via helpo al
+viaj fratoj.
+
+LINDE. Mi trovas ke tion mi rajtas.
+
+NORA. Tion ankaŭ mi trovas. Sed nun vi aŭdu ion, Kristine.
+Ankaŭ mi havas kaŭzon por esti fiera kaj ĝoja.
+
+LINDE. Mi ne dubas. Sed al kio vi aludas?
+
+NORA. Parolu mallaŭte. Se Torvald aŭdus, jen imagu! Li devas
+por neniu prezo en la mondo --; neniu devas scii, Kristine; neniu
+krom vi.
+
+LINDE. Sed kio do estas?
+
+NORA. Venu ĉi tien (tiras ŝin sur la sofon flanke de si) Aŭdu,
+-- ankaŭ mi havas kaŭzon por esti fiera kaj ĝoja. Estas mi, kiu
+savis la vivon de Torvald.
+
+LINDE. Savis --? Kiel savis?
+
+NORA. Mi ja rakontis al vi pri la vojaĝo al Italujo. Torvald ne
+travivus, se li ne estus veninta tien --
+
+LINDE. Jes ja, via patro donis al vi la necesan monon --
+
+NORA (ridetas). Jes, tion kredas Torvald kaj ĉiuj aliaj; sed --
+
+LINDE. Sed --?
+
+NORA. Paĉjo donis al ni eĉ ne unu ŝilingon. Estis mi, kiu
+havigis al ni la monon.
+
+LINDE. Vi? La tutan grandan sumon?
+
+NORA. Mil ducent talerojn. Kvar mil ok cent kronojn. Jen, kion vi
+diras?
+
+LINDE. Jes sed, Nora, kiel eblis? Ĉu vi gajnis en la
+loterio?
+
+NORA (malestime). En la loterio? (siblas) Kia lerteco estus
+tio?
+
+LINDE. Sed de kie vi ricevis ĝin?
+
+NORA (kantetas kaj ridetas mistere). Hm; tra la la la!
+
+LINDE. Ĉar pruntepreni vi ja ne povis.
+
+NORA. Nu? Kial ne?
+
+LINDE. Ne, edzino ne rajtas pruntepreni sen la konsento de la
+edzo.
+
+NORA (ĵetskuas la kapon). Nu, kiam estas edzino, kiu iom taŭgas
+pri negocaj aferoj, -- edzino kiu scias iom saĝe aranĝi, kaj --
+
+LINDE. Sed Nora, mi tute ne komprenas --
+
+NORA. Vi tion ankaŭ ne bezonas. Eble mi ne _prunteprenis_ la monon.
+Eblus havigi ĝin alimaniere. (ĵetas sin malantaŭen en la sofo)
+Eble mi ricevis ĝin de iu adoranto. Kiam oni estas tiel alloga,
+kiel mi --
+
+LINDE. Facilanima vi estas.
+
+NORA. Nun vi verŝajne estas senmezure scivolema, Kristine.
+
+LINDE. Jes, aŭdu nun, kara Nora, -- ĉu vi ne agis
+malprudente?
+
+NORA (eksidas rekte denove). Ĉu estas malprudente savi la vivon
+de sia edzo?
+
+LINDE. Mi opinias, ke estas malprudente, ke vi sen lia scio --
+
+NORA. Sed ĝuste li devis ja nepre nenion scii! Je Dio, ĉu vi ne
+komprenas tion? Li eĉ ne devus scii kiom danĝere estas pri si. Ja
+al mi la kuracistoj venis kaj diris, ke lia vivo estas en danĝero;
+ke nenio alia povus savi lin krom restado en suda lando. Jen
+komprenu, ke unue mi devis provi palpe serĉi la vojon. Mi
+prezentis al li kiel bone estus por mi kiel por aliaj junaj edzinoj
+vojaĝi eksterlanden; mi ploris kaj petis; mi diris ke li absolute
+devus pripensi la cirkonstancojn en kiuj mi estas, kaj ke li devus
+esti ĝentila kaj cedi al mi; kaj jen mi sugestis ke li povus
+pruntepreni sumon. Sed tiam li fariĝis preskaŭ kolera, Kristine.
+Li diris, ke mi estas facilanima, kaj ke estas lia devo kiel edzo
+ne cedi al tiaj kapricoj kaj ideoj -- kiel li nomis ilin. Nu ja, mi
+pensis, savota vi estu; kaj tiam mi trovis rimedon --
+
+LINDE. Kaj via edzo, ĉu li ne sciiĝis de via patro, ke la mono
+ne venis de li?
+
+NORA. Ne, neniam. Paĉjo mortis ĝuste en tiuj tagoj. Mi intencis
+informi lin pri la afero kaj peti lin nenion malkaŝi. Sed ĉar li
+kuŝis malsana --. Bedaŭrinde, ne fariĝis necese.
+
+LINDE. Kaj vi neniam poste konfidis vin al via edzo?
+
+NORA. Ne, pro ĉielo! kiel vi povas pensi tion. Li, kiu estas
+tiom severa en tiu rilato. Kaj krome -- Torvald, kun sia vira
+memkonscio -- kiom ĝene kaj humilige estus por li scii, ke li ion
+ŝuldus al mi. Tio tute misŝovus la rilaton inter ni; nia bela,
+feliĉa hejmo ne plu restus, kio ĝi nun estas.
+
+LINDE. Kaj vi neniam informos lin?
+
+NORA (pensema, duone ridetante). Jes -- iam eble; -- post multaj
+jaroj, kiam mi ne plu estos tiel bela kiel nun. Ne ridu!
+Kompreneble mi pensas: Kiam Torvald ne plu ŝatos min kiel nun;
+kiam li ne plu trovos plezuron rigardi min danci por li, alivesti
+min kaj deklami. Tiam estus bone havi ion rezerve -- (interrompas)
+Pa, pa, pa. Tiu tempo neniam venos. -- Nu, kion vi diras pri mia
+granda sekreto, Kristine? Ĉu ne ankaŭ mi taŭgas por io? -- Cetere
+sciu, ke tiu afero multe maltrankviligis min. Ne estis ĉiam facile
+por mi plenumi la devojn en ĝusta tempo. Sciu ke en la mondo de
+negoco estas io, kio nomiĝas kvaronjaraj rentoj, kaj io kio
+nomiĝas partopago; kaj estas ĉiam malfacile trovi monon por ili.
+Sekve mi devis ŝpari tie kaj tie laŭ ebleco, kiel vi komprenas.
+El la sumo por mastrumado mi povis nenion flankenmeti, ĉar Torvald
+devis ja bone vivi. La infanoj ne povis esti malbone vestitaj; kion
+mi ricevis por ili, mi opiniis, ke mi devas por ili uzi. La
+dolĉaj, benitaj etuloj!
+
+LINDE. Do vi rezignis pri viaj propraj bezonaĵoj, kompatinda
+Nora?
+
+NORA. Kompreneble. Mi ja estis la unua por tio. Ĉiam kiam
+Torvald donis al mi monon por novaj roboj aŭ io simila, mi neniam
+uzis pli ol la duonon; aĉetis ĉiam la plej simplajn kaj
+malmultekostajn specojn. Dia beno estis, ke ĉio tiel bone konvenas
+al mi, tiel ke Torvald nenion observis. Sed estis al mi peze
+multajn fojojn, Kristine; ĉar tamen estas agrable porti belajn
+vestojn. Ĉu ne?
+
+LINDE. Ho jes, vere.
+
+NORA. Nu, mi ja ankaŭ havis aliajn enspezfontojn. Lastan vintron
+mi sukcesis ricevi kopilaboron. Mi ŝlosis la pordon de mia
+ĉambro, kaj ĉiun vesperon mi sidis skribante ĝis malfrue en la
+nokto. Aj! Mi estis ofte laca, lacega. Sed tamen estis ege amuze
+tiel sidi laborante kaj gajni monon. Mi preskaŭ sentis min
+viro.
+
+LINDE. Sed kiom vi nun tiel povis repagi?
+
+NORA. Nu, tion mi ne povas ĝuste diri. Sciu ke pri tiaj aferoj
+estas tre malfacile teni klaran superrigardon. Mi scias nur, ke mi
+pagis ĉiom, kiom mi povis alrasti. Multfoje mi ne vidis eliron.
+(ridetas) Tiam mi sidis ĉi tie revante, ke maljuna riĉa sinjoro
+enamiĝis en mi --
+
+LINDE. Kio? Kiu sinjoro?
+
+NORA. Pa, pa! -- ke jen li mortis, kaj kiam oni malfermis lian
+testamenton, oni legis tie grandlitere: "Mian monon la afabla
+sinjorino Nora Helmer tuj ekhavu kontante elpagata."
+
+LINDE. Sed kara Nora, -- kia sinjoro tiu estas?
+
+NORA. Bona Dio! Ĉu vi ne komprenas? La maljuna sinjoro tute ne
+ekzistis; estis ja nur fantazio, pri kiu mi sidis ĉi tie revante
+ree kaj ree, kiam mi ne vidis eblecon ekhavi monon. Tamen estas
+indiferente; tiu maljuna, teda homo restu kie li estas; mi sopiras
+nek lin nek lian testamenton, ĉar nun mi estas senzorga.
+(eksaltas) Ho Dio! Tamen estas ĝuige pri tio pensi, Kristine!
+Senzorga! Povi esti senzorga, tute senzorga; povi ludi kaj danci
+kun la infanoj; povi ornami kaj beligi en la domo, ĉion kiel
+Torvald ŝatas ĝin! Kaj imagu, baldaŭ venos printempo kun vasta,
+blua ĉielo. Kaj eble ni povos iom vojaĝi. Eble mi revidos la
+maron. Ho, jes, estas ja vere grandioze vivi kaj esti feliĉa.
+(sonoras en la antaŭĉambro)
+
+LINDE (ekstaras). Oni sonorigas; eble pli bone ke mi foriru.
+
+NORA. Ne, restu; eble neniu venas; estas por Torvald --
+
+ĈAMBRISTINO (ĉe la pordo). Pardonu, sinjorino, -- estas sinjoro
+kiu deziras paroli kun la advokato.
+
+NORA. Kun la bankdirektoro, vi volas diri?
+
+ĈAMBRISTINO. Jes, kun la bankdirektoro; sed mi ne sciis -- ĉar
+la doktoro estas ja tie --
+
+NORA. Kiu sinjoro tiu estas?
+
+Juristo KROGSTAD (ĉe la pordo). Estas mi, sinjorino.
+
+(_Sinjorino Linde_ surpriziĝas, ekskuiĝas kaj turnas sin
+al la fenestro)
+
+NORA (faras paŝon al li maltrankvilega; duonvoĉe). Vi? Kio
+estas? Pri kio volas vi paroli kun mia edzo?
+
+KROGSTAD. Bankaferoj -- iel. Mi havas etan postenon en la
+Akciobanko, kaj via edzo estu nun nia estro, oni diras --
+
+NORA. Do estas --
+
+KROGSTAD. Nur sekaj bankaferoj, sinjorino; tute nenio alia.
+
+NORA. Nu, bonvolu eniri la oficejpordon.
+(salutas indiferente, fermante la pordon de la antaŭĉambro;
+poste ŝi ordigas ion ĉe la forno)
+
+LINDE. Nora, -- kiu estas tiu sinjoro?
+
+NORA. Estas juristo Krogstad.
+
+LINDE. Do vere estas li.
+
+NORA. Vi konas tiun homon?
+
+LINDE. Mi konis lin -- antaŭ pluraj jaroj. Dum periodo li estis
+prokuristo en nia distrikto.
+
+NORA. Jes, li ja estis.
+
+LINDE. Kiom li ŝanĝiĝis.
+
+NORA. Li travivis malfeliĉan edzecon.
+
+LINDE. Nun li ja estas vidvo.
+
+NORA. Kun multaj infanoj. Jen, fine ekflamas en la forno.
+
+(Ŝi fermas la pordon de la forno, kaj ŝovas la balancan seĝon
+iom flanken)
+
+LINDE. Li agadas en multspecaj negocoj, oni diras?
+
+NORA. Ĉu? Povas esti; mi tute ne scias --. Sed ni ne pensu pri
+negocaj aferoj. Estas tiel tede.
+
+(_Doktoro Rank_ venas el la oficejo de _Helmer_)
+
+RANK (enirante, parolante al _Helmer_). Ne, ne; mi ne volas
+ĝeni; prefere mi eniru al via edzino. (fermas la pordon kaj
+rimarkas sinjorinon _Linde_) Pardonu, eble mi ĝenos ankaŭ
+tie ĉi.
+
+NORA. Neniel. (prezentas) Doktoro Rank. Sinjorino Linde.
+
+RANK. Nu tiel. Nomo, kiun oni ofte aŭdas en ĉi tiu hejmo. Mi
+kredas ke mi preterpasis vin, Sinjorino, en la ŝtuparo, kiam mi
+venis.
+
+LINDE. Jes; mi supreniras malrapide; mi ne bone eltenas.
+
+RANK. Aha, iom kaduka interne?
+
+LINDE. Prefere trostreĉita.
+
+RANK. Nenio alia? Do vi certe venis al la urbo por iom ripozi en
+la multaj festenoj?
+
+LINDE. Mi venis por trovi laboron.
+
+RANK. Ĉu tio estu efika rimedo kontraŭ troa streĉo?
+
+LINDE. Oni devas vivi, sinjoro doktoro.
+
+RANK. Jes, estas ja ĝenerala opinio, ke estas tiom necese.
+
+NORA. Ho, ne troigu, doktoro Rank, -- ankaŭ vi volas tamen
+vivi.
+
+RANK. Certe jes, mi volas. Tiel mizera kiel mi estas, mi tamen
+deziras subiĝi plej longe la torturon. Estas same pri ĉiuj miaj
+pacientoj. Kaj tiel estas ankaŭ pri la morale infektitaj. Ĝuste
+nun estas unu tia morale malsanuleja kandidato ĉe Helmer --
+
+LINDE (mallaŭte). Aj!
+
+NORA. Al kiu vi aludas?
+
+RANK. Nu, estas iu juristo Krogstad, homo pri kiu vi nenion
+scias. Difektiĝis liaj karakterradikoj, Sinjorino. Sed eĉ li,
+kvazaŭ estus gravege, komencis paroli pri la neceso _vivi._
+
+NORA. Eh, pri kio volis li paroli kun Torvald?
+
+RANK. Vere mi ne scias; mi aŭdis nur, ke estas io pri la
+Akciobanko.
+
+NORA. Mi ne sciis ke Krog --, ke tiu juristo Krogstad havas
+rilaton kun la Akciobanko.
+
+RANK. Sed jes, li estas iel dungita tie. (al sinjorino _Linde_) Mi
+ne scias, ĉu oni ankaŭ en via distrikto havas tiajn homojn, kiuj
+anhelante ĉirkaŭkuras por elflari moralan putradon, kaj poste
+enmetigi la koncernaton por observado en iun avantaĝan oficon. La
+sanaj devas rezignacie stari ekstere.
+
+LINDE. Estas ja la malsanaj, kiuj pleje bezonas lokon
+interne.
+
+RANK (ŝultrotiras). Jen ĝuste tio. Estas tiu konsidero, kiu
+faras el nia socio malsanulejon.
+
+(_Nora_ en siaj propraj pensoj, ekridas kaj frapas la manojn.)
+
+RANK. Kial vi ridas pri tio? Ĉu vi funde scias kio estas la
+socio?
+
+NORA. Ĉu mi zorgu pri tiu teda socio? Mi ridis pri io tute alia,
+-- io ege amuza. -- Diru, doktoro Rank, -- ĉiuj kiuj nun estas
+dungitaj en la Akciobanko, estos nun dependaj de Torvald, ĉu
+ne?
+
+RANK. Do estas _tio_,
+kion vi trovas tiom ege amuza?
+
+NORA (ridetas kaj kantetas). Lasu al mi pri tio! Lasu al mi pri
+tio! (paŝas tien kaj reen sur la planko) Jes, vere estas ege amuze
+pensi, ke ni -- ke Torvald ekhavis tiom da influo sur multajn
+homojn. (elprenas la saketon el la poŝo) Doktoro Rank, bonvolu
+etan makaronon.
+
+RANK. Jen, jen; makaronojn. Mi kredis, ke tiuj estas malpermesitaj
+varoj ĉi tie.
+
+NORA. Jes, sed tiuj estas kelkaj, kiujn Kristine donis al mi.
+
+LINDE. Kio? Mi --?
+
+NORA. Nu, nu, nu; ne timiĝu. Vi ne povis scii, ke Torvald
+malpermesis tiaĵojn. Sciu ke li timas, ke ili malbeligos miajn
+dentojn. Sed pa, -- unu fojon --! Ĉu ne, doktoro Rank? Bonvolu!
+(metas en lian buŝon makaronon) Kaj ankaŭ vi, Kristine. Kaj ankaŭ
+mi havu unu; nur etetan -- aŭ eble du. (denove marŝas)
+Jes, nun vere mi estas senmezure feliĉa. Nun restas nur io sola,
+kion mi ege dezirus fari.
+
+RANK. Nu? Kaj kio estas tio?
+
+NORA. Estas io, kion mi ege ŝatus diri, kun Torvald
+aŭskultanta.
+
+RANK. Kaj kial vi do ne povas tion diri?
+
+NORA. Ne, mi ne kuraĝas, ĉar estas tro malbela.
+
+LINDE. Malbela?
+
+RANK. Nu ja, sekve ne estas konsilinde. Sed al ni vi ja povas --.
+Kio do estas tio, kion vi tiom ege ŝatus diri kun Helmer
+aŭskultanta?
+
+NORA. Mi treege ŝatus diri: Diablo prenu!
+
+RANK. Vi estas freneza!
+
+LINDE. Sed Dio gardu, Nora --!
+
+RANK. Diru. Jen li estas.
+
+NORA (kaŝas la saketon). Ts, ts, ts.
+
+(_Helmer_ kun surtuto sur la brako kaj ĉapelo en la mano
+venas el sia ĉambro)
+
+NORA (al li renkonte). Nu, kara Torvald, vi liberiĝis de li?
+
+HELMER. Jes, nun li foriris.
+
+NORA. Permesu ke mi prezentu: Estas Kristine, kiu venis al la
+urbo.
+
+HELMER. Kristine --? Pardonu, sed mi ne scias --
+
+NORA. Sinjorino Linde, kara Torvald, sinjorino Kristine
+Linde.
+
+HELMER. Ah tiel. Supozeble infanjara amikino de mia edzino?
+
+LINDE. Jes, ni konis unu la alian en pli fruaj tagoj.
+
+NORA. Kaj pensu, ŝi faris la longan vojaĝon por paroli kun
+vi.
+
+HELMER. Kion tio signifas?
+
+LINDE. Nu, ne ĝuste --
+
+NORA. Kristine estas tiomege lerta pri oficejlaboro, kaj nun ŝi
+tre deziras veni sub gvidado de sperta estro kaj plivastigi siajn
+sciojn --
+
+HELMER. Tre prudente, sinjorino.
+
+NORA. Kaj kiam ŝi aŭdis, ke vi fariĝis bankdirektoro -- venis
+telegramo pri tio -- ŝi laŭeble rapide vojaĝis ĉi tien kaj --.
+Ĉu ne, Torvald, pro mi vi povas ion fari por Kristine? Ĉu?
+
+HELMER. Ja, vere tio ne estas neebla. Sinjorino estas supozeble
+vidvino?
+
+LINDE. Jes.
+
+HELMER. Kaj praktikis oficejlaboron?
+
+LINDE. Jes konsiderinde.
+
+HELMER. Nu, do estas verŝajne ke mi povas vin enoficigi --
+
+NORA (manklakas). Jen, vidu; vidu!
+
+HELMER. Vi venis en bonŝanca momento, sinjorino --
+
+LINDE. Ho, kiel mi danku vin --?
+
+HELMER. Ne dankinde. (surprenas la surtuton) Sed hodiaŭ vi devas
+pardoni min --
+
+RANK. Atendu; mi vin akompanos. (serĉas sian pelton en la
+antaŭĉambro kaj varmigas ĝin apud la forno)
+
+NORA. Ne forestu longe, kara Torvald.
+
+HELMER. Eble unu horon, ne pli.
+
+NORA. Ĉu ankaŭ vi foriros, Kristine?
+
+LINDE (surmetas la supervestojn). Jes, nun mi devas eliri por
+serĉi ĉambron.
+
+HELMER. Do eble mi akompanu vin en la strato?
+
+NORA (helpas ŝin). Bedaŭrinde ke ni loĝas tiel malvaste; sed
+neeblas --
+
+LINDE. Ho, pri kio vi pensas! Adiaŭ, kara Nora, kaj multajn
+dankojn.
+
+NORA. Ĝis revido. Kaj en la vespero vi revenos, kompreneble. Kaj
+ankaŭ vi, doktoro Rank. Nu? Se vi bonfartos? Ja certe vi
+bonfartos; envolvu vin sufiĉe.
+
+(Foriro tra la antaŭĉambro, dum ili interparoladas. Oni aŭdas
+voĉojn de _infanoj_ ekstere en la ŝtuparo.)
+
+NORA. Jen ili! Jen ili estas!
+
+(Ŝi alkuras por malfermi. La vartistino _Anne-Marie_ venas
+kun la infanoj)
+
+NORA. Envenu; envenu! (klinas sin kaj kisas ilin) Ho, vi dolĉaj,
+benitaj --! Rigardu ilin, Kristine! Ĉu ili ne estas amindaj!
+
+RANK. Ne babiladu ĉi tie en la trablovo!
+
+HELMER. Venu, sinjorino Linde; nun estos elteneble nur por
+patrinoj.
+
+(_Doktoro Rank, Helmer_ kaj _sinjorino Linde_
+malsupreniras la ŝtuparon; la _vartistino_ eniras la ĉambron
+kun la infanoj. Ankaŭ _Nora_, fermante la pordon de la
+antaŭĉambro.)
+
+NORA. Kiel viglaj kaj sanaspektaj vi estas. Kaj jen kiel ruĝaj viaj
+vangoj! Kiel pomoj kaj rozoj. (La infanoj parolas vigle samtempe kun
+ŝi) Kaj vi tre amuziĝis? Bonege. Ĉu do; vi tiris Emmy kaj Bob sur
+la luĝo? Kaj samtempe! Jen kia forta knabo vi estas, Ivar. Ho, lasu
+min teni ŝin iomete, Anne-Marie. Mia dolĉa eta pupinfano! (prenas
+la plej malgrandan de la vartistino kaj dancas kun ŝi) Jes, jes,
+panjo dancos ankaŭ kun Bob. Kion? Vi ĵetis neĝbulojn? Ho, tie mi
+dezirus partopreni! Ne ne, Anne-Marie. Mi mem senvestigos ilin.
+Lasu min fari; estas tiom amuze. Eniru dume; vi aspektas frostotreme.
+Varma kafo por vi staras sur la forno.
+
+(La _vartistino_ eniras la maldekstran ĉambron. _Nora_ deprenas
+la supervestojn de la infanoj kaj ĵetas ilin tien kaj tien,
+lasante ilin rakontadi superkriante unu la alian.)
+
+NORA. Oj? Granda hundo, kiu kuris post vin? Sed ĝi ne mordis?
+Ne, hundoj ne mordas etajn, dolĉajn pupinfanojn. Ne enrigardu la
+paketojn, Ivar! Kio estas? Ja, tion vi volus scii. Ho ne! Ho ne!
+Estas io terura. Nu? Ĉu ni ludu? Kion ni ludu? Kaŝludon? Jes, ni
+kaŝludu. Bob sin kaŝu la unua. Mi? Do mi kaŝu min la unua.
+
+(Ili ludas dum rido kaj ĝojkrioj en la sidĉambro kaj la apuda
+ĉambro dekstre. Fine _Nora_ kaŝas sin sub la tablo; la
+infanoj enkuras, serĉas, sed ne trovas ŝin, aŭdas ŝian
+sufokitan ridon, kuras al la tablo, levas la tukon, ekvidas ŝin.
+Bruega ĝojo. Ŝi elrampas kaj ŝajnigas timigi ilin. Novaj
+ĝojkrioj. Dume iu frapis la enirpordon; neniu tion rimarkis. Iu
+malfermas la pordon duone, kaj _juristo Krogstad_ aperas; li
+iom atendas; la ludo daŭras)
+
+KROGSTAD. Pardonu, sinjorino Helmer --
+
+NORA (sufokata ekkrio; turnas sin kaj eksaltas duone supren). Ho,
+kion vi volas?
+
+KROGSTAD. Pardonu; la ekstera pordo estis nur duone fermita; iu
+estas forgesinta fermi ĝin --
+
+NORA (ekstaras). Mia edzo ne estas hejme, sinjoro Krogstad.
+
+KROGSTAD. Tion mi scias.
+
+NORA. Nu -- kion vi do volas?
+
+KROGSTAD. Paroli kelkajn vortojn kun vi.
+
+NORA. Kun --? (al la infanoj, mallaŭte) Eniru al Anne-Marie.
+Kion? Ne, la fremda viro ne volas ion malbonan fari al panjo. Ni
+denove ludos post kiam li foriris. (Ŝi kondukas la infanojn en la
+maldekstran ĉambron kaj fermas la pordon malantaŭ ili)
+
+NORA (maltrankvila, atentema). Vi volas paroli kun mi?
+
+KROGSTAD. Jes, mi volas.
+
+NORA. Hodiaŭ --? Sed ankoraŭ ne estas la unua en la monato.
+
+KROGSTAD. Ne, sed estas Julvespero. Dependas de vi kian
+Julplezuron vi havos.
+
+NORA. Kion vi volas? Mi tute ne povas hodiaŭ --
+
+KROGSTAD. Pri tio ni ĝis plue ne parolu. Estas io alia. Mi
+esperas, ke vi havas liberan momenton?
+
+NORA. Jes, jes certe mi havas, kvankam --
+
+KROGSTAD. Bone. Mi sidis en la restoracio de Olsen kaj vidis vian
+edzon malsupreniri la straton --
+
+NORA. Nu ja --
+
+KROGSTAD. -- kun virino.
+
+NORA. Kaj kio pri tio?
+
+KROGSTAD. Pardonu, ke mi demandas: Ĉu ne tiu virino estas
+sinjorino Linde?
+
+NORA. Jes.
+
+KROGSTAD. Ĵus veninta urben?
+
+NORA. Jes, hodiaŭ.
+
+KROGSTAD. Ŝi estas ja via bona amikino?
+
+NORA. Jes, ŝi estas. Sed mi ne komprenas --
+
+KROGSTAD. Ankaŭ mi iam konis ŝin.
+
+NORA. Mi scias.
+
+KROGSTAD. Ehe? Vi scias pri tiu afero. Tion mi pensis. Do,
+permesu ke mi vin demandu rekte: Ĉu sinjorino Linde ricevos
+postenon en la Akciobanko?
+
+NORA. Kial vi povas permesi al vi pridemandi _min_, sinjoro
+Krogstad, vi, kiu estas unu el la subuloj de mia edzo? Sed ĉar vi
+demandas, mi sciigu vin: Jes, sinjorino Linde estos dungata. Kaj
+estas mi, kiu pledis por ŝi, sinjoro Krogstad. Do nun vi
+scias.
+
+KROGSTAD. Mi do kalkulis ĝuste.
+
+NORA (iom paŝadas sur la planko). Hm, oni havas ja iometan
+influon, mi supozas. Kvankam oni estas virino, tio ne signifas, ke
+-- Kiam oni staras en subula rilato, sinjoro Krogstad, oni devus
+vere esti singarda kaj ne ofendi iun, kiu -- eh --
+
+KROGSTAD. -- kiu havas influon?
+
+NORA. Jes ĝuste.
+
+KROGSTAD (ŝanĝas tonon). Sinjorino Helmer, bonvolu uzi vian
+influon por mi.
+
+NORA. Kion do? Al kio vi celas?
+
+KROGSTAD. Bonvolu prizorgi, ke mi gardu mian subalternan postenon
+en la banko.
+
+NORA. Kion tio signifu? Kiu intencas preni de vi vian
+postenon?
+
+KROGSTAD. Ho, vi ne bezonas ludi nescion antaŭ mi. Mi bone
+komprenas, ke ne estos agrable por via amikino riski renkonti min;
+kaj nun mi ankaŭ komprenas, kiun mi danku por la decido forpeli
+min.
+
+NORA. Sed mi certigas --
+
+KROGSTAD. Nu jes, jes, rekte dirite: estas ankoraŭ tempo, kaj mi
+konsilas al vi, ke vi uzu vian influon por tion malhelpi.
+
+NORA. Sed, sinjoro Krogstad, mi tute neniun influon havas.
+
+KROGSTAD. Vere ne? Ŝajnas al mi, ke vi mem ĵus diris --
+
+NORA. Kompreneble tio ne signifus tion --. Mi! Kiel vi kredas, ke
+mi havus tian influon sur mia edzo?
+
+KROGSTAD. He, mi konas vian edzon de la studentotagoj. Mi pensas
+ke la sinjoro bankdirektoro ne estas pli firma ol aliaj edzoj.
+
+NORA. Se vi parolas malestime pri mia edzo, mi montros al vi la
+pordon.
+
+KROGSTAD. Sinjorino estas kuraĝa.
+
+NORA. Mi ne plu timas vin. Post novjartago mi baldaŭ liberiĝos
+el la afero.
+
+KROGSTAD (pli sinrega). Aŭskultu nun, Sinjorino. Se fariĝos
+necese, mi batalos kvazaŭ por la vivo, por gardi tiun mian etan
+oficon en la banko.
+
+NORA. Jes, aspektas ja tiel.
+
+KROGSTAD. Ne estas nur por la enspezo; tiu eĉ plej malmulte
+gravas. Sed estas io alia --. Do, mi klarigu! Estas jena afero: Vi
+kompreneble scias same bone kiel ĉiuj aliaj, ke mi antaŭ kelkaj
+jaroj fariĝis kulpa pri ago malprudenta.
+
+NORA. Mi kredas, ke mi ion tian aŭdis.
+
+KROGSTAD. Ne fariĝis proceso; tamen tuj ĉiuj vojoj bariĝis por
+mi. Sekve mi komencis tiajn negocojn, pri kiuj vi scias. Al io mi
+devis kroĉi min; kaj mi rajtas diri, ke mi ne estas el la plej
+malbonaj. Sed nun mi devas liberigi min el tio. Miaj filoj kreskas;
+pro ili mi devas kiel eble regajni civitanan estimon. Tiu ofico en
+la banko estas kvazaŭ la unua ŝtupo por mi. Kaj nun via edzo
+volas piedfrapi min for de la ŝtuparo, tiel ke mi ree staru en la
+koto.
+
+NORA. Sed pro Dio, sinjoro Krogstad, mi tute ne kapablas helpi
+vin.
+
+KROGSTAD. Estas tial, ke vi ne volas; sed mi havas rimedojn por
+vin devigi.
+
+NORA. Vi ne intencas diri al mia edzo, ĉu? ke mi ŝuldas monon
+al vi?
+
+KROGSTAD. Hm, se mi tamen al li dirus?
+
+NORA. Estus de vi fia ago. (plorsingulte) Tiun sekreton, kiu
+estas mia feliĉo kaj fiero, tiun li ekscius en tia abomena kaj
+plumpa maniero, -- ekscius ĝin de _vi_. Vi ĵetus min en
+terurajn malagrablaĵojn --
+
+KROGSTAD. Nur malagrablaĵojn?
+
+NORA (impete). Sed nur faru; estos plej fatale por vi mem; ĉar
+tiam mia edzo vere vidos, kia malbona homo vi estas, kaj tiam vi
+tute ne konservos vian oficon.
+
+KROGSTAD. Mi demandis, ĉu estas nur familiaj malagrablaĵoj,
+kiujn vi timas?
+
+NORA. Se mia edzo ekscios, kompreneble li tuj pagos la reston;
+kaj poste ni havos neniun rilaton al vi.
+
+KROGSTAD (paŝon pli proksimen). Aŭskultu, sinjorino Helmer; --
+aŭ via memorkapablo estas iom malforta, aŭ vi ne bone komprenas
+negocajn aferojn. Mi vidas, ke mi devas orientigi vin iom pli bone
+pri la afero.
+
+NORA. Kiel do?
+
+KROGSTAD. Kiam via edzo estis malsana, vi venis al mi por
+pruntepreni mil ducent talerojn.
+
+NORA. Mi sciis pri neniu alia.
+
+KROGSTAD. Mi promesis havigi al vi la sumon --
+
+NORA. Vi ja faris.
+
+KROGSTAD. Mi promesis havigi al vi la sumon sub certaj kondiĉoj.
+Vi estis tiam tiel okupata pri la malsano de via edzo, kaj tiom
+febre serĉis vojaĝmonon, ke vi, mi kredas, ne klare pensis pri
+akcesoraj cirkonstancoj. Tial ne estas malutile veki vian memoron.
+Do; mi promesis havigi al vi la monon kontraŭ ŝuldatesto, kiun mi
+redaktis.
+
+NORA. Jes, kaj kiun mi subskribis.
+
+KROGSTAD. Bone. Sed sube mi skribis kelkajn liniojn, laŭ kiuj
+via patro garantiis por la ŝuldo. Tiujn liniojn via patro devus
+subskribi.
+
+NORA. Devus --? Li ja subskribis.
+
+KROGSTAD. Mi metis la daton en blanko; tio signifis, ke via patro
+skribu mem la daton, kiam li subskribis la paperon. Ĉu sinjorino
+memoras tion?
+
+NORA. Jes, mi opinias --
+
+KROGSTAD. Mi transdonis al vi la ŝuldateston, por ke vi sendu
+ĝin perpoŝte al via patro. Vi memoras, ĉu ne?
+
+NORA. Jes.
+
+KROGSTAD. Kaj tion vi kompreneble tuj faris; ĉar jam post kvin
+aŭ ses tagoj vi transdonis al mi la ateston kun la subskribo de
+via patro. Kaj mi elpagis al vi la sumon.
+
+NORA. Nu ja; ĉu mi ne repagis la partojn regule?
+
+KROGSTAD. Jes, sufiĉe, jes. Sed por reveni al tio, kion ni
+priparolis, -- estis ja zorgoplena tempo por vi tiam, sinjorino?
+
+NORA. Jes, vere estis.
+
+KROGSTAD. Via patro kuŝis tre malsana, mi kredas.
+
+NORA. Estis ĉe la fino.
+
+KROGSTAD. Mortis baldaŭ poste.
+
+NORA. Jes.
+
+KROGSTAD. Diru al mi, sinjorino Helmer, ĉu vi eble memoras la
+tagon kiam via patro mortis? Kiun tagon en la monato, mi volas
+diri.
+
+NORA. Paĉjo mortis la 29-an de Septembro.
+
+KROGSTAD. Tute ĝuste; pri tio mi havigis informon. Tial estas
+strangaĵo, (elprenas paperon) kiun mi ne povas klarigi al mi.
+
+NORA. Kiu strangaĵo? Mi ne scias --
+
+KROGSTAD. Estas jena strangaĵo, ke via patro subskribis tiun
+ŝuldateston tri tagojn post sia morto.
+
+NORA. Kiel? Mi ne komprenas --
+
+KROGSTAD. Via patro mortis la 29-an de Septembro. Sed rigardu.
+Ĉi tie via patro metis daton de sia subskribo la 2-an de Oktobro.
+Ĉu ne strange, sinjorino?
+
+NORA. (silentas)
+
+KROGSTAD. Vi povas tion klarigi, ĉu?
+
+NORA. (daŭre silentas)
+
+KROGSTAD. Rimarkinde estas ankaŭ, ke la vortoj 2-an de Oktobro
+kaj la jaro ne estas skribitaj per la manskribo de via patro, sed
+per manskribo kiun mi opinias konata. Nu, tio ja estas klarigebla;
+via patro eble forgesis datumi sian subskribon, kaj poste iu alia
+hazarde faris tion antaŭ ol oni sciis pri la morto. Ne estas
+trompo en tio. Estas la subskribo de la nomo kiu gravas. Kaj
+_tiu_ ja estas aŭtentika, sinjorino Helmer? Estas ja vere via
+patro, kiu mem skribis sian nomon tie? Ĉu ne?
+
+NORA (post mallonga paŭzo, ĵetskuas la kapon kaj rigardas lin
+spite). Ne, tiel ne estas. Estas _mi_, kiu skribis la nomon de
+paĉjo.
+
+KROGSTAD. Aŭdu, sinjorino, -- ĉu vi scias, ke tio ja estas
+danĝera konfeso?
+
+NORA. Kial? Vi baldaŭ ricevos vian monon.
+
+KROGSTAD. Permesu al mi fari demandon: Kial vi ne sendis la
+paperon al via patro?
+
+NORA. Ne eblis. Paĉjo ja kuŝis malsana. Se mi petus lian
+subskribon, mi devus ankaŭ diri al li por kio ni uzus la monon.
+Sed mi ne povis diri al li, kiu tiom malsanis, ke la vivo de mia
+edzo estas en danĝero. Estis ja neeble.
+
+KROGSTAD. Do estus pli bone por vi, se vi tiam rezignus pri tiu
+vojaĝo eksterlanden.
+
+NORA. Ne; estis ja neeble. Tiu vojaĝo ja savus la vivon de mia
+edzo. Mi ne povis rezigni pri ĝi.
+
+KROGSTAD. Sed vi ne pensis, ke estas trompo kontraŭ mi --?
+
+NORA. Tion mi tute ne povis konsideri. Mi neniel ĝenis min pri
+vi. Mi ne toleris vin pro tiuj senkoraj malfacilaĵoj, kiujn vi
+faris, kvankam vi sciis kiom danĝera estis la sanstato de mia
+edzo.
+
+KROGSTAD. Sinjorino Helmer, evidente vi ne havas iun klaran
+ideon, pri la ago je kiu vi kulpiĝis. Sed mi povas ekspliki al vi,
+ke tio, kion mi iam faris, ne estis pli grava nek pli malbona; kaj
+tio detruis mian tutan civitanan staton.
+
+NORA. Vi? Vi volas kredigi al mi, ke vi estus farinta ion tiom
+kuraĝan por savi la vivon de via edzino?
+
+KROGSTAD. La leĝoj ne demandas pri motivoj.
+
+NORA. Do estas ja tre malbonaj leĝoj.
+
+KROGSTAD. Ĉu malbonaj aŭ ne, -- se mi prezentos tiun paperon en
+la tribunalo, vi estos kondamnata laŭ la leĝoj.
+
+NORA. Mi tute ne kredas. Filino ne rajtus protekti kontraŭ timo
+kaj zorgo sian maljunan morte malsanan patron? Edzino ne rajtus
+savi la vivon de sia edzo? Mi ne scias profunde la leĝojn; tamen
+mi estas certa, ke ie ili decidas ke tio estas permesita. Kaj pri
+tio vi nenion scias, vi, kiu estas juristo? Vi verŝajne estas
+malbona juristo, sinjoro Krogstad.
+
+KROGSTAD. Mi eble estas. Sed negocojn tiajn, kiajn ni havas kune,
+-- tiujn vi certe kredas, ke mi komprenas? Bone. Faru kiel al vi
+plaĉas. Sed _tion_ mi diras al vi: se mi duan fojon estos
+forpelita, vi min akompanu.
+
+(Li salutas kaj eliras tra la antaŭĉambro)
+
+NORA (dum tempo pensante; ĵetskuas la kapon). Ho jen! -- Voli min
+timigi! Tiel naiva mi ne estas. (komencas ordigi la vestojn de la
+infanoj; baldaŭ ĉesas) Sed --? -- -- Ne, sed estas ja neeble! Mi
+agis el amo!
+
+INFANOJ (ĉe la pordo maldekstre). Panjo, la fremda viro eliris
+tra la pordego.
+
+NORA. Jes, jes, mi scias. Sed ne parolu al iu ajn pri tiu fremda
+viro. Ĉu vi aŭdas? Eĉ ne al paĉjo!
+
+INFANOJ. Ne, panjo; sed nun ni ankoraŭ ludu?
+
+NORA. Ne, ne; ne nun.
+
+INFANOJ. Ho, tamen panjo, vi ja promesis.
+
+NORA. Jes, sed mi ne povas nun. Eniru. Mi havas tiom farendan.
+Eniru, eniru, karaj dolĉaj infanoj.
+
+(Ŝi ŝovas ilin milde en la apudan ĉambron, kaj fermas la
+pordon post ili.)
+
+NORA (eksidas sur la sofon, prenas brodlaboron, kaj faras kelkajn
+kudrerojn, sed baldaŭ haltas). Ne! (forĵetas la brodaĵon,
+ekstaras, iras al la antaŭĉambra pordo kaj vokas:) Helene!
+enportu al mi la Jularbon. (iras al la maldekstra tablo kaj
+malfermas la tirkeston; denove haltas) Ne, sed estas ja tute neeble!
+
+ĈAMBRISTINO (kun la Jularbo). Kien mi metu ĝin, sinjorino?
+
+NORA. Tien; meze sur la plankon.
+
+ĈAMBRISTINO. Ĉu mi alportu ion kroman?
+
+NORA. Ne, dankon; mi havas, kion mi bezonas.
+
+(La _ĉambristino_, kiu jam demetis la arbon, eliras.)
+
+NORA (dum ŝi ornamas la arbon). Tie estu kandeloj -- kaj tie
+floroj. -- La abomena homo! Babilaĉo! Estas nenio ĝena. La Jularbo
+estu belega. Mi faros ĉion, kion vi ŝatos, Torvald; -- mi kantos
+por vi, dancos por vi --
+
+(_Helmer_, kun paketo da dokumentoj sub la brako, eniras el
+ekstere)
+
+NORA. Ah, -- vi jam revenas?
+
+HELMER. Jes. Ĉu iu vizitis?
+
+NORA. Ĉi tie? Ne.
+
+HELMER. Strange. Mi vidis Krogstad eliri tra la pordego.
+
+NORA. Ĉu? Ho jes, vere, Krogstad envenis momenton.
+
+HELMER. Nora, mi povas vidi laŭ via vizaĝo, ke li vizitis vin,
+kaj petis, ke vi parolu favore por li.
+
+NORA. Jes.
+
+HELMER. Kaj tion vi farus kvazaŭ laŭ propra instigo, ĉu? Kaj
+vi devus kaŝi por mi, ke li estis ĉi tie. Ankaŭ pri tio li
+petis?
+
+NORA. Jes, Torvald; sed --
+
+HELMER. Nora, Nora, kaj en tio vi povis partopreni? Interparoli
+kun tia homo, kaj doni al li ian promeson! Kaj aldone diri al mi
+mensogon!
+
+NORA. Mensogon --?
+
+HELMER. Vi diris, ke neniu estis ĉi tie, -- ĉu ne? (minacas per
+la fingro) Tion neniam plu mia eta kantbirdo faru. Kantbirdo devas
+kanti per pura beko; neniam falsajn tonojn. (prenas ŝin ĉirkaŭ
+la talion) Ĉu ne tiel estu? Jes ja, mi ja sciis. (lasas ŝin) Kaj
+nun ne pli pri tio. (sidigas sin apud la fornon) Ah, kiel hejmece
+estas. (foliumas siajn dokumentojn)
+
+NORA (okupata pri la Jularbo; post mallonge). Torvald!
+
+HELMER. Jes.
+
+NORA. Mi ege antaŭĝuas la kostumobalon ĉe geamikoj Stenborg
+postmorgaŭ.
+
+HELMER. Kaj mi estas senmezure scivolema vidi per kio vi
+surprizos min.
+
+NORA. Ho, tiu stulta kaprico.
+
+HELMER. Nu?
+
+NORA. Mi ne povas ion taŭgan elpensi; ĉio aspektas tiel stulte,
+tiel sensignife.
+
+HELMER. Ĉu Nonjo atingis _tiun_ rekonon?
+
+NORA (malantaŭ lia seĝo, la brakojn sur la seĝodorso). Ĉu vi
+estas tre okupata, Torvald?
+
+HELMER. Nu --
+
+NORA. Kiaj paperoj estas tiuj?
+
+HELMER. Bankaferoj.
+
+NORA. Jam nun?
+
+HELMER. Mi igis la eksiĝantan estraron rajtigi min fari la
+necesajn ŝanĝojn en la personaro kaj en la dispozicia plano. Por
+tio mi devas uzi la Julsemajnon. Mi deziras ĉion ordigi ĝis
+novjaro.
+
+NORA. Do estas tial ke tiu povra Krogstad --
+
+HELMER. Hm.
+
+NORA (daŭre apogata al la seĝodorso; malrapide taŭzante liajn
+nukharojn). Se vi ne estus tiom okupata, mi estus petinta vin pri
+ege granda servo, Torvald.
+
+HELMER. Diru. Kio estus?
+
+NORA. Estas ja neniu, kiu havas tiel delikatan guston kiel vi. Mi
+ege dezirus aspekti bele en la kostumobalo. Torvald, eble vi povus
+helpi min kaj decidi, kion mi prezentu, kaj kia estu mia
+kostumo?
+
+HELMER. Jen, jen; la obstinulineto serĉas savonton?
+
+NORA. Jes, Torvald, mi neniel progresas sen via helpo.
+
+HELMER. Bone, bone; mi pensos pri la afero; ni trovos solvon.
+
+NORA. Ho, kiom bona vi estas. (iras al la Jularbo; paŭzo) Kiel
+bele la ruĝaj floroj aspektas. -- Sed diru, ĉu vere estas tiom
+fia, la ago pri kiu Krogstad kulpiĝis?
+
+HELMER. Skribis falsajn nomojn. Vi ne distingas, kion tio
+signifas?
+
+NORA. Eble li tion faris pro mizero?
+
+HELMER. Eble, aŭ, kiel multaj faras, senprudente. Mi ne estas
+tiel senkora, ke mi senplue kondamnus homon pro tia unusola
+ago.
+
+NORA. Ne, vere ne, Torvald?
+
+HELMER. Multaj povas morale rehonorigi sin, se ili malkaŝe
+konfesas sian kulpon kaj akceptas sian punon.
+
+NORA. Punon --?
+
+HELMER. Sed tiun vojon Krogstad ne iris; li trahelpis sin per
+ruza artifiko; kaj estas tio, kio morale detruis lin.
+
+NORA. Vi kredas, ke fariĝus --?
+
+HELMER. Pensu nur, kiel tia kulpokonscia homo devas mensogi kaj
+hipokriti kaj simuli al ĉiuj flankoj, kaj montri maskon antaŭ
+siaj plej proksimaj, eĉ antaŭ sia propra edzino kaj siaj propraj
+infanoj. Kaj tio koncerne la infanojn, tio estas la plej terura,
+Nora.
+
+NORA. Kial?
+
+HELMER. Ĉar tia haladza etoso de mensogo enkondukas infekton kaj
+malsanojn en la vivon de tuta hejmo. Ĉiuj enspiroj de la infanoj
+en tia hejmo estas plenaj de ĝermoj por io fia.
+
+NORA (pli proksime malantaŭ li). Kaj pri tio vi estas tute
+certa?
+
+HELMER. Kara mia, tion mi sufiĉe ofte spertis kiel advokato.
+Preskaŭ ĉiuj frue koruptitaj homoj havis mensogantajn
+patrinojn.
+
+NORA. Kial ĝuste -- patrinojn?
+
+HELMER. Devenas plej ofte de la patrinoj; sed patroj kompreneble
+influas en la sama direkto; tion tre bone scias ĉiu juristo. Kaj
+tamen tiu Krogstad dum jaroj en sia hejmo venenigis siajn proprajn
+infanojn en mensogo kaj simulo; tial mi nomas lin morale koruptita.
+(etendas al ŝi la manojn) Tial, mia dolĉa Nonja promesu al mi ne
+pledi por li. Vian manon pri tio! Nu do, kio estas? Donu al mi la
+manon! Jen bone. Do decidite. Mi certigas al vi, ke ne eblus labori
+kune kun li; mi fakte sentas korpan malsanon en la ĉeesto de tiaj
+homoj.
+
+NORA (tiras al si la manon, kaj iras al la alia flanko de la
+Jularbo). Kiom varme estas. Kaj mi, kiu havas tiom por fari.
+
+HELMER (ekstaras kaj kolektas siajn dokumentojn). Nu, mi devas ja
+provi tralegi iom de tiuj dokumentoj antaŭ ol iri al la tablo.
+Ankaŭ vian kostumon mi devas pripensi. Kaj krome mi havas preta
+ion por pendigi en orpapero sur la Jularbo. (metas la manon sur
+ŝian kapon) Ho vi, mia benita kantbirdeto. (Li iras en sian
+ĉambron kaj fermas la pordon post si.)
+
+NORA (mallaŭte post silento). Ho ne! ne estas tiel. Estas
+neeble. Devas esti neeble.
+
+VARTISTINO (ĉe la pordo maldekstre). La etuloj tiel bele petas,
+ke ili povu enveni al panjo.
+
+NORA. Ne, ne, ne; Ne enlasu ilin al mi! Restu ĉe ili vi,
+Anne-Marie.
+
+VARTISTINO. Jes, jes, sinjorino. (fermas la pordon)
+
+NORA (pala pro teruro). Korupti miajn infanetojn --! Venenigi la
+hejmon? (eta paŭzo; ŝi rektigas la nukon) Ne estas vero. Je
+eterno tio ne estas vero!
+
+
+
+
+DUA AKTO
+
+
+(La sama ĉambro. Fone en la angulo apud la piano staras la
+Jularbo, senornama, taŭzita, kaj kun duone brulintaj kandeloj. Sur
+la sofo kuŝas la supervestoj de Nora.)
+
+(_Nora_, sola en la ĉambro, paŝadas maltrankvila tien kaj reen;
+fine ŝi haltas ĉe la sofo kaj prenas sian mantelon.)
+
+NORA (ree faligas la mantelon). Iu venas! (kontraŭ la pordon;
+aŭskultas) Ne, -- neniu. Kompreneble -- neniu venas hodiaŭ, la
+unuan Jultagon; -- kaj ankaŭ ne morgaŭ. -- Sed eble --
+(malfermas la pordon kaj rigardas eksteren) Ne; nenio en la
+leterskatolo; tute malplena. (antaŭen sur la planko) Ho,
+stultaĵo! Kompreneble li ne efektive tion faros. Tiaĵo ne
+povas okazi. Neeblas! -- Mi havas ja tri infanetojn.
+
+(La vartistino, kun granda kartona skatolo, venas de la
+maldekstra ĉambro)
+
+VARTISTINO. Jen, fine mi trovis la skatolon kun la vestaĵoj por
+la maskerado.
+
+NORA. Dankon; metu ĝin sur la tablon.
+
+VARTISTINO (tion faras). Sed ili estas en granda malordo.
+
+NORA. Ho, se mi povus ilin disŝiri en cent mil pecojn!
+
+VARTISTINO. Dio gardu; ili estas facile ripareblaj; nur iom da
+pacienco.
+
+NORA. Jes, mi do iros peti sinjorinon Linde helpi min.
+
+VARTISTINO. Nun -- denove eliri? En tiu aĉa vetero? Sinjorino
+Nora kaptos malvarmumon, -- malsaniĝos.
+
+NORA. Ho, la plej malbona ne estus tio. -- Kiel fartas la
+infanoj?
+
+VARTISTINO. La karaj etuloj ludas per la Juldonacoj, sed --.
+
+NORA. Ĉu ili ofte demandas pri mi?
+
+VARTISTINO. Ili ja alkutimiĝis havi panjon ĉe si.
+
+NORA. Jes, sed Anne-Marie, de nun mi ne plu _povas_ esti
+kune kun ili tiom kiom antaŭe.
+
+VARTISTINO. Nu, infanetoj al ĉio kutimiĝas.
+
+NORA. Vi kredas? Vi vere kredas, ke ili forgesus sian panjon, se
+ŝi tute malaperus?
+
+VARTISTINO. Dio gardu; -- tute malaperus!
+
+NORA. Aŭskultu, diru, Anne-Marie, -- mi ofte pensis pri tio, --
+kiel via koro povis elteni forsendi vian infanon al fremduloj?
+
+VARTISTINO. Sed tion mi ja devis fari por nutri etan Nora.
+
+NORA. Jes, sed ke vi tion _volis_?
+
+VARTISTINO. Kun ŝanco por tiel bona okupo? Malriĉa knabino
+trafita de misfortuno devas esti kontenta. Ĉar la malbona ulo
+faris ja nenion por mi.
+
+NORA. Sed via filino vin certe forgesis.
+
+VARTISTINO. Ho ne, ŝi ne forgesis. Ŝi skribis al mi je sia
+konfirmacio kaj ankaŭ kiam ŝi edziniĝis.
+
+NORA (ĉirkaŭbrakas ŝian kolon). Vi maljuna Anne-Marie, vi
+estis bona patrino por mi dum mi estis infano.
+
+VARTISTINO. Kompatinda Nonjo havis ja neniun alian patrinon.
+
+NORA. Kaj se la etuloj neniun alian havus, mi certe scias, ke vi
+volus --. Bla, bla, bla. (malfermas la skatolon) Eniru al ili.
+Nun mi devas -- -- Morgaŭ vi vidos kiel ĉarma mi fariĝos.
+
+VARTISTINO. Jes certe, neniu en la tuta balo estos tiel ĉarma
+kiel sinjorino Nora. (eniras la maldekstran ĉambron)
+
+NORA (komencas elpreni el la skatolo, sed baldaŭ forĵetas
+ĉion). Ho, se mi kuraĝus eliri. Se nur neniu venus. Se nur ne dume
+okazus io hejme. Stulta babilaĵo; neniu venos. Nur ne pensi. Brosi
+la mufon. Delikataj gantoj, delikataj gantoj. For el la pensoj!
+For, for! Unu, du, tri, kvar, kvin, ses -- (krias) Jen, tie ili
+venas -- (al la pordo, sed haltas sendecide)
+
+(_Sinjorino Linde_ eniras el la antaŭĉambro, kie ŝi
+demetis siajn supervestojn)
+
+NORA. Ho, ĉu estas vi, Kristine. Neniu alia tie ekstere? -- Kiom
+bone ke vi venis.
+
+LINDE. Mi aŭdis, ke vi venis demandi min.
+
+NORA. Jes, mi ĵus preterpasis. Estas io pri kio vi nepre devas
+helpi min. Ni sidiĝu ĉi tie sur la sofo. Jen. Okazos maskeradobalo
+morgaŭ vespere supre ĉe la geedzoj konsulo Stenborg, kaj nun
+Torvald volas, ke mi estu fiŝista knabino el Napolo, kaj ke mi
+dancu Tarantelon, ĉar ĝin mi lernis en Kapreo.
+
+LINDE. Jen, jen! Vi faros veran prezentadon?
+
+NORA. Jes, Torvald diras, ke mi devas. Jen, la kostumo; Torvald
+tie en Napolo kudrigis ĝin por mi; sed nun ĉio estas tiel
+disŝirita, ke mi tute ne scias --
+
+LINDE. Nu, tion ni baldaŭ ordigos; estas ja nur la garnaĵo, kiu
+iom malfiksiĝis. Kudrilon kaj fadenon? Jen ni ja havas kion ni
+bezonas.
+
+NORA. Ho, kiom afabla vi estas.
+
+LINDE (kudras). Do vi maskovestos vin morgaŭ, Nora? Sciu, -- tiam
+mi venos momenton por vidi vin ornamita. Sed mi ja tute forgesis
+danki vin pro la agrabla vespero hieraŭ.
+
+NORA (levas sin kaj faras kelkajn paŝojn). Nu, ŝajnis al mi, ke
+hieraŭ ne estis tiel agrable kiel kutime. -- Vi estus devinta veni
+iom pli frue al la urbo, Kristine. -- Jes ja, Torvald vere komprenas
+fari la domon perfekta kaj senmakula.
+
+LINDE. Vi ne malpli, mi opinias; klare montriĝas, ke vi estas la
+filino de via patro. Sed nun diru al mi, ĉu doktoro Rank ĉiam
+estas tiel deprimata kiel hieraŭ?
+
+NORA. Ne, hieraŭ tio estis tre rimarkebla. Cetere li suferas de
+tre danĝera malsano. Tuberkulozo en la spino. Kompatindulo! Mi
+diru al vi konfide; lia patro estis abomeninda homo, kiu tenis
+amdonantinojn kaj aliajn tiajn; kaj tial, vi komprenas, la filo
+fariĝis malsaneca de infanaĝo.
+
+LINDE (faligas la kudraĵon). Sed karega Nora, de kie vi havas
+tiajn informojn?
+
+NORA (paŝante). Pa, kiam oni havas tri infanojn, oni foje
+ricevas vizitojn de -- de sinjorinoj, kiuj estas kvazaŭaj
+kuracistoj; kaj ili ja rakontas ion kaj tion.
+
+LINDE (denove kudras; mallonga silento). Ĉu doktoro Rank vizitas
+vin ĉiun tagon?
+
+NORA. Ĉiun laŭvican tagon. Li estas ja ekde la juneco la plej
+bona amiko de Torvald, kaj ankaŭ mia bona amiko. Doktoro Rank
+kvazaŭ apartenas al la domo.
+
+LINDE. Sed diru al mi: Ĉu tiu sinjoro estas tute sincera? Mi
+sugestas, ĉu li ne ŝatas diri al homoj agrablaĵojn?
+
+NORA. Ne, kontraŭe! Kial vi ekhavis tiun impreson?
+
+LINDE. Kiam vi hieraŭ prezentis min al li, li asertis, ke en tiu
+ĉi domo li ofte aŭdis mian nomon; sed poste mi rimarkis, ke via
+edzo tute ne sciis, kiu mi vere estas. Kiel povis do doktoro Rank --?
+
+NORA. Jes, tute ĝuste, Kristine. Torvald ja tiom kore amas min;
+kaj tial li tute sola volas posedi min, kiel li diras. En la unua
+tempo li preskaŭ fariĝis ĵaluza, se mi nur menciis iujn el la
+karaj homoj tie hejme. Do mi ne plu faris. Sed kun doktoro Rank mi
+ofte parolas pri tiaĵoj; ĉar komprenu, li tre volonte
+aŭskultas.
+
+LINDE. Nun vi aŭskultu, Nora; en multaj rilatoj vi ankoraŭ
+estas kiel infano; mi estas ja konsiderinde pli aĝa ol vi, kaj
+havas iom pli da sperto. Mi volas diri ion al vi: Vi devas eltiri
+vin el tio ĉi kun doktoro Rank.
+
+NORA. El kio mi devus eltiri min?
+
+LINDE. El io kaj tio, mi opinias. Hieraŭ vi parolis pri iu riĉa
+adoranto, kiu havigus al vi monon --
+
+NORA. Jes, iu kiu ne ekzistas -- bedaŭrinde. Sed kio plue?
+
+LINDE. Ĉu doktoro Rank estas riĉa?
+
+NORA. Jes, li estas.
+
+LINDE. Kaj havas neniun prizorgendan?
+
+NORA. Ne, neniun; sed --?
+
+LINDE. Kaj li vizitas vin ĉi-hejme ĉiun tagon?
+
+NORA. Jes, kiel vi aŭdas.
+
+LINDE. Sed kiel povas tiu bonkonduta sinjoro tiel persiste
+altrudi sin?
+
+NORA. Mi vin tute ne komprenas.
+
+LINDE. Ne ŝajnigu, Nora. Ĉu vi opinias, ke mi ne komprenas, de
+kiu vi pruntis la mil ducent talerojn?
+
+NORA. Ĉu vi estas freneza? Ion tian imagi! Unu el niaj amikoj,
+kiu vizitas nin ĉiun opan tagon! Kia terure ĝena situacio tio
+estus?
+
+LINDE. Do vere ne li?
+
+NORA. Ne, mi certigas al vi. Neniam eĉ momente povus veni al mi
+en la kapon --. Tiam li ankaŭ ne havis monon por pruntedoni; nur
+longe poste li heredis.
+
+LINDE. Nu, tio, mi opinias, estis bonŝanco por vi, mia kara
+Nora.
+
+NORA. Ne, vere ne; neniam venus al mi en la kapon peti doktoron
+Rank --. Cetere mi estas tute certa, ke se mi demandus lin --
+
+LINDE. Sed tion vi kompreneble ne faros.
+
+NORA. Kompreneble ne. Ŝajnas al mi, ke mi ne bezonas timi, ke
+tio fariĝus necesa. Sed mi estas tute certa, ke se mi parolus al
+doktoro Rank --
+
+LINDE. Malantaŭ la dorso de via edzo?
+
+NORA. Mi devas liberigi min el tio alia; ankaŭ tio estas
+malantaŭ lia dorso. Mi _devas_ liberigi min el tio.
+
+LINDE. Jes ja, tion mi ankaŭ hieraŭ diris; sed --
+
+NORA (paŝadas sur la planko). Viro pli bone ol virino
+manipulas tiaĵojn --
+
+LINDE. La edzo, jes.
+
+NORA. Babilaĉo. (haltas) Kiam oni pagas sian tutan ŝuldon, tiam
+oni ja rericevos la ateston?
+
+LINDE. Kompreneble, jes.
+
+NORA. Kaj oni povas disŝiri ĝin en cent mil pecetojn kaj
+forbruligi ĝin, -- la abomenan, malpuran paperon!
+
+LINDE (rigardas ŝin atente, formetas la kudraĵon kaj stariĝas
+malrapide). Nora, vi kaŝas ion por mi.
+
+NORA. Ĉu tiel mi aspektas?
+
+LINDE. Io okazis al vi post hieraŭ matene. Nora, kio estas?
+
+NORA (proksimiĝas al ŝi). Kristine! (aŭskultas) Ts! Torvald
+nun venis hejmen. Jen; sidigu vin ĉe la infanoj dume. Torvald ne
+toleras vidi tajloraĵon. Petu al Anne-Marie helpi vin.
+
+LINDE (kolektas kelkajn el la aĵoj). Nu jes, sed mi ne foriros
+de ĉi tie, antaŭ ol ni sincere interparolis.
+
+(Eliras maldekstren; samtempe _Helmer_ envenas el la
+antaŭĉambro)
+
+NORA (renkontas lin). Ho, kiom mi atendadis vin, kara
+Torvald.
+
+HELMER. Ĉu estas la kudristino --?
+
+NORA. Ne, estas Kristine, ŝi helpas min pretigi mian kostumon.
+Imagu kiom belaspekta mi estos.
+
+HELMER. Jes, ĉu ne estis sukcesa ideo de mi?
+
+NORA. Bonega! Sed ĉu mi ne estas ĝentila obeante vin?
+
+HELMER (prenas ŝin sub la mentono). Ĝentila -- ĉar vi obeas
+vian edzon? Nu, nu, vi eta petolulino, mi bone scias, ke vi nur
+ŝercas. Sed mi ne volas ĝeni vin; vi devas provi, mi supozas.
+
+NORA. Kaj vi laboros kompreneble?
+
+HELMER. Jes (montras paketon de dokumentoj) Rigardu. Mi vizitis
+la bankon -- (volas eniri sian ĉambron)
+
+NORA. Torvald.
+
+HELMER (haltas). Jes.
+
+NORA. Se via sciureto elkore petus vin pri io --?
+
+HELMER. Kio do?
+
+NORA. Ĉu vi tion volus fari?
+
+HELMER. Unue mi devas kompreneble scii, kio tio estas.
+
+NORA. La sciuro ĉirkaŭkurus petole, se vi volus esti afabla kaj
+konsentema.
+
+HELMER. Eldiru do.
+
+NORA. La alaŭdo kvivitus en ĉiuj ĉambroj supre kaj
+malsupre.
+
+HELMER. Nu ja, tion la alaŭdo ja tamen faras.
+
+NORA. Mi ludus elfknabinon, kaj dancus por vi en la lunlumo,
+Torvald.
+
+HELMER. Nora, -- ĉu ne estas tio sama, kion vi aludis en la
+mateno?
+
+NORA (pli proksime). Jes, Torvald, mi vere petegas vin!
+
+HELMER. Kaj vi eĉ kuraĝas remueli tiun aferon?
+
+NORA. Jes, jes, vi devas cedi al mi: Vi devas lasi al Krogstad
+havi sian oficon en la banko.
+
+HELMER. Mia kara Nora, lian oficon mi decidis por sinjorino
+Linde.
+
+NORA. Jes, estas ege bonvole de vi; sed vi povas ja maldungi
+alian oficiston anstataŭ Krogstad.
+
+HELMER. Tio ja estas nekredebla obstineco! Ĉar vi delogiĝis
+senpripense doni promeson pledi por li, mi farus --!
+
+NORA. Ne estas tial, Torvald. Estas por vi mem. Tiu viro skribas
+ja en la plej fiaj gazetoj; tion vi ja mem diris. Li povas fari al
+vi nedireblan malbonon. Vere mi morte timas lin --
+
+HELMER. Aha, mi komprenas; estas malnovaj memoraĵoj kiuj hantas
+vin.
+
+NORA. Al kio vi aludas?
+
+HELMER. Evidente vi pensas pri via patro.
+
+NORA. Jes; jes certe. Memoru nur kiel malicaj homoj skribis en la
+gazetoj pri paĉjo, kaj kalumniis lin tiel kruele. Mi kredas, ke
+ili igus lin maldungata, se la ministerio ne estus vin sendinta
+tien por ekzameni, kaj se vi ne estus tiom bonvola kaj helpema al
+li.
+
+HELMER. Mia Nonjo; estas konsiderinda diferenco inter via patro
+kaj mi. Via patro ne estis neriproĉebla ŝtata oficisto. Sed tio
+estas mi; kaj tio, mi esperas, ke mi restos tiom longe kiom mi
+tenas mian oficon.
+
+NORA. Ho, neniu scias kion malicaj homoj povas elpensi. Nun ni
+povus vivi hejmece, trankvile kaj feliĉe ĉi tie en nia paca
+senzorga hejmo, -- vi kaj mi kaj la infanoj, Torvald! Jen kial mi
+petas vin el mia koro --
+
+HELMER. Kaj ĝuste per via propeto pri li vi neebligas al mi
+reteni lin. Estas jam konate en la banko, ke mi volas maldungi tiun
+Krogstad. Se nun oni dirus, ke la nova bankdirektoro permesus al
+sia edzino ŝanĝi lian decidon --
+
+NORA. Jes, kaj kio do --?
+
+HELMER. Ne, kompreneble; kiam oni nur plenumus la volon de la
+obstinulineto --. Mi ridindigus min antaŭ la tuta personaro, --
+pensigus al la homoj, ke mi estas dependanta de ĉiaspecaj fremdaj
+influoj? Ja, kredu, mi baldaŭ spertus la rezultojn! Kaj krome, --
+estas rilato koncerne Krogstad, kiu igas lin neuzebla en la banko,
+tiom longe kiom mi staras kiel direktoro.
+
+NORA. Kaj kio do estas tio?
+
+HELMER. Pri lia morala difekto mi eble povus fermi la okulojn --
+
+NORA. Jes, ĉu ne, Torvald?
+
+HELMER. Kaj mi aŭdas, ke li ankaŭ estas sufiĉe lerta. Sed li
+estas dejuneca konato de mi. Estas unu el tiuj senkonsideraj
+konatecoj, de kiuj oni multfoje poste estas ĝenata. Nu, mi povas
+ja diri al vi tute senpere: Ni antaŭnomiĝas. Kaj tiu nediskreta
+homo tion ne kaŝas, kiam aliuloj ĉeestas. Kontraŭe, -- li opinias
+ke tio rajtigas lin familiare konduti al mi; kaj ĉiumomente li
+anoncas sian: "Vi, vi Torvald." Mi asertas al vi, ke tio tuŝas
+min malagrable. Li farus mian staton en la banko netolerebla.
+
+NORA. Torvald, ĉio ĉi ne estas via sincera opinio.
+
+HELMER. Nu? Kaj kial ne?
+
+NORA. Ne, ĉar estas ja nur malgrandanimaj konsideroj.
+
+HELMER. Kion vi diras? Malgrandanimaj? Vi trovas min
+malgrandanima!
+
+NORA. Ne, kontraŭe, kara Torvald; kaj ĝuste tial --
+
+HELMER. Egale; vi nomas miajn motivojn malgrandanimaj; do ankaŭ
+mi tia estas. Malgrandanima! Nu, tiel! -- Kredu min, tio nun havu
+finon. (iras al la pordo de la antaŭĉambro kaj vokas) Helene!
+
+NORA. Kion vi volas?
+
+HELMER (serĉas inter siaj paperoj). Decidon. (La
+_ĉambristino_ envenas.)
+
+HELMER. Jen; prenu tiun ĉi leteron; iru kun ĝi tuj; trovu
+portiston, kaj igu lin ekspedi ĝin. Sed rapide. La adreso estas
+surskribita. Jen mono.
+
+ĈAMBRISTINO. Bone. (eliras kun la letero)
+
+HELMER. Jen jen, mia eta sinjorino obstinulino.
+
+NORA (senspire). Torvald, -- kiu letero estis tiu?
+
+HELMER. La maldungo de Krogstad.
+
+NORA. Revoku ĝin, Torvald! Ankoraŭ estas tempo. Ho, Torvald,
+revoku ĝin! Faru tion por mi; -- por vi mem; por la infanoj! Aŭdu,
+Torvald; faru! Vi ne scias, kion tio povos venigi sur nin
+ĉiujn.
+
+HELMER. Tro malfrue.
+
+NORA. Jes, tro malfrue.
+
+HELMER. Kara Nora, mi pardonas al vi tiun timon, kiu kaptis vin,
+kvankam ĝi funde estas insulto kontraŭ mi. Jes, vere estas! Aŭ
+ĉu ne estas insulto kredi, ke mi timu venĝon de tia povra
+fijuristo? Sed mi tamen pardonas vin, ĉar la timo bele atestas pri
+via granda amo al mi. (prenas ŝin inter siajn brakojn)
+Tiel estu, mia propra kara Nora. Okazu kio ajn. Kiam vere
+gravas, kredu, mi havas kuraĝon kaj fortojn. Vi vidos, ke mi estas
+viro por preni ĉion sur min.
+
+NORA (timigita). Kion vi aludas per tio?
+
+HELMER. Mi diras: Ĉion --
+
+NORA (decide). Tion vi neniam en eterno faru.
+
+HELMER. Bone, do ni dividu, Nora, -- kiel edzo kaj edzino. Estas
+kiel devas esti. (karesas ŝin) Ĉu vi nun estas kontenta? Nu, nu,
+nu; ne tiujn timajn kolombokulojn. La tuto estas ja nuraj
+senenhavaj imagaĵoj. -- Nun vi devus traludi la Tarantelon kaj
+ekzerci per la tamburino. Mi sidigos min en la interna kontoro kaj
+fermos ambaŭ pordojn, sekve mi aŭdos nenion; vi povos fari tiom
+da bruo kiom vi deziras. (turnas sin ĉe la pordo) Kaj kiam doktoro
+Rank venos, diru al li kie li trovos min.
+
+(Li kapsalutas ŝin, iras kun siaj dokumentoj en sian ĉambron
+kaj fermas post si)
+
+NORA (konfuzita de timo, staras kvazaŭ najlita, flustras).
+Li estis kapabla fari tion. Li faras. Li faros spite al ĉio en
+la mondo. -- Ne, neniam en eterneco tion! Prefere kion ajn! Savon! --
+Eliron -- (oni sonorigas en la antaŭĉambro) Doktoro Rank --!
+Prefere kion ajn! Prefere _ĉion_, kio ajn ĝi estu!
+
+(Ŝi glatigas sian vizaĝon, rektigas sin, kaj iras por malfermi
+la pordon de la antaŭĉambro. _Doktoro Rank_ staras tie,
+pendigante sian pelton; dum la sekvanta sceno malheliĝas.)
+
+NORA. Bonan tagon, doktoro Rank. Mi rekonas vian sonorigadon. Sed
+ne eniru ĉe Torvald nun; ĉar mi opinias ke li estas iom
+okupata.
+
+RANK. Kaj vi?
+
+NORA (dum li eniras kaj ŝi fermas la pordon malantaŭ li). Ho,
+tion vi bone scias, -- por vi mi ĉiam havas kroman tempon.
+
+RANK. Pro tio dankon. De tio mi profitos tiom longe kiom mi
+povos.
+
+NORA. Al kio vi aludas? Tiom longe, kiom vi povos?
+
+RANK. Jes. Ĉu tio skuas vin?
+
+NORA. Nu, estas iom stranga esprimo. Ĉu io okazus?
+
+RANK. Okazos tio, pri kio mi longe estas pretigita. Sed mi vere
+ne kredis, ke okazus tiom frue.
+
+NORA (prenas lian brakon). Pri kio vi sciiĝis? Doktoro Rank,
+diru al mi!
+
+RANK (sidigas sin apud la forno). Pri mi malboniĝas, kaj estas
+nenio farebla pri tio.
+
+NORA (spiras liberigita). Pri vi --?
+
+RANK. Pri kiu alia? Ne utilas mensogi por si mem. Mi estas la
+plej mizera el ĉiuj miaj pacientoj, Sinjorino Helmer. Dum kelkaj
+tagoj mi faris ĝeneralan bilancon de mia interna stato. Bankroto.
+Post unu monato mi eble kuŝos putrante tie supre en la
+tombejo.
+
+NORA. Fi, fi, kiel naŭze vi parolas.
+
+RANK. La afero ankaŭ estas malbenite naŭza. Sed la plej naŭza
+estas, ke antaŭos tiom da aliaj abomenaĵoj. Restas nur unu sola
+ekzameno; kiam tiu estos finita, mi scios proksimume, kiam
+komenciĝos la putrado. Estas io, kion mi volas diri al vi. Helmer
+pro sia delikata naturo sentas karakterizan abomenon kontraŭ ĉio
+malbelega. Mi ne volas akcepti lin en mian malsanulĉambron.
+
+NORA. Ho, tamen doktoro Rank --
+
+RANK. Mi ne volas havi lin tie. Neniel. Mi fermos mian pordon por
+li. -- Tuj kiam mi certe scios pri la dissolva fino, mi sendos al vi
+mian vizitkarton kun nigra kruco, kaj tiam vi scios, ke la diseriga
+abomenaĵo komenciĝis.
+
+NORA. Ne ne, hodiaŭ vi estas ja tute absurda. Kaj mi kiu tiom
+dezirus, ke vi estu en precipe bona humoro.
+
+RANK. Kun la morto en la manoj? -- Kaj tiel punpagi por la kulpo
+de aliulo. Ĉu estas justeco en tio? Kaj en kiu ajn familio regas
+iamaniere tia senkompata fatalo --
+
+NORA (kovras la orelojn). Pa, pa! Gaje; gaje!
+
+RANK. Jes, mi ĵuras, la tuto estas efektive nura ridindaĵo. Mia
+povra, senkulpa spino devas suferi pro la gajaj leŭtenantaj tagoj
+de mia patro.
+
+NORA (apud la maldekstra tablo). Li ja fordonis sin al asparagoj
+kaj pasteĉoj el anserhepato. Ĉu ne tiel?
+
+RANK. Jes; kaj al trufoj.
+
+NORA. Jes trufoj, jes ja. Kaj al ostroj, mi kredas?
+
+RANK. Jes ostroj, ostroj; kompreneble.
+
+NORA. Jes, kaj aldone la boteloj da portvino kaj ĉampano.
+Bedaŭrinde ke ĉiuj tiuj delikataĵoj ataku la spinon.
+
+RANK. Precipe bedaŭrinde ĉar ili atakas malfeliĉan spinon, kiu
+ĝuis eĉ ne guton da ili.
+
+NORA. Ak jes, estas ja tio la plej bedaŭrinda.
+
+RANK (rigardas ŝin esplore). Hm --
+
+NORA (iom poste). Kial vi ridetis?
+
+RANK. Ne, estas vi kiu ridis.
+
+NORA. Ne, estas vi kiu ridetis, doktoro Rank!
+
+RANK (ekstaras). Vi certe estas pli granda petolulino, ol mi
+imagis.
+
+NORA. Mi estas tiel incitita al frenezaĵoj hodiaŭ.
+
+RANK. Aspektas tiel.
+
+NORA (kun la manoj sur liaj ŝultroj). Kara, kara doktoro Rank,
+vi ne formortu de Torvald kaj mi.
+
+RANK. Nu, tiun postsopiron vi certe eltenos facile. Tiu baldaŭ
+forgesiĝas, kiu foriras.
+
+NORA (rigardas lin en timo). Vi tion opinias?
+
+RANK. Oni ligas novajn kontaktojn, kaj tiam --
+
+NORA. Kiu ligas novajn kontaktojn?
+
+RANK. Tion faros vi ambaŭ, kiam mi estos for. Vi mem jam estas
+sur la vojo, mi opinias. Pro kio ĉeestis tiu sinjorino Linde ĉi
+tie hieraŭ?
+
+NORA. Aha. -- ĉu vere vi estas ĵaluza pri la kompatinda
+Kristine?
+
+RANK. Jes, mi estas. Ŝi prenos mian lokon en la domo. Kiam mi
+forestos, eble tiu ino --
+
+NORA. Ts, ne parolu tiom laŭte; ŝi sidas en la apuda
+ĉambro.
+
+RANK. Eĉ hodiaŭ? Jen vi vidas.
+
+NORA. Nur por kudri mian kostumon. Bona Dio, kiom maljusta vi
+estas. (eksidas sur la sofon) Estu saĝa, doktoro Rank; morgaŭ vi
+vidos kiel bele mi dancos; kaj tiam vi imagu, ke mi tion faras nur
+por vi, -- ja, kompreneble ankaŭ por Torvald; evidente. (prenas
+kelkajn aĵojn el la skatolo) Doktoro Rank, sidigu vin ĉi tie, kaj
+mi montros ion al vi.
+
+RANK (sidigas sin). Kio estas?
+
+NORA. Jen. Rigardu!
+
+RANK. Silkoŝtrumpojn.
+
+NORA. Karnokolorajn. _Delikatajn_, ĉu ne? Tamen nun estas
+mallume; sed morgaŭ -- Ne, ne, ne; vi nur rigardu la piedpecon. Nu
+do, vi povas vidi ankaŭ la supron.
+
+RANK. Hm --
+
+NORA. Kial vi aspektas tiel kritikema? Ĉu vi kredas ke ili ne
+estas laŭmezuraj?
+
+RANK. Pri tio neeblas por mi havi iun pravigitan opinion.
+
+NORA (rigardas lin momenton). Fi, honton al vi.
+(frapetas lin sur la orelon per la ŝtrumpoj) Tio estu por vi. (ree
+enpakas ilin)
+
+RANK. Kaj kiujn aliajn admirindaĵojn povos mi vidi?
+
+NORA. Eĉ ne iometon pli vi rajtas vidi; ĉar vi estas
+malbonkonduta. (ŝi kantetas kaj serĉas inter la aĵoj)
+
+RANK (post mallonga paŭzo). Kiam mi sidas tiel tute intime kune
+kun vi, tiam mi ne komprenas -- ne, mi ne konceptas -- kio fariĝus
+el mi se mi neniam estus veninta en tiun ĉi domon.
+
+NORA (ridetas). Jes, mi vere opinias, ke vi sentas vin sufiĉe
+komforta ĉe ni.
+
+RANK (pli mallaŭte; rigardas antaŭen). Kaj jen esti devigata
+forlasi ĉion --
+
+NORA. Pa, pa; vi nenion forlasos.
+
+RANK (kiel antaŭe). -- kaj eĉ ne povran signon de dankemo povas
+mi postlasi; apenaŭ efemeran postsopiron, -- nenio krom vaka loko,
+kiun la unue venanta povos okupi.
+
+NORA. Kaj se mi nun petus vin pri --? Ne --
+
+RANK. Pri kio?
+
+NORA. Pri granda pruvo pri via amikeco --
+
+RANK. Jes, Jes?
+
+NORA. Nu, mi celas, -- ege grandan servon --
+
+RANK. Ĉu vi vere unu fojon volus igi min tiom feliĉa?
+
+NORA. Ho, vi ja tute ne scias, pri kio temas.
+
+RANK. Nu, bone; do diru al mi.
+
+NORA. Ne, ĉar mi ne povas, doktoro Rank; estas io tiom ekstreme
+ega, -- kaj konsilo kaj helpo kaj servo --
+
+RANK. Des pli bone. Estas por mi neimageble al kio vi aludas. Sed
+diru do. Ĉu mi ne havas vian konfidon?
+
+NORA. Jes, vi havas pli ol kiu ajn alia homo. Vi estas mia plej
+fidela kaj bona amiko, mi ja scias. Ĝuste tial mi volas diri tion
+al vi. Do bone, doktoro Rank; estas io, kion vi devas helpi min, ke
+ne okazu. Vi scias kiom kore, korege Torvald amas min; neniun
+momenton li hezitus fordoni sian vivon por mi.
+
+RANK (klinita kontraŭ ŝi). Nora, -- ĉu vi do kredas, ke li
+estas la sola --?
+
+NORA (kun ekmoveto). -- kiu --?
+
+RANK. Kiu ĝoje fordonus sian vivon por vi.
+
+NORA (peze). Nu do tiel.
+
+RANK. Mi ĵuris en mi mem, ke vi tion sciu, antaŭ ol mi foriros.
+Pli bonan okazon mi neniam trovus. -- Jes, Nora, nun vi scias. Kaj
+nun vi ankaŭ scias, ke al mi vi povas vin konfidi, kiel al neniu
+alia.
+
+NORA (stariĝas; trankvile kaj sen abrupto). Lasu min pasi.
+
+RANK (liberigas lokon por ŝi, sed restas sidanta). Nora --
+
+NORA (ĉe la pordo de la antaŭĉambro). Helene, enportu la
+lampon -- (iras al la forno) Ak, kara doktoro Rank, tio estis
+vere malbele farita de vi.
+
+RANK (ekstaras). Ke mi amas vin eĉ pli profunde ol kiu ajn alia?
+Ĉu _tio_ estas malbela?
+
+NORA. Ne, sed ke vi lasis vin mem elbabili. Tio estis ja tute ne
+necesa --
+
+RANK. Kion vi aludas? Ĉu vi do sciis --?
+
+(La _ĉambristino_ envenas kun la lampo, metas ĝin sur la
+tablon kaj ree eliras.)
+
+RANK. Nora, -- sinjorino Helmer, -- mi demandas vin, ĉu vi ion
+sciis?
+
+NORA. Ho, kiel mi sciu, kion mi sciis aŭ ne sciis? Mi vere ne
+povas diri al vi --. Ho, ke vi estus tiel mallerta, doktoro Rank!
+Ĉio estis ja nun tiel bona.
+
+RANK. Nu, vi almenaŭ nun scias, ke mi estas je via dispono kun
+vivo kaj animo. Ĉu vi nun volas malkaŝe paroli?
+
+NORA (rigardas lin). Post tio?
+
+RANK. Mi petas vin, sciigu al mi kio estas.
+
+NORA. Nenion vi povas nun ekscii.
+
+RANK. Tamen tiel vi ne devas puni min. Permesu al mi fari por vi
+tion, kio estas en homa eblo.
+
+NORA. Nun vi povas por mi nenion fari. -- Cetere mi ne bezonas iun
+helpon. Eble ĉio estas nur imagaĵoj. Certe tiel estas.
+Kompreneble! (sidigas sin en la balancan seĝon, rigardas lin,
+ridas) Ja, ja, doktoro Rank, vi vere estas iom galanta sinjoro. Kaj
+ĉu vi ne trovas kaŭzon por honto, nun kiam la lampo estas
+enportita?
+
+RANK. Ne; vere ne! Sed eble mi foriru -- por ĉiam?
+
+NORA. Ne, tion vi absolute ne faru. Kompreneble vi venu ĉi tien
+kiel ĝis nun. Vi bone scias, ke Torvald ne povas malhavi vin.
+
+RANK. Jes, sed _vi_?
+
+NORA. Ho, mi ĉiam trovas ke fariĝas ege amuze, kiam vi
+venas.
+
+RANK. Estas ĝuste tio, kio delogis min sur malĝustan vojon. Vi
+estas por mi enigmo. Multfoje ŝajnis al mi, ke vi same prefere
+estis kune kun mi, kiel kune kun Helmer.
+
+NORA. Jes, komprenu, estas ja kelkaj homoj, kiujn oni pleje amas,
+kaj aliaj homoj kun kiuj oni iel preferas kunesti.
+
+RANK. Nu ja, estas iu senco en tio.
+
+NORA. Kiam mi loĝis hejme, mi ja pleje amis paĉjon. Sed estis
+por mi ĉiam ege amuze, kiam mi povis ŝteliri en la ĉambron de la
+servistinoj; ĉar ili tute ne admonadis min; kaj krome ili rakontis
+tiom tiklajn amuzaĵojn inter si.
+
+RANK. Aha; do estas _ili_, kiujn mi anstataŭis.
+
+NORA (saltlevigas sin kaj iras al li). Ho, kara, ege bonanima
+doktoro Rank, tion mi ne celis. Sed vi bone komprenu, ke estas pri
+Torvald kiel pri paĉjo --
+
+(La _ĉambristino_ venas el la antaŭĉambro)
+
+ĈAMBRISTINO. Sinjorino! (flustras kaj donas al ŝi karton)
+
+NORA (ĵetrigardas la karton). Ah! (metas ĝin en la poŝon)
+
+RANK. Io malagrabla okazanta?
+
+NORA. Ne ne, neniel; estas nur io --; estas mia nova kostumo --
+
+RANK. Kiel? Tie kuŝas ja via kostumo.
+
+NORA. Ho jes, tiu; sed estas alia; mi mendis ĝin -- Torvald ne
+sciu pri ĝi --
+
+RANK. Aha, tie estas ja la granda sekreto.
+
+NORA. Jes vere; eniru al li; li sidas en la interna ĉambro; tenu
+lin okupata dume -- -- --
+
+RANK. Estu trankvila; mi ne ellasos lin.
+
+(Li iras en la ĉambron de _Helmer_.)
+
+NORA (al la ĉambristino). Li atendas en la kuirejo?
+
+ĈAMBRISTINO. Jes, li suprenvenis la kuirejan ŝtuparon --
+
+NORA. Sed ĉu vi ne diris, ke gasto jam ĉeestas?
+
+ĈAMBRISTINO. Jes, sed ne helpis.
+
+NORA. Li ne volis foriri?
+
+ĈAMBRISTINO. Ne, li ne foriros antaŭ ol li parolis kun
+sinjorino.
+
+NORA. Do, enlasu lin; sed silente. Helene, vi ne diru al iu ajn;
+estas surprizo por mia edzo.
+
+ĈAMBRISTINO. Jes ja, mi komprenas -- (ŝi eliras.)
+
+NORA. Okazos la teruraĵo. Ĝi tamen venos. Ne, ne, ne. Ne povas
+okazi; ne okazu.
+
+(Ŝi iras kaj riglas la pordon de _Helmer._)
+
+(La _ĉambristino_ malfermas la pordon de la antaŭĉambro
+por _juristo Krogstad_, kaj fermas malantaŭ li. Li estas
+vestita en vojaĝpelto, botoj kaj felĉapo.)
+
+NORA (proksimiĝas al li). Parolu mallaŭte; mia edzo estas
+hejme.
+
+KROGSTAD. Nu, lasu lin.
+
+NORA. Kion vi volas?
+
+KROGSTAD. Informiĝi pri io.
+
+NORA. Do, rapide. Kio estas?
+
+KROGSTAD. Vi certe scias, ke mi ricevis mian maldungon.
+
+NORA. Mi ne povis malhelpi ĝin, sinjoro Krogstad. Mi batalis
+ĝis ekstremo por via afero; sed helpis neniom.
+
+KROGSTAD. Ĉu via edzo ne havas pli da amo al vi? Li scias pri
+kio mi povas endanĝerigi vin, sed tamen li kuraĝas --
+
+NORA. Kiel povas vi imagi, ke li sciiĝis pri tio?
+
+KROGSTAD. Ho ne, mi ankaŭ tion ne pensis. Ne karakterizus mian
+bonan Torvald Helmer montri tiom da vira kuraĝo --
+
+NORA. Sinjoro Krogstad, mi postulas estimon por mia edzo.
+
+KROGSTAD. Dio gardu, ĉian ŝuldatan estimon. Sed ĉar sinjorino
+tiel timeme tenas la aferon kaŝita, mi rajtas supozi, ke post
+hieraŭ vi iom pli bone informiĝis pri la graveco de tio, kion vi
+vere faris?
+
+NORA. Pli ol _vi_ iam ajn povus al mi instrui.
+
+KROGSTAD. Jes, tia malbona juristo, kia mi estas --
+
+NORA. Kion vi intencas pri mi?
+
+KROGSTAD. Nur vidi kiel pri vi statas, sinjorino Helmer. Mi
+estas pensanta pri vi la tutan tagon. Vidu, enkasigisto,
+leĝkanajlo, iu -- nu iu, kiel mi, ankaŭ havas iom da tio, kion oni
+nomas bonkorecon.
+
+NORA. Do montru tion; pripensu miajn etajn infanojn.
+
+KROGSTAD. Ĉu vi kaj via edzo pensis pri la miaj? Sed lasu nun
+tion. Mi nur volis diri, ke ne necesas trakti tiun aferon tro
+serioze. Ĝis plue ne okazos iu jura plendo de mia flanko.
+
+NORA. Ho jes, ĉu ne; tion mi ja sciis.
+
+KROGSTAD. La aferon ni povas ordigi per interkonsento; ne necesas
+publikigi ĝin; ĝi restos inter ni tri.
+
+NORA. Mia edzo devas nenion pri tio scii.
+
+KROGSTAD. Kiel vi povas malhelpi tion? Ĉu eble vi povas pagi la
+restantan sumon?
+
+NORA. Ne, ne tuj.
+
+KROGSTAD. Aŭ ĉu vi eble vidas rimedon havigi monon unu el la
+proksimajn tagojn?
+
+NORA. Neniun rimedon kiun mi volas uzi.
+
+KROGSTAD. Nu, ĉiuokaze por vi ne utilus. Se vi starus ĉi tie
+kun la plej granda sumo imagebla en la mano, vi tamen ne rericevus
+de mi vian ŝuldateston.
+
+NORA. Do, klarigu al mi por kio vi ĝin uzos.
+
+KROGSTAD. Mi nur retenos ĝin, -- gardos ĝin zorge. Neniu
+nekoncernato ion flaros. Se vi tial estus pensanta pri iu ekstrema
+decido en malespero --
+
+NORA. Mi faras.
+
+KROGSTAD. -- se vi intencus forkuri de domo kaj hejmo --
+
+NORA. Mi faras!
+
+KROGSTAD. -- aŭ se vi pensus pri tio, kio estas ankoraŭ pli
+malespera --
+
+NORA. Kiel vi povas scii tion?
+
+KROGSTAD. -- forviŝu tiajn ideojn.
+
+NORA. Kiel vi povas scii, ke mi pensas pri _tio_?
+
+KROGSTAD. La plimulto el ni pensas _tiel_ komence. Ankaŭ mi
+pensis pri tio; sed honton al mi, mi ne havis kuraĝon --
+
+NORA (senvoĉe). Ankaŭ mi ne.
+
+KROGSTAD (senŝarĝigita). Ĉu ne vere; ankaŭ vi ne
+kuraĝas?
+
+NORA. Mi ne kuraĝas; mi ne kuraĝas.
+
+KROGSTAD. Estus ankaŭ ega stultaĵo. Post la kulmino de la unua
+familia ŝtormo --. Mi havas en mia poŝo leteron al via edzo --
+
+NORA. Kaj tie vi rakontas ĉion?
+
+KROGSTAD. En kiel eble plej indulgaj esprimoj.
+
+NORA (rapide). Tiun leteron li ne ricevu. Disŝiru ĝin. Mi tamen
+havigos monon.
+
+KROGSTAD. Pardonu, Sinjorino, sed ĉu mi ne ĵus diris al vi --
+
+NORA. Ba! Mi ne parolas pri la mono, kiun mi al vi ŝuldas. Diru
+al mi kioman sumon vi postulas de mia edzo, kaj mi havigos al vi la
+monon.
+
+KROGSTAD. Mi postulas neniun monon de via edzo.
+
+NORA. Kion vi do postulas?
+
+KROGSTAD. Tion vi sciu. Mi volas min restarigi, sinjorino; volas
+supren; kaj por tio via edzo helpu min. Dum unu jaro kaj duono mi
+faris nenion malhonestan; en tiu periodo mi batalis kontraŭ peniga
+malriĉeco; mi estis kontenta laborigante min supren ŝtupon post
+ŝtupo. Nun mi estas forpelita, kaj mi ne lasas min kontentigi nur
+per indulga reakcepto. Mi volas supren, aŭdu. Mi volas reen en la
+bankon, -- ekhavi pli altan postenon; via edzo starigu postenon por
+mi --
+
+NORA. Tion li neniam faros!
+
+KROGSTAD. Li faros; mi konas lin; li eĉ ne kuraĝos grumbli. Tuj
+kiam mi estos tie interne kune kun li, vi vidos! Post jaro mi estu
+la dekstra mano de la direktoro. Estos Nils Krogstad kaj ne Torvald
+Helmer, kiu estros la Akciobankon.
+
+NORA. Tion vi neniam spertos!
+
+KROGSTAD. Eble vi volas --?
+
+NORA. Nun mi kuraĝas.
+
+KROGSTAD. Pa, vi ne timigas min. Delikata, dorlotata sinjorino,
+kiel vi --
+
+NORA. Vi vidos; vi vidos!
+
+KROGSTAD. Sub la glacio, eble? Profunde en la malvarma,
+karbonigra akvo? Kaj poste en la printempo flosanta elprofunde,
+malbela, nerekonebla, kun defalanta hararo.
+
+NORA. Vi ne timigas min.
+
+KROGSTAD. Ankaŭ vi ne timigas min. Tiaĵojn oni ne faras,
+sinjorino Helmer. Krome por kio utilus? Mi tamen havas lin en la
+poŝo.
+
+NORA. Poste? Kiam mi ne plu --?
+
+KROGSTAD. Ĉu vi forgesas, ke tiam _mi_ decidos pri via
+reputacio?
+
+(_Nora_ konsternita staras lin rigardante)
+
+KROGSTAD. Nu jes, nun mi avertis vin. Ne faru iun stultaĵon.
+Kiam Helmer estos ricevinta mian leteron, mi atendos mesaĝon de
+li. Kaj bone memoru, ke estas via edzo, kiu mem devigis min denove
+iri tian vojon. Tion mi neniam pardonos al li. Adiaŭ, sinjorino.
+(Li eliras tra la antaŭĉambro.)
+
+NORA (al la pordo de la antaŭĉambro, malfermas ĝin duone kaj
+ŝtelaŭskultas). Foriras. Ne liveras la leteron. Ho ne, ne, estus
+ja tute neeble! (malfermas la pordon pli kaj pli) Kio estas?
+Li staras ekstere. Ne malsupreniras la ŝtuparon. Ĉu li
+hezitas? Li eble --?
+
+(Letero falas en la leterskatolon; poste oni aŭdas la paŝojn
+de _Krogstad_ perdiĝantaj malsupre de la ŝtuparo)
+
+NORA (kun mallaŭta ekkrio, kuras trans la plankon kaj al la tablo
+apud la sofo; mallonga paŭzo). En la leterskatolo! (ŝteliras
+timeme al la pordo de la antaŭĉambro) Tie ĝi kuŝas. -- Torvald,
+Torvald, -- nun ni estas sensavaj!
+
+LINDE (venas kun la kostumo el la maldekstra ĉambro). Nun mi ne
+trovas ion plian por ripari. Eble ni surprovu --?
+
+NORA (raŭke kaj mallaŭte). Kristine, venu ĉi tien.
+
+LINDE (ĵetas la kostumon sur la sofon). Kio estas al vi? Vi
+aspektas kiel konfuzita.
+
+NORA. Venu. Vi vidas tiun leteron? _Tie_; vidu, -- tra la
+vitraĵo en la leterskatolo.
+
+LINDE. Jes, jes; mi bone vidas.
+
+NORA. Tiu letero estas de Krogstad --
+
+LINDE. Nora, -- estas Krogstad, kiu pruntedonis al vi la
+monon!
+
+NORA. Jes, kaj nun Torvald sciiĝos pri ĉio.
+
+LINDE. Kredu min, Nora, estas la pli bona por vi ambaŭ.
+
+NORA. En tio estas pli, ol vi scias. Mi skribis falsan nomon.
+
+LINDE. Sed pro la ĉielo --?
+
+NORA. Nun restas nur diri al vi, Kristine, ke vi estu mia
+atestanto.
+
+LINDE. Atestanto? Kiel? Kion mi --?
+
+NORA. Se mi freneziĝos, -- kaj tio ja povus okazi --
+
+LINDE. Nora!
+
+NORA. Aŭ se io alia al mi okazus, -- io, tiel ke mi ne povus
+ĉeesti tie ĉi --
+
+LINDE. Nora, Nora, vi estas ja tute kiel freneza!
+
+NORA. Se estus iu, kiu volus preni sur sin la tutan kulpon, vi
+komprenas --
+
+LINDE. Jes, ja, sed kiel vi povus pensi --?
+
+NORA. Tiam vi atestu, ke ne estas vero, Kristine. Mi tute ne
+estas freneza; mi havas mian plenan prudenton nun; kaj mi diras al
+vi: Neniu alia sciis pri la afero. Mi sola faris ĉion. Memoru
+tion.
+
+LINDE. Mi faros. Sed mi ne komprenas ĉion ĉi.
+
+NORA. Ho, kiel vi tion komprenus? Estas ja la mirindaĵo, kiu nun
+okazos.
+
+LINDE. La mirindaĵo?
+
+NORA. Jes, la mirindaĵo. Sed estas tiom terure, Kristine; ĝi
+nepre ne okazu, ne por kiu ajn prezo en la mondo.
+
+LINDE. Mi iros rekte por paroli kun Krogstad.
+
+NORA. Ne iru al li; li faros al vi ion malbonan!
+
+LINDE. Estis tempo, kiam li volonte farus kion ajn por mi.
+
+NORA. Li?
+
+LINDE. Kie li loĝas?
+
+NORA. Ho, kion mi scias --? Jes, (serĉas en la poŝo) Jen lia
+karto. Sed la letero, la letero --!
+
+HELMER (en sia ĉambro, frapas la pordon). Nora!
+
+NORA (krias pro timo). Ho, kio estas? Kion vi volas?
+
+HELMER. Nu, nu, ne timu. Ni ja ne venos; vi ja ŝlosis la pordon;
+eble vi surprovas?
+
+NORA. Jes, jes, mi surprovas. Mi estos tiom bela, Torvald.
+
+LINDE (kiu legis la karton). Li ja loĝas ĝuste trans la
+stratangulo.
+
+NORA. Jes; sed ne helpas. Ni estas sensavaj. La letero kuŝas ja
+en la skatolo.
+
+LINDE. Kaj via edzo havas la ŝlosilon?
+
+NORA. Jes, ĉiam.
+
+LINDE. Krogstad devas revoki sian leteron nelegita, li devas
+elpensi iun pretekston --
+
+NORA. Sed ĝuste je tiu ĉi tempo Torvald kutime --
+
+LINDE. Igu lin prokrasti; eniru dume. Mi revenos plej eble
+baldaŭ. (ŝi eliras rapide tra la antaŭĉambro)
+
+NORA (iras al la pordo de _Helmer_, malfermas ĝin kaj
+enrigardas). Torvald!
+
+HELMER (en la interna ĉambro). Nu, ĉu oni fine rajtas ree
+enveni en sian propran ĉambron? Venu, Rank, nun ni fine rigardu.
+(ĉe la pordo) Sed kio estas?
+
+NORA. Kio, kara Torvald?
+
+HELMER. Rank preparis min por grandioza kostumado.
+
+RANK (ĉe la pordo). Laŭ mia percepto; sed mi do eraris.
+
+NORA. Jes, neniu rajtas admiri min en mia pompo antaŭ
+morgaŭ.
+
+HELMER. Sed kara Nora, vi aspektas vere streĉita. Ĉu vi tro
+multe ekzercis?
+
+NORA. Ne, mi ankoraŭ tute ne ekzercis.
+
+HELMER. Estos tamen necese --
+
+NORA. Jes, estos tute necese, Torvald. Sed mi neniel progresas
+sen via helpo; mi ĉion tute forgesis.
+
+HELMER. Nu, ni baldaŭ refreŝigu ĉion.
+
+NORA. Jes, vi devas helpi min, Torvald. Promesu al mi! Ho, mi
+tiom timas. La grandan festenon --. Vi devas dediĉi vin tute por mi
+ĉi-vespere. Eĉ ne etan bankaferon; eĉ ne plumon en la mano. Do?
+Ĉu ne, kara Torvald?
+
+HELMER. Mi promesas; hodiaŭ vespere mi estos tute je via
+dispono, -- vi senhelpa etulino. -- Hm, jen, unue ion -- (iras al la
+pordo de la antaŭĉambro)
+
+NORA. Kion vi volas rigardi tie?
+
+HELMER. Nur vidi ĉu venis letero.
+
+NORA. Ne, ne; ne faru, Torvald!
+
+HELMER. Kion do?
+
+NORA. Torvald, mi petas vin; estas neniu.
+
+HELMER. Permesu al mi rigardi. (volas iri)
+
+(_Nora_, ĉe la piano, frapas la unuajn taktojn de la
+_Tarantelo_)
+
+HELMER (ĉe la pordo, haltas). Aha!
+
+NORA. Mi ne povas danci morgaŭ, se mi ne ekzercos kun vi.
+
+HELMER (iras al ŝi). Ĉu vi vere estas tiom timema, kara
+Nora?
+
+NORA. Jes, ege timema. Lasu min ekzerci nun tuj; ankoraŭ estas
+tempo antaŭ la manĝo. Jen, sidigu vin kaj ludu por mi, kara
+Torvald; korektu min; donu instrukcion, kiel vi kutimas.
+
+HELMER. Volonte, tre volonte, ĉar vi deziras.
+
+(Li eksidas ĉe la piano)
+
+NORA (prenas la tamburinon el la skatolo, kaj ankaŭ longan,
+multekoloran ŝalon, per kiu ŝi rapide drapiras sin; post salto
+mezen sur la plankon ŝi staras tie kaj vokas). Ludu nun por mi! Nun
+mi volas danci!
+
+(_Helmer_ ludas kaj _Nora_ dancas; _doktoro Rank_
+staras apud la piano malantaŭ _Helmer_, rigardante)
+
+HELMER (ludante). Malpli rapide, -- malpli rapide.
+
+NORA. Mi ne povas alimaniere.
+
+HELMER. Ne tiel impete, Nora!
+
+NORA. Ĝuste tiel devas esti.
+
+HELMER (haltas). Ne, ne, tio tute ne taŭgas.
+
+NORA (ridas, kaj svingas la tamburinon). Ĉu mi ne diris tion al
+vi?
+
+RANK. Permesu al mi ludi por ŝi.
+
+HELMER (ekstaras). Jes, vi faru; kaj mi povos pli bone instrukcii
+ŝin.
+
+(_Rank_ sidigas sin ĉe la piano kaj ludas; _Nora_
+dancas pli kaj pli sovaĝe. _Helmer_ prenis pozicion apud la
+forno, kaj ofte direktas al ŝi rimarkojn por korekti ŝin; ŝi
+ŝajne ne aŭdas tion; ŝia hararo malligiĝas kaj falas sur ŝiajn
+ŝultrojn; ŝi ne atentas tion, sed daŭrigas la dancadon.
+_Sinjorino Linde_ envenas)
+
+LINDE (staras konsternita ĉe la pordo). Oj --!
+
+NORA (dum la danco). Jen amuzo, Kristine.
+
+HELMER. Sed kara, inda Nora, vi ja dancas kvazaŭ estus por savo
+de la vivo.
+
+NORA. Vere ja estas!
+
+HELMER. Rank, ĉesu; tio estas ja pura frenezaĵo. Ĉesu, mi
+diras.
+
+(_Rank_ ĉesas ludi, kaj Nora subite haltas)
+
+HELMER (al ŝi). Tion mi neniam kredus. Vi ja forgesis ĉion,
+kion mi instruis al vi.
+
+NORA (forĵetas la tamburinon). Jen vi mem vidas.
+
+HELMER. Do, jen instruo estas bezonata.
+
+NORA. Jes, vi vidas kiom necese estas. Vi devas instrui min ĝis
+la fino. Ĉu vi tion promesas al mi, Torvald?
+
+HELMER. Vi povas fidi pri tio.
+
+NORA. Vi ne devas, hodiaŭ nek morgaŭ, zorgi pri io alia krom
+mi; vi ne malfermu leteron, -- ne malŝlosu la leterskatolon --
+
+HELMER. Aha, ankoraŭ la timo pro tiu homo --
+
+NORA. Jes, jes ja, ankaŭ tio.
+
+HELMER. Nora, mi vidas de via konduto, ke jam kuŝas letero de
+li.
+
+NORA. Mi ne scias; mi opinias ke jes; sed vi ne legu ion tian
+nun; nenio malbela devas entrudi sin inter ni antaŭ ol ĉio
+atingis la finon.
+
+RANK (mallaŭte al Helmer). Vi ne devas kontraŭdiri ŝin.
+
+HELMER (ĉirkaŭbrakas ŝin). Ni plenumu la volon de la infano.
+Sed morgaŭ nokte, kiam vi estos dancinta --
+
+NORA. Tiam vi estos libera.
+
+ĈAMBRISTINO (ĉe la pordo maldekstre). Sinjorino, la tablo estas
+preta.
+
+NORA. Ni volas havi ĉampanon, Helene.
+
+ĈAMBRISTINO. Bone, sinjorino. (eliras)
+
+HELMER. Aha, -- granda festeno do?
+
+NORA. Ĉampanofesteno ĝis la hela mateno. (ekkrias) Kaj kelkajn
+makaronojn, Helene, multajn, -- unusolan fojon.
+
+HELMER (prenas ŝiajn manojn). Nu, nu, nu; ne tiu delira
+sovaĝeco. Estu nun mia propra alaŭdeto kiel ordinare.
+
+NORA. Jes ja, mi estu. Sed eniru dume; ankaŭ vi, doktoro Rank.
+Kristine, vi devas helpi min aranĝi miajn harojn.
+
+RANK (mallaŭte, elirante). Supozeble ne estas io -- io tia
+okazonta?
+
+HELMER. Neniel, kara; estas nenio alia krom tiu infaneca timo,
+kiun mi menciis al vi.
+
+(Ili eliras dekstre)
+
+NORA. Nu!?
+
+LINDE. Forvojaĝis en la kamparon.
+
+NORA. Mi divenis laŭ via aspekto.
+
+LINDE. Li revenos hejmen morgaŭ vespere. Mi skribis leterslipon
+al li.
+
+NORA. Tion vi ne devus fari. Vi malhelpu nenion. Funde estas
+ĝojego, tio, atendadi la mirindaĵon.
+
+LINDE. Efektive, kion vi atendas?
+
+NORA. Ho, tion vi ne povas kompreni. Eniru al ili; mi tuj
+postvenos. (_sinjorino Linde_ eniras la manĝoĉambron)
+
+NORA (staras momenton kvazaŭ por sin orienti; poste ŝi rigardas
+sian horloĝon). La kvina. Sep horojn ĝis noktomezo. Poste, dudek
+kvar horojn ĝis sekvonta noktomezo. Tiam la Tarantelo estos
+dancita. Dudek kvar plus sep? Tridek unu horojn por vivi.
+
+HELMER (ĉe la pordo dekstre). Sed kie restas la alaŭdeto?
+
+NORA (al li kun larĝe etenditaj brakoj). Jen la alaŭdeto!
+
+
+
+
+TRIA AKTO
+
+
+(Sama ĉambro. La sofotablo kun seĝoj ĉirkaŭe estas metita
+antaŭen meze sur la planko. Lampo lumas sur la tablo. La pordo de
+la antaŭĉambro estas malfermita. Aŭdiĝas dancmuziko de la supra
+etaĝo.)
+
+(_Sinjorino Linde_ sidas ĉe la tablo foliumante libron
+seninterese; provas legi, sed ne aspektas kapabla koncentri la
+pensojn; iujn fojojn ŝi streĉe aŭskultas en la direkto de la
+ekstera pordo.)
+
+LINDE (rigardas sian horloĝon). Ankoraŭ ne. Kaj nun jam urĝas.
+Se li nur ne -- (denove aŭskultas) Jen, tie li estas. (Ŝi eliras
+en la antaŭĉambron, kaj singarde malfermas la eksteran pordon;
+kvietaj paŝoj aŭdiĝas sur la ŝtuparo; ŝi flustras:) Envenu.
+Ĉeestas neniu.
+
+KROGSTAD (ĉe la pordo). Mi trovis leterslipon de vi hejme. Kion
+tio signifas?
+
+LINDE. Mi absolute devas paroli kun vi.
+
+KROGSTAD. Nu? Kaj tio absolute devas okazi en tiu ĉi domo?
+
+LINDE. Hejme ĉe mi ne eblas; mia ĉambro ne havas apartan
+enirejon. Envenu; ni estas tute solaj; la ĉambristino dormas, kaj
+la gesinjoroj Helmer estas en balo supre.
+
+KROGSTAD (venas en la ĉambron). Jen, jen. La gesinjoroj Helmer
+dancas ĉi-vespere? Fakte?
+
+LINDE. Jes, kial ne?
+
+KROGSTAD. Nu jes, kial ne?
+
+LINDE. Nun, Krogstad, nun ni du do kune parolu.
+
+KROGSTAD. Ĉu ni du do havas ion pli por priparoli?
+
+LINDE. Ni havas multon por priparoli.
+
+KROGSTAD. Tion mi ĝis nun ne opiniis.
+
+LINDE. Ne, ĉar vi neniam vere komprenis min.
+
+KROGSTAD. Ĉu estis io pli por kompreni, krom tio, kio estas tiom
+simpla en la mondo? Senkora virino forpuŝas viron, kiam sin
+ofertas io, kio estas pli avantaĝa.
+
+LINDE. Ĉu vi opinias, ke mi vere estas tiom senkora? Kaj ĉu vi
+opinias, ke mi rompis de vi facilkore?
+
+KROGSTAD. Vere ne?
+
+LINDE. Krogstad, ĉu vi tion vere kredis?
+
+KROGSTAD. Se tiel ne estis, kial vi do tiam skribis al mi tian
+leteron, kian vi skribis?
+
+LINDE. Mi ja ne povis agi alimaniere. Ĉar mi devis rompi kun vi,
+estis ja ankaŭ mia devo ekstermi en vi ĉion, kion vi por mi
+sentis.
+
+KROGSTAD (premegas siajn manojn). Tiel do. Kaj tio -- tio nur por
+mono!
+
+LINDE. Ne forgesu, ke mi havis senhelpan patrinon kaj du etajn
+fratojn. Ni ne povis atendi vin, Krogstad; pri vi estus ja tiam
+longa atendado.
+
+KROGSTAD. Nu ja, estis; sed vi ne rajtis forpuŝi min pro alia
+homo.
+
+LINDE. Nu, mi ne scias. Multajn fojojn mi demandis al mi mem, ĉu
+mi tion rajtis.
+
+KROGSTAD (pli kviete). Kiam mi vin perdis, sentiĝis, kvazaŭ la
+firma grundo forglitus de sub miaj piedoj. Rigardu min; nun mi
+estas ŝiprompito sur vrako.
+
+LINDE. Helpo povus esti proksima.
+
+KROGSTAD. Ĝi estis proksima; sed nun vi venis kaj baris al mi la
+vojon.
+
+LINDE. Kontraŭ mia scio, Krogstad. Nur hodiaŭ mi eksciis, ke
+estas vi, kiun mi anstataŭos en la banko.
+
+KROGSTAD. Mi kredas vin, ĉar vi tion diras. Sed nun, kiam vi
+scias, ĉu vi ne retiras vin?
+
+LINDE. Ne; ĉar tio neniel utilus al vi.
+
+KROGSTAD. Utilus, utilus --; mi tion tamen farus.
+
+LINDE. Mi lernis agi prudente. La vivo kaj la akra, amara neceso
+instruis tion al mi.
+
+KROGSTAD. Kaj la vivo instruis al mi ne fidi malplenajn
+frazojn.
+
+LINDE. Do la vivo instruis al vi ion tre saĝan. Sed fidi al agoj
+vi tamen devas?
+
+KROGSTAD. Al kio vi aludas?
+
+LINDE. Vi diris, ke vi staras kiel ŝiprompito sur vrako.
+
+KROGSTAD. Mi havis bonajn kialojn por tion diri.
+
+LINDE. Ankaŭ mi sidas kiel ŝiprompita virino sur vrako. Neniun
+por funebri, kaj neniun por prizorgi.
+
+KROGSTAD. Vi mem elektis.
+
+LINDE. Mi tiam ne havis elekton.
+
+KROGSTAD. Nu, kaj kio pli?
+
+LINDE. Krogstad, ĉu eble ni du ŝiprompitoj povus transiri unu
+al la alia?
+
+KROGSTAD. Kion vi sugestas?
+
+LINDE. Du sur unu vrako staras pli sekure ol unuope sur du.
+
+KROGSTAD. Kristine!
+
+LINDE. Kial, laŭ via supozo, mi venis al la urbo?
+
+KROGSTAD. Ĉu eblus ke vi havus penson pri mi?
+
+LINDE. Mi devas labori, se mi povu elteni la vivon. Ĉiujn miajn
+vivtagojn, tiom longe kiom mi memoras, mi laboris; kaj tio estis
+mia plej kontentiga kaj sola plezuro. Sed nun mi staras tute sola
+en la mondo, tiel terure malplena kaj forlasita. Labori nur por si
+mem ne donas ian plezuron. Krogstad, havigu al mi iujn kaj ion por
+kiuj labori.
+
+KROGSTAD. Tion mi ne fidas. Estas nenio alia krom ekzaltita
+virina grandanimeco, kiu eliras oferi sin mem.
+
+LINDE. Ĉu vi iam konstatis, ke mi estas ekzaltita?
+
+KROGSTAD. Ĉu vi efektive povus fari tion? Diru al mi, -- ĉu vi
+estas plene informita pri mia pasinteco?
+
+LINDE. Jes.
+
+KROGSTAD. Kaj ĉu vi scias, kiel ĉi tie oni rigardas min?
+
+LINDE. Antaŭ nelonge vi donis al mi la impreson, ke kun mi vi
+estus fariĝinta alia homo.
+
+KROGSTAD. Pri tio mi estas certa.
+
+LINDE. Ĉu ne eblus ankoraŭ?
+
+KROGSTAD. Kristine; -- tion vi diras tute intence! Jes, vi faras.
+Mi vidas tion laŭ via esprimo. Ĉu vi do efektive kuraĝas --?
+
+LINDE. Mi bezonas iujn, por kiuj esti patrino; kaj viaj infanoj
+bezonas patrinon. Ni du bezonas unu la alian. Krogstad, mi fidas je
+via baza kerno; -- kune kun vi mi ĉion kuraĝas.
+
+KROGSTAD (prenas ŝiajn manojn). Dankon, dankon, Kristine; -- nun
+mi montru, ke mi scipovu restarigi min ankaŭ en la okuloj de
+aliuloj. -- Ho, sed mi forgesis --
+
+LINDE (aŭskultas). Ts! La Tarantelo! Foriru, foriru!
+
+KROGSTAD. Kial? Kio estas?
+
+LINDE. Vi aŭdas la dancon tie supre? Kiam ĝi estos finita, ni
+povos atendi ilin.
+
+KROGSTAD. Nu ja, mi foriros. Ĉio estas ja vana. Kompreneble vi
+ne scias pri la paŝo, kiun mi faris kontraŭ Helmer.
+
+LINDE. Jes, Krogstad, mi scias pri ĝi.
+
+KROGSTAD. Kaj tamen vi kuraĝus --?
+
+LINDE. Mi bone komprenas al kia ago malespero povas peli homon
+kiel vi.
+
+KROGSTAD. Ho, se mi povus igi tion nefarita!
+
+LINDE. Tion vi povus; ĉar via letero ankoraŭ kuŝas en la
+skatolo.
+
+KROGSTAD. Vi estas certa?
+
+LINDE. Tute certa; sed --
+
+KROGSTAD (rigardas ŝin esplore). Ĉu tiel por kompreni? Vi volas
+savi vian amikinon je kiu ajn prezo. Diru malkaŝe. Ĉu tiel
+estas?
+
+LINDE. Krogstad; tiu kiu unu fojon vendis sin mem pro aliuloj,
+tion ne denove faros.
+
+KROGSTAD. Mi repostulos mian leteron.
+
+LINDE. Ne, ne.
+
+KROGSTAD. Certe jes; kompreneble; mi atendas ĉi tie ĝis Helmer
+venos; mi diros al li, ke li redonu al mi mian leteron, -- ke nur
+temas pri mia maldungo, -- ke li ne legu ĝin.
+
+LINDE. Ne, Krogstad, vi ne revoku vian leteron.
+
+KROGSTAD. Sed diru al mi, ĉu vere ne estas pro tio, ke vi
+decidis rendevuon ĉi tie?
+
+LINDE. Jes, en la unua paniko; sed nun tagnokto interpasis, kaj
+estas nekredeblaj aferoj, kiujn mi dum tiu tempo vidis en tiu ĉi
+hejmo. Helmer nepre ĉion eksciu; tiu malfeliĉiga sekreto devas
+esti malkaŝita; devas veni kompleta klarigo inter la du; ili ne
+povas daŭrigi en tiu reto de sekretigo kaj pretekstoj.
+
+KROGSTAD. Nu jes; se vi do tion volas riski --. Sed ion mi
+almenaŭ povas fari, kaj tion mi faru tuj --
+
+LINDE (aŭskultas). Rapidu! Foriru, foriru! La danco estas
+finita; ni ne plu estas sekuraj, eĉ ne momenton.
+
+KROGSTAD. Mi atendas vin malsupre.
+
+LINDE. Jes, faru; vi devas akompani min al la pordo.
+
+KROGSTAD. Tiom nekredeble feliĉa mi neniam antaŭe estis.
+
+(Li foriras tra la ekstera pordo; la pordo inter la sidĉambro
+kaj la antaŭĉambro restas malfermita)
+
+LINDE (iom ordigas kaj metas siajn elirvestojn pretaj). Kia ŝanĝo!
+Jes, kia ŝanĝo! Homoj por kiuj labori, -- por kiuj vivi; hejmo en
+kiu krei hejmecon. Nu, mi vere eklaboru -- Ke ili baldaŭ venu --
+(aŭskultas) Aha, tie ili estas. Ekvestiĝi. (surmetas ĉapelon kaj
+mantelon)
+
+(La voĉoj de _Helmer_ kaj _Nora_ aŭdiĝas ekstere; ŝlosilo
+turniĝas, kaj _Helmer_ kondukas _Nora _preskaŭ perforte en la
+antaŭĉambron. Ŝi estas vestita en la itala kostumo kun granda,
+nigra ŝalo super si; li estas en festena vestaro kun nebutonumita
+nigra domeno supere)
+
+NORA (ankoraŭ ĉe la pordo, rezista). Ne, ne, ne; ne ĉi tien!
+Mi volas ree supren. Mi ne volas foriri tiel frue.
+
+HELMER. Sed karega Nora --
+
+NORA. Ho, mi petegas vin, Torvald; mi petas vin elkore, -- nur unu
+horon ankoraŭ!
+
+HELMER. Eĉ ne unu minuton, mia dolĉa Nora. Vi scias, ke estis
+interkonsento. Jen jen; en la ĉambron; aŭ vi malvarmumiĝos.
+
+(Li kondukas ŝin malgraŭ ŝia kontraŭstaro, iom puŝetante en
+la sidĉambron.)
+
+LINDE. Bonan vesperon.
+
+NORA. Kristine!
+
+HELMER. Nu do, sinjorino Linde, vi ĉi tie tiom malfrue?
+
+LINDE. Jes, pardonu; mi ege volis vidi Nora kostumita.
+
+NORA. Ĉu vi sidis ĉi tie min atendante?
+
+LINDE. Jes; bedaŭrinde mi ne venis sufiĉe frue; vi jam estis
+supre; kaj mi ne volis hejmeniri antaŭ ol mi vin vidis.
+
+HELMER (forprenas la ŝalon de Nora). Jes, bone rigardu ŝin. Mi
+opinius, ke ŝi valoras esti rigardata. Ĉu ŝi ne estas ĉarma,
+sinjorino Linde?
+
+LINDE. Jes, vere ŝi estas --
+
+HELMER. Ĉu ŝi ne estas mirinde delikata? Tio estis ankaŭ la
+komuna opinio de la festenanoj. Sed terure obstina ŝi estas, -- la
+dolĉa etulino. Kion ni faru pri tio? Imagu, mi preskaŭ devis uzi
+forton por kunvenigi ŝin.
+
+NORA. Ho, Torvald, vi pentos pri tio, ke vi ne permesis al mi eĉ
+nur duonan horon pli.
+
+HELMER. Jen, vi aŭdas, sinjorino. Ŝi dancas sian Tarantelon, --
+faras bruegan sukceson, -- meritan, -- kvankam estis en la esprimado
+eble iom tro da natureco; mi opinias, -- iom pli ol laŭ strikta
+mezuro estus konforma al la postuloj de arto. Sed tamen! La ĉefa
+afero estas, -- ŝi sukcesas; ŝi faras bruan sukceson. Ĉu mi post
+tio lasu ŝin resti? Redukti la impreson? Ne dankon; mi prenis mian
+ĉarman kaprean knabineton -- kaprican kaprean knabineton, mi povus
+diri -- sub la brakon; rapidan rondiron tra la salono; kliniĝon al
+ĉiuj flankoj, kaj -- kiel oni diras en lingvo de romanoj -- la bela
+vido malaperis. Finalo ĉiam kreu efekton, sinjorino Linde; sed
+_tion_ mi ne kapablas komprenigi al Nora. Puf, estas varme ĉi tie.
+(ĵetas la domenon sur seĝon kaj malfermas la pordon de sia
+ĉambro) Kio? Estas mallume. Nu ja; kompreneble. Pardonu -- (li tien
+eniras kaj ekbruligas kelkajn lumojn)
+
+NORA (flustras rapide kaj senspire). Nu?!
+
+LINDE (mallaŭte). Mi parolis kun li.
+
+NORA. Kaj jen --?
+
+LINDE. Nora, -- vi devas diri ĉion al via edzo.
+
+NORA (senvoĉe). Mi sciis.
+
+LINDE. Vi ne havas kaŭzon por ion timi flanke de Krogstad; sed
+paroli vi devas.
+
+NORA. Mi ne parolos.
+
+LINDE. Do parolos la letero.
+
+NORA. Dankon, Kristine; mi nun scias, kio estas farenda. Ts --!
+
+HELMER (revenas). Nu, sinjorino, ĉu vi nun admiris ŝin?
+
+LINDE. Jes; kaj nun mi volas diri bonan nokton.
+
+HELMER. Ho, jam nun? Ĉu estas via, tiu trikaĵo?
+
+LINDE (prenas ĝin). Jes; dankon; mi preskaŭ forgesis ĝin.
+
+HELMER. Do vi trikas?
+
+LINDE. Jes ja.
+
+HELMER. Sciu, vi devus prefere brodi.
+
+LINDE. Nu? Kaj kial?
+
+HELMER. Ĉar estas multe pli bele. Rigardu; oni tenas la
+brodaĵon tiel per la maldekstra mano, kaj per la dekstra oni
+kondukas la kudrilon -- tiel -- etende en longa kurbo; ĉu ne --?
+
+LINDE. Jes, povas esti --
+
+HELMER. Sed kontraŭe triki -- neniam fariĝas alie ol malbele;
+rigardu; la kunprematajn brakojn, -- la trikilojn, kiuj iradas
+supren kaj malsupren; -- estas io ĉineca ĉe tio. -- Ah, estis vere
+bonega ĉampano, per kiu oni regalis nin.
+
+LINDE. Nu, bonan nokton, Nora, kaj ne plu estu obstina.
+
+HELMER. Bona konsilo, sinjorino Linde!
+
+LINDE. Bonan nokton, sinjoro direktoro.
+
+HELMER (akompanas ŝin al la pordo). Bonan nokton, bonan nokton;
+mi esperas, ke vi venos sekure hejmen? Mi tiel volonte --; sed ne
+estas ja longa distanco irenda. Bonan nokton, bonan nokton.
+(Ŝi foriras; li fermas la pordon malantaŭ ŝi kaj ree envenas)
+Jen, jen; fine ni sukcesis eligi ŝin. Ŝi estas terure teda, tiu
+homaĵo.
+
+NORA. Ĉu vi ne estas tre laca, Torvald?
+
+HELMER. Ne, tute ne.
+
+NORA. Eĉ ne dormema?
+
+HELMER. Absolute ne; kontraŭe mi sentas min treege vigla. Sed
+vi? Jes, vi efektive aspektas kaj laca kaj dormema.
+
+NORA. Jes, mi estas tre laca. Nun mi volas baldaŭ dormi.
+
+HELMER. Jen vidu; vidu! Estis do ĝuste de mi, ke ni ne pli longe
+restus.
+
+NORA. Ho, estas ja ĝusta, ĉio, kion vi faras.
+
+HELMER (kisas ŝin sur la frunto). Nun la alaŭdeto parolas
+kvazaŭ ĝi estus homo. Sed ĉu vi observis kiom gaja Rank estis
+ĉi-vespere?
+
+NORA. Ĉu? Li estis? Mi ne trovis ŝancon paroli kun li.
+
+HELMER. Ankaŭ mi preskaŭ ne; sed dum longa tempo mi ne vidis
+lin en tia bona humoro. (rigardas ŝin dum momento; poste li
+alproksimiĝas) Hm, -- estas do ĝue esti reveninta en sian propran
+hejmon; esti tute sola kun vi -- Ho, vi rava, alloga juna virino!
+
+NORA. Ne rigardu min tiel, Torvald!
+
+HELMER. Ĉu mi ne rigardu mian plej karan posedaĵon? Tiun
+admirindaĵon, kiu estas mia, sole mia, mia komplete.
+
+NORA (paŝas al la alia flanko de la tablo). Ne parolu al mi tiel
+ĉi-nokte.
+
+HELMER (sekvas). Vi ankoraŭ havas la Tarantelon en la sango, mi
+rimarkas. Kaj tio igas vin eĉ pli loga. Aŭskultu! Nun la gastoj
+estas forirantaj. (pli mallaŭte) Nora, -- baldaŭ estos silente en
+la tuta domo.
+
+NORA. Jes, mi esperas.
+
+HELMER. Jes, ĉu ne, mia propra kara Nora? Ho, ĉu vi scias, --
+kiam mi tiel estas kun vi en festeno, -- ĉu vi scias, kial mi tiom
+malmulte parolas kun vi, tenas min fore de vi, nur foje sendas al
+vi ŝtelitajn okulĵetojn, -- ĉu vi scias, kial mi faras tion?
+Estas ĉar mi imagas al mi, ke vi estas mia sekreta amatino, mia
+juna sekreta fianĉino, kaj ke neniu suspektas, ke estas io inter
+ni du.
+
+NORA. Nu ja, ja, ja; mi ja scias, ke ĉiuj viaj pensoj estas ĉe
+mi.
+
+HELMER. Kaj kiam ni estas ekirantaj, kaj mi metas la ŝalon
+ĉirkaŭ viajn delikatajn, junecajn ŝultrojn, -- ĉirkaŭ tiu
+mirinda kolkurbo, -- tiam mi imagas al mi, ke vi estas mia juna
+novedzino, ke ni ĵus venis de la geedziĝa ceremonio, kaj ke mi la
+unuan fojon kondukas vin en mian loĝejon, -- kaj ke mi la unuan
+fojon estas sola kun vi, -- tute sola kun vi, vi juna, tremanta
+delikataĵo! La tutan vesperon mi havis neniun sopiron krom vi.
+Kiam mi vidis vin impeti kaj logi en la Tarantelo, -- tiam mia sango
+bolis; mi ne plu kapablis elteni; -- tial mi kondukis vin ĉi tien
+malsupre tiom frue --
+
+NORA. Iru nun, Torvald! Foriru de mi. Mi ne volas ĉion ĉi.
+
+HELMER. Kion tio signifas? Vi certe ludas petolulinon kun mi,
+Nonjo. Volas; volas? Ĉu mi ne estas via edzo --?
+
+(Iu frapas la eksteran pordon)
+
+NORA (ekskuiĝas). Vi aŭdis --?
+
+HELMER (al la enirejo). Kiu estas?
+
+RANK (ekstere). Estas mi. Ĉu vi permesas, ke mi envenu
+momenton?
+
+HELMER (mallaŭte, kun irito). Hm, kion li volas nun? (laŭte)
+Momenton. (aliras kaj malfermas) Nu, estas ja ĝentile ke vi ne
+preterpasas nian pordon.
+
+RANK. Ŝajnis al mi, ke mi aŭdas vian voĉon, kaj mi deziris
+enrigardi. (lasas la okulon vagi paseme ĉirkaŭen) Ak ja; tiuj
+karaj, konataj ĉambroj. Vi havas hejmecan varmon ene ĉe vi, vi
+du.
+
+HELMER. Laŭaspekte vi inde ĝuis la etoson ankaŭ supre.
+
+RANK. Bonege. Kial mi ne farus? Kial oni ne kunprenu ĉion en tiu
+ĉi mondo? Almenaŭ tiom kiom oni povas, kaj kiel eble plej longe.
+La vino estis altkvalita --
+
+HELMER. Precipe la ĉampano.
+
+RANK. Ĉu ankaŭ vi tion rimarkis? Estas preskaŭ nekredeble,
+kiom multe mi kapablis engluti.
+
+NORA. Ankaŭ Torvald trinkis multe da ĉampano ĉi-vespere.
+
+RANK. Ĉu?
+
+NORA. Jes; kaj poste li ĉiam estas tiom amuza.
+
+RANK. Nu, kial oni ne havu gajan vesperon post bone utiligita
+tago?
+
+HELMER. Bone utiligita; pri tio mi bedaŭrinde ne rajtas laŭdi
+min.
+
+RANK (frapas lian ŝultron). Sed pri tio mi ja rajtas!
+
+NORA. Doktoro Rank, vi estas ja farinta sciencan ekzamenon
+hodiaŭ.
+
+RANK. Ĝuste.
+
+HELMER. Jen, jen; Nonjo parolas pri sciencaj ekzamenoj!
+
+NORA. Kaj ĉu mi povas gratuli vin pri la rezulto?
+
+RANK. Jes, vere vi povas.
+
+NORA. Ĝi do estas bona?
+
+RANK. La plej eble bona por kuracisto kiel por paciento, --
+certeco.
+
+NORA (rapide kaj esplorante). Certeco?
+
+RANK. Kompleta certeco. Ĉu mi ne devus havi gajan vesperon
+poste?
+
+NORA. Jes, vi ĝuste faris, doktoro Rank.
+
+HELMER. Tion ankaŭ mi diras; se vi nur ne suferos pro tio
+morgaŭ.
+
+RANK. Nu, en la vivo oni ja nenion ricevas senpage.
+
+NORA. Doktoro Rank, -- ŝajnas ke vi multe ŝatas maskeradojn?
+
+RANK. Jes, kiam estas sufiĉe multaj burleskaj maskoj --
+
+NORA. Aŭskultu; kio ni du estu en la venonta maskerado?
+
+HELMER. Vi eta, frivolino, -- ĉu vi jam pensas pri la
+venonta!
+
+RANK. Ni du? Jes, tion mi al vi diru; vi estu feliĉo-feino.
+
+HELMER. Jes, sed eltrovu kostumon, kiu tion montras.
+
+RANK. Lasu vian edzinon sin prezenti, tiel kiel ŝi staras kaj
+iras tra la mondo --
+
+HELMER. Vere trafe dirite. Sed ĉu vi ne scias, kio vi mem volas
+esti?
+
+RANK. Jes, mia kara amiko, pri tio mi estas tute certa.
+
+HELMER. Nu?
+
+RANK. En la venonta maskerado mi estos nevidebla.
+
+HELMER. Jen stranga kaprico.
+
+RANK. Ekzistas granda, nigra ĉapelo --; ĉu vi neniam aŭdis pri
+la malaperiga ĉapelo? Per tiu oni sin kovros, kaj neniu onin
+vidos.
+
+HELMER (kun subpremita rideto). Ne, jen vi pravas.
+
+RANK. Sed mi ja tute forgesas, pro kio mi venis. Helmer, donu al
+mi cigaron, unu el la nigraj Havana.
+
+HELMER. Kun plej granda plezuro. (prezentas ujon)
+
+RANK (prenas unu kaj tranĉas la pinton). Dankon.
+
+NORA (frotas alumeton). Permesu al mi doni al vi fajron.
+
+RANK. Dankon pro tio. (Ŝi tenas por li la alumeton; li
+ekbruligas la cigaron) Kaj nun, adiaŭ!
+
+HELMER. Adiaŭ, adiaŭ, kara amiko!
+
+NORA. Dormu bone, doktoro Rank.
+
+RANK. Dankon por tiu deziro.
+
+NORA. Deziru al mi la samon.
+
+RANK. Al vi? Nu ja, ĉar vi tion volas --. Dormu bone. Kaj dankon
+pro la fajro. (Li kapsalutas al ambaŭ kaj foriras)
+
+HELMER (mallaŭte). Li trinkis konsiderinde.
+
+NORA (distrite). Eble.
+
+(_Helmer_ prenas el la poŝo sian ŝlosilaron kaj iras en
+la antaŭĉambron)
+
+NORA. Torvald -- kion vi intencas tie?
+
+HELMER. Mi devas malplenigi la leterskatolon; ĝi estas tute
+plena; ne estos loko por la gazetoj morgaŭ frue --
+
+NORA. Ĉu vi intencas labori ĉi-nokte?
+
+HELMER. Vi ja scias, ke mi ne volas. -- Kio estas tio? Iu fuŝis
+la seruron.
+
+NORA. La seruron --?
+
+HELMER. Jes, certe, tiel estas. Kio povas esti? Mi ne kredus, ke
+la servistinoj --? Tie kuŝas rompita harpinglo. Nora, ĝi estas
+via --
+
+NORA (rapide). Do devas esti unu el la infanoj --
+
+HELMER. De tio vi devas vere dekutimigi ilin. Hm, hm; -- jen, mi
+tamen sukcesis malŝlosi ĝin (elprenas la enhavon kaj vokas en la
+kuirejon) Helene! -- Helene; estingu la lampon en la koridoro.
+
+(Li ree eniras en la sidĉambron kaj fermas la pordon de la
+antaŭĉambro)
+
+HELMER (kun la leteroj en la mano). Jen. Rigardu kiel amasiĝis.
+(trafoliumas) Kio estas tio?
+
+NORA (ĉe la fenestro). La letero! Ho ne, ne, Torvald!
+
+HELMER. Du vizitkartoj -- de Rank.
+
+NORA. De doktoro Rank?
+
+HELMER (rigardas ilin). _Doctor medicinæ Rank_. Ili
+kuŝis plej supre; verŝajne li enmetis ilin, kiam li foriris.
+
+NORA. Ĉu estas io sur ili?
+
+HELMER. Estas nigra kruco super la nomo. Rigardu. Estas vere
+tremiga kaprico. Tio aspektas ja, kvazaŭ li anoncus sian propran
+morton.
+
+NORA. Li ja tion faras.
+
+HELMER. Kion? Ĉu vi ion scias? Ĉu li diris ion al vi?
+
+NORA. Jes. Kiam tiuj kartoj venas, li nin fine adiaŭis. Li volas
+enfermi sin kaj morti.
+
+HELMER. Mia malfeliĉa amiko. Mi ja sciis, ke mi lin ne longe
+havus. Sed tiom frue --. Kaj li sin kaŝas kiel vundita besto.
+
+NORA. Kiam tio _devas_ okazi, tiam estas plej bone, ke ĝi
+okazu senvorte. Ĉu ne, Torvald?
+
+HELMER (iras tien kaj reen). Li estis kvazaŭ kun-kreskinta kun
+ni. Mi preskaŭ ne kapablas imagi lin for. Li, kun siaj suferoj kaj
+sia soleco, donis kvazaŭ nuban fonon al nia sun-plena feliĉo. --
+Nu, eble estas pli bone tiel. Almenaŭ por li. (haltas) Eble ankaŭ
+por ni, Nora. Nun ni du estas komplete lasitaj unu al la alia.
+(ĉirkaŭbrakas ŝin) Ho vi, mia amata edzino; ŝajnas al mi, ke mi
+ne povas vin teni sufiĉe firme. Sciu, Nora, -- multfoje mi deziras,
+ke superpenda danĝero minacus vin, por ke mi povus riski vivon kaj
+sangon kaj ĉion, ĉion por vi.
+
+NORA (sin deŝiras kaj diras forte kaj decide). Nun vi legu viajn
+leterojn, Torvald.
+
+HELMER. Ne, ne; ne ĉi-nokte. Mi volas esti ĉe vi, mia amata
+edzino.
+
+NORA. Kun la mortopenso pri via amiko --?
+
+HELMER. Vi pravas. Tio skuis nin ambaŭ; malbeleco venis inter
+nin; pensoj pri morto kaj dissolviĝo. Ni liberiĝu de tio. Ĝis
+tiam --. Ni retiriĝu ambaŭ al la sia.
+
+NORA (ĉirkaŭbrakante lian kolon). Torvald, -- bonan nokton!
+Bonan nokton!
+
+HELMER (kisas ŝin sur la frunton). Bonan nokton, vi mia eta
+kantbirdo. Dormu bone, Nora. Nun mi tralegos la leterojn.
+
+(Kun la paketo li iras en sian ĉambron kaj fermas la pordon
+malantaŭ si)
+
+NORA (kun frenezaj okuloj, palpas ĉirkaŭe, kaptas la domenon
+de _Helmer_, volvas ĝin ĉirkaŭ sin kaj flustras rapide,
+raŭke kaj intermite). Lin neniam plu vidi. Neniam. Neniam. Neniam.
+(ĵetas la ŝalon sur la kapon) Ankaŭ neniam plu vidi la infanojn.
+Eĉ ne ilin. Neniam; neniam. -- Ho ve, la glacifrosta, nigra akvo.
+Ho, la senfunda --; tio --. Ho, se nur estus finite. -- Nun li havas
+ĝin; nun li ĝin legas. Ho ne, ne, ankoraŭ ne. Torvald, adiaŭ,
+vi kaj la infanoj --
+
+(Ŝi volas kuri eksteren tra la antaŭĉambro; samtempe
+_Helmer_ abrupte malfermas la pordon de sia ĉambro kaj staras
+tie kun malfermita letero en la mano.)
+
+HELMER. Nora!
+
+NORA (krias laŭte). Aj --!
+
+HELMER. Jen kio? Ĉu vi scias, kion diras tiu letero?
+
+NORA. Jes, mi scias. Lasu min iri! Lasu min eliri!
+
+HELMER (retenas ŝin). Kien vi volas?
+
+NORA (provas liberigi sin). Vi ne savu min, Torvald!
+
+HELMER (ekskuita stumblas malantaŭen). Vero! Estas vero kion li
+skribas? Terure! Ne, ne; ne eblas ke tio estu vero.
+
+NORA. Estas vero. Mi amis vin super ĉio en la mondo.
+
+HELMER. Ba, ne prezentu stultajn evitemajn respondojn.
+
+NORA (paŝon pli proksimen). Torvald --!
+
+HELMER. Vi malfeliĉiga, -- kion vi entreprenis!
+
+NORA. Lasu min foriri. Vi ne portu tion por mi. Vi ne prenu tion
+sur vin.
+
+HELMER. Neniu komediaĵo. (ŝlosas la pordon de la
+antaŭ-ĉambro) Tie ĉi vi restu kaj estu responda pri viaj faroj.
+Ĉu vi komprenas, kion vi faris? Respondu! Ĉu vi komprenas?
+
+NORA (rigardas lin sendeturne, kaj diras per rigida esprimo).
+Jes, nun mi komencas ĝisfunde kompreni.
+
+HELMER (marŝas tien kaj reen). Ho ve, al kia teruro mi vekiĝas.
+En ĉiuj tiuj ok jaroj, -- ŝi, kiu estis mia plezuro kaj fiero, --
+hipokrita, mensogema, -- ankoraŭ pli terure, krima! -- Ho, la
+senfunda abomenaĵo kaŝita en tio! Fi, fi!
+
+(_Nora_ silentas kaj rigardas lin sendeturne.)
+
+HELMER (haltas antaŭ ŝi). Mi devus esti suspektinta, ke io tia
+okazus. Mi devus esti antaŭvidinta tion. Ĉiujn tiujn facilanimajn
+principojn de via patro --. Silentu! Ĉiujn tiujn facilanimajn
+principojn de via patro vi heredis. Neniun religion, neniun
+moralon, neniun devosenton --. Ho ve, kiom mi estas punata por
+indulgi lin. Por vi mi tion faris; kaj tiel vi rekompencas min.
+
+NORA. Jes, tiel.
+
+HELMER. Nun vi ruinigis mian tutan feliĉon. Vi perdigis al mi
+mian tutan estontecon. Ho, estas terure pripensi. Mi estas sub la
+potenco de senskrupula homo; li povas agi kontraŭ mi kiel al li
+plaĉas, postuli de mi kion ajn; ordoni, komandi super mi laŭ siaj
+kapricoj; mi ne kuraĝos grumbli. Kaj tiom mizere mi devas sinki
+kaj perei pro la kulpo de facilanima virino!
+
+NORA. Kiam mi estos ekster ĉi tiu mondo, vi estos libera.
+
+HELMER. Ho, neniujn gestojn. Tiajn frazojn ankaŭ via patro havis
+pretaj. Kio utilus por mi, ke vi estus ekster ĉi tiu mondo, kiel vi
+diras? Neniom por mi tio utilus. Li povas tamen diskonigi la
+aferon; kaj se li tion faros, oni suspektos, ke mi sciis pri via
+krima ago. Oni eble kredos, ke mi staris malantaŭe, -- ke estas mi,
+kiu instigis vin! Kaj pro ĉio ĉi mi povas danki vin, vin, kiun mi
+portis sur la manoj tra nia tuta edzeco. Ĉu vi nun komprenas kion
+vi faris kontraŭ mi?
+
+NORA (kun malvarma trankvilo). Jes.
+
+HELMER. Tio estas tiom nekredebla, ke mi ne kapablas klare teni
+la penson. Sed ni devas iel nin aranĝi. Deprenu vian ŝalon.
+Deprenu ĝin, mi diras! Mi devas iamaniere kontentigi lin. Je kia
+ajn kosto ni devas prisilenti la aferon. -- Kaj pri vi kaj mi devas
+aspekti kvazaŭ ĉio estus kiel antaŭe. Sed kompreneble nur
+en la okuloj de la mondo. Sekve vi daŭre restos en la domo,
+memkompreneble. Sed la infanojn vi ne rajtas eduki; ilin mi ne
+kuraĝas konfidi al vi --. Ho, diri tion al ŝi, kiun mi tiom alte
+amis, kaj kiun mi ankoraŭ --! Nu, devas esti fino. De nun ne plu
+temas pri feliĉo; nun temas pri savo de la restaĵoj, la pecoj, la
+ŝajno -- (oni sonorigas)
+
+HELMER (ekskuiĝas). Kio estas? Tiom malfrue. Ĉu la plej terura --?
+Ĉu li --? Kaŝu vin, Nora! Diru ke vi estas malsana.
+
+(_Nora_ restas staranta senmove. _Helmer_ iras kaj
+malfermas la pordon de la antaŭĉambro)
+
+ĈAMBRISTINO (duone vestita, en la antaŭĉambro). Jen venis
+letero al sinjorino.
+
+HELMER. Donu ĝin al mi. (kaptas la leteron kaj fermas la pordon)
+Jes, estas de li. Vi ne havu ĝin; mi mem legos ĝin.
+
+NORA. Legu vi.
+
+HELMER (ĉe la lampo). Mi preskaŭ ne kuraĝas. Eble ni estas
+perditaj, ambaŭ. Ne; mi _devas_ scii. (malfermas haste la
+leteron; perokule trakuras kelkajn liniojn; rigardas enmetitan
+paperfolion; krio de ĝojo:) Nora!
+
+(_Nora_ rigardas lin demande)
+
+HELMER. Nora! -- Ne; mi devas denove legi unu fojon. -- Jes, jes;
+tiel estas. Mi estas savita! Nora, mi estas savita!
+
+NORA. Kaj mi?
+
+HELMER. Ankaŭ vi kompreneble; ambaŭ ni estas savitaj, vi kaj
+mi. Rigardu. Li resendas al vi la ŝuldateston. Li skribas, ke li
+bedaŭras kaj pentas --; ke feliĉa ŝanĝo en lia vivo --; Pa, estas
+indiferenta tio, kion li skribas. Ni estas savitaj, Nora! Neniu
+povos fari al vi malbonon. Ho Nora, Nora --; ne, unue ni forigu
+ĉiun ĉi abomenaĵon el nia mondo. Mi rigardu -- (haste rigardetas
+al la ŝuldatesto) Ne, mi ne volas rigardi; por mi poste ĉio estu
+nenio krom sonĝo. (disŝiras la ateston kaj ambaŭ leterojn,
+ĵetas la tuton en la fornon kaj rigardas dum ili brulas) Jen, jen,
+nun ili ne plu ekzistas. -- Li skribis, ke vi de post Julvespero --
+Ho, devis esti tri teruraj tagoj por vi, Nora.
+
+NORA. Mi luktis severan batalon dum tiuj tri tagoj.
+
+HELMER. Kaj suferis en angoro, kaj ne vidis alian eliron ol --.
+Ne; ni ne volas memori tiujn abomenindajn aferojn. Ni nur ĝoju kaj
+ripetu: Finite; estas finite! Aŭskultu min do, Nora, laŭaspekte
+vi ne konceptas: Estas finite. Kio tamen estas tiu -- tiu rigida
+esprimo? Ho, kompatinda, eta Nonjo, mi bone komprenas; vi ne vere
+kredas, ke mi pardonis vin. Sed jen mi faris, Nora; mi ĵuras al
+vi: Mi pardonis al vi ĉion. Mi ja scias, ke kion vi faris, tion vi
+faris el amo al mi.
+
+NORA. Jes, vere.
+
+HELMER. Vi amis min, kiel edzino devas ami sian edzon. Estas nur
+la rimedoj, kiujn vi ne kapablis prijuĝi. Sed ĉu vi kredas, ke vi
+al mi estas malpli kara pro tio, ke vi ne kapablas agi sendepende?
+Ne, ne, nur apogu vin al mi; mi konsilu vin; mi instruu vin. Mi ne
+estus viro, se ne ĝuste tiu virina senhelpeco igus vin duoble pli
+alloga en miaj okuloj. Ne prenu al vi la malkarajn vorton, kiujn mi
+diris al vi en la unua teruro, kiam ŝajnis kvazaŭ ĉio
+renversiĝis super min. Mi pardonis vin, Nora; mi ĵuras al vi, mi
+pardonis vin.
+
+NORA. Mi dankas vin pro via pardono.
+
+(Ŝi eliras tra la pordo dekstre)
+
+HELMER. Ne, restu --. (rigardas enen) Kion vi faru en la
+alkovo?
+
+NORA (de interne). Deĵeti la maskeradan kostumon.
+
+HELMER (ĉe la malfermita pordo). Jes, tion vi faru; provu
+retrankviliĝi kaj retrovi animan ekvilibron, vi mia eta timigita
+kantbirdo. Ripozu trankvile; mi havas larĝajn flugilojn por vin
+kovri. (marŝas tien kaj reen proksime ĉe la pordo) Ho, kiom varma
+kaj bela estas nia hejmo, Nora. Ĝi estas rifuĝejo por vi; en ĝi mi
+gardos vin kvazaŭ ĉasitan kolombon, kiun mi senvunda savis el la
+ungegoj de la akcipitro; mi trankviligu vian kompatindan, batantan
+koron. Iom post iom tio fariĝos, Nora; kredu min. Morgaŭ ĉio ĉi
+aspektos por vi alie; baldaŭ ĉio estos kiel antaŭe; mi ne longe
+devos ripeti por vi ke mi pardonis vin; vi mem nepre sentos, ke mi
+faris. Kiel vi povas imagi, ke mi iam havus la ideon forpeli vin
+aŭ nur riproĉi vin pro io? Ho, vi ne konas la bonkorecon de vera
+viro, Nora. Por viro estas io nedireble dolĉa en tio, scii en si
+mem, ke li pardonis sian edzinon, -- ke li pardonis ŝin el plena
+kaj sincera koro. Tiel ŝi estas ja kvazaŭ en duobla senco
+fariĝinta lia posedaĵo; li kvazaŭ enmetis ŝin en la mondon
+denove; ŝi estas iamaniere fariĝinta kaj lia edzino kaj lia
+infano samtempe. Tia vi de nun estu por mi, vi konfuzita, senhelpa
+estaĵo. Timu nenion, Nora; estu nur sincera al mi, kaj mi estos
+via volo kaj via konscienco. Sed kio? Ne en la liton? Vi ŝanĝis
+vestojn?
+
+NORA (en sia ĉiutaga robo). Jes, Torvald, nun mi ŝanĝis
+vestojn.
+
+HELMER. Sed kial, nun, tiel malfrue --?
+
+NORA. Ĉi-nokte mi ne dormos.
+
+HELMER. Sed, kara Nora --
+
+NORA (rigardas sian horloĝon). Ankoraŭ ne estas tro malfrue.
+Sidigu vin ĉi tie, Torvald; ni du havas multon por priparoli.
+
+(Ŝi sidigas sin flanke de la tablo.)
+
+HELMER. Nora, -- kion signifas tio ĉi? Tiu rigida esprimo --
+
+NORA. Eksidu. -- Daŭros longe. Mi havas multon por priparoli kun
+vi.
+
+HELMER (eksidas ĉe la tablo kontraŭe al ŝi). Vi timigas min,
+Nora. Kaj mi ne komprenas vin.
+
+NORA. Ja, ĝuste tiel estas. Vi ne komprenas min. Kaj ankaŭ mi
+neniam komprenis vin -- antaŭ ĉi tiu vespero. Ne, ne interrompu
+min. Vi nur aŭskultu kion mi diras. -- Estas decidiga konfrontado,
+Torvald.
+
+HELMER. Al kio vi celas?
+
+NORA (post mallonga paŭzo). Ĉu ne unu fakto estas rimarkinda,
+tiel kiel ni sidas tie ĉi?
+
+HELMER. Kio tio estus?
+
+NORA. Ok jarojn ni estas geedzoj. Ĉu vi nun ne ekpensas, ke
+estas la unua fojo, ke ni du, edzo kaj edzino, serioze parolas
+kune?
+
+HELMER. Nu, serioze, -- kion tio signifas?
+
+NORA. Dum ok plenaj jaroj, -- jes eĉ pli longe, -- ek de nia unua
+konatiĝo, ni neniam interŝanĝis eĉ unu seriozan vorton pri
+seriozaj aferoj.
+
+HELMER. Mi devus do daŭre kaj ĉiam informi vin pri zorgoj,
+kiujn vi tamen ne povus helpi min porti?
+
+NORA. Mi ne parolas pri zorgoj. Mi diras ke ni neniam sidis kune
+por serioze provi pridiskuti ion ĝisfunde.
+
+HELMER. Sed, kara Nora, ĉu vere tio do interesus vin?
+
+NORA. Jen ni estas ĉe la kerno. Vi neniam komprenis min. --
+Granda maljustaĵo estas farita kontraŭ mi, Torvald. Unue de
+paĉjo kaj poste de vi.
+
+HELMER. Ĉu! De ni du, -- de ni du, kiuj amis vin pli varme ol
+ĉiuj aliaj homoj?
+
+NORA (skuante la kapon). Vi neniam amis min. Vi nur trovis, ke
+estas amuze min amindumi.
+
+HELMER. Tamen Nora, kiajn vortojn vi elektas?
+
+NORA. Jes, tiel tamen estas, Torvald. Kiam mi estis hejme ĉe
+paĉjo, li diris al mi ĉiujn siajn opiniojn, kaj sekve mi havis la
+samajn opiniojn; kaj se mi havis aliajn, mi ilin kaŝis; ĉar tion
+li ne ŝatus. Li nomis min sia pupinfano, kaj li ludis kun mi, same
+kiel mi ludis kun miaj pupoj. Poste mi venis en vian domon --
+
+HELMER. Kian esprimon vi uzas pri nia geedzeco?
+
+NORA (neĝenate). Mi opinias: tiam mi transiĝis de la manoj de
+paĉjo en viajn. Vi aranĝis ĉion laŭ via gusto, kaj sekve mi
+ekhavis la saman guston kiel vi; aŭ mi ŝajnigis; mi tamen ne
+certe scias --; mi opinias, ke ambaŭ sintenoj okazis; foje la unua,
+foje la dua. Kiam mi nun rigardas tion, ŝajnas al mi, ke mi vivis
+kiel malriĉa homo, -- nur de mano al buŝo. Mi vivtenis min farante
+artaĵojn por vi, Torvald. Sed tio estis ja kion vi deziris. Vi kaj
+paĉjo faris grandan pekon kontraŭ mi. Vi estas kulpaj, ke nenio
+fariĝis el mi.
+
+HELMER. Nora, kiom maljusta kaj nedankema vi estas! Ĉu vi ne
+estis feliĉa ĉi tie?
+
+NORA. Ne, mi neniam estis. Mi kredis tion; sed mi neniam
+estis.
+
+HELMER. Ne -- ne feliĉa!
+
+NORA. Ne; nur gaja. Kaj vi ĉiam estis bonkora al mi. Sed nia
+hejmo estis nenio alia krom ludejo. Ĉi tie mi estis via pupedzino,
+ĝuste kiel mi hejme estis la pupinfano de paĉjo. Kaj la infanoj,
+siavice, estis miaj pupoj. Estis por mi amuze kiam vi ludis kun mi,
+same kiel estis amuze por ili kiam mi kun ili ludis. Tia estis nia
+geedzeco, Torvald.
+
+HELMER. Estas io vera en tio, kion vi diras, -- kiom ajn malmodera
+kaj ekzaltita ĝi tamen estas. Sed de nun ĉio estu alie. La tempo
+de ludo estu pasinta; nun venas la tempo de eduko.
+
+NORA. Kies eduko? La mia aŭ tiu de la infanoj?
+
+HELMER. Kaj via kaj tiu de la infanoj, mia kara Nora.
+
+NORA. Ho, Torvald, vi ne estas viro por eduki min al ĝusta
+edzino por vi.
+
+HELMER. Kaj tion vi diras?
+
+NORA. Kaj mi, -- kiel estas mi preparita por eduki la
+infanojn?
+
+HELMER. Nora!
+
+NORA. Ĉu vi ne mem tion diris antaŭ momento, -- tiun taskon vi
+ne kuraĝis konfidi al mi.
+
+HELMER. En la momento de ekzaltiĝo! Ĉu vere vi volas atenti
+tion?
+
+NORA. Sed jes; estis ĝuste dirite de vi. Mi ne majstras tiun
+taskon. Estas alia tasko, kiun mi devas unue plenumi. Mi devas
+eduki min mem. Pri tio vi ne estas viro por helpi min. Tion mi
+devas fari sola. Kaj tial mi nun foriros de vi.
+
+HELMER (eksaltas). Kion vi diris?
+
+NORA. Mi devas stari tute sola, se mi havu konon pri mi mem, kaj
+pri ĉio ekstera. Tial mi ne plu povas resti ĉe vi.
+
+HELMER. Nora, Nora!
+
+NORA. Mi foriros de ĉi tie nun baldaŭ. Kristine certe akceptos
+min ĉi-nokte --
+
+HELMER. Vi estas freneza! Mi ne permesas! Mi vin malpermesas!
+
+NORA. De nun ne plu eblas malpermesi ion al mi. Mi kunportos
+miajn personajn propraĵojn. De vi mi volas nenion havi, nek nun,
+nek poste.
+
+HELMER. Kia frenezaĵo estas do tio!
+
+NORA. Morgaŭ mi vojaĝos hejmen, -- mi volas diri, al mia antaŭa
+hejmo. Tie mi plej facile povos trovi iun okupon.
+
+HELMER. Ho, vi blinda, sensperta kreaĵo!
+
+NORA. Mi devas akiri sperton, Torvald.
+
+HELMER. Forlasi vian hejmon, vian edzon kaj viajn infanojn! Kaj
+vi ne pensas pri tio, kion la homoj diros?
+
+NORA. Tion mi ne povas konsideri. Mi nur scias, ke estos necese
+por mi.
+
+HELMER. Ho, estas indignige. Tiel vi povas perfidi viajn plej
+sanktajn devojn.
+
+NORA. Kion vi do konsideras kiel miajn plej sanktajn devojn?
+
+HELMER. Kaj tion mi bezonu diri al vi! Ĉu ne estas viaj devoj al
+via edzo kaj viaj infanoj?
+
+NORA. Mi havas aliajn devojn same sanktajn.
+
+HELMER. Vi ne havas. Kiuj devoj estus _tiuj_?
+
+NORA. La devoj al mi mem.
+
+HELMER. Unue kaj ĉefe vi estas edzino kaj patrino.
+
+NORA. Tion mi ne plu kredas. Mi kredas, ke unue kaj ĉefe mi
+estas homo, mi, same kiel vi, -- aŭ almenaŭ ke mi provu fariĝi
+tio. Mi bone scias, ke la plimulto pravigas vin, Torvald, kaj ke
+ion tian diras la libroj. Sed mi ne plu povas kontentiĝi per tio,
+kion diras la plimulto, kaj kion diras la libroj. Mi devas mem
+pripensi tiujn rilatojn kaj trovi sencon en ili.
+
+HELMER. Ĉu vi ne trovus sencon en via stato en via propra hejmo?
+Ĉu en tiaj rilatoj vi ne havas sentrompan gvidanton? Ĉu vi ne
+havas la religion?
+
+NORA. Ak, Torvald, mi ja ne vere scias, kio la religio estas.
+
+HELMER. Kia eldiro!
+
+NORA. Mi ja scias nenion krom tio, kion la pastro Hansen diris
+dum mia konfirmacio. Li diris ke la religio estas _tio_ kaj
+_tio_. Kiam mi estos libera de ĉio ĉi tie, kaj staros sola,
+tiam mi ekzamenos ankaŭ tiun aferon. Mi volas vidi ĉu estas
+ĝusta tio, kion diris la pastro Hansen, aŭ almenaŭ ĉu _mi_
+en jeno pravas.
+
+HELMER. Ho, tia diraĵo de juna virino estas tamen senekzempla!
+Sed se la religio ne povas gvidi vin, lasu almenaŭ al mi skui vian
+konsciencon. Ĉar moralan senton vi tamen havas? Aŭ, respondu, --
+eble vi neniun havas?
+
+NORA. Nu, Torvald, ne estas facile respondi al tio. Mi ja tute ne
+scias. Tiuj aferoj estas komplete malklaraj por mi. Mi nur scias,
+ke mi havas tute alian opinion pri tiaj demandoj, ol vi. Ĵus mi ja
+ankaŭ aŭdis, ke la leĝoj estas aliaj, ol mi opiniis; sed ke tiuj
+leĝoj estu ĝustaj, tiun ideon mi ne kapablas enigi en mian kapon.
+Virino do ne rajtus ŝirmi sian mortantan patron, aŭ savi la vivon
+de sia edzo! Tian opinion mi ne fidas.
+
+HELMER. Vi parolas kiel infano. Vi ne komprenas la socion en kiu
+vi vivas.
+
+NORA. Ne, mi ne komprenas. Sed nun mi volas studi ĝin. Mi devas
+provi eltrovi kiu pravas, la socio aŭ mi.
+
+HELMER. Vi estas malsana, Nora; vi havas febron; mi preskaŭ
+kredas, ke vi perdis vian prudenton.
+
+NORA. Mi neniam antaŭe sentis min tiel klara kaj certa kiel
+ĉi-nokte.
+
+HELMER. Kaj klare kaj certe vi forlasas vian edzon kaj viajn
+infanojn?
+
+NORA. Jes; mi faras.
+
+HELMER. Do nur unu klarigo estas ebla.
+
+NORA. Kiu?
+
+HELMER. Vi ne plu amas min.
+
+NORA. Nu jes, tiel estas.
+
+HELMER. Nora! -- Kaj tion vi diras!
+
+NORA. Ho, tio doloras min, Torvald; vi estis ja ĉiam bonkora al
+mi. Sed mi povas nenion pri tio fari. Mi ne plu amas vin.
+
+HELMER (kun perforta sinrego). Ĉu ankaŭ tio estas klara kaj
+certa konvinko?
+
+NORA. Jes, tute klara kaj certa. Tial mi ne volas plu resti ĉi
+tie.
+
+HELMER. Kaj ĉu vi ankaŭ povos klarigi por mi, per kio mi perdis
+vian amon?
+
+NORA. Jes, mi povas. Okazis ĉi tiun vesperon, kiam la mirindaĵo
+ne venis; ĉar tiam mi vidis, ke vi ne estas tiu viro, kiun mi
+imagis.
+
+HELMER. Klarigu pli precize; mi ne komprenas vin.
+
+NORA. Mi atendis pacience dum ok jaroj; ĉar, bona Dio, mi
+komprenis ja, ke la mirindaĵo ne estas ia ĉiutaga okazaĵo. Sed
+jen frakasante ondis tio ĉi super min; kaj tiam mi estis absolute
+certa ke: Nun venas la mirindaĵo. Kiam la letero de Krogstad
+kuŝis tie, -- mi neniam havis la penson, ke vi volus klini vin sub
+la kondiĉojn de tiu homo. Mi estis tiom firme certa, ke vi dirus
+al li: Publikigu la aferon por la tuta mondo. Kaj post tio --
+
+HELMER. Jes, kaj kio poste? Kiam mi estus fordoninta al honto kaj
+malhonoro mian propran edzinon --!
+
+NORA. Kiam tio estus okazinta, tiam mi pensis, absolute certe, ke
+vi ekstarus por preni ĉion sur vin kaj dirus: Mi estas kulpa.
+
+HELMER. Nora --!
+
+NORA. Vi pensas, ke mi neniam volus akcepti tian oferon de vi?
+Kompreneble ne. Sed kiom miaj asertoj valorus kontraŭ la viaj? --
+Tio estis la mirindaĵo, al kiu mi sopiris en teruro. Kaj por
+malhelpi tion mi decidis fini mian vivon.
+
+HELMER. Mi ĝoje laborus por vi noktojn kaj tagojn, Nora, --
+eltenus dolorojn kaj mankon por vi. Sed estas neniu, kiu oferas
+sian honoron por tiu, kiun oni amas.
+
+NORA. Tion faris centmiloj da virinoj.
+
+HELMER. Ho, vi kaj pensas kaj parolas kiel sensaĝa infano.
+
+NORA. Nu, bone. Sed vi nek pensas nek parolas kiel tia viro, al
+kiu mi povu ligi min. Kiam pasis via ektimo, -- ne pro tio, kio
+minacis min, sed pro tio, al kio vi mem estis endanĝerigita, kaj
+kiam la tuta danĝero pasis, -- tiam estis por vi, kvazaŭ nenio
+estus okazinta. Ĝuste kiel antaŭe mi estis via eta kantalaŭdo,
+via pupo, kiun vi de nun portus duoble gardeme sur la manoj, ĉar
+ĝi estas tiom fragila kaj malforta. (ekstaras) Torvald, -- en
+tiu momento mi konsciiĝis, ke dum ok jaroj mi loĝas ĉi tie kune
+kun fremda viro, kaj ke mi ekhavis tri infanojn --. Ho, mi ne
+eltenas pensi pri tio! Mi povus disŝiri min mem en pecetojn.
+
+HELMER (peze). Mi vidas; mi vidas. Vere estiĝis fendego inter
+ni. -- Ho, tamen Nora, ĉu ĝi ne estus pleniĝebla?
+
+NORA. Tia, kia mi nun estas, mi neniel estas edzino por vi.
+
+HELMER. Mi havas forton min ŝanĝi.
+
+NORA. Eble, -- se oni forprenas de vi la pupon.
+
+HELMER. Apartiĝi -- apartiĝi de vi! Ne, ne, Nora, mi tute ne
+povas koncepti tian penson.
+
+NORA (eniras la dekstran ĉambron). Des pli certe devas tiel
+okazi.
+
+(Ŝi revenas kun siaj supervestoj kaj malgranda valizo, kiun ŝi
+metas sur la seĝon apud la tablo.)
+
+HELMER. Nora, Nora, ne nun! Atendu ĝis morgaŭ.
+
+NORA (surmetas la mantelon). Mi ne povas kuŝi tra la nokto en la
+ĉambroj de fremda viro.
+
+HELMER. Sed ĉu ni ne povas loĝi ĉi tie kiel frato kaj fratino --?
+
+NORA (ligas la ĉapelon). Vi bone scias, ke tio ne daŭrus longe
+--. (metas la ŝalon ĉirkaŭ sin) Adiaŭ, Torvald. Mi ne volas vidi
+la infanojn. Mi scias, ke ili estas en pli bonaj manoj ol la miaj.
+Tia kia mi nun estas, mi povas esti nenio por ili.
+
+HELMER. Sed iam, Nora, -- iam --?
+
+NORA. Kiel mi povas scii tion? Mi ja ne scias kio el mi
+fariĝos.
+
+HELMER. Sed vi estas mia edzino, kiel vi estas kaj kiel vi
+restos.
+
+NORA. Aŭskultu, Torvald; -- kiam edzino forlasas la domon de sia
+edzo, tiel kiel mi nun faras, tiam, mi aŭdis, li estas laŭ la
+leĝo libera de ĉiuj devoj al ŝi. Ĉiuokaze mi liberigas vin de
+ĉiu ajn devo. Vi ne sentu vin ligita per io, same kiel mi ne volas
+esti ligita. Devas esti plena libereco ambaŭflanke. Jen, vi
+rericevas vian ringon. Donu al mi la mian.
+
+HELMER. Ankaŭ tion?
+
+NORA. Ankaŭ tion.
+
+HELMER. Jen ĝi estas.
+
+NORA. Tiel, jes. Nun do estas finite. Jen mi metas la ŝlosilojn.
+Pri la aferoj en la domo la servistinoj ĉion scias -- pli bone ol
+mi. Morgaŭ, kiam mi estos forvojaĝinta, Kristine venos por paki
+la aĵojn, kiuj estas mia posedaĵo alportita de mia hejmo. Mi
+volas havi ilin postsenditaj.
+
+HELMER. Finite; finite! Nora, ĉu vi neniam plu volas pensi pri
+mi?
+
+NORA. Mi certe ofte pensos pri vi kaj pri la infanoj kaj pri la
+domo.
+
+HELMER. Ĉu vi permesas, ke mi skribu al vi, Nora?
+
+NORA. Ne, -- neniam. Tion mi ne permesas.
+
+HELMER. Ho, sed sendi al vi tamen vi permesas --
+
+NORA. Nenion; nenion.
+
+HELMER. -- helpi vin, se vi bezonos.
+
+NORA. Ne, mi diras. Mi akceptas nenion de fremduloj.
+
+HELMER. Nora, -- ĉu mi neniam povos esti pli ol fremdulo por
+vi?
+
+NORA (prenas la valizon). Ak, Torvald, tiam la mirindaĵo devus
+okazi. --
+
+HELMER. Nomu al mi tiun mirindaĵon!
+
+NORA. Tiam ambaŭ ni devus nin ŝanĝi tiel, ke --. Ho, Torvald,
+mi ne plu kredas pri io mirinda.
+
+HELMER. Sed mi volas kredi je ĝi. Nomu ĝin! Ŝanĝi nin tiel,
+ke --?
+
+NORA. Ke kunvivado inter ni du povu fariĝi geedzeco. Adiaŭ.
+
+(Ŝi eliras tra la antaŭĉambro.)
+
+HELMER (sinkas sur seĝon ĉe la pordo kaj ĵetas la manojn
+antaŭ la vizaĝon). Nora! Nora! (rigardas ĉirkaŭen kaj stariĝas)
+Malplena. Ŝi ne plu estas ĉi tie. (Espero ekbrilas en li:)
+La mirindaĵo --?!
+
+(El malsupre oni aŭdas la bruon de pordo, kiu frape ŝlosiĝas.)
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Puphejmo, by Henrik Ibsen
+
+*** END OF THIS PROJECT GUTENBERG EBOOK PUPHEJMO ***
+
+***** This file should be named 19030-0.txt or 19030-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/1/9/0/3/19030/
+
+Produced by William Patterson, Robert L. Read and Andrew Sly.
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
