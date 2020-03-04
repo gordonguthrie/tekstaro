@@ -38,6 +38,7 @@ defmodule Tekstaro.Text.Text do
 
   @impl true
   def handle_cast({:load, text, title, url}, %State{name: name} = state) do
+		IO.puts("load text")
     hash = :crypto.hash(:sha256, [text])
            |> Base.encode16
            |> String.downcase
@@ -51,6 +52,7 @@ defmodule Tekstaro.Text.Text do
                           last_touched: now()}}
   end
   def handle_cast(:split_text, %State{name: name, text: text} = state) do
+		IO.puts("split text")
     paragraphs = Procezo.estigu_paragrafoj(text)
     length = length(paragraphs)
     msg = "split text up" <> Integer.to_string(length)
@@ -60,19 +62,25 @@ defmodule Tekstaro.Text.Text do
                           status:         "split",
                           last_touched:   now()}}
   end
-  def handle_cast(:process_paragraph, %State{name: name, paragraphs: ps, raw_paragraphs: []} = state) do
+  def handle_cast(:process_paragraph, %State{name: name, raw_paragraphs: []} = state) do
+		IO.puts("no more paras to process")
 		# we don't reverse the paragraph list because the raw paragraphs came to us already reversed
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: "processed all the paragraphs"})
     :ok = GenServer.cast(via(name), :ready_to_save)
-		IO.inspect(ps, label: "processed paragraphs")
     {:noreply,  %{state | status:       "ready to save",
                           last_touched: now()}}
   end
   def handle_cast(:process_paragraph, %State{name:           name,
 																						 paragraphs:     ps,
 																					   raw_paragraphs: [h | t]} = state) do
+		IO.puts("process paragraph")
 		p = GenServer.call(Tekstaro.Text.Vortoj, {:process, h})
-    TekstaroWeb.Endpoint.broadcast(name, "status", %{status: "split text up"})
+		%Paragrafo{intersekvo:        i,
+	             neniu_de_vortoj:   nv,
+               neniu_de_gravuloy: ng} = p
+		msg = "paragraph " <> Integer.to_string(i) <> " of " <> Integer.to_string(ng)
+					<> " split into " <> Integer.to_string(nv) <> " words"
+    TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
     :ok = GenServer.cast(via(name), :process_paragraph)
     {:noreply,  %{state | paragraphs:       [p | ps],
 													raw_paragraphs:   t,

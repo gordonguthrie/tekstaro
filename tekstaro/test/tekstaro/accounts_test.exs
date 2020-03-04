@@ -3,12 +3,14 @@ defmodule Tekstaro.AccountsTest do
 
   alias Tekstaro.Accounts
 
+  ExUnit.configure seed: 123456789
+
   describe "users" do
     alias Tekstaro.Accounts.User
 
-    @valid_attrs %{encripted_password: "some encripted_password", username: "some username"}
-    @update_attrs %{encripted_password: "some updated encripted_password", username: "some updated username"}
-    @invalid_attrs %{encripted_password: nil, username: nil}
+    @valid_attrs   %{encrypted_password: "some encrypted_password", username: "some username"}
+    @update_attrs  %{encrypted_password: "some updated encrypted_password", username: "some updated username"}
+    @invalid_attrs %{encrypted_password: nil, username: nil}
 
     def user_fixture(attrs \\ %{}) do
       {:ok, user} =
@@ -28,10 +30,10 @@ defmodule Tekstaro.AccountsTest do
       user = user_fixture()
       assert Accounts.get_user!(user.id) == user
     end
-
+    # "$2b$12$fwnBZqEH31A.BDpqWQj9FukqPqAsnWfleS/R/09C4n6ax904xh0Wi
     test "create_user/1 with valid data creates a user" do
       assert {:ok, %User{} = user} = Accounts.create_user(@valid_attrs)
-      assert user.encripted_password == "some encripted_password"
+      assert user.encrypted_password == "$2b$12$idQFPrmKEVajGPXZdTZ5yuvhnmj.wODeQmDR6yz/qA5yUspuQ3Xiy"
       assert user.username == "some username"
     end
 
@@ -42,7 +44,7 @@ defmodule Tekstaro.AccountsTest do
     test "update_user/2 with valid data updates the user" do
       user = user_fixture()
       assert {:ok, %User{} = user} = Accounts.update_user(user, @update_attrs)
-      assert user.encripted_password == "some updated encripted_password"
+      assert user.encrypted_password == "$2b$12$idQFPrmKEVajGPXZdTZ5yuvhnmj.wODeQmDR6yz/qA5yUspuQ3Xiy"
       assert user.username == "some updated username"
     end
 

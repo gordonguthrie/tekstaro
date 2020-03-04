@@ -42,3 +42,16 @@
 .dropdown:hover .dropbtn {
   background-color: #606c76;
 }
+
+
+li {
+  float:left;
+  list-style-type:none;
+  margin-right: 20px !important;
+  font-weight: 700;
+  font-size: 1.6rem;
+}
+
+li > a {
+  color: inherit;
+}

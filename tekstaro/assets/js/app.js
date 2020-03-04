@@ -21,8 +21,9 @@ $("#tekstaro_upload").click(function(e) {
   var text = $("#tekstaro_text").val();
   var url = $("#tekstaro_url").val();
   var title = $("#tekstaro_title").val();
-  var payload = {"text": text, "url": url, "title": title}
-  $.ajax('/api/upload',
+  var csrf = $("input[name=_csrf_token]").val();
+  var payload = {"text": text, "url": url, "title": title, "_csrf_token": csrf};
+  $.ajax('/en/upload',
     {
       type: 'POST',  // http method
       data: payload,

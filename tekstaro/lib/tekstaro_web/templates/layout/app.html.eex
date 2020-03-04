@@ -11,24 +11,26 @@
   <body>
     <header>
       <section class="container">
-        <nav role="navigation">
-          <ul>
-            <li><a href="https://github.com/gordonguthrie/radikigo"><%= gettext "On Github" %></a></li>
-            <li><a href="/upload"><%= gettext "Upload Text" %></a></li>
-            <!-- <%= sign_in  = gettext("Sign in")  %> -->
-            <!-- <%= sign_out = gettext("Sign out") %> -->
-            <!-- <%= sign_up  = gettext("Sign up") %> -->
-            <%= if signed_in?(@conn) do %>
-              <li><%= link sign_in,  to: Routes.session_path(@conn, :new, @locale) %></li>
-            <% else %>
-              <li><%= link sign_out, to: Routes.session_path(@conn, :delete, @locale), method: :delete %></li>
-              <li><%= link sign_up,  to: Routes.user_path(@conn, :new, @locale) %></li>
-            <% end %>
-          </ul>
-        </nav>
         <a href="/" class="phx-logo">
           <img src="<%= Routes.static_path(@conn, "/images/tekstaro.png") %>" alt="Tekstaro Logo"/>
         </a>
+      </section>
+      <section class="container">
+        <nav role="navigation">
+          <ul>
+            <!-- <%= sign_in  = gettext("Sign in")   %> -->
+            <!-- <%= sign_out = gettext("Sign out")  %> -->
+            <!-- <%= sign_up  = gettext("Register")  %> -->
+            <%= if signed_in?(@conn) do %>
+              <li><a href="/upload"><%= gettext "Upload Text" %></a></li>
+              <li><%= link sign_out, to: Routes.session_path(@conn, :logout, @locale), method: :delete %></li>
+            <% else %>
+              <li><%= link sign_in,  to: Routes.session_path(@conn, :new, @locale) %></li>
+              <li><%= link sign_up,  to: Routes.user_path(@conn, :new, @locale) %></li>
+            <% end %>
+            <li><a href="https://github.com/gordonguthrie/radikigo"><%= gettext "On Github" %></a></li>
+          </ul>
+        </nav>
       </section>
     </header>
     <main role="main" class="container">

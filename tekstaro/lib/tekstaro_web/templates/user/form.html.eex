@@ -9,11 +9,11 @@
 
   <%= label f, username %>
   <%= text_input f, :username %>
-  <%= error_tag f, :username %>
+  <%= error_tag  f, :username %>
 
-  <%= label f, password, class: "control-label"%>
-  <%= password_input f, :encripted_password, class: "form-control"%>
-  <%= error_tag f, :encripted_password %>
+  <%= label          f, password, class: "control-label"%>
+  <%= password_input f, :encrypted_password, class: "form-control"%>
+  <%= error_tag      f, :encrypted_password %>
 
   <div>
     <!--<%= title = gettext "Register" %> -->

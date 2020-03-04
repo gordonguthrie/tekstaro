@@ -4,11 +4,6 @@ defmodule TekstaroWeb.UserController do
   alias Tekstaro.Accounts
   alias Tekstaro.Accounts.User
 
-  def index(conn, _params) do
-    users = Accounts.list_users()
-    render(conn, "index.html", users: users)
-  end
-
   def new(conn, _params) do
     changeset = Accounts.change_user(%User{})
     render(conn, "new.html", changeset: changeset)

@@ -19,10 +19,11 @@ defmodule TekstaroWeb.Router do
 
     get       "/",              PageController,    :index
     get       "/upload",        UploadController,  :index
+    post      "/upload",        UploadController,  :upload
     resources "/registrations", UserController,    only: [:create, :new]
     get       "/sign-in",       SessionController, :new
-    post      "/sign-in",       SessionController, :create
-    delete    "/sign-out",      SessionController, :delete
+    post      "/sign-in",       SessionController, :login
+    delete    "/sign-out",      SessionController, :logout
   end
 
   scope "/", TekstaroWeb do
@@ -31,11 +32,9 @@ defmodule TekstaroWeb.Router do
     get "/", PageController, :redirect_frontpage
   end
 
-
   # Other scopes may use custom stacks.
    scope "/api", TekstaroWeb do
      pipe_through :api
 
-     post "/upload", UploadController, :upload
    end
 end

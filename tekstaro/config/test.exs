@@ -4,8 +4,8 @@ use Mix.Config
 config :tekstaro, Tekstaro.Repo,
   username: "postgres",
   password: "postgres",
-  database: "tekstaro_test",
-  hostname: "localhost",
+  database: "tekstaro_dev",
+  hostname: "db",
   pool: Ecto.Adapters.SQL.Sandbox
 
 # We don't run a server during test. If one is required,

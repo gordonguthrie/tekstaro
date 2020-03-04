@@ -5,7 +5,7 @@
 
 <section class="row">
   <article class="column">
-    <form>
+    <%= form_for @conn, Routes.upload_path(@conn, :upload, @locale), fn _f -> %>
       <label for="upload"><%= gettext "Text" %></label>
       <textarea id="tekstaro_text" rows="100" cols="80" name="upload" spellcheck="false">
       </textarea><br>
@@ -14,7 +14,7 @@
       <label for="url"><%= gettext "Source of text (URL)" %></label>
       <input id="tekstaro_url" type="text" name="url">
       <button id="tekstaro_upload" type="button">Upload</button>
-    </form>
+    <% end %>
   </article>
 </section>
 <section class="row">
