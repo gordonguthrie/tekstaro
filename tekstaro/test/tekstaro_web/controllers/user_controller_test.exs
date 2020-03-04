@@ -4,7 +4,7 @@ defmodule TekstaroWeb.UserControllerTest do
   alias Tekstaro.Accounts
 
   @create_attrs  %{encrypted_password: "some encrypted_password", username: "some username"}
-  @update_attrs  %{encrypted_password: "some updated encrypted_password", username: "some updated username"}
+  # @update_attrs  %{encrypted_password: "some updated encrypted_password", username: "some updated username"}
   @invalid_attrs %{encrypted_password: nil, username: nil}
 
   def fixture(:user) do
@@ -29,17 +29,15 @@ defmodule TekstaroWeb.UserControllerTest do
   describe "create user" do
     test "redirects to show when data is valid", %{conn: conn} do
       conn = post(conn, Routes.user_path(conn, :create, "en"), user: @create_attrs)
+      # login here redirects to the home page
+      assert %{} = redirected_params(conn)
+      assert redirected_to(conn) == "/"
 
-      assert %{id: id} = redirected_params(conn)
-      assert redirected_to(conn) == Routes.user_path(conn, :show, "en", id)
-
-      conn = get(conn, Routes.user_path(conn, :show, "en", id))
-      assert html_response(conn, 200) =~ "Show User"
     end
 
     test "renders errors when data is invalid", %{conn: conn} do
       conn = post(conn, Routes.user_path(conn, :create, "en"), user: @invalid_attrs)
-      assert html_response(conn, 200) =~ "New User"
+      assert html_response(conn, 200) =~ "Register"
     end
   end
 
@@ -81,8 +79,9 @@ defmodule TekstaroWeb.UserControllerTest do
 #    end
 #  end
 
-  defp create_user(_) do
-    user = fixture(:user)
-    {:ok, user: user}
-  end
+# helper fn not used
+#  defp create_user(_) do
+#    user = fixture(:user)
+#    {:ok, user: user}
+#  end
 end
