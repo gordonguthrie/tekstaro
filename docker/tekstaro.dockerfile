@@ -14,7 +14,7 @@ RUN apt-get install -y npm
 RUN apt-get install -y postgresql postgresql-contrib
 RUN apt-get install -y sudo
 RUN apt-get install -y x11-apps
-
+RUN apt-get install -y pgadmin3
 
 # Replace 1000 with your user / group id
 RUN export uid=501 gid=20 && \
