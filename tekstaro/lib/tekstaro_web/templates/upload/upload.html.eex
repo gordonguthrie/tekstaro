@@ -1,4 +1,4 @@
-<section class="phx-hero">
+<section>
   <h1><%= gettext "Tekstaro Corpus Management" %></h1>
   <p><%= gettext "Upload and prepare text for the corpus" %></p>
 </section>
@@ -19,9 +19,6 @@
 </section>
 <section class="row">
   <article class="column">
-    Wibble
-  </article>
-  <article class="column">
-    Wobble
+    <p class="alert alert-info" id="progress" role="alert"></p>
   </article>
 </section>
