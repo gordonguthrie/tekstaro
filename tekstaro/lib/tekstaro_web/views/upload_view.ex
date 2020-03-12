@@ -6,5 +6,10 @@ defmodule TekstaroWeb.UploadView do
         channel: channel
       }
   end
+  def render("fail.json", %{msg: msg}) do
+      %{
+        error: msg
+      }
+  end
 
 end
