@@ -10,6 +10,9 @@ import {Socket} from "phoenix"
 
 let socket = new Socket("/socket", {params: {token: window.userToken}})
 
+import $ from 'jquery'
+window.$ = $
+
 // When you connect, you'll often need to authenticate the client.
 // For example, imagine you have an authentication plug, `MyAuth`,
 // which authenticates the session and assigns a `:current_user`.
@@ -54,19 +57,22 @@ let socket = new Socket("/socket", {params: {token: window.userToken}})
 
 
 function handle_msg(resp) {
-	console.log("handling " + resp)
+	$("#progress").text(resp);
+}
+
+function handle_error(resp) {
+	$("#progress").value(resp);
 }
 
 export function join(name) {
-	console.log("joining the channel:" + name)
 	// Finally, connect to the socket:
 	socket.connect()
 	// Now that you are connected, you can join channels with a topic:
 	let channel = socket.channel(name, {})
 	channel.join()
-  		.receive("ok", resp => { handle_msg(resp)})
-  		.receive("error", resp => { console.log("Unable to join", resp) })
-  	channel.on("status",  msg  => { console.log("got msg"); console.log(msg)})
+  		.receive("ok", resp => { handle_msg(resp);})
+  		.receive("error", resp => { handle_error(resp);})
+  	channel.on("status",  msg  => { handle_msg(msg.status);})
 
 }
 

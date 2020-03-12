@@ -2,7 +2,7 @@
 // The MiniCssExtractPlugin is used to separate it out into
 // its own CSS file.
 import css from "../css/app.css"
-import $ from "jquery"
+import $ from 'jquery'
 
 // webpack automatically bundles all modules in your
 // entry points. Those entry points can be configured
@@ -31,6 +31,10 @@ $("#tekstaro_upload").click(function(e) {
         var hash = data["channel"]
         join(hash)
       },
-      error: function (data, status, xhr) {console.log("error");}
+      error: function (data, status, xhr) {
+        console.log(JSON.parse(data.responseText).error);
+        var msg = JSON.parse(data.responseText).error
+        $(".alert-danger").text(msg)
+      }
 });
 })
