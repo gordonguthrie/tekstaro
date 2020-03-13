@@ -33,8 +33,8 @@ defmodule TekstaroWeb.Router do
   end
 
   # Other scopes may use custom stacks.
-   scope "/api", TekstaroWeb do
-     pipe_through :api
-
-   end
+  scope "/api", TekstaroWeb do
+    pipe_through :api
+  end
+  
 end
