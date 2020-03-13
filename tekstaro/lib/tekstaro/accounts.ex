@@ -21,10 +21,10 @@ defmodule Tekstaro.Accounts do
   def get_by_username(username) when is_nil(username) do
     nil
   end
+
   def get_by_username(username) do
     Repo.get_by(User, username: username)
   end
-
 
   def list_users do
     Repo.all(User)
