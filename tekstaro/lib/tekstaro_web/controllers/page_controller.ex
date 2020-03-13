@@ -9,5 +9,4 @@ defmodule TekstaroWeb.PageController do
     conn
     |> redirect("/eo")
   end
-
 end
