@@ -6,8 +6,8 @@ defmodule Tekstaro.AccountsTest do
   describe "users" do
     alias Tekstaro.Accounts.User
 
-    @valid_attrs   %{encrypted_password: "some encrypted_password", username: "some username"}
-#    @update_attrs  %{encrypted_password: "some updated encrypted_password", username: "some updated username"}
+    @valid_attrs %{encrypted_password: "some encrypted_password", username: "some username"}
+    #    @update_attrs  %{encrypted_password: "some updated encrypted_password", username: "some updated username"}
     @invalid_attrs %{encrypted_password: nil, username: nil}
 
     def user_fixture(attrs \\ %{}) do
@@ -19,16 +19,17 @@ defmodule Tekstaro.AccountsTest do
       user
     end
 
-# the code this tests is not implemented
-#    test "list_users/0 returns all users" do
-#      user = user_fixture()
-#      assert Accounts.list_users() == [user]
-#    end
+    # the code this tests is not implemented
+    #    test "list_users/0 returns all users" do
+    #      user = user_fixture()
+    #      assert Accounts.list_users() == [user]
+    #    end
 
     test "get_user!/1 returns the user with given id" do
       user = user_fixture()
       assert Accounts.get_user!(user.id) == user
     end
+
     # "$2b$12$fwnBZqEH31A.BDpqWQj9FukqPqAsnWfleS/R/09C4n6ax904xh0Wi
     test "create_user/1 with valid data creates a user" do
       assert {:ok, %User{} = user} = Accounts.create_user(@valid_attrs)
@@ -39,25 +40,25 @@ defmodule Tekstaro.AccountsTest do
       assert {:error, %Ecto.Changeset{}} = Accounts.create_user(@invalid_attrs)
     end
 
-# the code this tests is not implemented
-#    test "update_user/2 with valid data updates the user" do
-#      user = user_fixture()
-#      assert {:ok, %User{} = user} = Accounts.update_user(user, @update_attrs)
-#      assert user.encrypted_password == "$2b$12$idQFPrmKEVajGPXZdTZ5yuvhnmj.wODeQmDR6yz/qA5yUspuQ3Xiy"
-#      assert user.username == "some updated username"
-#    end
-#
-#    test "update_user/2 with invalid data returns error changeset" do
-#      user = user_fixture()
-#      assert {:error, %Ecto.Changeset{}} = Accounts.update_user(user, @invalid_attrs)
-#      assert user == Accounts.get_user!(user.id)
-#    end
-#
-#    test "delete_user/1 deletes the user" do
-#      user = user_fixture()
-#      assert {:ok, %User{}} = Accounts.delete_user(user)
-#      assert_raise Ecto.NoResultsError, fn -> Accounts.get_user!(user.id) end
-#    end
+    # the code this tests is not implemented
+    #    test "update_user/2 with valid data updates the user" do
+    #      user = user_fixture()
+    #      assert {:ok, %User{} = user} = Accounts.update_user(user, @update_attrs)
+    #      assert user.encrypted_password == "$2b$12$idQFPrmKEVajGPXZdTZ5yuvhnmj.wODeQmDR6yz/qA5yUspuQ3Xiy"
+    #      assert user.username == "some updated username"
+    #    end
+    #
+    #    test "update_user/2 with invalid data returns error changeset" do
+    #      user = user_fixture()
+    #      assert {:error, %Ecto.Changeset{}} = Accounts.update_user(user, @invalid_attrs)
+    #      assert user == Accounts.get_user!(user.id)
+    #    end
+    #
+    #    test "delete_user/1 deletes the user" do
+    #      user = user_fixture()
+    #      assert {:ok, %User{}} = Accounts.delete_user(user)
+    #      assert_raise Ecto.NoResultsError, fn -> Accounts.get_user!(user.id) end
+    #    end
 
     test "change_user/1 returns a user changeset" do
       user = user_fixture()
