@@ -4,13 +4,12 @@ defmodule TekstaroWeb.TextChannel do
   intercept ["status"]
 
   def join(name, _params, socket) do
-  	reply = Tekstaro.Text.Text.get_status(name)
+    reply = Tekstaro.Text.Text.get_status(name)
     {:ok, reply, socket}
   end
 
- def handle_out("status", msg, socket) do
+  def handle_out("status", msg, socket) do
     :ok = push(socket, "status", msg)
     {:noreply, socket}
   end
-
 end
