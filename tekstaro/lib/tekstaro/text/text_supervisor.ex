@@ -11,7 +11,7 @@ defmodule Tekstaro.Text.TextSupervisor do
   def start_child(child_name) do
     DynamicSupervisor.start_child(
       __MODULE__,
-      %{id: Text, start: { Text, :start_link,  [child_name]}, restart: :transient})
+      %{id: Text, start: {Text, :start_link, [child_name]}, restart: :transient}
+    )
   end
-
 end
