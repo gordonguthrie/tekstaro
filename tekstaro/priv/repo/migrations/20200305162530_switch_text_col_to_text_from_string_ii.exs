@@ -3,9 +3,9 @@ defmodule Tekstaro.Repo.Migrations.SwitchTextColToTextFromString_II do
 
   def change do
     alter table(:texts) do
-      add :text,     :text
-      add :username, :string # lost the external reference which was bollox
+      add :text, :text
+      # lost the external reference which was bollox
+      add :username, :string
     end
-
   end
 end

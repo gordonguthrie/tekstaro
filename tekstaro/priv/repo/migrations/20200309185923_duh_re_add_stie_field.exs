@@ -3,7 +3,7 @@ defmodule Tekstaro.Repo.Migrations.DuhReAddStieField do
 
   def change do
     alter table(:texts) do
-      add  :site, :string
+      add :site, :string
     end
   end
 end

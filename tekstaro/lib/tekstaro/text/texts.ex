@@ -4,11 +4,11 @@ defmodule Tekstaro.Text.Texts do
 
   @primary_key {:fingerprint, :string, []}
   schema "texts" do
-    field :url,         :string
-    field :site,        :string
-    field :title,       :string
-    field :text,        :string
-    field :username,    :string
+    field :url, :string
+    field :site, :string
+    field :title, :string
+    field :text, :string
+    field :username, :string
 
     timestamps()
   end

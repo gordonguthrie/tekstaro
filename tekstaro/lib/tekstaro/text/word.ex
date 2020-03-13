@@ -3,7 +3,6 @@ defmodule Tekstaro.Text.Word do
   import Ecto.Changeset
 
   schema "word" do
-
     field :fingerprint,         :string
     field :word,                :string
     field :root,                :string
@@ -13,30 +12,29 @@ defmodule Tekstaro.Text.Word do
     field :is_noun?,            :boolean
     field :is_verbal?,          :boolean
     field :is_adverb?,          :boolean
-    field :is_corelative?,      :boolean
+    field :is_correlative?,     :boolean
     field :is_pronoun?,         :boolean
     field :is_krokodile?,       :boolean
     field :is_dictionary_word?, :boolean
     field :is_small_word?,      :boolean
     # `marked` shared between nouns, adjectives, adverbs, korrelatives, pronouns
     # and nouns, adjectives.adverbs derived from verbs (eg participles)
-    field :case_marked?,        :boolean
+    field :case_marked?, :boolean
     # `number` shared between nouns, adjectives, verb parts and pronouns
-    field :number_marked?,      :boolean
+    field :number_marked?, :boolean
     # only nouns cnn be nicknames
-    field :is_nickname?,        :boolean
+    field :is_nickname?, :boolean
     # only pronouns are possesive
-    field :is_possesive?,       :boolean
+    field :is_possesive?, :boolean
     # set of verb properties
-    field :form,                :string
-    field :voice,               :string
-    field :aspect,              :string
-    field :is_participle?,      :boolean
-    field :is_perfect?,         :boolean
+    field :form,           :string
+    field :voice,          :string
+    field :aspect,         :string
+    field :is_participle?, :boolean
+    field :is_perfect?,    :boolean
     timestamps()
 
     has_many :affix, Tekstaro.Text.Affix
-
   end
 
   @fields [
@@ -49,7 +47,7 @@ defmodule Tekstaro.Text.Word do
     :is_noun?,
     :is_verbal?,
     :is_adverb?,
-    :is_corelative?,
+    :is_correlative?,
     :is_pronoun?,
     :is_krokodile?,
     :is_dictionary_word?,
@@ -75,7 +73,7 @@ defmodule Tekstaro.Text.Word do
     :is_noun?,
     :is_verbal?,
     :is_adverb?,
-    :is_corelative?,
+    :is_correlative?,
     :is_pronoun?,
     :is_krokodile?,
     :is_dictionary_word?,

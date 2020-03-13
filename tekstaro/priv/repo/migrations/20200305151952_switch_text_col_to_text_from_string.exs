@@ -3,9 +3,8 @@ defmodule Tekstaro.Repo.Migrations.SwitchTextColToTextFromString do
 
   def change do
     alter table(:texts) do
-      remove :text,     :string
+      remove :text, :string
       remove :username, :string
     end
-
   end
 end

@@ -4,8 +4,7 @@ defmodule Tekstaro.Repo.Migrations.DuhMakeTextsFieldOfTypeText do
   def change do
     alter table(:texts) do
       remove :text, :string
-      add    :text, :text
+      add :text, :text
     end
-
   end
 end
