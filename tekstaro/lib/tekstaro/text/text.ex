@@ -8,6 +8,7 @@ defmodule Tekstaro.Text.Text do
   alias Tekstaro.Text.Texts
   alias Tekstaro.Text.Paragraph
   alias Tekstaro.Text.Word
+  alias Tekstaro.Text.Affix
 
   @registry :text_registry
 
@@ -135,8 +136,8 @@ defmodule Tekstaro.Text.Text do
           "paragraph " <>
             Integer.to_string(i) <>
             " of " <>
-            Integer.to_string(ng) <>
-            " split into " <> Integer.to_string(nv) <> " words"
+            Integer.to_string(no_of_characters) <>
+            " characters split into " <> Integer.to_string(no_of_words) <> " words"
       end
 
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
@@ -221,9 +222,7 @@ defmodule Tekstaro.Text.Text do
       estas_vortarero?: is_a_dictionary_word
     } = h
 
-    write_words(t, fingerprint)
     is_dictionary_word = translate_boolean(is_a_dictionary_word)
-
     record = %{
       fingerprint:         fingerprint,
       word:                String.downcase(unnormalised_word),
@@ -251,12 +250,37 @@ defmodule Tekstaro.Text.Text do
     }
 
     record2 = decorate_record(details, record)
-    result =
+    {:ok, result} =
       %Word{}
       |> Word.changeset(record2)
       |> Repo.insert()
-    IO.inspect(result, label: "wrote word")
-    :ok
+    %Word{id: id} = result
+    :ok = write_affixes(affixes, id)
+    write_words(t, fingerprint)
+  end
+
+  defp write_affixes([], _id), do: :ok
+  defp write_affixes([h | t], id) do
+    IO.inspect({id, h}, label: "affix")
+    {affix, type, no} = process_affix(h)
+    a = %{word_id:  id,
+          affix:    affix,
+          type:     type,
+          position: no}
+    IO.inspect(a, label: 'writing affix')
+   {:ok, _result} =
+        %Affix{}
+        |> Affix.changeset(a)
+        |> IO.inspect(label: "trying to write")
+        |> Repo.insert()
+    write_affixes(t, id)
+  end
+
+  defp process_affix(%Afikso{nombro: n, postfikso: :nil, prefikso: affix}) do
+    {affix, "prefix", n}
+  end
+  defp process_affix(%Afikso{nombro: n, postfikso: affix, prefikso: :nil}) do
+    {affix, "postfix", n}
   end
 
   defp decorate_record([], record) do

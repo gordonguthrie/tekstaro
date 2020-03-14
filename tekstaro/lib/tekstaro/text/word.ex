@@ -66,7 +66,6 @@ defmodule Tekstaro.Text.Word do
   @required [
     :fingerprint,
     :word,
-    :root,
     :starting_position,
     :length,
     :is_adjective?,

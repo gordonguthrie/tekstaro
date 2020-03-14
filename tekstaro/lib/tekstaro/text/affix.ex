@@ -9,13 +9,14 @@ defmodule Tekstaro.Text.Affix do
     field :position, :integer
     belongs_to :word, Tekstaro.Text.Word
     timestamps()
-    
+
   end
 
   @fields [
       :affix,
       :type,
-      :postion
+      :position,
+      :word_id
     ]
 
   @doc false
