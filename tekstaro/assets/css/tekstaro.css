@@ -55,3 +55,11 @@ li {
 li > a {
   color: inherit;
 }
+
+.tekstaro_results {
+  font-style: italic;
+}
+
+.tekstaro_highlight {
+  color: darkred;
+}

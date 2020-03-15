@@ -18,6 +18,7 @@ defmodule TekstaroWeb.Router do
     pipe_through :browser
 
     get       "/",              PageController,    :index
+    post      "/",              PageController,    :search
     get       "/upload",        UploadController,  :index
     post      "/upload",        UploadController,  :upload
     resources "/registrations", UserController,    only: [:create, :new]
@@ -36,5 +37,5 @@ defmodule TekstaroWeb.Router do
   scope "/api", TekstaroWeb do
     pipe_through :api
   end
-  
+
 end

@@ -6,16 +6,14 @@
 
 <section class="row">
   <article class="column">
-    <form>
-      <label for="stem_search"><%= gettext "Search" %></label>
-      <input type="text" name="stem_search">
-      <div class="dropdown">
-        <button class="dropbtn">Language</button>
-          <div class="dropdown-content">
-            <a href="/eo"><img src="/images/flags/EO.svg" /><span style="float:right">Esperanto</span></a>
-            <a href="/en"><img src="/images/flags/IE.svg" /><span style="float:right">English</span></a>
-          </div>
-        </div>
-    </form>
+    <%= form_for @conn, Routes.page_path(@conn, :search, @locale), fn _f -> %>
+      <label for="title"><%= gettext "Search" %></label>
+      <input id="tekstaro_search_term" type="text" name="title">
+      <button id="tekstaro_search" type="button">Search</button>
+    <% end %>
+  </article>
+</section>
+<section  class="row">
+  <article id="tekstaro_results" class="column">
   </article>
 </section>
