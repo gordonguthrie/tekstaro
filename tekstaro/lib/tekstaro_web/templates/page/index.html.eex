@@ -6,14 +6,22 @@
 
 <section class="row">
   <article class="column">
-    <%= form_for @conn, Routes.page_path(@conn, :search, @locale), fn _f -> %>
-      <label for="title"><%= gettext "Search" %></label>
-      <input id="tekstaro_search_term" type="text" name="title">
+    <form>
+      <label for="search_term"><%= gettext "Search" %></label>
+      <input id="tekstaro_search_term" type="text" name="search_term">
       <button id="tekstaro_search" type="button">Search</button>
-    <% end %>
+    </form>
   </article>
 </section>
 <section  class="row">
-  <article id="tekstaro_results" class="column">
+  <article class="column">
+    <legend class="tekstaro_search_header tekstaro_hidden"><%= gettext "Search Terms" %></legend>
+    <article id="tekstaro_search_words">
+    </article>
+  </article>
+  <article class="column">
+   <legend class="tekstaro_results_header tekstaro_hidden"><%= gettext "Results" %></legend>
+   <article id="tekstaro_results">
+   </article>
   </article>
 </section>

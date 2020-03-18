@@ -63,3 +63,19 @@ li > a {
 .tekstaro_highlight {
   color: darkred;
 }
+
+.tekstaro_search_words {
+  padding-right: 10px;
+}
+
+.tekstaro_hidden {
+  display: none;
+}
+
+.tekstaro_small {
+  font-size: 70%;
+}
+
+.tekstaro_tight {
+  margin-bottom: 0px;
+}

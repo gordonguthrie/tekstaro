@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<%= @locale %>">
   <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -21,6 +21,7 @@
             <!-- <%= sign_in  = gettext("Sign in")   %> -->
             <!-- <%= sign_out = gettext("Sign out")  %> -->
             <!-- <%= sign_up  = gettext("Register")  %> -->
+            <li><a href="/"><%= gettext "Search Corpus" %></a></li>
             <%= if signed_in?(@conn) do %>
               <li><a href="/upload"><%= gettext "Upload Text" %></a></li>
               <li><%= link sign_out, to: Routes.session_path(@conn, :logout, @locale), method: :delete %></li>
@@ -39,5 +40,5 @@
       <%= render @view_module, @view_template, assigns %>
     </main>
     <script type="text/javascript" src="<%= Routes.static_path(@conn, "/js/app.js") %>"></script>
-  </body>
-</html>
+   </body>
+  </html>

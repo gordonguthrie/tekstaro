@@ -10,6 +10,8 @@ defmodule Tekstaro.Text.Text do
   alias Tekstaro.Text.Word
   alias Tekstaro.Text.Affix
 
+  alias Tekstaro.Text.Translate
+
   @registry :text_registry
 
   defstruct name:           "",
@@ -222,7 +224,7 @@ defmodule Tekstaro.Text.Text do
       estas_vortarero?: is_a_dictionary_word
     } = h
 
-    is_dictionary_word = translate_boolean(is_a_dictionary_word)
+    is_dictionary_word = Translate.translate_boolean(is_a_dictionary_word)
     record = %{
       fingerprint:         fingerprint,
       word:                String.downcase(unnormalised_word),
@@ -293,9 +295,9 @@ defmodule Tekstaro.Text.Text do
     new = %{
       record
       | is_noun?: true,
-        case_marked?:   translate_case(case_marked),
-        number_marked?: translate_number(number),
-        is_nickname?:   translate_boolean(is_nickname)
+        case_marked?:   Translate.translate_case(case_marked),
+        number_marked?: Translate.translate_number(number),
+        is_nickname?:   Translate.translate_boolean(is_nickname)
     }
     decorate_record(t, new)
   end
@@ -305,8 +307,8 @@ defmodule Tekstaro.Text.Text do
     new = %{
       record
       | is_adjective?:  true,
-        case_marked?:   translate_case(case_marked),
-        number_marked?: translate_number(number)
+        case_marked?:   Translate.translate_case(case_marked),
+        number_marked?: Translate.translate_number(number)
     }
     decorate_record(t, new)
   end
@@ -315,7 +317,7 @@ defmodule Tekstaro.Text.Text do
     new = %{
       record
       | is_adverb?:   true,
-        case_marked?: translate_case(case_marked)
+        case_marked?: Translate.translate_case(case_marked)
     }
     decorate_record(t, new)
   end
@@ -324,7 +326,7 @@ defmodule Tekstaro.Text.Text do
     new = %{
       record
       | is_correlative?: true,
-        case_marked?:    translate_case(case_marked)
+        case_marked?:    Translate.translate_case(case_marked)
     }
     decorate_record(t, new)
   end
@@ -335,9 +337,9 @@ defmodule Tekstaro.Text.Text do
              new = %{
                record
                | is_pronoun?:    true,
-                 case_marked?:   translate_case(case_marked),
-                 number_marked?: translate_number(number),
-                 is_possesive?:  translate_boolean(is_possessive)
+                 case_marked?:   Translate.translate_case(case_marked),
+                 number_marked?: Translate.translate_number(number),
+                 is_possesive?:  Translate.translate_boolean(is_possessive)
              }
      decorate_record(t, new)
   end
@@ -364,40 +366,14 @@ defmodule Tekstaro.Text.Text do
            estas_perfekto: is_perfect} = h
            new = %{
              record
-             | form:           translate_form(form),
-               voice:          translate_voice(voice),
-               aspect:         translate_aspect(aspect),
-               is_participle?: translate_boolean(is_participle),
-               is_perfect?:    translate_boolean(is_perfect)
+             | form:           Translate.translate_form(form),
+               voice:          Translate.translate_voice(voice),
+               aspect:         Translate.translate_aspect(aspect),
+               is_participle?: Translate.translate_boolean(is_participle),
+               is_perfect?:    Translate.translate_boolean(is_perfect)
            }
     decorate_record(t, new)
   end
-
-  defp translate_voice(:aktiva), do: "active"
-  defp translate_voice(:pasiva), do: "passive"
-
-  defp translate_aspect(:nil),      do: "none"
-  defp translate_aspect(:ekestiĝa), do: "in_play"
-  defp translate_aspect(:finita),   do: "finished"
-  defp translate_aspect(:anticipa), do: "anticipated"
-
-  defp translate_form(:infinitiva), do: "infinive"
-  defp translate_form(:nuna),       do: "present"
-  defp translate_form(:futuro),     do: "future"
-  defp translate_form(:estinta),    do: "past"
-  defp translate_form(:kondiĉa),    do: "conditional"
-  defp translate_form(:imperativa), do: "imperative"
-  defp translate_form(:participa),  do: "participle"
-  defp translate_form(:radikigo),   do: "radical"
-
-  defp translate_number(:sola),  do: false
-  defp translate_number(:plura), do: true
-
-  defp translate_case(:markita),    do: true
-  defp translate_case(:malmarkita), do: false
-
-  defp translate_boolean(:ne),  do: false
-  defp translate_boolean(:jes), do: true
 
   defp via(name), do: {:via, Registry, {@registry, name}}
 

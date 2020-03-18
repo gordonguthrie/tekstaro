@@ -7,12 +7,12 @@
   <article class="column">
     <%= form_for @conn, Routes.upload_path(@conn, :upload, @locale), fn _f -> %>
       <label for="upload"><%= gettext "Text" %></label>
-      <textarea id="tekstaro_text" rows="100" cols="80" name="upload" spellcheck="false">
+      <textarea id="tekstaro_text" rows="100" cols="80" name="upload" spellcheck="false" >
       </textarea><br>
       <label for="title"><%= gettext "Title" %></label>
-      <input id="tekstaro_title" type="text" name="title">
-      <label for="url"><%= gettext "Source of text (URL)" %></label>
-      <input id="tekstaro_url" type="text" name="url">
+      <input id="tekstaro_title" type="text" name="title" placeholder="Unua Libro en Esperanto">
+      <label for="url"><%= gettext "Source" %></label>
+      <input id="tekstaro_url" type="text" name="url" placeholder="http://example.com">
       <button id="tekstaro_upload" type="button">Upload</button>
     <% end %>
   </article>

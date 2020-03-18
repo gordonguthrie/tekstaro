@@ -7,7 +7,8 @@ defmodule TekstaroWeb.Router do
     plug :fetch_flash
     plug :protect_from_forgery
     plug :put_secure_browser_headers
-    plug SetLocale, gettext: TekstaroWeb.Gettext, default_locale: "eo"
+    plug SetLocale, gettext: TekstaroWeb.Gettext, default_locale: "eo", cookie_key: "project_locale",
+      additional_locales: ["en"]
   end
 
   pipeline :api do
@@ -18,7 +19,6 @@ defmodule TekstaroWeb.Router do
     pipe_through :browser
 
     get       "/",              PageController,    :index
-    post      "/",              PageController,    :search
     get       "/upload",        UploadController,  :index
     post      "/upload",        UploadController,  :upload
     resources "/registrations", UserController,    only: [:create, :new]
@@ -30,12 +30,14 @@ defmodule TekstaroWeb.Router do
   scope "/", TekstaroWeb do
     pipe_through :browser
 
-    get "/", PageController, :redirect_frontpage
+    get "/", PageController, :chose_language, as: :redirect_frontpage
   end
 
   # Other scopes may use custom stacks.
   scope "/api", TekstaroWeb do
     pipe_through :api
+    post "/search",  SearchController, :search
+    post "/parse",   SearchController, :parse
   end
 
 end

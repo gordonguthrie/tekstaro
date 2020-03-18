@@ -3,7 +3,9 @@
 <!-- <%= password = gettext("password") %> -->
 <!-- <%= sign_in = gettext("Sign in") %> -->
 <%= form_for @conn, Routes.session_path(@conn, :new, @locale), [as: :session], fn f-> %>
-  <%= text_input(f, :username, placeholder: username) %>
-  <%= password_input(f, :password, placeholder: password) %>
+  <%= label f, username %>
+  <%= text_input(f, :username) %>
+  <%= label f, password %>
+  <%= password_input(f, :password) %>
   <%= submit(sign_in) %>
 <% end %>
