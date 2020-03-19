@@ -8,11 +8,11 @@ defmodule Tekstaro.Text.Paragraph do
     field :sequence,         :integer
     field :no_of_words,      :integer
     field :no_of_characters, :integer
-
+    belongs_to :texts, Tekstaro.Text.Texts
     timestamps()
   end
 
-  @fields [:fingerprint, :text, :sequence, :no_of_words, :no_of_characters]
+  @fields [:fingerprint, :text, :texts_id, :sequence, :no_of_words, :no_of_characters]
 
   @doc false
   def changeset(text, attrs) do

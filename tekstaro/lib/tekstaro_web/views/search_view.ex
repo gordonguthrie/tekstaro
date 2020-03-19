@@ -8,8 +8,12 @@ defmodule TekstaroWeb.SearchView do
   end
 
   def render("search.json", %{results: results, search_terms: search_terms}) do
-    data = for [text, start, length] <- results do
-      _element = %{text: text, annotations: [%{start: start, length: length}]}
+    data = for [title, url, text, paragraph_sequence, start, length] <- results do
+      _element = %{title:              title,
+                   url:                url,
+                   text:               text,
+                   paragraph_sequence: paragraph_sequence,
+                   annotations:        [%{start: start, length: length}]}
     end
     %{
       response: %{search_terms: search_terms, data: data}

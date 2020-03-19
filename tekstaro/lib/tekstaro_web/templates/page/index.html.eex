@@ -14,14 +14,14 @@
   </article>
 </section>
 <section  class="row">
-  <article class="column">
+  <article class="column tekstaro_search_header tekstaro_hidden" id="tekstaro_narrow_column">
     <legend class="tekstaro_search_header tekstaro_hidden"><%= gettext "Search Terms" %></legend>
     <article id="tekstaro_search_words">
     </article>
   </article>
-  <article class="column">
+  <article class="column tekstaro_results_header tekstaro_hidden">
    <legend class="tekstaro_results_header tekstaro_hidden"><%= gettext "Results" %></legend>
-   <article id="tekstaro_results">
+   <article id="tekstaro_results" class="tekstaro_results_header tekstaro_hidden">
    </article>
   </article>
 </section>

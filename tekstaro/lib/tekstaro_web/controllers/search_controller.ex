@@ -3,7 +3,7 @@ defmodule TekstaroWeb.SearchController do
 
   alias Tekstaro.Text.Translate
 
-  def parse(conn, %{"search_term" => s, "locale" => locale} = params) do
+  def parse(conn, %{"search_term" => s, "locale" => locale} = _params) do
     Gettext.put_locale(locale)
     raw_paragraphs = Procezo.estigu_paragrafoj(s)
     paragraphs = for p <- raw_paragraphs, do: GenServer.call(Tekstaro.Text.Vortoj, {:process, p})
@@ -154,9 +154,23 @@ defmodule TekstaroWeb.SearchController do
           _  -> root
         end
     end
+    # remember we are destructing teh returned results
+    # using the order fields are specified in this query
+    # edit this query and you need to edit search_view.ex
     sql = """
-    SELECT paragraph.text, word.starting_position, word.length FROM word
-    INNER JOIN paragraph ON word.fingerprint = paragraph.fingerprint
+    SELECT
+      texts.title,
+      texts.site,
+      paragraph.text,
+      paragraph.texts_id,
+      word.starting_position,
+      word.length
+    FROM
+      public.texts,
+      public.paragraph
+    LEFT OUTER JOIN
+      word ON
+      word.fingerprint = paragraph.fingerprint
     WHERE
     """ <> Enum.join(clauses, " OR ") <> "  LIMIT 15;"
     {sql, Enum.sort(search_terms)}

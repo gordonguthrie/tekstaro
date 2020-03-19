@@ -79,3 +79,8 @@ li > a {
 .tekstaro_tight {
   margin-bottom: 0px;
 }
+
+#tekstaro_narrow_column {
+  width: auto;
+  min-width: 200px;
+}

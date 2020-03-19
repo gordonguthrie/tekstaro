@@ -26,8 +26,11 @@ var build_results = function (data) {
     $.each(data, function(x) {
       var text = data[x]["text"]
       var annotations = data[x]["annotations"]
+      var title = data[x]["title"]
+      var url = data[x]["url"]
+      var paragraph_sequence = data[x]["paragraph_sequence"].toString()
       var start = 0
-      html += "<p class='tekstaro_results'>"
+      html += "<p class='tekstaro_results tekstaro_tight'>"
       $.each(annotations, function(a) {
         var astart = annotations[a].start
         var afinish = astart + annotations[a].length
@@ -41,6 +44,8 @@ var build_results = function (data) {
       });
       var finale = text.slice(start, text.length)
       html += finale + "</p>"
+      html += "<a href='" + url + "' class='tekstaro_small'>" + title + " (paragraph " + paragraph_sequence + ")</a>"
+      html += "<hr />"
     })
   }
   return results += html
@@ -50,6 +55,7 @@ var build_parse_results = function (data) {
   if (data.length === 0) {
     return ""
   } else {
+    $(".tekstaro_results_header").addClass("tekstaro_hidden")
     var html = ""
     $.each(data, function(x) {
       var details = data[x]["details"]

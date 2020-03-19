@@ -32,8 +32,8 @@ defmodule Tekstaro.Text.Word do
     field :aspect,         :string
     field :is_participle?, :boolean
     field :is_perfect?,    :boolean
+    belongs_to :paragraph, Tekstaro.Text.Paragraph
     timestamps()
-
     has_many :affix, Tekstaro.Text.Affix
   end
 
