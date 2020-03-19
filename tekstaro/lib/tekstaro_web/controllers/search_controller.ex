@@ -154,6 +154,21 @@ defmodule TekstaroWeb.SearchController do
           _  -> root
         end
     end
+
+    # we are going to do a random offset for our searches so that each time you get
+    # different results
+    # a fingerprint is a hash of the form
+    # 0deeb8fa1dbbee4c0dbe7f5e3c9183940139f26d22797ee8ab07c00557a4c2ff
+    # the upper bound is therefore
+    # ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+    # we will generate a rnadom hash between:
+    # 0000000000000000000000000000000000000000000000000000000000000000
+    # and
+    # efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+    # and then display 15 results with a hadh higher than that
+    {upper, ""} = Integer.parse("efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff", 16)
+    random = String.downcase(Integer.to_string(Enum.random(0..upper), 16))
+
     # remember we are destructing teh returned results
     # using the order fields are specified in this query
     # edit this query and you need to edit search_view.ex
@@ -172,7 +187,8 @@ defmodule TekstaroWeb.SearchController do
       word ON
       word.fingerprint = paragraph.fingerprint
     WHERE
-    """ <> Enum.join(clauses, " OR ") <> "  LIMIT 15;"
+      paragraph.fingerprint >
+    """  <> "'" <> random <> "' AND (" <> Enum.join(clauses, " OR ") <> ")  LIMIT 15;"
     {sql, Enum.sort(search_terms)}
   end
 
