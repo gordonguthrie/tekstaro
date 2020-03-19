@@ -19,6 +19,7 @@ defmodule TekstaroWeb.SearchController do
     {sql, search_terms} = make_sql(words)
     response = Ecto.Adapters.SQL.query!(Tekstaro.Repo, sql)
     %Postgrex.Result{rows: rows} = response
+    IO.inspect(rows, label: "rows")
     conn
     |> render("search.json", results: rows, search_terms: search_terms)
   end
@@ -177,15 +178,17 @@ defmodule TekstaroWeb.SearchController do
       texts.title,
       texts.site,
       paragraph.text,
-      paragraph.texts_id,
+      paragraph.sequence,
       word.starting_position,
       word.length
     FROM
-      public.texts,
       public.paragraph
-    LEFT OUTER JOIN
+    INNER JOIN
       word ON
       word.fingerprint = paragraph.fingerprint
+    INNER JOIN
+      texts ON
+      paragraph.texts_id = texts.id
     WHERE
       paragraph.fingerprint >
     """  <> "'" <> random <> "' AND (" <> Enum.join(clauses, " OR ") <> ")  LIMIT 15;"
