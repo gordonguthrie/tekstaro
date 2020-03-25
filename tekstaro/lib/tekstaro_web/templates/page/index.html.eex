@@ -1,4 +1,4 @@
-<section class="phx-hero">
+<section id="activate_tekstaro_menu" data-menu="tekstaro_menu_search" class="phx-hero">
   <h1><%= gettext "Welcome to %{name}!", name: "Tekstaro" %></h1>
   <p><%= gettext "A tool for writers of Esperanto that allows them to explore usage of words and grammer from a large corpus of written Esperanto." %></p>
   <p><%= gettext "Tekstaro also has simple and intuitive tools to upload new texts and detect duplicate submissions." %></p>
@@ -7,9 +7,9 @@
 <section class="row">
   <article class="column">
     <form>
-      <label for="search_term"><%= gettext "Search" %></label>
+      <label for="search_term"><%= gettext("Search")%></label>
       <input id="tekstaro_search_term" type="text" name="search_term">
-      <button id="tekstaro_search" type="button">Search</button>
+      <button id="tekstaro_search" type="button"><%= gettext("Search") %></button>
     </form>
   </article>
 </section>
