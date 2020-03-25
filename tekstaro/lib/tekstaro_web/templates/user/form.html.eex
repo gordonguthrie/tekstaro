@@ -1,3 +1,4 @@
+<span id="activate_tekstaro_menu" data-menu="tekstaro_menu_sign_up"></span>
 <%= form_for @changeset, @action, fn f -> %>
   <%= if @changeset.action do %>
     <div class="alert alert-danger">

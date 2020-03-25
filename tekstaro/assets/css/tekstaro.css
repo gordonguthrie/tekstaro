@@ -61,7 +61,7 @@ li > a {
 }
 
 .tekstaro_highlight {
-  color: darkred;
+  color: forestgreen;
 }
 
 .tekstaro_search_words {
@@ -83,4 +83,12 @@ li > a {
 #tekstaro_narrow_column {
   width: auto;
   min-width: 200px;
+}
+
+.teskaro_menu_active {
+  color: darkgreen;
+}
+
+#tekstaro_menu_ul {
+  margin-left: 0px;
 }

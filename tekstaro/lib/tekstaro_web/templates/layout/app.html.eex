@@ -17,17 +17,18 @@
       </section>
       <section class="container">
         <nav role="navigation">
-          <ul>
+          <ul id="tekstaro_menu_ul">
             <!-- <%= sign_in  = gettext("Sign in")   %> -->
             <!-- <%= sign_out = gettext("Sign out")  %> -->
             <!-- <%= sign_up  = gettext("Register")  %> -->
-            <li><a href="/"><%= gettext "Search Corpus" %></a></li>
+            <li class="tekstaro_menu tekstaro_menu_search teskaro_menu_active" ><a href="/"><%= gettext "Search corpus" %></a></li>
+            <li class="tekstaro_menu tekstaro_menu_browse" ><a href="/browse"><%= gettext "Browse corpus" %></a></li>
             <%= if signed_in?(@conn) do %>
-              <li><a href="/upload"><%= gettext "Upload Text" %></a></li>
-              <li><%= link sign_out, to: Routes.session_path(@conn, :logout, @locale), method: :delete %></li>
+              <li class="tekstaro_menu tekstaro_menu_upload"><a href="/upload"><%= gettext "Upload Text" %></a></li>
+              <li class="tekstaro_menu tekstaro_menu_sign_out"><%= link sign_out, to: Routes.session_path(@conn, :logout, @locale), method: :delete %></li>
             <% else %>
-              <li><%= link sign_in,  to: Routes.session_path(@conn, :new, @locale) %></li>
-              <li><%= link sign_up,  to: Routes.user_path(@conn, :new, @locale) %></li>
+              <li class="tekstaro_menu tekstaro_menu_sign_in"><%= link sign_in,  to: Routes.session_path(@conn, :new, @locale) %></li>
+              <li class="tekstaro_menu tekstaro_menu_sign_up"><%= link sign_up,  to: Routes.user_path(@conn, :new, @locale) %></li>
             <% end %>
             <li><a href="https://github.com/gordonguthrie/radikigo"><%= gettext "On Github" %></a></li>
           </ul>

@@ -1,4 +1,4 @@
-<h1><% gettext("Sign in") %></h1>
+<h1 id="activate_tekstaro_menu" data-menu="tekstaro_menu_sign_in"><% gettext("Sign in") %></h1>
 <!-- <%= username = gettext("username") %> -->
 <!-- <%= password = gettext("password") %> -->
 <!-- <%= sign_in = gettext("Sign in") %> -->

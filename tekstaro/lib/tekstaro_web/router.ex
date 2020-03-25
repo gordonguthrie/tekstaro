@@ -20,6 +20,7 @@ defmodule TekstaroWeb.Router do
 
     get       "/",              PageController,    :index
     get       "/upload",        UploadController,  :index
+    get       "/browse",        BrowseController,  :index
     post      "/upload",        UploadController,  :upload
     resources "/registrations", UserController,    only: [:create, :new]
     get       "/sign-in",       SessionController, :new
@@ -38,6 +39,7 @@ defmodule TekstaroWeb.Router do
     pipe_through :api
     post "/search",  SearchController, :search
     post "/parse",   SearchController, :parse
+    post "/browse",  BrowseController, :browse
   end
 
 end
