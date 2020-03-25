@@ -19,7 +19,6 @@ defmodule TekstaroWeb.SearchController do
     {sql, search_terms} = make_sql(words)
     response = Ecto.Adapters.SQL.query!(Tekstaro.Repo, sql)
     %Postgrex.Result{rows: rows} = response
-    IO.inspect(rows, label: "rows")
     conn
     |> render("search.json", results: rows, search_terms: search_terms)
   end
@@ -76,7 +75,7 @@ defmodule TekstaroWeb.SearchController do
     translate_details(t, [Translate.translate_korelatevo(h) | acc])
   end
   defp translate_details([:krokodilo | t], acc) do
-    translate_details(t, [gettext("Krokodilo") | acc])
+    translate_details(t, ["Krokodilo" | acc])
   end
   defp translate_details([:malgrandavorto | t], acc) do
     translate_details(t, [gettext("Small word") | acc])
