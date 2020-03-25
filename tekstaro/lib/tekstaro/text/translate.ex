@@ -16,7 +16,7 @@ defmodule Tekstaro.Text.Translate do
       :ne  -> description
     end
     description = case estas_partipo do
-      :jes -> [gettext("It is ") <> translate_aspect(aspecto) <> " " <> gettext("participle.") | description]
+      :jes -> [gettext("It is a") <> translate_aspect(aspecto) <> " " <> gettext("participle.") | description]
       :ne  -> description
     end
     Enum.join(Enum.reverse(description), " ")
