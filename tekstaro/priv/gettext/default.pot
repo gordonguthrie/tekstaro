@@ -16,7 +16,7 @@ msgid "A tool for writers of Esperanto that allows them to explore usage of word
 msgstr ""
 
 #, elixir-format
-#: lib/tekstaro_web/templates/layout/app.html.eex:16
+#: lib/tekstaro_web/templates/layout/app.html.eex:33
 msgid "On Github"
 msgstr ""
 
@@ -26,11 +26,534 @@ msgid "Tekstaro also has simple and intuitive tools to upload new texts and dete
 msgstr ""
 
 #, elixir-format
-#: lib/tekstaro_web/templates/layout/app.html.eex:17
+#: lib/tekstaro_web/templates/layout/app.html.eex:27
 msgid "Upload Text"
 msgstr ""
 
 #, elixir-format
 #: lib/tekstaro_web/templates/page/index.html.eex:2
 msgid "Welcome to %{name}!"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:29
+msgid " (its a nickname)."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:37
+msgid "A dictionary word."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:73
+msgid "Active voice."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:18
+msgid "Adjective"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:48
+msgid "Adjective."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:22
+msgid "Adverb"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:40
+msgid "Adverb."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:4
+#: lib/tekstaro_web/templates/browse/index.html.eex:75
+msgid "Browse"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/layout/app.html.eex:25
+msgid "Browse corpus"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:34 lib/tekstaro/text/translate.ex:41
+#: lib/tekstaro/text/translate.ex:50 lib/tekstaro/text/translate.ex:61 lib/tekstaro/text/translate.ex:68
+msgid "Case marked."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:85
+msgid "Conditional mood."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:28
+msgid "Correlative"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:67
+msgid "Correlative."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:83
+msgid "Future tense."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:86
+msgid "Imperative."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:81
+msgid "Infinive."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:38
+msgid "Not a dictionary word."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:32
+#: lib/tekstaro_web/templates/browse/index.html.eex:14
+msgid "Noun"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/user/form.html.eex:5
+msgid "Oops, something went wrong! Please check the errors below."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:87
+msgid "Participle."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:74
+msgid "Passive voice."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/user/form.html.eex:9
+msgid "Password"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:84
+msgid "Past tense."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:15
+msgid "Perfect aspect."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:91
+msgid "Plural."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:59
+msgid "Possesive."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:131
+msgid "Postfix: -esque"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:117
+msgid "Postfix: -ics"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:140
+msgid "Postfix: -ology"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:104
+msgid "Postfix: a group"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:103
+msgid "Postfix: a member of a group"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:126
+msgid "Postfix: a person"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:111
+msgid "Postfix: a place"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:109
+msgid "Postfix: a single instance"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:106
+msgid "Postfix: abstract quality, trait, attribute or essence"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:135
+msgid "Postfix: an -ism"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:122
+msgid "Postfix: at a time (for numbers)"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:119
+msgid "Postfix: capabile of doing..."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:139
+msgid "Postfix: chief of"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:102
+msgid "Postfix: concrete object or product or behaviour"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:134
+msgid "Postfix: container, partially containing"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:110
+msgid "Postfix: decrease in strength or size"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:118
+msgid "Postfix: female"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:123
+msgid "Postfix: full of"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:107
+msgid "Postfix: increase in strength or size"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:121
+msgid "Postfix: makes fractions (for numbers)"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:115
+msgid "Postfix: makes intransitive verbs transitive (and add an object to transative vers)"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:114
+msgid "Postfix: makes transitive verbs intransitive, denotes becoming"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:137
+msgid "Postfix: multiple of quantities (for numbers)"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:130
+msgid "Postfix: necessary"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:113
+msgid "Postfix: offspring"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:100
+msgid "Postfix: poor quality"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:136
+msgid "Postfix: someone who does"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:116
+msgid "Postfix: something to do it, an instrument"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:101
+msgid "Postfix: the duration of an action"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:129
+msgid "Postfix: the possibility, -able"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:125
+msgid "Postfix: the territory of, a container that fully encloses"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:132
+msgid "Postfix: times (for numbers, 3 times, 4 times)"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:127
+msgid "Postfix: to make quirky verbs from nouns"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:108
+msgid "Postfix: to tend towards"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:133
+msgid "Postfix: worthy of"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:91
+msgid "Prefix: both men and women"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:94
+msgid "Prefix: dispersion in all directions"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:95
+msgid "Prefix: former, ex"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:88
+msgid "Prefix: in-law"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:90
+msgid "Prefix: low (moral) quality"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:97
+msgid "Prefix: malfunction"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:98
+msgid "Prefix: old, antique"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:89
+msgid "Prefix: on set of action (in verbs)"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:92
+msgid "Prefix: repetition or restoration"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:96
+msgid "Prefix: reversal of meaning"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:82
+msgid "Present tense."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:32
+msgid "Pronoun"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:58
+msgid "Pronoun."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:88
+msgid "Radical (not being used as a verb)."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/layout/app.html.eex:23
+#: lib/tekstaro_web/templates/user/form.html.eex:20 lib/tekstaro_web/templates/user/new.html.eex:1
+msgid "Register"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:86
+#: lib/tekstaro_web/templates/page/index.html.eex:23
+msgid "Results"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/page/index.html.eex:10
+msgid "Search"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:81
+#: lib/tekstaro_web/templates/page/index.html.eex:18
+msgid "Search Terms"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/layout/app.html.eex:24
+msgid "Search corpus"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/layout/app.html.eex:21
+#: lib/tekstaro_web/templates/session/new.html.eex:1 lib/tekstaro_web/templates/session/new.html.eex:4
+msgid "Sign in"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/layout/app.html.eex:22
+msgid "Sign out"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/session_controller.ex:17
+msgid "Signed in successfully"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/session_controller.ex:30
+msgid "Signed out sucessfully"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/user_controller.ex:17
+msgid "Signed up successfully."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:90
+msgid "Singular."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:81
+#: lib/tekstaro_web/templates/browse/index.html.eex:36
+msgid "Small word"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/upload/upload.html.eex:13
+msgid "Source"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/upload/upload.html.eex:8
+msgid "Text"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/upload/upload.html.eex:11
+msgid "Title"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/user/form.html.eex:8
+msgid "Username"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:10
+msgid "Verb"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:10
+msgid "Verb."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:78
+msgid "a 'finished'"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:79
+msgid "an 'anticipated'"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:77
+msgid "an 'in-play'"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:19
+msgid "participle."
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/session/new.html.eex:3
+msgid "password"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/session_controller.ex:22
+msgid "there was a problem with your username/password"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/session/new.html.eex:2
+msgid "username"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/translate.ex:19
+msgid "It is a"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/upload/upload.html.eex:15
+msgid "Upload"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/upload/upload.html.eex:2
+msgid "Upload text for the corpus."
 msgstr ""
