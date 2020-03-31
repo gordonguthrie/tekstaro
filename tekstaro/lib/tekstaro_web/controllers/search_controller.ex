@@ -3,8 +3,17 @@ defmodule TekstaroWeb.SearchController do
 
   alias Tekstaro.Text.Translate
 
-  def parse(conn, %{"search_term" => s, "locale" => locale} = _params) do
-    Gettext.put_locale(locale)
+  def browse(conn, params) do
+    IO.inspect(params, label: "in browse/browse");
+    sql = make_browse_sql(params);
+    response = Ecto.Adapters.SQL.query!(Tekstaro.Repo, sql)
+    %Postgrex.Result{rows: rows} = response
+    rows2 = process_rows(rows)
+    conn
+    |> render("browse.json", results: rows2)
+  end
+
+  def parse(conn, %{"search_term" => s} = _params) do
     raw_paragraphs = Procezo.estigu_paragrafoj(s)
     paragraphs = for p <- raw_paragraphs, do: GenServer.call(Tekstaro.Text.Vortoj, {:process, p})
     results = get_parse_results(paragraphs)
@@ -16,11 +25,21 @@ defmodule TekstaroWeb.SearchController do
     raw_paragraphs = Procezo.estigu_paragrafoj(s)
     paragraphs = for p <- raw_paragraphs, do: GenServer.call(Tekstaro.Text.Vortoj, {:process, p})
     words = get_words(paragraphs)
-    {sql, search_terms} = make_sql(words)
+    {sql, _search_terms} = make_search_sql(words)
     response = Ecto.Adapters.SQL.query!(Tekstaro.Repo, sql)
     %Postgrex.Result{rows: rows} = response
+    rows2 = process_rows(rows)
     conn
-    |> render("search.json", results: rows, search_terms: search_terms)
+    |> render("search.json", results: rows2, search_terms: s)
+  end
+
+  defp process_rows(rows) do
+    for [word | t] <- rows do
+      raw_paragraphs = Procezo.estigu_paragrafoj(word)
+      paragraphs = for p <- raw_paragraphs, do: GenServer.call(Tekstaro.Text.Vortoj, {:process, p})
+      [w] = get_parse_results(paragraphs)
+      [w | t]
+    end
   end
 
   defp get_parse_results(paragraphs) do
@@ -139,7 +158,85 @@ defmodule TekstaroWeb.SearchController do
   defp translate_affix(%Afikso{postfikso: "estr"}), do: %{element: "estr", meaning: gettext("Postfix: chief of")}
   defp translate_affix(%Afikso{postfikso: "olog"}), do: %{element: "estr", meaning: gettext("Postfix: -ology")}
 
-  defp make_sql(terms) do
+  defp make_browse_sql(%{"type"               => t,
+                         "is_dictionary_word" => d,
+                         "booleans"           => b} = terms) do
+
+    type = "word." <> t <> "=true"
+    dict = "word.is_dictionary_word=" <> d
+
+    cursor = get_cursor()
+
+    ors1 = case Map.has_key?(terms, "aspect") do
+      true  -> %{"aspect"   => a} = terms
+                make_ors("aspect", a)
+      false -> []
+    end
+
+    ors2 = case Map.has_key?(terms, "form") do
+      true  -> %{"form" => f} = terms
+                make_ors("form", f)
+      false -> []
+    end
+
+    ors3 = case Map.has_key?(terms, "voice") do
+      true  -> %{"voice" => v} = terms
+                make_ors("voice", v)
+      false -> []
+    end
+
+    ors4 = for {k, v} <- b, do: k <> "='" <> v <> "'"
+    ors4X = case ors4 do
+      [] -> []
+      _  -> "(" <> Enum.join(ors4, " AND ") <> ")"
+    end
+
+    orsX = List.flatten([ors1, ors2, ors3, ors4X])
+    ors = case orsX do
+      [] -> []
+      _  ->  "(" <> Enum.join(orsX, " OR ") <> ")"
+    end
+
+    where_clauses = Enum.join(List.flatten([type, dict, ors]), " AND ")
+
+    _sql = """
+    SELECT
+    word.word,
+    texts.title,
+    texts.site,
+    paragraph.text,
+    paragraph.sequence,
+    word.starting_position,
+    word.length
+    FROM
+      public.paragraph
+    INNER JOIN
+      word ON
+      word.fingerprint = paragraph.fingerprint
+    INNER JOIN
+      texts ON
+      paragraph.texts_id = texts.id
+    WHERE
+      paragraph.fingerprint >
+    """  <> "'" <> cursor <> "'" <>
+    " AND " <>
+    where_clauses <>
+     " LIMIT 15;"
+  end
+
+  defp make_browse_sql(%{"type"               => t,
+                         "is_dictionary_word" => d} = _terms) do
+      make_browse_sql(%{"type"               => t,
+                        "is_dictionary_word" => d,
+                        "booleans"           => []})
+  end
+  defp make_browse_sql(%{"type"              => "is_krokodile"} = _terms) do
+      make_browse_sql(%{"type"               => "is_krokodile",
+                        "is_dictionary_word" => "false",
+                        "booleans"           => []})
+  end
+
+  defp make_search_sql(terms) do
     # some words are consumed by their parts and don't have roots
     # eg `a` or `igo`
     clauses = for {word, root} <- terms do
@@ -155,25 +252,14 @@ defmodule TekstaroWeb.SearchController do
         end
     end
 
-    # we are going to do a random offset for our searches so that each time you get
-    # different results
-    # a fingerprint is a hash of the form
-    # 0deeb8fa1dbbee4c0dbe7f5e3c9183940139f26d22797ee8ab07c00557a4c2ff
-    # the upper bound is therefore
-    # ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-    # we will generate a rnadom hash between:
-    # 0000000000000000000000000000000000000000000000000000000000000000
-    # and
-    # efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-    # and then display 15 results with a hadh higher than that
-    {upper, ""} = Integer.parse("efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff", 16)
-    random = String.downcase(Integer.to_string(Enum.random(0..upper), 16))
+    cursor = get_cursor()
 
-    # remember we are destructing teh returned results
+    # remember we are destructing the returned results
     # using the order fields are specified in this query
     # edit this query and you need to edit search_view.ex
     sql = """
     SELECT
+      word.word,
       texts.title,
       texts.site,
       paragraph.text,
@@ -190,8 +276,33 @@ defmodule TekstaroWeb.SearchController do
       paragraph.texts_id = texts.id
     WHERE
       paragraph.fingerprint >
-    """  <> "'" <> random <> "' AND (" <> Enum.join(clauses, " OR ") <> ")  LIMIT 15;"
+    """  <> "'" <> cursor <> "'" <>
+    " AND " <>
+    "(" <> Enum.join(clauses, " OR ") <> ")" <>
+    " LIMIT 15;"
     {sql, Enum.sort(search_terms)}
+  end
+
+  defp make_ors(_title, []), do: []
+  defp make_ors(title, matches) do
+    clauses = for m <- matches, do: "word." <> title <> " = '" <> m <> "'"
+    "(" <> Enum.join(clauses, " OR ") <> ")"
+  end
+
+  defp get_cursor() do
+    # we are going to do a random offset for our searches so that each time you get
+    # different results
+    # a fingerprint is a hash of the form
+    # 0deeb8fa1dbbee4c0dbe7f5e3c9183940139f26d22797ee8ab07c00557a4c2ff
+    # the upper bound is therefore
+    # ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+    # we will generate a rnadom hash between:
+    # 0000000000000000000000000000000000000000000000000000000000000000
+    # and
+    # efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+    # and then display 15 results with a hash higher than that
+    {upper, ""} = Integer.parse("efffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff", 16)
+    _randomcursor = String.downcase(Integer.to_string(Enum.random(0..upper), 16))
   end
 
 end

@@ -7,7 +7,7 @@ defmodule TekstaroWeb.UploadController do
     render(conn, "upload.html")
   end
 
-  def upload(conn, %{"text" => text, "title" => title, "url" => url}) do
+  def upload(conn, %{"text" => text, "title" => title, "url" => url, "locale" => locale}) do
     user_id = get_session(conn, :current_user_id)
     current_user = Tekstaro.Accounts.get_user!(user_id)
     site = get_site(url)
@@ -15,7 +15,7 @@ defmodule TekstaroWeb.UploadController do
     case is_input_valid(title, site) do
       true ->
         {:ok, s} = site
-        channel = Tekstaro.Text.Text.start_child(text, title, url, s, current_user)
+        channel = Tekstaro.Text.Text.start_child(text, title, url, s, locale, current_user)
         render(conn, "upload.json", channel: channel)
 
       false ->

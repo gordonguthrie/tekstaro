@@ -46,103 +46,87 @@
     <section class='row tekstaro_verb tekstaro_hideable tekstaro_hidden'>
       <article class="column">
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='infinitives'>
-          <%= gettext("infinitives") %>
-        </div>
-        <div>
-          <input type='checkbox' class='tekstaro_verb' name='present'>
+          <input type='checkbox' class='tekstaro_verb_form' name='present'>
           <%= gettext("present") %>
         </div>
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='future'>
+          <input type='checkbox' class='tekstaro_verb_form' name='future'>
           <%= gettext("future") %>
         </div>
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='past'>
+          <input type='checkbox' class='tekstaro_verb_form' name='past'>
           <%= gettext("past") %>
         </div>
       </article>
       <article class="column">
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='conditionals'>
+          <input type='checkbox' class='tekstaro_verb_form' name='infinitive'>
+          <%= gettext("infinitives") %>
+        </div>
+        <div>
+          <input type='checkbox' class='tekstaro_verb_form' name='conditional'>
           <%= gettext("conditionals") %>
         </div>
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='imperatives'>
+          <input type='checkbox' class='tekstaro_verb_form' name='imperative'>
           <%= gettext("imperatives") %>
         </div>
-        <div>
-          <input type='checkbox' class='tekstaro_verb' name='is_participle?'>
-          <%= gettext("participles") %>
-        </div>
-        <div>
-          <input type='checkbox' class='tekstaro_verb' name='radicals'>
-          <%= gettext("radicals") %>
-        </div>
       </article>
       <article class="column">
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='active_voice'>
-          <%= gettext("active voice") %>
-        </div>
-        <div>
-          <input type='checkbox' class='tekstaro_verb' name='passive_voice'>
-          <%= gettext("passive voice") %>
-        </div>
-        <div>
-          <input type='checkbox' class='tekstaro_verb' name='inplay_aspect'>
+          <input type='checkbox' class='tekstaro_verb_aspect' name='in-play'>
           <%= gettext("in play aspect") %>
         </div>
-      </article>
-      <article class="column">
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='completed_aspect'>
+          <input type='checkbox' class='tekstaro_verb_aspect' name='completed'>
           <%= gettext("completed aspect") %>
         </div>
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='anticpated_aspects'>
+          <input type='checkbox' class='tekstaro_verb_aspect' name='anticipated'>
           <%= gettext("anticipated aspect") %>
         </div>
+      </article>
+      <article class="column">
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='is_participle'>
-          <%= gettext("particples") %>
+          <input type='checkbox' class='tekstaro_verb_voice' name='active'>
+          <%= gettext("active voice") %>
         </div>
         <div>
-          <input type='checkbox' class='tekstaro_verb' name='is_perfect?'>
-          <%= gettext("perfect") %>
+          <input type='checkbox' class='tekstaro_verb_voice' name='passive'>
+          <%= gettext("passive voice") %>
         </div>
       </article>
       <hr />
       </section>
       <section class='row tekstaro_noun tekstaro_hideable tekstaro_hidden'>
         <article class="column">
-          <input type='checkbox' class='tekstaro_noun' name='case_marked?'>
+          <input type='checkbox' class='tekstaro_noun' name='case_marked'>
           <%= gettext("case marked") %>
         </article>
         <article class="column">
-          <input type='checkbox' class='tekstaro_noun' name='number_marked?'>
+          <input type='checkbox' class='tekstaro_noun' name='number_marked'>
           <%= gettext("plurals") %>
         </article>
         <article class="column">
-          <input type='checkbox' class='tekstaro_noun' name='is_nickname?'>
+          <input type='checkbox' class='tekstaro_noun' name='is_nickname'>
           <%= gettext("nicknames") %>
         </article>
         <article class="column">
-          <input type='checkbox' class='tekstaro_noun' name='is_verbal?'>
+          <input type='checkbox' class='tekstaro_noun' name='is_verbal'>
           <%= gettext("verbal noun") %>
         </article>
       </section>
       <section class='row tekstaro_adjective tekstaro_hideable tekstaro_hidden'>
         <article class="column">
-          <input type='checkbox' class='tekstaro_adjective' name='case_marked?'>
+          <input type='checkbox' class='tekstaro_adjective' name='case_marked'>
           <%= gettext("case marked") %>
         </article>
         <article class="column">
-          <input type='checkbox' class='tekstaro_adjective' name='number_marked?'>
+          <input type='checkbox' class='tekstaro_adjective' name='number_marked'>
           <%= gettext("plurals") %>
         </article>
         <article class="column">
-          <input type='checkbox' class='tekstaro_adjective' name='is_verbal?'>
+          <input type='checkbox' class='tekstaro_adjective' name='is_verbal'>
           <%= gettext("verbal adjective") %>
         </article>
         <article class="column">
@@ -150,15 +134,15 @@
       </section>
       <section class='row tekstaro_adverb tekstaro_hideable tekstaro_hidden'>
         <article class="column">
-          <input type='checkbox' class='tekstaro_adverb' name='case_marked?'>
+          <input type='checkbox' class='tekstaro_adverb' name='case_marked'>
           <%= gettext("case marked") %>
         </article>
         <article class="column">
-          <input type='checkbox' class='tekstaro_adverb' name='number_marked?'>
+          <input type='checkbox' class='tekstaro_adverb' name='number_marked'>
           <%= gettext("plurals") %>
         </article>
         <article class="column">
-          <input type='checkbox' class='tekstaro_adverb' name='is_verbal?'>
+          <input type='checkbox' class='tekstaro_adverb' name='is_verbal'>
           <%= gettext("verbal adverb") %>
         </article>
         <article class="column">
@@ -166,38 +150,42 @@
       </section>
       <section class='row tekstaro_correlative tekstaro_hideable tekstaro_hidden'>
         <article class="column">
-          <input type='checkbox' class='tekstaro_correlative' name='case_marked?'>
+          <input type='checkbox' class='tekstaro_correlative' name='case_marked'>
           <%= gettext("case marked") %>
         <article>
       </section>
       <section class='row tekstaro_pronoun tekstaro_hideable tekstaro_hidden'>
         <article class="column">
-          <input type='checkbox' class='tekstaro_pronoun' name='case_marked?'>
+          <input type='checkbox' class='tekstaro_pronoun' name='case_marked'>
           <%= gettext("case marked") %>
         </article>
       <article class="column">
-        <input type='checkbox' class='tekstaro_pronoun' name='number_marked?'>
+        <input type='checkbox' class='tekstaro_pronoun' name='number_marked'>
         <%= gettext("plurals") %>
       </article>
       <article class="column">
-        <input type='checkbox' class='tekstaro_pronoun' name='is_possesive?'>
+        <input type='checkbox' class='tekstaro_pronoun' name='is_possesive'>
         <%= gettext("possesive") %>
       </article>
       <article class="column">
       </article>
     </section>
     <hr class="tekstaro_hide_on_load tekstaro_hidden" />
+    <section class="row">
+      <article class="column">
+        <div>
+          <input type='checkbox' id='tekstaro_dictionary' name='browse' value='dictionary' checked>
+          <%= gettext("dictionary words only") %>
+        </div>
+      </article>
+    </section>
+    <hr/>
     <section class='row'>
       <article class="column">
         <button id='tekstaro_browse' type='button'><%= gettext("Browse") %></button>
       </article>
     </section>
     <section  class='row'>
-      <article class='column tekstaro_search_header tekstaro_hidden' id='tekstaro_narrow_column'>
-        <legend class='tekstaro_search_header tekstaro_hidden'><%= gettext("Search Terms") %></legend>
-        <article id='tekstaro_search_words'>
-        </article>
-      </article>
       <article class='column tekstaro_results_header tekstaro_hidden'>
         <legend class='tekstaro_results_header tekstaro_hidden'><%= gettext ("Results") %></legend>
         <article id='tekstaro_results' class='tekstaro_results_header tekstaro_hidden'>

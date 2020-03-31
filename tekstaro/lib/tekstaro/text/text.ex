@@ -4,11 +4,14 @@ defmodule Tekstaro.Text.Text do
   import Ecto.Query, warn: false
   alias Tekstaro.Repo
 
+  require TekstaroWeb.Gettext
+
   alias Tekstaro.Text.Text, as: State
   alias Tekstaro.Text.Texts
   alias Tekstaro.Text.Paragraph
   alias Tekstaro.Text.Word
   alias Tekstaro.Text.Affix
+  alias TekstaroWeb.Gettext, as: GT
 
   @registry :text_registry
 
@@ -19,7 +22,8 @@ defmodule Tekstaro.Text.Text do
             raw_paragraphs: "",
             paragraphs:     "",
             last_touched:   "",
-            username:       ""
+            username:       "",
+            locale:         ""
 
   #
   # Gen Server callbacks
@@ -47,7 +51,9 @@ defmodule Tekstaro.Text.Text do
   end
 
   @impl true
-  def handle_cast({:load, text, title, url, site}, %State{name: name, texts: texts} = state) do
+  def handle_cast({:load, text, title, url, site, locale}, %State{name: name, texts: texts} = state) do
+    IO.inspect(locale, label: "locale is")
+    IO.inspect(state, label: "state is")
     canonical = String.trim(text)
 
     fingerprint =
@@ -57,7 +63,8 @@ defmodule Tekstaro.Text.Text do
 
     case Repo.get_by(Texts, fingerprint: fingerprint) do
       nil ->
-        TekstaroWeb.Endpoint.broadcast(name, "status", %{status: "loaded"})
+        msg = GT.gettext("loaded")
+        TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
         :ok = GenServer.cast(via(name), :save_texts)
 
         newtexts = %{
@@ -68,11 +75,15 @@ defmodule Tekstaro.Text.Text do
             text:        canonical,
             fingerprint: fingerprint
         }
-
-        {:noreply, %{state | texts: newtexts, status: "loaded", last_touched: now()}}
+        Gettext.put_locale(locale)
+        {:noreply, %{state | texts:        newtexts,
+                             status:       "loaded",
+                             locale:       locale,
+                             last_touched: now()}}
 
       _ ->
-        TekstaroWeb.Endpoint.broadcast(name, "status", %{status: "text already saved"})
+        msg = GT.gettext("text already saved")
+        TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
         :ok = GenServer.cast(via(name), :terminate)
         {:noreply, state}
     end
@@ -82,7 +93,8 @@ defmodule Tekstaro.Text.Text do
     %{text: text} = texts
     paragraphs = Procezo.estigu_paragrafoj(text)
     length = length(paragraphs)
-    msg = "split text up" <> Integer.to_string(length)
+    msg = GT.gettext("split text up") <> " " <> Integer.to_string(length)
+    IO.inspect(msg, label: "msg in split text")
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
     :ok = GenServer.cast(via(name), :process_paragraph)
     {:noreply, %{state
@@ -93,10 +105,11 @@ defmodule Tekstaro.Text.Text do
 
   def handle_cast(:process_paragraph, %State{name: name, raw_paragraphs: []} = state) do
     # we don't reverse the paragraph list because the raw paragraphs came to us already reversed
-    TekstaroWeb.Endpoint.broadcast(name, "status", %{status: "processed all the paragraphs"})
-    :ok = GenServer.cast(via(name), :ready_to_save)
+    msg = GT.gettext("processed all the paragraphs")
+    TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
+    :ok = GenServer.cast(via(name), :terminate)
     {:noreply, %{state
-                 | status:      "ready to save",
+                 | status:      "terminate",
                    last_touched: now()}}
   end
 
@@ -135,14 +148,15 @@ defmodule Tekstaro.Text.Text do
     msg =
       case result do
         {:error, _e} ->
-          "paragraph " <> Integer.to_string(i) <> " already written"
+          GT.gettext("paragraph") <> " " <> Integer.to_string(i) <> GT.gettext(" already written")
 
         {:ok, _other} ->
-          "paragraph " <>
-            Integer.to_string(i) <>
-            " of " <>
-            Integer.to_string(no_of_characters) <>
-            " characters split into " <> Integer.to_string(no_of_words) <> " words"
+            GT.gettext("paragraph") <> " " <>
+            Integer.to_string(i) <> " " <>
+            GT.gettext("of") <> " " <>
+            Integer.to_string(no_of_characters) <> " " <>
+            GT.gettext("characters split into") <> " " <>
+            Integer.to_string(no_of_words) <> " " <> GT.gettext("words")
       end
 
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
@@ -156,10 +170,9 @@ defmodule Tekstaro.Text.Text do
                    last_touched:   now()}}
   end
 
-  def handle_cast(
-        :save_texts,
-        %State{name: name, texts: texts} = state
-      ) do
+  def handle_cast(:save_texts, %State{name: name, texts: texts} = state) do
+        msg = GT.gettext("Please be patient this step takes a minute or two")
+        TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
     result =
       %Texts{}
       |> Texts.changeset(texts)
@@ -168,11 +181,10 @@ defmodule Tekstaro.Text.Text do
     {msg, next_step, id} =
       case result do
         {:error, _e} ->
-          {"text already submitted", :terminate, 0}
+          {GT.gettext("text already submitted"), :terminate, 0}
         {:ok, write} ->
           %Tekstaro.Text.Texts{id: id} = write
-          IO.inspect(write, label: "successful write")
-          {"text written to disk (but not paras)", :split_text, id}
+          {GT.gettext("text written to disk (but not paras)"), :split_text, id}
       end
 
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
@@ -180,8 +192,10 @@ defmodule Tekstaro.Text.Text do
     {:noreply, %{state | texts_id: id}}
   end
 
-  def handle_cast(something, state) do
+  def handle_cast(something, %State{name: name} = state) do
     IO.inspect(something, label: "not handling")
+    msg = GT.gettext("fix text server termination, ya fanny")
+    TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
     {:noreply, state}
   end
 
@@ -189,7 +203,7 @@ defmodule Tekstaro.Text.Text do
   # API for the regsitered modules
   #
 
-  def start_child(text, title, url, site, username) do
+  def start_child(text, title, url, site, locale, username) do
     # we used a hash as an ID in case the person resubmits
     # but internally we use a separate hash to identify a text
     # the internal has is only approximate because trivial editing
@@ -204,7 +218,7 @@ defmodule Tekstaro.Text.Text do
 
     name = "text:" <> hash
     {:ok, _pid} = Tekstaro.Text.TextSupervisor.start_child({name, username})
-    :ok = GenServer.cast(via(name), {:load, text, title, url, site})
+    :ok = GenServer.cast(via(name), {:load, text, title, url, site, locale})
     name
   end
 
@@ -231,29 +245,29 @@ defmodule Tekstaro.Text.Text do
 
     is_dictionary_word = translate_boolean(is_a_dictionary_word)
     record = %{
-      fingerprint:         fingerprint,
-      word:                String.downcase(unnormalised_word),
-      root:                root,
-      starting_position:   starting_position,
-      length:              word_length,
-      is_dictionary_word?: is_dictionary_word,
-      is_adjective?:       false,
-      is_noun?:            false,
-      is_verbal?:          false,
-      is_adverb?:          false,
-      is_correlative?:     false,
-      is_pronoun?:         false,
-      is_krokodile?:       false,
-      is_small_word?:      false,
-      case_marked?:        false,
-      number_marked?:      false,
-      is_nickname?:        false,
-      is_possesive?:       false,
-      form:                "infinitive",
-      voice:               "active",
-      aspect:              "none",
-      is_participle?:      false,
-      is_perfect?:         false
+      fingerprint:        fingerprint,
+      word:               String.downcase(unnormalised_word),
+      root:               root,
+      starting_position:  starting_position,
+      length:             word_length,
+      is_dictionary_word: is_dictionary_word,
+      is_adjective:       false,
+      is_noun:            false,
+      is_verbal:          false,
+      is_adverb:          false,
+      is_correlative:     false,
+      is_pronoun:         false,
+      is_krokodile:       false,
+      is_small_word:      false,
+      case_marked:        false,
+      number_marked:      false,
+      is_nickname:        false,
+      is_possesive:       false,
+      form:               "infinitive",
+      voice:              "active",
+      aspect:             nil,
+      is_participle:      false,
+      is_perfect:         false
     }
 
     record2 = decorate_record(details, record)
@@ -268,7 +282,6 @@ defmodule Tekstaro.Text.Text do
 
   defp write_affixes([], _id), do: :ok
   defp write_affixes([h | t], id) do
-    IO.inspect({id, h}, label: "affix")
     {affix, type, no} = process_affix(h)
     a = %{word_id:  id,
           affix:    affix,
@@ -297,10 +310,10 @@ defmodule Tekstaro.Text.Text do
             estas_karesnomo: is_nickname} = h
     new = %{
       record
-      | is_noun?: true,
-        case_marked?:   translate_case(case_marked),
-        number_marked?: translate_number(number),
-        is_nickname?:   translate_boolean(is_nickname)
+      | is_noun:       true,
+        case_marked:   translate_case(case_marked),
+        number_marked: translate_number(number),
+        is_nickname:   translate_boolean(is_nickname)
     }
     decorate_record(t, new)
   end
@@ -309,9 +322,9 @@ defmodule Tekstaro.Text.Text do
             nombro:          number} = h
     new = %{
       record
-      | is_adjective?:  true,
-        case_marked?:   translate_case(case_marked),
-        number_marked?: translate_number(number)
+      | is_adjective:  true,
+        case_marked:   translate_case(case_marked),
+        number_marked: translate_number(number)
     }
     decorate_record(t, new)
   end
@@ -319,8 +332,8 @@ defmodule Tekstaro.Text.Text do
     %Evorto{kazo: case_marked} = h
     new = %{
       record
-      | is_adverb?:   true,
-        case_marked?: translate_case(case_marked)
+      | is_adverb:   true,
+        case_marked: translate_case(case_marked)
     }
     decorate_record(t, new)
   end
@@ -328,8 +341,8 @@ defmodule Tekstaro.Text.Text do
     %Korelatevo{kazo: case_marked} = h
     new = %{
       record
-      | is_correlative?: true,
-        case_marked?:    translate_case(case_marked)
+      | is_correlative: true,
+        case_marked:    translate_case(case_marked)
     }
     decorate_record(t, new)
   end
@@ -339,24 +352,24 @@ defmodule Tekstaro.Text.Text do
              nombro:       number} = h
              new = %{
                record
-               | is_pronoun?:    true,
-                 case_marked?:   translate_case(case_marked),
-                 number_marked?: translate_number(number),
-                 is_possesive?:  translate_boolean(is_possessive)
+               | is_pronoun:    true,
+                 case_marked:   translate_case(case_marked),
+                 number_marked: translate_number(number),
+                 is_possesive:  translate_boolean(is_possessive)
              }
      decorate_record(t, new)
   end
   defp decorate_record([:malgrandavorto | t], record) do
     new = %{
       record
-      | is_small_word?: true
+      | is_small_word: true
     }
     decorate_record(t, new)
   end
   defp decorate_record([:krokodilo | t], record) do
       new = %{
         record
-        | is_krokodile?: true
+        | is_krokodile: true
       }
       decorate_record(t, new)
   end
@@ -369,11 +382,12 @@ defmodule Tekstaro.Text.Text do
            estas_perfekto: is_perfect} = h
            new = %{
              record
-             | form:           translate_form(form),
-               voice:          translate_voice(voice),
-               aspect:         translate_aspect(aspect),
-               is_participle?: translate_boolean(is_participle),
-               is_perfect?:    translate_boolean(is_perfect)
+             | is_verbal:     true,
+               form:          translate_form(form),
+               voice:         translate_voice(voice),
+               aspect:        translate_aspect(aspect),
+               is_participle: translate_boolean(is_participle),
+               is_perfect:    translate_boolean(is_perfect)
            }
     decorate_record(t, new)
   end
@@ -381,12 +395,12 @@ defmodule Tekstaro.Text.Text do
   defp translate_voice(:aktiva), do: "active"
   defp translate_voice(:pasiva), do: "passive"
 
-  defp translate_aspect(:nil),      do: "nil"
+  defp translate_aspect(:nil),      do: :nil
   defp translate_aspect(:ekestiĝa), do: "in-play"
-  defp translate_aspect(:finita),   do: "finished"
+  defp translate_aspect(:finita),   do: "completed"
   defp translate_aspect(:anticipa), do: "anticipated"
 
-  defp translate_form(:infinitiva), do: "infinive"
+  defp translate_form(:infinitiva), do: "infinitive"
   defp translate_form(:nuna),       do: "present"
   defp translate_form(:futuro),     do: "future"
   defp translate_form(:estinta),    do: "past"

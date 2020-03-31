@@ -39,7 +39,7 @@ defmodule TekstaroWeb.Router do
     pipe_through :api
     post "/search",  SearchController, :search
     post "/parse",   SearchController, :parse
-    post "/browse",  BrowseController, :browse
+    post "/browse",  SearchController, :browse
   end
 
 end
