@@ -2,8 +2,7 @@ defmodule Tekstaro.Text.Vortoj do
   use GenServer
   alias Tekstaro.Text.Vortoj, as: State
 
-  defstruct afiksa_vortaro: [],
-            vortaro: []
+  defstruct afiksa_vortaro: []
 
   #
   # Gen Server callbacks
@@ -16,16 +15,15 @@ defmodule Tekstaro.Text.Vortoj do
   @impl true
   def init([]) do
     afiksa_vortaro = Vorto.akiru_malvera_afikso_vortaro()
-    vortaro = Vorto.akiru_vortaro()
-    {:ok, %State{afiksa_vortaro: afiksa_vortaro, vortaro: vortaro}}
+    {:ok, %State{afiksa_vortaro: afiksa_vortaro}}
   end
 
   @impl true
   def handle_call({:process, %Paragrafo{radikigoj: tokenoj} = p}, _from, state) do
-    %State{afiksa_vortaro: afiksa_vortaro, vortaro: vortaro} = state
+    %State{afiksa_vortaro: afiksa_vortaro} = state
 
-    {_, _, _, tj} =
-      Enum.reduce(tokenoj, {0, vortaro, afiksa_vortaro, []}, &Procezo.procezu_vorto/2)
+    {_, _, tj} =
+      Enum.reduce(tokenoj, {0, afiksa_vortaro, []}, &Procezo.procezu_vorto/2)
 
     reply = %Paragrafo{p | radikigoj: tj}
     {:reply, reply, state}

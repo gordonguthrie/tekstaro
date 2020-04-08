@@ -148,7 +148,7 @@ defmodule Tekstaro.Text.Text do
     msg =
       case result do
         {:error, _e} ->
-          GT.gettext("paragraph") <> " " <> Integer.to_string(i) <> GT.gettext(" already written")
+          GT.gettext("paragraph") <> " " <> Integer.to_string(i) <> " " <> GT.gettext("already written")
 
         {:ok, _other} ->
             GT.gettext("paragraph") <> " " <>
@@ -239,18 +239,15 @@ defmodule Tekstaro.Text.Text do
       detaletoj:        details,
       afiksoj:          affixes,
       ekesto:           starting_position,
-      longaĵo:          word_length,
-      estas_vortarero?: is_a_dictionary_word
+      longaĵo:          word_length
     } = h
 
-    is_dictionary_word = translate_boolean(is_a_dictionary_word)
     record = %{
       fingerprint:        fingerprint,
       word:               String.downcase(unnormalised_word),
       root:               root,
       starting_position:  starting_position,
       length:             word_length,
-      is_dictionary_word: is_dictionary_word,
       is_adjective:       false,
       is_noun:            false,
       is_verbal:          false,

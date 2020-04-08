@@ -15,7 +15,6 @@ defmodule Tekstaro.Text.Word do
     field :is_correlative,     :boolean
     field :is_pronoun,         :boolean
     field :is_krokodile,       :boolean
-    field :is_dictionary_word, :boolean
     field :is_small_word,      :boolean
     # `marked` shared between nouns, adjectives, adverbs, korrelatives, pronouns
     # and nouns, adjectives.adverbs derived from verbs (eg participles)
@@ -49,7 +48,6 @@ defmodule Tekstaro.Text.Word do
     :is_correlative,
     :is_pronoun,
     :is_krokodile,
-    :is_dictionary_word,
     :is_small_word,
     :case_marked,
     :number_marked,
@@ -74,7 +72,6 @@ defmodule Tekstaro.Text.Word do
     :is_correlative,
     :is_pronoun,
     :is_krokodile,
-    :is_dictionary_word,
     :is_small_word,
     :case_marked,
     :number_marked,

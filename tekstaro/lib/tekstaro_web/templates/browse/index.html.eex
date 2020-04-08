@@ -41,6 +41,16 @@
           Krokodiloj
         </div>
       </article>
+      <article class="column">
+        <div>
+          <input type='radio' id='prefix' name='browse' value='prefix'>
+          <%= gettext("Prefixes") %>
+        </div>
+        <div>
+          <input type='radio' id='postfix' name='browse' value='postfix'>
+          <%= gettext("Postfixes") %>
+        </div>
+      </article>
     </section>
     <hr/>
     <section class='row tekstaro_verb tekstaro_hideable tekstaro_hidden'>
@@ -170,16 +180,196 @@
       <article class="column">
       </article>
     </section>
-    <hr class="tekstaro_hide_on_load tekstaro_hidden" />
-    <section class="row">
+
+    <section class='row tekstaro_prefix tekstaro_hideable tekstaro_hidden'>
       <article class="column">
         <div>
-          <input type='checkbox' id='tekstaro_dictionary' name='browse' value='dictionary' checked>
-          <%= gettext("dictionary words only") %>
+        <input type='checkbox' class='tekstaro_prefix' name='bo'>
+        <%= gettext("bo- (in-law)") %>
+      </div>
+      <div>
+        <input type='checkbox' class='tekstaro_prefix' name='ek'>
+        <%= gettext("ek- (onset of action)") %>
+       </div>
+       <div>
+       <input type='checkbox' class='tekstaro_prefix' name='dis'>
+       <%= gettext("dis- (dispersion)") %>
+     </div>
+     <div>
+       <input type='checkbox' class='tekstaro_prefix' name='eks'>
+       <%= gettext("eks- (former, ex-)") %>
+       </div>
+      </article>
+      <article class="column">
+        <div>
+        <input type='checkbox' class='tekstaro_prefix' name='fi'>
+        <%= gettext("fi- (low morals)") %>
+      </div>
+      <div>
+        <input type='checkbox' class='tekstaro_prefix' name='ge'>
+        <%= gettext("ge- (both men and women)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_prefix' name='mal'>
+        <%= gettext("mal- (reverse meaning)") %>
+      </div>
+      <div>
+        <input type='checkbox' class='tekstaro_prefix' name='mis'>
+        <%= gettext("mis- (malfunction)") %>
+        </div>
+      </article>
+      <article class="column">
+        <div>
+        <input type='checkbox' class='tekstaro_prefix' name='pra'>
+        <%= gettext("pra- (old, antique)") %>
+      </div>
+      <div>
+        <input type='checkbox' class='tekstaro_prefix' name='re'>
+        <%= gettext("re- (repetition)") %>
         </div>
       </article>
     </section>
-    <hr/>
+
+
+    <section class='row tekstaro_postfix tekstaro_hideable tekstaro_hidden'>
+      <article class="column">
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='aĉ'>
+        <%= gettext("-aĉ- (poor quality)") %>
+        <div>
+        </div>
+        <input type='checkbox' class='tekstaro_postfix' name='aj'>
+        <%= gettext("-aj- (concrete object, product)") %>
+       </div>
+       <div>
+       <input type='checkbox' class='tekstaro_postfix' name='an'>
+       <%= gettext("-an- (group member)") %>
+     </div>
+     <div>
+       <input type='checkbox' class='tekstaro_postfix' name='ar'>
+       <%= gettext("-ar- (a group)") %>
+       </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='ec'>
+        <%= gettext("-ec- (abstract quality, trait or attribute)") %>
+      </div>
+      <div>
+        <input type='checkbox' class='tekstaro_postfix' name='ebl'>
+        <%= gettext("-ebl- (possible -able)") %>
+        </div>
+      <div>
+        <input type='checkbox' class='tekstaro_postfix' name='eg'>
+        <%= gettext("-eg- (bigger, stronger)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='em'>
+        <%= gettext("-em- (to tend towards)") %>
+      </div>
+      <div>
+        <input type='checkbox' class='tekstaro_postfix' name='end'>
+        <%= gettext("-end- (necessary)") %>
+        </div>
+      <div>
+        <input type='checkbox' class='tekstaro_postfix' name='er'>
+        <%= gettext("-er- (a single instance)") %>
+        </div>
+        <div>
+          <input type='checkbox' class='tekstaro_postfix' name='esk'>
+          <%= gettext("-esk- (-esque)") %>
+          </div>
+          <div>
+            <input type='checkbox' class='tekstaro_postfix' name='estr'>
+            <%= gettext("-estr- (chief of)") %>
+            </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='et'>
+        <%= gettext("-et- (smaller, weaker)") %>
+      </div>
+      <div>
+        <input type='checkbox' class='tekstaro_postfix' name='foj'>
+        <%= gettext("-foj- (for numbers, times)") %>
+        </div>
+      <div>
+        <input type='checkbox' class='tekstaro_postfix' name='id'>
+        <%= gettext("-id- (offspring)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='ig'>
+        <%= gettext("-ig- (makes intransitive - becoming)") %>
+        </div>
+      </article>
+      <article class="column">
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='iĝ'>
+        <%= gettext("-iĝ- (makes transitive)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='ik'>
+        <%= gettext("-ik- (-ics)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='il'>
+        <%= gettext("-il- (an instrument)") %>
+        </div>
+        <div>
+          <div>
+          <input type='checkbox' class='tekstaro_postfix' name='in'>
+          <%= gettext("-in- (female)") %>
+          </div>
+        <input type='checkbox' class='tekstaro_postfix' name='ind'>
+        <%= gettext("-ind- (worthy of)") %>
+        </div>
+        <div>
+          <input type='checkbox' class='tekstaro_postfix' name='ing'>
+          <%= gettext("-ing- (container, partly containing)") %>
+          </div>
+          <div>
+            <input type='checkbox' class='tekstaro_postfix' name='ism'>
+            <%= gettext("-ism- (-ism)") %>
+            </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='iv'>
+        <%= gettext("-iv- (capable of doing)") %>
+        </div>
+        <div>
+          <input type='checkbox' class='tekstaro_postfix' name='obl'>
+          <%= gettext("-obl- (for numbers, multiple)") %>
+          </div>
+          <div>
+            <input type='checkbox' class='tekstaro_postfix' name='olog'>
+            <%= gettext("-olog- (-ology)") %>
+            </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='on'>
+        <%= gettext("-on- (for numbers, makes fractions)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='op'>
+        <%= gettext("-op- (for numbers, at a time)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='oz'>
+        <%= gettext("-oz- (full of)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='uj'>
+        <%= gettext("-uj- (territory, container, fully containing)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='ul'>
+        <%= gettext("-ul- (a person)") %>
+        </div>
+        <div>
+        <input type='checkbox' class='tekstaro_postfix' name='um'>
+        <%= gettext("-um- (makes funny verbs from nouns)") %>
+        </div>
+
+
+      </article>
+    </section>
+
+  </section>
+    <hr class="tekstaro_hide_on_load tekstaro_hidden" />
     <section class='row'>
       <article class="column">
         <button id='tekstaro_browse' type='button'><%= gettext("Browse") %></button>
@@ -187,7 +377,6 @@
     </section>
     <section  class='row'>
       <article class='column tekstaro_results_header tekstaro_hidden'>
-        <legend class='tekstaro_results_header tekstaro_hidden'><%= gettext ("Results") %></legend>
         <article id='tekstaro_results' class='tekstaro_results_header tekstaro_hidden'>
         </article>
       </article>

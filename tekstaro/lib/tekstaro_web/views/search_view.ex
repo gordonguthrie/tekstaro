@@ -22,7 +22,7 @@ defmodule TekstaroWeb.SearchView do
   end
 
   defp make_data(results) do
-    data = for r <- results do
+    for r <- results do
       case r do
         [word, title, url, text, paragraph_sequence, start, length] ->
           element = %{title:              title,

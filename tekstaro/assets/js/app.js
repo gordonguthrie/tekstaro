@@ -62,8 +62,14 @@ var tekstaro = function () {
 
   var build_parse_html = function(word, root, note, details, affixes) {
     var html = "<p class='tekstaro_results tekstaro_tight tekstaro_highlight'>"
+    html += "<a href='http://vortaro.net/#" + word + "' target='_vortaro'>"
     html += word
-    html += " (" + root + ")"
+    html += "</a>"
+    html += " ("
+    html += "<a href='http://vortaro.net/#" + root + "' target='_vortaro'>"
+    html += root
+    html += "</a>"
+    html += ")"
     html += "</p>"
     html += "<p class='tekstaro_results tekstaro_tight tekstaro_small'>"
     html += note
@@ -233,6 +239,8 @@ var tekstaro = function () {
     var form_array = [];
     var voice_array = [];
     var aspect_array = [];
+    var prefix_array = [];
+    var postfix_array = [];
     var checked_radio_button = $("input:radio[name='browse']:checked")[0].value;
     var payload = {};
     var booleans = [];
@@ -268,20 +276,32 @@ var tekstaro = function () {
           payload["voice"]  = voice_array;
           payload["aspect"] = aspect_array;
           break;
+          case "prefix":
+            selector = ".tekstaro_" + checked_radio_button + " input";
+            selections = $(selector);
+            $.each(selections, function (n) {
+              if (selections[n].checked) {
+                prefix_array.push(selections[n].name)
+              }
+            })
+            payload["prefixes"] = prefix_array;
+            break;
+        case "postfix":
+          selector = ".tekstaro_" + checked_radio_button + " input";
+          selections = $(selector);
+          $.each(selections, function (n) {
+            if (selections[n].checked) {
+              postfix_array.push(selections[n].name)
+            }
+          })
+          payload["postfixes"] = postfix_array;
+          break;
         default:
           selections = $(".tekstaro_" + checked_radio_button + " input");
-          console.log(selections);
           $.each(selections, function (n) {
-            console.log(selections[n].name);
             booleans[selections[n].name] = selections[n].checked;
-            console.log(booleans);
           })
       }
-      // by definitions krodiles are not in the dictionary
-      if (checked_radio_button != "krokodilo") {
-        payload["is_dictionary_word"] = $("#tekstaro_dictionary")[0].checked;
-      }
-      console.log(booleans);
       payload["booleans"] = booleans;
       console.log(payload);
       $.ajax('/api/browse',
@@ -289,7 +309,6 @@ var tekstaro = function () {
         type: 'POST',  // http method
         data: payload,
         success: function (data, status, xhr) {
-          console.log(data["response"]["data"]);
           var results = ""
           results = build_results(data["response"]["data"])
           $("#tekstaro_results").html(results)

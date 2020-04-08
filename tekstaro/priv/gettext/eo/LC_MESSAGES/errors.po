@@ -12,76 +12,76 @@ msgstr ""
 "Plural-Forms: nplurals=2\n"
 
 msgid "can't be blank"
-msgstr ""
+msgstr "ne povas esti malplena"
 
 msgid "has already been taken"
-msgstr ""
+msgstr "estis jam prenita"
 
 msgid "is invalid"
-msgstr ""
+msgstr "estas nevalida"
 
 msgid "must be accepted"
-msgstr ""
+msgstr "devas esti akceptita"
 
 msgid "has invalid format"
-msgstr ""
+msgstr "havas nevalidan formaton"
 
 msgid "has an invalid entry"
-msgstr ""
+msgstr "havas nevalidan eniron"
 
 msgid "is reserved"
-msgstr ""
+msgstr "estas rezervita"
 
 msgid "does not match confirmation"
-msgstr ""
+msgstr "ne kongruas kun konfirmo"
 
 msgid "is still associated with this entry"
-msgstr ""
+msgstr "daŭre estas asociita kun ĉi tiu eniro"
 
 msgid "are still associated with this entry"
-msgstr ""
+msgstr "daŭre estas asociita kun ĉi tiu eniro"
 
 msgid "should be %{count} character(s)"
 msgid_plural "should be %{count} character(s)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "estu %{count} karaktero"
+msgstr[1] "estu %{count} karakteroj"
 
 msgid "should have %{count} item(s)"
 msgid_plural "should have %{count} item(s)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "devu havi %{count} ero"
+msgstr[1] "devu havi %{count} eroj"
 
 msgid "should be at least %{count} character(s)"
 msgid_plural "should be at least %{count} character(s)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "estu almenaŭ %{count} ero"
+msgstr[1] "estu almenaŭ %{count} eroj"
 
 msgid "should have at least %{count} item(s)"
 msgid_plural "should have at least %{count} item(s)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "devus havi almenaŭ %{count} ero"
+msgstr[1] "devus havi almenaŭ %{count} eroj"
 
 msgid "should be at most %{count} character(s)"
 msgid_plural "should be at most %{count} character(s)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "estu maksimume %{count} karaktero"
+msgstr[1] "estu maksimume %{count} karakteroj"
 
 msgid "should have at most %{count} item(s)"
 msgid_plural "should have at most %{count} item(s)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "devus havi maksimume %{count} ero"
+msgstr[1] "devus havi maksimume %{count} eroj"
 
 msgid "must be less than %{number}"
-msgstr ""
+msgstr "devas esti malpli ol %{number}"
 
 msgid "must be greater than %{number}"
-msgstr ""
+msgstr "devas esti pli granda ol %{number}"
 
 msgid "must be less than or equal to %{number}"
-msgstr ""
+msgstr "devas esti malpli ol aŭ egala al %{number}"
 
 msgid "must be greater than or equal to %{number}"
-msgstr ""
+msgstr "devas esti pli granda aŭ egala al %{number}"
 
 msgid "must be equal to %{number}"
-msgstr ""
+msgstr "devas esti egala al %{number}"

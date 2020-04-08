@@ -3,14 +3,31 @@ defmodule TekstaroWeb.SearchController do
 
   alias Tekstaro.Text.Translate
 
+  def browse(conn, %{"postfixes" => postfixes}) do
+    browse_affixes(conn, postfixes)
+  end
+
+  def browse(conn, %{"prefixes" => postfixes}) do
+    browse_affixes(conn, postfixes)
+  end
+
   def browse(conn, params) do
-    IO.inspect(params, label: "in browse/browse");
     sql = make_browse_sql(params);
     response = Ecto.Adapters.SQL.query!(Tekstaro.Repo, sql)
     %Postgrex.Result{rows: rows} = response
     rows2 = process_rows(rows)
     conn
     |> render("browse.json", results: rows2)
+  end
+
+  defp browse_affixes(conn, affixes) do
+    sql = make_affix_sql(affixes);
+    response = Ecto.Adapters.SQL.query!(Tekstaro.Repo, sql)
+    %Postgrex.Result{rows: rows} = response
+    rows2 = process_rows(rows)
+    conn
+    |> render("browse.json", results: rows2)
+
   end
 
   def parse(conn, %{"search_term" => s} = _params) do
@@ -47,14 +64,25 @@ defmodule TekstaroWeb.SearchController do
       %Paragrafo{radikigoj: radikigoj} = p
       for %Radikigo{vorto:            word,
                     radikigo:         root,
-                    estas_vortarero?: is_dictionary_word,
                     afiksoj:          affixes,
                     detaletoj:        details} <- radikigoj do
       details2 = translate_details(details, [])
       affixes2 = translate_affixes(affixes)
-      note = case is_dictionary_word do
-          :jes -> gettext("A dictionary word.")
-          :ne  -> gettext("Not a dictionary word.")
+      sql = "SELECT is_verb, is_transitive, is_intransitive, etymology FROM dictionary WHERE root='" <> root <> "';"
+      matches = Ecto.Adapters.SQL.query!(Tekstaro.Repo, sql)
+      note = case matches.rows do
+        []                       -> ""
+        [[is_v, is_t, is_i, et]] ->
+          notes = case is_v do
+            true  -> v2 = gettext("Verb root")
+                       case {is_t, is_i} do
+                         {true,  true}  -> [et, v2, gettext("Transitive"), gettext("Intransitive")]
+                         {true,  false} -> [et, v2, gettext("Transitive")]
+                         {false, true}  -> [et, v2, gettext("Intransitive")]
+                       end
+            false -> [et, gettext("Noun root")]
+          end
+          Enum.join(notes, ". ") <> "."
       end
       %{"word"    => word,
         "root"    => root,
@@ -105,7 +133,7 @@ defmodule TekstaroWeb.SearchController do
   end
 
   defp translate_affix(%Afikso{prefikso: "bo"}),  do: %{element: "bo", meaning: gettext("Prefix: in-law")}
-  defp translate_affix(%Afikso{prefikso: "ek"}),  do: %{element: "ek", meaning: gettext("Prefix: on set of action (in verbs)")}
+  defp translate_affix(%Afikso{prefikso: "ek"}),  do: %{element: "ek", meaning: gettext("Prefix: onset of action (in verbs)")}
   defp translate_affix(%Afikso{prefikso: "fi"}),  do: %{element: "fi", meaning: gettext("Prefix: low (moral) quality")}
   defp translate_affix(%Afikso{prefikso: "ge"}),  do: %{element: "ge", meaning: gettext("Prefix: both men and women")}
   defp translate_affix(%Afikso{prefikso: "re"}),  do: %{element: "re", meaning: gettext("Prefix: repetition or restoration")}
@@ -131,13 +159,13 @@ defmodule TekstaroWeb.SearchController do
 
   defp translate_affix(%Afikso{postfikso: "id"}),   do: %{element: "id", meaning: gettext("Postfix: offspring")}
   defp translate_affix(%Afikso{postfikso: "ig"}),   do: %{element: "ig", meaning: gettext("Postfix: makes transitive verbs intransitive, denotes becoming")}
-  defp translate_affix(%Afikso{postfikso: "iĝ"}),   do: %{element: "iĝ", meaning: gettext("Postfix: makes intransitive verbs transitive (and add an object to transative vers)")}
-  defp translate_affix(%Afikso{postfikso: "il"}),   do: %{element: "il", meaning: gettext("Postfix: something to do it, an instrument")}
+  defp translate_affix(%Afikso{postfikso: "iĝ"}),   do: %{element: "iĝ", meaning: gettext("Postfix: makes intransitive verbs transitive (and add an object to transative verbs)")}
   defp translate_affix(%Afikso{postfikso: "ik"}),   do: %{element: "ik", meaning: gettext("Postfix: -ics")}
+  defp translate_affix(%Afikso{postfikso: "il"}),   do: %{element: "il", meaning: gettext("Postfix: something to do it, an instrument")}
   defp translate_affix(%Afikso{postfikso: "in"}),   do: %{element: "in", meaning: gettext("Postfix: female")}
-  defp translate_affix(%Afikso{postfikso: "iv"}),   do: %{element: "in", meaning: gettext("Postfix: capabile of doing...")}
+  defp translate_affix(%Afikso{postfikso: "iv"}),   do: %{element: "iv", meaning: gettext("Postfix: capable of doing...")}
 
-  defp translate_affix(%Afikso{postfikso: "on"}),   do: %{element: "bo", meaning: gettext("Postfix: makes fractions (for numbers)")}
+  defp translate_affix(%Afikso{postfikso: "on"}),   do: %{element: "on", meaning: gettext("Postfix: makes fractions (for numbers)")}
   defp translate_affix(%Afikso{postfikso: "op"}),   do: %{element: "op", meaning: gettext("Postfix: at a time (for numbers)")}
   defp translate_affix(%Afikso{postfikso: "oz"}),   do: %{element: "oz", meaning: gettext("Postfix: full of")}
 
@@ -158,12 +186,51 @@ defmodule TekstaroWeb.SearchController do
   defp translate_affix(%Afikso{postfikso: "estr"}), do: %{element: "estr", meaning: gettext("Postfix: chief of")}
   defp translate_affix(%Afikso{postfikso: "olog"}), do: %{element: "estr", meaning: gettext("Postfix: -ology")}
 
+  defp make_affix_sql(affixes) do
+
+    cursor = get_cursor()
+
+    wheres = for a <- affixes do
+      "affix.affix='" <> a <> "'"
+    end
+
+    where_clauses = case wheres do
+        [] -> []
+        _  -> "(" <> Enum.join(wheres, " OR ") <> ")"
+      end
+
+    _sql = """
+    SELECT
+    word.word,
+    texts.title,
+    texts.site,
+    paragraph.text,
+    paragraph.sequence,
+    word.starting_position,
+    word.length
+    FROM
+      public.paragraph
+    INNER JOIN
+      word ON
+      word.fingerprint = paragraph.fingerprint
+    INNER JOIN
+      texts ON
+      paragraph.texts_id = texts.id
+    INNER JOIN
+      affix ON
+      affix.word_id = word.id
+    WHERE
+      paragraph.fingerprint >
+    """  <> "'" <> cursor <> "'" <>
+    " AND " <>
+    where_clauses <>
+     " LIMIT 15;"
+  end
+
   defp make_browse_sql(%{"type"               => t,
-                         "is_dictionary_word" => d,
                          "booleans"           => b} = terms) do
 
     type = "word." <> t <> "=true"
-    dict = "word.is_dictionary_word=" <> d
 
     cursor = get_cursor()
 
@@ -197,7 +264,7 @@ defmodule TekstaroWeb.SearchController do
       _  ->  "(" <> Enum.join(orsX, " OR ") <> ")"
     end
 
-    where_clauses = Enum.join(List.flatten([type, dict, ors]), " AND ")
+    where_clauses = Enum.join(List.flatten([type, ors]), " AND ")
 
     _sql = """
     SELECT
@@ -224,16 +291,13 @@ defmodule TekstaroWeb.SearchController do
      " LIMIT 15;"
   end
 
-  defp make_browse_sql(%{"type"               => t,
-                         "is_dictionary_word" => d} = _terms) do
-      make_browse_sql(%{"type"               => t,
-                        "is_dictionary_word" => d,
-                        "booleans"           => []})
+  defp make_browse_sql(%{"type"    => t} = _terms) do
+      make_browse_sql(%{"type"     => t,
+                        "booleans" => []})
   end
-  defp make_browse_sql(%{"type"              => "is_krokodile"} = _terms) do
-      make_browse_sql(%{"type"               => "is_krokodile",
-                        "is_dictionary_word" => "false",
-                        "booleans"           => []})
+  defp make_browse_sql(%{"type"     => "is_krokodile"} = _terms) do
+       make_browse_sql(%{"type"     => "is_krokodile",
+                         "booleans" => []})
   end
 
   defp make_search_sql(terms) do

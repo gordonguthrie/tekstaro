@@ -42,19 +42,9 @@ msgid " (its a nickname)."
 msgstr "(karesnomo)"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:37
-msgid "A dictionary word."
-msgstr "Estas vorto de vortaro"
-
-#, elixir-format
 #: lib/tekstaro/text/translate.ex:73
 msgid "Active voice."
 msgstr "Aktiva voĉo"
-
-#, elixir-format
-#: lib/tekstaro_web/templates/browse/index.html.eex:18
-msgid "Adjectives"
-msgstr "Avortoj"
 
 #, elixir-format
 #: lib/tekstaro/text/translate.ex:48
@@ -62,18 +52,12 @@ msgid "Adjective."
 msgstr "Avorto."
 
 #, elixir-format
-#: lib/tekstaro_web/templates/browse/index.html.eex:22
-msgid "Adverbs"
-msgstr "Evortoj"
-
-#, elixir-format
 #: lib/tekstaro/text/translate.ex:40
 msgid "Adverb."
 msgstr "Evorto."
 
 #, elixir-format
-#: lib/tekstaro_web/templates/browse/index.html.eex:4
-#: lib/tekstaro_web/templates/browse/index.html.eex:75
+#: lib/tekstaro_web/templates/browse/index.html.eex:375
 msgid "Browse"
 msgstr "Esploru"
 
@@ -92,11 +76,6 @@ msgstr "Markita kazo."
 #: lib/tekstaro/text/translate.ex:85
 msgid "Conditional mood."
 msgstr "Kondiĉa"
-
-#, elixir-format
-#: lib/tekstaro_web/templates/browse/index.html.eex:28
-msgid "Correlatives"
-msgstr "Korelativoj"
 
 #, elixir-format
 #: lib/tekstaro/text/translate.ex:67
@@ -119,14 +98,8 @@ msgid "Infinive."
 msgstr "Infinitivo."
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:38
-msgid "Not a dictionary word."
-msgstr "Ne estas vorto de vortaro"
-
-#, elixir-format
 #: lib/tekstaro/text/translate.ex:32
-#: lib/tekstaro_web/templates/browse/index.html.eex:14
-msgid "Nouns"
+msgid "Noun"
 msgstr "Ovortoj"
 
 #, elixir-format
@@ -170,227 +143,212 @@ msgid "Possesive."
 msgstr "Poseda."
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:131
+#: lib/tekstaro_web/controllers/search_controller.ex:178
 msgid "Postfix: -esque"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:117
+#: lib/tekstaro_web/controllers/search_controller.ex:163
 msgid "Postfix: -ics"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:140
+#: lib/tekstaro_web/controllers/search_controller.ex:187
 msgid "Postfix: -ology"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:104
+#: lib/tekstaro_web/controllers/search_controller.ex:151
 msgid "Postfix: a group"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:103
+#: lib/tekstaro_web/controllers/search_controller.ex:150
 msgid "Postfix: a member of a group"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:126
+#: lib/tekstaro_web/controllers/search_controller.ex:173
 msgid "Postfix: a person"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:111
+#: lib/tekstaro_web/controllers/search_controller.ex:158
 msgid "Postfix: a place"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:109
+#: lib/tekstaro_web/controllers/search_controller.ex:156
 msgid "Postfix: a single instance"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:106
+#: lib/tekstaro_web/controllers/search_controller.ex:153
 msgid "Postfix: abstract quality, trait, attribute or essence"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:135
+#: lib/tekstaro_web/controllers/search_controller.ex:182
 msgid "Postfix: an -ism"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:122
+#: lib/tekstaro_web/controllers/search_controller.ex:169
 msgid "Postfix: at a time (for numbers)"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:119
-msgid "Postfix: capabile of doing..."
-msgstr "Postfikso"
-
-#, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:139
+#: lib/tekstaro_web/controllers/search_controller.ex:186
 msgid "Postfix: chief of"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:102
+#: lib/tekstaro_web/controllers/search_controller.ex:149
 msgid "Postfix: concrete object or product or behaviour"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:134
+#: lib/tekstaro_web/controllers/search_controller.ex:181
 msgid "Postfix: container, partially containing"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:110
+#: lib/tekstaro_web/controllers/search_controller.ex:157
 msgid "Postfix: decrease in strength or size"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:118
+#: lib/tekstaro_web/controllers/search_controller.ex:165
 msgid "Postfix: female"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:123
+#: lib/tekstaro_web/controllers/search_controller.ex:170
 msgid "Postfix: full of"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:107
+#: lib/tekstaro_web/controllers/search_controller.ex:154
 msgid "Postfix: increase in strength or size"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:121
+#: lib/tekstaro_web/controllers/search_controller.ex:168
 msgid "Postfix: makes fractions (for numbers)"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:115
-msgid "Postfix: makes intransitive verbs transitive (and add an object to transative vers)"
-msgstr "Postfikso"
-
-#, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:114
+#: lib/tekstaro_web/controllers/search_controller.ex:161
 msgid "Postfix: makes transitive verbs intransitive, denotes becoming"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:137
+#: lib/tekstaro_web/controllers/search_controller.ex:184
 msgid "Postfix: multiple of quantities (for numbers)"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:130
+#: lib/tekstaro_web/controllers/search_controller.ex:177
 msgid "Postfix: necessary"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:113
+#: lib/tekstaro_web/controllers/search_controller.ex:160
 msgid "Postfix: offspring"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:100
+#: lib/tekstaro_web/controllers/search_controller.ex:147
 msgid "Postfix: poor quality"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:136
+#: lib/tekstaro_web/controllers/search_controller.ex:183
 msgid "Postfix: someone who does"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:116
+#: lib/tekstaro_web/controllers/search_controller.ex:164
 msgid "Postfix: something to do it, an instrument"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:101
+#: lib/tekstaro_web/controllers/search_controller.ex:148
 msgid "Postfix: the duration of an action"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:129
+#: lib/tekstaro_web/controllers/search_controller.ex:176
 msgid "Postfix: the possibility, -able"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:125
+#: lib/tekstaro_web/controllers/search_controller.ex:172
 msgid "Postfix: the territory of, a container that fully encloses"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:132
+#: lib/tekstaro_web/controllers/search_controller.ex:179
 msgid "Postfix: times (for numbers, 3 times, 4 times)"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:127
+#: lib/tekstaro_web/controllers/search_controller.ex:174
 msgid "Postfix: to make quirky verbs from nouns"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:108
+#: lib/tekstaro_web/controllers/search_controller.ex:155
 msgid "Postfix: to tend towards"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:133
+#: lib/tekstaro_web/controllers/search_controller.ex:180
 msgid "Postfix: worthy of"
 msgstr "Postfikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:91
+#: lib/tekstaro_web/controllers/search_controller.ex:138
 msgid "Prefix: both men and women"
 msgstr "Prefikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:94
+#: lib/tekstaro_web/controllers/search_controller.ex:141
 msgid "Prefix: dispersion in all directions"
 msgstr "Prefikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:95
+#: lib/tekstaro_web/controllers/search_controller.ex:142
 msgid "Prefix: former, ex"
 msgstr "Prefikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:88
+#: lib/tekstaro_web/controllers/search_controller.ex:135
 msgid "Prefix: in-law"
 msgstr "Prefikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:90
+#: lib/tekstaro_web/controllers/search_controller.ex:137
 msgid "Prefix: low (moral) quality"
 msgstr "Prefikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:97
+#: lib/tekstaro_web/controllers/search_controller.ex:144
 msgid "Prefix: malfunction"
 msgstr "Prefikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:98
+#: lib/tekstaro_web/controllers/search_controller.ex:145
 msgid "Prefix: old, antique"
 msgstr "Prefikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:89
-msgid "Prefix: on set of action (in verbs)"
-msgstr "Prefikso"
-
-#, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:92
+#: lib/tekstaro_web/controllers/search_controller.ex:139
 msgid "Prefix: repetition or restoration"
 msgstr "Prefikso"
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:96
+#: lib/tekstaro_web/controllers/search_controller.ex:143
 msgid "Prefix: reversal of meaning"
 msgstr "Prefikso"
 
@@ -398,11 +356,6 @@ msgstr "Prefikso"
 #: lib/tekstaro/text/translate.ex:82
 msgid "Present tense."
 msgstr "Estinta."
-
-#, elixir-format
-#: lib/tekstaro_web/templates/browse/index.html.eex:32
-msgid "Pronouns"
-msgstr "Pronomoj"
 
 #, elixir-format
 #: lib/tekstaro/text/translate.ex:58
@@ -421,18 +374,17 @@ msgid "Register"
 msgstr "Enregistrigu"
 
 #, elixir-format
-#: lib/tekstaro_web/templates/browse/index.html.eex:86
 #: lib/tekstaro_web/templates/page/index.html.eex:23
 msgid "Results"
 msgstr "Rezultoj"
 
 #, elixir-format
 #: lib/tekstaro_web/templates/page/index.html.eex:10
+#: lib/tekstaro_web/templates/page/index.html.eex:12
 msgid "Search"
 msgstr "Serĉu"
 
 #, elixir-format
-#: lib/tekstaro_web/templates/browse/index.html.eex:81
 #: lib/tekstaro_web/templates/page/index.html.eex:18
 msgid "Search Terms"
 msgstr "Serĉa kondiĉo"
@@ -474,10 +426,9 @@ msgid "Singular."
 msgstr "Sola."
 
 #, elixir-format
-#: lib/tekstaro_web/controllers/search_controller.ex:81
-#: lib/tekstaro_web/templates/browse/index.html.eex:36
-msgid "Small words"
-msgstr "Malgranda vortoj"
+#: lib/tekstaro_web/controllers/search_controller.ex:128
+msgid "Small word"
+msgstr "Vorteto"
 
 #, elixir-format
 #: lib/tekstaro_web/templates/upload/upload.html.eex:13
@@ -498,11 +449,6 @@ msgstr "Titolo"
 #: lib/tekstaro_web/templates/user/form.html.eex:8
 msgid "Username"
 msgstr "Uzantnomo"
-
-#, elixir-format
-#: lib/tekstaro_web/templates/browse/index.html.eex:10
-msgid "Verbs"
-msgstr "Verboj"
 
 #, elixir-format
 #: lib/tekstaro/text/translate.ex:10
@@ -544,12 +490,12 @@ msgstr "Estis problemo kun vai uzantnomo aû passvorto"
 msgid "username"
 msgstr "uzantnomo"
 
-#, elixir-format, fuzzy
+#, elixir-format
 #: lib/tekstaro/text/translate.ex:19
 msgid "It is a"
 msgstr "Estis"
 
-#, elixir-format, fuzzy
+#, elixir-format
 #: lib/tekstaro_web/templates/upload/upload.html.eex:15
 msgid "Upload"
 msgstr "Alŝutu teksta"
@@ -558,3 +504,454 @@ msgstr "Alŝutu teksta"
 #: lib/tekstaro_web/templates/upload/upload.html.eex:2
 msgid "Upload text for the corpus."
 msgstr "Alŝutu kaj preparu teksto per tekstaro."
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:17
+msgid "Adjectives"
+msgstr "Avortoj"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:21
+msgid "Adverbs"
+msgstr "Evortoj"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:27
+msgid "Correlatives"
+msgstr "Korelativoj"
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:79
+#: lib/tekstaro_web/controllers/search_controller.ex:81
+msgid "Intransitive"
+msgstr "Intransitiva"
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:83
+msgid "Noun root"
+msgstr "Overta radikigo"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:11
+msgid "Nouns"
+msgstr "Ovortoj"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:174
+msgid "Please be patient this step takes a minute or two"
+msgstr "Bonvolu pacienci ĉi tiu paŝo daŭras minuton aŭ du"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:31
+msgid "Pronouns"
+msgstr "Pronomoj"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:37
+msgid "Small words"
+msgstr "Vortetoj"
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:79
+#: lib/tekstaro_web/controllers/search_controller.ex:80
+msgid "Transitive"
+msgstr "Transitiva"
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:77
+msgid "Verb root"
+msgstr "Verba radikigo"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:7
+msgid "Verbs"
+msgstr "Verboj"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:102
+msgid "active voice"
+msgstr "aktiva voĉo"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:96
+msgid "anticipated aspect"
+msgstr "anticipa aspecto"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:114
+#: lib/tekstaro_web/templates/browse/index.html.eex:132 lib/tekstaro_web/templates/browse/index.html.eex:148
+#: lib/tekstaro_web/templates/browse/index.html.eex:164 lib/tekstaro_web/templates/browse/index.html.eex:170
+msgid "case marked"
+msgstr "markita kazo"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:158
+msgid "characters split into"
+msgstr "karakteroj disiĝas"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:92
+msgid "completed aspect"
+msgstr "finita aspecto"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:78
+msgid "conditionals"
+msgstr "kondiĉa"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:197
+msgid "fix text server termination, ya fanny"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:64
+msgid "future"
+msgstr "futuro"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:82
+msgid "imperatives"
+msgstr "imperativoj"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:88
+msgid "in play aspect"
+msgstr "ekestiâ aspecto"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:74
+msgid "infinitives"
+msgstr "infinitoj"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:66
+msgid "loaded"
+msgstr "ŝarĝita"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:122
+msgid "nicknames"
+msgstr "karesnomoj"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:156
+msgid "of"
+msgstr "de"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:151 lib/tekstaro/text/text.ex:154
+msgid "paragraph"
+msgstr "paragrafo"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:106
+msgid "passive voice"
+msgstr "pasiva voĉo"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:68
+msgid "past"
+msgstr "estinta"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:118
+#: lib/tekstaro_web/templates/browse/index.html.eex:136 lib/tekstaro_web/templates/browse/index.html.eex:152
+#: lib/tekstaro_web/templates/browse/index.html.eex:174
+msgid "plurals"
+msgstr "plura"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:178
+msgid "possesive"
+msgstr "poseda"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:60
+msgid "present"
+msgstr "nuna"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:108
+msgid "processed all the paragraphs"
+msgstr "procesis ĉiujn paragrafoj"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:96
+msgid "split text up"
+msgstr "dividu teksto"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:85
+msgid "text already saved"
+msgstr "registite teksto"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:184
+msgid "text already submitted"
+msgstr "alŝitite teksto"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:187
+msgid "text written to disk (but not paras)"
+msgstr "disigi tekston"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:140
+msgid "verbal adjective"
+msgstr "verba avorto"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:156
+msgid "verbal adverb"
+msgstr "verba evorto"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:126
+msgid "verbal noun"
+msgstr "verba ovorto"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:159
+msgid "words"
+msgstr "vortoj"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:51
+msgid "Postfixes"
+msgstr "Postfikso"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:47
+msgid "Prefixes"
+msgstr "Prefiksoj"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:151
+msgid "already written"
+msgstr "jam skribita"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:242
+msgid "-aj- (concrete object, product)"
+msgstr "-aj-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:246
+msgid "-an- (group member)"
+msgstr "-an-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:250
+msgid "-ar- (a group)"
+msgstr "-ar-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:238
+msgid "-aĉ- (poor quality)"
+msgstr "-aĉ-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:258
+msgid "-ebl- (possible -able)"
+msgstr "-ebl-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:254
+msgid "-ec- (abstract quality, trait or attribute)"
+msgstr "-ec-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:262
+msgid "-eg- (bigger, stronger)"
+msgstr "-eg-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:266
+msgid "-em- (to tend towards)"
+msgstr "-em-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:270
+msgid "-end- (necessary)"
+msgstr "-end-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:274
+msgid "-er- (a single instance)"
+msgstr "-er-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:278
+msgid "-esk- (-esque)"
+msgstr "-esk-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:282
+msgid "-estr- (chief of)"
+msgstr "-estr-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:286
+msgid "-et- (smaller, weaker)"
+msgstr "-et-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:290
+msgid "-foj- (for numbers, times)"
+msgstr "-foj-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:294
+msgid "-id- (offspring)"
+msgstr "-id-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:298
+msgid "-ig- (makes intransitive - becoming)"
+msgstr "-ig-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:308
+msgid "-ik- (-ics)"
+msgstr "-ik-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:312
+msgid "-il- (an instrument)"
+msgstr "-il-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:317
+msgid "-in- (female)"
+msgstr "-in-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:320
+msgid "-ind- (worthy of)"
+msgstr "-ind-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:324
+msgid "-ing- (container, partly containing)"
+msgstr "-ing-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:328
+msgid "-ism- (-ism)"
+msgstr "-ism-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:332
+msgid "-iv- (capable of doing)"
+msgstr "-iv-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:304
+msgid "-iĝ- (makes transitive)"
+msgstr "-iĝ-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:336
+msgid "-obl- (for numbers, multiple)"
+msgstr "-obl-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:340
+msgid "-olog- (-ology)"
+msgstr "-olog-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:344
+msgid "-on- (for numbers, makes fractions)"
+msgstr "-on-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:348
+msgid "-op- (for numbers, at a time)"
+msgstr "-op-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:352
+msgid "-oz- (full of)"
+msgstr "-oz-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:356
+msgid "-uj- (territory, container, fully containing)"
+msgstr "-uj-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:360
+msgid "-ul- (a person)"
+msgstr "-ul-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:364
+msgid "-um- (makes funny verbs from nouns)"
+msgstr "-um-"
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:166
+msgid "Postfix: capable of doing..."
+msgstr "Postfikso"
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:162
+msgid "Postfix: makes intransitive verbs transitive (and add an object to transative verbs)"
+msgstr "Postfikso"
+
+#, elixir-format
+#: lib/tekstaro_web/controllers/search_controller.ex:136
+msgid "Prefix: onset of action (in verbs)"
+msgstr "Prefikso"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:188
+msgid "bo- (in-law)"
+msgstr "bo-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:196
+msgid "dis- (dispersion)"
+msgstr "dis-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:192
+msgid "ek- (onset of action)"
+msgstr "ek-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:200
+msgid "eks- (former, ex-)"
+msgstr "eks-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:206
+msgid "fi- (low morals)"
+msgstr "fi-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:210
+msgid "ge- (both men and women)"
+msgstr "ge-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:214
+msgid "mal- (reverse meaning)"
+msgstr "mal-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:218
+msgid "mis- (malfunction)"
+msgstr "mis-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:224
+msgid "pra- (old, antique)"
+msgstr "pra-"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/browse/index.html.eex:228
+msgid "re- (repetition)"
+msgstr "re-"
