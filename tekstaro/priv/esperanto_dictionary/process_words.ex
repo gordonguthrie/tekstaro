@@ -6,6 +6,47 @@ defmodule ProcessWords do
             is_intransitive: false,
             etymology:        ""
 
+#  def make_false_affixes() do
+#
+#    {:ok, [words]} = :file.consult('words3.csv')
+#
+#    dict_words = %{}
+#    possibles = %{}
+
+#    roots = parse_words(words, dict_words, possibles, [])
+#    IO.inspect(roots)
+#    IO.inspect(length(roots), label: "number of roots")
+
+#  end
+
+#  defp parse_words([], _dict_words, _possibles, fakes), do: fakes
+#  defp parse_words([h | t], dict_words, possibles, fakes) do
+#    word = to_string(h)
+#    {r, _d, af} = Radikigoj.radikigu_vorto_TEST(word)
+#    is_perfect = case String.reverse(word) do
+#      "oda" <> _rest -> true
+#      _              -> false
+#    end
+#    has_affix = case {length(af), is_perfect} do
+#        {0, false} -> false
+#        _          -> true
+#      end
+#    {nd, np, nf} = case has_affix do
+#      false -> newdict = Map.put(dict_words, r, true)
+#               newfakes = case Map.has_key?(possibles, r) do
+#                 true  -> Map.get(possibles, r) ++ fakes
+#                 false -> fakes
+#               end
+#          {newdict, possibles, newfakes}
+#      true  -> case Map.has_key?(dict_words, r) do
+#                true -> {dict_words, possibles, [word | fakes]}
+#                false -> newp = Map.update(possibles, r, [word], &([word | &1]))
+#                         {dict_words, newp, fakes}
+#                end
+#    end
+#    parse_words(t, nd, np, nf)
+#  end
+
   def run() do
     dict = %{}
     {:ok, [words]} = :file.consult('words3.csv')
