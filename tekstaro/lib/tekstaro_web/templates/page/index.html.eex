@@ -6,11 +6,9 @@
 
 <section class="row">
   <article class="column">
-    <form>
       <label for="search_term"><%= gettext("Search")%></label>
       <input id="tekstaro_search_term" type="text" name="search_term">
       <button id="tekstaro_search" type="button"><%= gettext("Search") %></button>
-    </form>
   </article>
 </section>
 <section  class="row">
