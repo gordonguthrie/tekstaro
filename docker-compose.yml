@@ -22,13 +22,14 @@ services:
       - type: bind
         source: ./
         target: /tekstaro
-      - type: bind
-        source: ../radikigo
-        target: /radikigo
+      # when you are developing and you want to local mount the radiko parsing library
+      #- type: bind
+      #  source: ../radikigo
+      #  target: /radikigo
         # for xwindows
       - type: bind
         source: /tmp/.X11-unix
-        target: /tmp/.X11-unix 
+        target: /tmp/.X11-unix
     depends_on:
       # The db container needs to be started before we start this container
       - db
