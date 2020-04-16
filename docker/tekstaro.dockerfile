@@ -40,6 +40,8 @@ RUN export uid=501 gid=20 && \
 	  mix local.hex --force && \
 	  mix archive.install hex phx_new 1.4.12 --force
 WORKDIR /tekstaro/tekstaro/
+RUN echo `ls`
+RUN echo `pwd`
 RUN mix deps.get
 RUN mix Ecto.setup
 RUN cd assets && npm install
