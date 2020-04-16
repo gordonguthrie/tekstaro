@@ -7,7 +7,11 @@
 # The elixir app has Distillery as a dependency and this is used to build a release
 #
 # the second dockerfile builds another image with based on our `builder` and copies the release over
-FROM elixir:1.9.4 as builder
+#
+# it builds a release in the directory `/.tekstaro`
+# (in normal development you will be running code mounted in `/tekstaro/tekstaro`
+
+FROM elixir:1.9.4 as tekstaro_builder
 
 USER root
 
@@ -39,12 +43,14 @@ RUN export uid=501 gid=20 && \
     chown ${uid}:${gid} -R /home/developer/.mix && \
 	  mix local.hex --force && \
 	  mix archive.install hex phx_new 1.4.12 --force
-WORKDIR /tekstaro/tekstaro/
-RUN echo `ls`
-RUN echo `pwd`
+RUN mkdir /.tekstaro
+ADD tekstaro /.tekstaro
+WORKDIR /.tekstaro
+RUN mix local.rebar --force
 RUN mix deps.get
-RUN mix Ecto.setup
-RUN cd assets && npm install
+RUN echo `ls /.tekstaro`
+RUN echo `pwd`
+RUN cd /.tekstaro/assets && npm install
 RUN mix distillery.release init
 RUN mix distillery.release --env=prod
 # fix up static cache generation with the mix task
