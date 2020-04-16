@@ -38,14 +38,15 @@ RUN export uid=501 gid=20 && \
     mkdir /home/developer/.mix && \
     chown ${uid}:${gid} -R /home/developer/.mix && \
 	  mix local.hex --force && \
-	  mix archive.install hex phx_new 1.4.12 --force \
-    cd /tekstaro/tekstaro/ && mix deps.get && \
-    mix Ecto.setup && \
-    cd assets && npm install && \
-    cd /tekstaro/tekstaro && \
-    mix distillery.release init && \
-    mix distillery.release --env=prod
+	  mix archive.install hex phx_new 1.4.12 --force
+WORKDIR /tekstaro/tekstaro/
+RUN mix deps.get
+RUN mix Ecto.setup
+RUN cd assets && npm install
+RUN mix distillery.release init
+RUN mix distillery.release --env=prod
 # fix up static cache generation with the mix task
+
 USER developer
 
 #CMD ["/bin/bash"]
