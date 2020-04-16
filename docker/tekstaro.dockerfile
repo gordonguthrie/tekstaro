@@ -1,4 +1,13 @@
-FROM elixir:1.9.4
+# this is the first of a pair of docker files
+#
+# In this one we build an image called `builder`
+# this is a docker image with all the source code mounted in and XWindows setup
+# and all sort of stuff you want to fanny about with installed
+#
+# The elixir app has Distillery as a dependency and this is used to build a release
+#
+# the second dockerfile builds another image with based on our `builder` and copies the release over
+FROM elixir:1.9.4 as builder
 
 USER root
 
@@ -13,6 +22,8 @@ RUN apt-get install -y nodejs
 RUN apt-get install -y npm
 RUN apt-get install -y postgresql postgresql-contrib
 RUN apt-get install -y sudo
+RUN apt-get install -y lsof
+RUN apt-get install -y net-tools
 RUN apt-get install -y x11-apps
 RUN apt-get install -y pgadmin3
 
@@ -26,9 +37,15 @@ RUN export uid=501 gid=20 && \
     chown ${uid}:${gid} -R /home/developer && \
     mkdir /home/developer/.mix && \
     chown ${uid}:${gid} -R /home/developer/.mix && \
-	mix local.hex --force && \
-	mix archive.install hex phx_new 1.4.12 --force
-
+	  mix local.hex --force && \
+	  mix archive.install hex phx_new 1.4.12 --force\
+    cd /tekstaro/tekstaro/ && mix deps.get && \
+    mix Ecto.setup && \
+    cd assets && npm install && \
+    cd /tekstaro/tekstaro &&
+    mix distillery.release init && \
+    mix distillery.release --env=prod
+# fix up static cache generation with the mix task
 USER developer
 
 #CMD ["/bin/bash"]

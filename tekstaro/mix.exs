@@ -26,7 +26,7 @@ defmodule Tekstaro.MixProject do
 
   # Specifies which paths to compile per environment.
   defp elixirc_paths(:test), do: ["lib", "test/support"]
-  defp elixirc_paths(_), do: ["lib"]
+  defp elixirc_paths(_), do: ["lib", "priv/tasks"]
 
   # Specifies your project dependencies.
   #
@@ -46,6 +46,7 @@ defmodule Tekstaro.MixProject do
       {:set_locale,          "~> 0.2.1"},
       {:comeonin,            "~> 4.0"},
       {:bcrypt_elixir,       "~> 1.0"},
+      {:distillery,          "~> 2.1.1"},
       {:radikigo,            path: "../../radikigo"}
     ]
   end
