@@ -54,6 +54,7 @@ li {
 
 li > a {
   color: inherit;
+  margin-top: 7px;
 }
 
 .tekstaro_results {
