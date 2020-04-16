@@ -4,7 +4,7 @@
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Tekstaro - a corpus of Esperanto usage</title>
+    <title><%= gettext("Tekstaro - a corpus of Esperanto usage") %></title>
     <link rel="stylesheet" href="<%= Routes.static_path(@conn, "/css/app.css") %>"/>
     <%= csrf_meta_tag() %>
   </head>
@@ -31,6 +31,12 @@
               <li class="tekstaro_menu tekstaro_menu_sign_up"><%= link sign_up,  to: Routes.user_path(@conn, :new, @locale) %></li>
             <% end %>
             <li><a href="https://github.com/gordonguthrie/radikigo"><%= gettext "On Github" %></a></li>
+            <li>
+              <select id="tekstaro_language">
+               <option value="en">English</option>
+               <option value="eo">Esperanto</option>
+              </select>
+            </li>
           </ul>
         </nav>
       </section>

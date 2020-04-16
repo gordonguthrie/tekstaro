@@ -4,7 +4,7 @@
 
 <section class="row">
   <article class="column">
-    <%= form_for @conn, Routes.upload_path(@conn, :upload, @locale), fn _f -> %>
+    <%= form_for @conn, "/api/upload", fn _f -> %>
       <label for="upload"><%= gettext "Text" %></label>
       <textarea id="tekstaro_text" rows="100" cols="80" name="upload" spellcheck="false" >
       </textarea><br>

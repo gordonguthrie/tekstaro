@@ -3,15 +3,18 @@ defmodule TekstaroWeb.SearchController do
 
   alias Tekstaro.Text.Translate
 
-  def browse(conn, %{"postfixes" => postfixes}) do
+  def browse(conn, %{"postfixes" => postfixes, "locale" => locale} = _params) do
+    Gettext.put_locale(TekstaroWeb.Gettext, locale)
     browse_affixes(conn, postfixes)
   end
 
-  def browse(conn, %{"prefixes" => postfixes}) do
+  def browse(conn, %{"prefixes" => postfixes, "locale" => locale} = _params) do
+    Gettext.put_locale(TekstaroWeb.Gettext, locale)
     browse_affixes(conn, postfixes)
   end
 
-  def browse(conn, params) do
+  def browse(conn, %{"locale" => locale} = params) do
+    Gettext.put_locale(TekstaroWeb.Gettext, locale)
     sql = make_browse_sql(params);
     response = Ecto.Adapters.SQL.query!(Tekstaro.Repo, sql)
     %Postgrex.Result{rows: rows} = response
@@ -30,7 +33,8 @@ defmodule TekstaroWeb.SearchController do
 
   end
 
-  def parse(conn, %{"search_term" => s} = _params) do
+  def parse(conn, %{"search_term" => s, "locale" => locale} = _params) do
+    Gettext.put_locale(TekstaroWeb.Gettext, locale)
     raw_paragraphs = Procezo.estigu_paragrafoj(s)
     paragraphs = for p <- raw_paragraphs, do: GenServer.call(Tekstaro.Text.Vortoj, {:process, p})
     results = get_parse_results(paragraphs)
@@ -38,7 +42,8 @@ defmodule TekstaroWeb.SearchController do
     |> render("parse.json", results: results, search_terms: s)
   end
 
-  def search(conn, %{"search_term" => s} = _params) do
+  def search(conn, %{"search_term" => s, "locale" => locale} = _params) do
+    Gettext.put_locale(TekstaroWeb.Gettext, locale)
     raw_paragraphs = Procezo.estigu_paragrafoj(s)
     paragraphs = for p <- raw_paragraphs, do: GenServer.call(Tekstaro.Text.Vortoj, {:process, p})
     words = get_words(paragraphs)

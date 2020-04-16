@@ -3,11 +3,14 @@ defmodule TekstaroWeb.UploadController do
 
   plug :check_auth when action in [:index, :upload]
 
-  def index(conn, _params) do
+  def index(conn, %{"locale" => locale} = _xsparams) do
+    Gettext.put_locale(TekstaroWeb.Gettext, locale)
     render(conn, "upload.html")
   end
 
   def upload(conn, %{"text" => text, "title" => title, "url" => url, "locale" => locale}) do
+    IO.inspect(locale, label: "locale is")
+    Gettext.put_locale(TekstaroWeb.Gettext, locale)
     user_id = get_session(conn, :current_user_id)
     current_user = Tekstaro.Accounts.get_user!(user_id)
     site = get_site(url)
@@ -21,7 +24,7 @@ defmodule TekstaroWeb.UploadController do
       false ->
         conn
         |> put_status(403)
-        |> render("fail.json", msg: "please provide a title and a valid url")
+        |> render("fail.json", msg: gettext("Please provide a title and a valid url"))
     end
   end
 
@@ -33,7 +36,7 @@ defmodule TekstaroWeb.UploadController do
       |> assign(:current_user, current_user)
     else
       conn
-      |> put_flash(:error, "You need to be signed in to access that page.")
+      |> put_flash(:error, gettext("You need to be signed in to access that page."))
       |> redirect(to: "/")
       |> halt()
     end
@@ -47,7 +50,7 @@ defmodule TekstaroWeb.UploadController do
     uri = URI.parse(url)
 
     case uri do
-      %URI{scheme: nil,    host: nil}  -> {:error, "not a url"}
+      %URI{scheme: nil,    host: nil}  -> {:error, gettext("Not a url")}
       %URI{scheme: nil,    host: host} -> {:ok,    "http://" <> host}
       %URI{scheme: scheme, host: host} -> {:ok,     scheme <> "://" <> host}
     end

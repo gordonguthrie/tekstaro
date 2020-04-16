@@ -20,6 +20,26 @@ import {socket, join} from "./socket"
 
 var tekstaro = function () {
 
+  var locale = window.location.pathname.split("/")[1];
+
+  var do_language_selector = function () {
+
+    var changefn = function () {
+      var language = $("#tekstaro_language").val();
+      var newpath;
+      var newlocale;
+      if (language !== locale) {
+        newpath = window.location.pathname.split("/");
+        newpath[1] = language;
+        newlocale = newpath.join("/");
+        window.location.pathname = newlocale;
+      };
+    };
+    // set the current locale
+    $("#tekstaro_language").val(locale);
+    $("#tekstaro_language").change(changefn);
+  };
+
   var build_results = function (data) {
     var results = ""
     var html = ""
@@ -111,9 +131,8 @@ var tekstaro = function () {
     var url = $("#tekstaro_url").val();
     var title = $("#tekstaro_title").val();
     var csrf = $("input[name=_csrf_token]").val();
-    var locale =  document.documentElement.lang;
     var payload = {"text": text, "url": url, "title": title, "locale": locale, "_csrf_token": csrf};
-    $.ajax('/en/upload',
+    $.ajax('/api/upload',
       {
         type: 'POST',  // http method
         data: payload,
@@ -122,7 +141,6 @@ var tekstaro = function () {
           join(hash)
         },
         error: function (data, status, xhr) {
-          console.log(JSON.parse(data.responseText).error);
           var msg = JSON.parse(data.responseText).error
           $(".alert-danger").text(msg)
       }
@@ -148,8 +166,6 @@ var tekstaro = function () {
           $(".tekstaro_search_header").removeClass("tekstaro_hidden")
         },
         error: function (data, status, xhr) {
-          console.log(data)
-          console.log(JSON.parse(data.responseText).error);
           var msg = JSON.parse(data.responseText).error
           $(".alert-danger").text(msg)
         }
@@ -163,7 +179,7 @@ var tekstaro = function () {
       return;
     }
     $(".phx-hero").addClass("tekstaro_hidden");
-    var payload = {"search_term": search_term};
+    var payload = {"search_term": search_term, "locale": locale};
     $.ajax('/api/search',
     {
       type: 'POST',  // http method
@@ -175,8 +191,6 @@ var tekstaro = function () {
         $(".tekstaro_results_header").removeClass("tekstaro_hidden")
       },
       error: function (data, status, xhr) {
-        console.log(data)
-        console.log(JSON.parse(data.responseText).error);
         var msg = JSON.parse(data.responseText).error
         $(".alert-danger").text(msg)
       }
@@ -303,7 +317,7 @@ var tekstaro = function () {
           })
       }
       payload["booleans"] = booleans;
-      console.log(payload);
+      payload["locale"] = locale;
       $.ajax('/api/browse',
       {
         type: 'POST',  // http method
@@ -315,8 +329,6 @@ var tekstaro = function () {
           $(".tekstaro_results_header").removeClass("tekstaro_hidden")
         },
         error: function (data, status, xhr) {
-          console.log(data)
-          console.log(JSON.parse(data.responseText).error);
           var msg = JSON.parse(data.responseText).error
           $(".alert-danger").text(msg)
         }
@@ -336,6 +348,7 @@ var tekstaro = function () {
  }
 
  do_menu();
+ do_language_selector();
 
  do_explore_corpus();
 
