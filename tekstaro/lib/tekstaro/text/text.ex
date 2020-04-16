@@ -94,7 +94,6 @@ defmodule Tekstaro.Text.Text do
     paragraphs = Procezo.estigu_paragrafoj(text)
     length = length(paragraphs)
     msg = GT.gettext("split text up") <> " " <> Integer.to_string(length)
-    IO.inspect(msg, label: "msg in split text")
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
     :ok = GenServer.cast(via(name), :process_paragraph)
     {:noreply, %{state
@@ -151,12 +150,10 @@ defmodule Tekstaro.Text.Text do
           GT.gettext("paragraph") <> " " <> Integer.to_string(i) <> " " <> GT.gettext("already written")
 
         {:ok, _other} ->
-            GT.gettext("paragraph") <> " " <>
-            Integer.to_string(i) <> " " <>
-            GT.gettext("of") <> " " <>
-            Integer.to_string(no_of_characters) <> " " <>
-            GT.gettext("characters split into") <> " " <>
-            Integer.to_string(no_of_words) <> " " <> GT.gettext("words")
+            texts = %{para_no:  Integer.to_string(i),
+                      no_chars: Integer.to_string(no_of_characters),
+                      no_words: Integer.to_string(no_of_words)}
+            GT.gettext("Paragraph %{para_no} of %{no_chars} characters split into %{no_words} words", texts)
       end
 
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
