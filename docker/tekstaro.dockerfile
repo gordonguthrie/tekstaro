@@ -48,8 +48,6 @@ ADD tekstaro /.tekstaro
 WORKDIR /.tekstaro
 RUN mix local.rebar --force
 RUN mix deps.get
-RUN echo `ls /.tekstaro`
-RUN echo `pwd`
 RUN cd /.tekstaro/assets && npm install
 RUN mix distillery.release init
 RUN mix distillery.release --env=prod
