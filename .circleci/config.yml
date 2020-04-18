@@ -47,5 +47,3 @@ jobs:  # basic units of work in a run
       - store_test_results:  # upload junit test results for display in Test Summary
           # Read more: https://circleci.com/docs/2.0/collect-test-data/
           path: _build/test/lib/tekstaro # Replace with the name of your :app
-
-Config Walkthrough
