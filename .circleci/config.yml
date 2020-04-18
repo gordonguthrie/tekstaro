@@ -23,7 +23,7 @@ jobs:  # basic units of work in a run
       - restore_cache:  # restores saved mix cache
       # Read about caching dependencies: https://circleci.com/docs/2.0/caching/
           keys:  # list of cache keys, in decreasing specificity
-            - v1-mix-cache-{{ .Branch }}-{{ checksum "mix.lock" }}
+            - v1-mix-cache-{{ .Branch }}-{{ checksum "tekstaro/mix.lock" }}
             - v1-mix-cache-{{ .Branch }}
             - v1-mix-cache
       - restore_cache:  # restores saved build cache
@@ -32,11 +32,11 @@ jobs:  # basic units of work in a run
             - v1-build-cache
       - run: cd tekstaro && mix do deps.get, compile  # get updated dependencies & compile them
       - save_cache:  # generate and store mix cache
-          key: v1-mix-cache-{{ .Branch }}-{{ checksum "mix.lock" }}
-          paths: "deps"
+          key: v1-mix-cache-{{ .Branch }}-{{ checksum "tekstaro/mix.lock" }}
+          paths: "tekstaro/deps"
       - save_cache: # don't forget to save a *build* cache, too
           key: v1-build-cache-{{ .Branch }}
-          paths: "_build"
+          paths: "tekstaro/_build"
 
       - run:  # special utility that stalls main process until DB is ready
           name: Wait for DB
@@ -46,6 +46,4 @@ jobs:  # basic units of work in a run
 
       - store_test_results:  # upload junit test results for display in Test Summary
           # Read more: https://circleci.com/docs/2.0/collect-test-data/
-          path: _build/test/lib/tekstaro # Replace with the name of your :app
-
-Config Walkthrough
+          path: tekstaro/_build/test/lib/tekstaro # Replace with the name of your :app
