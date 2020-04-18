@@ -17,8 +17,8 @@ jobs:  # basic units of work in a run
     steps:  # commands that comprise the `build` job
       - checkout  # check out source code to working directory
 
-      - run: cd mix local.hex --force  # install Hex locally (without prompt)
-      - run: cd mix local.rebar --force  # fetch a copy of rebar (without prompt)
+      - run: local.hex --force  # install Hex locally (without prompt)
+      - run: local.rebar --force  # fetch a copy of rebar (without prompt)
 
       - restore_cache:  # restores saved mix cache
       # Read about caching dependencies: https://circleci.com/docs/2.0/caching/
@@ -30,7 +30,7 @@ jobs:  # basic units of work in a run
           keys:
             - v1-build-cache-{{ .Branch }}
             - v1-build-cache
-      - run: cd tekstaro && mix do deps.get, compile  # get updated dependencies & compile them
+      - run: mix do deps.get, compile  # get updated dependencies & compile them
       - save_cache:  # generate and store mix cache
           key: v1-mix-cache-{{ .Branch }}-{{ checksum "mix.lock" }}
           paths: "deps"
@@ -42,7 +42,7 @@ jobs:  # basic units of work in a run
           name: Wait for DB
           command: dockerize -wait tcp://localhost:5432 -timeout 1m
 
-      - run: cd MIX_ENV=circleci_test mix test  # run all tests in project
+      - run: MIX_ENV=circleci_test mix test  # run all tests in project
 
       - store_test_results:  # upload junit test results for display in Test Summary
           # Read more: https://circleci.com/docs/2.0/collect-test-data/
