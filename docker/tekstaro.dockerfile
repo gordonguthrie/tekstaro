@@ -58,7 +58,7 @@ RUN export uid=501 gid=20 && \
 	  mix local.hex --force && \
 	  mix archive.install hex phx_new 1.4.12 --force
 RUN mkdir /.tekstaro
-ADD tekstaro /.tekstaro
+ADD ./ /.tekstaro
 WORKDIR /.tekstaro
 RUN mix local.rebar --force
 RUN mix deps.get
