@@ -91,10 +91,10 @@ jobs:  # basic units of work in a run
       # build the assets
       - run: sudo apt-get install -y npm
       - run: sudo apt-get install -y nodejs
-      - run: echo `ls ~/apps`
-      - run: echo `ls ~/apps/tekstaro`
-      - run: echo `ls ~/apps/tekstaro/deps/phoenix`
-      - run: echo `ls ~/apps/tekstaro/assets`
+      - run: echo `ls ~/app`
+      - run: echo `ls ~/app/tekstaro`
+      - run: echo `ls ~/app/tekstaro/deps/phoenix`
+      - run: echo `ls ~/app/tekstaro/assets`
       - run: cd assets/ && npm install
       # now build the release
       - run: cd mix distillery.release init
