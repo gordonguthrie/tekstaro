@@ -98,8 +98,8 @@ jobs:  # basic units of work in a run
       - run: echo `ls ~/app/deps/phoenix`
       - run: cd assets/ && npm install
       # now build the release
-      - run: cd mix distillery.release init
-      - run: cd mix distillery.release --env=prod
+      - run: mix distillery.release init
+      - run: mix distillery.release --env=prod
 
       - save_cache: # save the assets
           key: v1-assets-cache-{{ .Branch }}
