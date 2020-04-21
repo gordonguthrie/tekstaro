@@ -105,6 +105,10 @@ jobs:  # basic units of work in a run
           paths: "assets"
 
       - run: echo `ls ~/app`
+      - run: echo `ls ~/app/tekstaro`
+      - run: echo `ls ~/app/tekstaro/_build`
+      - run: echo `ls ~/app/tekstaro/_build/prod`
+      - run: echo `ls ~/app/tekstaro/_build/prod/rel`
 
       - persist_to_workspace:
           root: ~/app
