@@ -1,6 +1,11 @@
-version: 2  # use CircleCI 2.0 instead of CircleCI Classic
+version: 2.1
+
+orbs:
+  aws-ecr: circleci/aws-ecr@6.8.2
+  aws-ecs: circleci/aws-ecs@1.1.0
+
 jobs:  # basic units of work in a run
-  build:  # runs not using Workflows must have a `build` job as entry point
+  test:  # runs not using Workflows must have a `build` job as entry point
     parallelism: 1  # run only one instance of this job
     docker:  # run the steps with Docker
       - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
@@ -31,10 +36,11 @@ jobs:  # basic units of work in a run
           keys:
             - v1-build-cache-{{ .Branch }}
             - v1-build-cache
+
       - run: mix do deps.get, compile  # get updated dependencies & compile them
 
       - save_cache:  # generate and store mix cache
-          key: v1-mix-cache-{{ .Branch }}-{{ checksum "mix.lock" }}
+          key: v1-mix-cache-{{ .Brsanch }}-{{ checksum "mix.lock" }}
           paths: "deps"
       - save_cache: # don't forget to save a *build* cache, too
           key: v1-build-cache-{{ .Branch }}
@@ -49,3 +55,96 @@ jobs:  # basic units of work in a run
       - store_test_results:  # upload junit test results for display in Test Summary
           # Read more: https://circleci.com/docs/2.0/collect-test-data/
           path: _build/test/lib/tekstaro # Replace with the name of your :app
+
+  build_release:
+    parallelism: 1  # run only one instance of this job
+    docker:  # run the steps with Docker
+      - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
+        environment:  # environment variables for primary container
+          MIX_ENV: prod
+
+    working_directory: ~/app  # directory where steps will run
+
+    steps:  # commands that comprise the `build_release` job
+      - checkout  # check out source code to working directory
+
+      - restore_cache:  # restores saved mix cache (we know it exists because of the `build` job)
+      # Read about caching dependencies: https://circleci.com/docs/2.0/caching/
+          keys:  # list of cache keys, in decreasing specificity
+            - v1-mix-cache-{{ .Branch }}-{{ checksum "mix.lock" }}
+            - v1-mix-cache-{{ .Branch }}
+            - v1-mix-cache
+
+      - restore_cache:  # restores saved build cache
+          keys:
+            - v1-build-cache-{{ .Branch }}
+            - v1-build-cache
+
+      - restore_cache:  # restores saved build cache
+          keys:
+            - v1-assed-cache-{{ .Branch }}
+            - v1-asset-cache
+
+      # build the assets
+      - run: cd /.tekstaro/assets && npm install
+      # now build the release
+      - run: mix distillery.release init
+      - run: mix distillery.release --env=prod
+
+      - save_cache: # save the assets
+          key: v1-assets-cache-{{ .Branch }}
+          paths: "assets"
+
+      - persist_to_workspace:
+        ./tekstaro/_build/prod/rel
+
+  build_release:
+    parallelism: 1  # run only one instance of this job
+    docker:  # run the steps with Docker
+      - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
+        environment:  # environment variables for primary container
+          MIX_ENV: prod
+
+    working_directory: ~/app  # directory where steps will run
+
+         - attach_workspace:
+          # Must be absolute path or relative path from working_directory
+          at: /tmp/workspace
+
+      - run: echo `ls /tmp/workspace`
+
+workflows:
+  build-and-deploy:
+    jobs:
+      - build
+      - build_release:
+          requires:
+            - build
+      - make_release:
+          requires:
+            - build_release
+      - aws-ecr/build_and_push_image:
+          requires:
+            - make_release
+          account-url: "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com"
+          repo: "${AWS_RESOURCE_NAME_PREFIX}"
+          region: ${AWS_DEFAULT_REGION}
+          tag: "${CIRCLE_SHA1}"
+      - aws-ecs/deploy-service-update:
+          requires:
+            - aws-ecr/build_and_push_image
+          requires:
+            - aws-ecr/build_and_push_image
+          aws-region: ${AWS_DEFAULT_REGION}
+          family: "${AWS_RESOURCE_NAME_PREFIX}-service"
+          cluster-name: "${AWS_RESOURCE_NAME_PREFIX}-cluster"
+          container-image-name-updates: "container=${AWS_RESOURCE_NAME_PREFIX}-service,image-and-tag=${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com/${AWS_RESOURCE_NAME_PREFIX}:${CIRCLE_SHA1}"
+          verify-revision-is-deployed: true
+          post-steps:
+            - run:
+                name: Test the deployment
+                command: |
+                  TARGET_GROUP_ARN=$(aws ecs describe-services --cluster ${AWS_RESOURCE_NAME_PREFIX}-cluster --services ${AWS_RESOURCE_NAME_PREFIX}-service | jq -r '.services[0].loadBalancers[0].targetGroupArn')
+                  ELB_ARN=$(aws elbv2 describe-target-groups --target-group-arns $TARGET_GROUP_ARN | jq -r '.TargetGroups[0].LoadBalancerArns[0]')
+                  ELB_DNS_NAME=$(aws elbv2 describe-load-balancers --load-balancer-arns $ELB_ARN | jq -r '.LoadBalancers[0].DNSName')
+                  curl -s --retry 10 http://$ELB_DNS_NAME | grep "Welcome to nginx!"
