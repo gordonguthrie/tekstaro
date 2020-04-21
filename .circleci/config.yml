@@ -136,9 +136,9 @@ workflows:
       - aws-ecr/build-and-push-image:
           requires:
             - make_release
-          account-url: "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com"
+          account-url: ACCURL
           repo: "${AWS_RESOURCE_NAME_PREFIX}"
-          region: "${AWS_DEFAULT_REGION}"
+          region: $AWS_DEFAULT_REGION
           tag: "${CIRCLE_SHA1}"
       - aws-ecs/deploy-service-update:
           requires:
