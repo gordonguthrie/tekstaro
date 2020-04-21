@@ -106,9 +106,10 @@ jobs:  # basic units of work in a run
 
     working_directory: ~/app  # directory where steps will run
 
-         - attach_workspace:
-          # Must be absolute path or relative path from working_directory
-          at: /tmp/workspace
+    steps:
+      - attach_workspace:
+      # Must be absolute path or relative path from working_directory
+        at: /tmp/workspace
 
       - run: echo `ls /tmp/workspace`
 
