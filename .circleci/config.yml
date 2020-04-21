@@ -89,8 +89,8 @@ jobs:  # basic units of work in a run
             - v1-asset-cache
 
       # build the assets
-      - run: echo `ls -all ~/app"
-      - run: echo `ls -all ~/app/tekstaro"
+      - run: echo `ls -all ~/app`
+      - run: echo `ls -all ~/app/tekstaro`
       - run: echo `pwd`
       - run: cd asset/ && npm install
       # now build the release
