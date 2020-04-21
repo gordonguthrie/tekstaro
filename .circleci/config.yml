@@ -71,6 +71,9 @@ jobs:  # basic units of work in a run
     steps:  # commands that comprise the `build_release` job
       - checkout  # check out source code to working directory
 
+      - run: mix local.hex --force  # install Hex locally (without prompt)
+      - run: mix local.rebar --force  # fetch a copy of rebar (without prompt)
+
       - restore_cache:  # restores saved mix cache (we know it exists because of the `build` job)
       # Read about caching dependencies: https://circleci.com/docs/2.0/caching/
           keys:  # list of cache keys, in decreasing specificity
@@ -91,10 +94,8 @@ jobs:  # basic units of work in a run
       # build the assets
       - run: sudo apt-get install -y npm
       - run: sudo apt-get install -y nodejs
-      - run: echo `ls ~/app`
-      - run: echo `ls ~/app/tekstaro`
+      - run: mix do deps.get, compile  # get updated dependencies & compile them
       - run: echo `ls ~/app/deps/phoenix`
-      - run: echo `ls ~/app/assets`
       - run: cd assets/ && npm install
       # now build the release
       - run: cd mix distillery.release init
