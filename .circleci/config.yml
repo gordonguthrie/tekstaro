@@ -57,7 +57,6 @@ jobs:  # basic units of work in a run
           path: _build/test/lib/tekstaro # Replace with the name of your :app
 
   build_release:
-    parallelism: 1  # run only one instance of this job
     docker:  # run the steps with Docker
       - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
         environment:  # environment variables for primary container
@@ -100,7 +99,6 @@ jobs:  # basic units of work in a run
           path: _build/prod/rel
 
   build_release:
-    parallelism: 1  # run only one instance of this job
     docker:  # run the steps with Docker
       - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
         environment:  # environment variables for primary container
