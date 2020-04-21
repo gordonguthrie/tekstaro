@@ -114,12 +114,12 @@ jobs:  # basic units of work in a run
       - run: echo `ls /tmp/workspace`
 
 workflows:
-  build-and-deploy:
+  test-and-deploy:
     jobs:
-      - build
+      - test
       - build_release:
           requires:
-            - build
+            - test
       - make_release:
           requires:
             - build_release
