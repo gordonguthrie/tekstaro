@@ -104,12 +104,6 @@ jobs:  # basic units of work in a run
           key: v1-assets-cache-{{ .Branch }}
           paths: "assets"
 
-      - run: echo `ls ~/app`
-      - run: echo `ls ~/app/tekstaro`
-      - run: echo `ls ~/app/_build`
-      - run: echo `ls ~/app/_build/prod`
-      - run: echo `ls ~/app/_build/prod/rel`
-
       - persist_to_workspace:
           root: ~/app
           paths: _build/prod/rel
@@ -142,9 +136,9 @@ workflows:
       - aws-ecr/build-and-push-image:
           requires:
             - make_release
-          account-url: ACCURL
+          account-url: "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com"
           repo: "${AWS_RESOURCE_NAME_PREFIX}"
-          region: REGION
+          region: "${AWS_DEFAULT_REGION}"
           tag: "${CIRCLE_SHA1}"
       - aws-ecs/deploy-service-update:
           requires:
