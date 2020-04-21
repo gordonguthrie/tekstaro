@@ -37,11 +37,6 @@ RUN tar zxf tekstaro.tar.gz && rm tekstaro.tar.gz
 
 RUN chown -R root ./releases
 
-RUN cat /.tekstaro/erts-10.7.1/bin/erl
-RUN ls -all /.tekstaro/erts-10.7.1/bin
-RUN ls /.tekstaro
-RUN ls -all /.tekstaro
-
 USER root
 
 CMD ["/.tekstaro/bin/tekstaro", "foreground"]
