@@ -115,9 +115,6 @@ jobs:  # basic units of work in a run
 
 workflows:
   test-and-deploy:
-    environment:
-      ACCURL: "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com"
-      REGION: "${AWS_DEFAULT_REGION}"
     jobs:
       - test
       - build_release:
@@ -127,16 +124,21 @@ workflows:
           requires:
             - build_release
       - aws-ecr/build-and-push-image:
+          environment:
+            ACCURL: "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com"
+            REGION: "${AWS_DEFAULT_REGION}"
           requires:
             - make_release
-          account-url: $ACCURL
+          account-url: ACCURL
           repo: "${AWS_RESOURCE_NAME_PREFIX}"
-          region: $REGION
+          region: REGION
           tag: "${CIRCLE_SHA1}"
       - aws-ecs/deploy-service-update:
+          environment:
+            REGION: "${AWS_DEFAULT_REGION}"
           requires:
             - aws-ecr/build-and-push-image
-          aws-region: $REGION
+          aws-region: REGION
           family: "${AWS_RESOURCE_NAME_PREFIX}-service"
           cluster-name: "${AWS_RESOURCE_NAME_PREFIX}-cluster"
           container-image-name-updates: "container=${AWS_RESOURCE_NAME_PREFIX}-service,image-and-tag=${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com/${AWS_RESOURCE_NAME_PREFIX}:${CIRCLE_SHA1}"
