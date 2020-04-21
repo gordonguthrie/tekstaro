@@ -44,7 +44,7 @@ jobs:  # basic units of work in a run
       - run: mix do deps.get, compile  # get updated dependencies & compile them
 
       - save_cache:  # generate and store mix cache
-          key: v1-mix-cache-{{ .Brsanch }}-{{ checksum "mix.lock" }}
+          key: v1-mix-cache-{{ .Branch }}-{{ checksum "mix.lock" }}
           paths: "deps"
       - save_cache: # don't forget to save a *build* cache, too
           key: v1-build-cache-{{ .Branch }}
@@ -89,6 +89,9 @@ jobs:  # basic units of work in a run
             - v1-asset-cache
 
       # build the assets
+      - run: echo `ls -all ~/app"
+      - run: echo `ls -all ~/app/tekstaro"
+      - run: echo `pwd`
       - run: cd asset/ && npm install
       # now build the release
       - run: cd mix distillery.release init
