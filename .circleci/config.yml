@@ -4,6 +4,10 @@ orbs:
   aws-ecr: circleci/aws-ecr@6.8.2
   aws-ecs: circleci/aws-ecs@1.1.0
 
+environment:
+  ACCURL: "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com"
+  REGION: "${AWS_DEFAULT_REGION}"
+
 jobs:  # basic units of work in a run
   test:
     parallelism: 1  # run only one instance of this job
@@ -124,9 +128,6 @@ workflows:
           requires:
             - build_release
       - aws-ecr/build-and-push-image:
-          environment:
-            ACCURL: "${AWS_ACCOUNT_ID}.dkr.ecr.${AWS_DEFAULT_REGION}.amazonaws.com"
-            REGION: "${AWS_DEFAULT_REGION}"
           requires:
             - make_release
           account-url: ACCURL
@@ -134,8 +135,6 @@ workflows:
           region: REGION
           tag: "${CIRCLE_SHA1}"
       - aws-ecs/deploy-service-update:
-          environment:
-            REGION: "${AWS_DEFAULT_REGION}"
           requires:
             - aws-ecr/build-and-push-image
           aws-region: REGION
