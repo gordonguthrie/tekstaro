@@ -106,7 +106,7 @@ jobs:  # basic units of work in a run
           paths: "assets"
 
       - persist_to_workspace:
-          root: workspace
+          root: ~/app
           path: tekstaro/_build/prod/rel
 
   make_release:
