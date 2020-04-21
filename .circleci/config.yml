@@ -86,17 +86,18 @@ jobs:  # basic units of work in a run
             - v1-asset-cache
 
       # build the assets
-      - run: cd /.tekstaro/assets && npm install
+      - run: cd asset/ && npm install
       # now build the release
-      - run: mix distillery.release init
-      - run: mix distillery.release --env=prod
+      - run: cd mix distillery.release init
+      - run: cd mix distillery.release --env=prod
 
       - save_cache: # save the assets
           key: v1-assets-cache-{{ .Branch }}
           paths: "assets"
 
       - persist_to_workspace:
-        ./tekstaro/_build/prod/rel
+          root: workspace
+          path: _build/prod/rel
 
   build_release:
     parallelism: 1  # run only one instance of this job
