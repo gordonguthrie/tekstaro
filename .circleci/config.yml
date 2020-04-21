@@ -138,7 +138,7 @@ workflows:
             - make_release
           account-url: ACCURL
           repo: "${AWS_RESOURCE_NAME_PREFIX}"
-          region: $AWS_DEFAULT_REGION
+          region: AWS_DEFAULT_REGION
           tag: "${CIRCLE_SHA1}"
       - aws-ecs/deploy-service-update:
           requires:
