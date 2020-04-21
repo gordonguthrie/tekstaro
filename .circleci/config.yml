@@ -5,7 +5,7 @@ orbs:
   aws-ecs: circleci/aws-ecs@1.1.0
 
 jobs:  # basic units of work in a run
-  test:  # runs not using Workflows must have a `build` job as entry point
+  test:
     parallelism: 1  # run only one instance of this job
     docker:  # run the steps with Docker
       - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
@@ -98,7 +98,7 @@ jobs:  # basic units of work in a run
           root: workspace
           path: _build/prod/rel
 
-  build_release:
+  make_release:
     docker:  # run the steps with Docker
       - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
         environment:  # environment variables for primary container
