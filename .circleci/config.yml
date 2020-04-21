@@ -112,8 +112,8 @@ jobs:  # basic units of work in a run
 
     steps:
       - attach_workspace:
-      # Must be absolute path or relative path from working_directory
-        at: /tmp/workspace
+          # Must be absolute path or relative path from working_directory
+          at: /tmp/workspace
 
       - run: echo `ls /tmp/workspace`
 
