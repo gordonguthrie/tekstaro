@@ -92,7 +92,7 @@ jobs:  # basic units of work in a run
       - run: echo `ls -all ~/app`
       - run: echo `ls -all ~/app/tekstaro`
       - run: echo `pwd`
-      - run: cd asset/ && npm install
+      - run: cd assets/ && npm install
       # now build the release
       - run: cd mix distillery.release init
       - run: cd mix distillery.release --env=prod
@@ -103,7 +103,7 @@ jobs:  # basic units of work in a run
 
       - persist_to_workspace:
           root: workspace
-          path: _build/prod/rel
+          path: tekstaro/_build/prod/rel
 
   make_release:
     docker:  # run the steps with Docker
