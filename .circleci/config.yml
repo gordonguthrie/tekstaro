@@ -95,7 +95,6 @@ jobs:  # basic units of work in a run
       - run: sudo apt-get install -y npm
       - run: sudo apt-get install -y nodejs
       - run: mix do deps.get, compile  # get updated dependencies & compile them
-      - run: echo `ls ~/app/deps/phoenix`
       - run: cd assets/ && npm install
       # now build the release
       - run: mix distillery.release init
@@ -105,9 +104,11 @@ jobs:  # basic units of work in a run
           key: v1-assets-cache-{{ .Branch }}
           paths: "assets"
 
+      - run: echo `ls ~/app`
+
       - persist_to_workspace:
           root: ~/app
-          path: tekstaro/_build/prod/rel
+          paths: tekstaro/_build/prod/rel
 
   make_release:
     docker:  # run the steps with Docker
