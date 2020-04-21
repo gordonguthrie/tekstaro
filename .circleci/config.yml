@@ -85,13 +85,15 @@ jobs:  # basic units of work in a run
 
       - restore_cache:  # restores saved build cache
           keys:
-            - v1-assed-cache-{{ .Branch }}
+            - v1-asset-cache-{{ .Branch }}
             - v1-asset-cache
 
       # build the assets
       - run: echo `ls -all ~/app`
       - run: echo `ls -all ~/app/tekstaro`
       - run: echo `pwd`
+      - run: apt-get install -y npm
+      - run: apt-get install -y node
       - run: cd assets/ && npm install
       # now build the release
       - run: cd mix distillery.release init
