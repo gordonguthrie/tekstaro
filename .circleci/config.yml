@@ -98,7 +98,7 @@ jobs:  # basic units of work in a run
       - run: cd assets/ && npm install
       # now build the release
       - run: mix distillery.release init
-      - run: mix distillery.release --env=prod
+      - run: MIX_ENV=prod mix distillery.release --env=prod
 
       - save_cache: # save the assets
           key: v1-assets-cache-{{ .Branch }}
