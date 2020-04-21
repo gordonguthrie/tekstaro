@@ -91,6 +91,8 @@ jobs:  # basic units of work in a run
       # build the assets
       - run: sudo apt-get install -y npm
       - run: sudo apt-get install -y nodejs
+      - run: echo `ls ~/apps`
+      - run: echo `ls ~/apps/tekstaro`
       - run: echo `ls ~/apps/tekstaro/deps/phoenix`
       - run: echo `ls ~/apps/tekstaro/assets`
       - run: cd assets/ && npm install
