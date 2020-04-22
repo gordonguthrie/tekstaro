@@ -5,7 +5,7 @@ orbs:
   aws-ecs: circleci/aws-ecs@1.1.0
 
 jobs:  # basic units of work in a run
-  build:
+  build_release:
     docker:  # run the steps with Docker
       - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
         environment:  # environment variables for primary container
@@ -68,10 +68,10 @@ jobs:  # basic units of work in a run
 
       - run: echo `~/tekstaro`
 
- workflows:
-   test-and-deploy:
-     jobs:
-       - build
-       - make_release:
-           requires:
-             - build
+workflows:
+  test-and-deploy:
+    jobs:
+      - build_release
+      - make_release:
+          requires:
+            - build_release
