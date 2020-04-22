@@ -93,8 +93,8 @@ jobs:  # basic units of work in a run
       - run: mix do deps.get, compile  # get updated dependencies & compile them
       - run: cd assets/ && npm install
       # now build the release
-      - run: mix distillery.release init --name=tekstaro
-      - run: MIX_ENV=prod mix distillery.release --env=prod --name=tekstaro
+      - run: mix distillery.release init --name=tekstaro --verbose
+      - run: MIX_ENV=prod mix distillery.release --env=prod --name=tekstaro --verbose
 
       - save_cache: # save the assets
           key: v1-assets-cache-{{ .Branch }}
