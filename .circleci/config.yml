@@ -133,7 +133,7 @@ workflows:
           requires:
             - make_release
           account-url: AWS_URL
-          repo: "${AWS_RESOURCE_NAME_PREFIX}"
+          repo: AWS_RESOURCE_NAME_PREFIX
           region: AWS_DEFAULT_REGION
           tag: "${CIRCLE_SHA1}"
       - aws-ecs/deploy-service-update:
