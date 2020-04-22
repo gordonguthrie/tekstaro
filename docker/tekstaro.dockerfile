@@ -63,9 +63,8 @@ WORKDIR /.tekstaro
 RUN mix local.rebar --force
 RUN mix deps.get
 RUN cd /.tekstaro/assets && npm install
-RUN MIX_ENV=prod mix distillery.release init
-RUN MIX_ENV=prod mix distillery.release --env=prod
-# fix up static cache generation with the mix task
+RUN mix phx.digest
+RUN MIX_ENV=prod mix release
 
 USER developer
 

@@ -102,3 +102,4 @@ jobs:  # basic units of work in a run
 
       - run: sudo apt-get install -y tree
       - run: cd _build/prod/ && tree
+      - run: env
