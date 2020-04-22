@@ -5,7 +5,7 @@ orbs:
   aws-ecs: circleci/aws-ecs@1.1.0
 
 jobs:  # basic units of work in a run
-  test:
+  build_release:
     parallelism: 1  # run only one instance of this job
     docker:  # run the steps with Docker
       - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
@@ -100,6 +100,29 @@ jobs:  # basic units of work in a run
           key: v1-assets-cache-{{ .Branch }}
           paths: "assets"
 
-      - run: sudo apt-get install -y tree
-      - run: cd _build/prod/ && tree
-      - run: env
+      - persist_to_workspace:
+          root: ~/app
+          paths: _build/prod/rel
+
+  make_release:
+    docker:  # run the steps with Docker
+      - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
+        environment:  # environment variables for primary container
+          MIX_ENV: prod
+
+    working_directory: ~/app  # directory where steps will run
+
+    steps:
+      - attach_workspace:
+          # Must be absolute path or relative path from working_directory
+          at: ~/tekstaro
+
+      - run: echo `~/tekstaro`
+
+ workflows:
+   test-and-deploy:
+     jobs:
+       - build_release
+       - make_release:
+           requires:
+             - build_release
