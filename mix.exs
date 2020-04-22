@@ -47,7 +47,6 @@ defmodule Tekstaro.MixProject do
       {:set_locale,          "~> 0.2.1"},
       {:comeonin,            "~> 4.0"},
       {:bcrypt_elixir,       "~> 1.0"},
-      {:distillery,          "~> 2.1.1"},
       {:radikigo,            git: "https://github.com/gordonguthrie/radikigo.git"}
 #     {:radikigo,            path: "../../radikigo"}
     ]

@@ -92,13 +92,13 @@ jobs:  # basic units of work in a run
       - run: sudo apt-get install -y nodejs
       - run: MIX_ENV=prod mix do deps.get, compile  # get updated dependencies & compile them
       - run: cd assets/ && npm install
+      - run: MIX_ENV=prod mix phx.digest
       # now build the release
-      - run: MIX_ENV=prod mix distillery.release init --name=tekstaro --verbose
-      - run: MIX_ENV=prod mix distillery.release --env=prod --name=tekstaro --verbose
+      - run: MIX_ENV=prod mix release
 
       - save_cache: # save the assets
           key: v1-assets-cache-{{ .Branch }}
           paths: "assets"
 
       - run: sudo apt-get install -y tree
-      - run: cd _build/prod/rel && tree
+      - run: cd _build/prod/ && tree
