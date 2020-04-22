@@ -56,7 +56,7 @@ jobs:  # basic units of work in a run
           # Read more: https://circleci.com/docs/2.0/collect-test-data/
           path: _build/test/lib/tekstaro # Replace with the name of your :app
 
-  build_release:
+  build:
     docker:  # run the steps with Docker
       - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
         environment:  # environment variables for primary container
@@ -102,9 +102,3 @@ jobs:  # basic units of work in a run
 
       - run: sudo apt-get install -y tree
       - run: cd _build/prod/rel && tree
-
-
-workflows:
-  test-and-deploy:
-    jobs:
-      - build_release:
