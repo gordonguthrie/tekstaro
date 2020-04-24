@@ -1,9 +1,10 @@
 version: 2.1
 
-orbs:
-  docker: circleci/docker@1.0.1
+
 
 jobs:
+  orbs:
+    docker: circleci/docker@1.0.1
   publish_dev_container:
     docker:
       - image: circleci/elixir:1.9.4
