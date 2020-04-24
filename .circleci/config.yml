@@ -3,16 +3,11 @@ version: 2.1
 orbs:
   docker: cricleci/docker@1.0.1
 
-jobs:  # basic units of work in a run
-  build_and_push:
-    docker:  # run the steps with Docker
-      - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
-    dockefile: docker/tekstaro.dockerfile
-    image: tekstaro/tekstaro_release
-    path: ./
-    registry: hub.docker.com
-
 workflows:
-  test-and-deploy:
+  build_and_push:
     jobs:
-      - build_and_push
+      - docker/publish:
+          dockefile: docker/tekstaro.dockerfile
+          image: tekstaro/tekstaro_release
+          path: ./
+          registry: hub.docker.com
