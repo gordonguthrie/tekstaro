@@ -7,7 +7,6 @@ jobs:
   publish_dev_container:
     executor: docker/docker
     steps:
-      - setup_remote_docker
       - checkout
       - docker/publish:
           dockerfile: docker/tekstaro.dockerfile
@@ -17,7 +16,6 @@ jobs:
   public_aws_container:
     executor: docker/docker
     steps:
-      - setup_remote_docker
       - checkout
       - docker/publish:
           dockerfile: docker/aws.dockerfile
