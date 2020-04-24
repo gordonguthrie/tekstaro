@@ -22,4 +22,4 @@ workflows:
       publish_dev_container
       - publish_aws_container
           requires:
-            publish_dev_container
+            - publish_dev_container
