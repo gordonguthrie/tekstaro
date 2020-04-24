@@ -1,18 +1,21 @@
 version: 2.1
 
 orbs:
-  docker: circleci/docker@1.0.1
+  docker1: circleci/docker@1.0.1
+  docker2: circleci/docker@1.0.1
 
 workflows:
-  build_and_push_dev:
+  version: 2
+  build_and_push:
     jobs:
-      - docker/build:
+      - docker1/publish:
           dockerfile: docker/tekstaro.dockerfile
           image: iocarney/tekstaro_dev
           path: ./
-      - docker/publish:
+
+      - docker2/publish:
           requires:
-            - build_and_push_dev
+            - docker1/publish
           dockerfile: docker/aws.dockerfile
           image: iocarney/tekstaro_aws
           path: ./
