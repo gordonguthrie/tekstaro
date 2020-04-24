@@ -20,6 +20,6 @@ workflows:
   build_and_push:
     jobs:
       - publish_dev_container
-      - publish_aws_container
+      - publish_aws_container:
           requires:
             - publish_dev_container
