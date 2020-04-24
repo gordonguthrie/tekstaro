@@ -66,7 +66,7 @@ jobs:  # basic units of work in a run
           # Must be absolute path or relative path from working_directory
           at: ~/tekstaro
 
-      - run: echo `~/tekstaro`
+      - run: ls ~/tekstaro
 
 workflows:
   test-and-deploy:
