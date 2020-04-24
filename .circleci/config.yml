@@ -11,6 +11,8 @@ workflows:
           image: iocarney/tekstaro_dev
           path: ./
   build_and_push_aws:
+    requires:
+      - build_and_push_dev
     jobs:
       - docker/publish:
           dockerfile: docker/aws.dockerfile
