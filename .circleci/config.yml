@@ -5,7 +5,6 @@ orbs:
 
 jobs:  # basic units of work in a run
   build_and_push:
-    ce of this job
     docker:  # run the steps with Docker
       - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
     dockefile: docker/tekstaro.dockerfile
