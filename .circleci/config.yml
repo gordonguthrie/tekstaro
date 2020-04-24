@@ -4,6 +4,14 @@ orbs:
   docker1: circleci/docker@1.0.1
   docker2: circleci/docker@1.0.1
 
+jobs:
+  login:
+    docker:  # run the steps with Docker
+      - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
+    steps:
+      - run: echo $DOCKER_PASSWORD | docker login -u $DOCKER_LOGIN --password-stdin
+
+
 workflows:
   version: 2
   build_and_push:
@@ -13,10 +21,11 @@ workflows:
           image: iocarney/tekstaro_dev
           path: ./
       - login:
-          - run: echo $DOCKER_PASSWORD | docker login -u $DOCKER_LOGIN --password-stdin
-      - docker2/publish:
           requires:
             - docker1/publish
+      - docker2/publish:
+          requires:
+            - login
           dockerfile: docker/aws.dockerfile
           image: iocarney/tekstaro_aws
           path: ./
