@@ -5,7 +5,8 @@ orbs:
 
 jobs:
   publish_dev_container:
-    executor: docker/docker
+    docker:
+      - image: circleci/elixir:1.9.4
     steps:
       - checkout
       - docker/publish:
@@ -14,7 +15,8 @@ jobs:
           path: ./
 
   public_aws_container:
-    executor: docker/docker
+    docker:
+      - image: circleci/elixir:1.9.4
     steps:
       - checkout
       - docker/publish:
