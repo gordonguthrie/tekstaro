@@ -6,15 +6,13 @@ orbs:
 workflows:
   build_and_push_dev:
     jobs:
-      - docker/publish:
+      - docker/build:
           dockerfile: docker/tekstaro.dockerfile
           image: iocarney/tekstaro_dev
           path: ./
-  build_and_push_aws:
-    requires:
-      - build_and_push_dev
-    jobs:
       - docker/publish:
+          requires:
+            - build_and_push_dev
           dockerfile: docker/aws.dockerfile
           image: iocarney/tekstaro_aws
           path: ./
