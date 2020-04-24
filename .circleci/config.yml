@@ -8,6 +8,5 @@ workflows:
     jobs:
       - docker/publish:
           dockerfile: docker/tekstaro.dockerfile
-          image: tekstaro/tekstaro_release
+          image: iocarney/tekstaro_release
           path: ./
-          registry: index.docker.io
