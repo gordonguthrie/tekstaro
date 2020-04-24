@@ -10,4 +10,4 @@ workflows:
           dockerfile: docker/tekstaro.dockerfile
           image: tekstaro/tekstaro_release
           path: ./
-          registry: hub.docker.com
+          registry: index.docker.io
