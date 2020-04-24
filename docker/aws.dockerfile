@@ -14,6 +14,9 @@ ARG SESSION_COOKIE_NAME
 ARG SESSION_COOKIE_SIGNING_SALT
 ARG SESSION_COOKIE_ENCRYPTION_SALT
 ARG DATABASE_URL
+ARG TAG
+ARG DOCKER_LOGIN
+ARG DOCKER_PASSWORD
 
 ENV MIX_ENV=prod \
     PHOENIX_SECRET_KEY_BASE=$PHOENIX_SECRET_KEY_BASE \
@@ -30,6 +33,8 @@ ENV PORT=4000 \
     SHELL=/bin/bash
 
 WORKDIR /.tekstaro
+
+RUN ECHO ${DOCKER_PASSWORD} | docker login -u ${DOCKER_LOGIN} --password-stdin
 
 COPY --from=tekstaro_release:0.1.0 /.tekstaro/_build/prod/rel/tekstaro/releases/0.1.0/tekstaro.tar.gz .
 
