@@ -12,7 +12,8 @@ workflows:
           dockerfile: docker/tekstaro.dockerfile
           image: iocarney/tekstaro_dev
           path: ./
-
+      - login:
+          - run: echo $DOCKER_PASSWORD | docker login -u $DOCKER_LOGIN --password-stdin
       - docker2/publish:
           requires:
             - docker1/publish
