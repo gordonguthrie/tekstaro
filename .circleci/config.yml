@@ -1,77 +1,16 @@
 version: 2.1
 
 orbs:
-  aws-ecr: circleci/aws-ecr@6.8.2
-  aws-ecs: circleci/aws-ecs@1.1.0
+  docker: cricleci/docker@1.0.1
 
 jobs:  # basic units of work in a run
-  build_release:
-    docker:  # run the steps with Docker
-      - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
-        environment:  # environment variables for primary container
-          MIX_ENV: prod
-
-    working_directory: ~/app  # directory where steps will run
-
-    steps:  # commands that comprise the `build_release` job
-      - checkout  # check out source code to working directory
-
-      - run: mix local.hex --force  # install Hex locally (without prompt)
-      - run: mix local.rebar --force  # fetch a copy of rebar (without prompt)
-
-      - restore_cache:  # restores saved mix cache (we know it exists because of the `build` job)
-      # Read about caching dependencies: https://circleci.com/docs/2.0/caching/
-          keys:  # list of cache keys, in decreasing specificity
-            - v1-mix-cache-{{ .Branch }}-{{ checksum "mix.lock" }}
-            - v1-mix-cache-{{ .Branch }}
-            - v1-mix-cache
-
-      - restore_cache:  # restores saved build cache
-          keys:
-            - v1-build-cache-{{ .Branch }}
-            - v1-build-cache
-
-      - restore_cache:  # restores saved build cache
-          keys:
-            - v1-asset-cache-{{ .Branch }}
-            - v1-asset-cache
-
-      # build the assets
-      - run: sudo apt-get install -y npm
-      - run: sudo apt-get install -y nodejs
-      - run: MIX_ENV=prod mix do deps.get, compile  # get updated dependencies & compile them
-      - run: cd assets/ && npm install
-      - run: MIX_ENV=prod mix phx.digest
-      # now build the release
-      - run: MIX_ENV=prod mix release
-
-      - save_cache: # save the assets
-          key: v1-assets-cache-{{ .Branch }}
-          paths: "assets"
-
-      - persist_to_workspace:
-          root: ~/app
-          paths: _build/prod/rel
-
-  make_release:
-    docker:  # run the steps with Docker
-      - image: circleci/elixir:1.9.4  # ...with this image as the primary container; this is where all `steps` will run
-        environment:  # environment variables for primary container
-          MIX_ENV: prod
-
-    working_directory: ~/app  # directory where steps will run
-
-    steps:
-      - attach_workspace:
-          # Must be absolute path or relative path from working_directory
-          at: ~/tekstaro
-
-      - run: ls ~/tekstaro
+  build_and_push:
+    dockefile: docker/tekstaro.dockerfile
+    image: tekstaro/tekstaro_release
+    path: ./
+    registry: hub.docker.com
 
 workflows:
   test-and-deploy:
     jobs:
-      - build_release
-      - make_release:
-          requires:
-            - build_release
+      - build_and_push
