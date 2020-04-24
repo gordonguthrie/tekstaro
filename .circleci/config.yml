@@ -7,7 +7,7 @@ workflows:
   build_and_push:
     jobs:
       - docker/publish:
-          dockefile: docker/tekstaro.dockerfile
+          dockerfile: docker/tekstaro.dockerfile
           image: tekstaro/tekstaro_release
           path: ./
           registry: hub.docker.com
