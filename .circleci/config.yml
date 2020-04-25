@@ -17,8 +17,6 @@ jobs:
           dockerfile: docker/tekstaro.dockerfile
           image: iocarney/tekstaro_dev
           path: ./
-      - docker1/push:
-          image: tekstaro/tekstaro_dev:${TAG}
 
 workflows:
   version: 2
