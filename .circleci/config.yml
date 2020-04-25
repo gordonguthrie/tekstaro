@@ -7,15 +7,15 @@ orbs:
 jobs:
   build_dev:
     docker:
-      -image: circleci/elixir:1.9.4
-      environment:
-        MIX_ENV: prod
-      steps:
-        - checkout
-        - docker1/build:
-            dockerfile: docker/tekstaro.dockerfile
-            image: iocarney/tekstaro_dev
-            path: ./
+      - image: circleci/elixir:1.9.4
+          environment:
+          MIX_ENV: prod
+    steps:
+      - checkout
+      - docker1/build:
+          dockerfile: docker/tekstaro.dockerfile
+          image: iocarney/tekstaro_dev
+          path: ./
 
 workflows:
   version: 2
