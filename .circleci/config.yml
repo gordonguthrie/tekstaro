@@ -12,7 +12,7 @@ jobs:
         MIX_ENV: prod
       steps:
         - checkout
-        - docker1/buld
+        - docker1/build:
             dockerfile: docker/tekstaro.dockerfile
             image: iocarney/tekstaro_dev
             path: ./
