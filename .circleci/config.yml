@@ -9,7 +9,7 @@ jobs:
     docker:
       - image: circleci/elixir:1.9.4
           environment:
-          MIX_ENV: prod
+            MIX_ENV: prod
     steps:
       - checkout
       - docker1/build:
