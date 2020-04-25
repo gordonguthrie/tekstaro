@@ -4,17 +4,27 @@ orbs:
   docker1: circleci/docker@1.0.1
   docker2: circleci/docker@1.0.1
 
+jobs:
+  build_dev:
+    docker:
+      -image: circleci/elixir:1.9.4
+      environment:
+        MIX_ENV: prod
+      steps:
+        - checkout
+        - docker1/buld
+            dockerfile: docker/tekstaro.dockerfile
+            image: iocarney/tekstaro_dev
+            path: ./
+
 workflows:
   version: 2
   build_and_push:
     jobs:
-      - docker1/build:
-          dockerfile: docker/tekstaro.dockerfile
-          image: iocarney/tekstaro_dev
-          path: ./
+      - build_dev:
       - docker2/publish:
           requires:
-            - docker1/publish
+            - build_dev
           dockerfile: docker/aws.dockerfile
           image: iocarney/tekstaro_aws
           path: ./
