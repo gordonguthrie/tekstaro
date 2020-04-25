@@ -21,7 +21,7 @@ workflows:
   version: 2
   build_and_push:
     jobs:
-      - build_dev:
+      - build_dev
       - docker2/publish:
           requires:
             - build_dev
