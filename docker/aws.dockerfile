@@ -34,11 +34,8 @@ ENV PORT=4000 \
 
 WORKDIR /.tekstaro
 
-RUN echo ${DOCKER_PASSWORD}
-RUN echo ${DOCKER_LOGIN}
-RUN echo ${DOCKER_PASSWORD} | docker login -u ${DOCKER_LOGIN} --password-stdin
 
-COPY --from=tekstaro_release:0.1.0 /.tekstaro/_build/prod/rel/tekstaro/releases/0.1.0/tekstaro.tar.gz .
+COPY --from=tekstaro_release:${TAG{ /.tekstaro/_build/prod/rel/tekstaro/releases/${TAG}/tekstaro.tar.gz .
 
 RUN tar zxf tekstaro.tar.gz && rm tekstaro.tar.gz
 
