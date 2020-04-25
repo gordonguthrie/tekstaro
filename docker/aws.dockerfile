@@ -35,7 +35,7 @@ ENV PORT=4000 \
 WORKDIR /.tekstaro
 
 
-COPY --from=tekstaro_dev:${TAG{ /.tekstaro/_build/prod/rel/tekstaro/releases/${TAG}/tekstaro.tar.gz .
+COPY --from=tekstaro_dev:${TAG} /.tekstaro/_build/prod/rel/tekstaro/releases/${TAG}/tekstaro.tar.gz .
 
 RUN tar zxf tekstaro.tar.gz && rm tekstaro.tar.gz
 
