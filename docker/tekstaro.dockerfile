@@ -1,16 +1,3 @@
-# this is the first of a pair of docker files
-#
-# In this one we build an image which we will call `tekastaro_release`
-# this is a docker image with all the source code mounted in and XWindows setup
-# and all sort of stuff you want to fanny about with installed
-#
-# The elixir app has Distillery as a dependency and this is used to build a release
-#
-# the second dockerfile builds another image with based on our `tekastaro_release` and copies the release over
-#
-# it builds a release in the directory `/.tekstaro`
-# (in normal development you will be running code mounted in `/tekstaro/tekstaro`)
-
 FROM elixir:1.9.4 as tekastaro_release
 
 ARG PHOENIX_SECRET_KEY_BASE
