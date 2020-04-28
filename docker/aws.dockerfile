@@ -1,13 +1,8 @@
-# this is the second of a pair of docker files
-#
-# In the previous one we build an image - and we call it `tekastaro_release`
-# this is a docker image with all the source code mounted in and XWindows setup
-# and all sort of stuff you want to fanny about with installed
-#
-# The elixir app has Distillery as a dependency and this is used to build a release
-#
-# this second dockerfile builds another image with and pulls the release over from our image `tekastaro_release`
 FROM elixir:1.9.4
+
+RUN apt-get update
+RUN apt-get install -y nodejs
+RUN apt-get install -y npm
 
 ARG PHOENIX_SECRET_KEY_BASE
 ARG SESSION_COOKIE_NAME
@@ -33,16 +28,25 @@ ENV PORT=4000 \
     REPLACE_OS_VARS=true \
     SHELL=/bin/bash
 
-WORKDIR /.tekstaro
+RUN mix local.hex --force
+RUN mix archive.install hex phx_new 1.4.12 --force
+RUN mkdir /tmp/tekstaro
+ADD ./ /tmp/tekstaro
+WORKDIR /tmp/tekstaro
+RUN mix local.rebar --force
+RUN mix deps.get
+RUN cd /tmp/tekstaro/assets && npm install
+RUN mix phx.digest
+RUN MIX_ENV=prod mix release
 
-RUN echo "tag is ${TAG}"
+RUN mkdir /tekstaro_aws
+RUN cp -R /tmp/tekstaro/_build/prod/rel/tekstaro/* /tekstaro_aws
 
-COPY --from=tekstaro_dev:${TAG} /.tekstaro/_build/prod/rel/tekstaro/releases/${TAG}/tekstaro.tar.gz .
+WORKDIR /tekstaro
 
-RUN tar zxf tekstaro.tar.gz && rm tekstaro.tar.gz
-
-RUN chown -R root ./releases
+#RUN rm -rf /tmp/tekstaro
 
 USER root
 
-CMD ["/.tekstaro/bin/tekstaro", "foreground"]
+CMD ["/tekstaro_aws/bin/tekstaro", "start"]
+#CMD tail -f /dev/null
