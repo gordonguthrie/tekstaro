@@ -16,3 +16,5 @@ jobs:
           dockerfile: docker/aws.dockerfile
           image: iocarney/tekstaro_aws
           path: ./
+      - docker/publish:
+          image: tekstaro/tekstaro_aws
