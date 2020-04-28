@@ -23,7 +23,8 @@ ENV MIX_ENV=prod \
     SESSION_COOKIE_NAME=$SESSION_COOKIE_NAME \
     SESSION_COOKIE_SIGNING_SALT=$SESSION_COOKIE_SIGNING_SALT \
     SESSION_COOKIE_ENCRYPTION_SALT=$SESSION_COOKIE_ENCRYPTION_SALT \
-    DATABASE_URL=$DATABASE_URL
+    DATABASE_URL=$DATABASE_URL \
+    TAG=$TAG
 
 EXPOSE 4000
 
@@ -33,7 +34,6 @@ ENV PORT=4000 \
     SHELL=/bin/bash
 
 WORKDIR /.tekstaro
-
 
 COPY --from=tekstaro_dev:${TAG} /.tekstaro/_build/prod/rel/tekstaro/releases/${TAG}/tekstaro.tar.gz .
 
