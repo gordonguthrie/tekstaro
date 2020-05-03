@@ -25,14 +25,13 @@ config :tekstaro, TekstaroWeb.Endpoint,
   secret_key_base: System.get_env("SECRET_KEY_BASE"),
   session_cookie_name: System.get_env("SESSION_COOKIE_NAME"),
   session_cookie_signing_salt: System.get_env("SESSION_COOKIE_SIGNING_SALT"),
-  session_cookie_encryption_salt: System.get_env("SESSION_COOKIE_ENCRYPTION_SALT"),
-  http: [
-    port: String.to_integer(System.get_env("PORT") || "4000"),
-    transport_options: [socket_opts: [:inet6]]
-  ]
+  session_cookie_encryption_salt: System.get_env("SESSION_COOKIE_ENCRYPTION_SALT")
 
 # Do not print debug messages in production
-config :logger, level: :info
+config :logger,
+  level:    :debug,
+  backends: [:console],
+  utc_log:  true
 
 # ## SSL Support
 #

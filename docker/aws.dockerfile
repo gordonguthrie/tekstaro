@@ -39,14 +39,10 @@ RUN cd /tmp/tekstaro/assets && npm install
 RUN mix phx.digest
 RUN MIX_ENV=prod mix release
 
-RUN mkdir /tekstaro_aws
+RUN mkdir -p /tekstaro_aws
 RUN cp -R /tmp/tekstaro/_build/prod/rel/tekstaro/* /tekstaro_aws
 
-WORKDIR /tekstaro
-
-#RUN rm -rf /tmp/tekstaro
-
-USER root
+WORKDIR /tekstaro_aws
 
 CMD ["/tekstaro_aws/bin/tekstaro", "start"]
 #CMD tail -f /dev/null

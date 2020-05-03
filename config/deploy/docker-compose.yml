@@ -1,0 +1,9 @@
+version: '2'
+services:
+  tekstaro:
+    image: '566547813691.dkr.ecr.eu-central-1.amazonaws.com/tekstaro:latest'
+    environment:
+      - HOST=ec2-3-120-36-199.eu-central-1.compute.amazonaws.com
+      - PORT=80
+    ports:
+      - '80:80'
