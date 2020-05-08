@@ -12,7 +12,10 @@ config :tekstaro,
 
 # Configures the endpoint
 config :tekstaro, TekstaroWeb.Endpoint,
-  url: [host: "localhost"],
+  server: true,
+  root: ".",
+  version: Application.spec(:tekstaro, :vsn),
+  url: [host: "localhost", port: System.get_env("PORT") || 80],
   secret_key_base: "XNHpxU9VDLDwKB+q7TZfRJWPd5O1e1LBltio1p7pkD2ztPQSVSgCOy6SeYKhJ0eq",
   render_errors: [view: TekstaroWeb.ErrorView, accepts: ~w(html json)],
   pubsub: [name: Tekstaro.PubSub, adapter: Phoenix.PubSub.PG2]

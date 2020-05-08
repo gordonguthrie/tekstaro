@@ -28,6 +28,7 @@ ENV PORT=4000 \
     REPLACE_OS_VARS=true \
     SHELL=/bin/bash
 
+RUN env
 RUN mix local.hex --force
 RUN mix archive.install hex phx_new 1.4.12 --force
 RUN mkdir /tmp/tekstaro
@@ -37,12 +38,12 @@ RUN mix local.rebar --force
 RUN mix deps.get
 RUN cd /tmp/tekstaro/assets && npm install
 RUN mix phx.digest
-RUN MIX_ENV=prod mix release
+RUN MIX_ENV=prod mix distillery.release --env=prod --name=tekstaro --verbose
 
 RUN mkdir -p /tekstaro_aws
 RUN cp -R /tmp/tekstaro/_build/prod/rel/tekstaro/* /tekstaro_aws
 
 WORKDIR /tekstaro_aws
 
-CMD ["/tekstaro_aws/bin/tekstaro", "start"]
+CMD ["/tekstaro_aws/bin/tekstaro", "foreground"]
 #CMD tail -f /dev/null
