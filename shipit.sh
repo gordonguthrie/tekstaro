@@ -9,8 +9,8 @@ set -x
 # programmatically. You should have both AWS_ACCESS_KEY_ID and
 # AWS_SECRET_ACCESS_KEY from when we created the admin user.
 # AWS_DEFAULT_REGION is the code for the aws region you chose, e.g., eu-west-2.
-AWS_ACCESS_KEY_ID=AKIAYH2HBSU5VFBTOSWA
-AWS_SECRET_ACCESS_KEY=J7oWBDW10FKj3L93fTUmlkk0TSjzCdJdDm60kqIi
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
 AWS_DEFAULT_REGION=eu-central-1
 
 # Set AWS ECS vars.
@@ -26,11 +26,11 @@ AWS_ECS_CLUSTER_NAME=tekstaro-cluster
 # Set Build args.
 # These are the build arguments we used before.
 # Note that the DATABASE_URL needs to be set.
-DATABASE_URL=postgresql://postgres:peachymotherfucker@tekstaro-database-1.comthzko7akq.eu-central-1.rds.amazonaws.com/tekstaro-database-1
-PHOENIX_SECRET_KEY_BASE=CDOWQ8D90cDrb+MfhLnbBhkkJb3HdSjtwY15uyptN8lH/4KuR2Y5hfjUWAvByXsi
-SESSION_COOKIE_NAME=rita
-SESSION_COOKIE_SIGNING_SALT=rando_dando-fish-fingers
-SESSION_COOKIE_ENCRYPTION_SALT=preach-brother
+DATABASE_URL=
+PHOENIX_SECRET_KEY_BASE=
+SESSION_COOKIE_NAME=
+SESSION_COOKIE_SIGNING_SALT=
+SESSION_COOKIE_ENCRYPTION_SALT=
 
 # Set runtime ENV.
 # These are the runtime environment variables.
