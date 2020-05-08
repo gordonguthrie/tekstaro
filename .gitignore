@@ -18,3 +18,5 @@ assets/.babelrc
 assets/package-lock.json
 .DS_Store
 shipit.sh
+accessKey.csv
+credentials.csv
