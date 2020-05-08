@@ -48,9 +48,5 @@ end
 
 release :tekstaro do
   set version: current_version(:tekstaro)
-  set applications: [
-    :runtime_tools,
-    tekstaro: :permanent
-  ]
   set pre_start_hooks: "rel/hooks/"
 end
