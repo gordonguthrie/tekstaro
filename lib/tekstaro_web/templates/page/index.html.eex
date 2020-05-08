@@ -2,6 +2,7 @@
   <h1><%= gettext "Welcome to %{name}!", name: "Tekstaro" %></h1>
   <p><%= gettext "A tool for writers of Esperanto that allows them to explore usage of words and grammer from a large corpus of written Esperanto." %></p>
   <p><%= gettext "Tekstaro also has simple and intuitive tools to upload new texts and detect duplicate submissions." %></p>
+  <h2 style="color:darkred"><%= gettext "This is a beta - try it out, talk to me gordon@hypernumbers.com @gordonguthrie" %></h2>
 </section>
 
 <section class="row">
