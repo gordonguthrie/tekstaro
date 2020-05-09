@@ -595,11 +595,6 @@ msgid "conditionals"
 msgstr "kondiĉa"
 
 #, elixir-format
-#: lib/tekstaro/text/text.ex:194
-msgid "fix text server termination, ya fanny"
-msgstr ""
-
-#, elixir-format
 #: lib/tekstaro_web/templates/browse/index.html.eex:64
 msgid "future"
 msgstr "futuro"
@@ -970,3 +965,13 @@ msgstr "Tekstaro de uzado de Esperanto"
 #: lib/tekstaro_web/templates/page/index.html.eex:5
 msgid "This is a beta - try it out, talk to me gordon@hypernumbers.com @gordonguthrie"
 msgstr "Estas beta. Uzadu. Parolu al min gordon@hypernumbers.com @gordonguthrie"
+
+#, elixir-format, fuzzy
+#: lib/tekstaro/text/text.ex:193
+msgid "finished"
+msgstr "finita"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:55
+msgid "loading text"
+msgstr "ŝarga teksto"
