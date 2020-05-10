@@ -42,12 +42,12 @@ defmodule TekstaroWeb.SearchController do
     |> render("parse.json", results: results, search_terms: s)
   end
 
-  def search(conn, %{"search_term" => s, "locale" => locale} = _params) do
+  def search(conn, %{"search_term" => s, "exact_match" => exact_match, "locale" => locale} = _params) do
     Gettext.put_locale(TekstaroWeb.Gettext, locale)
     raw_paragraphs = Procezo.estigu_paragrafoj(s)
     paragraphs = for p <- raw_paragraphs, do: GenServer.call(Tekstaro.Text.Vortoj, {:process, p})
     words = get_words(paragraphs)
-    {sql, _search_terms} = make_search_sql(words)
+    {sql, _search_terms} = make_search_sql(words, exact_match)
     response = Ecto.Adapters.SQL.query!(Tekstaro.Repo, sql)
     %Postgrex.Result{rows: rows} = response
     rows2 = process_rows(rows)
@@ -305,13 +305,14 @@ defmodule TekstaroWeb.SearchController do
                          "booleans" => []})
   end
 
-  defp make_search_sql(terms) do
+  defp make_search_sql(terms, exact_match) do
     # some words are consumed by their parts and don't have roots
     # eg `a` or `igo`
     clauses = for {word, root} <- terms do
-        case root do
-          "" -> "word.word = '" <> word <> "'"
-          _  -> "word.root = '" <> root <> "'"
+        case {root, exact_match} do
+          {"", _}      -> "word.word = '" <> word <> "'"
+          {_, "false"} -> "word.root = '" <> root <> "'"
+          {_, "true"}  -> "word.word = '" <> word <> "'"
         end
     end
     search_terms = for {word, root} <- terms do

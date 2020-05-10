@@ -9,6 +9,9 @@
   <article class="column">
       <label for="search_term"><%= gettext("Search")%></label>
       <input id="tekstaro_search_term" type="text" name="search_term">
+      <div class="tekstaro_small">Exact match
+        <input type='checkbox' id='tekstaro_exact_match' name='exact_match' value='exact_match'>
+      </div>
       <button id="tekstaro_search" type="button"><%= gettext("Search") %></button>
   </article>
 </section>

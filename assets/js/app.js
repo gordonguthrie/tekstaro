@@ -174,12 +174,13 @@ var tekstaro = function () {
 
   $("#tekstaro_search").click(function(e) {
     var search_term = $("#tekstaro_search_term").val();
+    var exact_match = $("#tekstaro_exact_match")[0].checked;
     // null searches cause the back end to crash
     if (search_term === "") {
       return;
     }
     $(".phx-hero").addClass("tekstaro_hidden");
-    var payload = {"search_term": search_term, "locale": locale};
+    var payload = {"search_term": search_term, "exact_match": exact_match, "locale": locale};
     $.ajax('/api/search',
     {
       type: 'POST',  // http method
