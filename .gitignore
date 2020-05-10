@@ -16,5 +16,8 @@ assets/node_modules/
 priv/static
 assets/.babelrc
 assets/package-lock.json
-mix.lock
 .DS_Store
+shipit.sh
+shipit.log
+accessKeys.csv
+credentials.csv

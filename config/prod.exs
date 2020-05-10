@@ -19,20 +19,29 @@ config :tekstaro, Tekstaro.Repo,
 config :tekstaro, TekstaroWeb.Endpoint,
   load_from_system_env: true,
   cache_static_manifest: "priv/static/cache_manifest.json",
+  http: [port: {:system, "PORT"}],
   url: [host: {:system, "HOST"}, port: {:system, "PORT"}],
   server: true,
-  version: Application.spec(:tekstaro, :vsn),
-  secret_key_base: System.get_env("SECRET_KEY_BASE"),
+  version: Application.spec(:tekstaro_web, :vsn),
+  secret_key_base: System.get_env("PHOENIX_SECRET_KEY_BASE"),
   session_cookie_name: System.get_env("SESSION_COOKIE_NAME"),
   session_cookie_signing_salt: System.get_env("SESSION_COOKIE_SIGNING_SALT"),
-  session_cookie_encryption_salt: System.get_env("SESSION_COOKIE_ENCRYPTION_SALT"),
-  http: [
-    port: String.to_integer(System.get_env("PORT") || "4000"),
-    transport_options: [socket_opts: [:inet6]]
-  ]
+  session_cookie_encryption_salt: System.get_env("SESSION_COOKIE_ENCRYPTION_SALT")
 
 # Do not print debug messages in production
-config :logger, level: :info
+config :logger,
+  handle_otp_reports: true,
+  handle_sasl_reports: true,
+  metadata: [:application, :module, :function, :file, :line]
+
+config :logger,
+    backends: [
+      {LoggerFileBackend, :shared_error}
+    ]
+
+config :logger, :shared_error,
+    path: "/var/log/verbose-error.log",
+    level: :debug
 
 # ## SSL Support
 #

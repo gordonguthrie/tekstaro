@@ -374,7 +374,7 @@ msgid "Register"
 msgstr "Enregistrigu"
 
 #, elixir-format
-#: lib/tekstaro_web/templates/page/index.html.eex:23
+#: lib/tekstaro_web/templates/page/index.html.eex:22
 msgid "Results"
 msgstr "Rezultoj"
 
@@ -385,7 +385,7 @@ msgid "Search"
 msgstr "Serĉu"
 
 #, elixir-format
-#: lib/tekstaro_web/templates/page/index.html.eex:18
+#: lib/tekstaro_web/templates/page/index.html.eex:17
 msgid "Search Terms"
 msgstr "Serĉa kondiĉo"
 
@@ -593,11 +593,6 @@ msgstr "finita aspecto"
 #: lib/tekstaro_web/templates/browse/index.html.eex:78
 msgid "conditionals"
 msgstr "kondiĉa"
-
-#, elixir-format
-#: lib/tekstaro/text/text.ex:194
-msgid "fix text server termination, ya fanny"
-msgstr ""
 
 #, elixir-format
 #: lib/tekstaro_web/templates/browse/index.html.eex:64
@@ -965,3 +960,18 @@ msgstr "Bonvolu provizi titolon kaj url"
 #: lib/tekstaro_web/templates/layout/app.html.eex:7
 msgid "Tekstaro - a corpus of Esperanto usage"
 msgstr "Tekstaro de uzado de Esperanto"
+
+#, elixir-format
+#: lib/tekstaro_web/templates/page/index.html.eex:5
+msgid "This is a beta - try it out, talk to me gordon@hypernumbers.com @gordonguthrie"
+msgstr "Estas beta. Uzadu. Parolu al min gordon@hypernumbers.com @gordonguthrie"
+
+#, elixir-format, fuzzy
+#: lib/tekstaro/text/text.ex:193
+msgid "finished"
+msgstr "finita"
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:55
+msgid "loading text"
+msgstr "ŝarga teksto"

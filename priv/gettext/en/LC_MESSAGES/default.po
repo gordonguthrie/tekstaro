@@ -374,7 +374,7 @@ msgid "Register"
 msgstr ""
 
 #, elixir-format
-#: lib/tekstaro_web/templates/page/index.html.eex:23
+#: lib/tekstaro_web/templates/page/index.html.eex:22
 msgid "Results"
 msgstr ""
 
@@ -385,7 +385,7 @@ msgid "Search"
 msgstr ""
 
 #, elixir-format
-#: lib/tekstaro_web/templates/page/index.html.eex:18
+#: lib/tekstaro_web/templates/page/index.html.eex:17
 msgid "Search Terms"
 msgstr ""
 
@@ -592,11 +592,6 @@ msgstr ""
 #, elixir-format
 #: lib/tekstaro_web/templates/browse/index.html.eex:78
 msgid "conditionals"
-msgstr ""
-
-#, elixir-format
-#: lib/tekstaro/text/text.ex:194
-msgid "fix text server termination, ya fanny"
 msgstr ""
 
 #, elixir-format
@@ -964,4 +959,19 @@ msgstr ""
 #, elixir-format
 #: lib/tekstaro_web/templates/layout/app.html.eex:7
 msgid "Tekstaro - a corpus of Esperanto usage"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro_web/templates/page/index.html.eex:5
+msgid "This is a beta - try it out, talk to me gordon@hypernumbers.com @gordonguthrie"
+msgstr ""
+
+#, elixir-format, fuzzy
+#: lib/tekstaro/text/text.ex:193
+msgid "finished"
+msgstr ""
+
+#, elixir-format
+#: lib/tekstaro/text/text.ex:55
+msgid "loading text"
 msgstr ""

@@ -52,8 +52,8 @@ defmodule Tekstaro.Text.Text do
 
   @impl true
   def handle_cast({:load, text, title, url, site, locale}, %State{name: name, texts: texts} = state) do
-    IO.inspect(locale, label: "locale is")
-    IO.inspect(state, label: "state is")
+    msg = GT.gettext("loading text")
+    TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
     canonical = String.trim(text)
 
     fingerprint =
@@ -189,11 +189,10 @@ defmodule Tekstaro.Text.Text do
     {:noreply, %{state | texts_id: id}}
   end
 
-  def handle_cast(something, %State{name: name} = state) do
-    IO.inspect(something, label: "not handling")
-    msg = GT.gettext("fix text server termination, ya fanny")
+  def handle_cast(:terminate, %State{name: name} = state) do
+    msg = GT.gettext("finished")
     TekstaroWeb.Endpoint.broadcast(name, "status", %{status: msg})
-    {:noreply, state}
+    {:stop, "finished processing text", state}
   end
 
   #

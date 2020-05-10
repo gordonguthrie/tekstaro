@@ -12,7 +12,10 @@ config :tekstaro,
 
 # Configures the endpoint
 config :tekstaro, TekstaroWeb.Endpoint,
-  url: [host: "localhost"],
+  server: true,
+  root: ".",
+  version: Application.spec(:tekstaro, :vsn),
+  url: [host: "localhost", port: System.get_env("PORT") || 80],
   secret_key_base: "XNHpxU9VDLDwKB+q7TZfRJWPd5O1e1LBltio1p7pkD2ztPQSVSgCOy6SeYKhJ0eq",
   render_errors: [view: TekstaroWeb.ErrorView, accepts: ~w(html json)],
   pubsub: [name: Tekstaro.PubSub, adapter: Phoenix.PubSub.PG2]
@@ -25,8 +28,8 @@ config :logger, :console,
 # Use Jason for JSON parsing in Phoenix
 config :phoenix, :json_library, Jason
 
+config :tekstaro, TekstaroWeb.Gettext, default_locale: "en", locales: ~w(en eo)
+
 # Import environment specific config. This must remain at the bottom
 # of this file so it overrides the configuration defined above.
 import_config "#{Mix.env()}.exs"
-
-config :tekstaro, TekstaroWeb.Gettext, default_locale: "en", locales: ~w(en eo)
